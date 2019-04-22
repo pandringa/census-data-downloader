@@ -153,6 +153,19 @@ class BaseDownloader(object):
         geoid_function = lambda row: row['state'] + row['place']
         self._download_tables(api_filter, csv_suffix, geoid_function)
 
+    def download_county_subdivisions(self, state):
+        """
+        Download data for all county subdivisions in the provided state.
+        """
+        state_obj = getattr(states, state.upper())
+        csv_suffix = f"county_subdivisions_{state_obj.abbr.lower()}"
+        api_filter = {
+            'for': 'county subdivision:*',
+            'in': f'state: {state_obj.fips}'
+        }
+        geoid_function = lambda row: str(row['state']) + str(row['county']) + str(row['county subdivision'])
+        self._download_tables(api_filter, csv_suffix, geoid_function)
+
     def download_tracts(self, state):
         """
         Download data for all Census tracts in the provided state.
@@ -208,6 +221,7 @@ class BaseDownloader(object):
         """
         self.download_usa()
         for state in states.STATES:
+            self.download_county_subdivisions(state.abbr)
             self.download_tracts(state.abbr)
             self.download_state_legislative_districts_upper(state.abbr)
             self.download_state_legislative_districts_lower(state.abbr)

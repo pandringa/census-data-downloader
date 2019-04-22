@@ -1,0 +1,1199 @@
+B01002_001E,B01002_002E,B01002_003E,name,county,county subdivision,state
+35.0,32.8,36.0,"Precinct 8, Hamilton County, Nebraska",081,92543,31
+44.0,40.3,50.1,"Precinct 6, Hamilton County, Nebraska",081,92523,31
+49.9,56.3,32.6,"Precinct 1, Hamilton County, Nebraska",081,92473,31
+42.3,46.2,37.1,"Precinct 2, Hamilton County, Nebraska",081,92483,31
+41.6,38.7,44.8,"Precinct 4, Hamilton County, Nebraska",081,92503,31
+45.0,43.3,48.5,"Precinct 7, Hamilton County, Nebraska",081,92533,31
+41.8,42.8,41.5,"Precinct 3, Hamilton County, Nebraska",081,92493,31
+44.8,48.4,31.9,"Newton precinct, Jefferson County, Nebraska",095,92110,31
+44.0,47.2,41.5,"Pleasant precinct, Jefferson County, Nebraska",095,92405,31
+49.4,51.1,49.3,"Rock Creek precinct, Jefferson County, Nebraska",095,92760,31
+47.6,43.7,55.4,"Brewster precinct, Blaine County, Nebraska",009,90355,31
+36.8,38.6,34.2,"Dunning precinct, Blaine County, Nebraska",009,90765,31
+56.7,56.7,55.0,"Purdum precinct, Blaine County, Nebraska",009,92690,31
+49.9,50.2,49.7,"Adams precinct, Colfax County, Nebraska",037,90005,31
+29.8,30.4,29.6,"Schuyler city, Colfax County, Nebraska",037,92868,31
+48.0,46.8,48.8,"Lincoln precinct, Colfax County, Nebraska",037,91755,31
+37.7,31.2,50.2,"Richland precinct, Colfax County, Nebraska",037,92725,31
+44.0,53.3,31.5,"Midland precinct, Colfax County, Nebraska",037,91975,31
+33.9,36.2,33.6,"Rogers precinct, Colfax County, Nebraska",037,92780,31
+55.4,56.4,55.1,"Maple Creek precinct, Colfax County, Nebraska",037,91920,31
+42.2,43.4,39.8,"Ayr township, Adams County, Nebraska",001,02900,31
+56.5,57.2,55.7,"Little Blue township, Adams County, Nebraska",001,28385,31
+45.8,45.4,46.4,"Verona township, Adams County, Nebraska",001,50545,31
+50.5,50.3,54.3,"Silver Lake township, Adams County, Nebraska",001,45470,31
+46.8,47.1,45.8,"Cottonwood township, Adams County, Nebraska",001,10810,31
+52.1,22.8,56.0,"Hanover township, Adams County, Nebraska",001,20855,31
+38.9,36.6,42.2,"Kenesaw township, Adams County, Nebraska",001,25195,31
+40.0,42.6,38.8,"Roseland township, Adams County, Nebraska",001,42390,31
+62.0,60.5,62.5,"Richland precinct, Jefferson County, Nebraska",095,92730,31
+56.5,57.4,54.0,"Eureka precinct, Jefferson County, Nebraska",095,90935,31
+51.1,49.8,51.2,"Gibson precinct, Jefferson County, Nebraska",095,91115,31
+52.5,58.5,48.7,"Cub Creek precinct, Jefferson County, Nebraska",095,90620,31
+51.3,51.5,45.9,"Fairbury precinct, Jefferson County, Nebraska",095,90940,31
+58.3,58.8,57.7,"Jefferson precinct, Jefferson County, Nebraska",095,91540,31
+13.3,38.2,8.1,"Meridian precinct, Jefferson County, Nebraska",095,91955,31
+57.9,60.0,56.9,"Washington precinct, Jefferson County, Nebraska",095,93350,31
+60.5,60.6,60.5,"Antelope precinct, Jefferson County, Nebraska",095,90055,31
+44.5,44.4,44.8,"Endicott precinct, Jefferson County, Nebraska",095,90915,31
+43.8,39.4,45.7,"Fairbury city, Jefferson County, Nebraska",095,90938,31
+63.1,-666666666.0,-666666666.0,"Lincoln precinct, Jefferson County, Nebraska",095,91770,31
+32.3,32.5,20.9,"Buckley precinct, Jefferson County, Nebraska",095,90405,31
+47.9,51.0,47.3,"Plymouth precinct, Jefferson County, Nebraska",095,92450,31
+39.8,44.3,39.1,"Newark township, Kearney County, Nebraska",099,34055,31
+62.0,22.7,62.9,"Liberty township, Kearney County, Nebraska",099,27050,31
+37.4,35.1,44.1,"Lincoln township, Kearney County, Nebraska",099,27295,31
+48.1,47.9,52.1,"Lowell township, Kearney County, Nebraska",099,29610,31
+38.9,37.5,44.7,"Oneida township, Kearney County, Nebraska",099,37070,31
+36.4,36.9,36.3,"May township, Kearney County, Nebraska",099,31255,31
+28.0,33.2,27.6,"Blaine township, Kearney County, Nebraska",099,05315,31
+61.1,59.9,61.3,"Logan township, Kearney County, Nebraska",099,28840,31
+57.1,57.3,34.2,"Cosmo township, Kearney County, Nebraska",099,10670,31
+35.6,37.7,34.2,"Eaton township, Kearney County, Nebraska",099,14345,31
+64.4,65.4,64.1,"Sherman township, Kearney County, Nebraska",099,44980,31
+45.7,44.0,48.3,"Hayes township, Kearney County, Nebraska",099,21625,31
+74.2,67.9,74.3,"Grant township, Kearney County, Nebraska",099,19875,31
+43.0,44.4,39.0,"Mirage township, Kearney County, Nebraska",099,32375,31
+42.9,42.8,43.0,"Ogallala city, Keith County, Nebraska",101,92218,31
+57.1,55.0,57.5,"Brule precinct, Keith County, Nebraska",101,90385,31
+45.3,42.9,53.5,"Rural Ogallala precinct, Keith County, Nebraska",101,92807,31
+57.4,57.6,52.8,"Logan precinct, Keith County, Nebraska",101,91820,31
+64.9,68.1,60.8,"Lonergan precinct, Keith County, Nebraska",101,91840,31
+72.2,72.3,72.1,"Whitetail precinct, Keith County, Nebraska",101,93470,31
+46.5,45.9,48.6,"Paxton precinct, Keith County, Nebraska",101,92325,31
+53.8,53.6,54.2,"Kent precinct, Loup County, Nebraska",115,91580,31
+42.0,43.8,38.5,"Madison Square precinct, Loup County, Nebraska",115,91905,31
+38.8,39.5,38.1,"Shell Creek precinct, Colfax County, Nebraska",037,92920,31
+39.5,51.3,33.8,"Wilson precinct, Colfax County, Nebraska",037,93520,31
+37.8,40.0,36.2,"Stanton precinct, Colfax County, Nebraska",037,93070,31
+55.9,56.0,50.0,"Grant precinct, Colfax County, Nebraska",037,91190,31
+40.7,36.3,54.0,"Schuyler precinct, Colfax County, Nebraska",037,92870,31
+37.3,37.7,24.9,"Colfax precinct, Colfax County, Nebraska",037,90560,31
+38.4,41.3,38.0,"Big Springs precinct, Deuel County, Nebraska",049,90250,31
+50.6,50.6,50.5,"Swan precinct, Deuel County, Nebraska",049,93150,31
+45.5,35.9,54.2,"Chappell precinct, Deuel County, Nebraska",049,90495,31
+31.3,31.2,31.5,"Upper Driftwood precinct, Hitchcock County, Nebraska",087,93275,31
+65.4,-666666666.0,-666666666.0,"Webster precinct, Hitchcock County, Nebraska",087,93380,31
+-666666666.0,-666666666.0,-666666666.0,"Cornell precinct, Hitchcock County, Nebraska",087,90575,31
+-666666666.0,-666666666.0,-666666666.0,"Eden precinct, Hitchcock County, Nebraska",087,90840,31
+-666666666.0,-666666666.0,-666666666.0,"Freedom precinct, Hitchcock County, Nebraska",087,91030,31
+65.2,65.9,63.3,"Pleasant Hill precinct, Hitchcock County, Nebraska",087,92410,31
+-666666666.0,-666666666.0,-666666666.0,"Pleasant View precinct, Hitchcock County, Nebraska",087,92425,31
+35.2,-666666666.0,13.8,"Union precinct, Hitchcock County, Nebraska",087,93255,31
+61.5,63.8,59.6,"Beverly precinct, Hitchcock County, Nebraska",087,90240,31
+56.2,55.7,57.5,"Trenton precinct, Hitchcock County, Nebraska",087,93215,31
+42.8,42.4,64.8,"Blackwood precinct, Hitchcock County, Nebraska",087,90260,31
+40.7,41.3,39.9,"Culbertson precinct, Hitchcock County, Nebraska",087,90625,31
+-666666666.0,-666666666.0,-666666666.0,"Driftwood precinct, Hitchcock County, Nebraska",087,90745,31
+58.7,58.6,-666666666.0,"Logan precinct, Hitchcock County, Nebraska",087,91815,31
+-666666666.0,-666666666.0,-666666666.0,"Starkey precinct, Hitchcock County, Nebraska",087,93090,31
+55.9,-666666666.0,-666666666.0,"Grant precinct, Hitchcock County, Nebraska",087,91210,31
+44.3,44.7,43.4,"Riverside precinct, Hitchcock County, Nebraska",087,92750,31
+50.4,50.1,51.0,"Stratton precinct, Hitchcock County, Nebraska",087,93130,31
+46.1,46.8,33.8,"Ridnour precinct, Hitchcock County, Nebraska",087,92740,31
+43.9,32.3,51.9,"Palisade precinct, Hitchcock County, Nebraska",087,92295,31
+37.8,37.1,53.3,"Gandy precinct, Logan County, Nebraska",113,91055,31
+21.7,21.6,29.3,"Logan precinct, Logan County, Nebraska",113,91825,31
+45.4,42.8,48.1,"Stapleton No. 1 precinct, Logan County, Nebraska",113,93080,31
+40.0,40.0,39.0,"Stapleton No. 2 precinct, Logan County, Nebraska",113,93085,31
+67.9,-666666666.0,-666666666.0,"Loup township, Platte County, Nebraska",141,29435,31
+46.2,42.2,58.5,"Monroe township, Platte County, Nebraska",141,32620,31
+52.7,54.1,52.0,"Blaine township, Adams County, Nebraska",001,05210,31
+36.4,33.6,38.7,"Hastings city, Adams County, Nebraska",001,21415,31
+42.8,42.8,44.5,"Wanda township, Adams County, Nebraska",001,51315,31
+55.9,56.5,55.3,"West Blue township, Adams County, Nebraska",001,52155,31
+41.5,39.8,42.9,"Highland township, Adams County, Nebraska",001,22360,31
+42.1,42.8,39.3,"Juniata township, Adams County, Nebraska",001,24985,31
+37.5,41.3,35.9,"Zero township, Adams County, Nebraska",001,54150,31
+40.3,40.5,34.8,"Denver township, Adams County, Nebraska",001,12805,31
+31.3,31.5,31.2,"Logan township, Adams County, Nebraska",001,28490,31
+45.6,42.5,45.8,"North Rushville precinct, Sheridan County, Nebraska",161,92185,31
+65.3,67.1,62.0,"South Rushville precinct, Sheridan County, Nebraska",161,93015,31
+48.8,41.6,50.3,"Mirage precinct, Sheridan County, Nebraska",161,92005,31
+38.0,33.3,44.1,"Rushville city, Sheridan County, Nebraska",161,92808,31
+58.4,61.8,53.7,"East Gordon precinct, Sheridan County, Nebraska",161,90795,31
+47.3,37.8,58.2,"Wounded Knee precinct, Sheridan County, Nebraska",161,93555,31
+56.3,55.9,57.7,"Hay Springs precinct, Sheridan County, Nebraska",161,91355,31
+45.4,45.2,-666666666.0,"West Gordon precinct, Sheridan County, Nebraska",161,93425,31
+42.6,40.6,46.0,"Gordon city, Sheridan County, Nebraska",161,91167,31
+39.4,32.4,42.2,"North Bluff precinct, Lancaster County, Nebraska",109,92140,31
+35.0,35.9,34.2,"Nemaha precinct, Lancaster County, Nebraska",109,92080,31
+44.6,38.9,46.0,"Denton precinct, Lancaster County, Nebraska",109,90685,31
+42.1,42.3,40.8,"Elk precinct, Lancaster County, Nebraska",109,90860,31
+47.8,48.6,47.4,"Grant precinct, Lancaster County, Nebraska",109,91215,31
+48.8,47.2,51.5,"Highland precinct, Lancaster County, Nebraska",109,91405,31
+50.7,56.6,47.5,"Oak precinct, Lancaster County, Nebraska",109,92210,31
+51.3,42.9,53.2,"Lancaster precinct, Lancaster County, Nebraska",109,91675,31
+35.1,30.7,38.3,"Saltillo precinct, Lancaster County, Nebraska",109,92855,31
+40.3,39.9,40.4,"South Pass precinct, Lancaster County, Nebraska",109,93000,31
+45.8,35.6,49.4,"Stockton precinct, Lancaster County, Nebraska",109,93110,31
+54.9,65.1,54.9,"Mill precinct, Lancaster County, Nebraska",109,91985,31
+40.3,40.7,32.0,"Olive Branch precinct, Lancaster County, Nebraska",109,92230,31
+47.7,47.5,49.3,"Lincoln precinct, Lancaster County, Nebraska",109,91777,31
+51.0,46.8,53.0,"Hyannis precinct, Grant County, Nebraska",075,91495,31
+63.0,62.8,63.1,"Ashby precinct, Grant County, Nebraska",075,90090,31
+27.6,22.5,28.5,"Whitman precinct, Grant County, Nebraska",075,93480,31
+48.5,41.5,50.1,"Greeley precinct, Greeley County, Nebraska",077,91235,31
+41.6,43.8,38.5,"Spalding precinct, Greeley County, Nebraska",077,93028,31
+48.1,48.2,48.1,"Scotia precinct, Greeley County, Nebraska",077,92873,31
+49.5,49.2,49.7,"Harrison township, Hall County, Nebraska",079,21135,31
+52.7,52.5,57.9,"Center township, Hall County, Nebraska",079,08325,31
+34.1,28.5,34.9,"Mayfield township, Hall County, Nebraska",079,31290,31
+61.3,63.1,60.7,"Martin township, Hall County, Nebraska",079,30870,31
+39.9,39.3,40.7,"Cameron township, Hall County, Nebraska",079,07800,31
+43.3,42.1,43.6,"Prairie Creek township, Hall County, Nebraska",079,40080,31
+40.4,41.7,39.5,"South Loup township, Hall County, Nebraska",079,45785,31
+51.2,48.7,51.5,"Washington township, Hall County, Nebraska",079,51455,31
+33.4,31.0,37.0,"Doniphan township, Hall County, Nebraska",079,13400,31
+38.3,38.3,38.1,"Wood River township, Hall County, Nebraska",079,53695,31
+38.4,30.2,44.8,"Lake township, Hall County, Nebraska",079,25930,31
+48.3,45.5,51.6,"South Platte township, Hall County, Nebraska",079,45960,31
+37.6,37.1,39.2,"Alda township, Hall County, Nebraska",079,00660,31
+54.7,54.5,55.2,"Jackson township, Hall County, Nebraska",079,24390,31
+34.7,33.3,36.0,"Grand Island city, Hall County, Nebraska",079,19595,31
+30.2,32.5,29.4,"Swan Lake precinct, Hayes County, Nebraska",085,93160,31
+63.7,63.5,-666666666.0,"Valley precinct, Hayes County, Nebraska",085,93295,31
+50.2,48.3,50.6,"Berlin precinct, Otoe County, Nebraska",131,90230,31
+40.3,41.7,36.7,"Hendricks precinct, Otoe County, Nebraska",131,91380,31
+50.2,54.5,42.1,"South Palmyra precinct, Otoe County, Nebraska",131,92998,31
+36.0,32.0,36.6,"Belmont precinct, Otoe County, Nebraska",131,90201,31
+40.5,38.8,43.8,"McWilliams precinct, Otoe County, Nebraska",131,91895,31
+58.9,-666666666.0,57.5,"Rock Creek precinct, Otoe County, Nebraska",131,92770,31
+39.7,39.6,43.5,"South Branch precinct, Otoe County, Nebraska",131,92970,31
+37.1,35.3,41.8,"Nebraska City city, Otoe County, Nebraska",131,92063,31
+47.4,40.8,47.7,"North Russell precinct, Otoe County, Nebraska",131,92187,31
+57.6,57.6,57.6,"Otoe precinct, Otoe County, Nebraska",131,92280,31
+52.3,48.3,55.2,"Wyoming precinct, Otoe County, Nebraska",131,93565,31
+41.7,41.3,42.2,"North Palmyra precinct, Otoe County, Nebraska",131,92174,31
+42.1,41.4,43.3,"Syracuse precinct, Otoe County, Nebraska",131,93163,31
+51.7,51.7,52.1,"Four Mile precinct, Otoe County, Nebraska",131,91020,31
+59.9,59.4,61.8,"Osage precinct, Otoe County, Nebraska",131,92250,31
+46.8,45.8,47.8,"South Russell precinct, Otoe County, Nebraska",131,93016,31
+43.6,43.1,46.2,"Delaware precinct, Otoe County, Nebraska",131,90680,31
+32.0,31.7,34.7,"North Branch precinct, Otoe County, Nebraska",131,92146,31
+50.6,48.7,51.0,"East Valley precinct, Red Willow County, Nebraska",145,90825,31
+51.2,51.1,51.5,"Indianola precinct, Red Willow County, Nebraska",145,91520,31
+30.2,30.8,-666666666.0,"North Valley precinct, Red Willow County, Nebraska",145,92200,31
+52.8,52.7,59.1,"Perry precinct, Red Willow County, Nebraska",145,92340,31
+-666666666.0,-666666666.0,-666666666.0,"Coleman precinct, Red Willow County, Nebraska",145,90555,31
+-666666666.0,-666666666.0,-666666666.0,"Grant precinct, Red Willow County, Nebraska",145,91225,31
+54.3,-666666666.0,-666666666.0,"Driftwood precinct, Red Willow County, Nebraska",145,90750,31
+49.5,55.3,49.0,"Gerver precinct, Red Willow County, Nebraska",145,91110,31
+67.8,30.0,-666666666.0,"Box Elder precinct, Red Willow County, Nebraska",145,90330,31
+54.3,57.3,54.0,"Lebanon precinct, Red Willow County, Nebraska",145,91705,31
+64.1,50.3,64.9,"Tyrone precinct, Red Willow County, Nebraska",145,93235,31
+43.6,43.6,43.7,"Beaver precinct, Red Willow County, Nebraska",145,90160,31
+37.5,36.3,38.9,"Geneva township, Fillmore County, Nebraska",059,18440,31
+50.4,45.8,55.3,"Madison township, Fillmore County, Nebraska",059,30205,31
+51.0,48.4,58.2,"Glengary township, Fillmore County, Nebraska",059,18965,31
+54.9,55.2,54.7,"West Blue township, Fillmore County, Nebraska",059,52190,31
+53.8,49.3,57.2,"Stanton township, Fillmore County, Nebraska",059,46765,31
+42.5,42.6,40.9,"Momence township, Fillmore County, Nebraska",059,32515,31
+53.6,54.8,52.5,"Bryant township, Fillmore County, Nebraska",059,06925,31
+69.5,67.6,-666666666.0,"Chelsea township, Fillmore County, Nebraska",059,08955,31
+43.2,43.7,36.3,"Franklin township, Fillmore County, Nebraska",059,17495,31
+44.9,44.5,45.8,"Exeter-Fairmont Consolidated township, Fillmore County, Nebraska",059,16395,31
+52.8,53.8,52.6,"Grafton township, Fillmore County, Nebraska",059,19490,31
+54.8,56.5,54.7,"Liberty township, Fillmore County, Nebraska",059,26945,31
+52.3,57.0,42.8,"Belle Prairie township, Fillmore County, Nebraska",059,03915,31
+51.4,55.4,43.4,"Blue Creek precinct, Garden County, Nebraska",069,90285,31
+50.4,46.8,52.1,"Lost Creek precinct, Garden County, Nebraska",069,91860,31
+70.6,71.3,70.3,"Lisco precinct, Garden County, Nebraska",069,91790,31
+47.9,46.7,53.8,"Oshkosh No. 1 precinct, Garden County, Nebraska",069,92270,31
+36.8,37.6,35.6,"Centerville precinct, Lancaster County, Nebraska",109,90480,31
+57.3,54.5,57.3,"Taylor precinct, Loup County, Nebraska",115,93175,31
+56.8,52.6,58.9,"Green Garden precinct, Madison County, Nebraska",119,91240,31
+35.6,34.4,36.6,"Norfolk city, Madison County, Nebraska",119,92133,31
+52.4,53.6,45.8,"Fairview precinct, Madison County, Nebraska",119,90965,31
+40.5,40.7,40.3,"Tilden city, Madison County, Nebraska",119,93203,31
+54.8,56.0,54.2,"Valley precinct, Madison County, Nebraska",119,93300,31
+41.3,32.9,41.4,"Union precinct, Madison County, Nebraska",119,93260,31
+29.5,29.7,29.3,"Emerick precinct, Madison County, Nebraska",119,90905,31
+47.4,50.0,36.4,"Madison precinct, Madison County, Nebraska",119,91900,31
+40.3,34.3,44.1,"Battle Creek precinct, Madison County, Nebraska",119,90140,31
+35.3,31.7,37.3,"Madison city, Madison County, Nebraska",119,91902,31
+56.2,56.0,56.5,"Grove precinct, Madison County, Nebraska",119,91250,31
+41.0,38.3,42.5,"Highland precinct, Madison County, Nebraska",119,91410,31
+33.7,35.5,26.4,"Kalamazoo precinct, Madison County, Nebraska",119,91560,31
+40.2,37.9,44.6,"Norfolk precinct, Madison County, Nebraska",119,92135,31
+29.4,33.5,29.0,"Shell Creek precinct, Madison County, Nebraska",119,92925,31
+36.3,34.8,38.5,"Meadow Grove-Jefferson precinct, Madison County, Nebraska",119,91942,31
+49.9,49.9,39.9,"Schoolcraft precinct, Madison County, Nebraska",119,92865,31
+41.6,48.5,40.6,"Warnerville precinct, Madison County, Nebraska",119,93340,31
+47.9,43.1,49.5,"Newman Grove city, Madison County, Nebraska",119,92103,31
+32.4,31.7,33.3,"Lincoln city, Lancaster County, Nebraska",109,91753,31
+46.5,46.6,46.5,"Little Salt precinct, Lancaster County, Nebraska",109,91795,31
+50.6,52.7,50.4,"Rock Creek precinct, Lancaster County, Nebraska",109,92765,31
+52.8,54.4,52.1,"Stevens Creek precinct, Lancaster County, Nebraska",109,93100,31
+33.4,33.2,33.5,"Waverly precinct, Lancaster County, Nebraska",109,93370,31
+43.7,44.7,32.2,"West Oak precinct, Lancaster County, Nebraska",109,93445,31
+45.2,45.6,44.5,"Buda precinct, Lancaster County, Nebraska",109,90410,31
+40.0,40.9,39.2,"Panama precinct, Lancaster County, Nebraska",109,92305,31
+48.9,50.3,48.0,"Middle Creek precinct, Lancaster County, Nebraska",109,91965,31
+48.7,48.6,48.7,"Yankee Hill precinct, Lancaster County, Nebraska",109,93575,31
+48.6,45.4,51.7,"North Manchester precinct, Boone County, Nebraska",011,92168,31
+35.0,17.9,41.4,"Boone precinct, Boone County, Nebraska",011,90310,31
+36.6,29.2,38.5,"Dublin-Bonanza precinct, Boone County, Nebraska",011,90762,31
+49.1,50.9,44.0,"Oakland precinct, Boone County, Nebraska",011,92215,31
+40.1,40.6,35.9,"Beaver precinct, Boone County, Nebraska",011,90145,31
+30.3,36.6,28.5,"North Branch-Shell Creek precinct, Boone County, Nebraska",011,92147,31
+33.7,35.0,33.4,"Southeast Manchester precinct, Boone County, Nebraska",011,92987,31
+55.0,54.3,57.6,"Southwest Manchester precinct, Boone County, Nebraska",011,93026,31
+50.3,47.6,50.9,"Cedar precinct, Boone County, Nebraska",011,90465,31
+52.3,-666666666.0,-666666666.0,"Beaver precinct, Nuckolls County, Nebraska",129,90155,31
+54.4,58.7,53.1,"Spring Creek precinct, Nuckolls County, Nebraska",129,93060,31
+33.5,22.9,36.8,"Elk precinct, Nuckolls County, Nebraska",129,90865,31
+52.4,50.3,53.7,"Superior city, Nuckolls County, Nebraska",129,93142,31
+44.7,40.3,46.8,"Nelson precinct, Nuckolls County, Nebraska",129,92070,31
+48.9,50.8,47.0,"Hardy precinct, Nuckolls County, Nebraska",129,91305,31
+54.7,50.4,55.9,"Victor precinct, Nuckolls County, Nebraska",129,93320,31
+44.5,-666666666.0,23.6,"Selden precinct, Rock County, Nebraska",149,92895,31
+44.3,44.4,44.3,"Center precinct, Rock County, Nebraska",149,90475,31
+62.2,31.3,-666666666.0,"Lay precinct, Rock County, Nebraska",149,91700,31
+79.2,-666666666.0,72.0,"Kirkwood precinct, Rock County, Nebraska",149,91645,31
+-666666666.0,-666666666.0,-666666666.0,"Gracy precinct, Rock County, Nebraska",149,91185,31
+-666666666.0,-666666666.0,-666666666.0,"Brinkerhoff precinct, Rock County, Nebraska",149,90360,31
+23.3,22.9,46.3,"Pewaukee precinct, Rock County, Nebraska",149,92350,31
+31.0,-666666666.0,29.5,"Harrison precinct, Rock County, Nebraska",149,91325,31
+56.1,55.3,57.5,"Newport precinct, Rock County, Nebraska",149,92105,31
+52.0,51.2,52.9,"Bassett precinct, Rock County, Nebraska",149,90135,31
+38.1,37.9,38.6,"Ashland township, Saunders County, Nebraska",155,02340,31
+32.0,31.7,33.3,"Elk township, Saunders County, Nebraska",155,14870,31
+53.6,48.4,54.8,"Stocking township, Saunders County, Nebraska",155,47255,31
+48.4,50.1,47.5,"Bohemia township, Saunders County, Nebraska",155,05770,31
+40.0,43.7,38.2,"Center township, Saunders County, Nebraska",155,08430,31
+45.9,47.6,45.4,"Leshara township, Saunders County, Nebraska",155,26665,31
+45.5,32.6,50.5,"Marble township, Saunders County, Nebraska",155,30555,31
+35.0,32.2,36.6,"Marietta township, Saunders County, Nebraska",155,30590,31
+35.6,35.7,34.9,"Morse Bluff township, Saunders County, Nebraska",155,32900,31
+49.7,57.3,44.6,"Rock Creek township, Saunders County, Nebraska",155,41900,31
+29.5,27.3,38.7,"South Cedar township, Saunders County, Nebraska",155,45750,31
+55.0,53.5,55.7,"Green township, Saunders County, Nebraska",155,20085,31
+36.1,29.6,47.3,"Mariposa township, Saunders County, Nebraska",155,30695,31
+53.1,52.5,53.1,"Pohocco township, Saunders County, Nebraska",155,39625,31
+39.5,39.4,39.6,"Union township, Saunders County, Nebraska",155,49810,31
+52.1,53.5,42.3,"Chapman township, Saunders County, Nebraska",155,08850,31
+39.8,39.5,43.6,"Chester township, Saunders County, Nebraska",155,09060,31
+38.5,36.8,38.5,"Clear Creek township, Saunders County, Nebraska",155,09410,31
+44.6,46.3,29.9,"Newman township, Saunders County, Nebraska",155,34195,31
+51.5,52.0,51.3,"Oak Creek township, Saunders County, Nebraska",155,35315,31
+42.1,41.9,42.2,"Richland township, Saunders County, Nebraska",155,41392,31
+35.3,35.1,35.5,"Wahoo city, Saunders County, Nebraska",155,50965,31
+44.0,47.6,37.2,"Wahoo township, Saunders County, Nebraska",155,51000,31
+40.9,39.0,47.5,"North Cedar township, Saunders County, Nebraska",155,34755,31
+52.8,33.8,53.9,"Douglas township, Saunders County, Nebraska",155,13540,31
+48.5,44.9,49.8,"Fanning precinct, Scotts Bluff County, Nebraska",157,90980,31
+37.7,34.4,42.6,"Gering city, Scotts Bluff County, Nebraska",157,91093,31
+45.0,44.5,46.0,"Kiowa precinct, Scotts Bluff County, Nebraska",157,91635,31
+34.6,32.4,35.7,"Gering precinct, Scotts Bluff County, Nebraska",157,91095,31
+40.5,38.0,43.5,"Mitchell city, Scotts Bluff County, Nebraska",157,92013,31
+35.7,35.1,36.6,"Scottsbluff city, Scotts Bluff County, Nebraska",157,92883,31
+37.6,33.8,40.4,"Ford precinct, Scotts Bluff County, Nebraska",157,91005,31
+58.5,58.5,58.6,"Thurman precinct, Rock County, Nebraska",149,93200,31
+54.1,-666666666.0,53.3,"Allen precinct, Frontier County, Nebraska",063,90025,31
+16.5,15.5,-666666666.0,"Kinkaid precinct, Rock County, Nebraska",149,91625,31
+31.8,31.6,34.1,"Blaine precinct, Rock County, Nebraska",149,90280,31
+68.3,-666666666.0,-666666666.0,"Long Pine precinct, Rock County, Nebraska",149,91845,31
+48.1,44.7,48.4,"Long Springs precinct, Banner County, Nebraska",007,91850,31
+45.7,45.8,45.5,"Curtis precinct, Frontier County, Nebraska",063,90630,31
+47.5,49.8,43.8,"Harrison precinct, Sherman County, Nebraska",163,91327,31
+46.3,41.6,50.2,"Central Loup City precinct, Sherman County, Nebraska",163,90482,31
+47.8,47.3,56.6,"Mitchell precinct, Scotts Bluff County, Nebraska",157,92015,31
+59.0,58.9,59.1,"Funston precinct, Scotts Bluff County, Nebraska",157,91045,31
+51.4,55.4,49.7,"West Winters Creek precinct, Scotts Bluff County, Nebraska",157,93460,31
+52.1,54.5,48.3,"Roubadeau precinct, Scotts Bluff County, Nebraska",157,92800,31
+40.6,39.5,40.6,"Castle Rock precinct, Scotts Bluff County, Nebraska",157,90460,31
+50.1,50.5,48.7,"Highland precinct, Scotts Bluff County, Nebraska",157,91425,31
+51.2,53.1,45.3,"East Winters Creek precinct, Scotts Bluff County, Nebraska",157,90830,31
+40.6,40.4,40.9,"Dewey Tabor precinct, Scotts Bluff County, Nebraska",157,90703,31
+49.5,50.5,47.5,"Deer Creek precinct, Wayne County, Nebraska",179,90670,31
+40.8,38.8,46.2,"Hoskins precinct, Wayne County, Nebraska",179,91470,31
+32.2,32.8,29.8,"Sherman precinct, Wayne County, Nebraska",179,92945,31
+29.5,29.9,28.8,"Hancock precinct, Wayne County, Nebraska",179,91300,31
+30.6,26.1,35.8,"Strahan precinct, Wayne County, Nebraska",179,93125,31
+43.7,56.0,15.9,"Wilbur precinct, Wayne County, Nebraska",179,93495,31
+21.6,22.1,21.3,"Hunter precinct, Wayne County, Nebraska",179,91490,31
+56.3,59.3,46.5,"Leslie precinct, Wayne County, Nebraska",179,91725,31
+45.5,25.4,48.9,"Garfield precinct, Wayne County, Nebraska",179,91085,31
+37.8,36.0,43.5,"Logan precinct, Wayne County, Nebraska",179,91835,31
+54.0,41.9,54.6,"Plum Creek precinct, Wayne County, Nebraska",179,92440,31
+45.3,45.7,43.8,"Chapin precinct, Wayne County, Nebraska",179,90490,31
+31.6,31.7,31.4,"Brenna precinct, Wayne County, Nebraska",179,90350,31
+58.0,60.7,57.1,"Mullen precinct, Hooker County, Nebraska",091,92055,31
+35.4,71.3,8.9,"Haynes precinct, Morrill County, Nebraska",123,91345,31
+59.0,62.5,54.5,"Redington precinct, Morrill County, Nebraska",123,92710,31
+32.8,31.4,34.9,"West Bayard precinct, Morrill County, Nebraska",123,93405,31
+40.8,40.2,43.4,"Broadwater precinct, Morrill County, Nebraska",123,90365,31
+44.5,39.3,52.3,"West Camp Clarke precinct, Morrill County, Nebraska",123,93415,31
+55.0,53.0,55.1,"North Camp Clarke precinct, Morrill County, Nebraska",123,92150,31
+39.0,42.8,36.4,"East Camp Clarke precinct, Morrill County, Nebraska",123,90780,31
+49.8,51.8,49.6,"East Bayard precinct, Morrill County, Nebraska",123,90775,31
+18.3,18.5,17.3,"Gilchrist precinct, Morrill County, Nebraska",123,91120,31
+60.6,71.1,59.5,"Douglas precinct, Nemaha County, Nebraska",127,90740,31
+22.5,23.2,21.0,"Peru precinct, Nemaha County, Nebraska",127,92345,31
+49.9,45.6,52.0,"Lafayette precinct, Nemaha County, Nebraska",127,91658,31
+52.4,59.0,50.7,"Brownville precinct, Nemaha County, Nebraska",127,90380,31
+47.0,46.6,48.0,"Nemaha precinct, Nemaha County, Nebraska",127,92085,31
+45.9,46.4,43.7,"Washington precinct, Nemaha County, Nebraska",127,93355,31
+45.0,29.8,50.1,"Benton precinct, Nemaha County, Nebraska",127,90225,31
+34.8,35.8,33.8,"Glen Rock precinct, Nemaha County, Nebraska",127,91155,31
+-666666666.0,-666666666.0,-666666666.0,"Danbury precinct, Red Willow County, Nebraska",145,90645,31
+-666666666.0,-666666666.0,-666666666.0,"Alliance precinct, Red Willow County, Nebraska",145,90040,31
+40.9,40.9,43.1,"Bondville precinct, Red Willow County, Nebraska",145,90305,31
+33.5,12.3,39.6,"Fritsch precinct, Red Willow County, Nebraska",145,91040,31
+36.6,34.9,40.3,"McCook city, Red Willow County, Nebraska",145,91882,31
+32.9,18.8,42.0,"Red Willow precinct, Red Willow County, Nebraska",145,92715,31
+41.7,40.1,53.8,"Willow Grove precinct, Red Willow County, Nebraska",145,93505,31
+59.5,59.4,59.5,"Valley Grange precinct, Red Willow County, Nebraska",145,93310,31
+50.9,-666666666.0,-666666666.0,"Missouri Ridge precinct, Red Willow County, Nebraska",145,92010,31
+40.5,34.0,46.8,"Hartington city, Cedar County, Nebraska",027,91329,31
+34.4,38.5,30.9,"Precinct 8, Cedar County, Nebraska",027,92540,31
+39.0,46.3,28.5,"Precinct 3, Cedar County, Nebraska",027,92490,31
+52.5,60.2,50.4,"Precinct 6, Cedar County, Nebraska",027,92520,31
+54.8,52.0,56.2,"Precinct 1, Cedar County, Nebraska",027,92470,31
+39.5,40.5,37.7,"Precinct 5, Cedar County, Nebraska",027,92510,31
+39.3,39.3,39.5,"Precinct 21, Cedar County, Nebraska",027,92610,31
+39.8,41.3,39.8,"Precinct 4, Cedar County, Nebraska",027,92500,31
+42.0,44.3,41.6,"Precinct 7, Cedar County, Nebraska",027,92530,31
+39.8,39.7,52.1,"Precinct 10, Cedar County, Nebraska",027,92555,31
+26.8,26.6,27.3,"Precinct 14, Cedar County, Nebraska",027,92575,31
+29.9,48.3,29.1,"Precinct 17, Cedar County, Nebraska",027,92590,31
+55.5,53.8,55.7,"Precinct 9A, Cedar County, Nebraska",027,92550,31
+57.7,57.7,57.8,"Precinct 13, Cedar County, Nebraska",027,92570,31
+47.6,41.7,50.4,"Precinct 16, Cedar County, Nebraska",027,92585,31
+49.7,45.5,51.7,"Randolph city, Cedar County, Nebraska",027,92696,31
+42.1,42.0,42.2,"Precinct 12, Cedar County, Nebraska",027,92565,31
+44.3,49.4,37.5,"Precinct 20, Cedar County, Nebraska",027,92605,31
+46.9,46.7,50.4,"Precinct 2, Cedar County, Nebraska",027,92480,31
+48.5,50.3,31.0,"Precinct 11, Cedar County, Nebraska",027,92560,31
+52.0,53.1,48.9,"Precinct 15, Cedar County, Nebraska",027,92580,31
+46.3,42.7,53.2,"Precinct 19, Cedar County, Nebraska",027,92600,31
+50.5,52.0,41.0,"Precinct 18, Cedar County, Nebraska",027,92595,31
+67.9,67.9,70.0,"Bedford precinct, Nemaha County, Nebraska",127,90180,31
+37.8,36.6,40.3,"Auburn city, Nemaha County, Nebraska",127,90102,31
+56.5,57.9,55.5,"Precinct J, Seward County, Nebraska",159,92655,31
+34.4,29.9,38.2,"Precinct O, Seward County, Nebraska",159,92675,31
+33.9,31.9,35.3,"Seward city, Seward County, Nebraska",159,92907,31
+67.6,67.9,59.6,"Precinct L, Seward County, Nebraska",159,92661,31
+42.8,45.3,36.6,"Precinct I, Seward County, Nebraska",159,92650,31
+48.0,48.4,47.4,"Precinct P, Seward County, Nebraska",159,92680,31
+43.4,36.5,44.5,"Precinct K, Seward County, Nebraska",159,92660,31
+53.5,55.2,51.4,"Precinct M, Seward County, Nebraska",159,92664,31
+27.3,27.3,27.3,"Precinct N, Seward County, Nebraska",159,92672,31
+39.3,35.1,41.9,"Emerson precinct, Dakota County, Nebraska",043,90910,31
+38.4,34.5,41.2,"St. Johns precinct, Dakota County, Nebraska",043,92825,31
+33.9,33.0,36.8,"Dakota City city, Dakota County, Nebraska",043,90642,31
+48.3,42.3,53.5,"Hubbard precinct, Dakota County, Nebraska",043,91475,31
+31.8,29.1,32.5,"South Sioux City city, Dakota County, Nebraska",043,93018,31
+35.4,32.8,38.3,"Covington precinct, Dakota County, Nebraska",043,90590,31
+41.1,37.5,43.2,"Dakota precinct, Dakota County, Nebraska",043,90640,31
+49.4,50.0,49.1,"Omadi precinct, Dakota County, Nebraska",043,92235,31
+56.1,56.3,56.0,"Precinct 11, Dawes County, Nebraska",045,92562,31
+51.7,47.7,53.3,"Precinct 10, Dawes County, Nebraska",045,92557,31
+48.4,44.4,51.0,"Sterling precinct, Johnson County, Nebraska",097,93095,31
+43.4,45.4,29.4,"Todd Creek precinct, Johnson County, Nebraska",097,93210,31
+36.8,36.4,71.1,"Maple Grove precinct, Johnson County, Nebraska",097,91930,31
+36.3,36.0,52.6,"Nemaha precinct, Johnson County, Nebraska",097,92075,31
+39.6,37.4,40.6,"Spring Creek precinct, Johnson County, Nebraska",097,93055,31
+45.1,37.4,50.0,"Tecumseh city, Johnson County, Nebraska",097,93177,31
+63.3,63.8,61.6,"Vesta precinct, Johnson County, Nebraska",097,93315,31
+57.0,57.7,53.8,"Helena precinct, Johnson County, Nebraska",097,91365,31
+42.0,51.1,41.3,"Lincoln precinct, Johnson County, Nebraska",097,91775,31
+55.3,53.6,66.3,"Western precinct, Johnson County, Nebraska",097,93420,31
+43.8,32.5,46.7,"Potter precinct, Cheyenne County, Nebraska",033,92465,31
+39.1,39.5,38.8,"Sidney city, Cheyenne County, Nebraska",033,92946,31
+50.9,52.3,47.5,"Gurley precinct, Cheyenne County, Nebraska",033,91265,31
+38.6,38.7,38.5,"Lodgepole precinct, Cheyenne County, Nebraska",033,91805,31
+40.1,42.6,37.4,"Union Valley precinct, Cheyenne County, Nebraska",033,93270,31
+33.8,32.6,39.5,"Coyote precinct, Dawson County, Nebraska",047,90595,31
+33.9,29.5,35.8,"Wood River precinct, Dawson County, Nebraska",047,93540,31
+24.8,24.9,21.9,"German precinct, Dawson County, Nebraska",047,91100,31
+40.9,41.3,40.6,"Cozad city, Dawson County, Nebraska",047,90598,31
+38.5,35.5,44.5,"Cozad precinct, Dawson County, Nebraska",047,90600,31
+38.8,44.4,34.0,"Farnam precinct, Dawson County, Nebraska",047,90990,31
+40.1,38.2,42.0,"Gillan precinct, Dawson County, Nebraska",047,91130,31
+55.4,55.2,56.0,"Ringgold precinct, Dawson County, Nebraska",047,92745,31
+36.8,40.9,30.8,"Grant precinct, Dawson County, Nebraska",047,91195,31
+35.7,44.4,32.2,"Lexington precinct, Dawson County, Nebraska",047,91730,31
+49.7,49.5,50.4,"Gothenburg precinct, Dawson County, Nebraska",047,91170,31
+30.3,29.8,31.9,"Lexington city, Dawson County, Nebraska",047,91728,31
+31.3,37.0,26.1,"Elm township, Antelope County, Nebraska",003,15255,31
+-666666666.0,-666666666.0,-666666666.0,"Grant township, Antelope County, Nebraska",003,19665,31
+38.0,30.4,53.2,"Tilden city, Antelope County, Nebraska",003,48935,31
+31.5,34.3,31.0,"Willow township, Antelope County, Nebraska",003,53135,31
+46.1,51.4,23.6,"Cedar township, Antelope County, Nebraska",003,08045,31
+49.7,53.8,48.6,"Crawford township, Antelope County, Nebraska",003,11160,31
+37.7,44.6,37.1,"Lincoln township, Antelope County, Nebraska",003,27155,31
+21.8,21.7,21.9,"Custer township, Antelope County, Nebraska",003,11895,31
+51.2,51.5,50.7,"Elgin township, Antelope County, Nebraska",003,14765,31
+54.8,55.1,54.8,"Logan township, Antelope County, Nebraska",003,28525,31
+45.9,43.2,46.7,"Neligh city, Antelope County, Nebraska",003,33775,31
+64.0,64.9,43.8,"Stanton township, Antelope County, Nebraska",003,46730,31
+57.6,52.1,60.3,"Neligh township, Antelope County, Nebraska",003,33810,31
+51.7,52.1,42.5,"Royal township, Antelope County, Nebraska",003,42530,31
+38.9,38.3,43.3,"Clearwater township, Antelope County, Nebraska",003,09480,31
+50.4,50.9,48.5,"Ellsworth township, Antelope County, Nebraska",003,15185,31
+52.1,49.3,56.0,"Oakdale township, Antelope County, Nebraska",003,35420,31
+35.6,38.6,34.5,"Bazile township, Antelope County, Nebraska",003,03320,31
+33.9,30.8,34.3,"Frenchtown township, Antelope County, Nebraska",003,17740,31
+77.5,-666666666.0,63.5,"Sherman township, Antelope County, Nebraska",003,44875,31
+52.3,27.6,52.6,"Eden township, Antelope County, Nebraska",003,14415,31
+70.8,-666666666.0,-666666666.0,"Ord township, Antelope County, Nebraska",003,37245,31
+38.5,40.5,38.0,"Garfield township, Antelope County, Nebraska",003,18055,31
+43.0,22.5,-666666666.0,"Verdigris township, Antelope County, Nebraska",003,50440,31
+78.7,83.5,-666666666.0,"Blaine township, Antelope County, Nebraska",003,05245,31
+39.2,39.2,42.5,"Burnett township, Antelope County, Nebraska",003,07170,31
+48.0,46.0,49.6,"Imperial West precinct, Chase County, Nebraska",029,91510,31
+43.6,43.5,43.9,"Imperial East precinct, Chase County, Nebraska",029,91500,31
+33.8,35.2,31.0,"Imperial Rural precinct, Chase County, Nebraska",029,91505,31
+42.8,41.8,46.4,"Wauneta precinct, Chase County, Nebraska",029,93365,31
+52.9,51.5,55.7,"Alexis township, Butler County, Nebraska",023,00765,31
+46.3,46.8,43.5,"Oak Creek township, Butler County, Nebraska",023,35280,31
+28.7,28.5,29.5,"Platte township, Butler County, Nebraska",023,39240,31
+38.5,39.1,38.3,"Bone Creek township, Butler County, Nebraska",023,05805,31
+51.6,42.6,60.1,"Olive township, Butler County, Nebraska",023,36120,31
+39.6,36.8,43.1,"Overton precinct, Dawson County, Nebraska",047,92285,31
+39.3,53.5,35.0,"Fairview precinct, Dawson County, Nebraska",047,90955,31
+59.2,57.6,59.5,"Platte precinct, Dawson County, Nebraska",047,92385,31
+37.5,37.7,37.4,"Gothenburg city, Dawson County, Nebraska",047,91169,31
+44.5,46.9,41.6,"Kennebec precinct, Dawson County, Nebraska",047,91570,31
+15.0,-666666666.0,13.5,"Bryan precinct, Garfield County, Nebraska",071,90400,31
+52.7,53.6,52.2,"Clearwater precinct, Frontier County, Nebraska",063,90520,31
+32.8,32.5,35.3,"Curtis city, Frontier County, Nebraska",063,90628,31
+57.4,57.6,54.7,"Moorefield precinct, Frontier County, Nebraska",063,92030,31
+68.4,68.3,69.2,"Plum Creek precinct, Frontier County, Nebraska",063,92435,31
+24.6,-666666666.0,3.9,"Sherman precinct, Frontier County, Nebraska",063,92935,31
+-666666666.0,-666666666.0,-666666666.0,"Earl precinct, Frontier County, Nebraska",063,90770,31
+65.9,70.4,65.5,"Garfield precinct, Frontier County, Nebraska",063,91060,31
+-666666666.0,-666666666.0,-666666666.0,"Muddy precinct, Frontier County, Nebraska",063,92050,31
+75.4,73.0,75.4,"Orafino precinct, Frontier County, Nebraska",063,92240,31
+65.7,66.5,65.5,"Stockville precinct, Frontier County, Nebraska",063,93115,31
+40.3,40.3,-666666666.0,"Knowles precinct, Frontier County, Nebraska",063,91650,31
+73.2,24.8,-666666666.0,"Laws precinct, Frontier County, Nebraska",063,91695,31
+-666666666.0,-666666666.0,-666666666.0,"Harrison precinct, Frontier County, Nebraska",063,91310,31
+44.2,14.7,-666666666.0,"Lincoln precinct, Frontier County, Nebraska",063,91760,31
+-666666666.0,-666666666.0,-666666666.0,"Logan precinct, Frontier County, Nebraska",063,91810,31
+46.4,61.1,41.8,"Osborn precinct, Frontier County, Nebraska",063,92255,31
+-666666666.0,-666666666.0,-666666666.0,"Zimmer precinct, Frontier County, Nebraska",063,93585,31
+48.4,48.5,-666666666.0,"Grant precinct, Frontier County, Nebraska",063,91200,31
+70.2,-666666666.0,-666666666.0,"North Star precinct, Frontier County, Nebraska",063,92190,31
+55.6,-666666666.0,-666666666.0,"Weaver precinct, Frontier County, Nebraska",063,93375,31
+46.4,-666666666.0,-666666666.0,"West Laird precinct, Frontier County, Nebraska",063,93428,31
+33.3,24.8,49.5,"Horrell precinct, Frontier County, Nebraska",063,91465,31
+46.0,45.8,57.2,"Sheridan precinct, Frontier County, Nebraska",063,92930,31
+61.7,-666666666.0,-666666666.0,"Russell precinct, Frontier County, Nebraska",063,92815,31
+39.8,39.1,43.1,"Fairview precinct, Frontier County, Nebraska",063,90960,31
+49.5,49.6,49.2,"East Laird precinct, Frontier County, Nebraska",063,90803,31
+50.8,51.2,50.2,"Ashton precinct, Sherman County, Nebraska",163,90097,31
+40.8,38.7,41.6,"Custer precinct, Keya Paha County, Nebraska",103,90635,31
+55.5,54.5,55.8,"Mills precinct, Keya Paha County, Nebraska",103,91997,31
+33.0,28.0,40.5,"Norden precinct, Keya Paha County, Nebraska",103,92130,31
+56.7,58.5,56.4,"Garfield precinct, Keya Paha County, Nebraska",103,91065,31
+46.1,44.0,48.5,"Kimball No. 2 precinct, Kimball County, Nebraska",105,91600,31
+60.8,63.7,57.3,"Bushnell precinct, Kimball County, Nebraska",105,90425,31
+44.0,45.0,43.5,"Antelope precinct, Kimball County, Nebraska",105,90060,31
+41.2,43.1,37.8,"Kimball No. 1 precinct, Kimball County, Nebraska",105,91595,31
+-666666666.0,-666666666.0,-666666666.0,"Bohemia township, Knox County, Nebraska",107,05735,31
+36.9,47.3,33.1,"Eastern township, Knox County, Nebraska",107,14205,31
+17.0,43.3,16.6,"Jefferson township, Knox County, Nebraska",107,24600,31
+57.8,61.5,54.8,"Columbia township, Knox County, Nebraska",107,10075,31
+59.8,60.7,58.5,"Dolphin township, Knox County, Nebraska",107,13330,31
+50.9,42.7,60.6,"North Loup City precinct, Sherman County, Nebraska",163,92167,31
+52.1,52.8,48.4,"Rockville precinct, Sherman County, Nebraska",163,92777,31
+48.8,43.3,53.4,"South Loup City precinct, Sherman County, Nebraska",163,92992,31
+32.5,31.5,33.5,"Chicago precinct, Douglas County, Nebraska",055,90505,31
+49.1,50.1,49.0,"Florence precinct, Douglas County, Nebraska",055,91000,31
+47.1,42.0,47.9,"Waterloo precinct, Douglas County, Nebraska",055,93360,31
+32.8,32.9,32.6,"Union precinct, Douglas County, Nebraska",055,93240,31
+35.4,35.2,35.6,"Jefferson precinct, Douglas County, Nebraska",055,91535,31
+35.2,35.0,35.6,"Millard precinct, Douglas County, Nebraska",055,91990,31
+34.3,33.5,35.2,"Omaha city, Douglas County, Nebraska",055,92237,31
+37.3,34.6,40.9,"Douglas precinct, Douglas County, Nebraska",055,90735,31
+32.9,30.4,34.8,"McArdle precinct, Douglas County, Nebraska",055,91880,31
+48.0,45.7,48.5,"Platte Valley precinct, Douglas County, Nebraska",055,92395,31
+44.2,43.7,44.6,"Elkhorn precinct, Douglas County, Nebraska",055,90875,31
+43.7,43.3,53.6,"Barada precinct, Richardson County, Nebraska",147,90120,31
+59.2,55.5,59.7,"Salem precinct, Richardson County, Nebraska",147,92845,31
+60.2,47.9,60.5,"Speiser precinct, Richardson County, Nebraska",147,93040,31
+41.0,36.9,42.8,"Falls City city, Richardson County, Nebraska",147,90973,31
+55.8,57.1,52.0,"Humboldt precinct, Richardson County, Nebraska",147,91485,31
+53.9,53.7,56.2,"Ohio precinct, Richardson County, Nebraska",147,92220,31
+77.5,81.1,-666666666.0,"Nemaha precinct, Richardson County, Nebraska",147,92090,31
+60.2,55.0,60.4,"Falls City precinct, Richardson County, Nebraska",147,90975,31
+62.8,60.0,65.2,"West Muddy precinct, Richardson County, Nebraska",147,93440,31
+38.2,37.5,41.1,"East Muddy precinct, Richardson County, Nebraska",147,90810,31
+72.3,60.3,72.7,"Porter precinct, Richardson County, Nebraska",147,92455,31
+51.4,55.0,48.8,"Grant precinct, Richardson County, Nebraska",147,91230,31
+54.8,49.9,57.2,"Humboldt city, Richardson County, Nebraska",147,91483,31
+51.1,49.5,52.0,"Rulo precinct, Richardson County, Nebraska",147,92805,31
+23.6,30.6,23.3,"Franklin precinct, Richardson County, Nebraska",147,91025,31
+50.1,50.1,50.1,"Burwell city, Garfield County, Nebraska",071,90422,31
+63.8,63.6,71.3,"Dry Cedar precinct, Garfield County, Nebraska",071,90755,31
+-666666666.0,-666666666.0,-666666666.0,"Highland precinct, Garfield County, Nebraska",071,91390,31
+54.0,45.7,61.7,"Rockford precinct, Garfield County, Nebraska",071,92775,31
+26.5,-666666666.0,-666666666.0,"Roosevelt precinct, Garfield County, Nebraska",071,92785,31
+64.7,-666666666.0,-666666666.0,"Kinkaid precinct, Garfield County, Nebraska",071,91620,31
+51.3,51.3,49.5,"Midvale precinct, Garfield County, Nebraska",071,91980,31
+49.6,65.1,42.8,"Willow Springs precinct, Garfield County, Nebraska",071,93515,31
+30.5,30.3,32.2,"Erina precinct, Garfield County, Nebraska",071,90930,31
+27.5,25.5,34.1,"Cottonwood precinct, McPherson County, Nebraska",117,90585,31
+54.1,54.6,53.7,"Tryon precinct, McPherson County, Nebraska",117,93220,31
+46.5,29.8,48.8,"Hall precinct, McPherson County, Nebraska",117,91280,31
+47.5,55.4,42.5,"Lemley precinct, McPherson County, Nebraska",117,91710,31
+70.1,69.7,70.3,"Whitewater precinct, McPherson County, Nebraska",117,93475,31
+41.8,16.8,43.3,"Worden precinct, McPherson County, Nebraska",117,93550,31
+-666666666.0,-666666666.0,-666666666.0,"Cedar township, Nance County, Nebraska",125,08115,31
+39.6,39.1,40.6,"East Newman township, Nance County, Nebraska",125,14240,31
+39.8,37.8,42.6,"Fullerton city, Nance County, Nebraska",125,17810,31
+48.5,56.9,38.6,"Fullerton township, Nance County, Nebraska",125,17845,31
+48.7,48.9,47.8,"Loup Ferry township, Nance County, Nebraska",125,29540,31
+55.8,58.5,55.6,"Beaver township, Nance County, Nebraska",125,03460,31
+54.4,54.1,-666666666.0,"Prairie Creek township, Nance County, Nebraska",125,40185,31
+63.9,-666666666.0,63.9,"South Branch township, Nance County, Nebraska",125,45715,31
+41.8,36.6,51.3,"Genoa city, Nance County, Nebraska",125,18475,31
+60.7,62.6,60.1,"Cottonwood township, Nance County, Nebraska",125,10845,31
+26.1,26.8,24.4,"Council Creek township, Nance County, Nebraska",125,10915,31
+48.7,51.4,48.4,"Genoa township, Nance County, Nebraska",125,18510,31
+54.1,54.5,53.7,"Timber Creek township, Nance County, Nebraska",125,48970,31
+81.9,83.2,-666666666.0,"West Newman township, Nance County, Nebraska",125,52470,31
+30.7,17.0,40.9,"Plum Creek township, Butler County, Nebraska",023,39555,31
+57.7,58.3,57.6,"Union township, Butler County, Nebraska",023,49600,31
+42.1,45.8,36.8,"Savannah township, Butler County, Nebraska",023,43860,31
+54.1,54.1,50.5,"Skull Creek township, Butler County, Nebraska",023,45540,31
+59.7,60.5,59.0,"Linwood township, Butler County, Nebraska",023,28280,31
+46.8,49.0,45.6,"Reading township, Butler County, Nebraska",023,40850,31
+49.4,49.6,48.7,"Richardson township, Butler County, Nebraska",023,41250,31
+41.8,38.5,46.6,"David City city, Butler County, Nebraska",023,12315,31
+53.2,56.2,52.6,"Ulysses township, Butler County, Nebraska",023,49495,31
+48.7,47.8,48.9,"Summit township, Butler County, Nebraska",023,47605,31
+22.3,18.0,35.5,"Center township, Butler County, Nebraska",023,08290,31
+46.2,45.7,46.3,"Read township, Butler County, Nebraska",023,40815,31
+22.6,22.8,20.7,"Franklin township, Butler County, Nebraska",023,17460,31
+66.2,62.6,66.7,"Marshall township, Clay County, Nebraska",035,30765,31
+43.9,46.7,40.4,"Fairfield township, Clay County, Nebraska",035,16480,31
+63.3,63.5,58.5,"Lewis township, Clay County, Nebraska",035,26840,31
+34.3,41.5,30.9,"Leicester township, Clay County, Nebraska",035,26525,31
+62.9,64.5,62.6,"Lone Tree township, Clay County, Nebraska",035,28980,31
+42.1,40.2,44.6,"Clay Center city, Clay County, Nebraska",035,09375,31
+53.4,51.0,56.0,"Logan township, Clay County, Nebraska",035,28630,31
+38.5,35.3,44.9,"Sutton city, Clay County, Nebraska",035,47955,31
+49.7,49.9,49.6,"Edgar township, Clay County, Nebraska",035,14485,31
+27.5,22.1,52.4,"Lynn township, Clay County, Nebraska",035,29820,31
+58.2,57.7,-666666666.0,"Eldorado township, Clay County, Nebraska",035,14660,31
+45.5,46.2,45.0,"Glenvil township, Clay County, Nebraska",035,19105,31
+41.7,41.2,42.1,"Harvard township, Clay County, Nebraska",035,21380,31
+35.8,35.5,36.5,"Sheridan township, Clay County, Nebraska",035,44770,31
+52.3,57.6,34.3,"Spring Ranch township, Clay County, Nebraska",035,46590,31
+28.3,-666666666.0,8.8,"Inland township, Clay County, Nebraska",035,24040,31
+62.0,65.1,61.9,"School Creek township, Clay County, Nebraska",035,44000,31
+33.3,32.5,39.0,"Sutton township, Clay County, Nebraska",035,47990,31
+43.3,43.5,41.3,"Arthur precinct, Arthur County, Nebraska",005,90085,31
+39.2,34.9,39.5,"Comstock township, Custer County, Nebraska",041,10215,31
+38.3,36.9,38.5,"Loup township, Custer County, Nebraska",041,29365,31
+48.3,53.5,44.5,"Wood River township, Custer County, Nebraska",041,53625,31
+54.4,51.5,54.4,"Douglas Grove township, Custer County, Nebraska",041,13575,31
+39.6,38.3,59.4,"Grant township, Custer County, Nebraska",041,19770,31
+35.8,36.2,34.8,"Precinct 1, Pawnee No. 1; Pawnee County; Nebraska",133,92475,31
+52.4,46.4,53.6,"Precinct 2, Pawnee No. 2; Pawnee County; Nebraska",133,92485,31
+49.3,49.5,49.2,"Precinct 3, Table Rock; Pawnee County; Nebraska",133,92495,31
+46.4,54.1,45.8,"Precinct 4, Steinauer; Pawnee County; Nebraska",133,92505,31
+56.9,57.3,56.8,"Precinct 5, Burchard; Pawnee County; Nebraska",133,92515,31
+54.8,50.5,56.8,"Precinct 6, South Fork; Pawnee County; Nebraska",133,92525,31
+43.3,44.3,38.9,"Precinct 7, Turkey Creek; Pawnee County; Nebraska",133,92535,31
+55.9,50.0,75.1,"Dimick precinct, Stanton County, Nebraska",167,90715,31
+49.3,49.6,46.7,"Maple Creek precinct, Stanton County, Nebraska",167,91925,31
+52.6,56.9,51.3,"Elkhorn precinct, Stanton County, Nebraska",167,90880,31
+53.8,50.4,54.0,"Kingsburg precinct, Stanton County, Nebraska",167,91615,31
+41.5,44.1,41.4,"Stanton precinct, Stanton County, Nebraska",167,93075,31
+62.0,67.9,50.8,"Butterfly precinct, Stanton County, Nebraska",167,90430,31
+35.3,36.4,35.1,"Dewey precinct, Stanton County, Nebraska",167,90700,31
+35.9,47.5,28.8,"Haymow precinct, Stanton County, Nebraska",167,91340,31
+42.0,40.6,44.3,"Pilger precinct, Stanton County, Nebraska",167,92365,31
+35.8,34.9,40.8,"Spring Branch precinct, Stanton County, Nebraska",167,93045,31
+38.6,38.2,38.8,"Stanton city, Stanton County, Nebraska",167,93068,31
+54.0,57.5,50.7,"Ramshorn precinct, Stanton County, Nebraska",167,92695,31
+24.8,24.2,56.9,"Union Creek precinct, Stanton County, Nebraska",167,93265,31
+38.8,14.8,55.0,"Independent township, Valley County, Nebraska",175,23760,31
+60.7,60.8,59.9,"Noble township, Valley County, Nebraska",175,34475,31
+40.3,45.1,37.2,"Elyria township, Valley County, Nebraska",175,15640,31
+68.5,59.6,69.8,"Grant township, Franklin County, Nebraska",061,19805,31
+39.7,43.0,39.7,"Custer township, Custer County, Nebraska",041,11930,31
+59.8,-666666666.0,-666666666.0,"Corner township, Custer County, Nebraska",041,10530,31
+40.5,37.4,44.5,"Ansley township, Custer County, Nebraska",041,01570,31
+43.4,44.4,42.5,"Lincoln township, Franklin County, Nebraska",061,27225,31
+57.7,57.7,57.6,"North Franklin township, Franklin County, Nebraska",061,34790,31
+48.0,47.0,51.5,"Salem township, Franklin County, Nebraska",061,43335,31
+48.6,47.5,49.8,"East Bloomington township, Franklin County, Nebraska",061,14145,31
+63.3,64.3,59.0,"Macon township, Franklin County, Nebraska",061,30135,31
+74.1,76.8,59.3,"Marion township, Franklin County, Nebraska",061,30625,31
+39.3,39.0,39.4,"Antelope township, Franklin County, Nebraska",061,01605,31
+39.2,40.5,37.5,"Turkey Creek township, Franklin County, Nebraska",061,49355,31
+50.4,50.7,35.5,"Ash Grove township, Franklin County, Nebraska",061,02270,31
+45.2,42.9,47.3,"Franklin city, Franklin County, Nebraska",061,17530,31
+56.2,56.6,56.0,"Shell Creek township, Platte County, Nebraska",141,44665,31
+35.1,35.6,32.5,"Humphrey township, Platte County, Nebraska",141,23515,31
+31.8,30.5,33.3,"Lost Creek township, Platte County, Nebraska",141,29225,31
+51.8,55.4,48.0,"Oconee township, Platte County, Nebraska",141,35630,31
+38.8,40.4,37.0,"Columbus township, Platte County, Nebraska",141,10145,31
+23.4,17.7,30.2,"Grand Prairie township, Platte County, Nebraska",141,19630,31
+44.3,44.8,35.6,"Bismark township, Platte County, Nebraska",141,05070,31
+36.6,34.6,38.4,"Columbus city, Platte County, Nebraska",141,10110,31
+44.8,46.1,44.3,"Granville township, Platte County, Nebraska",141,19945,31
+54.5,55.4,52.5,"Joliet township, Platte County, Nebraska",141,24775,31
+-666666666.0,-666666666.0,-666666666.0,"Newman Grove city, Platte County, Nebraska",141,34230,31
+55.2,54.8,55.4,"Sherman township, Platte County, Nebraska",141,45015,31
+48.6,50.0,48.3,"St. Bernard township, Platte County, Nebraska",141,42950,31
+49.8,55.8,45.1,"Walker township, Platte County, Nebraska",141,51140,31
+51.3,53.0,49.8,"Creston township, Platte County, Nebraska",141,11335,31
+45.2,45.5,45.2,"Butler township, Platte County, Nebraska",141,07450,31
+25.8,25.6,26.0,"Woodville township, Platte County, Nebraska",141,53730,31
+56.2,57.4,49.5,"Burrows township, Platte County, Nebraska",141,07275,31
+44.3,42.2,44.8,"South Canada precinct, Polk County, Nebraska",143,92977,31
+36.0,39.3,34.9,"West Stromsburg precinct, Polk County, Nebraska",143,93457,31
+41.5,45.8,39.9,"North Osceola precinct, Polk County, Nebraska",143,92172,31
+47.6,48.5,46.9,"South Osceola precinct, Polk County, Nebraska",143,92997,31
+55.1,46.3,59.9,"East Stromsburg precinct, Polk County, Nebraska",143,90822,31
+56.0,59.0,55.6,"Jefferson precinct, Richardson County, Nebraska",147,91550,31
+58.8,50.8,62.5,"Arago precinct, Richardson County, Nebraska",147,90070,31
+54.2,54.3,52.9,"Liberty precinct, Richardson County, Nebraska",147,91750,31
+45.2,31.9,45.7,"Dannevirke precinct, Howard County, Nebraska",093,90655,31
+52.3,51.2,55.1,"Loup Fork precinct, Howard County, Nebraska",093,91875,31
+46.5,44.4,49.4,"St. Libory precinct, Howard County, Nebraska",093,92830,31
+69.2,-666666666.0,-666666666.0,"Logan township, Knox County, Nebraska",107,28875,31
+45.5,45.8,45.1,"Miller township, Knox County, Nebraska",107,32165,31
+46.3,48.4,24.4,"Walnut Grove township, Knox County, Nebraska",107,51210,31
+24.7,21.3,24.9,"Addison township, Knox County, Nebraska",107,00310,31
+54.0,48.6,59.1,"Bloomfield city, Knox County, Nebraska",107,05455,31
+28.1,25.1,31.0,"Hill township, Knox County, Nebraska",107,22465,31
+49.6,51.6,48.4,"Morton township, Knox County, Nebraska",107,32970,31
+54.6,54.3,55.1,"Niobrara township, Knox County, Nebraska",107,34405,31
+54.8,60.2,53.1,"Peoria township, Knox County, Nebraska",107,38855,31
+50.1,45.8,50.3,"Raymond township, Knox County, Nebraska",107,40745,31
+44.1,44.9,39.3,"Washington township, Knox County, Nebraska",107,51525,31
+40.7,41.5,40.3,"Harrison township, Knox County, Nebraska",107,21170,31
+38.1,19.5,38.8,"Union township, Knox County, Nebraska",107,49740,31
+54.9,41.8,59.2,"Valley township, Knox County, Nebraska",107,50055,31
+56.2,56.1,57.1,"Herrick township, Knox County, Nebraska",107,22255,31
+50.0,48.6,50.4,"Lincoln township, Knox County, Nebraska",107,27330,31
+33.6,43.2,31.7,"Cleveland township, Knox County, Nebraska",107,09585,31
+54.8,52.1,57.5,"Creighton township, Knox County, Nebraska",107,11265,31
+38.7,41.0,37.3,"Crofton city, Knox County, Nebraska",107,11440,31
+43.4,39.6,45.8,"Creighton city, Knox County, Nebraska",107,11230,31
+52.5,46.4,57.0,"Sparta township, Knox County, Nebraska",107,46240,31
+58.4,47.0,64.4,"Verdigre township, Knox County, Nebraska",107,50405,31
+69.5,-666666666.0,69.1,"Western township, Knox County, Nebraska",107,52260,31
+24.8,27.5,22.3,"Dowling township, Knox County, Nebraska",107,13645,31
+48.1,53.6,17.5,"Frankfort township, Knox County, Nebraska",107,17425,31
+61.0,60.8,61.2,"North Frankfort township, Knox County, Nebraska",107,34765,31
+65.3,65.7,64.8,"Central township, Knox County, Nebraska",107,08465,31
+46.5,56.5,44.8,"Spade township, Knox County, Nebraska",107,46100,31
+47.8,45.6,50.9,"Maxwell precinct, Lincoln County, Nebraska",111,91935,31
+29.9,29.7,33.3,"Rosedale precinct, Lincoln County, Nebraska",111,92790,31
+41.4,38.5,41.9,"Brady precinct, Lincoln County, Nebraska",111,90345,31
+60.3,60.1,63.3,"Hinman precinct, Lincoln County, Nebraska",111,91445,31
+36.9,19.3,48.7,"Cotesfield precinct, Howard County, Nebraska",093,90580,31
+47.3,34.5,61.5,"Kelso precinct, Howard County, Nebraska",093,91565,31
+40.4,55.1,40.2,"Fairdale-Logan precinct, Howard County, Nebraska",093,90945,31
+48.2,48.3,47.0,"Warsaw precinct, Howard County, Nebraska",093,93345,31
+60.3,58.7,61.9,"Gage Valley precinct, Howard County, Nebraska",093,91050,31
+38.9,30.7,50.5,"Spring Creek precinct, Howard County, Nebraska",093,93050,31
+39.3,49.5,34.8,"Elba precinct, Howard County, Nebraska",093,90855,31
+38.8,35.4,43.3,"St. Paul city, Howard County, Nebraska",093,92833,31
+67.4,43.6,67.7,"Cleveland precinct, Howard County, Nebraska",093,90535,31
+44.3,41.8,48.3,"Dannebrog precinct, Howard County, Nebraska",093,90650,31
+52.7,53.9,50.9,"Posen precinct, Howard County, Nebraska",093,92460,31
+37.4,47.5,17.0,"St. Paul precinct, Howard County, Nebraska",093,92835,31
+60.1,51.7,60.8,"Paddock township, Holt County, Nebraska",089,38015,31
+63.8,63.8,-666666666.0,"Cleveland township, Holt County, Nebraska",089,09550,31
+33.8,37.2,20.9,"Grattan township, Holt County, Nebraska",089,19980,31
+40.4,42.6,27.5,"Sand Creek township, Holt County, Nebraska",089,43440,31
+-666666666.0,-666666666.0,-666666666.0,"Willowdale township, Holt County, Nebraska",089,53170,31
+55.0,50.0,56.3,"Chambers township, Holt County, Nebraska",089,08710,31
+56.2,56.1,59.5,"Conley township, Holt County, Nebraska",089,10320,31
+32.4,41.3,29.2,"Ewing township, Holt County, Nebraska",089,16305,31
+52.6,-666666666.0,-666666666.0,"Fairview township, Holt County, Nebraska",089,16620,31
+34.6,36.0,34.6,"Iowa township, Holt County, Nebraska",089,24145,31
+50.8,60.5,23.8,"McClure township, Holt County, Nebraska",089,29890,31
+62.8,-666666666.0,-666666666.0,"Scott township, Holt County, Nebraska",089,44175,31
+57.3,-666666666.0,-666666666.0,"Springdale township, Valley County, Nebraska",175,46485,31
+44.6,47.0,38.7,"Arcadia township, Valley County, Nebraska",175,01885,31
+77.7,80.3,-666666666.0,"Liberty township, Valley County, Nebraska",175,27085,31
+51.0,52.4,46.7,"North Loup township, Valley County, Nebraska",175,34860,31
+43.7,42.1,46.8,"Ord township, Valley County, Nebraska",175,37315,31
+17.7,17.8,15.8,"Enterprise township, Valley County, Nebraska",175,15990,31
+61.0,-666666666.0,-666666666.0,"Geranium township, Valley County, Nebraska",175,18545,31
+58.9,58.6,85.2,"Michigan township, Valley County, Nebraska",175,31850,31
+53.3,50.5,53.8,"Yale township, Valley County, Nebraska",175,54010,31
+31.5,43.3,27.3,"Davis Creek township, Valley County, Nebraska",175,12385,31
+40.1,10.3,43.2,"Vinton township, Valley County, Nebraska",175,50755,31
+60.6,-666666666.0,-666666666.0,"Eureka township, Valley County, Nebraska",175,16130,31
+49.5,46.4,54.6,"Bartlett precinct, Wheeler County, Nebraska",183,90130,31
+36.3,30.2,39.8,"Kilfoil township, Custer County, Nebraska",041,25370,31
+61.6,63.5,55.5,"Milburn township, Custer County, Nebraska",041,32025,31
+26.3,39.2,11.0,"West Union township, Custer County, Nebraska",041,52715,31
+37.3,35.2,42.5,"Broken Bow city, Custer County, Nebraska",041,06610,31
+50.7,50.5,51.0,"Broken Bow township, Custer County, Nebraska",041,06645,31
+35.8,47.5,16.8,"Elk Creek township, Custer County, Nebraska",041,14940,31
+54.9,54.0,55.1,"Sargent township, Custer County, Nebraska",041,43720,31
+50.8,50.1,51.0,"Arnold township, Custer County, Nebraska",041,02130,31
+51.0,49.6,53.5,"Ericson precinct, Wheeler County, Nebraska",183,90925,31
+-666666666.0,-666666666.0,-666666666.0,"Prairie Dog township, Harlan County, Nebraska",083,40220,31
+69.5,69.8,66.8,"Republican City township, Harlan County, Nebraska",083,41165,31
+5.3,5.6,-666666666.0,"Albany township, Harlan County, Nebraska",083,00520,31
+36.7,37.6,36.2,"Sappa township, Harlan County, Nebraska",083,43580,31
+44.8,68.7,18.2,"Scandinavia township, Harlan County, Nebraska",083,43895,31
+17.8,54.8,17.0,"Fairfield township, Harlan County, Nebraska",083,16515,31
+51.6,53.2,48.9,"Orleans township, Harlan County, Nebraska",083,37455,31
+39.5,40.8,27.9,"Alma township, Harlan County, Nebraska",083,01010,31
+44.0,43.5,44.5,"Antelope township, Harlan County, Nebraska",083,01640,31
+-666666666.0,-666666666.0,-666666666.0,"Spring Grove township, Harlan County, Nebraska",083,46555,31
+61.3,61.8,59.0,"Turkey Creek township, Harlan County, Nebraska",083,49390,31
+58.5,22.7,70.3,"Washington township, Harlan County, Nebraska",083,51490,31
+53.3,51.4,55.6,"Alma city, Harlan County, Nebraska",083,00975,31
+53.0,56.5,-666666666.0,"Eldorado township, Harlan County, Nebraska",083,14695,31
+34.6,34.6,36.5,"Emerson township, Harlan County, Nebraska",083,15780,31
+-666666666.0,-666666666.0,-666666666.0,"Reuben township, Harlan County, Nebraska",083,41200,31
+59.1,43.0,61.0,"Mullally township, Harlan County, Nebraska",083,33180,31
+57.1,56.8,57.2,"Lockridge precinct, York County, Nebraska",185,91800,31
+39.0,37.4,41.2,"Morton precinct, York County, Nebraska",185,92035,31
+41.5,42.0,40.5,"McFadden precinct, York County, Nebraska",185,91890,31
+32.1,19.9,33.3,"Brown precinct, York County, Nebraska",185,90370,31
+55.3,55.7,54.7,"Thayer precinct, York County, Nebraska",185,93180,31
+46.6,37.8,51.0,"Waco precinct, York County, Nebraska",185,93325,31
+44.0,41.5,44.1,"Stewart precinct, York County, Nebraska",185,93105,31
+37.1,32.7,41.5,"York city, York County, Nebraska",185,93582,31
+49.4,41.2,58.1,"Henderson precinct, York County, Nebraska",185,91370,31
+61.8,62.6,54.7,"Leroy precinct, York County, Nebraska",185,91720,31
+42.9,52.2,38.7,"New York precinct, York County, Nebraska",185,92115,31
+48.9,49.3,48.6,"Beaver precinct, York County, Nebraska",185,90170,31
+40.5,38.5,40.7,"Bradshaw precinct, York County, Nebraska",185,90340,31
+39.3,39.5,39.0,"Hays precinct, York County, Nebraska",185,91350,31
+51.8,51.3,56.1,"West Blue precinct, York County, Nebraska",185,93410,31
+40.2,53.2,35.0,"Baker precinct, York County, Nebraska",185,90115,31
+50.8,51.3,50.5,"Arborville precinct, York County, Nebraska",185,90080,31
+76.7,84.0,67.3,"Washington township, Franklin County, Nebraska",061,51420,31
+57.8,57.5,63.6,"Barneston township, Gage County, Nebraska",067,03110,31
+60.6,59.5,61.1,"Hanover township, Gage County, Nebraska",067,20890,31
+56.8,57.1,56.4,"Logan township, Gage County, Nebraska",067,28805,31
+38.3,37.6,42.5,"Paddock township, Gage County, Nebraska",067,37980,31
+42.8,43.1,42.4,"Adams township, Gage County, Nebraska",067,00275,31
+44.9,42.3,47.2,"Beatrice city, Gage County, Nebraska",067,03390,31
+46.8,49.5,43.8,"Filley township, Gage County, Nebraska",067,16865,31
+44.5,42.5,47.5,"Liberty township, Gage County, Nebraska",067,27015,31
+34.9,27.8,54.0,"Riverside township, Gage County, Nebraska",067,41620,31
+56.8,49.4,57.3,"Sicily township, Gage County, Nebraska",067,45260,31
+64.3,62.5,64.9,"Blakely township, Gage County, Nebraska",067,05420,31
+37.6,39.2,37.2,"Nemaha township, Gage County, Nebraska",067,33915,31
+42.1,34.7,48.2,"Sherman township, Gage County, Nebraska",067,44945,31
+55.8,53.9,56.2,"Elm township, Gage County, Nebraska",067,15290,31
+43.0,42.6,43.4,"Grant township, Gage County, Nebraska",067,19840,31
+33.9,31.6,42.4,"Rockford township, Gage County, Nebraska",067,42040,31
+33.1,31.7,34.2,"Highland township, Gage County, Nebraska",067,22395,31
+23.3,23.4,23.3,"Lincoln township, Gage County, Nebraska",067,27260,31
+45.5,37.0,52.8,"Holt township, Gage County, Nebraska",067,22850,31
+35.8,29.2,39.6,"Hooker township, Gage County, Nebraska",067,22990,31
+48.9,49.8,48.7,"Island Grove township, Gage County, Nebraska",067,24250,31
+63.0,62.5,67.1,"Midland township, Gage County, Nebraska",067,31920,31
+45.0,39.5,49.2,"Blue Springs-Wymore township, Gage County, Nebraska",067,05682,31
+42.6,44.5,41.1,"Clatonia township, Gage County, Nebraska",067,09305,31
+44.1,45.5,40.5,"Glenwood township, Gage County, Nebraska",067,19175,31
+44.3,45.8,40.3,"Precinct 5, Hamilton County, Nebraska",081,92513,31
+47.5,50.1,46.4,"West Pleasant Home precinct, Polk County, Nebraska",143,93452,31
+17.6,25.0,17.1,"Coleman township, Holt County, Nebraska",089,09830,31
+56.0,59.1,53.0,"Sheridan township, Holt County, Nebraska",089,44805,31
+-666666666.0,-666666666.0,-666666666.0,"Dustin township, Holt County, Nebraska",089,14030,31
+-666666666.0,-666666666.0,-666666666.0,"Francis township, Holt County, Nebraska",089,17390,31
+38.1,16.4,-666666666.0,"Saratoga township, Holt County, Nebraska",089,43615,31
+54.2,54.1,59.1,"Shields township, Holt County, Nebraska",089,45120,31
+60.8,61.8,59.5,"Emmet township, Holt County, Nebraska",089,15850,31
+45.3,42.0,49.7,"O'Neill city, Holt County, Nebraska",089,37105,31
+33.0,33.5,-666666666.0,"Pleasant View township, Holt County, Nebraska",089,39520,31
+54.3,55.2,54.0,"Wyoming township, Holt County, Nebraska",089,53940,31
+58.8,60.0,58.7,"Golden township, Holt County, Nebraska",089,19280,31
+62.5,62.1,63.3,"Rock Falls township, Holt County, Nebraska",089,41935,31
+55.9,54.8,57.1,"Inman township, Holt County, Nebraska",089,24110,31
+30.6,-666666666.0,-666666666.0,"Antelope township, Holt County, Nebraska",089,01675,31
+-666666666.0,-666666666.0,-666666666.0,"Belle township, Holt County, Nebraska",089,03880,31
+45.5,45.7,45.1,"Osgood precinct, Lincoln County, Nebraska",111,92265,31
+44.6,43.6,46.3,"Sutherland precinct, Lincoln County, Nebraska",111,93145,31
+42.2,43.6,37.9,"Hall precinct, Lincoln County, Nebraska",111,91275,31
+38.1,35.7,39.5,"North Platte precinct, Lincoln County, Nebraska",111,92180,31
+40.9,43.8,39.3,"Wallace precinct, Lincoln County, Nebraska",111,93330,31
+51.5,51.6,50.9,"Medicine precinct, Lincoln County, Nebraska",111,91945,31
+46.6,48.4,40.3,"Sellers precinct, Lincoln County, Nebraska",111,92900,31
+43.9,43.3,45.5,"Hershey precinct, Lincoln County, Nebraska",111,91385,31
+45.3,44.7,46.0,"Chapman township, Merrick County, Nebraska",121,08815,31
+39.8,34.7,48.1,"Lone Tree township, Merrick County, Nebraska",121,29015,31
+36.4,34.9,38.1,"Loup township, Merrick County, Nebraska",121,29400,31
+42.7,22.4,47.6,"Mead township, Merrick County, Nebraska",121,31360,31
+59.4,65.7,52.8,"Prairie Island township, Merrick County, Nebraska",121,40272,31
+44.7,47.4,43.2,"Central City city, Merrick County, Nebraska",121,08535,31
+45.5,41.8,48.1,"Clarksville township, Merrick County, Nebraska",121,09235,31
+33.6,32.0,35.2,"Silver Creek township, Merrick County, Nebraska",121,45435,31
+39.7,35.6,43.3,"Prairie Creek township, Merrick County, Nebraska",121,40150,31
+35.6,31.8,35.9,"Central township, Merrick County, Nebraska",121,08500,31
+50.8,52.3,50.5,"Midland township, Merrick County, Nebraska",121,31955,31
+50.7,48.9,52.5,"Vieregg township, Merrick County, Nebraska",121,50720,31
+54.9,57.5,53.3,"South Dry Creek precinct, Pierce County, Nebraska",139,92985,31
+51.5,56.4,50.5,"Thompson precinct, Pierce County, Nebraska",139,93190,31
+47.5,34.5,58.3,"Allen precinct, Pierce County, Nebraska",139,90030,31
+36.8,35.2,38.1,"Pierce city, Pierce County, Nebraska",139,92358,31
+44.7,44.4,47.6,"South Branch precinct, Pierce County, Nebraska",139,92975,31
+44.3,37.8,45.7,"Foster precinct, Pierce County, Nebraska",139,91015,31
+-666666666.0,-666666666.0,-666666666.0,"Mills precinct, Pierce County, Nebraska",139,92000,31
+24.3,20.7,53.5,"Logan precinct, Pierce County, Nebraska",139,91830,31
+44.7,-666666666.0,44.9,"Willow Creek precinct, Pierce County, Nebraska",139,93500,31
+52.4,49.0,56.6,"North Dry Creek precinct, Pierce County, Nebraska",139,92160,31
+11.8,-666666666.0,-666666666.0,"Blaine precinct, Pierce County, Nebraska",139,90275,31
+64.0,69.0,61.9,"Clover Valley precinct, Pierce County, Nebraska",139,90545,31
+41.0,41.8,36.8,"Plum Grove precinct, Pierce County, Nebraska",139,92445,31
+39.2,40.4,35.7,"Cleveland precinct, Pierce County, Nebraska",139,90540,31
+53.6,48.5,63.8,"Eastern precinct, Pierce County, Nebraska",139,90790,31
+46.4,46.4,46.3,"Plainview city, Pierce County, Nebraska",139,92378,31
+28.4,-666666666.0,-666666666.0,"Holt Creek township, Holt County, Nebraska",089,22885,31
+57.3,57.5,34.5,"Shamrock township, Holt County, Nebraska",089,44525,31
+50.6,50.3,51.3,"Verdigris township, Holt County, Nebraska",089,50475,31
+74.6,-666666666.0,-666666666.0,"Steel Creek township, Holt County, Nebraska",089,46975,31
+12.7,12.6,39.0,"Josie township, Holt County, Nebraska",089,24810,31
+60.7,57.3,61.3,"Lake township, Holt County, Nebraska",089,25965,31
+53.6,33.0,53.8,"Swan township, Holt County, Nebraska",089,48025,31
+48.0,51.0,44.0,"Green Valley township, Holt County, Nebraska",089,20155,31
+55.6,55.3,55.8,"Deloit township, Holt County, Nebraska",089,12700,31
+45.7,39.2,48.8,"Stuart township, Holt County, Nebraska",089,47535,31
+41.4,42.0,40.9,"Atkinson township, Holt County, Nebraska",089,02585,31
+47.5,44.1,54.5,"Beaver City city, Furnas County, Nebraska",065,90177,31
+56.5,-666666666.0,18.5,"Beaver City precinct, Furnas County, Nebraska",065,90175,31
+60.9,60.7,63.1,"Wilsonville precinct, Furnas County, Nebraska",065,93525,31
+46.8,46.3,48.7,"Cambridge precinct, Furnas County, Nebraska",065,90445,31
+44.4,40.1,50.5,"Oxford precinct, Furnas County, Nebraska",065,92290,31
+27.3,26.8,27.4,"Edison precinct, Furnas County, Nebraska",065,90845,31
+53.4,56.8,33.4,"Hendley precinct, Furnas County, Nebraska",065,91375,31
+51.9,44.9,55.2,"Holbrook precinct, Furnas County, Nebraska",065,91450,31
+64.4,-666666666.0,-666666666.0,"Hollinger precinct, Furnas County, Nebraska",065,91455,31
+-666666666.0,-666666666.0,-666666666.0,"New Era precinct, Furnas County, Nebraska",065,92100,31
+41.6,41.8,41.4,"Arapahoe precinct, Furnas County, Nebraska",065,90075,31
+49.2,45.6,55.4,"East Muddy precinct, Gosper County, Nebraska",073,90805,31
+79.1,59.5,79.5,"Elk Creek precinct, Gosper County, Nebraska",073,90870,31
+70.1,-666666666.0,-666666666.0,"Elwood 7-23 precinct, Gosper County, Nebraska",073,90900,31
+51.0,51.5,50.6,"Bethel precinct, Gosper County, Nebraska",073,90235,31
+70.0,-666666666.0,69.8,"Highland precinct, Gosper County, Nebraska",073,91395,31
+46.1,40.2,51.4,"Elwood 7-22 precinct, Gosper County, Nebraska",073,90895,31
+49.5,49.5,49.5,"Robb precinct, Gosper County, Nebraska",073,92755,31
+63.2,61.8,63.4,"Lincoln precinct, Gosper County, Nebraska",073,91765,31
+48.9,48.8,51.1,"Brace precinct, Gosper County, Nebraska",073,90335,31
+28.4,-666666666.0,10.6,"Turkey Creek precinct, Gosper County, Nebraska",073,93225,31
+57.2,49.5,62.0,"Harrison precinct, Gosper County, Nebraska",073,91315,31
+21.0,20.5,33.4,"Union precinct, Gosper County, Nebraska",073,93245,31
+-666666666.0,-666666666.0,-666666666.0,"West Muddy precinct, Gosper County, Nebraska",073,93435,31
+29.9,35.9,17.6,"Crete precinct, Saline County, Nebraska",151,90610,31
+33.9,61.0,27.5,"Atlanta precinct, Saline County, Nebraska",151,90100,31
+23.9,31.3,23.6,"Pierce precinct, Pierce County, Nebraska",139,92360,31
+36.4,37.9,26.0,"Slough precinct, Pierce County, Nebraska",139,92955,31
+56.5,56.8,54.8,"Whistle Creek precinct, Sioux County, Nebraska",165,93465,31
+38.3,49.1,34.5,"Sheep Creek precinct, Sioux County, Nebraska",165,92910,31
+52.2,51.5,53.0,"Bowen precinct, Sioux County, Nebraska",165,90320,31
+43.8,43.2,45.3,"Tekamah city, Burt County, Nebraska",021,48515,31
+38.6,41.3,37.4,"Arizona township, Burt County, Nebraska",021,01955,31
+51.7,51.6,51.8,"Craig township, Burt County, Nebraska",021,11125,31
+41.0,35.9,43.4,"Oakland city, Burt County, Nebraska",021,35490,31
+45.3,54.5,35.5,"Logan township, Burt County, Nebraska",021,28595,31
+45.7,30.6,56.3,"Pershing township, Burt County, Nebraska",021,38925,31
+49.9,49.8,50.0,"Bell Creek township, Burt County, Nebraska",021,03845,31
+59.2,-666666666.0,-666666666.0,"Riverside township, Burt County, Nebraska",021,41585,31
+28.4,28.1,28.6,"Oakland township, Burt County, Nebraska",021,35525,31
+64.2,62.9,66.0,"Decatur township, Burt County, Nebraska",021,12560,31
+50.4,45.5,55.3,"Everett township, Burt County, Nebraska",021,16200,31
+36.1,43.6,32.5,"Silver Creek township, Burt County, Nebraska",021,45330,31
+70.3,-666666666.0,-666666666.0,"Quinnebaugh township, Burt County, Nebraska",021,40500,31
+54.4,54.6,52.8,"Summit township, Burt County, Nebraska",021,47570,31
+42.4,40.3,48.2,"West Rock Bluff precinct, Cass County, Nebraska",025,93455,31
+57.4,56.5,58.0,"Liberty precinct, Cass County, Nebraska",025,91735,31
+37.4,38.0,36.3,"Tipton precinct, Cass County, Nebraska",025,93205,31
+51.1,51.3,48.4,"Greenwood precinct, Cass County, Nebraska",025,91245,31
+47.8,47.2,51.1,"Nehawka precinct, Cass County, Nebraska",025,92065,31
+42.7,45.5,38.7,"Stove Creek precinct, Cass County, Nebraska",025,93120,31
+44.2,41.5,47.5,"Center precinct, Cass County, Nebraska",025,90470,31
+46.9,49.4,46.2,"South Bend precinct, Cass County, Nebraska",025,92965,31
+46.8,43.5,49.1,"Weeping Water city, Cass County, Nebraska",025,93383,31
+40.5,39.0,41.1,"East Rock Bluff precinct, Cass County, Nebraska",025,90820,31
+38.9,35.6,40.6,"Louisville precinct, Cass County, Nebraska",025,91865,31
+36.5,35.7,38.8,"Plattsmouth city, Cass County, Nebraska",025,92398,31
+39.4,41.9,37.6,"Salt Creek precinct, Cass County, Nebraska",025,92850,31
+53.8,53.4,65.5,"Weeping Water precinct, Cass County, Nebraska",025,93385,31
+46.6,47.8,46.3,"Elmwood precinct, Cass County, Nebraska",025,90890,31
+46.5,43.0,49.0,"Plattsmouth precinct, Cass County, Nebraska",025,92400,31
+50.2,47.5,52.5,"Avoca precinct, Cass County, Nebraska",025,90110,31
+19.9,18.0,19.9,"Big Blue precinct, Saline County, Nebraska",151,90245,31
+60.9,62.7,58.5,"Friend precinct, Saline County, Nebraska",151,91035,31
+59.4,59.6,51.9,"Wilber precinct, Saline County, Nebraska",151,93490,31
+37.0,32.9,41.1,"Monroe precinct, Saline County, Nebraska",151,92025,31
+61.8,61.8,61.5,"Olive precinct, Saline County, Nebraska",151,92225,31
+51.7,53.3,51.6,"Lincoln precinct, Saline County, Nebraska",151,91780,31
+32.5,28.3,33.9,"Crete city, Saline County, Nebraska",151,90608,31
+39.5,37.3,39.9,"De Witt precinct, Saline County, Nebraska",151,90705,31
+37.2,34.1,42.2,"Dorchester precinct, Saline County, Nebraska",151,90725,31
+37.6,35.9,43.9,"Friend city, Saline County, Nebraska",151,91033,31
+53.9,59.9,53.3,"Pleasant Hill precinct, Saline County, Nebraska",151,92415,31
+43.1,37.5,44.5,"Swan Creek precinct, Saline County, Nebraska",151,93155,31
+40.4,41.1,39.8,"Wilber city, Saline County, Nebraska",151,93488,31
+49.3,49.3,43.0,"Turkey Creek precinct, Saline County, Nebraska",151,93230,31
+44.7,51.3,41.4,"South Fork precinct, Saline County, Nebraska",151,92990,31
+67.3,68.8,62.8,"North Fork precinct, Saline County, Nebraska",151,92165,31
+45.1,45.6,44.2,"Brush Creek precinct, Saline County, Nebraska",151,90395,31
+33.2,29.2,36.3,"Richland VI precinct, Sarpy County, Nebraska",153,92737,31
+34.4,33.3,34.9,"Richland VIII precinct, Sarpy County, Nebraska",153,92739,31
+46.2,42.4,47.8,"Springfield precinct, Sarpy County, Nebraska",153,93065,31
+23.9,24.5,23.6,"Bellevue Second I precinct, Sarpy County, Nebraska",153,90197,31
+34.8,33.5,36.2,"La Vista precinct, Sarpy County, Nebraska",153,91685,31
+32.7,32.4,32.9,"Melia-Forest City precinct, Sarpy County, Nebraska",153,91950,31
+37.1,35.0,39.5,"Papillion precinct, Sarpy County, Nebraska",153,92310,31
+28.3,18.1,32.9,"Highland II precinct, Sarpy County, Nebraska",153,91433,31
+36.6,34.3,38.2,"Papillion Second II precinct, Sarpy County, Nebraska",153,92314,31
+38.3,40.6,33.6,"Richland V precinct, Sarpy County, Nebraska",153,92736,31
+37.6,37.9,37.3,"Fairview precinct, Sarpy County, Nebraska",153,90970,31
+33.1,34.3,29.0,"Gilmore II precinct, Sarpy County, Nebraska",153,91145,31
+65.3,65.4,65.2,"Highland I precinct, Sarpy County, Nebraska",153,91431,31
+29.7,27.8,34.4,"LaPlatte II precinct, Sarpy County, Nebraska",153,91682,31
+48.0,46.2,52.7,"Gilmore I precinct, Sarpy County, Nebraska",153,91140,31
+34.5,31.2,35.6,"Richland II precinct, Sarpy County, Nebraska",153,92733,31
+32.7,33.7,32.0,"Richland VII precinct, Sarpy County, Nebraska",153,92738,31
+34.2,33.3,34.6,"Papillion Second I precinct, Sarpy County, Nebraska",153,92313,31
+33.5,35.6,32.6,"Bellevue Second II precinct, Sarpy County, Nebraska",153,90198,31
+34.3,32.8,38.2,"Richland III precinct, Sarpy County, Nebraska",153,92734,31
+45.8,48.5,44.2,"Eight Mile Grove precinct, Cass County, Nebraska",025,90850,31
+36.3,35.8,36.4,"Mount Pleasant precinct, Cass County, Nebraska",025,92045,31
+59.9,57.8,61.5,"Elkhorn township, Cuming County, Nebraska",039,15010,31
+56.1,56.2,54.5,"Berwyn township, Custer County, Nebraska",041,04685,31
+57.0,55.9,58.1,"Cliff township, Custer County, Nebraska",041,09620,31
+60.2,-666666666.0,-666666666.0,"Hayes township, Custer County, Nebraska",041,21590,31
+41.5,59.8,38.2,"Lillian township, Custer County, Nebraska",041,27120,31
+44.5,46.8,43.6,"Westerville township, Custer County, Nebraska",041,52365,31
+29.6,31.6,29.0,"Myrtle township, Custer County, Nebraska",041,33495,31
+29.5,29.7,-666666666.0,"Ryno township, Custer County, Nebraska",041,42880,31
+36.5,35.9,36.5,"Wayne township, Custer County, Nebraska",041,51805,31
+24.5,34.5,24.5,"Spring Creek township, Custer County, Nebraska",041,46450,31
+43.4,44.5,41.8,"Delight township, Custer County, Nebraska",041,12630,31
+-666666666.0,-666666666.0,-666666666.0,"East Custer township, Custer County, Nebraska",041,14170,31
+63.5,67.0,58.5,"Elim township, Custer County, Nebraska",041,14835,31
+56.6,58.7,56.4,"Triumph township, Custer County, Nebraska",041,49180,31
+52.0,53.2,44.0,"Victoria township, Custer County, Nebraska",041,50685,31
+38.2,41.1,30.3,"Algernon township, Custer County, Nebraska",041,00835,31
+54.3,51.5,54.7,"Garfield township, Custer County, Nebraska",041,18160,31
+47.5,42.9,54.7,"Bruning precinct, Thayer County, Nebraska",169,90390,31
+45.4,46.5,44.7,"Alexandria precinct, Thayer County, Nebraska",169,90018,31
+48.5,50.4,46.4,"Chester precinct, Thayer County, Nebraska",169,90498,31
+39.1,40.3,37.4,"Davenport precinct, Thayer County, Nebraska",169,90660,31
+47.4,47.7,45.9,"Ainsworth city, Brown County, Nebraska",017,90007,31
+41.6,40.3,64.8,"South Pine precinct, Brown County, Nebraska",017,93005,31
+34.6,38.5,34.4,"Johnstown precinct, Brown County, Nebraska",017,91555,31
+66.5,66.3,67.1,"North Pine precinct, Brown County, Nebraska",017,92175,31
+53.4,51.8,53.5,"Ainsworth precinct, Brown County, Nebraska",017,90010,31
+33.7,36.6,25.5,"Precinct 01, Dawes County, Nebraska",045,92472,31
+36.2,36.9,33.8,"Precinct 3, Phelps County, Nebraska",137,92496,31
+38.5,47.3,38.1,"Precinct 1, Phelps County, Nebraska",137,92476,31
+37.2,23.7,37.8,"Precinct 2, Phelps County, Nebraska",137,92486,31
+48.5,48.4,52.2,"Precinct 4, Phelps County, Nebraska",137,92506,31
+40.2,36.3,44.0,"Precinct 11, Phelps County, Nebraska",137,92563,31
+41.7,38.0,45.1,"Precinct 5, Phelps County, Nebraska",137,92516,31
+64.4,54.0,68.8,"Precinct 6, Phelps County, Nebraska",137,92526,31
+40.9,41.9,33.4,"Precinct 7, Phelps County, Nebraska",137,92536,31
+42.2,40.8,44.5,"Precinct 8, Phelps County, Nebraska",137,92544,31
+41.5,31.5,51.4,"Precinct 9, Phelps County, Nebraska",137,92548,31
+49.8,52.1,48.7,"Precinct 10, Phelps County, Nebraska",137,92558,31
+35.0,32.1,40.0,"Precinct 13, Phelps County, Nebraska",137,92572,31
+45.9,37.8,50.8,"Precinct 12, Phelps County, Nebraska",137,92567,31
+32.6,23.4,42.1,"Spring Branch 2 precinct, Stanton County, Nebraska",167,93047,31
+40.1,38.6,43.4,"Precinct 02, Dawes County, Nebraska",045,92482,31
+32.7,40.1,29.6,"Precinct 03, Dawes County, Nebraska",045,92492,31
+20.5,20.4,20.5,"Precinct 04, Dawes County, Nebraska",045,92502,31
+31.9,27.6,38.5,"Precinct 05, Dawes County, Nebraska",045,92512,31
+50.0,53.0,48.8,"Precinct 06, Dawes County, Nebraska",045,92522,31
+24.5,24.8,24.3,"Precinct 07, Dawes County, Nebraska",045,92532,31
+55.1,47.3,55.5,"Precinct 08, Dawes County, Nebraska",045,92542,31
+58.5,60.9,58.2,"Hebron North precinct, Thayer County, Nebraska",169,91358,31
+39.0,42.1,34.9,"Hebron South precinct, Thayer County, Nebraska",169,91359,31
+42.1,37.3,47.3,"Thomas precinct, Thomas County, Nebraska",171,93187,31
+39.2,39.6,38.8,"District 2, Perkins County, Nebraska",135,90718,31
+49.2,45.5,52.8,"District 3, Perkins County, Nebraska",135,90720,31
+40.3,39.5,42.8,"District 1, Perkins County, Nebraska",135,90716,31
+48.3,43.9,49.5,"Wolbach precinct, Greeley County, Nebraska",077,93530,31
+47.9,47.5,48.2,"District 1, Webster County, Nebraska",181,90717,31
+56.0,54.9,57.5,"Precinct 09, Dawes County, Nebraska",045,92547,31
+55.2,53.9,55.6,"Sidney 4 precinct, Cheyenne County, Nebraska",033,92949,31
+65.5,69.0,65.0,"Sidney 5 precinct, Cheyenne County, Nebraska",033,92950,31
+27.7,14.8,34.4,"Sidney 2 precinct, Cheyenne County, Nebraska",033,92947,31
+40.1,38.9,41.7,"Eleven precinct, Box Butte County, Nebraska",013,90857,31
+44.0,47.7,40.1,"Fifteen precinct, Box Butte County, Nebraska",013,90992,31
+50.2,43.0,51.8,"Dix precinct, Kimball County, Nebraska",105,90724,31
+34.3,32.2,36.2,"Bellevue precinct, Sarpy County, Nebraska",153,90190,31
+22.8,22.1,24.4,"Bellevue Second IV precinct, Sarpy County, Nebraska",153,90200,31
+-666666666.0,-666666666.0,-666666666.0,"Sidney 3 precinct, Cheyenne County, Nebraska",033,92948,31
+47.5,44.9,47.9,"District 2, Webster County, Nebraska",181,90719,31
+39.5,39.8,37.6,"District 3, Webster County, Nebraska",181,90721,31
+45.0,40.7,48.6,"District 4, Webster County, Nebraska",181,90722,31
+51.8,48.4,53.7,"District 5, Webster County, Nebraska",181,90723,31
+36.4,42.0,33.0,"South Sheridan precinct, Sheridan County, Nebraska",161,93017,31
+24.9,24.0,24.9,"Precinct 5, Buffalo County, Nebraska",019,92508,31
+53.5,46.0,54.4,"Champion-Lamar precinct, Chase County, Nebraska",029,90487,31
+39.9,42.1,39.8,"Precinct 4, Buffalo County, Nebraska",019,92498,31
+46.6,41.5,50.5,"Deshler precinct, Thayer County, Nebraska",169,90690,31
+54.1,49.8,55.5,"Hebron city, Thayer County, Nebraska",169,91357,31
+44.2,39.5,49.1,"Precinct 1, Buffalo County, Nebraska",019,92468,31
+36.1,31.9,37.1,"Precinct 2, Buffalo County, Nebraska",019,92478,31
+28.7,26.7,29.2,"Precinct 6, Buffalo County, Nebraska",019,92518,31
+21.3,21.6,20.9,"Precinct 7, Buffalo County, Nebraska",019,92528,31
+41.3,36.5,41.7,"Precinct 8, Buffalo County, Nebraska",019,92538,31
+38.8,38.0,39.3,"Precinct 9, Buffalo County, Nebraska",019,92545,31
+23.1,22.8,23.3,"Precinct 11, Buffalo County, Nebraska",019,92559,31
+33.6,31.8,35.4,"Precinct 13, Buffalo County, Nebraska",019,92568,31
+31.7,31.9,31.3,"Precinct 14, Buffalo County, Nebraska",019,92573,31
+43.8,39.9,47.4,"Precinct 19, Buffalo County, Nebraska",019,92598,31
+36.9,39.4,36.4,"Precinct 20, Buffalo County, Nebraska",019,92603,31
+52.2,42.5,60.5,"Precinct 3, Buffalo County, Nebraska",019,92488,31
+33.8,33.9,33.7,"Precinct 10, Buffalo County, Nebraska",019,92553,31
+24.3,27.8,21.9,"Precinct 12, Buffalo County, Nebraska",019,92564,31
+47.4,50.1,44.9,"Precinct 15, Buffalo County, Nebraska",019,92578,31
+37.6,38.0,36.4,"Precinct 16, Buffalo County, Nebraska",019,92583,31
+57.3,55.7,60.3,"Precinct 17, Buffalo County, Nebraska",019,92588,31
+35.6,35.7,35.6,"Precinct 18, Buffalo County, Nebraska",019,92593,31
+37.3,35.3,40.2,"Precinct 21, Buffalo County, Nebraska",019,92608,31
+31.7,27.2,32.8,"Precinct 22, Buffalo County, Nebraska",019,92612,31
+35.1,34.1,35.7,"Precinct 23, Buffalo County, Nebraska",019,92616,31
+42.1,38.9,44.2,"Precinct 24, Buffalo County, Nebraska",019,92618,31
+34.7,34.9,33.0,"Precinct 25, Buffalo County, Nebraska",019,92622,31
+38.3,36.8,38.5,"Precinct 26, Buffalo County, Nebraska",019,92624,31
+44.7,29.8,51.4,"Precinct 27, Buffalo County, Nebraska",019,92626,31
+36.9,38.3,35.4,"Precinct 28, Buffalo County, Nebraska",019,92628,31
+48.1,42.0,49.0,"Precinct B, Seward County, Nebraska",159,92634,31
+42.9,42.7,44.2,"Precinct 29, Buffalo County, Nebraska",019,92629,31
+54.1,47.8,58.2,"Precinct 9, Cedar County, Nebraska",027,92546,31
+38.7,43.4,38.5,"Precinct A, Seward County, Nebraska",159,92632,31
+49.1,52.8,19.0,"Lincoln township, Cuming County, Nebraska",039,27190,31
+58.9,59.6,57.7,"Neligh township, Cuming County, Nebraska",039,33845,31
+41.4,42.7,40.4,"West Point city, Cuming County, Nebraska",039,52575,31
+27.7,28.1,27.6,"Grant township, Cuming County, Nebraska",039,19735,31
+40.4,41.6,39.7,"St. Charles township, Cuming County, Nebraska",039,42985,31
+48.2,49.4,37.5,"Wisner township, Cuming County, Nebraska",039,53485,31
+54.8,51.1,57.8,"Beemer township, Cuming County, Nebraska",039,03670,31
+52.3,56.4,34.1,"Blaine township, Cuming County, Nebraska",039,05280,31
+50.6,53.2,49.1,"Garfield township, Cuming County, Nebraska",039,18125,31
+53.4,57.0,39.3,"Logan township, Cuming County, Nebraska",039,28665,31
+43.9,53.4,43.2,"Monterey township, Cuming County, Nebraska",039,32690,31
+47.3,45.5,48.5,"Sherman township, Cuming County, Nebraska",039,44910,31
+50.6,50.4,67.2,"Cuming township, Cuming County, Nebraska",039,11685,31
+38.9,36.3,39.7,"Bancroft township, Cuming County, Nebraska",039,03022,31
+34.9,33.6,41.5,"Wisner city, Cuming County, Nebraska",039,53450,31
+36.2,37.1,33.6,"Cleveland township, Cuming County, Nebraska",039,09515,31
+28.1,9.0,54.0,"Bismark township, Cuming County, Nebraska",039,05063,31
+38.9,40.3,36.1,"Wakefield township, Dixon County, Nebraska",051,51105,31
+49.0,48.3,60.5,"Clark township, Dixon County, Nebraska",051,09130,31
+58.8,66.8,55.0,"Daily township, Dixon County, Nebraska",051,11965,31
+30.3,40.2,21.6,"Ottercreek township, Dixon County, Nebraska",051,37665,31
+53.8,51.5,57.4,"Concord township, Dixon County, Nebraska",051,10285,31
+47.3,38.1,52.5,"Ponca city, Dixon County, Nebraska",051,39695,31
+59.6,81.1,59.5,"Silvercreek township, Dixon County, Nebraska",051,45365,31
+41.4,41.3,42.0,"Springbank township, Dixon County, Nebraska",051,46415,31
+54.8,54.8,55.0,"Galena township, Dixon County, Nebraska",051,17915,31
+43.6,45.8,39.7,"Hooker township, Dixon County, Nebraska",051,22955,31
+39.4,43.7,13.9,"Logan township, Dixon County, Nebraska",051,28700,31
+44.8,43.6,50.5,"Newcastle township, Dixon County, Nebraska",051,34125,31
+38.1,38.2,38.1,"Ponca township, Dixon County, Nebraska",051,39730,31
+35.3,30.0,37.3,"Emerson township, Dixon County, Nebraska",051,15745,31
+35.1,35.4,31.8,"Haigler precinct, Dundy County, Nebraska",057,91272,31
+50.4,51.7,49.2,"Benkelman No. 3 precinct, Dundy County, Nebraska",057,90215,31
+34.7,35.4,33.5,"Forest City No. 1 precinct, Sarpy County, Nebraska",153,91010,31
+49.9,44.5,55.2,"Platford-Springfield I precinct, Sarpy County, Nebraska",153,92381,31
+50.8,50.6,51.1,"Platford-Springfield II precinct, Sarpy County, Nebraska",153,92382,31
+40.0,38.9,40.1,"Richland I precinct, Sarpy County, Nebraska",153,92732,31
+32.1,34.4,30.7,"Bellevue Second III precinct, Sarpy County, Nebraska",153,90199,31
+35.3,33.6,36.0,"Forest City No. 2 precinct, Sarpy County, Nebraska",153,91012,31
+35.5,35.2,35.8,"Richland IV precinct, Sarpy County, Nebraska",153,92735,31
+38.3,39.1,37.1,"LaPlatte I precinct, Sarpy County, Nebraska",153,91681,31
+28.6,21.5,38.5,"Anderson township, Thurston County, Nebraska",173,01377,31
+26.7,26.2,27.0,"Omaha township, Thurston County, Nebraska",173,37017,31
+39.3,41.1,37.0,"Flournoy township, Thurston County, Nebraska",173,17022,31
+37.5,27.9,38.3,"Merry township, Thurston County, Nebraska",173,31832,31
+20.4,18.0,23.4,"Blackbird township, Thurston County, Nebraska",173,05122,31
+47.5,42.8,49.9,"Bryan township, Thurston County, Nebraska",173,06907,31
+46.3,48.4,39.5,"Perry township, Thurston County, Nebraska",173,38907,31
+21.6,20.3,22.3,"Winnebago township, Thurston County, Nebraska",173,53295,31
+31.2,25.8,36.2,"Dawes township, Thurston County, Nebraska",173,12402,31
+45.7,40.8,49.2,"Pender township, Thurston County, Nebraska",173,38767,31
+58.4,59.4,53.3,"Thayer township, Thurston County, Nebraska",173,48672,31
+50.9,52.2,50.8,"Township 5, Washington County, Nebraska",177,49129,31
+39.4,40.1,36.7,"Township 6, Washington County, Nebraska",177,49130,31
+34.1,32.8,36.1,"Township 7, Washington County, Nebraska",177,49131,31
+46.2,44.9,46.6,"Township 2, Washington County, Nebraska",177,49126,31
+38.9,36.4,41.5,"Blair city, Washington County, Nebraska",177,05350,31
+44.4,42.8,45.4,"Township 1, Washington County, Nebraska",177,49125,31
+54.2,53.1,56.0,"Spencer township, Boyd County, Nebraska",015,46310,31
+49.8,49.1,50.7,"Butte township, Boyd County, Nebraska",015,07520,31
+56.3,56.5,54.5,"Lynch township, Boyd County, Nebraska",015,29785,31
+56.6,56.3,57.4,"McCulley township, Boyd County, Nebraska",015,29995,31
+53.8,54.9,53.4,"Basin township, Boyd County, Nebraska",015,03197,31
+44.3,45.8,42.8,"Mullen township, Boyd County, Nebraska",015,33215,31
+59.5,59.8,56.8,"Bristow township, Boyd County, Nebraska",015,06435,31
+19.3,19.7,16.7,"Bush township, Boyd County, Nebraska",015,07380,31
+37.9,32.8,46.5,"Morton township, Boyd County, Nebraska",015,32935,31
+40.7,37.7,44.4,"Benkelman No. 2 precinct, Dundy County, Nebraska",057,90210,31
+43.6,45.1,43.5,"Ough precinct, Dundy County, Nebraska",057,92283,31
+56.2,54.7,56.6,"Benkelman No. 1 precinct, Dundy County, Nebraska",057,90205,31
+61.5,64.1,61.3,"Fairfield precinct, Hayes County, Nebraska",085,90950,31
+50.2,50.6,48.5,"Hopewell precinct, Hayes County, Nebraska",085,91460,31
+38.3,44.4,36.6,"Hayes Center precinct, Hayes County, Nebraska",085,91335,31
+50.2,50.3,44.0,"Government precinct, Hayes County, Nebraska",085,91175,31
+61.8,63.2,61.4,"Hamlet precinct, Hayes County, Nebraska",085,91290,31
+24.6,24.9,21.5,"Antelope precinct, Hayes County, Nebraska",085,90050,31
+39.8,39.3,54.5,"Germanville precinct, Hayes County, Nebraska",085,91105,31
+47.0,35.8,62.2,"Thornburg precinct, Hayes County, Nebraska",085,93195,31
+53.5,53.4,54.1,"Cleveland precinct, Cherry County, Nebraska",031,90530,31
+31.1,36.0,29.3,"Kilgore precinct, Cherry County, Nebraska",031,91590,31
+32.7,34.9,32.4,"Russell precinct, Cherry County, Nebraska",031,92810,31
+40.7,33.8,44.9,"Valentine city, Cherry County, Nebraska",031,93278,31
+48.4,48.9,45.9,"Crookston precinct, Cherry County, Nebraska",031,90615,31
+53.7,53.7,53.7,"Merriman precinct, Cherry County, Nebraska",031,91960,31
+35.6,35.7,34.8,"Mother Lake precinct, Cherry County, Nebraska",031,92040,31
+38.8,38.9,38.8,"Barley precinct, Cherry County, Nebraska",031,90125,31
+50.5,55.8,23.9,"Goose Creek precinct, Cherry County, Nebraska",031,91165,31
+47.2,48.9,44.5,"Lackey precinct, Cherry County, Nebraska",031,91655,31
+61.2,61.1,62.3,"Loup precinct, Cherry County, Nebraska",031,91870,31
+33.9,38.0,27.9,"Nenzel precinct, Cherry County, Nebraska",031,92095,31
+54.7,51.3,57.6,"Valentine precinct, Cherry County, Nebraska",031,93280,31
+26.3,53.8,24.7,"Gillaspie precinct, Cherry County, Nebraska",031,91135,31
+-666666666.0,-666666666.0,-666666666.0,"Kennedy precinct, Cherry County, Nebraska",031,91575,31
+40.2,10.6,-666666666.0,"King precinct, Cherry County, Nebraska",031,91610,31
+65.6,65.5,65.7,"Wells precinct, Cherry County, Nebraska",031,93400,31
+27.3,24.8,45.8,"Cody precinct, Cherry County, Nebraska",031,90550,31
+35.6,35.8,26.8,"Wood Lake precinct, Cherry County, Nebraska",031,93535,31
+48.5,48.4,58.3,"Everett township, Dodge County, Nebraska",053,16235,31
+52.3,52.3,52.3,"Hooper township, Dodge County, Nebraska",053,23060,31
+58.1,58.9,52.6,"Maple township, Dodge County, Nebraska",053,30450,31
+52.4,50.9,52.5,"Scribner city, Dodge County, Nebraska",053,44280,31
+48.1,44.0,48.7,"Webster township, Dodge County, Nebraska",053,51910,31
+35.9,35.3,36.9,"Pebble township, Dodge County, Nebraska",053,38645,31
+54.4,53.9,55.5,"Union township, Dodge County, Nebraska",053,49670,31
+53.7,56.0,52.8,"Logan township, Dodge County, Nebraska",053,28735,31
+41.1,38.7,43.9,"Platte township, Dodge County, Nebraska",053,39275,31
+61.5,61.9,56.8,"Cuming township, Dodge County, Nebraska",053,11720,31
+60.5,60.5,63.0,"Pleasant Valley township, Dodge County, Nebraska",053,39485,31
+50.6,52.4,50.2,"Elkhorn township, Dodge County, Nebraska",053,15045,31
+37.0,36.0,37.5,"Fremont city, Dodge County, Nebraska",053,17670,31
+41.3,41.9,39.3,"Nickerson township, Dodge County, Nebraska",053,34335,31
+51.5,58.5,37.8,"Ridgeley township, Dodge County, Nebraska",053,41410,31
+47.8,48.0,43.6,"Cotterell township, Dodge County, Nebraska",053,10775,31
+35.0,34.0,35.4,"North Bend city, Dodge County, Nebraska",053,34720,31
+21.8,26.8,21.3,"Bennett township, Fillmore County, Nebraska",059,04335,31
+51.6,51.7,51.3,"Hamilton township, Fillmore County, Nebraska",059,20715,31
+11.8,9.9,12.5,"Highland precinct, Hayes County, Nebraska",085,91400,31
+22.0,34.3,6.8,"Concord precinct, Hayes County, Nebraska",085,90570,31
+28.8,26.4,47.3,"Deerfield precinct, Hayes County, Nebraska",085,90675,31
+-666666666.0,-666666666.0,-666666666.0,"Harrison precinct, Hayes County, Nebraska",085,91320,31
+27.9,27.6,48.7,"Blackwood precinct, Hayes County, Nebraska",085,90255,31
+59.6,-666666666.0,-666666666.0,"High Ridge precinct, Hayes County, Nebraska",085,91440,31
+37.8,32.5,38.8,"Precinct C, Seward County, Nebraska",159,92636,31
+56.1,44.2,58.0,"Precinct D, Seward County, Nebraska",159,92638,31
+42.4,39.6,44.1,"Precinct E, Seward County, Nebraska",159,92642,31
+30.1,19.4,41.3,"Precinct F, Seward County, Nebraska",159,92644,31
+56.2,58.3,54.4,"Precinct G, Seward County, Nebraska",159,92646,31
+42.7,42.0,44.1,"Precinct H, Seward County, Nebraska",159,92648,31

@@ -1,0 +1,195 @@
+geoid,name,median,county,county subdivision,state
+3010193402,"Sunburst CCD, Toole County, Montana",660.0,101,93402,30
+3003591460,"Glacier National Park CCD, Glacier County, Montana",-666666666.0,035,91460,30
+3001991218,"Fort Peck Reservation CCD, Daniels County, Montana",917.0,019,91218,30
+3003792016,"Lavina CCD, Golden Valley County, Montana",525.0,037,92016,30
+3003590777,"Cut Bank CCD, Glacier County, Montana",662.0,035,90777,30
+3002590168,"Baker CCD, Fallon County, Montana",637.0,025,90168,30
+3002592730,"Plevna CCD, Fallon County, Montana",596.0,025,92730,30
+3003792940,"Ryegate CCD, Golden Valley County, Montana",467.0,037,92940,30
+3004593318,"Stanford CCD, Judith Basin County, Montana",575.0,045,93318,30
+3004591407,"Geyser CCD, Judith Basin County, Montana",456.0,045,91407,30
+3004591785,"Hobson CCD, Judith Basin County, Montana",635.0,045,91785,30
+3009390483,"Butte CCD, Silver Bow County, Montana",638.0,093,90483,30
+3009592604,"Park City CCD, Stillwater County, Montana",798.0,095,92604,30
+3009590693,"Columbus CCD, Stillwater County, Montana",1021.0,095,90693,30
+3009590021,"Absarokee CCD, Stillwater County, Montana",765.0,095,90021,30
+3009592510,"North Stillwater CCD, Stillwater County, Montana",639.0,095,92510,30
+3002390063,"Anaconda CCD, Deer Lodge County, Montana",519.0,023,90063,30
+3004390399,"Boulder CCD, Jefferson County, Montana",1063.0,043,90399,30
+3004393822,"Whitehall CCD, Jefferson County, Montana",586.0,043,93822,30
+3003990945,"Drummond CCD, Granite County, Montana",523.0,039,90945,30
+3003992625,"Philipsburg CCD, Granite County, Montana",632.0,039,92625,30
+3005590630,"Circle CCD, McCone County, Montana",560.0,055,90630,30
+3005592487,"North McCone CCD, McCone County, Montana",550.0,055,92487,30
+3010791659,"Harlowton CCD, Wheatland County, Montana",512.0,107,91659,30
+3010791869,"Judith Gap-Shawmut CCD, Wheatland County, Montana",556.0,107,91869,30
+3005793633,"Twin Bridges CCD, Madison County, Montana",729.0,057,93633,30
+3005793717,"Virginia City CCD, Madison County, Montana",558.0,057,93717,30
+3005791680,"Harrison CCD, Madison County, Montana",547.0,057,91680,30
+3005793045,"Sheridan CCD, Madison County, Montana",628.0,057,93045,30
+3005792184,"Madison Valley CCD, Madison County, Montana",920.0,057,92184,30
+3008792856,"Rosebud CCD, Rosebud County, Montana",694.0,087,92856,30
+3008790084,"Ashland CCD, Rosebud County, Montana",583.0,087,90084,30
+3008791155,"Forsyth CCD, Rosebud County, Montana",659.0,087,91155,30
+3008792491,"North of the Yellowstone CCD, Rosebud County, Montana",575.0,087,92491,30
+3009191260,"Fort Peck Reservation CCD, Sheridan County, Montana",463.0,091,91260,30
+3009192709,"Plentywood CCD, Sheridan County, Montana",652.0,091,92709,30
+3009193738,"Westby CCD, Sheridan County, Montana",494.0,091,93738,30
+3009192268,"Medicine Lake CCD, Sheridan County, Montana",616.0,091,92268,30
+3001191050,"Ekalaka CCD, Carter County, Montana",478.0,011,91050,30
+3002191491,"Glendive CCD, Dawson County, Montana",647.0,021,91491,30
+3000391617,"Hardin CCD, Big Horn County, Montana",734.0,003,91617,30
+3000390756,"Crow Reservation CCD, Big Horn County, Montana",419.0,003,90756,30
+3000793570,"Townsend East CCD, Broadwater County, Montana",667.0,007,93570,30
+3000793591,"Townsend West CCD, Broadwater County, Montana",1065.0,007,93591,30
+3004993990,"Wolf Creek CCD, Lewis and Clark County, Montana",1100.0,049,93990,30
+3004990105,"Augusta CCD, Lewis and Clark County, Montana",500.0,049,90105,30
+3004992100,"Lincoln CCD, Lewis and Clark County, Montana",1113.0,049,92100,30
+3004991722,"Helena CCD, Lewis and Clark County, Montana",903.0,049,91722,30
+3007393675,"Valier-Dupuyer CCD, Pondera County, Montana",611.0,073,93675,30
+3007390714,"Conrad CCD, Pondera County, Montana",685.0,073,90714,30
+3011191806,"Huntley Project CCD, Yellowstone County, Montana",882.0,111,91806,30
+3011193297,"South Yellowstone CCD, Yellowstone County, Montana",1090.0,111,93297,30
+3011191995,"Laurel CCD, Yellowstone County, Montana",1017.0,111,91995,30
+3011190315,"Billings CCD, Yellowstone County, Montana",898.0,111,90315,30
+3011192541,"Northwest Yellowstone CCD, Yellowstone County, Montana",1509.0,111,92541,30
+3011193024,"Shepherd CCD, Yellowstone County, Montana",1225.0,111,93024,30
+3006392331,"Missoula CCD, Missoula County, Montana",873.0,063,92331,30
+3006392142,"Lolo CCD, Missoula County, Montana",918.0,063,92142,30
+3006393003,"Seeley Lake-Blackfoot Valley CCD, Missoula County, Montana",759.0,063,93003,30
+3008190819,"Darby CCD, Ravalli County, Montana",721.0,081,90819,30
+3008193696,"Victor CCD, Ravalli County, Montana",649.0,081,93696,30
+3008193339,"Stevensville CCD, Ravalli County, Montana",958.0,081,93339,30
+3008191575,"Hamilton CCD, Ravalli County, Montana",803.0,081,91575,30
+3010591470,"Glasgow CCD, Valley County, Montana",693.0,105,91470,30
+3010591764,"Hinsdale CCD, Valley County, Montana",667.0,105,91764,30
+3010593276,"South Valley CCD, Valley County, Montana",651.0,105,93276,30
+3010592562,"Opheim CCD, Valley County, Montana",542.0,105,92562,30
+3010591281,"Fort Peck Reservation CCD, Valley County, Montana",423.0,105,91281,30
+3001391554,"Great Falls North CCD, Cascade County, Montana",598.0,013,91554,30
+3001390231,"Belt CCD, Cascade County, Montana",827.0,013,90231,30
+3001393423,"Sun River Valley CCD, Cascade County, Montana",671.0,013,93423,30
+3001390525,"Cascade CCD, Cascade County, Montana",638.0,013,90525,30
+3001392373,"Monarch-Neihart CCD, Cascade County, Montana",493.0,013,92373,30
+3001391533,"Great Falls CCD, Cascade County, Montana",768.0,013,91533,30
+3001391029,"Eden-Stockett CCD, Cascade County, Montana",800.0,013,91029,30
+3008193380,"Sula CCD, Ravalli County, Montana",528.0,081,93380,30
+3002192782,"Richey CCD, Dawson County, Montana",521.0,021,92782,30
+3002991118,"Flathead Reservation CCD, Flathead County, Montana",-666666666.0,029,91118,30
+3002991964,"Lakeside-Somers CCD, Flathead County, Montana",1000.0,029,91964,30
+3001992992,"Scobey CCD, Daniels County, Montana",658.0,019,92992,30
+3007390357,"Blackfeet Reservation East CCD, Pondera County, Montana",592.0,073,90357,30
+3007390378,"Blackfeet Reservation West CCD, Pondera County, Montana",387.0,073,90378,30
+3006792131,"Livingston CCD, Park County, Montana",769.0,067,92131,30
+3006794019,"Yellowstone National Park CCD, Park County, Montana",-666666666.0,067,94019,30
+3008991134,"Flathead Reservation CCD, Sanders County, Montana",434.0,089,91134,30
+3003590336,"Blackfeet Reservation CCD, Glacier County, Montana",295.0,035,90336,30
+3011192426,"Northeast Yellowstone CCD, Yellowstone County, Montana",575.0,111,92426,30
+3007191186,"Fort Belknap Reservation CCD, Phillips County, Montana",375.0,071,91186,30
+3007193223,"South Phillips CCD, Phillips County, Montana",-666666666.0,071,93223,30
+3001190052,"Alzada-Boyes CCD, Carter County, Montana",425.0,011,90052,30
+3009390485,"Butte-Silver Bow Northwest CCD, Silver Bow County, Montana",666.0,093,90485,30
+3009390487,"Butte-Silver Bow South CCD, Silver Bow County, Montana",678.0,093,90487,30
+3006391128,"Flathead Reservation CCD, Missoula County, Montana",516.0,063,91128,30
+3002791596,"Hanover CCD, Fergus County, Montana",1080.0,027,91596,30
+3002790903,"Denton CCD, Fergus County, Montana",594.0,027,90903,30
+3002792037,"Lewistown CCD, Fergus County, Montana",648.0,027,92037,30
+3002792898,"Roy CCD, Fergus County, Montana",450.0,027,92898,30
+3002791512,"Grass Range CCD, Fergus County, Montana",439.0,027,91512,30
+3002793927,"Winifred CCD, Fergus County, Montana",510.0,027,93927,30
+3003392478,"North Garfield CCD, Garfield County, Montana",413.0,033,92478,30
+3006190042,"Alberton CCD, Mineral County, Montana",911.0,061,90042,30
+3006391304,"Frenchtown-Wye CCD, Missoula County, Montana",1263.0,063,91304,30
+3000990976,"East Carbon CCD, Carbon County, Montana",725.0,009,90976,30
+3003393192,"South Garfield CCD, Garfield County, Montana",528.0,033,93192,30
+3006193444,"Superior CCD, Mineral County, Montana",536.0,061,93444,30
+3006193759,"West End CCD, Mineral County, Montana",538.0,061,93759,30
+3006993948,"Winnett North CCD, Petroleum County, Montana",619.0,069,93948,30
+3006993969,"Winnett South CCD, Petroleum County, Montana",463.0,069,93969,30
+3007790126,"Avon-Elliston CCD, Powell County, Montana",622.0,077,90126,30
+3007790861,"Deer Lodge CCD, Powell County, Montana",579.0,077,90861,30
+3007791743,"Helmville CCD, Powell County, Montana",504.0,077,91743,30
+3008993507,"Thompson Falls-West End CCD, Sanders County, Montana",624.0,089,93507,30
+3003193528,"Three Forks CCD, Gallatin County, Montana",814.0,031,93528,30
+3008992688,"Plains CCD, Sanders County, Montana",696.0,089,92688,30
+3010993885,"Wibaux CCD, Wibaux County, Montana",521.0,109,93885,30
+3003191344,"Gallatin Gateway CCD, Gallatin County, Montana",1214.0,031,91344,30
+3003190420,"Bozeman CCD, Gallatin County, Montana",1066.0,031,90420,30
+3003192226,"Manhattan CCD, Gallatin County, Montana",966.0,031,92226,30
+3003193780,"West Yellowstone CCD, Gallatin County, Montana",595.0,031,93780,30
+3003190189,"Belgrade CCD, Gallatin County, Montana",1143.0,031,90189,30
+3005992247,"Martinsdale-Ringling CCD, Meagher County, Montana",513.0,059,92247,30
+3005993843,"White Sulphur Springs CCD, Meagher County, Montana",615.0,059,93843,30
+3000992793,"Roberts CCD, Carbon County, Montana",820.0,009,92793,30
+3000991827,"Joliet CCD, Carbon County, Montana",782.0,009,91827,30
+3000992772,"Red Lodge CCD, Carbon County, Montana",838.0,009,92772,30
+3000991323,"Fromberg-Bridger CCD, Carbon County, Montana",623.0,009,91323,30
+3000190273,"Big Hole Basin CCD, Beaverhead County, Montana",465.0,001,90273,30
+3000190651,"Clark Canyon-Horse Prairie CCD, Beaverhead County, Montana",529.0,001,90651,30
+3000190924,"Dillon CCD, Beaverhead County, Montana",610.0,001,90924,30
+3000192079,"Lima-Centennial Valley CCD, Beaverhead County, Montana",546.0,001,92079,30
+3002991932,"Kalispell Southwest CCD, Flathead County, Montana",852.0,029,91932,30
+3002990672,"Columbia Falls CCD, Flathead County, Montana",762.0,029,90672,30
+3002990735,"Creston-Bigfork CCD, Flathead County, Montana",1016.0,029,90735,30
+3002991911,"Kalispell Northwest CCD, Flathead County, Montana",1040.0,029,91911,30
+3002991449,"Glacier National Park CCD, Flathead County, Montana",913.0,029,91449,30
+3002990147,"Bad Rock-Columbia Heights CCD, Flathead County, Montana",967.0,029,90147,30
+3002991890,"Kalispell CCD, Flathead County, Montana",849.0,029,91890,30
+3002993801,"Whitefish CCD, Flathead County, Montana",974.0,029,93801,30
+3002993171,"South Fork CCD, Flathead County, Montana",469.0,029,93171,30
+3006592289,"Melstone CCD, Musselshell County, Montana",576.0,065,92289,30
+3006592877,"Roundup CCD, Musselshell County, Montana",576.0,065,92877,30
+3006591953,"Klein CCD, Musselshell County, Montana",1045.0,065,91953,30
+3007192205,"Malta CCD, Phillips County, Montana",466.0,071,92205,30
+3007193864,"Whitewater CCD, Phillips County, Montana",335.0,071,93864,30
+3001793087,"Shirley-Ismay CCD, Custer County, Montana",493.0,017,93087,30
+3001792310,"Miles City CCD, Custer County, Montana",704.0,017,92310,30
+3001792415,"North Custer CCD, Custer County, Montana",681.0,017,92415,30
+3004191701,"Havre CCD, Hill County, Montana",698.0,041,91701,30
+3004192814,"Rocky Boy's CCD, Hill County, Montana",315.0,041,92814,30
+3004193906,"Wild Horse Lake CCD, Hill County, Montana",717.0,041,93906,30
+3004192919,"Rudyard CCD, Hill County, Montana",485.0,041,92919,30
+3004191428,"Gildford CCD, Hill County, Montana",551.0,041,91428,30
+3001590294,"Big Sandy CCD, Chouteau County, Montana",338.0,015,90294,30
+3001591197,"Fort Benton CCD, Chouteau County, Montana",618.0,015,91197,30
+3001591386,"Geraldine CCD, Chouteau County, Montana",575.0,015,91386,30
+3007590987,"East Powder River CCD, Powder River County, Montana",492.0,075,90987,30
+3007592583,"Otter CCD, Powder River County, Montana",508.0,075,92583,30
+3005392058,"Libby CCD, Lincoln County, Montana",597.0,053,92058,30
+3005391071,"Eureka CCD, Lincoln County, Montana",726.0,053,91071,30
+3005393612,"Troy CCD, Lincoln County, Montana",576.0,053,93612,30
+3006791365,"Gardiner-Cooke City CCD, Park County, Montana",718.0,067,91365,30
+3006793066,"Shields Valley CCD, Park County, Montana",827.0,067,93066,30
+3008591008,"East Roosevelt CCD, Roosevelt County, Montana",633.0,085,91008,30
+3008591239,"Fort Peck Reservation CCD, Roosevelt County, Montana",373.0,085,91239,30
+3010393255,"South Treasure CCD, Treasure County, Montana",576.0,103,93255,30
+3010392520,"North Treasure CCD, Treasure County, Montana",719.0,103,92520,30
+3000591638,"Harlem CCD, Blaine County, Montana",586.0,005,91638,30
+3000591176,"Fort Belknap CCD, Blaine County, Montana",329.0,005,91176,30
+3000590588,"Chinook CCD, Blaine County, Montana",599.0,005,90588,30
+3005191848,"Joplin CCD, Liberty County, Montana",509.0,051,91848,30
+3005190567,"Chester CCD, Liberty County, Montana",504.0,051,90567,30
+3009792499,"North of the Yellowstone CCD, Sweet Grass County, Montana",698.0,097,92499,30
+3009793213,"South of the Yellowstone CCD, Sweet Grass County, Montana",698.0,097,93213,30
+3008391113,"Fairview CCD, Richland County, Montana",538.0,083,91113,30
+3008391974,"Lambert CCD, Richland County, Montana",643.0,083,91974,30
+3008393108,"Sidney CCD, Richland County, Montana",741.0,083,93108,30
+3008392982,"Savage-Crane CCD, Richland County, Montana",729.0,083,92982,30
+3009990966,"Dutton-Power CCD, Teton County, Montana",702.0,099,90966,30
+3009990609,"Choteau CCD, Teton County, Montana",656.0,099,90609,30
+3009991092,"Fairfield CCD, Teton County, Montana",665.0,099,91092,30
+3007993486,"Terry South CCD, Prairie County, Montana",444.0,079,93486,30
+3007993465,"Terry North CCD, Prairie County, Montana",368.0,079,93465,30
+3010193014,"Shelby CCD, Toole County, Montana",573.0,101,93014,30
+3004794000,"Woods Bay-Rollins CCD, Lake County, Montana",883.0,047,94000,30
+3004791123,"Flathead Reservation CCD, Lake County, Montana",711.0,047,91123,30
+3003190305,"Big Sky CCD, Gallatin County, Montana",1601.0,031,90305,30
+3003194017,"Yellowstone National Park CCD, Gallatin County, Montana",-666666666.0,031,94017,30
+3002393728,"Warm Springs CCD, Deer Lodge County, Montana",647.0,023,93728,30
+3001793160,"South Custer CCD, Custer County, Montana",528.0,017,93160,30
+3010992667,"Pine Hill-St. Phillips CCD, Wibaux County, Montana",928.0,109,92667,30
+3008792457,"Northern Cheyenne Reservation CCD, Rosebud County, Montana",427.0,087,92457,30
+3000392436,"Northern Cheyenne Reservation CCD, Big Horn County, Montana",498.0,003,92436,30
+3000390850,"Decker CCD, Big Horn County, Montana",738.0,003,90850,30
+3007590441,"Broadus CCD, Powder River County, Montana",573.0,075,90441,30

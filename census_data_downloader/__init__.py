@@ -67,6 +67,8 @@ def download_everything(*args, **kwargs):
         logger.debug(f"Downloading nationwide {klass.PROCESSED_TABLE_NAME} dataset")
         obj.download_usa()
         for state in states.STATES:
+            logger.debug(f"Downloading county subdivision {klass.PROCESSED_TABLE_NAME} data in ${state.name}")
+            obj.download_county_subdivisions(state.abbr)
             logger.debug(f"Downloading tract-level {klass.PROCESSED_TABLE_NAME} data in {state.name}")
             obj.download_tracts(state.abbr)
             logger.debug(f"Downloading legislative-district-level {klass.PROCESSED_TABLE_NAME} data in {state.name}")

@@ -1,0 +1,174 @@
+geoid,name,total,same_house,moved_within_county,moved_from_different_county_in_same_state,moved_from_different_state,moved_from_abroad,county,county subdivision,state
+0900163480,"Redding town, Fairfield County, Connecticut",413.0,290.0,123.0,0.0,0.0,0.0,001,63480,09
+0900174190,"Stratford town, Fairfield County, Connecticut",8023.0,7333.0,296.0,254.0,130.0,10.0,001,74190,09
+0900173070,"Stamford town, Fairfield County, Connecticut",33375.0,28824.0,3397.0,41.0,703.0,410.0,001,73070,09
+0900150580,"New Canaan town, Fairfield County, Connecticut",1067.0,677.0,390.0,0.0,0.0,0.0,001,50580,09
+0900150860,"New Fairfield town, Fairfield County, Connecticut",996.0,756.0,173.0,0.0,33.0,34.0,001,50860,09
+0900152980,"Newtown town, Fairfield County, Connecticut",1977.0,1747.0,141.0,75.0,0.0,14.0,001,52980,09
+0900183430,"Weston town, Fairfield County, Connecticut",674.0,615.0,50.0,0.0,0.0,9.0,001,83430,09
+090010,"County subdivisions not defined, Fairfield County, Connecticut",0.0,0.0,0.0,0.0,0.0,0.0,001,0,09
+0900123890,"Easton town, Fairfield County, Connecticut",370.0,307.0,63.0,0.0,0.0,0.0,001,23890,09
+0900186370,"Wilton town, Fairfield County, Connecticut",586.0,484.0,48.0,0.0,42.0,12.0,001,86370,09
+090018070,"Bridgeport town, Fairfield County, Connecticut",56909.0,45277.0,9387.0,468.0,950.0,827.0,001,8070,09
+0900118850,"Darien town, Fairfield County, Connecticut",671.0,569.0,41.0,0.0,28.0,33.0,001,18850,09
+0900126620,"Fairfield town, Fairfield County, Connecticut",3839.0,3266.0,266.0,75.0,211.0,21.0,001,26620,09
+090014720,"Bethel town, Fairfield County, Connecticut",1339.0,1183.0,156.0,0.0,0.0,0.0,001,4720,09
+0900163970,"Ridgefield town, Fairfield County, Connecticut",1346.0,1282.0,64.0,0.0,0.0,0.0,001,63970,09
+0900168170,"Shelton town, Fairfield County, Connecticut",2752.0,2429.0,199.0,8.0,92.0,24.0,001,68170,09
+0900183500,"Westport town, Fairfield County, Connecticut",1211.0,1180.0,9.0,1.0,9.0,12.0,001,83500,09
+0900118500,"Danbury town, Fairfield County, Connecticut",25384.0,21409.0,2500.0,130.0,889.0,456.0,001,18500,09
+090093250,"Beacon Falls town, New Haven County, Connecticut",433.0,433.0,0.0,0.0,0.0,0.0,009,3250,09
+0900982870,"West Haven town, New Haven County, Connecticut",11447.0,9848.0,749.0,153.0,155.0,542.0,009,82870,09
+090094580,"Bethany town, New Haven County, Connecticut",354.0,187.0,167.0,0.0,0.0,0.0,009,4580,09
+0900922910,"East Haven town, New Haven County, Connecticut",4064.0,3315.0,648.0,67.0,34.0,0.0,009,22910,09
+0900934950,"Guilford town, New Haven County, Connecticut",809.0,671.0,104.0,2.0,0.0,32.0,009,34950,09
+0900944560,"Madison town, New Haven County, Connecticut",165.0,114.0,0.0,51.0,0.0,0.0,009,44560,09
+0900946940,"Middlebury town, New Haven County, Connecticut",405.0,383.0,22.0,0.0,0.0,0.0,009,46940,09
+0900987560,"Wolcott town, New Haven County, Connecticut",701.0,697.0,2.0,2.0,0.0,0.0,009,87560,09
+0900978740,"Wallingford town, New Haven County, Connecticut",3525.0,3401.0,71.0,53.0,0.0,0.0,009,78740,09
+0900987700,"Woodbridge town, New Haven County, Connecticut",402.0,361.0,41.0,0.0,0.0,0.0,009,87700,09
+090091220,"Ansonia town, New Haven County, Connecticut",4085.0,3685.0,269.0,131.0,0.0,0.0,009,1220,09
+0900949950,"Naugatuck town, New Haven County, Connecticut",3642.0,3322.0,235.0,33.0,52.0,0.0,009,49950,09
+0900957600,"Orange town, New Haven County, Connecticut",338.0,315.0,23.0,0.0,0.0,0.0,009,57600,09
+0900958300,"Oxford town, New Haven County, Connecticut",632.0,598.0,0.0,16.0,18.0,0.0,009,58300,09
+0900962290,"Prospect town, New Haven County, Connecticut",414.0,399.0,15.0,0.0,0.0,0.0,009,62290,09
+090090,"County subdivisions not defined, New Haven County, Connecticut",0.0,0.0,0.0,0.0,0.0,0.0,009,0,09
+090097310,"Branford town, New Haven County, Connecticut",1279.0,946.0,258.0,37.0,38.0,0.0,009,7310,09
+0900919550,"Derby town, New Haven County, Connecticut",2819.0,2164.0,393.0,206.0,19.0,37.0,009,19550,09
+0900946520,"Meriden town, New Haven County, Connecticut",14277.0,12429.0,1428.0,160.0,149.0,111.0,009,46520,09
+0900952070,"New Haven town, New Haven County, Connecticut",39180.0,32333.0,4995.0,282.0,876.0,694.0,009,52070,09
+0900969640,"Southbury town, New Haven County, Connecticut",1058.0,974.0,13.0,42.0,0.0,29.0,009,69640,09
+0900914160,"Cheshire town, New Haven County, Connecticut",1221.0,861.0,88.0,195.0,63.0,14.0,009,14160,09
+0900953890,"North Branford town, New Haven County, Connecticut",680.0,590.0,90.0,0.0,0.0,0.0,009,53890,09
+0900168310,"Sherman town, Fairfield County, Connecticut",70.0,70.0,0.0,0.0,0.0,0.0,001,68310,09
+0900935650,"Hamden town, New Haven County, Connecticut",6742.0,5147.0,933.0,156.0,497.0,9.0,009,35650,09
+0900156060,"Norwalk town, Fairfield County, Connecticut",23481.0,21652.0,1115.0,177.0,169.0,368.0,001,56060,09
+090018980,"Brookfield town, Fairfield County, Connecticut",942.0,669.0,131.0,104.0,30.0,8.0,001,8980,09
+0900177200,"Trumbull town, Fairfield County, Connecticut",3031.0,2257.0,363.0,349.0,61.0,1.0,001,77200,09
+0900967610,"Seymour town, New Haven County, Connecticut",2755.0,2194.0,512.0,49.0,0.0,0.0,009,67610,09
+0900980070,"Waterbury town, New Haven County, Connecticut",39728.0,32124.0,4361.0,896.0,1694.0,653.0,009,80070,09
+0900954870,"North Haven town, New Haven County, Connecticut",1235.0,1108.0,102.0,2.0,23.0,0.0,009,54870,09
+0900947535,"Milford town, New Haven County, Connecticut",3576.0,3273.0,209.0,67.0,27.0,0.0,009,47535,09
+0900537280,"Harwinton town, Litchfield County, Connecticut",53.0,23.0,10.0,20.0,0.0,0.0,005,37280,09
+0900549460,"Morris town, Litchfield County, Connecticut",77.0,40.0,14.0,0.0,23.0,0.0,005,49460,09
+0900560750,"Plymouth town, Litchfield County, Connecticut",699.0,538.0,120.0,41.0,0.0,0.0,005,60750,09
+0900567960,"Sharon town, Litchfield County, Connecticut",18.0,18.0,0.0,0.0,0.0,0.0,005,67960,09
+0900575730,"Thomaston town, Litchfield County, Connecticut",167.0,128.0,21.0,18.0,0.0,0.0,005,75730,09
+0900566420,"Salisbury town, Litchfield County, Connecticut",163.0,156.0,0.0,0.0,7.0,0.0,005,66420,09
+0900576570,"Torrington town, Litchfield County, Connecticut",3367.0,2716.0,445.0,165.0,38.0,3.0,005,76570,09
+0900517240,"Cornwall town, Litchfield County, Connecticut",94.0,68.0,0.0,0.0,21.0,5.0,005,17240,09
+0900532290,"Goshen town, Litchfield County, Connecticut",181.0,181.0,0.0,0.0,0.0,0.0,005,32290,09
+0900552630,"New Milford town, Litchfield County, Connecticut",2284.0,1750.0,179.0,248.0,41.0,66.0,005,52630,09
+0900580490,"Watertown town, Litchfield County, Connecticut",824.0,606.0,74.0,144.0,0.0,0.0,005,80490,09
+0900516050,"Colebrook town, Litchfield County, Connecticut",30.0,26.0,0.0,0.0,4.0,0.0,005,16050,09
+0900587910,"Woodbury town, Litchfield County, Connecticut",482.0,397.0,0.0,85.0,0.0,0.0,005,87910,09
+090058210,"Bridgewater town, Litchfield County, Connecticut",41.0,41.0,0.0,0.0,0.0,0.0,005,8210,09
+0900510940,"Canaan town, Litchfield County, Connecticut",10.0,10.0,0.0,0.0,0.0,0.0,005,10940,09
+090054930,"Bethlehem town, Litchfield County, Connecticut",32.0,32.0,0.0,0.0,0.0,0.0,005,4930,09
+0900543370,"Litchfield town, Litchfield County, Connecticut",383.0,364.0,16.0,2.0,0.0,1.0,005,43370,09
+0900579510,"Warren town, Litchfield County, Connecticut",65.0,58.0,0.0,0.0,7.0,0.0,005,79510,09
+0900553470,"Norfolk town, Litchfield County, Connecticut",51.0,48.0,0.0,3.0,0.0,0.0,005,53470,09
+0900554030,"North Canaan town, Litchfield County, Connecticut",216.0,142.0,74.0,0.0,0.0,0.0,005,54030,09
+0900565930,"Roxbury town, Litchfield County, Connecticut",52.0,52.0,0.0,0.0,0.0,0.0,005,65930,09
+0900586440,"Winchester town, Litchfield County, Connecticut",589.0,466.0,32.0,0.0,91.0,0.0,005,86440,09
+0900551350,"New Hartford town, Litchfield County, Connecticut",256.0,256.0,0.0,0.0,0.0,0.0,005,51350,09
+0900579720,"Washington town, Litchfield County, Connecticut",147.0,147.0,0.0,0.0,0.0,0.0,005,79720,09
+090052760,"Barkhamsted town, Litchfield County, Connecticut",28.0,28.0,0.0,0.0,0.0,0.0,005,2760,09
+0900312270,"Canton town, Hartford County, Connecticut",631.0,580.0,20.0,19.0,12.0,0.0,003,12270,09
+0900325990,"Enfield town, Hartford County, Connecticut",3784.0,2788.0,373.0,272.0,313.0,38.0,003,25990,09
+0900352140,"Newington town, Hartford County, Connecticut",2946.0,2320.0,380.0,67.0,146.0,33.0,003,52140,09
+0900360120,"Plainville town, Hartford County, Connecticut",1605.0,1469.0,121.0,1.0,13.0,1.0,003,60120,09
+0900368940,"Simsbury town, Hartford County, Connecticut",1166.0,893.0,97.0,1.0,62.0,113.0,003,68940,09
+0900371390,"South Windsor town, Hartford County, Connecticut",1388.0,1306.0,56.0,0.0,10.0,16.0,003,71390,09
+0900382590,"West Hartford town, Hartford County, Connecticut",6656.0,5598.0,613.0,243.0,176.0,26.0,003,82590,09
+0900387000,"Windsor town, Hartford County, Connecticut",2726.0,2479.0,93.0,32.0,69.0,53.0,003,87000,09
+0900387070,"Windsor Locks town, Hartford County, Connecticut",700.0,668.0,22.0,0.0,10.0,0.0,003,87070,09
+0900324800,"East Windsor town, Hartford County, Connecticut",739.0,666.0,71.0,1.0,1.0,0.0,003,24800,09
+0900350440,"New Britain town, Hartford County, Connecticut",29365.0,25189.0,3181.0,111.0,582.0,302.0,003,50440,09
+090038490,"Bristol town, Hartford County, Connecticut",8814.0,6040.0,1715.0,847.0,192.0,20.0,003,8490,09
+0900327600,"Farmington town, Hartford County, Connecticut",1252.0,1043.0,203.0,6.0,0.0,0.0,003,27600,09
+0900370550,"Southington town, Hartford County, Connecticut",1573.0,1332.0,173.0,68.0,0.0,0.0,003,70550,09
+0900322070,"East Granby town, Hartford County, Connecticut",314.0,181.0,92.0,0.0,41.0,0.0,003,22070,09
+090032060,"Avon town, Hartford County, Connecticut",576.0,477.0,9.0,0.0,90.0,0.0,003,2060,09
+0900384900,"Wethersfield town, Hartford County, Connecticut",2519.0,2166.0,243.0,65.0,36.0,9.0,003,84900,09
+090034300,"Berlin town, Hartford County, Connecticut",1030.0,888.0,100.0,42.0,0.0,0.0,003,4300,09
+0900310100,"Burlington town, Hartford County, Connecticut",281.0,240.0,0.0,16.0,13.0,12.0,003,10100,09
+0900332640,"Granby town, Hartford County, Connecticut",98.0,61.0,16.0,0.0,21.0,0.0,003,32640,09
+0900337140,"Hartland town, Hartford County, Connecticut",35.0,35.0,0.0,0.0,0.0,0.0,003,37140,09
+0900322630,"East Hartford town, Hartford County, Connecticut",16950.0,14696.0,1775.0,142.0,80.0,257.0,003,22630,09
+0900337070,"Hartford town, Hartford County, Connecticut",54212.0,42358.0,9414.0,510.0,1031.0,899.0,003,37070,09
+0900344700,"Manchester town, Hartford County, Connecticut",7787.0,6333.0,1013.0,210.0,176.0,55.0,003,44700,09
+090035910,"Bloomfield town, Hartford County, Connecticut",1072.0,818.0,231.0,6.0,0.0,17.0,003,5910,09
+0900331240,"Glastonbury town, Hartford County, Connecticut",1659.0,1497.0,89.0,11.0,37.0,25.0,003,31240,09
+0900374540,"Suffield town, Hartford County, Connecticut",1200.0,839.0,87.0,197.0,77.0,0.0,003,74540,09
+0900345820,"Marlborough town, Hartford County, Connecticut",206.0,189.0,0.0,17.0,0.0,0.0,003,45820,09
+0900365370,"Rocky Hill town, Hartford County, Connecticut",1241.0,896.0,311.0,0.0,18.0,16.0,003,65370,09
+0901513810,"Chaplin town, Windham County, Connecticut",144.0,144.0,0.0,0.0,0.0,0.0,015,13810,09
+0901512130,"Canterbury town, Windham County, Connecticut",20.0,20.0,0.0,0.0,0.0,0.0,015,12130,09
+0901559980,"Plainfield town, Windham County, Connecticut",784.0,760.0,0.0,0.0,24.0,0.0,015,59980,09
+0901575870,"Thompson town, Windham County, Connecticut",124.0,101.0,22.0,1.0,0.0,0.0,015,75870,09
+0901588190,"Woodstock town, Windham County, Connecticut",160.0,160.0,0.0,0.0,0.0,0.0,015,88190,09
+0901567400,"Scotland town, Windham County, Connecticut",68.0,39.0,12.0,9.0,0.0,8.0,015,67400,09
+0901561030,"Pomfret town, Windham County, Connecticut",130.0,63.0,57.0,10.0,0.0,0.0,015,61030,09
+0901586790,"Windham town, Windham County, Connecticut",9704.0,7748.0,1331.0,334.0,158.0,133.0,015,86790,09
+090151430,"Ashford town, Windham County, Connecticut",155.0,136.0,9.0,10.0,0.0,0.0,015,1430,09
+090159190,"Brooklyn town, Windham County, Connecticut",339.0,184.0,89.0,52.0,14.0,0.0,015,9190,09
+0901540500,"Killingly town, Windham County, Connecticut",791.0,538.0,203.0,0.0,50.0,0.0,015,40500,09
+0901562710,"Putnam town, Windham County, Connecticut",265.0,165.0,85.0,9.0,6.0,0.0,015,62710,09
+0901573420,"Sterling town, Windham County, Connecticut",73.0,73.0,0.0,0.0,0.0,0.0,015,73420,09
+0901521860,"Eastford town, Windham County, Connecticut",50.0,48.0,0.0,0.0,0.0,2.0,015,21860,09
+0901536000,"Hampton town, Windham County, Connecticut",47.0,39.0,8.0,0.0,0.0,0.0,015,36000,09
+0901115910,"Colchester town, New London County, Connecticut",213.0,186.0,0.0,27.0,0.0,0.0,011,15910,09
+0901142600,"Ledyard town, New London County, Connecticut",925.0,887.0,37.0,1.0,0.0,0.0,011,42600,09
+0901152350,"New London town, New London County, Connecticut",8884.0,6915.0,1341.0,135.0,465.0,28.0,011,52350,09
+090116820,"Bozrah town, New London County, Connecticut",24.0,24.0,0.0,0.0,0.0,0.0,011,6820,09
+0901162150,"Preston town, New London County, Connecticut",52.0,29.0,23.0,0.0,0.0,0.0,011,62150,09
+090110,"County subdivisions not defined, New London County, Connecticut",0.0,0.0,0.0,0.0,0.0,0.0,011,0,09
+0901129910,"Franklin town, New London County, Connecticut",47.0,47.0,0.0,0.0,0.0,0.0,011,29910,09
+0901142390,"Lebanon town, New London County, Connecticut",124.0,116.0,1.0,7.0,0.0,0.0,011,42390,09
+0901166210,"Salem town, New London County, Connecticut",92.0,73.0,19.0,0.0,0.0,0.0,011,66210,09
+0901180280,"Waterford town, New London County, Connecticut",1219.0,1070.0,65.0,83.0,1.0,0.0,011,80280,09
+0901155500,"North Stonington town, New London County, Connecticut",95.0,94.0,0.0,1.0,0.0,0.0,011,55500,09
+0901171670,"Sprague town, New London County, Connecticut",78.0,51.0,27.0,0.0,0.0,0.0,011,71670,09
+0901173770,"Stonington town, New London County, Connecticut",658.0,658.0,0.0,0.0,0.0,0.0,011,73770,09
+0901156270,"Norwich town, New London County, Connecticut",5693.0,4518.0,728.0,265.0,153.0,29.0,011,56270,09
+0901123400,"East Lyme town, New London County, Connecticut",1451.0,960.0,98.0,226.0,167.0,0.0,011,23400,09
+0901134250,"Groton town, New London County, Connecticut",5163.0,3933.0,585.0,104.0,523.0,18.0,011,34250,09
+0901178600,"Voluntown town, New London County, Connecticut",91.0,84.0,0.0,0.0,7.0,0.0,011,78600,09
+0901143230,"Lisbon town, New London County, Connecticut",68.0,56.0,12.0,0.0,0.0,0.0,011,43230,09
+0901133900,"Griswold town, New London County, Connecticut",330.0,306.0,23.0,1.0,0.0,0.0,011,33900,09
+0901148900,"Montville town, New London County, Connecticut",1500.0,1148.0,106.0,213.0,33.0,0.0,011,48900,09
+0901144210,"Lyme town, New London County, Connecticut",58.0,58.0,0.0,0.0,0.0,0.0,011,44210,09
+0901157040,"Old Lyme town, New London County, Connecticut",80.0,79.0,1.0,0.0,0.0,0.0,011,57040,09
+0900781680,"Westbrook town, Middlesex County, Connecticut",319.0,279.0,39.0,0.0,1.0,0.0,007,81680,09
+090070,"County subdivisions not defined, Middlesex County, Connecticut",0.0,0.0,0.0,0.0,0.0,0.0,007,0,09
+0900722280,"East Haddam town, Middlesex County, Connecticut",286.0,261.0,0.0,15.0,10.0,0.0,007,22280,09
+0900757320,"Old Saybrook town, Middlesex County, Connecticut",542.0,338.0,90.0,24.0,90.0,0.0,007,57320,09
+0900720810,"Durham town, Middlesex County, Connecticut",95.0,91.0,4.0,0.0,0.0,0.0,007,20810,09
+0900719130,"Deep River town, Middlesex County, Connecticut",164.0,164.0,0.0,0.0,0.0,0.0,007,19130,09
+0900715350,"Clinton town, Middlesex County, Connecticut",995.0,695.0,300.0,0.0,0.0,0.0,007,15350,09
+0900761800,"Portland town, Middlesex County, Connecticut",176.0,119.0,0.0,57.0,0.0,0.0,007,61800,09
+0900735230,"Haddam town, Middlesex County, Connecticut",217.0,217.0,0.0,0.0,0.0,0.0,007,35230,09
+0900740710,"Killingworth town, Middlesex County, Connecticut",128.0,128.0,0.0,0.0,0.0,0.0,007,40710,09
+0900747360,"Middletown town, Middlesex County, Connecticut",4214.0,3559.0,188.0,318.0,149.0,0.0,007,47360,09
+0900747080,"Middlefield town, Middlesex County, Connecticut",92.0,69.0,14.0,4.0,0.0,5.0,007,47080,09
+0900714300,"Chester town, Middlesex County, Connecticut",94.0,57.0,24.0,0.0,13.0,0.0,007,14300,09
+0900726270,"Essex town, Middlesex County, Connecticut",238.0,180.0,37.0,20.0,1.0,0.0,007,26270,09
+0900722490,"East Hampton town, Middlesex County, Connecticut",481.0,392.0,54.0,17.0,0.0,18.0,007,22490,09
+0900718080,"Cromwell town, Middlesex County, Connecticut",1357.0,1133.0,13.0,152.0,7.0,52.0,007,18080,09
+090131080,"Andover town, Tolland County, Connecticut",92.0,92.0,0.0,0.0,0.0,0.0,013,1080,09
+0901317800,"Coventry town, Tolland County, Connecticut",398.0,398.0,0.0,0.0,0.0,0.0,013,17800,09
+090136260,"Bolton town, Tolland County, Connecticut",229.0,220.0,0.0,9.0,0.0,0.0,013,6260,09
+0901376290,"Tolland town, Tolland County, Connecticut",542.0,419.0,123.0,0.0,0.0,0.0,013,76290,09
+0901369220,"Somers town, Tolland County, Connecticut",733.0,475.0,0.0,216.0,42.0,0.0,013,69220,09
+0901378250,"Vernon town, Tolland County, Connecticut",2470.0,2077.0,88.0,247.0,30.0,28.0,013,78250,09
+0901377830,"Union town, Tolland County, Connecticut",9.0,9.0,0.0,0.0,0.0,0.0,013,77830,09
+0901316400,"Columbia town, Tolland County, Connecticut",255.0,255.0,0.0,0.0,0.0,0.0,013,16400,09
+0901325360,"Ellington town, Tolland County, Connecticut",622.0,502.0,0.0,85.0,35.0,0.0,013,25360,09
+0901344910,"Mansfield town, Tolland County, Connecticut",1459.0,967.0,26.0,385.0,79.0,2.0,013,44910,09
+0901337910,"Hebron town, Tolland County, Connecticut",208.0,167.0,1.0,39.0,1.0,0.0,013,37910,09
+0901372090,"Stafford town, Tolland County, Connecticut",462.0,389.0,23.0,50.0,0.0,0.0,013,72090,09
+0901385950,"Willington town, Tolland County, Connecticut",310.0,126.0,0.0,184.0,0.0,0.0,013,85950,09
+0900133620,"Greenwich town, Fairfield County, Connecticut",7868.0,6679.0,462.0,14.0,434.0,279.0,001,33620,09
+0900148620,"Monroe town, Fairfield County, Connecticut",837.0,771.0,58.0,0.0,8.0,0.0,001,48620,09
+0900540290,"Kent town, Litchfield County, Connecticut",72.0,72.0,0.0,0.0,0.0,0.0,005,40290,09

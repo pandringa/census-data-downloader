@@ -1,0 +1,1605 @@
+geoid,name,total_population_16over,in_labor_force,civilian,civilian_employed,civilian_unemployed,armed_forces,not_in_labor_force,county,county subdivision,state
+3908948132,"Mary Ann township, Licking County, Ohio",1946.0,1285.0,1285.0,1237.0,48.0,0.0,661.0,089,48132,39
+3908910366,"Burlington township, Licking County, Ohio",1152.0,686.0,686.0,669.0,17.0,0.0,466.0,089,10366,39
+3908926530,"Fallsbury township, Licking County, Ohio",696.0,503.0,503.0,469.0,34.0,0.0,193.0,089,26530,39
+3908936316,"Hopewell township, Licking County, Ohio",984.0,587.0,587.0,484.0,103.0,0.0,397.0,089,36316,39
+3908954054,"Newark township, Licking County, Ohio",1557.0,940.0,940.0,906.0,34.0,0.0,617.0,089,54054,39
+3908961112,"Pataskala city, Licking County, Ohio",11703.0,8297.0,8279.0,7926.0,353.0,18.0,3406.0,089,61112,39
+3908969456,"St. Albans township, Licking County, Ohio",2124.0,1527.0,1527.0,1386.0,141.0,0.0,597.0,089,69456,39
+3908981410,"Washington township, Licking County, Ohio",2457.0,1618.0,1614.0,1460.0,154.0,4.0,839.0,089,81410,39
+390895494,"Bennington township, Licking County, Ohio",1202.0,777.0,764.0,716.0,48.0,13.0,425.0,089,5494,39
+390897944,"Bowling Green township, Licking County, Ohio",1180.0,804.0,804.0,804.0,0.0,0.0,376.0,089,7944,39
+3908946116,"McKean township, Licking County, Ohio",1275.0,808.0,808.0,649.0,159.0,0.0,467.0,089,46116,39
+3908924332,"Eden township, Licking County, Ohio",742.0,457.0,457.0,392.0,65.0,0.0,285.0,089,24332,39
+3908925690,"Etna township, Licking County, Ohio",12467.0,8980.0,8935.0,8580.0,355.0,45.0,3487.0,089,25690,39
+3908931416,"Granville township, Licking County, Ohio",7957.0,4947.0,4947.0,4882.0,65.0,0.0,3010.0,089,31416,39
+3908933894,"Harrison township, Licking County, Ohio",6599.0,4237.0,4237.0,4033.0,204.0,0.0,2362.0,089,33894,39
+3908961924,"Perry township, Licking County, Ohio",1348.0,954.0,954.0,928.0,26.0,0.0,394.0,089,61924,39
+3908934188,"Hartford township, Licking County, Ohio",976.0,702.0,702.0,697.0,5.0,0.0,274.0,089,34188,39
+3908978400,"Union township, Licking County, Ohio",7088.0,4350.0,4350.0,4086.0,264.0,0.0,2738.0,089,78400,39
+3908939102,"Jersey township, Licking County, Ohio",2457.0,1796.0,1796.0,1698.0,98.0,0.0,661.0,089,39102,39
+3913971830,"Sharon township, Richland County, Ohio",7111.0,4366.0,4366.0,4042.0,324.0,0.0,2745.0,139,71830,39
+3913974128,"Springfield township, Richland County, Ohio",8877.0,5432.0,5432.0,5271.0,161.0,0.0,3445.0,139,74128,39
+391175508,"Bennington township, Morrow County, Ohio",2432.0,1530.0,1530.0,1494.0,36.0,0.0,902.0,117,5508,39
+3911783454,"Westfield township, Morrow County, Ohio",840.0,567.0,567.0,527.0,40.0,0.0,273.0,117,83454,39
+3911711248,"Canaan township, Morrow County, Ohio",969.0,552.0,552.0,552.0,0.0,0.0,417.0,117,11248,39
+3911777602,"Troy township, Morrow County, Ohio",825.0,472.0,459.0,446.0,13.0,13.0,353.0,117,77602,39
+3911728378,"Franklin township, Morrow County, Ohio",1316.0,830.0,830.0,814.0,16.0,0.0,486.0,117,28378,39
+3912110142,"Buffalo township, Noble County, Ohio",580.0,229.0,229.0,229.0,0.0,0.0,351.0,121,10142,39
+3912137940,"Jackson township, Noble County, Ohio",258.0,108.0,108.0,87.0,21.0,0.0,150.0,121,37940,39
+3912138766,"Jefferson township, Noble County, Ohio",409.0,137.0,137.0,133.0,4.0,0.0,272.0,121,38766,39
+3912174728,"Stock township, Noble County, Ohio",189.0,63.0,63.0,51.0,12.0,0.0,126.0,121,74728,39
+3912182250,"Wayne township, Noble County, Ohio",369.0,141.0,141.0,134.0,7.0,0.0,228.0,121,82250,39
+3912125438,"Enoch township, Noble County, Ohio",502.0,167.0,167.0,149.0,18.0,0.0,335.0,121,25438,39
+3912171826,"Sharon township, Noble County, Ohio",183.0,113.0,113.0,113.0,0.0,0.0,70.0,121,71826,39
+3912158310,"Olive township, Noble County, Ohio",5136.0,1396.0,1396.0,1302.0,94.0,0.0,3740.0,121,58310,39
+391219162,"Brookfield township, Noble County, Ohio",86.0,9.0,9.0,9.0,0.0,0.0,77.0,121,9162,39
+3912124878,"Elk township, Noble County, Ohio",237.0,92.0,92.0,92.0,0.0,0.0,145.0,121,24878,39
+391214682,"Beaver township, Noble County, Ohio",621.0,198.0,198.0,197.0,1.0,0.0,423.0,121,4682,39
+3912147810,"Marion township, Noble County, Ohio",409.0,209.0,209.0,199.0,10.0,0.0,200.0,121,47810,39
+3912156028,"Noble township, Noble County, Ohio",1551.0,700.0,700.0,691.0,9.0,0.0,851.0,121,56028,39
+3912171352,"Seneca township, Noble County, Ohio",649.0,218.0,218.0,196.0,22.0,0.0,431.0,121,71352,39
+3912112994,"Center township, Noble County, Ohio",924.0,578.0,576.0,564.0,12.0,2.0,346.0,121,12994,39
+3904158618,"Orange township, Delaware County, Ohio",20944.0,15629.0,15612.0,15212.0,400.0,17.0,5315.0,041,58618,39
+3904159262,"Oxford township, Delaware County, Ohio",795.0,459.0,459.0,435.0,24.0,0.0,336.0,041,59262,39
+3904177336,"Trenton township, Delaware County, Ohio",1856.0,1221.0,1221.0,1171.0,50.0,0.0,635.0,041,77336,39
+3904147908,"Marlboro township, Delaware County, Ohio",260.0,188.0,188.0,188.0,0.0,0.0,72.0,041,47908,39
+3904177560,"Troy township, Delaware County, Ohio",1605.0,1009.0,1009.0,960.0,49.0,0.0,596.0,041,77560,39
+3904118140,"Concord township, Delaware County, Ohio",7650.0,5379.0,5379.0,5275.0,104.0,0.0,2271.0,041,18140,39
+3904129694,"Genoa township, Delaware County, Ohio",19307.0,13365.0,13354.0,13117.0,237.0,11.0,5942.0,041,29694,39
+3904143106,"Liberty township, Delaware County, Ohio",21350.0,15072.0,15072.0,14640.0,432.0,0.0,6278.0,041,43106,39
+3904165312,"Radnor township, Delaware County, Ohio",1574.0,904.0,904.0,893.0,11.0,0.0,670.0,041,65312,39
+3904170842,"Scioto township, Delaware County, Ohio",2596.0,1723.0,1723.0,1653.0,70.0,0.0,873.0,041,70842,39
+390415788,"Berlin township, Delaware County, Ohio",5109.0,3883.0,3873.0,3825.0,48.0,10.0,1226.0,041,5788,39
+3905513561,"Chardon township, Geauga County, Ohio",3750.0,2585.0,2585.0,2547.0,38.0,0.0,1165.0,055,13561,39
+3905513988,"Chester township, Geauga County, Ohio",8561.0,5515.0,5515.0,5375.0,140.0,0.0,3046.0,055,13988,39
+3905357974,"Ohio township, Gallia County, Ohio",839.0,451.0,451.0,392.0,59.0,0.0,388.0,053,57974,39
+3905336848,"Huntington township, Gallia County, Ohio",1144.0,613.0,613.0,565.0,48.0,0.0,531.0,053,36848,39
+3905313946,"Cheshire township, Gallia County, Ohio",1088.0,521.0,521.0,501.0,20.0,0.0,567.0,053,13946,39
+3905352094,"Morgan township, Gallia County, Ohio",1023.0,567.0,567.0,545.0,22.0,0.0,456.0,053,52094,39
+3913551548,"Monroe township, Preble County, Ohio",1593.0,1082.0,1082.0,1008.0,74.0,0.0,511.0,135,51548,39
+3913577994,"Twin township, Preble County, Ohio",2210.0,1441.0,1441.0,1365.0,76.0,0.0,769.0,135,77994,39
+3913537590,"Israel township, Preble County, Ohio",884.0,533.0,533.0,521.0,12.0,0.0,351.0,135,37590,39
+3913522106,"Dixon township, Preble County, Ohio",344.0,168.0,168.0,149.0,19.0,0.0,176.0,135,22106,39
+3913538780,"Jefferson township, Preble County, Ohio",2555.0,1677.0,1677.0,1600.0,77.0,0.0,878.0,135,38780,39
+3913541846,"Lanier township, Preble County, Ohio",2963.0,1767.0,1767.0,1648.0,119.0,0.0,1196.0,135,41846,39
+3913538010,"Jackson township, Preble County, Ohio",1010.0,639.0,639.0,598.0,41.0,0.0,371.0,135,38010,39
+3913572964,"Somers township, Preble County, Ohio",3191.0,1905.0,1905.0,1719.0,186.0,0.0,1286.0,135,72964,39
+3913581564,"Washington township, Preble County, Ohio",1506.0,903.0,903.0,891.0,12.0,0.0,603.0,135,81564,39
+3913524234,"Eaton city, Preble County, Ohio",6776.0,3677.0,3677.0,3378.0,299.0,0.0,3099.0,135,24234,39
+3913531486,"Gratis township, Preble County, Ohio",3610.0,2367.0,2367.0,2235.0,132.0,0.0,1243.0,135,31486,39
+3913529484,"Gasper township, Preble County, Ohio",2946.0,2072.0,2072.0,2022.0,50.0,0.0,874.0,135,29484,39
+3913533992,"Harrison township, Preble County, Ohio",3529.0,2400.0,2400.0,2303.0,97.0,0.0,1129.0,135,33992,39
+3914716154,"Clinton township, Seneca County, Ohio",3411.0,2019.0,2019.0,1911.0,108.0,0.0,1392.0,147,16154,39
+39147324,"Adams township, Seneca County, Ohio",1211.0,714.0,714.0,700.0,14.0,0.0,497.0,147,324,39
+3914776632,"Thompson township, Seneca County, Ohio",1257.0,802.0,802.0,787.0,15.0,0.0,455.0,147,76632,39
+3914743316,"Liberty township, Seneca County, Ohio",1580.0,1134.0,1134.0,1091.0,43.0,0.0,446.0,147,43316,39
+3913963814,"Plymouth township, Richland County, Ohio",1417.0,954.0,954.0,915.0,39.0,0.0,463.0,139,63814,39
+3913970394,"Sandusky township, Richland County, Ohio",736.0,358.0,358.0,341.0,17.0,0.0,378.0,139,70394,39
+3913982628,"Weller township, Richland County, Ohio",1249.0,827.0,813.0,773.0,40.0,14.0,422.0,139,82628,39
+3913986618,"Worthington township, Richland County, Ohio",2239.0,1366.0,1366.0,1325.0,41.0,0.0,873.0,139,86618,39
+391397230,"Bloominggrove township, Richland County, Ohio",1098.0,750.0,750.0,741.0,9.0,0.0,348.0,139,7230,39
+3913947138,"Mansfield city, Richland County, Ohio",38318.0,18462.0,18444.0,16491.0,1953.0,18.0,19856.0,139,47138,39
+3913977616,"Troy township, Richland County, Ohio",5225.0,3103.0,3045.0,2890.0,155.0,58.0,2122.0,139,77616,39
+3913950092,"Mifflin township, Richland County, Ohio",4982.0,3027.0,3027.0,2803.0,224.0,0.0,1955.0,139,50092,39
+3913951576,"Monroe township, Richland County, Ohio",2079.0,1319.0,1319.0,1205.0,114.0,0.0,760.0,139,51576,39
+3913962050,"Perry township, Richland County, Ohio",1115.0,576.0,576.0,531.0,45.0,0.0,539.0,139,62050,39
+3913981578,"Washington township, Richland County, Ohio",5168.0,3184.0,3184.0,3019.0,165.0,0.0,1984.0,139,81578,39
+3913938038,"Jackson township, Richland County, Ohio",3005.0,1601.0,1601.0,1532.0,69.0,0.0,1404.0,139,38038,39
+3913946578,"Madison township, Richland County, Ohio",8605.0,4926.0,4926.0,4426.0,500.0,0.0,3679.0,139,46578,39
+3913928406,"Franklin township, Richland County, Ohio",1260.0,777.0,777.0,728.0,49.0,0.0,483.0,139,28406,39
+3913912420,"Cass township, Richland County, Ohio",1147.0,675.0,675.0,624.0,51.0,0.0,472.0,139,12420,39
+3913938794,"Jefferson township, Richland County, Ohio",3673.0,2297.0,2297.0,2156.0,141.0,0.0,1376.0,139,38794,39
+3913910646,"Butler township, Richland County, Ohio",669.0,419.0,419.0,419.0,0.0,0.0,250.0,139,10646,39
+3916334048,"Harrison township, Vinton County, Ohio",873.0,430.0,430.0,356.0,74.0,0.0,443.0,163,34048,39
+3916340880,"Knox township, Vinton County, Ohio",534.0,271.0,271.0,246.0,25.0,0.0,263.0,163,40880,39
+391639526,"Brown township, Vinton County, Ohio",220.0,67.0,67.0,67.0,0.0,0.0,153.0,163,9526,39
+3916338136,"Jackson township, Vinton County, Ohio",689.0,392.0,392.0,359.0,33.0,0.0,297.0,163,38136,39
+3916380192,"Vinton township, Vinton County, Ohio",336.0,193.0,193.0,185.0,8.0,0.0,143.0,163,80192,39
+3916323100,"Eagle township, Vinton County, Ohio",370.0,179.0,179.0,153.0,26.0,0.0,191.0,163,23100,39
+3916324892,"Elk township, Vinton County, Ohio",2597.0,1593.0,1593.0,1464.0,129.0,0.0,1004.0,163,24892,39
+3916366768,"Richland township, Vinton County, Ohio",1321.0,766.0,766.0,694.0,72.0,0.0,555.0,163,66768,39
+3916375854,"Swan township, Vinton County, Ohio",792.0,533.0,533.0,491.0,42.0,0.0,259.0,163,75854,39
+3916385204,"Wilkesville township, Vinton County, Ohio",880.0,431.0,431.0,363.0,68.0,0.0,449.0,163,85204,39
+3916316210,"Clinton township, Vinton County, Ohio",1421.0,715.0,715.0,646.0,69.0,0.0,706.0,163,16210,39
+3916346620,"Madison township, Vinton County, Ohio",508.0,290.0,290.0,217.0,73.0,0.0,218.0,163,46620,39
+3901951324,"Monroe township, Carroll County, Ohio",1811.0,971.0,971.0,912.0,59.0,0.0,840.0,019,51324,39
+3901968420,"Rose township, Carroll County, Ohio",1133.0,654.0,654.0,643.0,11.0,0.0,479.0,019,68420,39
+3901981116,"Washington township, Carroll County, Ohio",1378.0,719.0,719.0,647.0,72.0,0.0,659.0,019,81116,39
+390199400,"Brown township, Carroll County, Ohio",6237.0,3817.0,3817.0,3640.0,177.0,0.0,2420.0,019,9400,39
+3901945038,"Loudon township, Carroll County, Ohio",698.0,410.0,410.0,393.0,17.0,0.0,288.0,019,45038,39
+390193030,"Augusta township, Carroll County, Ohio",1416.0,797.0,797.0,756.0,41.0,0.0,619.0,019,3030,39
+3901933782,"Harrison township, Carroll County, Ohio",1900.0,1122.0,1122.0,1056.0,66.0,0.0,778.0,019,33782,39
+3901978260,"Union township, Carroll County, Ohio",574.0,368.0,368.0,348.0,20.0,0.0,206.0,019,78260,39
+3901912896,"Center township, Carroll County, Ohio",3782.0,2199.0,2199.0,2133.0,66.0,0.0,1583.0,019,12896,39
+3914771024,"Scipio township, Seneca County, Ohio",1409.0,962.0,962.0,951.0,11.0,0.0,447.0,147,71024,39
+391476432,"Big Spring township, Seneca County, Ohio",1421.0,991.0,991.0,975.0,16.0,0.0,430.0,147,6432,39
+391477006,"Bloom township, Seneca County, Ohio",1467.0,1000.0,1000.0,934.0,66.0,0.0,467.0,147,7006,39
+3914732256,"Green Springs village, Seneca County, Ohio",548.0,359.0,359.0,335.0,24.0,0.0,189.0,147,32256,39
+3914736400,"Hopewell township, Seneca County, Ohio",2137.0,1453.0,1453.0,1397.0,56.0,0.0,684.0,147,36400,39
+3914738066,"Jackson township, Seneca County, Ohio",1120.0,673.0,673.0,653.0,20.0,0.0,447.0,147,38066,39
+3914771355,"Seneca township, Seneca County, Ohio",1353.0,956.0,956.0,920.0,36.0,0.0,397.0,147,71355,39
+3914779674,"Venice township, Seneca County, Ohio",1243.0,838.0,838.0,805.0,33.0,0.0,405.0,147,79674,39
+3914745052,"Loudon township, Seneca County, Ohio",1780.0,1101.0,1101.0,1031.0,70.0,0.0,679.0,147,45052,39
+3914763394,"Pleasant township, Seneca County, Ohio",1077.0,615.0,615.0,554.0,61.0,0.0,462.0,147,63394,39
+3914765942,"Reed township, Seneca County, Ohio",628.0,450.0,450.0,439.0,11.0,0.0,178.0,147,65942,39
+3914776778,"Tiffin city, Seneca County, Ohio",14367.0,8430.0,8430.0,7776.0,654.0,0.0,5937.0,147,76778,39
+3905365228,"Raccoon township, Gallia County, Ohio",1706.0,990.0,990.0,861.0,129.0,0.0,716.0,053,65228,39
+3905315462,"Clay township, Gallia County, Ohio",1498.0,747.0,747.0,707.0,40.0,0.0,751.0,053,15462,39
+3905331738,"Green township, Gallia County, Ohio",4426.0,2441.0,2441.0,2378.0,63.0,0.0,1985.0,053,31738,39
+3905332074,"Greenfield township, Gallia County, Ohio",355.0,122.0,122.0,122.0,0.0,0.0,233.0,053,32074,39
+39053422,"Addison township, Gallia County, Ohio",1511.0,791.0,791.0,757.0,34.0,0.0,720.0,053,422,39
+3905374120,"Springfield township, Gallia County, Ohio",3024.0,1747.0,1747.0,1651.0,96.0,0.0,1277.0,053,74120,39
+3905361854,"Perry township, Gallia County, Ohio",1269.0,556.0,556.0,524.0,32.0,0.0,713.0,053,61854,39
+3905329218,"Gallipolis township, Gallia County, Ohio",3961.0,2061.0,2061.0,1935.0,126.0,0.0,1900.0,053,29218,39
+3905332760,"Guyan township, Gallia County, Ohio",713.0,366.0,366.0,325.0,41.0,0.0,347.0,053,32760,39
+3905333824,"Harrison township, Gallia County, Ohio",714.0,296.0,296.0,290.0,6.0,0.0,418.0,053,33824,39
+3905380584,"Walnut township, Gallia County, Ohio",785.0,395.0,395.0,377.0,18.0,0.0,390.0,053,80584,39
+3907777158,"Townsend township, Huron County, Ohio",993.0,602.0,602.0,590.0,12.0,0.0,391.0,077,77158,39
+3907732382,"Greenwich township, Huron County, Ohio",693.0,410.0,410.0,410.0,0.0,0.0,283.0,077,32382,39
+3907767006,"Ridgefield township, Huron County, Ohio",1671.0,1152.0,1152.0,1124.0,28.0,0.0,519.0,077,67006,39
+3907780472,"Wakeman township, Huron County, Ohio",2135.0,1470.0,1470.0,1419.0,51.0,0.0,665.0,077,80472,39
+3907732102,"Greenfield township, Huron County, Ohio",1066.0,674.0,674.0,643.0,31.0,0.0,392.0,077,32102,39
+3907734258,"Hartland township, Huron County, Ohio",1058.0,704.0,704.0,604.0,100.0,0.0,354.0,077,34258,39
+3907766810,"Richmond township, Huron County, Ohio",947.0,693.0,693.0,657.0,36.0,0.0,254.0,077,66810,39
+3907715364,"Clarksfield township, Huron County, Ohio",1467.0,841.0,841.0,826.0,15.0,0.0,626.0,077,15364,39
+3903547306,"Maple Heights city, Cuyahoga County, Ohio",18161.0,11618.0,11618.0,10438.0,1180.0,0.0,6543.0,035,47306,39
+3902333586,"Harmony township, Clark County, Ohio",2886.0,1729.0,1707.0,1640.0,67.0,22.0,1157.0,023,33586,39
+3902362610,"Pike township, Clark County, Ohio",2939.0,1803.0,1790.0,1696.0,94.0,13.0,1136.0,023,62610,39
+3902363226,"Pleasant township, Clark County, Ohio",2501.0,1615.0,1615.0,1490.0,125.0,0.0,886.0,023,63226,39
+3903548468,"Mayfield village, Cuyahoga County, Ohio",2932.0,1870.0,1870.0,1845.0,25.0,0.0,1062.0,035,48468,39
+3903554250,"Newburgh Heights village, Cuyahoga County, Ohio",1552.0,1047.0,1047.0,921.0,126.0,0.0,505.0,035,54250,39
+3903572928,"Solon city, Cuyahoga County, Ohio",17845.0,12057.0,12057.0,11729.0,328.0,0.0,5788.0,035,72928,39
+3910334104,"Harrisville township, Medina County, Ohio",1564.0,1039.0,1039.0,962.0,77.0,0.0,525.0,103,34104,39
+3910344240,"Liverpool township, Medina County, Ohio",4535.0,2784.0,2784.0,2660.0,124.0,0.0,1751.0,103,44240,39
+3910380318,"Wadsworth township, Medina County, Ohio",3298.0,2385.0,2385.0,2335.0,50.0,0.0,913.0,103,80318,39
+391039680,"Brunswick city, Medina County, Ohio",27944.0,19700.0,19683.0,19049.0,634.0,17.0,8244.0,103,9680,39
+3910383426,"Westfield township, Medina County, Ohio",2076.0,1509.0,1509.0,1500.0,9.0,0.0,567.0,103,83426,39
+3910331374,"Granger township, Medina County, Ohio",3639.0,2328.0,2328.0,2255.0,73.0,0.0,1311.0,103,31374,39
+3910332676,"Guilford township, Medina County, Ohio",2779.0,1762.0,1762.0,1715.0,47.0,0.0,1017.0,103,32676,39
+3910336078,"Homer township, Medina County, Ohio",1092.0,659.0,659.0,605.0,54.0,0.0,433.0,103,36078,39
+3910387052,"York township, Medina County, Ohio",2870.0,1961.0,1961.0,1889.0,72.0,0.0,909.0,103,87052,39
+3910373999,"Spencer township, Medina County, Ohio",1515.0,936.0,936.0,877.0,59.0,0.0,579.0,103,73999,39
+3910380304,"Wadsworth city, Medina County, Ohio",17761.0,11929.0,11912.0,11433.0,479.0,17.0,5832.0,103,80304,39
+391039708,"Brunswick Hills township, Medina County, Ohio",8170.0,6086.0,6086.0,5914.0,172.0,0.0,2084.0,103,9708,39
+3910344072,"Litchfield township, Medina County, Ohio",2864.0,1903.0,1903.0,1861.0,42.0,0.0,961.0,103,44072,39
+3910335644,"Hinckley township, Medina County, Ohio",6352.0,4156.0,4156.0,3983.0,173.0,0.0,2196.0,103,35644,39
+3910371801,"Sharon township, Medina County, Ohio",4053.0,2610.0,2610.0,2567.0,43.0,0.0,1443.0,103,71801,39
+3910516924,"Columbia township, Meigs County, Ohio",896.0,521.0,521.0,498.0,23.0,0.0,375.0,105,16924,39
+3910558282,"Olive township, Meigs County, Ohio",1272.0,515.0,515.0,449.0,66.0,0.0,757.0,105,58282,39
+3910558646,"Orange township, Meigs County, Ohio",792.0,420.0,420.0,389.0,31.0,0.0,372.0,105,58646,39
+3910570114,"Salisbury township, Meigs County, Ohio",5002.0,2721.0,2721.0,2327.0,394.0,0.0,2281.0,105,70114,39
+3910569904,"Salem township, Meigs County, Ohio",779.0,296.0,296.0,276.0,20.0,0.0,483.0,105,69904,39
+3910542336,"Lebanon township, Meigs County, Ohio",680.0,251.0,251.0,204.0,47.0,0.0,429.0,105,42336,39
+3910542868,"Letart township, Meigs County, Ohio",761.0,305.0,305.0,305.0,0.0,0.0,456.0,105,42868,39
+391054906,"Bedford township, Meigs County, Ohio",728.0,473.0,473.0,467.0,6.0,0.0,255.0,105,4906,39
+3910569372,"Rutland township, Meigs County, Ohio",1875.0,946.0,946.0,808.0,138.0,0.0,929.0,105,69372,39
+3910570996,"Scipio township, Meigs County, Ohio",1237.0,669.0,669.0,534.0,135.0,0.0,568.0,105,70996,39
+3910514016,"Chester township, Meigs County, Ohio",2302.0,1450.0,1450.0,1381.0,69.0,0.0,852.0,105,14016,39
+3910575847,"Sutton township, Meigs County, Ohio",2448.0,1352.0,1352.0,1253.0,99.0,0.0,1096.0,105,75847,39
+3915981662,"Washington township, Union County, Ohio",624.0,404.0,404.0,391.0,13.0,0.0,220.0,159,81662,39
+3915976194,"Taylor township, Union County, Ohio",1376.0,929.0,929.0,913.0,16.0,0.0,447.0,159,76194,39
+391591336,"Allen township, Union County, Ohio",1730.0,1200.0,1200.0,1184.0,16.0,0.0,530.0,159,1336,39
+3915922484,"Dover township, Union County, Ohio",2191.0,1577.0,1561.0,1509.0,52.0,16.0,614.0,159,22484,39
+3915943358,"Liberty township, Union County, Ohio",1404.0,965.0,965.0,965.0,0.0,0.0,439.0,159,43358,39
+3915942490,"Leesburg township, Union County, Ohio",1449.0,979.0,979.0,914.0,65.0,0.0,470.0,159,42490,39
+3915950288,"Millcreek township, Union County, Ohio",988.0,752.0,752.0,706.0,46.0,0.0,236.0,159,50288,39
+3915987122,"York township, Union County, Ohio",1093.0,670.0,670.0,658.0,12.0,0.0,423.0,159,87122,39
+3915938108,"Jackson township, Union County, Ohio",602.0,410.0,410.0,410.0,0.0,0.0,192.0,159,38108,39
+3915939046,"Jerome township, Union County, Ohio",3950.0,2830.0,2830.0,2746.0,84.0,0.0,1120.0,159,39046,39
+3904778316,"Union township, Fayette County, Ohio",3020.0,1826.0,1796.0,1713.0,83.0,30.0,1194.0,047,78316,39
+3904759486,"Paint township, Fayette County, Ohio",1512.0,830.0,830.0,726.0,104.0,0.0,682.0,047,59486,39
+3904738598,"Jefferson township, Fayette County, Ohio",2052.0,1317.0,1317.0,1263.0,54.0,0.0,735.0,047,38598,39
+3904746396,"Madison township, Fayette County, Ohio",738.0,506.0,506.0,506.0,0.0,0.0,232.0,047,46396,39
+3904747684,"Marion township, Fayette County, Ohio",699.0,482.0,482.0,463.0,19.0,0.0,217.0,047,47684,39
+3904761826,"Perry township, Fayette County, Ohio",1088.0,577.0,577.0,483.0,94.0,0.0,511.0,047,61826,39
+3904782166,"Wayne township, Fayette County, Ohio",842.0,485.0,485.0,434.0,51.0,0.0,357.0,047,82166,39
+3912751520,"Monroe township, Perry County, Ohio",912.0,479.0,479.0,410.0,69.0,0.0,433.0,127,51520,39
+391274584,"Bearfield township, Perry County, Ohio",1407.0,823.0,823.0,778.0,45.0,0.0,584.0,127,4584,39
+3912736386,"Hopewell township, Perry County, Ohio",2329.0,1535.0,1519.0,1502.0,17.0,16.0,794.0,127,36386,39
+3912763366,"Pleasant township, Perry County, Ohio",538.0,345.0,345.0,298.0,47.0,0.0,193.0,127,63366,39
+3912765760,"Reading township, Perry County, Ohio",3503.0,2067.0,2067.0,1995.0,72.0,0.0,1436.0,127,65760,39
+3912716350,"Coal township, Perry County, Ohio",792.0,452.0,452.0,435.0,17.0,0.0,340.0,127,16350,39
+3912746550,"Madison township, Perry County, Ohio",1291.0,638.0,638.0,601.0,37.0,0.0,653.0,127,46550,39
+3912751198,"Monday Creek township, Perry County, Ohio",690.0,492.0,492.0,482.0,10.0,0.0,198.0,127,51198,39
+3912715658,"Clayton township, Perry County, Ohio",1010.0,420.0,420.0,375.0,45.0,0.0,590.0,127,15658,39
+3912770226,"Salt Lick township, Perry County, Ohio",689.0,320.0,320.0,275.0,45.0,0.0,369.0,127,70226,39
+3912762680,"Pike township, Perry County, Ohio",5456.0,3188.0,3188.0,2940.0,248.0,0.0,2268.0,127,62680,39
+3912737968,"Jackson township, Perry County, Ohio",2157.0,1087.0,1087.0,1036.0,51.0,0.0,1070.0,127,37968,39
+3912776659,"Thorn township, Perry County, Ohio",3498.0,2141.0,2141.0,1901.0,240.0,0.0,1357.0,127,76659,39
+3912733964,"Harrison township, Perry County, Ohio",4089.0,2302.0,2302.0,2008.0,294.0,0.0,1787.0,127,33964,39
+3912953256,"Muhlenberg township, Pickaway County, Ohio",957.0,700.0,700.0,683.0,17.0,0.0,257.0,129,53256,39
+3912962008,"Perry township, Pickaway County, Ohio",1126.0,583.0,583.0,546.0,37.0,0.0,543.0,129,62008,39
+3912980598,"Walnut township, Pickaway County, Ohio",2419.0,1784.0,1784.0,1784.0,0.0,0.0,635.0,129,80598,39
+3912946564,"Madison township, Pickaway County, Ohio",1012.0,601.0,601.0,548.0,53.0,0.0,411.0,129,46564,39
+3912962484,"Pickaway township, Pickaway County, Ohio",1615.0,1028.0,1028.0,1006.0,22.0,0.0,587.0,129,62484,39
+3912933978,"Harrison township, Pickaway County, Ohio",5979.0,3971.0,3971.0,3685.0,286.0,0.0,2008.0,129,33978,39
+3912915070,"Circleville city, Pickaway County, Ohio",11402.0,6120.0,6120.0,5755.0,365.0,0.0,5282.0,129,15070,39
+3912981550,"Washington township, Pickaway County, Ohio",2509.0,1375.0,1375.0,1301.0,74.0,0.0,1134.0,129,81550,39
+3912920156,"Darby township, Pickaway County, Ohio",2618.0,1705.0,1705.0,1593.0,112.0,0.0,913.0,129,20156,39
+3912937982,"Jackson township, Pickaway County, Ohio",915.0,630.0,630.0,630.0,0.0,0.0,285.0,129,37982,39
+3912951534,"Monroe township, Pickaway County, Ohio",1019.0,646.0,646.0,576.0,70.0,0.0,373.0,129,51534,39
+3912982264,"Wayne township, Pickaway County, Ohio",509.0,297.0,297.0,297.0,0.0,0.0,212.0,129,82264,39
+3912915077,"Circleville township, Pickaway County, Ohio",1894.0,1133.0,1133.0,1063.0,70.0,0.0,761.0,129,15077,39
+3912970870,"Scioto township, Pickaway County, Ohio",8696.0,3327.0,3327.0,3212.0,115.0,0.0,5369.0,129,70870,39
+3903558604,"Orange village, Cuyahoga County, Ohio",2605.0,1649.0,1649.0,1598.0,51.0,0.0,956.0,035,58604,39
+3903530632,"Glenwillow village, Cuyahoga County, Ohio",789.0,455.0,455.0,442.0,13.0,0.0,334.0,035,30632,39
+3903548482,"Mayfield Heights city, Cuyahoga County, Ohio",15682.0,10155.0,10143.0,9442.0,701.0,12.0,5527.0,035,48482,39
+3903561686,"Pepper Pike city, Cuyahoga County, Ohio",4922.0,2973.0,2973.0,2901.0,72.0,0.0,1949.0,035,61686,39
+3903573264,"South Euclid city, Cuyahoga County, Ohio",17771.0,12072.0,12059.0,11405.0,654.0,13.0,5699.0,035,73264,39
+3903580990,"Warrensville Heights city, Cuyahoga County, Ohio",10454.0,6532.0,6532.0,5829.0,703.0,0.0,3922.0,035,80990,39
+390359274,"Brooklyn Heights village, Cuyahoga County, Ohio",1337.0,931.0,931.0,880.0,51.0,0.0,406.0,035,9274,39
+3903529428,"Garfield Heights city, Cuyahoga County, Ohio",22574.0,14346.0,14339.0,12694.0,1645.0,7.0,8228.0,035,29428,39
+3903535255,"Highland Hills village, Cuyahoga County, Ohio",881.0,327.0,327.0,292.0,35.0,0.0,554.0,035,35255,39
+3903541664,"Lakewood city, Cuyahoga County, Ohio",42473.0,31427.0,31427.0,29697.0,1730.0,0.0,11046.0,035,41664,39
+3903543918,"Linndale village, Cuyahoga County, Ohio",84.0,59.0,59.0,59.0,0.0,0.0,25.0,035,43918,39
+390355550,"Bentleyville village, Cuyahoga County, Ohio",737.0,468.0,468.0,460.0,8.0,0.0,269.0,035,5550,39
+3903558408,"Olmsted township, Cuyahoga County, Ohio",10593.0,7383.0,7383.0,6995.0,388.0,0.0,3210.0,035,58408,39
+3903571416,"Seven Hills city, Cuyahoga County, Ohio",10078.0,6209.0,6209.0,5883.0,326.0,0.0,3869.0,035,71416,39
+3903556924,"North Randall village, Cuyahoga County, Ohio",881.0,423.0,423.0,383.0,40.0,0.0,458.0,035,56924,39
+3903566894,"Richmond Heights city, Cuyahoga County, Ohio",9068.0,5694.0,5694.0,5141.0,553.0,0.0,3374.0,035,66894,39
+3915336651,"Hudson city, Summit County, Ohio",17312.0,11142.0,11142.0,10636.0,506.0,0.0,6170.0,153,36651,39
+390612428,"Arlington Heights village, Hamilton County, Ohio",676.0,464.0,464.0,421.0,43.0,0.0,212.0,061,2428,39
+391533828,"Barberton city, Summit County, Ohio",20840.0,12172.0,12158.0,11095.0,1063.0,14.0,8668.0,153,3828,39
+3915356448,"Northfield village, Summit County, Ohio",3026.0,2112.0,2112.0,1999.0,113.0,0.0,914.0,153,56448,39
+3915366152,"Reminderville village, Summit County, Ohio",3058.0,2305.0,2305.0,2271.0,34.0,0.0,753.0,153,66152,39
+3915369428,"Sagamore Hills township, Summit County, Ohio",9313.0,5732.0,5732.0,5459.0,273.0,0.0,3581.0,153,69428,39
+3915376106,"Tallmadge city, Summit County, Ohio",14272.0,8707.0,8707.0,8175.0,532.0,0.0,5565.0,153,76106,39
+391537790,"Boston Heights village, Summit County, Ohio",982.0,647.0,647.0,622.0,25.0,0.0,335.0,153,7790,39
+3915345976,"Macedonia city, Summit County, Ohio",9546.0,6605.0,6605.0,6397.0,208.0,0.0,2941.0,153,45976,39
+3915374130,"Springfield township, Summit County, Ohio",11945.0,7228.0,7228.0,6757.0,471.0,0.0,4717.0,153,74130,39
+3915374944,"Stow city, Summit County, Ohio",28280.0,19314.0,19314.0,18483.0,831.0,0.0,8966.0,153,74944,39
+3915378050,"Twinsburg city, Summit County, Ohio",14932.0,10246.0,10239.0,9832.0,407.0,7.0,4686.0,153,78050,39
+3915319778,"Cuyahoga Falls city, Summit County, Ohio",40142.0,27178.0,27150.0,25961.0,1189.0,28.0,12964.0,153,19778,39
+391534248,"Bath township, Summit County, Ohio",7637.0,4702.0,4702.0,4598.0,104.0,0.0,2935.0,153,4248,39
+391531000,"Akron city, Summit County, Ohio",160831.0,100317.0,100274.0,90760.0,9514.0,43.0,60514.0,153,1000,39
+391537776,"Boston township, Summit County, Ohio",1138.0,849.0,849.0,818.0,31.0,0.0,289.0,153,7776,39
+3915318658,"Copley township, Summit County, Ohio",14007.0,9295.0,9295.0,9024.0,271.0,0.0,4712.0,153,18658,39
+3915319036,"Coventry township, Summit County, Ohio",9370.0,6705.0,6705.0,6376.0,329.0,0.0,2665.0,153,19036,39
+3915353312,"Munroe Falls city, Summit County, Ohio",4284.0,2707.0,2707.0,2556.0,151.0,0.0,1577.0,153,53312,39
+3915366544,"Richfield township, Summit County, Ohio",5135.0,3143.0,3143.0,3059.0,84.0,0.0,1992.0,153,66544,39
+3915372494,"Silver Lake village, Summit County, Ohio",2036.0,1197.0,1197.0,1163.0,34.0,0.0,839.0,153,72494,39
+3915351058,"Mogadore village, Summit County, Ohio",2229.0,1367.0,1367.0,1282.0,85.0,0.0,862.0,153,51058,39
+3915341454,"Lakemore village, Summit County, Ohio",2645.0,1584.0,1584.0,1433.0,151.0,0.0,1061.0,153,41454,39
+3911912406,"Cass township, Muskingum County, Ohio",1217.0,667.0,667.0,641.0,26.0,0.0,550.0,119,12406,39
+3911946536,"Madison township, Muskingum County, Ohio",311.0,137.0,137.0,137.0,0.0,0.0,174.0,119,46536,39
+3911953438,"Muskingum township, Muskingum County, Ohio",3585.0,2340.0,2340.0,2207.0,133.0,0.0,1245.0,119,53438,39
+3911982236,"Wayne township, Muskingum County, Ohio",3849.0,2310.0,2310.0,2179.0,131.0,0.0,1539.0,119,82236,39
+3911915532,"Clay township, Muskingum County, Ohio",817.0,488.0,488.0,448.0,40.0,0.0,329.0,119,15532,39
+3916163408,"Pleasant township, Van Wert County, Ohio",8331.0,5131.0,5131.0,4775.0,356.0,0.0,3200.0,161,63408,39
+3916178596,"Union township, Van Wert County, Ohio",690.0,485.0,485.0,481.0,4.0,0.0,205.0,161,78596,39
+3916187136,"York township, Van Wert County, Ohio",566.0,369.0,369.0,353.0,16.0,0.0,197.0,161,87136,39
+3916166978,"Ridge township, Van Wert County, Ohio",2552.0,1405.0,1405.0,1369.0,36.0,0.0,1147.0,161,66978,39
+3916143372,"Liberty township, Van Wert County, Ohio",1270.0,888.0,888.0,839.0,49.0,0.0,382.0,161,43372,39
+3916181676,"Washington township, Van Wert County, Ohio",4091.0,2652.0,2652.0,2498.0,154.0,0.0,1439.0,161,81676,39
+3916177756,"Tully township, Van Wert County, Ohio",1484.0,975.0,975.0,948.0,27.0,0.0,509.0,161,77756,39
+3910166754,"Richland township, Marion County, Ohio",1027.0,805.0,805.0,767.0,38.0,0.0,222.0,101,66754,39
+3910170240,"Salt Rock township, Marion County, Ohio",479.0,293.0,293.0,287.0,6.0,0.0,186.0,101,70240,39
+3910177742,"Tully township, Marion County, Ohio",701.0,421.0,421.0,421.0,0.0,0.0,280.0,101,77742,39
+3910163352,"Pleasant township, Marion County, Ohio",3843.0,2370.0,2370.0,2288.0,82.0,0.0,1473.0,101,63352,39
+3911547040,"Manchester township, Morgan County, Ohio",106.0,62.0,62.0,62.0,0.0,0.0,44.0,115,47040,39
+3911546984,"Malta township, Morgan County, Ohio",1521.0,784.0,782.0,752.0,30.0,2.0,737.0,115,46984,39
+3911547796,"Marion township, Morgan County, Ohio",1041.0,578.0,578.0,532.0,46.0,0.0,463.0,115,47796,39
+3911587066,"York township, Morgan County, Ohio",793.0,384.0,384.0,359.0,25.0,0.0,409.0,115,87066,39
+391158910,"Bristol township, Morgan County, Ohio",230.0,134.0,134.0,134.0,0.0,0.0,96.0,115,8910,39
+3911512980,"Center township, Morgan County, Ohio",588.0,319.0,319.0,304.0,15.0,0.0,269.0,115,12980,39
+3911552122,"Morgan township, Morgan County, Ohio",2140.0,961.0,956.0,860.0,96.0,5.0,1179.0,115,52122,39
+3911548930,"Meigsville township, Morgan County, Ohio",653.0,406.0,406.0,382.0,24.0,0.0,247.0,115,48930,39
+3911561602,"Penn township, Morgan County, Ohio",391.0,230.0,223.0,197.0,26.0,7.0,161.0,115,61602,39
+391156964,"Bloom township, Morgan County, Ohio",844.0,354.0,354.0,324.0,30.0,0.0,490.0,115,6964,39
+3911578484,"Union township, Morgan County, Ohio",412.0,249.0,249.0,239.0,10.0,0.0,163.0,115,78484,39
+3911586016,"Windsor township, Morgan County, Ohio",1821.0,903.0,903.0,866.0,37.0,0.0,918.0,115,86016,39
+3911521182,"Deerfield township, Morgan County, Ohio",727.0,420.0,420.0,420.0,0.0,0.0,307.0,115,21182,39
+3911536092,"Homer township, Morgan County, Ohio",699.0,404.0,404.0,404.0,0.0,0.0,295.0,115,36092,39
+3915787094,"York township, Tuscarawas County, Ohio",1247.0,762.0,762.0,741.0,21.0,0.0,485.0,157,87094,39
+391579988,"Bucks township, Tuscarawas County, Ohio",1511.0,1109.0,1109.0,1058.0,51.0,0.0,402.0,157,9988,39
+3915762092,"Perry township, Tuscarawas County, Ohio",208.0,109.0,109.0,99.0,10.0,0.0,99.0,157,62092,39
+3915780920,"Warren township, Tuscarawas County, Ohio",1170.0,670.0,670.0,631.0,39.0,0.0,500.0,157,80920,39
+3915715574,"Clay township, Tuscarawas County, Ohio",1578.0,1023.0,1023.0,987.0,36.0,0.0,555.0,157,15574,39
+3915726082,"Fairfield township, Tuscarawas County, Ohio",1113.0,735.0,735.0,735.0,0.0,0.0,378.0,157,26082,39
+3915770443,"Sandy township, Tuscarawas County, Ohio",2468.0,1441.0,1441.0,1414.0,27.0,0.0,1027.0,157,70443,39
+3915778568,"Union township, Tuscarawas County, Ohio",1102.0,692.0,692.0,666.0,26.0,0.0,410.0,157,78568,39
+3915728462,"Franklin township, Tuscarawas County, Ohio",3928.0,2348.0,2348.0,2275.0,73.0,0.0,1580.0,157,28462,39
+3915750232,"Mill township, Tuscarawas County, Ohio",7750.0,4785.0,4785.0,4396.0,389.0,0.0,2965.0,157,50232,39
+3915731066,"Goshen township, Tuscarawas County, Ohio",4249.0,2692.0,2692.0,2517.0,175.0,0.0,1557.0,157,31066,39
+3915755216,"New Philadelphia city, Tuscarawas County, Ohio",13801.0,8387.0,8387.0,7802.0,585.0,0.0,5414.0,157,55216,39
+3915759304,"Oxford township, Tuscarawas County, Ohio",3751.0,2065.0,2065.0,1941.0,124.0,0.0,1686.0,157,59304,39
+3915782292,"Wayne township, Tuscarawas County, Ohio",1410.0,980.0,980.0,980.0,0.0,0.0,430.0,157,82292,39
+3915769974,"Salem township, Tuscarawas County, Ohio",1467.0,923.0,923.0,908.0,15.0,0.0,544.0,157,69974,39
+3915722456,"Dover city, Tuscarawas County, Ohio",10410.0,5915.0,5900.0,5628.0,272.0,15.0,4495.0,157,22456,39
+3915738836,"Jefferson township, Tuscarawas County, Ohio",657.0,399.0,399.0,382.0,17.0,0.0,258.0,157,38836,39
+3915769106,"Rush township, Tuscarawas County, Ohio",718.0,421.0,421.0,400.0,21.0,0.0,297.0,157,69106,39
+3915775217,"Sugar Creek township, Tuscarawas County, Ohio",3057.0,2097.0,2097.0,2061.0,36.0,0.0,960.0,157,75217,39
+3915781648,"Washington township, Tuscarawas County, Ohio",648.0,406.0,406.0,347.0,59.0,0.0,242.0,157,81648,39
+3916737268,"Independence township, Washington County, Ohio",194.0,101.0,101.0,101.0,0.0,0.0,93.0,167,37268,39
+3917127530,"Florence township, Williams County, Ohio",1466.0,973.0,973.0,915.0,58.0,0.0,493.0,171,27530,39
+3917164920,"Pulaski township, Williams County, Ohio",1839.0,1136.0,1136.0,1075.0,61.0,0.0,703.0,171,64920,39
+3917175819,"Superior township, Williams County, Ohio",1229.0,708.0,708.0,690.0,18.0,0.0,521.0,171,75819,39
+3917138864,"Jefferson township, Williams County, Ohio",1383.0,797.0,797.0,797.0,0.0,0.0,586.0,171,38864,39
+3917146634,"Madison township, Williams County, Ohio",762.0,566.0,566.0,543.0,23.0,0.0,196.0,171,46634,39
+3917150302,"Mill Creek township, Williams County, Ohio",630.0,413.0,413.0,361.0,52.0,0.0,217.0,171,50302,39
+3917157162,"Northwest township, Williams County, Ohio",775.0,433.0,433.0,423.0,10.0,0.0,342.0,171,57162,39
+391718630,"Bridgewater township, Williams County, Ohio",1331.0,897.0,897.0,851.0,46.0,0.0,434.0,171,8630,39
+3917113008,"Center township, Williams County, Ohio",2140.0,1442.0,1442.0,1402.0,40.0,0.0,698.0,171,13008,39
+3917174131,"Springfield township, Williams County, Ohio",2656.0,1245.0,1245.0,1182.0,63.0,0.0,1411.0,171,74131,39
+391719792,"Bryan city, Williams County, Ohio",6654.0,4035.0,4022.0,3831.0,191.0,13.0,2619.0,171,9792,39
+3917169638,"St. Joseph township, Williams County, Ohio",2277.0,1483.0,1483.0,1429.0,54.0,0.0,794.0,171,69638,39
+391718140,"Brady township, Williams County, Ohio",2004.0,1328.0,1328.0,1296.0,32.0,0.0,676.0,171,8140,39
+3901130954,"Goshen township, Auglaize County, Ohio",427.0,285.0,285.0,244.0,41.0,0.0,142.0,011,30954,39
+3901137674,"Jackson township, Auglaize County, Ohio",2828.0,2040.0,2040.0,2018.0,22.0,0.0,788.0,011,37674,39
+3901152472,"Moulton township, Auglaize County, Ohio",1292.0,794.0,794.0,752.0,42.0,0.0,498.0,011,52472,39
+3901178204,"Union township, Auglaize County, Ohio",1588.0,995.0,995.0,963.0,32.0,0.0,593.0,011,78204,39
+3901115448,"Clay township, Auglaize County, Ohio",724.0,533.0,533.0,524.0,9.0,0.0,191.0,011,15448,39
+3901169806,"Salem township, Auglaize County, Ohio",336.0,227.0,227.0,227.0,0.0,0.0,109.0,011,69806,39
+3901155986,"Noble township, Auglaize County, Ohio",1500.0,1043.0,1043.0,1035.0,8.0,0.0,457.0,011,55986,39
+3901181074,"Washington township, Auglaize County, Ohio",1443.0,1073.0,1073.0,1043.0,30.0,0.0,370.0,011,81074,39
+3901169694,"St. Marys township, Auglaize County, Ohio",8317.0,5414.0,5414.0,5229.0,185.0,0.0,2903.0,011,69694,39
+3901129848,"German township, Auglaize County, Ohio",2889.0,2103.0,2103.0,2066.0,37.0,0.0,786.0,011,29848,39
+3901165018,"Pusheta township, Auglaize County, Ohio",1088.0,764.0,764.0,691.0,73.0,0.0,324.0,011,65018,39
+3901182054,"Wayne township, Auglaize County, Ohio",1191.0,790.0,790.0,769.0,21.0,0.0,401.0,011,82054,39
+3901144618,"Logan township, Auglaize County, Ohio",875.0,548.0,548.0,532.0,16.0,0.0,327.0,011,44618,39
+3901122722,"Duchouquet township, Auglaize County, Ohio",11402.0,7445.0,7445.0,7136.0,309.0,0.0,3957.0,011,22722,39
+3902982138,"Wayne township, Columbiana County, Ohio",648.0,347.0,347.0,322.0,25.0,0.0,301.0,029,82138,39
+3902981158,"Washington township, Columbiana County, Ohio",2020.0,1080.0,1080.0,880.0,200.0,0.0,940.0,029,81158,39
+3902933264,"Hanover township, Columbiana County, Ohio",2817.0,1898.0,1898.0,1815.0,83.0,0.0,919.0,029,33264,39
+3902912910,"Center township, Columbiana County, Ohio",5014.0,2938.0,2938.0,2536.0,402.0,0.0,2076.0,029,12910,39
+3902982852,"West township, Columbiana County, Ohio",2502.0,1645.0,1645.0,1572.0,73.0,0.0,857.0,029,82852,39
+3902986912,"Yellow Creek township, Columbiana County, Ohio",1483.0,734.0,734.0,692.0,42.0,0.0,749.0,029,86912,39
+3902946368,"Madison township, Columbiana County, Ohio",2628.0,1340.0,1340.0,1276.0,64.0,0.0,1288.0,029,46368,39
+3902969512,"St. Clair township, Columbiana County, Ohio",6156.0,3631.0,3631.0,3488.0,143.0,0.0,2525.0,029,69512,39
+3902969848,"Salem township, Columbiana County, Ohio",4253.0,2583.0,2583.0,2458.0,125.0,0.0,1670.0,029,69848,39
+3916515700,"Clear Creek township, Warren County, Ohio",23861.0,16463.0,16324.0,15757.0,567.0,139.0,7398.0,165,15700,39
+3916533474,"Harlan township, Warren County, Ohio",3963.0,2825.0,2825.0,2637.0,188.0,0.0,1138.0,165,33474,39
+3916545108,"Loveland city, Warren County, Ohio",828.0,523.0,523.0,498.0,25.0,0.0,305.0,165,45108,39
+3916582306,"Wayne township, Warren County, Ohio",7155.0,4973.0,4968.0,4834.0,134.0,5.0,2182.0,165,82306,39
+3916521238,"Deerfield township, Warren County, Ohio",29213.0,21244.0,21244.0,20628.0,616.0,0.0,7969.0,165,21238,39
+3917349812,"Middleton township, Wood County, Ohio",3532.0,2384.0,2366.0,2298.0,68.0,18.0,1148.0,173,49812,39
+3917328014,"Fostoria city, Wood County, Ohio",787.0,513.0,513.0,441.0,72.0,0.0,274.0,173,28014,39
+3917343400,"Liberty township, Wood County, Ohio",1554.0,1029.0,1029.0,965.0,64.0,0.0,525.0,173,43400,39
+3917364122,"Portage township, Wood County, Ohio",1374.0,964.0,964.0,916.0,48.0,0.0,410.0,173,64122,39
+3917383986,"Weston township, Wood County, Ohio",1926.0,1298.0,1298.0,1229.0,69.0,0.0,628.0,173,83986,39
+3917351744,"Montgomery township, Wood County, Ohio",3447.0,2206.0,2206.0,2046.0,160.0,0.0,1241.0,173,51744,39
+3917362148,"Perrysburg city, Wood County, Ohio",16459.0,11767.0,11699.0,11183.0,516.0,68.0,4692.0,173,62148,39
+3917338164,"Jackson township, Wood County, Ohio",739.0,510.0,510.0,489.0,21.0,0.0,229.0,173,38164,39
+3917313015,"Center township, Wood County, Ohio",945.0,748.0,748.0,730.0,18.0,0.0,197.0,173,13015,39
+3917331220,"Grand Rapids township, Wood County, Ohio",1265.0,861.0,861.0,835.0,26.0,0.0,404.0,173,31220,39
+3917362162,"Perrysburg township, Wood County, Ohio",10698.0,6853.0,6817.0,6484.0,333.0,36.0,3845.0,173,62162,39
+391737020,"Bloom township, Wood County, Ohio",1999.0,1406.0,1406.0,1335.0,71.0,0.0,593.0,173,7020,39
+391737972,"Bowling Green city, Wood County, Ohio",27991.0,18931.0,18918.0,17411.0,1507.0,13.0,9060.0,173,7972,39
+3917363002,"Plain township, Wood County, Ohio",987.0,691.0,691.0,691.0,0.0,0.0,296.0,173,63002,39
+3900515672,"Clear Creek township, Ashland County, Ohio",1533.0,943.0,943.0,913.0,30.0,0.0,590.0,005,15672,39
+3900558562,"Orange township, Ashland County, Ohio",1880.0,1221.0,1221.0,1221.0,0.0,0.0,659.0,005,58562,39
+390052568,"Ashland city, Ashland County, Ohio",16552.0,9747.0,9717.0,9367.0,350.0,30.0,6805.0,005,2568,39
+3900541272,"Lake township, Ashland County, Ohio",448.0,324.0,324.0,324.0,0.0,0.0,124.0,005,41272,39
+3900551086,"Mohican township, Ashland County, Ohio",1485.0,980.0,980.0,955.0,25.0,0.0,505.0,005,51086,39
+3900575357,"Sullivan township, Ashland County, Ohio",1833.0,940.0,932.0,854.0,78.0,8.0,893.0,005,75357,39
+3900550610,"Milton township, Ashland County, Ohio",1655.0,1015.0,1015.0,1005.0,10.0,0.0,640.0,005,50610,39
+3900579758,"Vermillion township, Ashland County, Ohio",2186.0,1539.0,1539.0,1436.0,103.0,0.0,647.0,005,79758,39
+3900537660,"Jackson township, Ashland County, Ohio",2977.0,1760.0,1758.0,1668.0,90.0,2.0,1217.0,005,37660,39
+3915722470,"Dover township, Tuscarawas County, Ohio",3785.0,2450.0,2450.0,2378.0,72.0,0.0,1335.0,157,22470,39
+391572918,"Auburn township, Tuscarawas County, Ohio",674.0,503.0,503.0,494.0,9.0,0.0,171.0,157,2918,39
+3915742182,"Lawrence township, Tuscarawas County, Ohio",4763.0,3223.0,3223.0,3070.0,153.0,0.0,1540.0,157,42182,39
+3915781060,"Warwick township, Tuscarawas County, Ohio",2274.0,1547.0,1547.0,1515.0,32.0,0.0,727.0,157,81060,39
+3916916224,"Clinton township, Wayne County, Ohio",2394.0,1637.0,1637.0,1574.0,63.0,0.0,757.0,169,16224,39
+3916959556,"Paint township, Wayne County, Ohio",2225.0,1279.0,1279.0,1250.0,29.0,0.0,946.0,169,59556,39
+3916914240,"Chippewa township, Wayne County, Ohio",8235.0,5471.0,5471.0,5222.0,249.0,0.0,2764.0,169,14240,39
+391694276,"Baughman township, Wayne County, Ohio",3809.0,2511.0,2511.0,2470.0,41.0,0.0,1298.0,169,4276,39
+3916914044,"Chester township, Wayne County, Ohio",2435.0,1673.0,1673.0,1646.0,27.0,0.0,762.0,169,14044,39
+3916982320,"Wayne township, Wayne County, Ohio",3461.0,2323.0,2323.0,2276.0,47.0,0.0,1138.0,169,82320,39
+3916911276,"Canaan township, Wayne County, Ohio",3738.0,2352.0,2352.0,2239.0,113.0,0.0,1386.0,169,11276,39
+3916975231,"Sugar Creek township, Wayne County, Ohio",4902.0,3200.0,3200.0,3131.0,69.0,0.0,1702.0,169,75231,39
+3916918322,"Congress township, Wayne County, Ohio",3491.0,2313.0,2305.0,2149.0,156.0,8.0,1178.0,169,18322,39
+3916950666,"Milton township, Wayne County, Ohio",2440.0,1502.0,1502.0,1462.0,40.0,0.0,938.0,169,50666,39
+3916931878,"Green township, Wayne County, Ohio",9640.0,6393.0,6393.0,6025.0,368.0,0.0,3247.0,169,31878,39
+3916957260,"Norton city, Wayne County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,169,57260,39
+3916962995,"Plain township, Wayne County, Ohio",2558.0,1682.0,1682.0,1669.0,13.0,0.0,876.0,169,62995,39
+3916924136,"East Union township, Wayne County, Ohio",4900.0,3361.0,3351.0,3238.0,113.0,10.0,1539.0,169,24136,39
+3916928504,"Franklin township, Wayne County, Ohio",2866.0,1831.0,1831.0,1793.0,38.0,0.0,1035.0,169,28504,39
+3916970198,"Salt Creek township, Wayne County, Ohio",2700.0,1716.0,1716.0,1707.0,9.0,0.0,984.0,169,70198,39
+3916986548,"Wooster city, Wayne County, Ohio",21846.0,12925.0,12925.0,12292.0,633.0,0.0,8921.0,169,86548,39
+3916986562,"Wooster township, Wayne County, Ohio",3937.0,2712.0,2712.0,2669.0,43.0,0.0,1225.0,169,86562,39
+3917519190,"Crane township, Wyandot County, Ohio",5961.0,3821.0,3821.0,3670.0,151.0,0.0,2140.0,175,19190,39
+3917550106,"Mifflin township, Wyandot County, Ohio",652.0,423.0,423.0,417.0,6.0,0.0,229.0,175,50106,39
+3917578141,"Tymochtee township, Wyandot County, Ohio",719.0,416.0,416.0,382.0,34.0,0.0,303.0,175,78141,39
+3917538178,"Jackson township, Wyandot County, Ohio",418.0,329.0,329.0,320.0,9.0,0.0,89.0,175,38178,39
+3917524360,"Eden township, Wyandot County, Ohio",792.0,517.0,517.0,479.0,38.0,0.0,275.0,175,24360,39
+3917548006,"Marseilles township, Wyandot County, Ohio",252.0,171.0,171.0,169.0,2.0,0.0,81.0,175,48006,39
+3917566992,"Ridge township, Wyandot County, Ohio",464.0,350.0,350.0,347.0,3.0,0.0,114.0,175,66992,39
+3917562904,"Pitt township, Wyandot County, Ohio",833.0,516.0,516.0,515.0,1.0,0.0,317.0,175,62904,39
+3917368686,"Rossford city, Wood County, Ohio",5143.0,3628.0,3611.0,3551.0,60.0,17.0,1515.0,173,68686,39
+3917328756,"Freedom township, Wood County, Ohio",2281.0,1431.0,1422.0,1369.0,53.0,9.0,850.0,173,28756,39
+3917334986,"Henry township, Wood County, Ohio",3403.0,2275.0,2275.0,2197.0,78.0,0.0,1128.0,173,34986,39
+3917377630,"Troy township, Wood County, Ohio",3077.0,1943.0,1943.0,1770.0,173.0,0.0,1134.0,173,77630,39
+3917381704,"Washington township, Wood County, Ohio",1910.0,1397.0,1397.0,1332.0,65.0,0.0,513.0,173,81704,39
+3917341328,"Lake township, Wood County, Ohio",9169.0,5798.0,5748.0,5515.0,233.0,50.0,3371.0,173,41328,39
+3917350680,"Milton township, Wood County, Ohio",811.0,524.0,524.0,478.0,46.0,0.0,287.0,173,50680,39
+3917357190,"Northwood city, Wood County, Ohio",4403.0,2865.0,2831.0,2645.0,186.0,34.0,1538.0,173,57190,39
+3917362106,"Perry township, Wood County, Ohio",1332.0,1003.0,1003.0,944.0,59.0,0.0,329.0,173,62106,39
+3917382544,"Webster township, Wood County, Ohio",1024.0,698.0,698.0,674.0,24.0,0.0,326.0,173,82544,39
+3917575987,"Sycamore township, Wyandot County, Ohio",1390.0,851.0,851.0,814.0,37.0,0.0,539.0,175,75987,39
+391752190,"Antrim township, Wyandot County, Ohio",936.0,631.0,631.0,559.0,72.0,0.0,305.0,175,2190,39
+3917519246,"Crawford township, Wyandot County, Ohio",3644.0,2473.0,2473.0,2369.0,104.0,0.0,1171.0,175,19246,39
+3917570016,"Salem township, Wyandot County, Ohio",886.0,529.0,529.0,508.0,21.0,0.0,357.0,175,70016,39
+3917566782,"Richland township, Wyandot County, Ohio",626.0,358.0,358.0,353.0,5.0,0.0,268.0,175,66782,39
+3901562596,"Pike township, Brown County, Ohio",3242.0,2068.0,2068.0,1970.0,98.0,0.0,1174.0,015,62596,39
+3901510758,"Byrd township, Brown County, Ohio",737.0,414.0,414.0,404.0,10.0,0.0,323.0,015,10758,39
+3902978890,"Unity township, Columbiana County, Ohio",7703.0,4621.0,4621.0,4295.0,326.0,0.0,3082.0,029,78890,39
+3902961798,"Perry township, Columbiana County, Ohio",13357.0,8034.0,8018.0,7466.0,552.0,16.0,5323.0,029,61798,39
+3902924906,"Elkrun township, Columbiana County, Ohio",4359.0,1183.0,1183.0,1138.0,45.0,0.0,3176.0,029,24906,39
+3902944226,"Liverpool township, Columbiana County, Ohio",3366.0,1947.0,1947.0,1727.0,220.0,0.0,1419.0,029,44226,39
+3902923730,"East Liverpool city, Columbiana County, Ohio",8335.0,4752.0,4752.0,4091.0,661.0,0.0,3583.0,029,23730,39
+3902928238,"Franklin township, Columbiana County, Ohio",627.0,462.0,462.0,393.0,69.0,0.0,165.0,029,28238,39
+3902949784,"Middleton township, Columbiana County, Ohio",3006.0,1764.0,1764.0,1689.0,75.0,0.0,1242.0,029,49784,39
+3902910562,"Butler township, Columbiana County, Ohio",2822.0,1742.0,1742.0,1702.0,40.0,0.0,1080.0,029,10562,39
+3902925998,"Fairfield township, Columbiana County, Ohio",8098.0,4976.0,4976.0,4799.0,177.0,0.0,3122.0,029,25998,39
+3902982740,"Wellsville village, Columbiana County, Ohio",2357.0,1300.0,1300.0,1076.0,224.0,0.0,1057.0,029,82740,39
+3902940824,"Knox township, Columbiana County, Ohio",3730.0,2502.0,2502.0,2322.0,180.0,0.0,1228.0,029,40824,39
+390379414,"Brown township, Darke County, Ohio",1620.0,1020.0,1020.0,994.0,26.0,0.0,600.0,037,9414,39
+3903737758,"Jackson township, Darke County, Ohio",2174.0,1298.0,1298.0,1184.0,114.0,0.0,876.0,037,37758,39
+3903743092,"Liberty township, Darke County, Ohio",908.0,567.0,567.0,550.0,17.0,0.0,341.0,037,43092,39
+3903751366,"Monroe township, Darke County, Ohio",1113.0,688.0,688.0,653.0,35.0,0.0,425.0,037,51366,39
+3903761168,"Patterson township, Darke County, Ohio",852.0,594.0,594.0,580.0,14.0,0.0,258.0,037,61168,39
+3903710576,"Butler township, Darke County, Ohio",1240.0,896.0,896.0,860.0,36.0,0.0,344.0,037,10576,39
+3903781186,"Washington township, Darke County, Ohio",959.0,682.0,682.0,636.0,46.0,0.0,277.0,037,81186,39
+3903732354,"Greenville township, Darke County, Ohio",14123.0,8337.0,8326.0,7645.0,681.0,11.0,5786.0,037,32354,39
+3903753732,"Neave township, Darke County, Ohio",1622.0,1020.0,1020.0,1011.0,9.0,0.0,602.0,037,53732,39
+3903780248,"Wabash township, Darke County, Ohio",708.0,564.0,564.0,546.0,18.0,0.0,144.0,037,80248,39
+3903728266,"Franklin township, Darke County, Ohio",790.0,609.0,609.0,595.0,14.0,0.0,181.0,037,28266,39
+3903733810,"Harrison township, Darke County, Ohio",1904.0,1222.0,1222.0,1205.0,17.0,0.0,682.0,037,33810,39
+3903777980,"Twin township, Darke County, Ohio",3155.0,2113.0,2107.0,2007.0,100.0,6.0,1042.0,037,77980,39
+39037254,"Adams township, Darke County, Ohio",2678.0,1725.0,1725.0,1649.0,76.0,0.0,953.0,037,254,39
+3903787010,"York township, Darke County, Ohio",306.0,124.0,124.0,124.0,0.0,0.0,182.0,037,87010,39
+3903782152,"Wayne township, Darke County, Ohio",3231.0,2110.0,2110.0,2040.0,70.0,0.0,1121.0,037,82152,39
+3903779380,"Van Buren township, Darke County, Ohio",1344.0,950.0,950.0,950.0,0.0,0.0,394.0,037,79380,39
+3903750960,"Mississinawa township, Darke County, Ohio",472.0,319.0,319.0,319.0,0.0,0.0,153.0,037,50960,39
+390371294,"Allen township, Darke County, Ohio",956.0,596.0,596.0,571.0,25.0,0.0,360.0,037,1294,39
+3903766656,"Richland township, Darke County, Ohio",674.0,551.0,551.0,513.0,38.0,0.0,123.0,037,66656,39
+391234304,"Bay township, Ottawa County, Ohio",1074.0,645.0,645.0,626.0,19.0,0.0,429.0,123,4304,39
+3912320058,"Danbury township, Ottawa County, Ohio",4499.0,2382.0,2373.0,2237.0,136.0,9.0,2117.0,123,20058,39
+3912364080,"Portage township, Ottawa County, Ohio",1201.0,723.0,723.0,699.0,24.0,0.0,478.0,123,64080,39
+3912333726,"Harris township, Ottawa County, Ohio",2411.0,1309.0,1309.0,1268.0,41.0,0.0,1102.0,123,33726,39
+3912312266,"Carroll township, Ottawa County, Ohio",1837.0,1173.0,1173.0,1082.0,91.0,0.0,664.0,123,12266,39
+391231322,"Allen township, Ottawa County, Ohio",3192.0,2114.0,2114.0,2062.0,52.0,0.0,1078.0,123,1322,39
+391235620,"Benton township, Ottawa County, Ohio",2195.0,1531.0,1531.0,1488.0,43.0,0.0,664.0,123,5620,39
+3900551688,"Montgomery township, Ashland County, Ohio",2173.0,1457.0,1457.0,1410.0,47.0,0.0,716.0,005,51688,39
+3900561756,"Perry township, Ashland County, Ohio",1720.0,1216.0,1216.0,1169.0,47.0,0.0,504.0,005,61756,39
+3900568966,"Ruggles township, Ashland County, Ohio",764.0,649.0,649.0,632.0,17.0,0.0,115.0,005,68966,39
+3900577532,"Troy township, Ashland County, Ohio",1198.0,687.0,687.0,609.0,78.0,0.0,511.0,005,77532,39
+3900550050,"Mifflin township, Ashland County, Ohio",912.0,545.0,545.0,531.0,14.0,0.0,367.0,005,50050,39
+3900531682,"Green township, Ashland County, Ohio",2935.0,1815.0,1815.0,1668.0,147.0,0.0,1120.0,005,31682,39
+3900533236,"Hanover township, Ashland County, Ohio",2314.0,1368.0,1368.0,1308.0,60.0,0.0,946.0,005,33236,39
+390073156,"Austinburg township, Ashtabula County, Ohio",1870.0,1139.0,1139.0,1085.0,54.0,0.0,731.0,007,3156,39
+3900716560,"Colebrook township, Ashtabula County, Ohio",878.0,427.0,427.0,414.0,13.0,0.0,451.0,007,16560,39
+3900734300,"Hartsgrove township, Ashtabula County, Ohio",1143.0,682.0,682.0,631.0,51.0,0.0,461.0,007,34300,39
+3900740404,"Kingsville township, Ashtabula County, Ohio",1232.0,639.0,639.0,617.0,22.0,0.0,593.0,007,40404,39
+3900752066,"Morgan township, Ashtabula County, Ohio",1586.0,904.0,904.0,805.0,99.0,0.0,682.0,007,52066,39
+3900756700,"North Kingsville village, Ashtabula County, Ohio",2303.0,1402.0,1402.0,1355.0,47.0,0.0,901.0,007,56700,39
+390072064,"Andover township, Ashtabula County, Ohio",2173.0,875.0,875.0,851.0,24.0,0.0,1298.0,007,2064,39
+3900713890,"Cherry Valley township, Ashtabula County, Ohio",969.0,609.0,609.0,558.0,51.0,0.0,360.0,007,13890,39
+3900762568,"Pierpont township, Ashtabula County, Ohio",1292.0,550.0,550.0,523.0,27.0,0.0,742.0,007,62568,39
+3900768224,"Rome township, Ashtabula County, Ohio",1714.0,1087.0,1087.0,1014.0,73.0,0.0,627.0,007,68224,39
+3900763772,"Plymouth township, Ashtabula County, Ohio",1427.0,805.0,805.0,726.0,79.0,0.0,622.0,007,63772,39
+390070,"County subdivisions not defined, Ashtabula County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,007,0,39
+390072652,"Ashtabula township, Ashtabula County, Ohio",15694.0,8269.0,8239.0,7311.0,928.0,30.0,7425.0,007,2652,39
+3900770646,"Saybrook township, Ashtabula County, Ohio",8139.0,4416.0,4416.0,4207.0,209.0,0.0,3723.0,007,70646,39
+3900729624,"Geneva township, Ashtabula County, Ohio",9037.0,5102.0,5102.0,4745.0,357.0,0.0,3935.0,007,29624,39
+3900733642,"Harpersfield township, Ashtabula County, Ohio",2062.0,1290.0,1290.0,1244.0,46.0,0.0,772.0,007,33642,39
+3900742742,"Lenox township, Ashtabula County, Ohio",1043.0,591.0,591.0,545.0,46.0,0.0,452.0,007,42742,39
+3900782040,"Wayne township, Ashtabula County, Ohio",439.0,300.0,300.0,270.0,30.0,0.0,139.0,007,82040,39
+3900785372,"Williamsfield township, Ashtabula County, Ohio",1011.0,660.0,660.0,589.0,71.0,0.0,351.0,007,85372,39
+3900738514,"Jefferson township, Ashtabula County, Ohio",3946.0,2413.0,2413.0,2281.0,132.0,0.0,1533.0,007,38514,39
+3900785988,"Windsor township, Ashtabula County, Ohio",1364.0,836.0,836.0,836.0,0.0,0.0,528.0,007,85988,39
+3900721672,"Denmark township, Ashtabula County, Ohio",778.0,441.0,385.0,385.0,0.0,56.0,337.0,007,21672,39
+3900751296,"Monroe township, Ashtabula County, Ohio",1846.0,924.0,924.0,820.0,104.0,0.0,922.0,007,51296,39
+3900754964,"New Lyme township, Ashtabula County, Ohio",806.0,443.0,443.0,424.0,19.0,0.0,363.0,007,54964,39
+3900766796,"Richmond township, Ashtabula County, Ohio",721.0,432.0,432.0,432.0,0.0,0.0,289.0,007,66796,39
+3900718350,"Conneaut city, Ashtabula County, Ohio",10650.0,5124.0,5124.0,4590.0,534.0,0.0,5526.0,007,18350,39
+3900722344,"Dorset township, Ashtabula County, Ohio",716.0,392.0,392.0,369.0,23.0,0.0,324.0,007,22344,39
+3900772053,"Sheffield township, Ashtabula County, Ohio",979.0,581.0,581.0,539.0,42.0,0.0,398.0,007,72053,39
+3900758870,"Orwell township, Ashtabula County, Ohio",2276.0,1297.0,1297.0,1224.0,73.0,0.0,979.0,007,58870,39
+3900777686,"Trumbull township, Ashtabula County, Ohio",1135.0,671.0,671.0,613.0,58.0,0.0,464.0,007,77686,39
+3901536834,"Huntington township, Brown County, Ohio",2234.0,1222.0,1222.0,1113.0,109.0,0.0,1012.0,015,36834,39
+3901538528,"Jefferson township, Brown County, Ohio",1060.0,654.0,654.0,620.0,34.0,0.0,406.0,015,38528,39
+3901561770,"Perry township, Brown County, Ohio",3741.0,2396.0,2396.0,2298.0,98.0,0.0,1345.0,015,61770,39
+3901563212,"Pleasant township, Brown County, Ohio",4153.0,2085.0,2085.0,1886.0,199.0,0.0,2068.0,015,63212,39
+3901574559,"Sterling township, Brown County, Ohio",3493.0,1972.0,1972.0,1792.0,180.0,0.0,1521.0,015,74559,39
+3901578232,"Union township, Brown County, Ohio",2465.0,1380.0,1380.0,1297.0,83.0,0.0,1085.0,015,78232,39
+3901581102,"Washington township, Brown County, Ohio",1760.0,1037.0,1037.0,972.0,65.0,0.0,723.0,015,81102,39
+3901515224,"Clark township, Brown County, Ohio",2662.0,1702.0,1682.0,1527.0,155.0,20.0,960.0,015,15224,39
+3901528210,"Franklin township, Brown County, Ohio",1247.0,652.0,652.0,618.0,34.0,0.0,595.0,015,28210,39
+3901531696,"Green township, Brown County, Ohio",2562.0,1591.0,1591.0,1547.0,44.0,0.0,971.0,015,31696,39
+3901537688,"Jackson township, Brown County, Ohio",1097.0,628.0,628.0,597.0,31.0,0.0,469.0,015,37688,39
+3901542910,"Lewis township, Brown County, Ohio",2131.0,1364.0,1364.0,1251.0,113.0,0.0,767.0,015,42910,39
+3901571066,"Scott township, Brown County, Ohio",813.0,390.0,390.0,359.0,31.0,0.0,423.0,015,71066,39
+3901523072,"Eagle township, Brown County, Ohio",1462.0,923.0,923.0,871.0,52.0,0.0,539.0,015,23072,39
+3901752080,"Morgan township, Butler County, Ohio",4187.0,2947.0,2947.0,2791.0,156.0,0.0,1240.0,017,52080,39
+3901743050,"Liberty township, Butler County, Ohio",27973.0,20189.0,20189.0,19716.0,473.0,0.0,7784.0,017,43050,39
+3901746340,"Madison township, Butler County, Ohio",7053.0,4182.0,4182.0,3843.0,339.0,0.0,2871.0,017,46340,39
+3901725984,"Fairfield township, Butler County, Ohio",17366.0,12094.0,12079.0,11781.0,298.0,15.0,5272.0,017,25984,39
+3901733250,"Hanover township, Butler County, Ohio",6752.0,4283.0,4283.0,4203.0,80.0,0.0,2469.0,017,33250,39
+3901766096,"Reily township, Butler County, Ohio",2222.0,1581.0,1581.0,1525.0,56.0,0.0,641.0,017,66096,39
+3901749840,"Middletown city, Butler County, Ohio",35880.0,21726.0,21726.0,19512.0,2214.0,0.0,14154.0,017,49840,39
+3901750162,"Milford township, Butler County, Ohio",2968.0,1922.0,1922.0,1872.0,50.0,0.0,1046.0,017,50162,39
+3901777322,"Trenton city, Butler County, Ohio",9078.0,6438.0,6438.0,6120.0,318.0,0.0,2640.0,017,77322,39
+3901782082,"Wayne township, Butler County, Ohio",3853.0,2416.0,2416.0,2294.0,122.0,0.0,1437.0,017,82082,39
+3901733012,"Hamilton city, Butler County, Ohio",48787.0,29138.0,29138.0,26433.0,2705.0,0.0,19649.0,017,33012,39
+3901725970,"Fairfield city, Butler County, Ohio",34386.0,24238.0,24218.0,22999.0,1219.0,20.0,10148.0,017,25970,39
+3901759241,"Oxford township, Butler County, Ohio",23131.0,10816.0,10766.0,10350.0,416.0,50.0,12315.0,017,59241,39
+3901768616,"Ross township, Butler County, Ohio",6399.0,4264.0,4264.0,4155.0,109.0,0.0,2135.0,017,68616,39
+3901769498,"St. Clair township, Butler County, Ohio",5553.0,3462.0,3462.0,3188.0,274.0,0.0,2091.0,017,69498,39
+3901742672,"Lemon township, Butler County, Ohio",11076.0,7558.0,7558.0,7146.0,412.0,0.0,3518.0,017,42672,39
+3904350148,"Milan township, Erie County, Ohio",2841.0,1799.0,1791.0,1718.0,73.0,8.0,1042.0,043,50148,39
+390435802,"Berlin township, Erie County, Ohio",3183.0,2046.0,2046.0,1897.0,149.0,0.0,1137.0,043,5802,39
+3904347572,"Margaretta township, Erie County, Ohio",4912.0,3294.0,3294.0,2987.0,307.0,0.0,1618.0,043,47572,39
+390435228,"Bellevue city, Erie County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,043,5228,39
+3904337030,"Huron township, Erie County, Ohio",8701.0,4983.0,4983.0,4776.0,207.0,0.0,3718.0,043,37030,39
+3904339662,"Kelleys Island village, Erie County, Ohio",197.0,81.0,81.0,70.0,11.0,0.0,116.0,043,39662,39
+3904327482,"Florence township, Erie County, Ohio",2229.0,1493.0,1493.0,1471.0,22.0,0.0,736.0,043,27482,39
+3907943204,"Liberty township, Jackson County, Ohio",1228.0,752.0,752.0,719.0,33.0,0.0,476.0,079,43204,39
+3907982712,"Wellston city, Jackson County, Ohio",4280.0,2564.0,2564.0,2094.0,470.0,0.0,1716.0,079,82712,39
+3904361714,"Perkins township, Erie County, Ohio",9750.0,6121.0,6121.0,5767.0,354.0,0.0,3629.0,043,61714,39
+3904379730,"Vermilion township, Erie County, Ohio",4265.0,2426.0,2419.0,2319.0,100.0,7.0,1839.0,043,79730,39
+3904359276,"Oxford township, Erie County, Ohio",1031.0,620.0,620.0,620.0,0.0,0.0,411.0,043,59276,39
+390430,"County subdivisions not defined, Erie County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,043,0,39
+3904332578,"Groton township, Erie County, Ohio",881.0,551.0,551.0,551.0,0.0,0.0,330.0,043,32578,39
+3904370380,"Sandusky city, Erie County, Ohio",19878.0,12512.0,12512.0,11401.0,1111.0,0.0,7366.0,043,70380,39
+3906728308,"Franklin township, Harrison County, Ohio",600.0,353.0,353.0,353.0,0.0,0.0,247.0,067,28308,39
+3906768994,"Rumley township, Harrison County, Ohio",1339.0,724.0,724.0,699.0,25.0,0.0,615.0,067,68994,39
+3906774724,"Stock township, Harrison County, Ohio",208.0,85.0,85.0,85.0,0.0,0.0,123.0,067,74724,39
+3906728812,"Freeport township, Harrison County, Ohio",564.0,330.0,330.0,323.0,7.0,0.0,234.0,067,28812,39
+3906757456,"Nottingham township, Harrison County, Ohio",206.0,111.0,111.0,111.0,0.0,0.0,95.0,067,57456,39
+3906751940,"Moorefield township, Harrison County, Ohio",457.0,279.0,279.0,266.0,13.0,0.0,178.0,067,51940,39
+3906781312,"Washington township, Harrison County, Ohio",432.0,159.0,159.0,149.0,10.0,0.0,273.0,067,81312,39
+3906772361,"Short Creek township, Harrison County, Ohio",834.0,524.0,524.0,500.0,24.0,0.0,310.0,067,72361,39
+3906729890,"German township, Harrison County, Ohio",546.0,325.0,325.0,295.0,30.0,0.0,221.0,067,29890,39
+390672358,"Archer township, Harrison County, Ohio",237.0,107.0,107.0,107.0,0.0,0.0,130.0,067,2358,39
+3906751394,"Monroe township, Harrison County, Ohio",900.0,485.0,485.0,447.0,38.0,0.0,415.0,067,51394,39
+3906731766,"Green township, Harrison County, Ohio",1634.0,856.0,856.0,805.0,51.0,0.0,778.0,067,31766,39
+390672764,"Athens township, Harrison County, Ohio",393.0,230.0,230.0,225.0,5.0,0.0,163.0,067,2764,39
+3906710814,"Cadiz township, Harrison County, Ohio",2972.0,1804.0,1804.0,1696.0,108.0,0.0,1168.0,067,10814,39
+3906756084,"North township, Harrison County, Ohio",1287.0,683.0,683.0,646.0,37.0,0.0,604.0,067,56084,39
+3914728014,"Fostoria city, Seneca County, Ohio",6931.0,4090.0,4090.0,3725.0,365.0,0.0,2841.0,147,28014,39
+3914724346,"Eden township, Seneca County, Ohio",1711.0,857.0,857.0,849.0,8.0,0.0,854.0,147,24346,39
+3915143022,"Lexington township, Stark County, Ohio",4473.0,2861.0,2861.0,2641.0,220.0,0.0,1612.0,151,43022,39
+3915159850,"Paris township, Stark County, Ohio",4649.0,2742.0,2742.0,2471.0,271.0,0.0,1907.0,151,59850,39
+3915138094,"Jackson township, Stark County, Ohio",33176.0,21563.0,21518.0,20573.0,945.0,45.0,11613.0,151,38094,39
+3915155944,"Nimishillen township, Stark County, Ohio",7871.0,4857.0,4857.0,4706.0,151.0,0.0,3014.0,151,55944,39
+3915162694,"Pike township, Stark County, Ohio",3177.0,1918.0,1918.0,1857.0,61.0,0.0,1259.0,151,62694,39
+3915181634,"Washington township, Stark County, Ohio",3904.0,2512.0,2512.0,2444.0,68.0,0.0,1392.0,151,81634,39
+3915142168,"Lawrence township, Stark County, Ohio",11469.0,7569.0,7569.0,7240.0,329.0,0.0,3900.0,151,42168,39
+3915162078,"Perry township, Stark County, Ohio",23801.0,14939.0,14939.0,14214.0,725.0,0.0,8862.0,151,62078,39
+3915175208,"Sugar Creek township, Stark County, Ohio",4999.0,3119.0,3116.0,2956.0,160.0,3.0,1880.0,151,75208,39
+3915177910,"Tuscarawas township, Stark County, Ohio",4869.0,3060.0,3060.0,2926.0,134.0,0.0,1809.0,151,77910,39
+391511420,"Alliance city, Stark County, Ohio",17775.0,9872.0,9872.0,8708.0,1164.0,0.0,7903.0,151,1420,39
+3915145094,"Louisville city, Stark County, Ohio",7491.0,4793.0,4793.0,4405.0,388.0,0.0,2698.0,151,45094,39
+3915148244,"Massillon city, Stark County, Ohio",25727.0,16006.0,16006.0,14630.0,1376.0,0.0,9721.0,151,48244,39
+3915158926,"Osnaburg township, Stark County, Ohio",4710.0,2963.0,2963.0,2848.0,115.0,0.0,1747.0,151,58926,39
+3915170436,"Sandy township, Stark County, Ohio",2993.0,1845.0,1845.0,1689.0,156.0,0.0,1148.0,151,70436,39
+391516180,"Bethlehem township, Stark County, Ohio",4461.0,2419.0,2411.0,2291.0,120.0,8.0,2042.0,151,6180,39
+3915112014,"Canton township, Stark County, Ohio",10375.0,6667.0,6667.0,6139.0,528.0,0.0,3708.0,151,12014,39
+3915112000,"Canton city, Stark County, Ohio",55769.0,34861.0,34821.0,30710.0,4111.0,40.0,20908.0,151,12000,39
+3915162988,"Plain township, Stark County, Ohio",43755.0,27279.0,27262.0,26180.0,1082.0,17.0,16476.0,151,62988,39
+3915141314,"Lake township, Stark County, Ohio",23631.0,15840.0,15840.0,15258.0,582.0,0.0,7791.0,151,41314,39
+3915147936,"Marlboro township, Stark County, Ohio",3608.0,2490.0,2490.0,2421.0,69.0,0.0,1118.0,151,47936,39
+3900347656,"Marion township, Allen County, Ohio",5532.0,3744.0,3744.0,3562.0,182.0,0.0,1788.0,003,47656,39
+3900351282,"Monroe township, Allen County, Ohio",1673.0,1216.0,1216.0,1190.0,26.0,0.0,457.0,003,51282,39
+3900361742,"Perry township, Allen County, Ohio",2929.0,1681.0,1681.0,1549.0,132.0,0.0,1248.0,003,61742,39
+3901923226,"East township, Carroll County, Ohio",506.0,300.0,300.0,300.0,0.0,0.0,206.0,019,23226,39
+3901928126,"Fox township, Carroll County, Ohio",677.0,459.0,459.0,432.0,27.0,0.0,218.0,019,28126,39
+3901958576,"Orange township, Carroll County, Ohio",1060.0,582.0,582.0,564.0,18.0,0.0,478.0,019,58576,39
+3901961784,"Perry township, Carroll County, Ohio",816.0,478.0,478.0,449.0,29.0,0.0,338.0,019,61784,39
+3901942434,"Lee township, Carroll County, Ohio",777.0,383.0,383.0,364.0,19.0,0.0,394.0,019,42434,39
+3906321462,"Delaware township, Hancock County, Ohio",1031.0,622.0,622.0,552.0,70.0,0.0,409.0,063,21462,39
+390631308,"Allen township, Hancock County, Ohio",1885.0,1224.0,1224.0,1172.0,52.0,0.0,661.0,063,1308,39
+3906347698,"Marion township, Hancock County, Ohio",2252.0,1606.0,1606.0,1567.0,39.0,0.0,646.0,063,47698,39
+3906379408,"Van Buren township, Hancock County, Ohio",759.0,479.0,479.0,474.0,5.0,0.0,280.0,063,79408,39
+3906378330,"Union township, Hancock County, Ohio",1362.0,978.0,978.0,940.0,38.0,0.0,384.0,063,78330,39
+3906327048,"Findlay city, Hancock County, Ohio",33818.0,21887.0,21838.0,20637.0,1201.0,49.0,11931.0,063,27048,39
+3906337800,"Jackson township, Hancock County, Ohio",781.0,465.0,465.0,449.0,16.0,0.0,316.0,063,37800,39
+3906364066,"Portage township, Hancock County, Ohio",786.0,647.0,647.0,647.0,0.0,0.0,139.0,063,64066,39
+3906381284,"Washington township, Hancock County, Ohio",3502.0,1978.0,1978.0,1930.0,48.0,0.0,1524.0,063,81284,39
+3906343148,"Liberty township, Hancock County, Ohio",5587.0,3993.0,3993.0,3848.0,145.0,0.0,1594.0,063,43148,39
+390636362,"Biglick township, Hancock County, Ohio",748.0,453.0,453.0,440.0,13.0,0.0,295.0,063,6362,39
+390631644,"Amanda township, Hancock County, Ohio",793.0,641.0,641.0,631.0,10.0,0.0,152.0,063,1644,39
+390636838,"Blanchard township, Hancock County, Ohio",985.0,685.0,685.0,681.0,4.0,0.0,300.0,063,6838,39
+3906312392,"Cass township, Hancock County, Ohio",489.0,401.0,401.0,393.0,8.0,0.0,88.0,063,12392,39
+3906358632,"Orange township, Hancock County, Ohio",1117.0,715.0,715.0,693.0,22.0,0.0,402.0,063,58632,39
+3906363268,"Pleasant township, Hancock County, Ohio",1780.0,1208.0,1208.0,1151.0,57.0,0.0,572.0,063,63268,39
+3906323086,"Eagle township, Hancock County, Ohio",971.0,630.0,630.0,599.0,31.0,0.0,341.0,063,23086,39
+3906346438,"Madison township, Hancock County, Ohio",749.0,475.0,475.0,469.0,6.0,0.0,274.0,063,46438,39
+3902531010,"Goshen township, Clermont County, Ohio",12518.0,8478.0,8478.0,8098.0,380.0,0.0,4040.0,025,31010,39
+3902557960,"Ohio township, Clermont County, Ohio",3979.0,2489.0,2489.0,2271.0,218.0,0.0,1490.0,025,57960,39
+3902576155,"Tate township, Clermont County, Ohio",7740.0,4556.0,4551.0,4237.0,314.0,5.0,3184.0,025,76155,39
+3902582110,"Wayne township, Clermont County, Ohio",4060.0,2513.0,2513.0,2353.0,160.0,0.0,1547.0,025,82110,39
+3902528224,"Franklin township, Clermont County, Ohio",3476.0,2005.0,2005.0,1936.0,69.0,0.0,1471.0,025,28224,39
+3902550176,"Milford city, Clermont County, Ohio",5455.0,3355.0,3355.0,3224.0,131.0,0.0,2100.0,025,50176,39
+3902585302,"Williamsburg township, Clermont County, Ohio",4595.0,2753.0,2753.0,2690.0,63.0,0.0,1842.0,025,85302,39
+3902545108,"Loveland city, Clermont County, Ohio",1573.0,1207.0,1207.0,1172.0,35.0,0.0,366.0,025,45108,39
+3902574825,"Stonelick township, Clermont County, Ohio",5012.0,3086.0,3086.0,2905.0,181.0,0.0,1926.0,025,74825,39
+3902537716,"Jackson township, Clermont County, Ohio",2544.0,1516.0,1516.0,1398.0,118.0,0.0,1028.0,025,37716,39
+3902562540,"Pierce township, Clermont County, Ohio",11975.0,8066.0,8066.0,7747.0,319.0,0.0,3909.0,025,62540,39
+390254157,"Batavia township, Clermont County, Ohio",18348.0,12075.0,12075.0,11429.0,646.0,0.0,6273.0,025,4157,39
+3902549322,"Miami township, Clermont County, Ohio",32003.0,21593.0,21582.0,20870.0,712.0,11.0,10410.0,025,49322,39
+3902581130,"Washington township, Clermont County, Ohio",1720.0,1009.0,1009.0,976.0,33.0,0.0,711.0,025,81130,39
+3902578288,"Union township, Clermont County, Ohio",38221.0,26331.0,26322.0,25391.0,931.0,9.0,11890.0,025,78288,39
+3900375199,"Sugar Creek township, Allen County, Ohio",981.0,674.0,674.0,651.0,23.0,0.0,307.0,003,75199,39
+390034206,"Bath township, Allen County, Ohio",7886.0,5069.0,5069.0,4840.0,229.0,0.0,2817.0,003,4206,39
+390032988,"Auglaize township, Allen County, Ohio",2052.0,1372.0,1372.0,1341.0,31.0,0.0,680.0,003,2988,39
+3900343554,"Lima city, Allen County, Ohio",29108.0,17950.0,17950.0,15728.0,2222.0,0.0,11158.0,003,43554,39
+390031756,"American township, Allen County, Ohio",11442.0,7157.0,7155.0,6803.0,352.0,2.0,4285.0,003,1756,39
+3900337646,"Jackson township, Allen County, Ohio",2427.0,1569.0,1569.0,1518.0,51.0,0.0,858.0,003,37646,39
+3900366614,"Richland township, Allen County, Ohio",5081.0,3330.0,3330.0,3212.0,118.0,0.0,1751.0,003,66614,39
+3907726040,"Fairfield township, Huron County, Ohio",1038.0,599.0,598.0,535.0,63.0,1.0,439.0,077,26040,39
+3907762246,"Peru township, Huron County, Ohio",963.0,703.0,703.0,664.0,39.0,0.0,260.0,077,62246,39
+3907767300,"Ripley township, Huron County, Ohio",1071.0,735.0,735.0,716.0,19.0,0.0,336.0,077,67300,39
+3907772193,"Sherman township, Huron County, Ohio",296.0,159.0,159.0,152.0,7.0,0.0,137.0,077,72193,39
+3907757302,"Norwalk city, Huron County, Ohio",12941.0,8048.0,8048.0,7580.0,468.0,0.0,4893.0,077,57302,39
+390775228,"Bellevue city, Huron County, Ohio",2616.0,1905.0,1905.0,1795.0,110.0,0.0,711.0,077,5228,39
+3907732368,"Greenwich village, Huron County, Ohio",1179.0,741.0,741.0,645.0,96.0,0.0,438.0,077,32368,39
+390779148,"Bronson township, Huron County, Ohio",1580.0,946.0,946.0,914.0,32.0,0.0,634.0,077,9148,39
+3907757316,"Norwalk township, Huron County, Ohio",2749.0,1812.0,1805.0,1696.0,109.0,7.0,937.0,077,57316,39
+3907757358,"Norwich township, Huron County, Ohio",753.0,360.0,360.0,360.0,0.0,0.0,393.0,077,57358,39
+3907727216,"Fitchville township, Huron County, Ohio",689.0,461.0,461.0,442.0,19.0,0.0,228.0,077,27216,39
+3907148034,"Marshall township, Highland County, Ohio",752.0,426.0,426.0,389.0,37.0,0.0,326.0,071,48034,39
+3907118168,"Concord township, Highland County, Ohio",786.0,395.0,395.0,370.0,25.0,0.0,391.0,071,18168,39
+3907159500,"Paint township, Highland County, Ohio",3623.0,1716.0,1716.0,1513.0,203.0,0.0,1907.0,071,59500,39
+3907161588,"Penn township, Highland County, Ohio",1129.0,692.0,692.0,654.0,38.0,0.0,437.0,071,61588,39
+3907115476,"Clay township, Highland County, Ohio",937.0,542.0,542.0,483.0,59.0,0.0,395.0,071,15476,39
+3907143190,"Liberty township, Highland County, Ohio",8324.0,4364.0,4364.0,4161.0,203.0,0.0,3960.0,071,43190,39
+3907181340,"Washington township, Highland County, Ohio",1322.0,577.0,577.0,562.0,15.0,0.0,745.0,071,81340,39
+3907122204,"Dodson township, Highland County, Ohio",1913.0,1173.0,1173.0,1101.0,72.0,0.0,740.0,071,22204,39
+3906933866,"Harrison township, Henry County, Ohio",1033.0,706.0,706.0,678.0,28.0,0.0,327.0,069,33866,39
+3906966502,"Richfield township, Henry County, Ohio",437.0,304.0,304.0,304.0,0.0,0.0,133.0,069,66502,39
+3906981326,"Washington township, Henry County, Ohio",1787.0,1271.0,1243.0,1224.0,19.0,28.0,516.0,069,81326,39
+3906951408,"Monroe township, Henry County, Ohio",742.0,526.0,526.0,524.0,2.0,0.0,216.0,069,51408,39
+3906943176,"Liberty township, Henry County, Ohio",2072.0,1372.0,1372.0,1314.0,58.0,0.0,700.0,069,43176,39
+390694052,"Bartlow township, Henry County, Ohio",1637.0,993.0,990.0,920.0,70.0,3.0,644.0,069,4052,39
+3906920016,"Damascus township, Henry County, Ohio",1415.0,912.0,905.0,821.0,84.0,7.0,503.0,069,20016,39
+3906953564,"Napoleon township, Henry County, Ohio",7703.0,4889.0,4889.0,4616.0,273.0,0.0,2814.0,069,53564,39
+3906967062,"Ridgeville township, Henry County, Ohio",779.0,607.0,607.0,599.0,8.0,0.0,172.0,069,67062,39
+3906928700,"Freedom township, Henry County, Ohio",656.0,418.0,418.0,405.0,13.0,0.0,238.0,069,28700,39
+3906963296,"Pleasant township, Henry County, Ohio",1411.0,932.0,932.0,904.0,28.0,0.0,479.0,069,63296,39
+3906947726,"Marion township, Henry County, Ohio",966.0,630.0,630.0,588.0,42.0,0.0,336.0,069,47726,39
+3906927342,"Flatrock township, Henry County, Ohio",1113.0,635.0,635.0,630.0,5.0,0.0,478.0,069,27342,39
+3908152990,"Mount Pleasant township, Jefferson County, Ohio",2084.0,1183.0,1183.0,1141.0,42.0,0.0,901.0,081,52990,39
+3908174608,"Steubenville city, Jefferson County, Ohio",15196.0,7626.0,7626.0,6910.0,716.0,0.0,7570.0,081,74608,39
+3908180878,"Warren township, Jefferson County, Ohio",3378.0,2000.0,2000.0,1862.0,138.0,0.0,1378.0,081,80878,39
+390819750,"Brush Creek township, Jefferson County, Ohio",351.0,224.0,224.0,201.0,23.0,0.0,127.0,081,9750,39
+3908169876,"Salem township, Jefferson County, Ohio",2406.0,1345.0,1345.0,1238.0,107.0,0.0,1061.0,081,69876,39
+3908174122,"Springfield township, Jefferson County, Ohio",1980.0,1189.0,1189.0,1102.0,87.0,0.0,791.0,081,74122,39
+3908182698,"Wells township, Jefferson County, Ohio",2301.0,1342.0,1342.0,1261.0,81.0,0.0,959.0,081,82698,39
+3908137534,"Island Creek township, Jefferson County, Ohio",8483.0,4555.0,4555.0,4208.0,347.0,0.0,3928.0,081,37534,39
+3908168644,"Ross township, Jefferson County, Ohio",437.0,225.0,225.0,225.0,0.0,0.0,212.0,081,68644,39
+3908182180,"Wayne township, Jefferson County, Ohio",1672.0,895.0,895.0,875.0,20.0,0.0,777.0,081,82180,39
+3908172767,"Smithfield township, Jefferson County, Ohio",2657.0,1329.0,1329.0,1245.0,84.0,0.0,1328.0,081,72767,39
+3908119484,"Cross Creek township, Jefferson County, Ohio",6691.0,3829.0,3829.0,3479.0,350.0,0.0,2862.0,081,19484,39
+3908140866,"Knox township, Jefferson County, Ohio",3569.0,1958.0,1958.0,1724.0,234.0,0.0,1611.0,081,40866,39
+3908174615,"Steubenville township, Jefferson County, Ohio",3619.0,1907.0,1907.0,1800.0,107.0,0.0,1712.0,081,74615,39
+3908170086,"Saline township, Jefferson County, Ohio",897.0,444.0,444.0,408.0,36.0,0.0,453.0,081,70086,39
+3913371731,"Shalersville township, Portage County, Ohio",4633.0,2897.0,2897.0,2753.0,144.0,0.0,1736.0,133,71731,39
+3905549714,"Middlefield township, Geauga County, Ohio",3070.0,1997.0,1997.0,1917.0,80.0,0.0,1073.0,055,49714,39
+3905559948,"Parkman township, Geauga County, Ohio",2679.0,1686.0,1686.0,1670.0,16.0,0.0,993.0,055,59948,39
+3905576628,"Thompson township, Geauga County, Ohio",1895.0,1309.0,1309.0,1270.0,39.0,0.0,586.0,055,76628,39
+3905577574,"Troy township, Geauga County, Ohio",2254.0,1491.0,1491.0,1442.0,49.0,0.0,763.0,055,77574,39
+3905515168,"Claridon township, Geauga County, Ohio",2535.0,1681.0,1681.0,1624.0,57.0,0.0,854.0,055,15168,39
+3905573684,"South Russell village, Geauga County, Ohio",2952.0,2083.0,2083.0,1998.0,85.0,0.0,869.0,055,73684,39
+390552904,"Auburn township, Geauga County, Ohio",5196.0,3474.0,3474.0,3303.0,171.0,0.0,1722.0,055,2904,39
+3905532914,"Hambden township, Geauga County, Ohio",3662.0,2480.0,2480.0,2382.0,98.0,0.0,1182.0,055,32914,39
+3905536946,"Huntsburg township, Geauga County, Ohio",2446.0,1692.0,1692.0,1555.0,137.0,0.0,754.0,055,36946,39
+3905549700,"Middlefield village, Geauga County, Ohio",2172.0,1236.0,1236.0,1203.0,33.0,0.0,936.0,055,49700,39
+3905551842,"Montville township, Geauga County, Ohio",1574.0,1123.0,1123.0,1088.0,35.0,0.0,451.0,055,51842,39
+390553590,"Bainbridge township, Geauga County, Ohio",9178.0,5965.0,5965.0,5696.0,269.0,0.0,3213.0,055,3590,39
+3905553340,"Munson township, Geauga County, Ohio",5499.0,3368.0,3368.0,3286.0,82.0,0.0,2131.0,055,53340,39
+3905536918,"Hunting Valley village, Geauga County, Ohio",112.0,62.0,62.0,62.0,0.0,0.0,50.0,055,36918,39
+3905510464,"Burton township, Geauga County, Ohio",3575.0,2197.0,2197.0,2116.0,81.0,0.0,1378.0,055,10464,39
+3905554292,"Newbury township, Geauga County, Ohio",4874.0,3023.0,3023.0,2848.0,175.0,0.0,1851.0,055,54292,39
+3905569232,"Russell township, Geauga County, Ohio",4445.0,3044.0,3044.0,2958.0,86.0,0.0,1401.0,055,69232,39
+3905973986,"Spencer township, Guernsey County, Ohio",845.0,505.0,505.0,456.0,49.0,0.0,340.0,059,73986,39
+3905983664,"Westland township, Guernsey County, Ohio",1863.0,1237.0,1237.0,1160.0,77.0,0.0,626.0,059,83664,39
+3905940838,"Knox township, Guernsey County, Ohio",400.0,212.0,212.0,212.0,0.0,0.0,188.0,059,40838,39
+3905959290,"Oxford township, Guernsey County, Ohio",912.0,500.0,500.0,463.0,37.0,0.0,412.0,059,59290,39
+3905979156,"Valley township, Guernsey County, Ohio",1353.0,865.0,865.0,755.0,110.0,0.0,488.0,059,79156,39
+3905943134,"Liberty township, Guernsey County, Ohio",866.0,601.0,601.0,539.0,62.0,0.0,265.0,059,43134,39
+3905981256,"Washington township, Guernsey County, Ohio",285.0,127.0,127.0,120.0,7.0,0.0,158.0,059,81256,39
+39059282,"Adams township, Guernsey County, Ohio",1375.0,627.0,627.0,588.0,39.0,0.0,748.0,059,282,39
+3905937786,"Jackson township, Guernsey County, Ohio",3905.0,2197.0,2197.0,1954.0,243.0,0.0,1708.0,059,37786,39
+3905966698,"Richland township, Guernsey County, Ohio",1377.0,871.0,865.0,827.0,38.0,6.0,506.0,059,66698,39
+3905984616,"Wheeling township, Guernsey County, Ohio",582.0,337.0,337.0,293.0,44.0,0.0,245.0,059,84616,39
+3905912938,"Center township, Guernsey County, Ohio",1496.0,923.0,923.0,892.0,31.0,0.0,573.0,059,12938,39
+3905938640,"Jefferson township, Guernsey County, Ohio",43.0,37.0,37.0,37.0,0.0,0.0,6.0,059,38640,39
+3905944716,"Londonderry township, Guernsey County, Ohio",854.0,456.0,447.0,431.0,16.0,9.0,398.0,059,44716,39
+3905946424,"Madison township, Guernsey County, Ohio",1213.0,692.0,692.0,665.0,27.0,0.0,521.0,059,46424,39
+3905951380,"Monroe township, Guernsey County, Ohio",630.0,390.0,390.0,369.0,21.0,0.0,240.0,059,51380,39
+3905911003,"Cambridge township, Guernsey County, Ohio",11408.0,6201.0,6177.0,5565.0,612.0,24.0,5207.0,059,11003,39
+3905950568,"Millwood township, Guernsey County, Ohio",840.0,442.0,442.0,399.0,43.0,0.0,398.0,059,50568,39
+3905985708,"Wills township, Guernsey County, Ohio",1329.0,803.0,803.0,729.0,74.0,0.0,526.0,059,85708,39
+3907347740,"Marion township, Hocking County, Ohio",1854.0,1204.0,1204.0,1165.0,39.0,0.0,650.0,073,47740,39
+390997468,"Boardman township, Mahoning County, Ohio",33102.0,21701.0,21670.0,20398.0,1272.0,31.0,11401.0,099,7468,39
+3907745514,"Lyme township, Huron County, Ohio",788.0,501.0,501.0,501.0,0.0,0.0,287.0,077,45514,39
+3907785232,"Willard city, Huron County, Ohio",4645.0,2601.0,2601.0,2342.0,259.0,0.0,2044.0,077,85232,39
+3907754712,"New Haven township, Huron County, Ohio",1966.0,1130.0,1126.0,1051.0,75.0,4.0,836.0,077,54712,39
+3907754922,"New London township, Huron County, Ohio",2331.0,1492.0,1488.0,1395.0,93.0,4.0,839.0,077,54922,39
+3909911374,"Canfield township, Mahoning County, Ohio",12971.0,8059.0,8044.0,7826.0,218.0,15.0,4912.0,099,11374,39
+3909931038,"Goshen township, Mahoning County, Ohio",2529.0,1678.0,1678.0,1597.0,81.0,0.0,851.0,099,31038,39
+3909937884,"Jackson township, Mahoning County, Ohio",1848.0,1144.0,1144.0,1110.0,34.0,0.0,704.0,099,37884,39
+3909931794,"Green township, Mahoning County, Ohio",2852.0,1948.0,1948.0,1842.0,106.0,0.0,904.0,099,31794,39
+3909963968,"Poland township, Mahoning County, Ohio",12027.0,7590.0,7590.0,7364.0,226.0,0.0,4437.0,099,63968,39
+3909975126,"Struthers city, Mahoning County, Ohio",8432.0,5151.0,5151.0,4573.0,578.0,0.0,3281.0,099,75126,39
+3909974124,"Springfield township, Mahoning County, Ohio",5393.0,3429.0,3429.0,3278.0,151.0,0.0,1964.0,099,74124,39
+3909988000,"Youngstown city, Mahoning County, Ohio",52187.0,26638.0,26632.0,22541.0,4091.0,6.0,25549.0,099,88000,39
+3909945178,"Lowellville village, Mahoning County, Ohio",920.0,540.0,540.0,499.0,41.0,0.0,380.0,099,45178,39
+390994668,"Beaver township, Mahoning County, Ohio",5330.0,3232.0,3232.0,3030.0,202.0,0.0,2098.0,099,4668,39
+3909916476,"Coitsville township, Mahoning County, Ohio",1254.0,855.0,855.0,713.0,142.0,0.0,399.0,099,16476,39
+3909955118,"New Middletown village, Mahoning County, Ohio",1239.0,721.0,721.0,686.0,35.0,0.0,518.0,099,55118,39
+3909972740,"Smith township, Mahoning County, Ohio",3526.0,2212.0,2212.0,2115.0,97.0,0.0,1314.0,099,72740,39
+3909925088,"Ellsworth township, Mahoning County, Ohio",1951.0,1224.0,1214.0,1155.0,59.0,10.0,727.0,099,25088,39
+3909971220,"Sebring village, Mahoning County, Ohio",3634.0,1790.0,1790.0,1630.0,160.0,0.0,1844.0,099,71220,39
+3909911066,"Campbell city, Mahoning County, Ohio",6362.0,3376.0,3376.0,2804.0,572.0,0.0,2986.0,099,11066,39
+3909950638,"Milton township, Mahoning County, Ohio",2888.0,1771.0,1768.0,1607.0,161.0,3.0,1117.0,099,50638,39
+390995858,"Berlin township, Mahoning County, Ohio",1528.0,848.0,848.0,764.0,84.0,0.0,680.0,099,5858,39
+390993198,"Austintown township, Mahoning County, Ohio",29391.0,18508.0,18500.0,17563.0,937.0,8.0,10883.0,099,3198,39
+3900944590,"Lodi township, Athens County, Ohio",1043.0,579.0,579.0,549.0,30.0,0.0,464.0,009,44590,39
+390091770,"Ames township, Athens County, Ohio",998.0,722.0,713.0,712.0,1.0,9.0,276.0,009,1770,39
+3900981777,"Waterloo township, Athens County, Ohio",2135.0,1155.0,1155.0,1058.0,97.0,0.0,980.0,009,81777,39
+390091112,"Alexander township, Athens County, Ohio",2494.0,1516.0,1516.0,1379.0,137.0,0.0,978.0,009,1112,39
+390095942,"Bern township, Athens County, Ohio",696.0,309.0,309.0,266.0,43.0,0.0,387.0,009,5942,39
+3900922414,"Dover township, Athens County, Ohio",2845.0,1558.0,1558.0,1388.0,170.0,0.0,1287.0,009,22414,39
+3900911220,"Canaan township, Athens County, Ohio",1345.0,683.0,683.0,657.0,26.0,0.0,662.0,009,11220,39
+390092750,"Athens township, Athens County, Ohio",28508.0,14898.0,14891.0,13506.0,1385.0,7.0,13610.0,009,2750,39
+3900977420,"Trimble township, Athens County, Ohio",3525.0,1568.0,1566.0,1429.0,137.0,2.0,1957.0,009,77420,39
+3903568056,"Rocky River city, Cuyahoga County, Ohio",16458.0,10449.0,10449.0,10057.0,392.0,0.0,6009.0,035,68056,39
+3903579268,"Valley View village, Cuyahoga County, Ohio",1690.0,1091.0,1088.0,1039.0,49.0,3.0,599.0,035,79268,39
+390354878,"Bedford city, Cuyahoga County, Ohio",10225.0,6882.0,6882.0,6269.0,613.0,0.0,3343.0,035,4878,39
+390358364,"Brecksville city, Cuyahoga County, Ohio",10978.0,7224.0,7224.0,6873.0,351.0,0.0,3754.0,035,8364,39
+390359064,"Broadview Heights city, Cuyahoga County, Ohio",15527.0,10987.0,10987.0,10697.0,290.0,0.0,4540.0,035,9064,39
+3903525704,"Euclid city, Cuyahoga County, Ohio",39043.0,24418.0,24418.0,22041.0,2377.0,0.0,14625.0,035,25704,39
+3903561000,"Parma city, Cuyahoga County, Ohio",66347.0,43565.0,43545.0,40749.0,2796.0,20.0,22782.0,035,61000,39
+3903578932,"University Heights city, Cuyahoga County, Ohio",10520.0,7021.0,7021.0,6698.0,323.0,0.0,3499.0,035,78932,39
+3903519806,"Cuyahoga Heights village, Cuyahoga County, Ohio",447.0,307.0,307.0,291.0,16.0,0.0,140.0,035,19806,39
+390359246,"Brooklyn city, Cuyahoga County, Ohio",9501.0,6192.0,6192.0,5732.0,460.0,0.0,3309.0,035,9246,39
+390359288,"Brook Park city, Cuyahoga County, Ohio",15596.0,9949.0,9941.0,9223.0,718.0,8.0,5647.0,035,9288,39
+3903535252,"Highland Heights city, Cuyahoga County, Ohio",6931.0,4538.0,4538.0,4387.0,151.0,0.0,2393.0,035,35252,39
+390354500,"Beachwood city, Cuyahoga County, Ohio",9599.0,5323.0,5323.0,5182.0,141.0,0.0,4276.0,035,4500,39
+3903516000,"Cleveland city, Cuyahoga County, Ohio",310022.0,182657.0,182574.0,153354.0,29220.0,83.0,127365.0,035,16000,39
+3903516014,"Cleveland Heights city, Cuyahoga County, Ohio",36528.0,22960.0,22955.0,21267.0,1688.0,5.0,13568.0,035,16014,39
+390355690,"Berea city, Cuyahoga County, Ohio",15950.0,10297.0,10297.0,9672.0,625.0,0.0,5653.0,035,5690,39
+3903537240,"Independence city, Cuyahoga County, Ohio",5886.0,4170.0,4170.0,4040.0,130.0,0.0,1716.0,035,37240,39
+3903552052,"Moreland Hills village, Cuyahoga County, Ohio",2664.0,1716.0,1716.0,1635.0,81.0,0.0,948.0,035,52052,39
+3903558422,"Olmsted Falls city, Cuyahoga County, Ohio",7244.0,4726.0,4726.0,4552.0,174.0,0.0,2518.0,035,58422,39
+3903575098,"Strongsville city, Cuyahoga County, Ohio",36724.0,24359.0,24359.0,23258.0,1101.0,0.0,12365.0,035,75098,39
+3903586394,"Woodmere village, Cuyahoga County, Ohio",624.0,480.0,480.0,443.0,37.0,0.0,144.0,035,86394,39
+3903523380,"East Cleveland city, Cuyahoga County, Ohio",14218.0,7142.0,7142.0,5719.0,1423.0,0.0,7076.0,035,23380,39
+3903545556,"Lyndhurst city, Cuyahoga County, Ohio",11515.0,7277.0,7277.0,6999.0,278.0,0.0,4238.0,035,45556,39
+3915920170,"Darby township, Union County, Ohio",1687.0,1257.0,1257.0,1252.0,5.0,0.0,430.0,159,20170,39
+3915959864,"Paris township, Union County, Ohio",19355.0,11718.0,11704.0,11363.0,341.0,14.0,7637.0,159,59864,39
+3915978582,"Union township, Union County, Ohio",1477.0,903.0,903.0,887.0,16.0,0.0,574.0,159,78582,39
+3915915112,"Claibourne township, Union County, Ohio",2808.0,1706.0,1706.0,1595.0,111.0,0.0,1102.0,159,15112,39
+3902130982,"Goshen township, Champaign County, Ohio",2866.0,1842.0,1842.0,1769.0,73.0,0.0,1024.0,021,30982,39
+3902146760,"Mad River township, Champaign County, Ohio",2205.0,1276.0,1276.0,1203.0,73.0,0.0,929.0,021,46760,39
+3911969932,"Salem township, Muskingum County, Ohio",672.0,473.0,473.0,460.0,13.0,0.0,199.0,119,69932,39
+3911955608,"Newton township, Muskingum County, Ohio",4251.0,2438.0,2438.0,2269.0,169.0,0.0,1813.0,119,55608,39
+3911974125,"Springfield township, Muskingum County, Ohio",4462.0,2600.0,2600.0,2440.0,160.0,0.0,1862.0,119,74125,39
+3911966600,"Rich Hill township, Muskingum County, Ohio",329.0,213.0,213.0,213.0,0.0,0.0,116.0,119,66600,39
+3911988084,"Zanesville city, Muskingum County, Ohio",20167.0,11224.0,11214.0,9996.0,1218.0,10.0,8943.0,119,88084,39
+39119310,"Adams township, Muskingum County, Ohio",537.0,321.0,321.0,292.0,29.0,0.0,216.0,119,310,39
+391197398,"Blue Rock township, Muskingum County, Ohio",734.0,392.0,392.0,378.0,14.0,0.0,342.0,119,7398,39
+3911970170,"Salt Creek township, Muskingum County, Ohio",782.0,457.0,457.0,412.0,45.0,0.0,325.0,119,70170,39
+3911943470,"Licking township, Muskingum County, Ohio",1773.0,1218.0,1218.0,1179.0,39.0,0.0,555.0,119,43470,39
+3911961994,"Perry township, Muskingum County, Ohio",2154.0,1390.0,1390.0,1303.0,87.0,0.0,764.0,119,61994,39
+3909361532,"Penfield township, Lorain County, Ohio",1733.0,1275.0,1275.0,1210.0,65.0,0.0,458.0,093,61532,39
+3909372067,"Sheffield township, Lorain County, Ohio",2927.0,1767.0,1767.0,1547.0,220.0,0.0,1160.0,093,72067,39
+3909382656,"Wellington township, Lorain County, Ohio",5218.0,3382.0,3349.0,3025.0,324.0,33.0,1836.0,093,82656,39
+3909311010,"Camden township, Lorain County, Ohio",1579.0,1213.0,1213.0,1158.0,55.0,0.0,366.0,093,11010,39
+3909344856,"Lorain city, Lorain County, Ohio",49579.0,29145.0,29138.0,25819.0,3319.0,7.0,20434.0,093,44856,39
+3909372088,"Sheffield Lake city, Lorain County, Ohio",7200.0,5073.0,5055.0,4822.0,233.0,18.0,2127.0,093,72088,39
+3909357834,"Oberlin city, Lorain County, Ohio",7207.0,3907.0,3907.0,3593.0,314.0,0.0,3300.0,093,57834,39
+3909331164,"Grafton township, Lorain County, Ohio",2311.0,1625.0,1625.0,1592.0,33.0,0.0,686.0,093,31164,39
+3909367776,"Rochester township, Lorain County, Ohio",814.0,529.0,529.0,455.0,74.0,0.0,285.0,093,67776,39
+3909372060,"Sheffield village, Lorain County, Ohio",3439.0,2245.0,2245.0,2165.0,80.0,0.0,1194.0,093,72060,39
+390930,"County subdivisions not defined, Lorain County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,093,0,39
+390933464,"Avon Lake city, Lorain County, Ohio",18232.0,11667.0,11632.0,11369.0,263.0,35.0,6565.0,093,3464,39
+390938770,"Brighton township, Lorain County, Ohio",608.0,265.0,265.0,256.0,9.0,0.0,343.0,093,8770,39
+390939568,"Brownhelm township, Lorain County, Ohio",6498.0,3492.0,3492.0,3277.0,215.0,0.0,3006.0,093,9568,39
+3909334972,"Henrietta township, Lorain County, Ohio",1571.0,1007.0,1007.0,938.0,69.0,0.0,564.0,093,34972,39
+390933352,"Avon city, Lorain County, Ohio",16521.0,11040.0,11040.0,10475.0,565.0,0.0,5481.0,093,3352,39
+3909312140,"Carlisle township, Lorain County, Ohio",6388.0,4299.0,4299.0,4125.0,174.0,0.0,2089.0,093,12140,39
+3909355446,"New Russia township, Lorain County, Ohio",2008.0,1232.0,1232.0,1159.0,73.0,0.0,776.0,093,55446,39
+3909362960,"Pittsfield township, Lorain County, Ohio",1272.0,704.0,704.0,665.0,39.0,0.0,568.0,093,62960,39
+3909336876,"Huntington township, Lorain County, Ohio",991.0,642.0,642.0,622.0,20.0,0.0,349.0,093,36876,39
+3910936610,"Huber Heights city, Miami County, Ohio",1265.0,834.0,793.0,746.0,47.0,41.0,431.0,109,36610,39
+3910944968,"Lostcreek township, Miami County, Ohio",1211.0,835.0,835.0,826.0,9.0,0.0,376.0,109,44968,39
+391099498,"Brown township, Miami County, Ohio",1069.0,748.0,748.0,705.0,43.0,0.0,321.0,109,9498,39
+3910951492,"Monroe township, Miami County, Ohio",12654.0,8077.0,8077.0,7711.0,366.0,0.0,4577.0,109,51492,39
+3910955594,"Newton township, Miami County, Ohio",2729.0,1689.0,1686.0,1605.0,81.0,3.0,1040.0,109,55594,39
+3910981466,"Washington township, Miami County, Ohio",1017.0,683.0,675.0,631.0,44.0,8.0,334.0,109,81466,39
+3910918224,"Concord township, Miami County, Ohio",24408.0,16239.0,16203.0,15320.0,883.0,36.0,8169.0,109,18224,39
+3910954138,"Newberry township, Miami County, Ohio",5041.0,3319.0,3319.0,3082.0,237.0,0.0,1722.0,109,54138,39
+3910962848,"Piqua city, Miami County, Ohio",16480.0,10400.0,10400.0,9477.0,923.0,0.0,6080.0,109,62848,39
+3910974097,"Springcreek township, Miami County, Ohio",1758.0,1138.0,1130.0,1130.0,0.0,8.0,620.0,109,74097,39
+391096110,"Bethel township, Miami County, Ohio",4104.0,2377.0,2377.0,2333.0,44.0,0.0,1727.0,109,6110,39
+3910974475,"Staunton township, Miami County, Ohio",1544.0,999.0,999.0,962.0,37.0,0.0,545.0,109,74475,39
+3910978456,"Union township, Miami County, Ohio",8340.0,5268.0,5268.0,5120.0,148.0,0.0,3072.0,109,78456,39
+3910924836,"Elizabeth township, Miami County, Ohio",1155.0,589.0,589.0,555.0,34.0,0.0,566.0,109,24836,39
+39111296,"Adams township, Monroe County, Ohio",631.0,301.0,301.0,294.0,7.0,0.0,330.0,111,296,39
+391115606,"Benton township, Monroe County, Ohio",267.0,139.0,139.0,127.0,12.0,0.0,128.0,111,5606,39
+3911137898,"Jackson township, Monroe County, Ohio",346.0,207.0,207.0,199.0,8.0,0.0,139.0,111,37898,39
+3906115000,"Cincinnati city, Hamilton County, Ohio",239543.0,157460.0,157431.0,141111.0,16320.0,29.0,82083.0,061,15000,39
+3906125802,"Evendale village, Hamilton County, Ohio",2439.0,1630.0,1630.0,1602.0,28.0,0.0,809.0,061,25802,39
+390617300,"Blue Ash city, Hamilton County, Ohio",9572.0,6267.0,6267.0,5943.0,324.0,0.0,3305.0,061,7300,39
+3906133852,"Harrison township, Hamilton County, Ohio",11654.0,7751.0,7751.0,7425.0,326.0,0.0,3903.0,061,33852,39
+3906152752,"Mount Healthy city, Hamilton County, Ohio",4723.0,2830.0,2830.0,2516.0,314.0,0.0,1893.0,061,52752,39
+3906155678,"Newtown village, Hamilton County, Ohio",2063.0,1485.0,1485.0,1437.0,48.0,0.0,578.0,061,55678,39
+3906165732,"Reading city, Hamilton County, Ohio",8543.0,5722.0,5722.0,5368.0,354.0,0.0,2821.0,061,65732,39
+3906176582,"The Village of Indian Hill city, Hamilton County, Ohio",4486.0,2314.0,2314.0,2254.0,60.0,0.0,2172.0,061,76582,39
+3906116882,"Columbia township, Hamilton County, Ohio",3651.0,2521.0,2521.0,2460.0,61.0,0.0,1130.0,061,16882,39
+3906127706,"Forest Park city, Hamilton County, Ohio",14123.0,9704.0,9704.0,9151.0,553.0,0.0,4419.0,061,27706,39
+3906146312,"Madeira city, Hamilton County, Ohio",6973.0,4672.0,4672.0,4542.0,130.0,0.0,2301.0,061,46312,39
+390611980,"Anderson township, Hamilton County, Ohio",33410.0,22134.0,22134.0,21107.0,1027.0,0.0,11276.0,061,1980,39
+3906119470,"Crosby township, Hamilton County, Ohio",2231.0,1580.0,1580.0,1548.0,32.0,0.0,651.0,061,19470,39
+3906121504,"Delhi township, Hamilton County, Ohio",23533.0,15535.0,15511.0,14666.0,845.0,24.0,7998.0,061,21504,39
+3906143722,"Lincoln Heights village, Hamilton County, Ohio",2522.0,1320.0,1320.0,1034.0,286.0,0.0,1202.0,061,43722,39
+3906147600,"Mariemont village, Hamilton County, Ohio",2639.0,1781.0,1781.0,1717.0,64.0,0.0,858.0,061,47600,39
+3906125970,"Fairfield city, Hamilton County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,061,25970,39
+3906174104,"Springdale city, Hamilton County, Ohio",8390.0,5208.0,5208.0,4915.0,293.0,0.0,3182.0,061,74104,39
+3906174121,"Springfield township, Hamilton County, Ohio",28802.0,19180.0,19111.0,17982.0,1129.0,69.0,9622.0,061,74121,39
+3906184938,"Whitewater township, Hamilton County, Ohio",4399.0,2652.0,2652.0,2529.0,123.0,0.0,1747.0,061,84938,39
+3906144366,"Lockland village, Hamilton County, Ohio",2712.0,1791.0,1791.0,1613.0,178.0,0.0,921.0,061,44366,39
+3906171892,"Sharonville city, Hamilton County, Ohio",9580.0,6382.0,6382.0,6184.0,198.0,0.0,3198.0,061,71892,39
+3906145108,"Loveland city, Hamilton County, Ohio",7877.0,5366.0,5366.0,5302.0,64.0,0.0,2511.0,061,45108,39
+3906150176,"Milford city, Hamilton County, Ohio",11.0,11.0,11.0,11.0,0.0,0.0,0.0,061,50176,39
+3906114128,"Cheviot city, Hamilton County, Ohio",6670.0,4558.0,4558.0,4085.0,473.0,0.0,2112.0,061,14128,39
+3906176028,"Symmes township, Hamilton County, Ohio",11399.0,7821.0,7821.0,7636.0,185.0,0.0,3578.0,061,76028,39
+3904931304,"Grandview Heights city, Franklin County, Ohio",6143.0,4938.0,4938.0,4817.0,121.0,0.0,1205.0,049,31304,39
+3904971787,"Sharon township, Franklin County, Ohio",13051.0,8468.0,8450.0,8204.0,246.0,18.0,4583.0,049,71787,39
+3904984742,"Whitehall city, Franklin County, Ohio",13587.0,9205.0,9195.0,8345.0,850.0,10.0,4382.0,049,84742,39
+3904933026,"Hamilton township, Franklin County, Ohio",6780.0,4130.0,4130.0,3775.0,355.0,0.0,2650.0,049,33026,39
+3904938612,"Jefferson township, Franklin County, Ohio",8274.0,6013.0,6005.0,5865.0,140.0,8.0,2261.0,049,38612,39
+3904957344,"Norwich township, Franklin County, Ohio",28059.0,20811.0,20804.0,20052.0,752.0,7.0,7248.0,049,57344,39
+3904964570,"Prairie township, Franklin County, Ohio",13505.0,9468.0,9468.0,8933.0,535.0,0.0,4037.0,049,64570,39
+3904977714,"Truro township, Franklin County, Ohio",22273.0,15998.0,15947.0,15115.0,832.0,51.0,6275.0,049,77714,39
+390496278,"Bexley city, Franklin County, Ohio",10595.0,7445.0,7436.0,7128.0,308.0,9.0,3150.0,049,6278,39
+3904961840,"Perry township, Franklin County, Ohio",2814.0,1969.0,1969.0,1933.0,36.0,0.0,845.0,049,61840,39
+3904983342,"Westerville city, Franklin County, Ohio",24088.0,16651.0,16651.0,16083.0,568.0,0.0,7437.0,049,83342,39
+3911978498,"Union township, Muskingum County, Ohio",3622.0,2153.0,2151.0,2012.0,139.0,2.0,1469.0,119,78498,39
+3911933936,"Harrison township, Muskingum County, Ohio",1085.0,666.0,666.0,596.0,70.0,0.0,419.0,119,33936,39
+3911935238,"Highland township, Muskingum County, Ohio",667.0,394.0,394.0,330.0,64.0,0.0,273.0,119,35238,39
+3911948916,"Meigs township, Muskingum County, Ohio",209.0,145.0,145.0,145.0,0.0,0.0,64.0,119,48916,39
+3911938752,"Jefferson township, Muskingum County, Ohio",1501.0,825.0,825.0,771.0,54.0,0.0,676.0,119,38752,39
+391199757,"Brush Creek township, Muskingum County, Ohio",991.0,492.0,492.0,445.0,47.0,0.0,499.0,119,9757,39
+3911936372,"Hopewell township, Muskingum County, Ohio",2530.0,1544.0,1544.0,1507.0,37.0,0.0,986.0,119,36372,39
+3911926502,"Falls township, Muskingum County, Ohio",6780.0,4266.0,4266.0,4107.0,159.0,0.0,2514.0,119,26502,39
+3911981522,"Washington township, Muskingum County, Ohio",3425.0,2333.0,2333.0,2263.0,70.0,0.0,1092.0,119,81522,39
+3911951506,"Monroe township, Muskingum County, Ohio",325.0,226.0,226.0,207.0,19.0,0.0,99.0,119,51506,39
+3911937926,"Jackson township, Muskingum County, Ohio",1902.0,1252.0,1252.0,1186.0,66.0,0.0,650.0,119,37926,39
+3914367188,"Riley township, Sandusky County, Ohio",1165.0,676.0,676.0,666.0,10.0,0.0,489.0,143,67188,39
+3914387080,"York township, Sandusky County, Ohio",2079.0,1200.0,1200.0,1192.0,8.0,0.0,879.0,143,87080,39
+391435228,"Bellevue city, Sandusky County, Ohio",3697.0,2349.0,2339.0,2255.0,84.0,10.0,1348.0,143,5228,39
+3914328826,"Fremont city, Sandusky County, Ohio",12510.0,7735.0,7724.0,7174.0,550.0,11.0,4775.0,143,28826,39
+3914338052,"Jackson township, Sandusky County, Ohio",1369.0,975.0,975.0,946.0,29.0,0.0,394.0,143,38052,39
+3914366460,"Rice township, Sandusky County, Ohio",964.0,539.0,539.0,499.0,40.0,0.0,425.0,143,66460,39
+3914377162,"Townsend township, Sandusky County, Ohio",914.0,714.0,714.0,709.0,5.0,0.0,200.0,143,77162,39
+3912312588,"Catawba Island township, Ottawa County, Ohio",3246.0,1728.0,1728.0,1617.0,111.0,0.0,1518.0,123,12588,39
+3912315546,"Clay township, Ottawa County, Ohio",3816.0,2205.0,2205.0,2078.0,127.0,0.0,1611.0,123,15546,39
+3912325578,"Erie township, Ottawa County, Ohio",987.0,627.0,627.0,578.0,49.0,0.0,360.0,123,25578,39
+3912364150,"Port Clinton city, Ottawa County, Ohio",4847.0,2993.0,2988.0,2806.0,182.0,5.0,1854.0,123,64150,39
+3912365046,"Put-in-Bay township, Ottawa County, Ohio",474.0,271.0,271.0,262.0,9.0,0.0,203.0,123,65046,39
+3912369946,"Salem township, Ottawa County, Ohio",4229.0,2652.0,2652.0,2545.0,107.0,0.0,1577.0,123,69946,39
+3905168896,"Royalton township, Fulton County, Ohio",1246.0,901.0,901.0,837.0,64.0,0.0,345.0,051,68896,39
+390511728,"Amboy township, Fulton County, Ohio",1354.0,904.0,904.0,837.0,67.0,0.0,450.0,051,1728,39
+3905129036,"Fulton township, Fulton County, Ohio",2514.0,1604.0,1604.0,1462.0,142.0,0.0,910.0,051,29036,39
+3905114072,"Chesterfield township, Fulton County, Ohio",774.0,556.0,556.0,499.0,57.0,0.0,218.0,051,14072,39
+3905116126,"Clinton township, Fulton County, Ohio",7339.0,4903.0,4903.0,4572.0,331.0,0.0,2436.0,051,16126,39
+3905175861,"Swan Creek township, Fulton County, Ohio",6720.0,4202.0,4202.0,3954.0,248.0,0.0,2518.0,051,75861,39
+3905122442,"Dover township, Fulton County, Ohio",1346.0,923.0,923.0,907.0,16.0,0.0,423.0,051,22442,39
+3905130940,"Gorham township, Fulton County, Ohio",1802.0,1173.0,1173.0,1094.0,79.0,0.0,629.0,051,30940,39
+3905129876,"German township, Fulton County, Ohio",4843.0,3201.0,3201.0,3046.0,155.0,0.0,1642.0,051,29876,39
+3905162638,"Pike township, Fulton County, Ohio",1605.0,1149.0,1149.0,1116.0,33.0,0.0,456.0,051,62638,39
+3905187024,"York township, Fulton County, Ohio",3317.0,2252.0,2252.0,2137.0,115.0,0.0,1065.0,051,87024,39
+3905128294,"Franklin township, Fulton County, Ohio",420.0,268.0,268.0,268.0,0.0,0.0,152.0,051,28294,39
+3906543162,"Liberty township, Hardin County, Ohio",6414.0,3993.0,3993.0,3787.0,206.0,0.0,2421.0,065,43162,39
+3906581298,"Washington township, Hardin County, Ohio",577.0,309.0,309.0,309.0,0.0,0.0,268.0,065,81298,39
+3906522736,"Dudley township, Hardin County, Ohio",1303.0,662.0,662.0,636.0,26.0,0.0,641.0,065,22736,39
+3906532837,"Hale township, Hardin County, Ohio",961.0,680.0,680.0,630.0,50.0,0.0,281.0,065,32837,39
+3906545598,"Lynn township, Hardin County, Ohio",684.0,434.0,434.0,415.0,19.0,0.0,250.0,065,45598,39
+3906545920,"McDonald township, Hardin County, Ohio",611.0,337.0,337.0,337.0,0.0,0.0,274.0,065,45920,39
+3906547712,"Marion township, Hardin County, Ohio",1754.0,960.0,960.0,869.0,91.0,0.0,794.0,065,47712,39
+390656866,"Blanchard township, Hardin County, Ohio",1101.0,696.0,696.0,643.0,53.0,0.0,405.0,065,6866,39
+390659848,"Buck township, Hardin County, Ohio",1675.0,984.0,984.0,947.0,37.0,0.0,691.0,065,9848,39
+3906568784,"Roundhead township, Hardin County, Ohio",509.0,333.0,333.0,315.0,18.0,0.0,176.0,065,68784,39
+3906513316,"Cessna township, Hardin County, Ohio",507.0,262.0,262.0,250.0,12.0,0.0,245.0,065,13316,39
+3906531024,"Goshen township, Hardin County, Ohio",441.0,234.0,234.0,223.0,11.0,0.0,207.0,065,31024,39
+3906537814,"Jackson township, Hardin County, Ohio",1797.0,1243.0,1243.0,1115.0,128.0,0.0,554.0,065,37814,39
+3906563282,"Pleasant township, Hardin County, Ohio",6510.0,3853.0,3853.0,3465.0,388.0,0.0,2657.0,065,63282,39
+3906576198,"Taylor Creek township, Hardin County, Ohio",326.0,249.0,249.0,249.0,0.0,0.0,77.0,065,76198,39
+390797090,"Bloomfield township, Jackson County, Ohio",499.0,337.0,337.0,297.0,40.0,0.0,162.0,079,7090,39
+3908316686,"College township, Knox County, Ohio",2719.0,1377.0,1377.0,1310.0,67.0,0.0,1342.0,083,16686,39
+3908335462,"Hilliar township, Knox County, Ohio",3049.0,2148.0,2148.0,2079.0,69.0,0.0,901.0,083,35462,39
+3908382194,"Wayne township, Knox County, Ohio",613.0,410.0,410.0,410.0,0.0,0.0,203.0,083,82194,39
+3908337870,"Jackson township, Knox County, Ohio",1105.0,753.0,753.0,727.0,26.0,0.0,352.0,083,37870,39
+3908362652,"Pike township, Knox County, Ohio",1182.0,627.0,627.0,627.0,0.0,0.0,555.0,083,62652,39
+390835844,"Berlin township, Knox County, Ohio",1520.0,993.0,993.0,918.0,75.0,0.0,527.0,083,5844,39
+390839470,"Brown township, Knox County, Ohio",1202.0,769.0,769.0,704.0,65.0,0.0,433.0,083,9470,39
+3908315504,"Clay township, Knox County, Ohio",906.0,654.0,654.0,604.0,50.0,0.0,252.0,083,15504,39
+3908336526,"Howard township, Knox County, Ohio",4734.0,2834.0,2834.0,2691.0,143.0,0.0,1900.0,083,36526,39
+3908343218,"Liberty township, Knox County, Ohio",1053.0,673.0,664.0,634.0,30.0,9.0,380.0,083,43218,39
+3908349658,"Middlebury township, Knox County, Ohio",846.0,554.0,554.0,540.0,14.0,0.0,292.0,083,49658,39
+3908352290,"Morris township, Knox County, Ohio",1470.0,893.0,893.0,871.0,22.0,0.0,577.0,083,52290,39
+3908310590,"Butler township, Knox County, Ohio",1116.0,668.0,668.0,651.0,17.0,0.0,448.0,083,10590,39
+3908333880,"Harrison township, Knox County, Ohio",471.0,348.0,348.0,323.0,25.0,0.0,123.0,083,33880,39
+3908350204,"Milford township, Knox County, Ohio",1491.0,1177.0,1177.0,1080.0,97.0,0.0,314.0,083,50204,39
+3908328658,"Fredericktown village, Knox County, Ohio",2293.0,1419.0,1419.0,1349.0,70.0,0.0,874.0,083,28658,39
+3908338668,"Jefferson township, Knox County, Ohio",436.0,242.0,242.0,242.0,0.0,0.0,194.0,083,38668,39
+3907933040,"Hamilton township, Jackson County, Ohio",453.0,307.0,307.0,275.0,32.0,0.0,146.0,079,33040,39
+3907950624,"Milton township, Jackson County, Ohio",726.0,483.0,483.0,472.0,11.0,0.0,243.0,079,50624,39
+3907970856,"Scioto township, Jackson County, Ohio",1464.0,922.0,922.0,745.0,177.0,0.0,542.0,079,70856,39
+3907938654,"Jefferson township, Jackson County, Ohio",2840.0,1636.0,1636.0,1435.0,201.0,0.0,1204.0,079,38654,39
+3907943442,"Lick township, Jackson County, Ohio",2247.0,1087.0,1087.0,1006.0,81.0,0.0,1160.0,079,43442,39
+3907916336,"Coal township, Jackson County, Ohio",1368.0,793.0,793.0,726.0,67.0,0.0,575.0,079,16336,39
+3907937856,"Jackson township, Jackson County, Ohio",853.0,266.0,266.0,249.0,17.0,0.0,587.0,079,37856,39
+3907946466,"Madison township, Jackson County, Ohio",1714.0,1083.0,1083.0,923.0,160.0,0.0,631.0,079,46466,39
+3907928322,"Franklin township, Jackson County, Ohio",2129.0,1237.0,1237.0,1146.0,91.0,0.0,892.0,079,28322,39
+3907937842,"Jackson city, Jackson County, Ohio",5395.0,3318.0,3318.0,3054.0,264.0,0.0,2077.0,079,37842,39
+3907981382,"Washington township, Jackson County, Ohio",567.0,370.0,370.0,370.0,0.0,0.0,197.0,079,81382,39
+3909548342,"Maumee city, Lucas County, Ohio",11198.0,7680.0,7680.0,7416.0,264.0,0.0,3518.0,095,48342,39
+3909581438,"Washington township, Lucas County, Ohio",2537.0,1521.0,1521.0,1439.0,82.0,0.0,1016.0,095,81438,39
+3909539116,"Jerusalem township, Lucas County, Ohio",2604.0,1521.0,1521.0,1370.0,151.0,0.0,1083.0,095,39116,39
+3909533418,"Harding township, Lucas County, Ohio",566.0,309.0,309.0,303.0,6.0,0.0,257.0,095,33418,39
+3909551156,"Monclova township, Lucas County, Ohio",9620.0,5937.0,5937.0,5870.0,67.0,0.0,3683.0,095,51156,39
+3909559010,"Ottawa Hills village, Lucas County, Ohio",3370.0,2140.0,2130.0,2059.0,71.0,10.0,1230.0,095,59010,39
+3909533376,"Harbor View village, Lucas County, Ohio",46.0,30.0,30.0,30.0,0.0,0.0,16.0,095,33376,39
+3909573990,"Spencer township, Lucas County, Ohio",1507.0,1081.0,1081.0,984.0,97.0,0.0,426.0,095,73990,39
+3909576025,"Sylvania township, Lucas County, Ohio",38354.0,25352.0,25331.0,24319.0,1012.0,21.0,13002.0,095,76025,39
+3909566516,"Richfield township, Lucas County, Ohio",1389.0,853.0,853.0,812.0,41.0,0.0,536.0,095,66516,39
+3909574123,"Springfield township, Lucas County, Ohio",21447.0,14688.0,14627.0,13676.0,951.0,61.0,6759.0,095,74123,39
+3909575903,"Swanton township, Lucas County, Ohio",2486.0,1610.0,1610.0,1500.0,110.0,0.0,876.0,095,75903,39
+3909558730,"Oregon city, Lucas County, Ohio",16541.0,10183.0,10183.0,9552.0,631.0,0.0,6358.0,095,58730,39
+3909581872,"Waterville township, Lucas County, Ohio",4662.0,3167.0,3159.0,3063.0,96.0,8.0,1495.0,095,81872,39
+3909577000,"Toledo city, Lucas County, Ohio",220855.0,135817.0,135729.0,121039.0,14690.0,88.0,85038.0,095,77000,39
+3909564836,"Providence township, Lucas County, Ohio",2719.0,1624.0,1624.0,1571.0,53.0,0.0,1095.0,095,64836,39
+3911714030,"Chester township, Morrow County, Ohio",1793.0,1171.0,1171.0,1166.0,5.0,0.0,622.0,117,14030,39
+3911718294,"Congress township, Morrow County, Ohio",2083.0,1329.0,1329.0,1304.0,25.0,0.0,754.0,117,18294,39
+3911730128,"Gilead township, Morrow County, Ohio",4693.0,2804.0,2792.0,2568.0,224.0,12.0,1889.0,117,30128,39
+3911743680,"Lincoln township, Morrow County, Ohio",1418.0,949.0,949.0,884.0,65.0,0.0,469.0,117,43680,39
+3911773061,"South Bloomfield township, Morrow County, Ohio",1481.0,836.0,836.0,820.0,16.0,0.0,645.0,117,73061,39
+3911733600,"Harmony township, Morrow County, Ohio",2030.0,1368.0,1368.0,1288.0,80.0,0.0,662.0,117,33600,39
+3911761980,"Perry township, Morrow County, Ohio",1558.0,1097.0,1097.0,1079.0,18.0,0.0,461.0,117,61980,39
+3911762260,"Peru township, Morrow County, Ohio",1084.0,809.0,809.0,809.0,0.0,0.0,275.0,117,62260,39
+3911756224,"North Bloomfield township, Morrow County, Ohio",1553.0,1056.0,1056.0,917.0,139.0,0.0,497.0,117,56224,39
+3911712098,"Cardington township, Morrow County, Ohio",2408.0,1593.0,1590.0,1513.0,77.0,3.0,815.0,117,12098,39
+3911781508,"Washington township, Morrow County, Ohio",1115.0,767.0,767.0,755.0,12.0,0.0,348.0,117,81508,39
+3908353102,"Mount Vernon city, Knox County, Ohio",13359.0,7617.0,7617.0,7001.0,616.0,0.0,5742.0,083,53102,39
+3908351436,"Monroe township, Knox County, Ohio",1846.0,1329.0,1329.0,1269.0,60.0,0.0,517.0,083,51436,39
+3908378358,"Union township, Knox County, Ohio",2102.0,1434.0,1434.0,1353.0,81.0,0.0,668.0,083,78358,39
+3908363310,"Pleasant township, Knox County, Ohio",1135.0,796.0,796.0,718.0,78.0,0.0,339.0,083,63310,39
+3908350330,"Miller township, Knox County, Ohio",810.0,530.0,530.0,502.0,28.0,0.0,280.0,083,50330,39
+3908316140,"Clinton township, Knox County, Ohio",2312.0,1489.0,1480.0,1386.0,94.0,9.0,823.0,083,16140,39
+3908352108,"Morgan township, Knox County, Ohio",760.0,519.0,519.0,500.0,19.0,0.0,241.0,083,52108,39
+3908954040,"Newark city, Licking County, Ohio",38285.0,23857.0,23849.0,21792.0,2057.0,8.0,14428.0,089,54040,39
+3908934748,"Heath city, Licking County, Ohio",8830.0,5579.0,5567.0,5294.0,273.0,12.0,3251.0,089,34748,39
+3908943232,"Liberty township, Licking County, Ohio",1968.0,1497.0,1497.0,1462.0,35.0,0.0,471.0,089,43232,39
+3908943456,"Licking township, Licking County, Ohio",3933.0,2460.0,2460.0,2309.0,151.0,0.0,1473.0,089,43456,39
+3908951450,"Monroe township, Licking County, Ohio",5863.0,3836.0,3836.0,3712.0,124.0,0.0,2027.0,089,51450,39
+3908955580,"Newton township, Licking County, Ohio",2787.0,1692.0,1692.0,1651.0,41.0,0.0,1095.0,089,55580,39
+3908928336,"Franklin township, Licking County, Ohio",2097.0,1283.0,1283.0,1228.0,55.0,0.0,814.0,089,28336,39
+3908933299,"Hanover township, Licking County, Ohio",2458.0,1541.0,1538.0,1436.0,102.0,3.0,917.0,089,33299,39
+3908946508,"Madison township, Licking County, Ohio",2490.0,1777.0,1777.0,1639.0,138.0,0.0,713.0,089,46508,39
+3916185750,"Willshire township, Van Wert County, Ohio",1250.0,802.0,802.0,763.0,39.0,0.0,448.0,161,85750,39
+3916138122,"Jackson township, Van Wert County, Ohio",329.0,230.0,230.0,222.0,8.0,0.0,99.0,161,38122,39
+3916134034,"Harrison township, Van Wert County, Ohio",841.0,583.0,583.0,574.0,9.0,0.0,258.0,161,34034,39
+3916138990,"Jennings township, Van Wert County, Ohio",502.0,328.0,328.0,325.0,3.0,0.0,174.0,161,38990,39
+3916135756,"Hoaglin township, Van Wert County, Ohio",531.0,427.0,427.0,375.0,52.0,0.0,104.0,161,35756,39
+391673072,"Aurelius township, Washington County, Ohio",395.0,226.0,226.0,226.0,0.0,0.0,169.0,167,3072,39
+391673898,"Barlow township, Washington County, Ohio",2047.0,1098.0,1098.0,1066.0,32.0,0.0,949.0,167,3898,39
+3916731276,"Grandview township, Washington County, Ohio",1256.0,542.0,542.0,499.0,43.0,0.0,714.0,167,31276,39
+3916747642,"Marietta township, Washington County, Ohio",3816.0,2300.0,2300.0,2243.0,57.0,0.0,1516.0,167,47642,39
+3916781844,"Watertown township, Washington County, Ohio",1129.0,640.0,640.0,626.0,14.0,0.0,489.0,167,81844,39
+3916747628,"Marietta city, Washington County, Ohio",11348.0,6306.0,6306.0,5967.0,339.0,0.0,5042.0,167,47628,39
+3916755356,"Newport township, Washington County, Ohio",1660.0,987.0,987.0,947.0,40.0,0.0,673.0,167,55356,39
+3916759626,"Palmer township, Washington County, Ohio",355.0,197.0,197.0,197.0,0.0,0.0,158.0,167,59626,39
+3916726096,"Fairfield township, Washington County, Ohio",1125.0,737.0,737.0,723.0,14.0,0.0,388.0,167,26096,39
+3916726810,"Fearing township, Washington County, Ohio",713.0,391.0,391.0,378.0,13.0,0.0,322.0,167,26810,39
+3916721098,"Decatur township, Washington County, Ohio",826.0,467.0,444.0,411.0,33.0,23.0,359.0,167,21098,39
+39167338,"Adams township, Washington County, Ohio",1656.0,1026.0,1026.0,977.0,49.0,0.0,630.0,167,338,39
+391675438,"Belpre township, Washington County, Ohio",3172.0,1752.0,1752.0,1628.0,124.0,0.0,1420.0,167,5438,39
+3916742196,"Lawrence township, Washington County, Ohio",682.0,387.0,387.0,372.0,15.0,0.0,295.0,167,42196,39
+3916722918,"Dunham township, Washington County, Ohio",2071.0,1124.0,1124.0,1046.0,78.0,0.0,947.0,167,22918,39
+3916743386,"Liberty township, Washington County, Ohio",707.0,373.0,373.0,373.0,0.0,0.0,334.0,167,43386,39
+3916781774,"Waterford township, Washington County, Ohio",2900.0,1524.0,1524.0,1484.0,40.0,0.0,1376.0,167,81774,39
+391675424,"Belpre city, Washington County, Ohio",5466.0,2770.0,2770.0,2677.0,93.0,0.0,2696.0,167,5424,39
+3916753452,"Muskingum township, Washington County, Ohio",3683.0,2301.0,2288.0,2235.0,53.0,13.0,1382.0,167,53452,39
+3916782838,"Wesley township, Washington County, Ohio",800.0,286.0,286.0,251.0,35.0,0.0,514.0,167,82838,39
+3916745360,"Ludlow township, Washington County, Ohio",219.0,184.0,184.0,184.0,0.0,0.0,35.0,167,45360,39
+3916770002,"Salem township, Washington County, Ohio",851.0,449.0,449.0,449.0,0.0,0.0,402.0,167,70002,39
+3916780934,"Warren township, Washington County, Ohio",3278.0,1901.0,1901.0,1793.0,108.0,0.0,1377.0,167,80934,39
+3915528098,"Fowler township, Trumbull County, Ohio",2065.0,1177.0,1177.0,1138.0,39.0,0.0,888.0,155,28098,39
+3915532046,"Greene township, Trumbull County, Ohio",737.0,367.0,367.0,355.0,12.0,0.0,370.0,155,32046,39
+3915579856,"Vernon township, Trumbull County, Ohio",1164.0,507.0,507.0,458.0,49.0,0.0,657.0,155,79856,39
+3915540502,"Kinsman township, Trumbull County, Ohio",1601.0,883.0,883.0,867.0,16.0,0.0,718.0,155,40502,39
+3915549210,"Mesopotamia township, Trumbull County, Ohio",2001.0,1244.0,1244.0,1208.0,36.0,0.0,757.0,155,49210,39
+3915573397,"Southington township, Trumbull County, Ohio",2890.0,1616.0,1616.0,1548.0,68.0,0.0,1274.0,155,73397,39
+3915588000,"Youngstown city, Trumbull County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,155,88000,39
+3915532732,"Gustavus township, Trumbull County, Ohio",831.0,521.0,521.0,463.0,58.0,0.0,310.0,155,32732,39
+3915580906,"Warren township, Trumbull County, Ohio",4232.0,2422.0,2422.0,2164.0,258.0,0.0,1810.0,155,80906,39
+391558938,"Bristol township, Trumbull County, Ohio",2315.0,1378.0,1378.0,1318.0,60.0,0.0,937.0,155,8938,39
+3915526684,"Farmington township, Trumbull County, Ohio",1614.0,1040.0,1037.0,1011.0,26.0,3.0,574.0,155,26684,39
+3915534230,"Hartford township, Trumbull County, Ohio",1720.0,1126.0,1126.0,1082.0,44.0,0.0,594.0,155,34230,39
+3915580052,"Vienna township, Trumbull County, Ohio",3236.0,1804.0,1804.0,1679.0,125.0,0.0,1432.0,155,80052,39
+3915518812,"Cortland city, Trumbull County, Ohio",5848.0,3376.0,3376.0,3190.0,186.0,0.0,2472.0,155,18812,39
+3915536554,"Howland township, Trumbull County, Ohio",15595.0,9043.0,9043.0,8749.0,294.0,0.0,6552.0,155,36554,39
+3915543344,"Liberty township, Trumbull County, Ohio",17649.0,10416.0,10416.0,9891.0,525.0,0.0,7233.0,155,43344,39
+3915580892,"Warren city, Trumbull County, Ohio",31961.0,15690.0,15690.0,14294.0,1396.0,0.0,16271.0,155,80892,39
+3915544912,"Lordstown village, Trumbull County, Ohio",2800.0,1826.0,1826.0,1759.0,67.0,0.0,974.0,155,44912,39
+3915548678,"Mecca township, Trumbull County, Ohio",2208.0,1275.0,1275.0,1208.0,67.0,0.0,933.0,155,48678,39
+3915582446,"Weathersfield township, Trumbull County, Ohio",20523.0,12059.0,12059.0,11237.0,822.0,0.0,8464.0,155,82446,39
+3915545934,"McDonald village, Trumbull County, Ohio",2530.0,1444.0,1444.0,1383.0,61.0,0.0,1086.0,155,45934,39
+3915558674,"Orangeville village, Trumbull County, Ohio",140.0,80.0,80.0,77.0,3.0,0.0,60.0,155,58674,39
+3900371955,"Shawnee township, Allen County, Ohio",9872.0,6046.0,6034.0,5763.0,271.0,12.0,3826.0,003,71955,39
+390031602,"Amanda township, Allen County, Ohio",1489.0,997.0,997.0,972.0,25.0,0.0,492.0,003,1602,39
+3900373982,"Spencer township, Allen County, Ohio",2234.0,1317.0,1317.0,1222.0,95.0,0.0,917.0,003,73982,39
+390316152,"Bethlehem township, Coshocton County, Ohio",1003.0,545.0,538.0,522.0,16.0,7.0,458.0,031,6152,39
+3903138556,"Jefferson township, Coshocton County, Ohio",1190.0,675.0,675.0,619.0,56.0,0.0,515.0,031,38556,39
+3903150274,"Mill Creek township, Coshocton County, Ohio",642.0,394.0,394.0,360.0,34.0,0.0,248.0,031,50274,39
+3903159248,"Oxford township, Coshocton County, Ohio",1073.0,590.0,590.0,563.0,27.0,0.0,483.0,031,59248,39
+3903119218,"Crawford township, Coshocton County, Ohio",1164.0,786.0,786.0,754.0,32.0,0.0,378.0,031,19218,39
+3903137730,"Jackson township, Coshocton County, Ohio",1427.0,646.0,646.0,634.0,12.0,0.0,781.0,031,37730,39
+3903162624,"Pike township, Coshocton County, Ohio",550.0,360.0,360.0,337.0,23.0,0.0,190.0,031,62624,39
+39031240,"Adams township, Coshocton County, Ohio",518.0,344.0,344.0,319.0,25.0,0.0,174.0,031,240,39
+3903118868,"Coshocton city, Coshocton County, Ohio",9109.0,5089.0,5063.0,4754.0,309.0,26.0,4020.0,031,18868,39
+3903154376,"Newcastle township, Coshocton County, Ohio",348.0,213.0,213.0,184.0,29.0,0.0,135.0,031,54376,39
+3903176953,"Tiverton township, Coshocton County, Ohio",340.0,216.0,216.0,216.0,0.0,0.0,124.0,031,76953,39
+3903180220,"Virginia township, Coshocton County, Ohio",459.0,341.0,341.0,298.0,43.0,0.0,118.0,031,80220,39
+390314864,"Bedford township, Coshocton County, Ohio",396.0,283.0,283.0,272.0,11.0,0.0,113.0,031,4864,39
+3903115266,"Clark township, Coshocton County, Ohio",441.0,259.0,259.0,259.0,0.0,0.0,182.0,031,15266,39
+3903141132,"Lafayette township, Coshocton County, Ohio",3234.0,1791.0,1791.0,1651.0,140.0,0.0,1443.0,031,41132,39
+3903143960,"Linton township, Coshocton County, Ohio",488.0,316.0,316.0,312.0,4.0,0.0,172.0,031,43960,39
+3903151352,"Monroe township, Coshocton County, Ohio",452.0,300.0,300.0,265.0,35.0,0.0,152.0,031,51352,39
+3903177896,"Tuscarawas township, Coshocton County, Ohio",1275.0,704.0,704.0,572.0,132.0,0.0,571.0,031,77896,39
+3903128252,"Franklin township, Coshocton County, Ohio",975.0,523.0,523.0,465.0,58.0,0.0,452.0,031,28252,39
+3903139634,"Keene township, Coshocton County, Ohio",1677.0,1045.0,1045.0,942.0,103.0,0.0,632.0,031,39634,39
+3903161812,"Perry township, Coshocton County, Ohio",642.0,433.0,433.0,419.0,14.0,0.0,209.0,031,61812,39
+3903184714,"White Eyes township, Coshocton County, Ohio",1061.0,697.0,697.0,675.0,22.0,0.0,364.0,031,84714,39
+3903181172,"Washington township, Coshocton County, Ohio",374.0,221.0,221.0,221.0,0.0,0.0,153.0,031,81172,39
+3903313708,"Chatfield township, Crawford County, Ohio",518.0,352.0,352.0,343.0,9.0,0.0,166.0,033,13708,39
+3903319134,"Cranberry township, Crawford County, Ohio",1198.0,794.0,794.0,773.0,21.0,0.0,404.0,033,19134,39
+3903319932,"Dallas township, Crawford County, Ohio",435.0,307.0,307.0,298.0,9.0,0.0,128.0,033,19932,39
+3903338570,"Jefferson township, Crawford County, Ohio",1304.0,777.0,777.0,758.0,19.0,0.0,527.0,033,38570,39
+3903364010,"Polk township, Crawford County, Ohio",1583.0,834.0,834.0,809.0,25.0,0.0,749.0,033,64010,39
+3902551338,"Monroe township, Clermont County, Ohio",6278.0,3933.0,3933.0,3651.0,282.0,0.0,2345.0,025,51338,39
+3904532060,"Greenfield township, Fairfield County, Ohio",4850.0,2866.0,2866.0,2770.0,96.0,0.0,1984.0,045,32060,39
+3904580570,"Walnut township, Fairfield County, Ohio",5789.0,3595.0,3595.0,3389.0,206.0,0.0,2194.0,045,80570,39
+390456950,"Bloom township, Fairfield County, Ohio",7052.0,4555.0,4555.0,4409.0,146.0,0.0,2497.0,045,6950,39
+3904546382,"Madison township, Fairfield County, Ohio",1439.0,929.0,929.0,896.0,33.0,0.0,510.0,045,46382,39
+390455956,"Berne township, Fairfield County, Ohio",4188.0,2586.0,2578.0,2371.0,207.0,8.0,1602.0,045,5956,39
+3904535812,"Hocking township, Fairfield County, Ohio",4436.0,1972.0,1972.0,1928.0,44.0,0.0,2464.0,045,35812,39
+390451637,"Amanda township, Fairfield County, Ohio",2196.0,1282.0,1267.0,1249.0,18.0,15.0,914.0,045,1637,39
+3904563240,"Pleasant township, Fairfield County, Ohio",5041.0,2917.0,2917.0,2849.0,68.0,0.0,2124.0,045,63240,39
+3904569120,"Rush Creek township, Fairfield County, Ohio",3154.0,2062.0,2062.0,1878.0,184.0,0.0,1092.0,045,69120,39
+3904515686,"Clearcreek township, Fairfield County, Ohio",3136.0,1767.0,1767.0,1649.0,118.0,0.0,1369.0,045,15686,39
+3904543120,"Liberty township, Fairfield County, Ohio",6289.0,3974.0,3974.0,3800.0,174.0,0.0,2315.0,045,43120,39
+3904566684,"Richland township, Fairfield County, Ohio",1622.0,978.0,978.0,963.0,15.0,0.0,644.0,045,66684,39
+3904518000,"Columbus city, Fairfield County, Ohio",7543.0,5444.0,5444.0,5226.0,218.0,0.0,2099.0,045,18000,39
+3904580206,"Violet township, Fairfield County, Ohio",30700.0,21744.0,21650.0,20875.0,775.0,94.0,8956.0,045,80206,39
+3903956014,"Noble township, Defiance County, Ohio",5081.0,3199.0,3199.0,3043.0,156.0,0.0,1882.0,039,56014,39
+3903966670,"Richland township, Defiance County, Ohio",2140.0,1265.0,1239.0,1137.0,102.0,26.0,875.0,039,66670,39
+39039268,"Adams township, Defiance County, Ohio",507.0,347.0,347.0,329.0,18.0,0.0,160.0,039,268,39
+3903926614,"Farmer township, Defiance County, Ohio",669.0,498.0,498.0,468.0,30.0,0.0,171.0,039,26614,39
+3903947852,"Mark township, Defiance County, Ohio",696.0,402.0,402.0,373.0,29.0,0.0,294.0,039,47852,39
+3903976772,"Tiffin township, Defiance County, Ohio",1537.0,1108.0,1108.0,1094.0,14.0,0.0,429.0,039,76772,39
+3903935196,"Highland township, Defiance County, Ohio",1765.0,1111.0,1111.0,1029.0,82.0,0.0,654.0,039,35196,39
+3903981200,"Washington township, Defiance County, Ohio",1197.0,782.0,782.0,778.0,4.0,0.0,415.0,039,81200,39
+3903921322,"Defiance township, Defiance County, Ohio",10452.0,6658.0,6658.0,6228.0,430.0,0.0,3794.0,039,21322,39
+3903921420,"Delaware township, Defiance County, Ohio",1652.0,1051.0,1048.0,1017.0,31.0,3.0,601.0,039,21420,39
+3903935112,"Hicksville township, Defiance County, Ohio",3929.0,2646.0,2646.0,2558.0,88.0,0.0,1283.0,039,35112,39
+3903950190,"Milford township, Defiance County, Ohio",924.0,606.0,606.0,600.0,6.0,0.0,318.0,039,50190,39
+3907146452,"Madison township, Highland County, Ohio",5223.0,2956.0,2956.0,2487.0,469.0,0.0,2267.0,071,46452,39
+3907178344,"Union township, Highland County, Ohio",1461.0,899.0,899.0,838.0,61.0,0.0,562.0,071,78344,39
+3907126026,"Fairfield township, Highland County, Ohio",2930.0,1924.0,1924.0,1815.0,109.0,0.0,1006.0,071,26026,39
+3907132970,"Hamer township, Highland County, Ohio",480.0,279.0,279.0,279.0,0.0,0.0,201.0,071,32970,39
+3907155048,"New Market township, Highland County, Ohio",1508.0,915.0,915.0,889.0,26.0,0.0,593.0,071,55048,39
+3907184826,"Whiteoak township, Highland County, Ohio",1131.0,645.0,645.0,619.0,26.0,0.0,486.0,071,84826,39
+3907169862,"Salem township, Highland County, Ohio",558.0,359.0,359.0,338.0,21.0,0.0,199.0,071,69862,39
+390719736,"Brushcreek township, Highland County, Ohio",1050.0,594.0,594.0,577.0,17.0,0.0,456.0,071,9736,39
+3907137828,"Jackson township, Highland County, Ohio",745.0,393.0,393.0,393.0,0.0,0.0,352.0,071,37828,39
+390332890,"Auburn township, Crawford County, Ohio",399.0,216.0,216.0,211.0,5.0,0.0,183.0,033,2890,39
+3903379786,"Vernon township, Crawford County, Ohio",773.0,490.0,476.0,436.0,40.0,14.0,283.0,033,79786,39
+3903335980,"Holmes township, Crawford County, Ohio",1011.0,560.0,560.0,530.0,30.0,0.0,451.0,033,35980,39
+3903310030,"Bucyrus city, Crawford County, Ohio",9629.0,5514.0,5514.0,5067.0,447.0,0.0,4115.0,033,10030,39
+3903337744,"Jackson township, Crawford County, Ohio",310.0,188.0,188.0,155.0,33.0,0.0,122.0,033,37744,39
+3903343078,"Liberty township, Crawford County, Ohio",1080.0,679.0,679.0,641.0,38.0,0.0,401.0,033,43078,39
+3903384644,"Whetstone township, Crawford County, Ohio",1811.0,1011.0,1011.0,970.0,41.0,0.0,800.0,033,84644,39
+3903345500,"Lykens township, Crawford County, Ohio",347.0,227.0,227.0,227.0,0.0,0.0,120.0,033,45500,39
+3903370366,"Sandusky township, Crawford County, Ohio",519.0,354.0,354.0,344.0,10.0,0.0,165.0,033,70366,39
+3903376463,"Texas township, Crawford County, Ohio",380.0,239.0,239.0,239.0,0.0,0.0,141.0,033,76463,39
+3903376967,"Tod township, Crawford County, Ohio",523.0,353.0,353.0,353.0,0.0,0.0,170.0,033,76967,39
+3903310044,"Bucyrus township, Crawford County, Ohio",721.0,446.0,446.0,426.0,20.0,0.0,275.0,033,10044,39
+3904121448,"Delaware township, Delaware County, Ohio",2196.0,1147.0,1147.0,1147.0,0.0,0.0,1049.0,041,21448,39
+3904133516,"Harlem township, Delaware County, Ohio",3603.0,2612.0,2587.0,2471.0,116.0,25.0,991.0,041,33516,39
+3904140362,"Kingston township, Delaware County, Ohio",1949.0,1375.0,1375.0,1352.0,23.0,0.0,574.0,041,40362,39
+3904164178,"Porter township, Delaware County, Ohio",1698.0,1182.0,1182.0,1130.0,52.0,0.0,516.0,041,64178,39
+390415774,"Berkshire township, Delaware County, Ohio",2467.0,1823.0,1823.0,1790.0,33.0,0.0,644.0,041,5774,39
+390412582,"Ashley village, Delaware County, Ohio",1139.0,710.0,710.0,657.0,53.0,0.0,429.0,041,2582,39
+3904176617,"Thompson township, Delaware County, Ohio",689.0,478.0,478.0,478.0,0.0,0.0,211.0,041,76617,39
+390419428,"Brown township, Delaware County, Ohio",1444.0,919.0,919.0,905.0,14.0,0.0,525.0,041,9428,39
+3900977546,"Troy township, Athens County, Ohio",2301.0,1081.0,1081.0,1024.0,57.0,0.0,1220.0,009,77546,39
+3900942420,"Lee township, Athens County, Ohio",2333.0,1280.0,1280.0,1149.0,131.0,0.0,1053.0,009,42420,39
+3900912336,"Carthage township, Athens County, Ohio",1138.0,695.0,695.0,679.0,16.0,0.0,443.0,009,12336,39
+3900986982,"York township, Athens County, Ohio",6698.0,3496.0,3496.0,3142.0,354.0,0.0,3202.0,009,86982,39
+3900968238,"Rome township, Athens County, Ohio",974.0,525.0,525.0,496.0,29.0,0.0,449.0,009,68238,39
+3913375189,"Suffield township, Portage County, Ohio",5298.0,3339.0,3339.0,3135.0,204.0,0.0,1959.0,133,75189,39
+3913385960,"Windham township, Portage County, Ohio",1405.0,944.0,944.0,870.0,74.0,0.0,461.0,133,85960,39
+391333086,"Aurora city, Portage County, Ohio",12917.0,8236.0,8236.0,7988.0,248.0,0.0,4681.0,133,3086,39
+3913368392,"Rootstown township, Portage County, Ohio",6668.0,4527.0,4527.0,4248.0,279.0,0.0,2141.0,133,68392,39
+3913329442,"Garrettsville village, Portage County, Ohio",2193.0,1598.0,1598.0,1506.0,92.0,0.0,595.0,133,29442,39
+3913335672,"Hiram township, Portage County, Ohio",1925.0,1339.0,1339.0,1257.0,82.0,0.0,586.0,133,35672,39
+3913353858,"Nelson township, Portage County, Ohio",2788.0,1622.0,1622.0,1561.0,61.0,0.0,1166.0,133,53858,39
+3913385946,"Windham village, Portage County, Ohio",1494.0,932.0,932.0,793.0,139.0,0.0,562.0,133,85946,39
+3913335658,"Hiram village, Portage County, Ohio",1163.0,729.0,729.0,643.0,86.0,0.0,434.0,133,35658,39
+3913339872,"Kent city, Portage County, Ohio",25711.0,17254.0,17248.0,15612.0,1636.0,6.0,8457.0,133,39872,39
+3913347194,"Mantua township, Portage County, Ohio",4083.0,2534.0,2519.0,2395.0,124.0,15.0,1549.0,133,47194,39
+3913359668,"Palmyra township, Portage County, Ohio",2437.0,1456.0,1456.0,1288.0,168.0,0.0,981.0,133,59668,39
+3913375196,"Sugar Bush Knolls village, Portage County, Ohio",161.0,99.0,99.0,92.0,7.0,0.0,62.0,133,75196,39
+391332862,"Atwater township, Portage County, Ohio",2149.0,1489.0,1489.0,1389.0,100.0,0.0,660.0,133,2862,39
+391338168,"Brady Lake village, Portage County, Ohio",430.0,289.0,289.0,263.0,26.0,0.0,141.0,133,8168,39
+3913359822,"Paris township, Portage County, Ohio",1365.0,837.0,837.0,781.0,56.0,0.0,528.0,133,59822,39
+3913365592,"Ravenna city, Portage County, Ohio",9414.0,6118.0,6118.0,5487.0,631.0,0.0,3296.0,133,65592,39
+3913375014,"Streetsboro city, Portage County, Ohio",13534.0,9192.0,9192.0,8763.0,429.0,0.0,4342.0,133,75014,39
+391338840,"Brimfield township, Portage County, Ohio",8489.0,5590.0,5590.0,5293.0,297.0,0.0,2899.0,133,8840,39
+3913321210,"Deerfield township, Portage County, Ohio",2165.0,1435.0,1435.0,1218.0,217.0,0.0,730.0,133,21210,39
+3913328392,"Franklin township, Portage County, Ohio",4685.0,2899.0,2899.0,2636.0,263.0,0.0,1786.0,133,28392,39
+3913365452,"Randolph township, Portage County, Ohio",4530.0,3127.0,3127.0,3009.0,118.0,0.0,1403.0,133,65452,39
+3913351058,"Mogadore village, Portage County, Ohio",760.0,519.0,519.0,519.0,0.0,0.0,241.0,133,51058,39
+3913376106,"Tallmadge city, Portage County, Ohio",192.0,168.0,168.0,168.0,0.0,0.0,24.0,133,76106,39
+3913328742,"Freedom township, Portage County, Ohio",2246.0,1482.0,1482.0,1429.0,53.0,0.0,764.0,133,28742,39
+3913347180,"Mantua village, Portage County, Ohio",931.0,662.0,662.0,613.0,49.0,0.0,269.0,133,47180,39
+3913365606,"Ravenna township, Portage County, Ohio",7620.0,4655.0,4655.0,4190.0,465.0,0.0,2965.0,133,65606,39
+3913313610,"Charlestown township, Portage County, Ohio",1470.0,974.0,974.0,804.0,170.0,0.0,496.0,133,13610,39
+3913324584,"Edinburg township, Portage County, Ohio",2125.0,1449.0,1449.0,1346.0,103.0,0.0,676.0,133,24584,39
+3913758996,"Ottawa township, Putnam County, Ohio",5958.0,4214.0,4214.0,4023.0,191.0,0.0,1744.0,137,58996,39
+3913751660,"Monterey township, Putnam County, Ohio",1497.0,1070.0,1070.0,1057.0,13.0,0.0,427.0,137,51660,39
+391376880,"Blanchard township, Putnam County, Ohio",921.0,700.0,700.0,690.0,10.0,0.0,221.0,137,6880,39
+3913759612,"Palmer township, Putnam County, Ohio",670.0,355.0,355.0,353.0,2.0,0.0,315.0,137,59612,39
+3913743288,"Liberty township, Putnam County, Ohio",1373.0,903.0,903.0,889.0,14.0,0.0,470.0,137,43288,39
+3913763380,"Pleasant township, Putnam County, Ohio",2811.0,1927.0,1927.0,1876.0,51.0,0.0,884.0,137,63380,39
+3913762036,"Perry township, Putnam County, Ohio",815.0,556.0,556.0,521.0,35.0,0.0,259.0,137,62036,39
+3913767174,"Riley township, Putnam County, Ohio",1733.0,1163.0,1163.0,1123.0,40.0,0.0,570.0,137,67174,39
+3913775206,"Sugar Creek township, Putnam County, Ohio",724.0,457.0,457.0,438.0,19.0,0.0,267.0,137,75206,39
+3913779450,"Van Buren township, Putnam County, Ohio",2177.0,1262.0,1262.0,1256.0,6.0,0.0,915.0,137,79450,39
+3907374405,"Starr township, Hocking County, Ohio",1202.0,728.0,728.0,686.0,42.0,0.0,474.0,073,74405,39
+3907326488,"Falls township, Hocking County, Ohio",9123.0,5346.0,5346.0,4915.0,431.0,0.0,3777.0,073,26488,39
+3907330842,"Good Hope township, Hocking County, Ohio",970.0,569.0,569.0,509.0,60.0,0.0,401.0,073,30842,39
+3907342056,"Laurel township, Hocking County, Ohio",1253.0,899.0,899.0,884.0,15.0,0.0,354.0,073,42056,39
+390735578,"Benton township, Hocking County, Ohio",698.0,383.0,383.0,374.0,9.0,0.0,315.0,073,5578,39
+3907370142,"Salt Creek township, Hocking County, Ohio",656.0,259.0,259.0,213.0,46.0,0.0,397.0,073,70142,39
+3907331780,"Green township, Hocking County, Ohio",2544.0,1676.0,1676.0,1481.0,195.0,0.0,868.0,073,31780,39
+3907361868,"Perry township, Hocking County, Ohio",1992.0,1180.0,1180.0,1095.0,85.0,0.0,812.0,073,61868,39
+3907381354,"Washington township, Hocking County, Ohio",1129.0,647.0,647.0,610.0,37.0,0.0,482.0,073,81354,39
+3907380780,"Ward township, Hocking County, Ohio",1557.0,686.0,686.0,639.0,47.0,0.0,871.0,073,80780,39
+3908559430,"Painesville township, Lake County, Ohio",16369.0,11163.0,11163.0,10295.0,868.0,0.0,5206.0,085,59430,39
+3908580402,"Waite Hill village, Lake County, Ohio",368.0,162.0,162.0,159.0,3.0,0.0,206.0,085,80402,39
+3908585638,"Willowick city, Lake County, Ohio",11385.0,8014.0,8014.0,7474.0,540.0,0.0,3371.0,085,85638,39
+3908542812,"Leroy township, Lake County, Ohio",2619.0,1836.0,1836.0,1777.0,59.0,0.0,783.0,085,42812,39
+3908541398,"Lakeline village, Lake County, Ohio",233.0,178.0,178.0,161.0,17.0,0.0,55.0,085,41398,39
+3908559416,"Painesville city, Lake County, Ohio",15029.0,9709.0,9702.0,9020.0,682.0,7.0,5320.0,085,59416,39
+3908585484,"Willoughby city, Lake County, Ohio",18929.0,12650.0,12610.0,12127.0,483.0,40.0,6279.0,085,85484,39
+3908540670,"Kirtland Hills village, Lake County, Ohio",637.0,433.0,433.0,413.0,20.0,0.0,204.0,085,40670,39
+3908561896,"Perry township, Lake County, Ohio",6988.0,4434.0,4431.0,4300.0,131.0,3.0,2554.0,085,61896,39
+3908518196,"Concord township, Lake County, Ohio",14672.0,9321.0,9303.0,9034.0,269.0,18.0,5351.0,085,18196,39
+3908540642,"Kirtland city, Lake County, Ohio",5771.0,3490.0,3490.0,3353.0,137.0,0.0,2281.0,085,40642,39
+3908546494,"Madison township, Lake County, Ohio",14743.0,9353.0,9353.0,8770.0,583.0,0.0,5390.0,085,46494,39
+3908549098,"Mentor-on-the-Lake city, Lake County, Ohio",6258.0,4145.0,4145.0,4006.0,139.0,0.0,2113.0,085,49098,39
+3908585036,"Wickliffe city, Lake County, Ohio",10575.0,6949.0,6949.0,6643.0,306.0,0.0,3626.0,085,85036,39
+390850,"County subdivisions not defined, Lake County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,085,0,39
+3908576834,"Timberlake village, Lake County, Ohio",626.0,404.0,404.0,380.0,24.0,0.0,222.0,085,76834,39
+3908585512,"Willoughby Hills city, Lake County, Ohio",8290.0,5420.0,5420.0,5166.0,254.0,0.0,2870.0,085,85512,39
+3908523618,"Eastlake city, Lake County, Ohio",15110.0,10118.0,10118.0,9571.0,547.0,0.0,4992.0,085,23618,39
+3908549056,"Mentor city, Lake County, Ohio",39441.0,25891.0,25891.0,25029.0,862.0,0.0,13550.0,085,49056,39
+3910728350,"Franklin township, Mercer County, Ohio",2116.0,1192.0,1192.0,1107.0,85.0,0.0,924.0,107,28350,39
+3910778442,"Union township, Mercer County, Ohio",1131.0,800.0,800.0,755.0,45.0,0.0,331.0,107,78442,39
+3910781452,"Washington township, Mercer County, Ohio",889.0,672.0,672.0,672.0,0.0,0.0,217.0,107,81452,39
+3910722708,"Dublin township, Mercer County, Ohio",1763.0,1089.0,1083.0,1043.0,40.0,6.0,674.0,107,22708,39
+3910765781,"Recovery township, Mercer County, Ohio",1116.0,826.0,826.0,800.0,26.0,0.0,290.0,107,65781,39
+3910782206,"Wayne township, Mercer County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,107,82206,39
+3910731430,"Granville township, Mercer County, Ohio",2946.0,2258.0,2258.0,2242.0,16.0,0.0,688.0,107,31430,39
+3910712952,"Center township, Mercer County, Ohio",1023.0,826.0,826.0,787.0,39.0,0.0,197.0,107,12952,39
+3910747782,"Marion township, Mercer County, Ohio",2260.0,1641.0,1641.0,1619.0,22.0,0.0,619.0,107,47782,39
+3900158366,"Oliver township, Adams County, Ohio",1079.0,569.0,569.0,528.0,41.0,0.0,510.0,001,58366,39
+3900185890,"Winchester township, Adams County, Ohio",1682.0,950.0,950.0,841.0,109.0,0.0,732.0,001,85890,39
+3900131668,"Green township, Adams County, Ohio",485.0,195.0,195.0,183.0,12.0,0.0,290.0,001,31668,39
+3900147026,"Manchester township, Adams County, Ohio",1661.0,646.0,646.0,588.0,58.0,0.0,1015.0,001,47026,39
+390019722,"Brush Creek township, Adams County, Ohio",740.0,386.0,386.0,373.0,13.0,0.0,354.0,001,9722,39
+3900171052,"Scott township, Adams County, Ohio",1354.0,735.0,735.0,691.0,44.0,0.0,619.0,001,71052,39
+3900138486,"Jefferson township, Adams County, Ohio",997.0,555.0,555.0,454.0,101.0,0.0,442.0,001,38486,39
+3900174069,"Sprigg township, Adams County, Ohio",1514.0,668.0,668.0,624.0,44.0,0.0,846.0,001,74069,39
+3900176768,"Tiffin township, Adams County, Ohio",4354.0,2064.0,2064.0,1888.0,176.0,0.0,2290.0,001,76768,39
+3900182012,"Wayne township, Adams County, Ohio",1105.0,753.0,753.0,747.0,6.0,0.0,352.0,001,82012,39
+3900143036,"Liberty township, Adams County, Ohio",1338.0,765.0,765.0,735.0,30.0,0.0,573.0,001,43036,39
+390018350,"Bratton township, Adams County, Ohio",1323.0,574.0,574.0,555.0,19.0,0.0,749.0,001,8350,39
+3900128196,"Franklin township, Adams County, Ohio",845.0,420.0,420.0,400.0,20.0,0.0,425.0,001,28196,39
+3900148888,"Meigs township, Adams County, Ohio",2931.0,1428.0,1428.0,1296.0,132.0,0.0,1503.0,001,48888,39
+3900151268,"Monroe township, Adams County, Ohio",455.0,231.0,231.0,221.0,10.0,0.0,224.0,001,51268,39
+3914564304,"Portsmouth city, Scioto County, Ohio",16521.0,7912.0,7895.0,6988.0,907.0,17.0,8609.0,145,64304,39
+391459764,"Brush Creek township, Scioto County, Ohio",669.0,374.0,374.0,374.0,0.0,0.0,295.0,145,9764,39
+3914579828,"Vernon township, Scioto County, Ohio",1547.0,962.0,962.0,907.0,55.0,0.0,585.0,145,79828,39
+3914555902,"Nile township, Scioto County, Ohio",1940.0,939.0,939.0,884.0,55.0,0.0,1001.0,145,55902,39
+3914578554,"Union township, Scioto County, Ohio",1920.0,1025.0,1025.0,958.0,67.0,0.0,895.0,145,78554,39
+3914546606,"Madison township, Scioto County, Ohio",3062.0,1506.0,1506.0,1435.0,71.0,0.0,1556.0,145,46606,39
+3914581606,"Washington township, Scioto County, Ohio",4293.0,2045.0,2045.0,1840.0,205.0,0.0,2248.0,145,81606,39
+3914564206,"Porter township, Scioto County, Ohio",7598.0,4049.0,4049.0,3885.0,164.0,0.0,3549.0,145,64206,39
+3914538815,"Jefferson township, Scioto County, Ohio",2416.0,1456.0,1456.0,1243.0,213.0,0.0,960.0,145,38815,39
+391456992,"Bloom township, Scioto County, Ohio",2431.0,1258.0,1258.0,1221.0,37.0,0.0,1173.0,145,6992,39
+3914515560,"Clay township, Scioto County, Ohio",2917.0,1675.0,1675.0,1547.0,128.0,0.0,1242.0,145,15560,39
+3914552150,"Morgan township, Scioto County, Ohio",2007.0,1020.0,1020.0,947.0,73.0,0.0,987.0,145,52150,39
+3914554166,"New Boston village, Scioto County, Ohio",1779.0,651.0,651.0,584.0,67.0,0.0,1128.0,145,54166,39
+3914579170,"Valley township, Scioto County, Ohio",3163.0,1016.0,1016.0,966.0,50.0,0.0,2147.0,145,79170,39
+3914531836,"Green township, Scioto County, Ohio",3382.0,1528.0,1528.0,1401.0,127.0,0.0,1854.0,145,31836,39
+3914534020,"Harrison township, Scioto County, Ohio",3386.0,1763.0,1763.0,1706.0,57.0,0.0,1623.0,145,34020,39
+3914569092,"Rush township, Scioto County, Ohio",2336.0,1038.0,1038.0,944.0,94.0,0.0,1298.0,145,69092,39
+3914565522,"Rarden township, Scioto County, Ohio",638.0,363.0,363.0,333.0,30.0,0.0,275.0,145,65522,39
+3910348804,"Medina township, Medina County, Ohio",7387.0,4678.0,4678.0,4522.0,156.0,0.0,2709.0,103,48804,39
+3910351856,"Montville township, Medina County, Ohio",8790.0,6091.0,6064.0,5795.0,269.0,27.0,2699.0,103,51856,39
+3910313750,"Chatham township, Medina County, Ohio",1831.0,1132.0,1132.0,1072.0,60.0,0.0,699.0,103,13750,39
+3910341174,"Lafayette township, Medina County, Ohio",4433.0,3090.0,3090.0,2955.0,135.0,0.0,1343.0,103,41174,39
+3913732228,"Greensburg township, Putnam County, Ohio",1215.0,1019.0,1019.0,1019.0,0.0,0.0,196.0,137,32228,39
+3913738976,"Jennings township, Putnam County, Ohio",1540.0,1087.0,1087.0,1062.0,25.0,0.0,453.0,137,38976,39
+3913751562,"Monroe township, Putnam County, Ohio",1872.0,1268.0,1268.0,1185.0,83.0,0.0,604.0,137,51562,39
+3913778526,"Union township, Putnam County, Ohio",2340.0,1759.0,1749.0,1738.0,11.0,10.0,581.0,137,78526,39
+3913738024,"Jackson township, Putnam County, Ohio",684.0,489.0,489.0,468.0,21.0,0.0,195.0,137,38024,39
+3901366628,"Richland township, Belmont County, Ohio",12905.0,5996.0,5987.0,5565.0,422.0,9.0,6909.0,013,66628,39
+3901327566,"Flushing township, Belmont County, Ohio",1453.0,856.0,855.0,828.0,27.0,1.0,597.0,013,27566,39
+3901348580,"Mead township, Belmont County, Ohio",5030.0,2986.0,2986.0,2754.0,232.0,0.0,2044.0,013,48580,39
+3901372970,"Somerset township, Belmont County, Ohio",725.0,369.0,369.0,340.0,29.0,0.0,356.0,013,72970,39
+3901361378,"Pease township, Belmont County, Ohio",11750.0,6823.0,6823.0,6197.0,626.0,0.0,4927.0,013,61378,39
+3901380864,"Warren township, Belmont County, Ohio",4513.0,2594.0,2594.0,2433.0,161.0,0.0,1919.0,013,80864,39
+3901384602,"Wheeling township, Belmont County, Ohio",1474.0,974.0,974.0,943.0,31.0,0.0,500.0,013,84602,39
+3901364962,"Pultney township, Belmont County, Ohio",7013.0,3805.0,3793.0,3485.0,308.0,12.0,3208.0,013,64962,39
+3901330968,"Goshen township, Belmont County, Ohio",2567.0,1579.0,1579.0,1533.0,46.0,0.0,988.0,013,30968,39
+3901386996,"York township, Belmont County, Ohio",2407.0,1129.0,1129.0,1066.0,63.0,0.0,1278.0,013,86996,39
+3901316602,"Colerain township, Belmont County, Ohio",3520.0,2029.0,2029.0,1917.0,112.0,0.0,1491.0,013,16602,39
+3901340600,"Kirkwood township, Belmont County, Ohio",195.0,106.0,106.0,99.0,7.0,0.0,89.0,013,40600,39
+3901372736,"Smith township, Belmont County, Ohio",1164.0,680.0,680.0,658.0,22.0,0.0,484.0,013,72736,39
+3901378218,"Union township, Belmont County, Ohio",1719.0,1055.0,1055.0,997.0,58.0,0.0,664.0,013,78218,39
+3901382068,"Wayne township, Belmont County, Ohio",400.0,217.0,217.0,217.0,0.0,0.0,183.0,013,82068,39
+3901381088,"Washington township, Belmont County, Ohio",503.0,179.0,179.0,179.0,0.0,0.0,324.0,013,81088,39
+3902731710,"Green township, Clinton County, Ohio",1700.0,1197.0,1197.0,1091.0,106.0,0.0,503.0,027,31710,39
+3902779772,"Vernon township, Clinton County, Ohio",2090.0,1268.0,1268.0,1202.0,66.0,0.0,822.0,027,79772,39
+3902743064,"Liberty township, Clinton County, Ohio",913.0,577.0,577.0,543.0,34.0,0.0,336.0,027,43064,39
+3902785820,"Wilson township, Clinton County, Ohio",433.0,203.0,203.0,203.0,0.0,0.0,230.0,027,85820,39
+3902713974,"Chester township, Clinton County, Ohio",1519.0,1053.0,1053.0,995.0,58.0,0.0,466.0,027,13974,39
+3902715238,"Clark township, Clinton County, Ohio",1790.0,1110.0,1110.0,1072.0,38.0,0.0,680.0,027,15238,39
+3902782124,"Wayne township, Clinton County, Ohio",490.0,322.0,322.0,248.0,74.0,0.0,168.0,027,82124,39
+39027226,"Adams township, Clinton County, Ohio",1884.0,1368.0,1356.0,1254.0,102.0,12.0,516.0,027,226,39
+3902738542,"Jefferson township, Clinton County, Ohio",896.0,595.0,595.0,543.0,52.0,0.0,301.0,027,38542,39
+3902747670,"Marion township, Clinton County, Ohio",4357.0,2721.0,2721.0,2601.0,120.0,0.0,1636.0,027,47670,39
+3902766642,"Richland township, Clinton County, Ohio",2778.0,1758.0,1758.0,1628.0,130.0,0.0,1020.0,027,66642,39
+3902781144,"Washington township, Clinton County, Ohio",1476.0,943.0,943.0,906.0,37.0,0.0,533.0,027,81144,39
+3902778302,"Union township, Clinton County, Ohio",2701.0,1580.0,1580.0,1507.0,73.0,0.0,1121.0,027,78302,39
+3904718154,"Concord township, Fayette County, Ohio",573.0,380.0,371.0,297.0,74.0,9.0,193.0,047,18154,39
+3904738388,"Jasper township, Fayette County, Ohio",534.0,283.0,283.0,277.0,6.0,0.0,251.0,047,38388,39
+3904731724,"Green township, Fayette County, Ohio",556.0,312.0,312.0,299.0,13.0,0.0,244.0,047,31724,39
+391076586,"Black Creek township, Mercer County, Ohio",302.0,141.0,141.0,131.0,10.0,0.0,161.0,107,6586,39
+3910730058,"Gibson township, Mercer County, Ohio",1397.0,1057.0,1057.0,1038.0,19.0,0.0,340.0,107,30058,39
+3910710604,"Butler township, Mercer County, Ohio",4854.0,3217.0,3217.0,3114.0,103.0,0.0,1637.0,107,10604,39
+3910743260,"Liberty township, Mercer County, Ohio",581.0,381.0,381.0,381.0,0.0,0.0,200.0,107,43260,39
+3910738724,"Jefferson township, Mercer County, Ohio",10597.0,6922.0,6922.0,6480.0,442.0,0.0,3675.0,107,38724,39
+3910736344,"Hopewell township, Mercer County, Ohio",661.0,547.0,547.0,547.0,0.0,0.0,114.0,107,36344,39
+3914110016,"Buckskin township, Ross County, Ohio",1967.0,1343.0,1343.0,1246.0,97.0,0.0,624.0,141,10016,39
+3914170898,"Scioto township, Ross County, Ohio",21652.0,12328.0,12328.0,11544.0,784.0,0.0,9324.0,141,70898,39
+3914136890,"Huntington township, Ross County, Ohio",4789.0,2557.0,2557.0,2172.0,385.0,0.0,2232.0,141,36890,39
+3914116630,"Colerain township, Ross County, Ohio",1779.0,1167.0,1151.0,1101.0,50.0,16.0,612.0,141,16630,39
+3914131822,"Green township, Ross County, Ohio",3908.0,2489.0,2489.0,2351.0,138.0,0.0,1419.0,141,31822,39
+3914138808,"Jefferson township, Ross County, Ohio",533.0,273.0,273.0,252.0,21.0,0.0,260.0,141,38808,39
+3914159542,"Paint township, Ross County, Ohio",831.0,500.0,500.0,426.0,74.0,0.0,331.0,141,59542,39
+3914161308,"Paxton township, Ross County, Ohio",1650.0,924.0,922.0,693.0,229.0,2.0,726.0,141,61308,39
+3914178008,"Twin township, Ross County, Ohio",2877.0,1377.0,1377.0,1277.0,100.0,0.0,1500.0,141,78008,39
+3914128420,"Franklin township, Ross County, Ohio",1120.0,630.0,630.0,575.0,55.0,0.0,490.0,141,28420,39
+3914174129,"Springfield township, Ross County, Ohio",2238.0,1392.0,1392.0,1338.0,54.0,0.0,846.0,141,74129,39
+3914143302,"Liberty township, Ross County, Ohio",2175.0,1033.0,1033.0,991.0,42.0,0.0,1142.0,141,43302,39
+3914134006,"Harrison township, Ross County, Ohio",1199.0,725.0,725.0,634.0,91.0,0.0,474.0,141,34006,39
+3914118238,"Concord township, Ross County, Ohio",3534.0,1950.0,1950.0,1891.0,59.0,0.0,1584.0,141,18238,39
+3914121224,"Deerfield township, Ross County, Ohio",787.0,451.0,451.0,398.0,53.0,0.0,336.0,141,21224,39
+3914178540,"Union township, Ross County, Ohio",11149.0,3999.0,3999.0,3703.0,296.0,0.0,7150.0,141,78540,39
+3902169820,"Salem township, Champaign County, Ohio",2019.0,1275.0,1275.0,1213.0,62.0,0.0,744.0,021,69820,39
+3902133796,"Harrison township, Champaign County, Ohio",566.0,361.0,361.0,328.0,33.0,0.0,205.0,021,33796,39
+3902182096,"Wayne township, Champaign County, Ohio",1506.0,1017.0,1011.0,945.0,66.0,6.0,489.0,021,82096,39
+39021212,"Adams township, Champaign County, Ohio",713.0,473.0,473.0,418.0,55.0,0.0,240.0,021,212,39
+3902118126,"Concord township, Champaign County, Ohio",1146.0,685.0,685.0,649.0,36.0,0.0,461.0,021,18126,39
+3902137702,"Jackson township, Champaign County, Ohio",2130.0,1490.0,1490.0,1336.0,154.0,0.0,640.0,021,37702,39
+3902178274,"Union township, Champaign County, Ohio",1637.0,1103.0,1103.0,1019.0,84.0,0.0,534.0,021,78274,39
+3902179086,"Urbana township, Champaign County, Ohio",11920.0,6848.0,6848.0,6228.0,620.0,0.0,5072.0,021,79086,39
+3902139228,"Johnson township, Champaign County, Ohio",2675.0,1864.0,1864.0,1748.0,116.0,0.0,811.0,021,39228,39
+3902169078,"Rush township, Champaign County, Ohio",1904.0,1311.0,1311.0,1263.0,48.0,0.0,593.0,021,69078,39
+3913161392,"Pebble township, Pike County, Ohio",2036.0,1005.0,1005.0,922.0,83.0,0.0,1031.0,131,61392,39
+3913147824,"Marion township, Pike County, Ohio",1272.0,651.0,651.0,596.0,55.0,0.0,621.0,131,47824,39
+3913171171,"Seal township, Pike County, Ohio",2423.0,1217.0,1217.0,1058.0,159.0,0.0,1206.0,131,71171,39
+391314710,"Beaver township, Pike County, Ohio",754.0,514.0,514.0,500.0,14.0,0.0,240.0,131,4710,39
+391315648,"Benton township, Pike County, Ohio",1626.0,904.0,904.0,750.0,154.0,0.0,722.0,131,5648,39
+3913155622,"Newton township, Pike County, Ohio",1352.0,681.0,681.0,618.0,63.0,0.0,671.0,131,55622,39
+3913170884,"Scioto township, Pike County, Ohio",1472.0,694.0,694.0,623.0,71.0,0.0,778.0,131,70884,39
+3913178512,"Union township, Pike County, Ohio",985.0,398.0,398.0,245.0,153.0,0.0,587.0,131,78512,39
+3913150078,"Mifflin township, Pike County, Ohio",685.0,300.0,300.0,278.0,22.0,0.0,385.0,131,50078,39
+3913162022,"Perry township, Pike County, Ohio",481.0,243.0,243.0,243.0,0.0,0.0,238.0,131,62022,39
+3913111122,"Camp Creek township, Pike County, Ohio",961.0,482.0,482.0,482.0,0.0,0.0,479.0,131,11122,39
+3913137996,"Jackson township, Pike County, Ohio",860.0,429.0,429.0,381.0,48.0,0.0,431.0,131,37996,39
+3913161434,"Pee Pee township, Pike County, Ohio",6316.0,3288.0,3288.0,2989.0,299.0,0.0,3028.0,131,61434,39
+3913175637,"Sunfish township, Pike County, Ohio",1189.0,645.0,645.0,632.0,13.0,0.0,544.0,131,75637,39
+3912512308,"Carryall township, Paulding County, Ohio",2298.0,1410.0,1402.0,1309.0,93.0,8.0,888.0,125,12308,39
+3912581536,"Washington township, Paulding County, Ohio",563.0,325.0,325.0,299.0,26.0,0.0,238.0,125,81536,39
+391253002,"Auglaize township, Paulding County, Ohio",1084.0,712.0,702.0,667.0,35.0,10.0,372.0,125,3002,39
+3912525298,"Emerald township, Paulding County, Ohio",488.0,221.0,221.0,203.0,18.0,0.0,267.0,125,25298,39
+3912537954,"Jackson township, Paulding County, Ohio",1532.0,939.0,939.0,882.0,57.0,0.0,593.0,125,37954,39
+3912561266,"Paulding township, Paulding County, Ohio",2992.0,1795.0,1795.0,1730.0,65.0,0.0,1197.0,125,61266,39
+3912519176,"Crane township, Paulding County, Ohio",1157.0,767.0,767.0,758.0,9.0,0.0,390.0,125,19176,39
+390917118,"Bloomfield township, Logan County, Ohio",68.0,43.0,43.0,43.0,0.0,0.0,25.0,091,7118,39
+3909181424,"Washington township, Logan County, Ohio",2512.0,1394.0,1394.0,1309.0,85.0,0.0,1118.0,091,81424,39
+3909149378,"Miami township, Logan County, Ohio",2080.0,1328.0,1328.0,1272.0,56.0,0.0,752.0,091,49378,39
+3909166740,"Richland township, Logan County, Ohio",2183.0,1499.0,1499.0,1406.0,93.0,0.0,684.0,091,66740,39
+3909133908,"Harrison township, Logan County, Ohio",1686.0,925.0,925.0,848.0,77.0,0.0,761.0,091,33908,39
+3909145682,"McArthur township, Logan County, Ohio",1746.0,1161.0,1161.0,1104.0,57.0,0.0,585.0,091,45682,39
+3909174780,"Stokes township, Logan County, Ohio",4037.0,2111.0,2111.0,1960.0,151.0,0.0,1926.0,091,74780,39
+3909188042,"Zane township, Logan County, Ohio",1026.0,699.0,699.0,699.0,0.0,0.0,327.0,091,88042,39
+3909138682,"Jefferson township, Logan County, Ohio",2445.0,1435.0,1435.0,1387.0,48.0,0.0,1010.0,091,38682,39
+3909141286,"Lake township, Logan County, Ohio",9288.0,5890.0,5890.0,5456.0,434.0,0.0,3398.0,091,41286,39
+390917552,"Bokescreek township, Logan County, Ohio",1059.0,729.0,729.0,680.0,49.0,0.0,330.0,091,7552,39
+3909143246,"Liberty township, Logan County, Ohio",2763.0,1745.0,1745.0,1650.0,95.0,0.0,1018.0,091,43246,39
+3909161938,"Perry township, Logan County, Ohio",818.0,528.0,528.0,508.0,20.0,0.0,290.0,091,61938,39
+3909178414,"Union township, Logan County, Ohio",527.0,387.0,387.0,387.0,0.0,0.0,140.0,091,78414,39
+3909169134,"Rushcreek township, Logan County, Ohio",1698.0,1177.0,1177.0,1102.0,75.0,0.0,521.0,091,69134,39
+3909151464,"Monroe township, Logan County, Ohio",1083.0,701.0,701.0,692.0,9.0,0.0,382.0,091,51464,39
+3909163324,"Pleasant township, Logan County, Ohio",1034.0,778.0,778.0,715.0,63.0,0.0,256.0,091,63324,39
+3909744674,"London city, Madison County, Ohio",8156.0,5182.0,5182.0,4874.0,308.0,0.0,2974.0,097,44674,39
+3909751478,"Monroe township, Madison County, Ohio",1271.0,737.0,737.0,710.0,27.0,0.0,534.0,097,51478,39
+3909757708,"Oak Run township, Madison County, Ohio",426.0,311.0,311.0,311.0,0.0,0.0,115.0,097,57708,39
+3909711234,"Canaan township, Madison County, Ohio",1877.0,1246.0,1246.0,1208.0,38.0,0.0,631.0,097,11234,39
+3909726068,"Fairfield township, Madison County, Ohio",1195.0,755.0,755.0,736.0,19.0,0.0,440.0,097,26068,39
+3909774784,"Stokes township, Madison County, Ohio",528.0,328.0,328.0,316.0,12.0,0.0,200.0,097,74784,39
+3909721154,"Deer Creek township, Madison County, Ohio",686.0,465.0,465.0,454.0,11.0,0.0,221.0,097,21154,39
+3909759528,"Paint township, Madison County, Ohio",574.0,419.0,415.0,401.0,14.0,4.0,155.0,097,59528,39
+3909772960,"Somerford township, Madison County, Ohio",2463.0,1655.0,1655.0,1567.0,88.0,0.0,808.0,097,72960,39
+3909778428,"Union township, Madison County, Ohio",5665.0,576.0,576.0,569.0,7.0,0.0,5089.0,097,78428,39
+3909720142,"Darby township, Madison County, Ohio",3366.0,2253.0,2253.0,2155.0,98.0,0.0,1113.0,097,20142,39
+3909763338,"Pleasant township, Madison County, Ohio",2534.0,1613.0,1613.0,1484.0,129.0,0.0,921.0,097,63338,39
+3909765480,"Range township, Madison County, Ohio",617.0,388.0,388.0,361.0,27.0,0.0,229.0,097,65480,39
+3909738696,"Jefferson township, Madison County, Ohio",5835.0,3652.0,3652.0,3415.0,237.0,0.0,2183.0,097,38696,39
+3909762666,"Pike township, Madison County, Ohio",510.0,344.0,344.0,277.0,67.0,0.0,166.0,097,62666,39
+3915357260,"Norton city, Summit County, Ohio",9878.0,6573.0,6573.0,6274.0,299.0,0.0,3305.0,153,57260,39
+3915326166,"Fairlawn city, Summit County, Ohio",6041.0,3721.0,3721.0,3594.0,127.0,0.0,2320.0,153,26166,39
+3915356490,"Northfield Center township, Summit County, Ohio",4878.0,3622.0,3622.0,3491.0,131.0,0.0,1256.0,153,56490,39
+3915378064,"Twinsburg township, Summit County, Ohio",2049.0,1562.0,1562.0,1420.0,142.0,0.0,487.0,153,78064,39
+3915316182,"Clinton village, Summit County, Ohio",1052.0,689.0,689.0,630.0,59.0,0.0,363.0,153,16182,39
+3903549644,"Middleburg Heights city, Cuyahoga County, Ohio",13290.0,7963.0,7963.0,7579.0,384.0,0.0,5327.0,035,49644,39
+3903556882,"North Olmsted city, Cuyahoga County, Ohio",26609.0,17366.0,17349.0,16477.0,872.0,17.0,9243.0,035,56882,39
+3903526446,"Fairview Park city, Cuyahoga County, Ohio",13633.0,9043.0,9043.0,8551.0,492.0,0.0,4590.0,035,26446,39
+3903529498,"Gates Mills village, Cuyahoga County, Ohio",1925.0,1026.0,1026.0,1007.0,19.0,0.0,899.0,035,29498,39
+3903536918,"Hunting Valley village, Cuyahoga County, Ohio",462.0,224.0,224.0,217.0,7.0,0.0,238.0,035,36918,39
+3903580738,"Walton Hills village, Cuyahoga County, Ohio",2096.0,1163.0,1163.0,1127.0,36.0,0.0,933.0,035,80738,39
+390350,"County subdivisions not defined, Cuyahoga County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,035,0,39
+390358336,"Bratenahl village, Cuyahoga County, Ohio",1165.0,663.0,663.0,638.0,25.0,0.0,502.0,035,8336,39
+390354416,"Bay Village city, Cuyahoga County, Ohio",11971.0,7892.0,7887.0,7719.0,168.0,5.0,4079.0,035,4416,39
+3903583622,"Westlake city, Cuyahoga County, Ohio",26492.0,17025.0,17025.0,16397.0,628.0,0.0,9467.0,035,83622,39
+3903571682,"Shaker Heights city, Cuyahoga County, Ohio",21555.0,14466.0,14466.0,13607.0,859.0,0.0,7089.0,035,71682,39
+390354920,"Bedford Heights city, Cuyahoga County, Ohio",9109.0,5657.0,5657.0,4968.0,689.0,0.0,3452.0,035,4920,39
+3903561028,"Parma Heights city, Cuyahoga County, Ohio",16543.0,10754.0,10754.0,10120.0,634.0,0.0,5789.0,035,61028,39
+3903557008,"North Royalton city, Cuyahoga County, Ohio",24976.0,17038.0,17025.0,16408.0,617.0,13.0,7938.0,035,57008,39
+3903557750,"Oakwood village, Cuyahoga County, Ohio",3152.0,1853.0,1853.0,1704.0,149.0,0.0,1299.0,035,57750,39
+3903513372,"Chagrin Falls township, Cuyahoga County, Ohio",3273.0,2026.0,2026.0,2000.0,26.0,0.0,1247.0,035,13372,39
+3907567286,"Ripley township, Holmes County, Ohio",1822.0,1187.0,1187.0,1167.0,20.0,0.0,635.0,075,67286,39
+3907540852,"Knox township, Holmes County, Ohio",956.0,566.0,566.0,513.0,53.0,0.0,390.0,075,40852,39
+3907564584,"Prairie township, Holmes County, Ohio",2395.0,1684.0,1684.0,1604.0,80.0,0.0,711.0,075,64584,39
+3907566712,"Richland township, Holmes County, Ohio",799.0,461.0,461.0,433.0,28.0,0.0,338.0,075,66712,39
+3907548692,"Mechanic township, Holmes County, Ohio",2161.0,1547.0,1547.0,1460.0,87.0,0.0,614.0,075,48692,39
+3907533460,"Hardy township, Holmes County, Ohio",4743.0,2955.0,2955.0,2791.0,164.0,0.0,1788.0,075,33460,39
+3907540194,"Killbuck township, Holmes County, Ohio",1808.0,1182.0,1182.0,1138.0,44.0,0.0,626.0,075,40194,39
+3907580626,"Walnut Creek township, Holmes County, Ohio",2720.0,1687.0,1676.0,1657.0,19.0,11.0,1033.0,075,80626,39
+3907581368,"Washington township, Holmes County, Ohio",1201.0,732.0,732.0,715.0,17.0,0.0,469.0,075,81368,39
+3907515280,"Clark township, Holmes County, Ohio",2753.0,1660.0,1660.0,1652.0,8.0,0.0,1093.0,075,15280,39
+3907551422,"Monroe township, Holmes County, Ohio",1304.0,902.0,902.0,891.0,11.0,0.0,402.0,075,51422,39
+3907559514,"Paint township, Holmes County, Ohio",2789.0,1828.0,1828.0,1808.0,20.0,0.0,961.0,075,59514,39
+390755830,"Berlin township, Holmes County, Ohio",3149.0,2247.0,2247.0,2247.0,0.0,0.0,902.0,075,5830,39
+3907570156,"Salt Creek township, Holmes County, Ohio",2693.0,1800.0,1800.0,1781.0,19.0,0.0,893.0,075,70156,39
+390931812,"Amherst township, Lorain County, Ohio",5994.0,3631.0,3631.0,3420.0,211.0,0.0,2363.0,093,1812,39
+3909325270,"Elyria township, Lorain County, Ohio",2784.0,1689.0,1689.0,1588.0,101.0,0.0,1095.0,093,25270,39
+390931798,"Amherst city, Lorain County, Ohio",9961.0,6328.0,6328.0,5945.0,383.0,0.0,3633.0,093,1798,39
+3909316910,"Columbia township, Lorain County, Ohio",5898.0,3712.0,3712.0,3445.0,267.0,0.0,2186.0,093,16910,39
+3909324220,"Eaton township, Lorain County, Ohio",4932.0,3335.0,3335.0,3164.0,171.0,0.0,1597.0,093,24220,39
+3909325256,"Elyria city, Lorain County, Ohio",43078.0,27143.0,27122.0,24690.0,2432.0,21.0,15935.0,093,25256,39
+3909331150,"Grafton village, Lorain County, Ohio",5730.0,1115.0,1115.0,1021.0,94.0,0.0,4615.0,093,31150,39
+3909356966,"North Ridgeville city, Lorain County, Ohio",25388.0,16775.0,16758.0,16026.0,732.0,17.0,8613.0,093,56966,39
+3912533950,"Harrison township, Paulding County, Ohio",1364.0,899.0,899.0,870.0,29.0,0.0,465.0,125,33950,39
+391259512,"Brown township, Paulding County, Ohio",1467.0,901.0,901.0,823.0,78.0,0.0,566.0,125,9512,39
+3912542000,"Latty township, Paulding County, Ohio",695.0,372.0,372.0,349.0,23.0,0.0,323.0,125,42000,39
+391255634,"Benton township, Paulding County, Ohio",729.0,462.0,462.0,442.0,20.0,0.0,267.0,125,5634,39
+391257370,"Blue Creek township, Paulding County, Ohio",604.0,399.0,399.0,389.0,10.0,0.0,205.0,125,7370,39
+3905712798,"Cedarville township, Greene County, Ohio",5077.0,3101.0,3090.0,2867.0,223.0,11.0,1976.0,057,12798,39
+390574220,"Bath township, Greene County, Ohio",33369.0,21442.0,19996.0,18346.0,1650.0,1446.0,11927.0,057,4220,39
+3905710856,"Caesarscreek township, Greene County, Ohio",906.0,569.0,569.0,547.0,22.0,0.0,337.0,057,10856,39
+3905749336,"Miami township, Greene County, Ohio",4205.0,2485.0,2469.0,2371.0,98.0,16.0,1720.0,057,49336,39
+3905772473,"Silvercreek township, Greene County, Ohio",3037.0,1863.0,1863.0,1742.0,121.0,0.0,1174.0,057,72473,39
+3905738626,"Jefferson township, Greene County, Ohio",920.0,553.0,553.0,518.0,35.0,0.0,367.0,057,38626,39
+3905754810,"New Jasper township, Greene County, Ohio",2126.0,1424.0,1419.0,1327.0,92.0,5.0,702.0,057,54810,39
+3914386506,"Woodville township, Sandusky County, Ohio",2617.0,1635.0,1635.0,1592.0,43.0,0.0,982.0,143,86506,39
+3914371087,"Scott township, Sandusky County, Ohio",807.0,507.0,507.0,487.0,20.0,0.0,300.0,143,71087,39
+3914331990,"Green Creek township, Sandusky County, Ohio",2939.0,1966.0,1966.0,1833.0,133.0,0.0,973.0,143,31990,39
+3914346592,"Madison township, Sandusky County, Ohio",2926.0,1863.0,1863.0,1749.0,114.0,0.0,1063.0,143,46592,39
+3914332256,"Green Springs village, Sandusky County, Ohio",638.0,342.0,342.0,331.0,11.0,0.0,296.0,143,32256,39
+3914370408,"Sandusky township, Sandusky County, Ohio",3106.0,1868.0,1868.0,1660.0,208.0,0.0,1238.0,143,70408,39
+3914381592,"Washington township, Sandusky County, Ohio",2134.0,1335.0,1335.0,1227.0,108.0,0.0,799.0,143,81592,39
+391433730,"Ballville township, Sandusky County, Ohio",4987.0,3230.0,3230.0,3108.0,122.0,0.0,1757.0,143,3730,39
+3914922050,"Dinsmore township, Shelby County, Ohio",2609.0,1910.0,1907.0,1866.0,41.0,3.0,699.0,149,22050,39
+3914944884,"Loramie township, Shelby County, Ohio",1909.0,1321.0,1321.0,1194.0,127.0,0.0,588.0,149,44884,39
+3914916168,"Clinton township, Shelby County, Ohio",16247.0,10646.0,10646.0,9805.0,841.0,0.0,5601.0,149,16168,39
+3914938080,"Jackson township, Shelby County, Ohio",1904.0,1202.0,1202.0,1169.0,33.0,0.0,702.0,149,38080,39
+3914931850,"Green township, Shelby County, Ohio",754.0,572.0,572.0,554.0,18.0,0.0,182.0,149,31850,39
+3914958660,"Orange township, Shelby County, Ohio",841.0,459.0,459.0,443.0,16.0,0.0,382.0,149,58660,39
+3914979464,"Van Buren township, Shelby County, Ohio",1654.0,1209.0,1209.0,1173.0,36.0,0.0,445.0,149,79464,39
+3914928434,"Franklin township, Shelby County, Ohio",2631.0,1862.0,1862.0,1839.0,23.0,0.0,769.0,149,28434,39
+3914977854,"Turtle Creek township, Shelby County, Ohio",1168.0,816.0,816.0,807.0,9.0,0.0,352.0,149,77854,39
+3914962064,"Perry township, Shelby County, Ohio",994.0,625.0,625.0,560.0,65.0,0.0,369.0,149,62064,39
+3914946172,"McLean township, Shelby County, Ohio",2582.0,1760.0,1760.0,1714.0,46.0,0.0,822.0,149,46172,39
+3911146928,"Malaga township, Monroe County, Ohio",758.0,294.0,294.0,274.0,20.0,0.0,464.0,111,46928,39
+3911128357,"Franklin township, Monroe County, Ohio",207.0,69.0,69.0,69.0,0.0,0.0,138.0,111,28357,39
+3911157988,"Ohio township, Monroe County, Ohio",675.0,374.0,374.0,357.0,17.0,0.0,301.0,111,57988,39
+3911169918,"Salem township, Monroe County, Ohio",704.0,354.0,354.0,323.0,31.0,0.0,350.0,111,69918,39
+3911175497,"Summit township, Monroe County, Ohio",682.0,365.0,365.0,363.0,2.0,0.0,317.0,111,75497,39
+3911175686,"Sunsbury township, Monroe County, Ohio",1087.0,445.0,445.0,411.0,34.0,0.0,642.0,111,75686,39
+3911175945,"Switzerland township, Monroe County, Ohio",348.0,176.0,176.0,156.0,20.0,0.0,172.0,111,75945,39
+3911181480,"Washington township, Monroe County, Ohio",341.0,235.0,235.0,235.0,0.0,0.0,106.0,111,81480,39
+3911112966,"Center township, Monroe County, Ohio",3016.0,1414.0,1402.0,1324.0,78.0,12.0,1602.0,111,12966,39
+391116124,"Bethel township, Monroe County, Ohio",206.0,118.0,118.0,118.0,0.0,0.0,88.0,111,6124,39
+3911171349,"Seneca township, Monroe County, Ohio",426.0,205.0,205.0,169.0,36.0,0.0,221.0,111,71349,39
+3911142448,"Lee township, Monroe County, Ohio",763.0,409.0,409.0,364.0,45.0,0.0,354.0,111,42448,39
+3911131808,"Green township, Monroe County, Ohio",422.0,216.0,216.0,203.0,13.0,0.0,206.0,111,31808,39
+3911161952,"Perry township, Monroe County, Ohio",486.0,269.0,269.0,257.0,12.0,0.0,217.0,111,61952,39
+3911182208,"Wayne township, Monroe County, Ohio",237.0,98.0,98.0,98.0,0.0,0.0,139.0,111,82208,39
+3911321000,"Dayton city, Montgomery County, Ohio",113161.0,64394.0,64077.0,55818.0,8259.0,317.0,48767.0,113,21000,39
+3911333922,"Harrison township, Montgomery County, Ohio",17998.0,10687.0,10678.0,9214.0,1464.0,9.0,7311.0,113,33922,39
+3911379492,"Vandalia city, Montgomery County, Ohio",12490.0,8217.0,8217.0,7812.0,405.0,0.0,4273.0,113,79492,39
+3911381494,"Washington township, Montgomery County, Ohio",45977.0,28406.0,28324.0,27387.0,937.0,82.0,17571.0,113,81494,39
+3911349392,"Miami township, Montgomery County, Ohio",40774.0,26730.0,26710.0,25330.0,1380.0,20.0,14044.0,113,49392,39
+3911357764,"Oakwood city, Montgomery County, Ohio",6716.0,4452.0,4373.0,4300.0,73.0,79.0,2264.0,113,57764,39
+3911377504,"Trotwood city, Montgomery County, Ohio",19599.0,11376.0,11366.0,9905.0,1461.0,10.0,8223.0,113,77504,39
+3911352010,"Moraine city, Montgomery County, Ohio",4907.0,3254.0,3254.0,2977.0,277.0,0.0,1653.0,113,52010,39
+3911329904,"German township, Montgomery County, Ohio",6398.0,4098.0,4098.0,3832.0,266.0,0.0,2300.0,113,29904,39
+3911337912,"Jackson township, Montgomery County, Ohio",5073.0,3045.0,3045.0,2863.0,182.0,0.0,2028.0,113,37912,39
+3911338738,"Jefferson township, Montgomery County, Ohio",5326.0,2711.0,2711.0,2310.0,401.0,0.0,2615.0,113,38738,39
+3911382222,"Wayne township, Montgomery County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,113,82222,39
+3911315518,"Clay township, Montgomery County, Ohio",7207.0,4165.0,4160.0,4016.0,144.0,5.0,3042.0,113,15518,39
+3911310618,"Butler township, Montgomery County, Ohio",6465.0,4123.0,4123.0,3961.0,162.0,0.0,2342.0,113,10618,39
+3911336610,"Huber Heights city, Montgomery County, Ohio",28731.0,19251.0,18953.0,17662.0,1291.0,298.0,9480.0,113,36610,39
+3911361966,"Perry township, Montgomery County, Ohio",4768.0,2795.0,2795.0,2631.0,164.0,0.0,1973.0,113,61966,39
+3911340040,"Kettering city, Montgomery County, Ohio",44745.0,29146.0,28964.0,27433.0,1531.0,182.0,15599.0,113,40040,39
+3911325396,"Englewood city, Montgomery County, Ohio",10898.0,6568.0,6568.0,6123.0,445.0,0.0,4330.0,113,25396,39
+3904950064,"Mifflin township, Franklin County, Ohio",29335.0,21102.0,21081.0,20126.0,955.0,21.0,8233.0,049,50064,39
+3904918000,"Columbus city, Franklin County, Ohio",663843.0,465102.0,464653.0,435182.0,29471.0,449.0,198741.0,049,18000,39
+3904946410,"Madison township, Franklin County, Ohio",19764.0,12317.0,12284.0,11708.0,576.0,33.0,7447.0,049,46410,39
+3904947474,"Marble Cliff village, Franklin County, Ohio",545.0,400.0,400.0,387.0,13.0,0.0,145.0,049,47474,39
+390496922,"Blendon township, Franklin County, Ohio",7069.0,5220.0,5220.0,4961.0,259.0,0.0,1849.0,049,6922,39
+3904937772,"Jackson township, Franklin County, Ohio",34786.0,23461.0,23434.0,22613.0,821.0,27.0,11325.0,049,37772,39
+3904981242,"Washington township, Franklin County, Ohio",29853.0,21224.0,21224.0,20541.0,683.0,0.0,8629.0,049,81242,39
+3904916112,"Clinton township, Franklin County, Ohio",3330.0,2105.0,2105.0,1955.0,150.0,0.0,1225.0,049,16112,39
+3904979002,"Upper Arlington city, Franklin County, Ohio",26752.0,18295.0,18295.0,17598.0,697.0,0.0,8457.0,049,79002,39
+390499442,"Brown township, Franklin County, Ohio",1904.0,1261.0,1261.0,1212.0,49.0,0.0,643.0,049,9442,39
+3904963254,"Pleasant township, Franklin County, Ohio",5612.0,3644.0,3644.0,3443.0,201.0,0.0,1968.0,049,63254,39
+3904962974,"Plain township, Franklin County, Ohio",8156.0,5900.0,5900.0,5666.0,234.0,0.0,2256.0,049,62974,39
+3904928280,"Franklin township, Franklin County, Ohio",8010.0,4615.0,4615.0,4380.0,235.0,0.0,3395.0,049,28280,39
+3908742154,"Lawrence township, Lawrence County, Ohio",1760.0,753.0,753.0,671.0,82.0,0.0,1007.0,087,42154,39
+3908748174,"Mason township, Lawrence County, Ohio",772.0,311.0,311.0,297.0,14.0,0.0,461.0,087,48174,39
+3908776031,"Symmes township, Lawrence County, Ohio",420.0,235.0,235.0,226.0,9.0,0.0,185.0,087,76031,39
+3908778974,"Upper township, Lawrence County, Ohio",11753.0,5746.0,5746.0,5460.0,286.0,0.0,6007.0,087,78974,39
+3908733054,"Hamilton township, Lawrence County, Ohio",1835.0,1042.0,1042.0,975.0,67.0,0.0,793.0,087,33054,39
+3908768280,"Rome township, Lawrence County, Ohio",7310.0,4339.0,4339.0,3971.0,368.0,0.0,2971.0,087,68280,39
+3908778372,"Union township, Lawrence County, Ohio",7078.0,3987.0,3987.0,3827.0,160.0,0.0,3091.0,087,78372,39
+3908726782,"Fayette township, Lawrence County, Ohio",7250.0,3896.0,3896.0,3701.0,195.0,0.0,3354.0,087,26782,39
+3908721084,"Decatur township, Lawrence County, Ohio",620.0,324.0,324.0,314.0,10.0,0.0,296.0,087,21084,39
+3908781396,"Washington township, Lawrence County, Ohio",122.0,47.0,47.0,36.0,11.0,0.0,75.0,087,81396,39
+3908786002,"Windsor township, Lawrence County, Ohio",1715.0,956.0,956.0,956.0,0.0,0.0,759.0,087,86002,39
+39087562,"Aid township, Lawrence County, Ohio",651.0,513.0,513.0,456.0,57.0,0.0,138.0,087,562,39
+3908724822,"Elizabeth township, Lawrence County, Ohio",2371.0,1284.0,1284.0,1178.0,106.0,0.0,1087.0,087,24822,39
+3908761910,"Perry township, Lawrence County, Ohio",5521.0,2871.0,2871.0,2539.0,332.0,0.0,2650.0,087,61910,39
+391016348,"Big Island township, Marion County, Ohio",985.0,455.0,455.0,455.0,0.0,0.0,530.0,101,6348,39
+391017958,"Bowling Green township, Marion County, Ohio",476.0,243.0,243.0,243.0,0.0,0.0,233.0,101,7958,39
+3910164794,"Prospect township, Marion County, Ohio",1687.0,1026.0,1026.0,971.0,55.0,0.0,661.0,101,64794,39
+3910180514,"Waldo township, Marion County, Ohio",1180.0,816.0,816.0,793.0,23.0,0.0,364.0,101,80514,39
+3910131178,"Grand township, Marion County, Ohio",202.0,94.0,94.0,94.0,0.0,0.0,108.0,101,31178,39
+3910131192,"Grand Prairie township, Marion County, Ohio",1693.0,910.0,910.0,910.0,0.0,0.0,783.0,101,31192,39
+3910131962,"Green Camp township, Marion County, Ohio",859.0,543.0,543.0,517.0,26.0,0.0,316.0,101,31962,39
+3910147768,"Marion township, Marion County, Ohio",35992.0,17773.0,17739.0,15849.0,1890.0,34.0,18219.0,101,47768,39
+3910171073,"Scott township, Marion County, Ohio",435.0,327.0,327.0,327.0,0.0,0.0,108.0,101,71073,39
+3910151730,"Montgomery township, Marion County, Ohio",1498.0,770.0,770.0,704.0,66.0,0.0,728.0,101,51730,39
+3910115196,"Claridon township, Marion County, Ohio",2241.0,1333.0,1333.0,1294.0,39.0,0.0,908.0,101,15196,39
+3914981620,"Washington township, Shelby County, Ohio",1379.0,1049.0,1049.0,1007.0,42.0,0.0,330.0,149,81620,39
+3914919834,"Cynthian township, Shelby County, Ohio",1439.0,1069.0,1069.0,1043.0,26.0,0.0,370.0,149,19834,39
+3914969960,"Salem township, Shelby County, Ohio",1778.0,1307.0,1307.0,1256.0,51.0,0.0,471.0,149,69960,39
+391554444,"Bazetta township, Trumbull County, Ohio",4905.0,3083.0,3083.0,2945.0,138.0,0.0,1822.0,155,4444,39
+391557160,"Bloomfield township, Trumbull County, Ohio",958.0,531.0,531.0,519.0,12.0,0.0,427.0,155,7160,39
+3915539298,"Johnston township, Trumbull County, Ohio",1498.0,734.0,734.0,718.0,16.0,0.0,764.0,155,39298,39
+3915555636,"Newton township, Trumbull County, Ohio",7162.0,4015.0,4015.0,3704.0,311.0,0.0,3147.0,155,55636,39
+391558056,"Braceville township, Trumbull County, Ohio",2381.0,1340.0,1340.0,1259.0,81.0,0.0,1041.0,155,8056,39
+391559190,"Brookfield township, Trumbull County, Ohio",7152.0,4127.0,4125.0,3826.0,299.0,2.0,3025.0,155,9190,39
+3915513470,"Champion township, Trumbull County, Ohio",7512.0,4282.0,4258.0,4086.0,172.0,24.0,3230.0,155,13470,39
+3915536596,"Hubbard township, Trumbull County, Ohio",10933.0,6336.0,6266.0,5956.0,310.0,70.0,4597.0,155,36596,39
+3916528490,"Franklin township, Warren County, Ohio",25018.0,15792.0,15792.0,14588.0,1204.0,0.0,9226.0,165,28490,39
+3916548188,"Mason city, Warren County, Ohio",24872.0,16540.0,16510.0,16022.0,488.0,30.0,8332.0,165,48188,39
+3916548216,"Massie township, Warren County, Ohio",951.0,621.0,621.0,614.0,7.0,0.0,330.0,165,48216,39
+3916578610,"Union township, Warren County, Ohio",4050.0,2500.0,2500.0,2302.0,198.0,0.0,1550.0,165,78610,39
+3916581690,"Washington township, Warren County, Ohio",2318.0,1766.0,1766.0,1668.0,98.0,0.0,552.0,165,81690,39
+3916533068,"Hamilton township, Warren County, Ohio",17686.0,12811.0,12811.0,12005.0,806.0,0.0,4875.0,165,33068,39
+3916542364,"Lebanon city, Warren County, Ohio",15668.0,10610.0,10610.0,10079.0,531.0,0.0,5058.0,165,42364,39
+3916569988,"Salem township, Warren County, Ohio",3826.0,2467.0,2467.0,2356.0,111.0,0.0,1359.0,165,69988,39
+3916577868,"Turtlecreek township, Warren County, Ohio",13746.0,5302.0,5302.0,5127.0,175.0,0.0,8444.0,165,77868,39
+3909925998,"Fairfield township, Mahoning County, Ohio",764.0,323.0,323.0,323.0,0.0,0.0,441.0,099,25998,39
+3906169470,"St. Bernard village, Hamilton County, Ohio",3426.0,2353.0,2353.0,2156.0,197.0,0.0,1073.0,061,69470,39
+3910311276,"Canaan township, Medina County, Ohio",83.0,41.0,41.0,41.0,0.0,0.0,42.0,103,11276,39
+3909961798,"Perry township, Mahoning County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,099,61798,39
+3906172522,"Silverton village, Hamilton County, Ohio",4044.0,2724.0,2724.0,2595.0,129.0,0.0,1320.0,061,72522,39
+3903319330,"Crestline village, Crawford County, Ohio",3420.0,2046.0,2046.0,1895.0,151.0,0.0,1374.0,033,19330,39
+3916967356,"Rittman city, Wayne County, Ohio",5110.0,3199.0,3199.0,2952.0,247.0,0.0,1911.0,169,67356,39
+3910348808,"Medina City township, Medina County, Ohio",20330.0,14194.0,14185.0,13690.0,495.0,9.0,6136.0,103,48808,39
+3904118010,"Columbus City township, Delaware County, Ohio",3943.0,3320.0,3320.0,3267.0,53.0,0.0,623.0,041,18010,39
+3915331860,"Green city, Summit County, Ohio",20649.0,13151.0,13143.0,12599.0,544.0,8.0,7498.0,153,31860,39
+3911315644,"Clayton village, Montgomery County, Ohio",10460.0,6942.0,6926.0,6485.0,441.0,16.0,3518.0,113,15644,39
+3911729162,"Galion city, Morrow County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,117,29162,39
+3909341244,"LaGrange township, Lorain County, Ohio",4981.0,3356.0,3356.0,3263.0,93.0,0.0,1625.0,093,41244,39
+3901783150,"West Chester township, Butler County, Ohio",48890.0,34091.0,34091.0,32937.0,1154.0,0.0,14799.0,017,83150,39
+3911367468,"Riverside village, Montgomery County, Ohio",19833.0,12625.0,11958.0,11145.0,813.0,667.0,7208.0,113,67468,39
+390632400,"Arlington village, Hancock County, Ohio",1087.0,673.0,673.0,655.0,18.0,0.0,414.0,063,2400,39
+3902785792,"Wilmington city, Clinton County, Ohio",9967.0,5898.0,5898.0,5430.0,468.0,0.0,4069.0,027,85792,39
+3912921168,"Deercreek township, Pickaway County, Ohio",1192.0,764.0,764.0,728.0,36.0,0.0,428.0,129,21168,39
+3908966396,"Reynoldsburg City township, Licking County, Ohio",693.0,528.0,528.0,505.0,23.0,0.0,165.0,089,66396,39
+3906125942,"Fairfax village, Hamilton County, Ohio",1347.0,958.0,958.0,915.0,43.0,0.0,389.0,061,25942,39
+3905513554,"Chardon city, Geauga County, Ohio",4175.0,2827.0,2827.0,2783.0,44.0,0.0,1348.0,055,13554,39
+3910978470,"Union city, Miami County, Ohio",0.0,0.0,0.0,0.0,0.0,0.0,0.0,109,78470,39
+3904379716,"Vermilion city, Erie County, Ohio",3860.0,2399.0,2399.0,2248.0,151.0,0.0,1461.0,043,79716,39
+3912970184,"Saltcreek township, Pickaway County, Ohio",2332.0,1431.0,1431.0,1329.0,102.0,0.0,901.0,129,70184,39
+3904121469,"Delaware City township, Delaware County, Ohio",29021.0,19898.0,19881.0,19333.0,548.0,17.0,9123.0,041,21469,39
+3904171976,"Shawnee Hills village, Delaware County, Ohio",617.0,462.0,462.0,449.0,13.0,0.0,155.0,041,71976,39
+3904781718,"Washington Court House city, Fayette County, Ohio",10954.0,6387.0,6387.0,6049.0,338.0,0.0,4567.0,047,81718,39
+3910383468,"Westfield Center village, Medina County, Ohio",989.0,593.0,593.0,557.0,36.0,0.0,396.0,103,83468,39
+3910314254,"Chippewa Lake village, Medina County, Ohio",559.0,338.0,334.0,316.0,18.0,4.0,221.0,103,14254,39
+3910330660,"Gloria Glens Park village, Medina County, Ohio",391.0,264.0,264.0,245.0,19.0,0.0,127.0,103,30660,39
+3910344604,"Lodi village, Medina County, Ohio",2281.0,1344.0,1344.0,1250.0,94.0,0.0,937.0,103,44604,39
+3911383090,"West Carrollton city, Montgomery County, Ohio",10336.0,6860.0,6860.0,6288.0,572.0,0.0,3476.0,113,83090,39
+3904541740,"Lancaster City township, Fairfield County, Ohio",31832.0,18516.0,18491.0,17002.0,1489.0,25.0,13316.0,045,41740,39
+3910367356,"Rittman city, Medina County, Ohio",158.0,54.0,54.0,54.0,0.0,0.0,104.0,103,67356,39
+3910373992,"Spencer village, Medina County, Ohio",462.0,320.0,320.0,306.0,14.0,0.0,142.0,103,73992,39
+3903329176,"Galion City township, Crawford County, Ohio",8037.0,4476.0,4435.0,4059.0,376.0,41.0,3561.0,033,29176,39
+3915354562,"New Franklin city, Summit County, Ohio",11846.0,7621.0,7621.0,7239.0,382.0,0.0,4225.0,153,54562,39
+3911378625,"Union City township, Montgomery County, Ohio",5011.0,3821.0,3803.0,3622.0,181.0,18.0,1190.0,113,78625,39
+3904175620,"Sunbury Village township, Delaware County, Ohio",3702.0,2566.0,2566.0,2496.0,70.0,0.0,1136.0,041,75620,39
+3904183349,"Westerville City township, Delaware County, Ohio",6868.0,4425.0,4425.0,4231.0,194.0,0.0,2443.0,041,83349,39
+3914316308,"Clyde city, Sandusky County, Ohio",4639.0,3136.0,3136.0,3006.0,130.0,0.0,1503.0,143,16308,39
+3910371488,"Seville Village township, Medina County, Ohio",1975.0,1326.0,1326.0,1282.0,44.0,0.0,649.0,103,71488,39
+3917162834,"Pioneer village, Williams County, Ohio",1193.0,866.0,866.0,824.0,42.0,0.0,327.0,171,62834,39
+3917151772,"Montpelier village, Williams County, Ohio",3212.0,2195.0,2195.0,1967.0,228.0,0.0,1017.0,171,51772,39
+3909567752,"Roche de Boeuf township, Lucas County, Ohio",4278.0,3023.0,3011.0,2950.0,61.0,12.0,1255.0,095,67752,39
+3902346354,"Madison township, Clark County, Ohio",2132.0,1383.0,1366.0,1288.0,78.0,17.0,749.0,023,46354,39
+3902351912,"Moorefield township, Clark County, Ohio",10176.0,6406.0,6406.0,6148.0,258.0,0.0,3770.0,023,51912,39
+3902374119,"Springfield township, Clark County, Ohio",9647.0,5971.0,5960.0,5649.0,311.0,11.0,3676.0,023,74119,39
+390236054,"Bethel township, Clark County, Ohio",13831.0,8377.0,8354.0,7748.0,606.0,23.0,5454.0,023,6054,39
+3902331703,"Green township, Clark County, Ohio",2088.0,1211.0,1211.0,1169.0,42.0,0.0,877.0,023,31703,39
+3902374118,"Springfield city, Clark County, Ohio",46771.0,27756.0,27756.0,24800.0,2956.0,0.0,19015.0,023,74118,39
+3902329862,"German township, Clark County, Ohio",6042.0,3738.0,3718.0,3522.0,196.0,20.0,2304.0,023,29862,39
+3902346788,"Mad River township, Clark County, Ohio",9241.0,5596.0,5589.0,5288.0,301.0,7.0,3645.0,023,46788,39
+3905768630,"Ross township, Greene County, Ohio",661.0,400.0,400.0,391.0,9.0,0.0,261.0,057,68630,39
+3905786772,"Xenia city, Greene County, Ohio",20952.0,11864.0,11746.0,10910.0,836.0,118.0,9088.0,057,86772,39
+3905774223,"Spring Valley township, Greene County, Ohio",2193.0,1278.0,1278.0,1255.0,23.0,0.0,915.0,057,74223,39
+390574724,"Beavercreek township, Greene County, Ohio",43358.0,27675.0,26754.0,25922.0,832.0,921.0,15683.0,057,4724,39
+390575102,"Bellbrook city, Greene County, Ohio",5557.0,3791.0,3724.0,3691.0,33.0,67.0,1766.0,057,5102,39
+3905740040,"Kettering city, Greene County, Ohio",453.0,285.0,285.0,269.0,16.0,0.0,168.0,057,40040,39
+3905775201,"Sugarcreek township, Greene County, Ohio",6416.0,4206.0,4100.0,3907.0,193.0,106.0,2210.0,057,75201,39
+3905786786,"Xenia township, Greene County, Ohio",5491.0,3433.0,3433.0,2975.0,458.0,0.0,2058.0,057,86786,39
+3906186730,"Wyoming city, Hamilton County, Ohio",6486.0,4487.0,4487.0,4313.0,174.0,0.0,1999.0,061,86730,39
+3906130380,"Glendale village, Hamilton County, Ohio",1792.0,1147.0,1147.0,1106.0,41.0,0.0,645.0,061,30380,39
+3906186366,"Woodlawn village, Hamilton County, Ohio",2717.0,1790.0,1790.0,1747.0,43.0,0.0,927.0,061,86366,39
+390611672,"Amberley village, Hamilton County, Ohio",2838.0,1817.0,1817.0,1797.0,20.0,0.0,1021.0,061,1672,39
+3906116616,"Colerain township, Hamilton County, Ohio",46091.0,30947.0,30939.0,29128.0,1811.0,8.0,15144.0,061,16616,39
+3906121266,"Deer Park city, Hamilton County, Ohio",4740.0,3386.0,3386.0,3237.0,149.0,0.0,1354.0,061,21266,39
+3906125186,"Elmwood Place village, Hamilton County, Ohio",1572.0,865.0,865.0,807.0,58.0,0.0,707.0,061,25186,39
+3906130786,"Golf Manor village, Hamilton County, Ohio",2771.0,1981.0,1981.0,1912.0,69.0,0.0,790.0,061,30786,39
+3906131752,"Green township, Hamilton County, Ohio",46950.0,31408.0,31408.0,30030.0,1378.0,0.0,15542.0,061,31752,39
+3906132158,"Greenhills village, Hamilton County, Ohio",2801.0,1876.0,1876.0,1808.0,68.0,0.0,925.0,061,32158,39
+3906151716,"Montgomery city, Hamilton County, Ohio",8027.0,4760.0,4760.0,4627.0,133.0,0.0,3267.0,061,51716,39
+3906156322,"North College Hill city, Hamilton County, Ohio",7210.0,4952.0,4952.0,4628.0,324.0,0.0,2258.0,061,56322,39
+3906176428,"Terrace Park village, Hamilton County, Ohio",1697.0,1092.0,1089.0,1039.0,50.0,3.0,605.0,061,76428,39
+3906149364,"Miami township, Hamilton County, Ohio",12384.0,8016.0,8006.0,7629.0,377.0,10.0,4368.0,061,49364,39
+3906157386,"Norwood city, Hamilton County, Ohio",16525.0,11352.0,11352.0,10785.0,567.0,0.0,5173.0,061,57386,39
+3906175973,"Sycamore township, Hamilton County, Ohio",15604.0,10071.0,10052.0,9569.0,483.0,19.0,5533.0,061,75973,39

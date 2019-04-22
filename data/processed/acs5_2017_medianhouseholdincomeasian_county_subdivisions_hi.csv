@@ -1,0 +1,45 @@
+geoid,name,median,county,county subdivision,state
+1500190630,"Hilo CCD, Hawaii County, Hawaii",61972.0,001,90630,15
+1500193240,"South Kona CCD, Hawaii County, Hawaii",75972.0,001,93240,15
+1500192610,"North Kona CCD, Hawaii County, Hawaii",80994.0,001,92610,15
+1500190720,"Honokaa-Kukuihaele CCD, Hawaii County, Hawaii",72813.0,001,90720,15
+1500192700,"Paauhau-Paauilo CCD, Hawaii County, Hawaii",71250.0,001,92700,15
+1500192790,"Pahoa-Kalapana CCD, Hawaii County, Hawaii",39321.0,001,92790,15
+1500192520,"North Kohala CCD, Hawaii County, Hawaii",74375.0,001,92520,15
+1500192880,"Papaikou-Wailea CCD, Hawaii County, Hawaii",52500.0,001,92880,15
+1500191170,"Kau CCD, Hawaii County, Hawaii",60168.0,001,91170,15
+1500193150,"South Kohala CCD, Hawaii County, Hawaii",90461.0,001,93150,15
+1500191350,"Keaau-Mountain View CCD, Hawaii County, Hawaii",53285.0,001,91350,15
+1500192430,"North Hilo CCD, Hawaii County, Hawaii",38958.0,001,92430,15
+1500391800,"Koolaupoko CCD, Honolulu County, Hawaii",101706.0,003,91800,15
+1500393420,"Wahiawa CCD, Honolulu County, Hawaii",68418.0,003,93420,15
+1500390270,"Ewa CCD, Honolulu County, Hawaii",99052.0,003,90270,15
+1500393510,"Waialua CCD, Honolulu County, Hawaii",87679.0,003,93510,15
+1500391710,"Koolauloa CCD, Honolulu County, Hawaii",83917.0,003,91710,15
+1500393600,"Waianae CCD, Honolulu County, Hawaii",73359.0,003,93600,15
+1500390810,"Honolulu CCD, Honolulu County, Hawaii",70650.0,003,90810,15
+1500991890,"Kula CCD, Maui County, Hawaii",102500.0,009,91890,15
+1500992250,"Makawao-Paia CCD, Maui County, Hawaii",76344.0,009,92250,15
+1500991530,"Kihei CCD, Maui County, Hawaii",84597.0,009,91530,15
+1500990360,"Haiku-Pauwela CCD, Maui County, Hawaii",66667.0,009,90360,15
+1500990450,"Hana CCD, Maui County, Hawaii",-666666666.0,009,90450,15
+1500993870,"Wailuku CCD, Maui County, Hawaii",80863.0,009,93870,15
+1500992070,"Lanai CCD, Maui County, Hawaii",49257.0,009,92070,15
+1500993690,"Waihee-Waikapu CCD, Maui County, Hawaii",106250.0,009,93690,15
+1500991980,"Lahaina CCD, Maui County, Hawaii",79766.0,009,91980,15
+1500993960,"West Molokai CCD, Maui County, Hawaii",-666666666.0,009,93960,15
+1500990090,"East Molokai CCD, Maui County, Hawaii",86979.0,009,90090,15
+1500990900,"Kahului CCD, Maui County, Hawaii",83939.0,009,90900,15
+1500993060,"Puunene CCD, Maui County, Hawaii",-666666666.0,009,93060,15
+1500993330,"Spreckelsville CCD, Maui County, Hawaii",-666666666.0,009,93330,15
+1500792340,"Niihau CCD, Kauai County, Hawaii",-666666666.0,007,92340,15
+1500791440,"Kekaha-Waimea CCD, Kauai County, Hawaii",59545.0,007,91440,15
+1500792160,"Lihue CCD, Kauai County, Hawaii",61625.0,007,92160,15
+1500792970,"Puhi-Hanamaulu CCD, Kauai County, Hawaii",82101.0,007,92970,15
+1500791260,"Kaumakani-Hanapepe CCD, Kauai County, Hawaii",77875.0,007,91260,15
+1500790180,"Eleele-Kalaheo CCD, Kauai County, Hawaii",83125.0,007,90180,15
+1500791080,"Kapaa CCD, Kauai County, Hawaii",96250.0,007,91080,15
+1500793780,"Wailua-Anahola CCD, Kauai County, Hawaii",65638.0,007,93780,15
+1500790540,"Hanalei CCD, Kauai County, Hawaii",48393.0,007,90540,15
+1500791620,"Koloa-Poipu CCD, Kauai County, Hawaii",69500.0,007,91620,15
+1500590990,"Kalawao CCD, Kalawao County, Hawaii",38125.0,005,90990,15

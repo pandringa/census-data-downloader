@@ -1,0 +1,72 @@
+B01002_001E,B01002_002E,B01002_003E,name,county,county subdivision,state
+56.2,63.4,49.6,"Dixie Valley CCD, Churchill County, Nevada",001,94238,32
+38.9,37.7,40.8,"Fallon CCD, Churchill County, Nevada",001,94308,32
+-666666666.0,-666666666.0,-666666666.0,"Carson Sink CCD, Churchill County, Nevada",001,94154,32
+53.1,53.8,51.8,"Genoa-Jacks Valley CCD, Douglas County, Nevada",005,94378,32
+62.2,62.1,63.5,"Pine Nut CCD, Douglas County, Nevada",005,94658,32
+54.4,55.8,52.5,"Zephyr Cove CCD, Douglas County, Nevada",005,94952,32
+48.7,46.8,50.5,"Gardnerville-Minden CCD, Douglas County, Nevada",005,94364,32
+56.0,54.9,57.2,"Topaz Lake CCD, Douglas County, Nevada",005,94826,32
+36.8,33.1,42.7,"Battle Mountain CCD, Lander County, Nevada",015,94070,32
+53.9,65.2,51.3,"Austin CCD, Lander County, Nevada",015,94042,32
+41.6,41.8,38.8,"Lovelock CCD, Pershing County, Nevada",027,94518,32
+44.8,44.5,53.4,"Imlay CCD, Pershing County, Nevada",027,94448,32
+44.9,55.1,40.1,"McDermitt CCD, Humboldt County, Nevada",013,94546,32
+37.2,35.3,39.5,"Goldfield CCD, Esmeralda County, Nevada",009,94420,32
+51.4,51.8,50.8,"Beowawe CCD, Eureka County, Nevada",011,94098,32
+46.5,47.7,44.3,"Eureka CCD, Eureka County, Nevada",011,94294,32
+48.6,51.6,46.9,"Golconda CCD, Humboldt County, Nevada",013,94406,32
+58.3,44.8,58.8,"Mina CCD, Mineral County, Nevada",021,94588,32
+65.3,54.8,65.5,"Summit Lake CCD, Humboldt County, Nevada",013,94798,32
+33.9,33.9,33.9,"Winnemucca CCD, Humboldt County, Nevada",013,94910,32
+50.6,51.5,50.3,"Hawthorne CCD, Mineral County, Nevada",021,94434,32
+28.3,28.5,28.2,"Walker River CCD, Mineral County, Nevada",021,94868,32
+-666666666.0,-666666666.0,-666666666.0,"Cherry Creek CCD, White Pine County, Nevada",033,94168,32
+39.1,38.4,39.5,"Ely CCD, White Pine County, Nevada",033,94280,32
+47.2,37.9,53.5,"McGill CCD, White Pine County, Nevada",033,94560,32
+60.3,60.4,59.9,"Lund CCD, White Pine County, Nevada",033,94532,32
+36.3,34.6,53.7,"Ruth CCD, White Pine County, Nevada",033,94742,32
+32.4,34.5,29.0,"Baker CCD, White Pine County, Nevada",033,94056,32
+35.1,33.9,35.6,"Wells CCD, Elko County, Nevada",007,94882,32
+34.4,31.8,40.7,"Jackpot CCD, Elko County, Nevada",007,94476,32
+29.2,20.0,32.1,"West Wendover CCD, Elko County, Nevada",007,94896,32
+34.2,34.2,34.3,"Elko CCD, Elko County, Nevada",007,94266,32
+58.0,58.3,56.7,"Montello CCD, Elko County, Nevada",007,94602,32
+38.1,38.7,36.8,"Carlin CCD, Elko County, Nevada",007,94126,32
+27.1,47.0,18.6,"Jarbidge CCD, Elko County, Nevada",007,94490,32
+37.4,39.4,37.2,"Mountain City CCD, Elko County, Nevada",007,94616,32
+36.6,45.4,34.4,"Alamo CCD, Lincoln County, Nevada",017,94014,32
+44.1,44.1,44.2,"Caliente CCD, Lincoln County, Nevada",017,94112,32
+43.1,41.3,44.3,"Pioche CCD, Lincoln County, Nevada",017,94672,32
+23.0,26.5,18.2,"Amargosa Valley CCD, Nye County, Nevada",023,94028,32
+43.7,44.2,43.4,"Round Mountain CCD, Nye County, Nevada",023,94728,32
+54.6,54.0,55.3,"Pahrump CCD, Nye County, Nevada",023,94644,32
+-666666666.0,-666666666.0,-666666666.0,"Yucca Flat CCD, Nye County, Nevada",023,94938,32
+29.7,27.1,34.2,"Duckwater CCD, Nye County, Nevada",023,94252,32
+61.6,65.1,59.7,"Clark CCD, Storey County, Nevada",029,94196,32
+54.0,54.5,45.7,"Gabbs CCD, Nye County, Nevada",023,94350,32
+44.8,56.6,30.6,"Beatty CCD, Nye County, Nevada",023,94084,32
+41.4,43.4,41.2,"Tonopah CCD, Nye County, Nevada",023,94812,32
+52.0,52.4,51.6,"Virginia City CCD, Storey County, Nevada",029,94854,32
+47.2,47.4,40.8,"High Desert CCD, Washoe County, Nevada",031,94440,32
+34.7,34.0,35.9,"Sun Valley CCD, Washoe County, Nevada",031,94804,32
+35.4,35.9,35.0,"Reno Southeast CCD, Washoe County, Nevada",031,94709,32
+36.6,33.5,44.1,"Pyramid Lake CCD, Washoe County, Nevada",031,94686,32
+53.6,53.0,53.8,"Verdi CCD, Washoe County, Nevada",031,94840,32
+39.3,38.9,39.6,"Warm Springs-Truckee Canyon CCD, Washoe County, Nevada",031,94871,32
+47.7,47.2,48.1,"Reno Southwest CCD, Washoe County, Nevada",031,94712,32
+34.7,33.9,35.6,"North Valleys CCD, Washoe County, Nevada",031,94635,32
+37.9,36.1,39.7,"Sparks CCD, Washoe County, Nevada",031,94794,32
+52.3,52.5,52.2,"Washoe Valley CCD, Washoe County, Nevada",031,94874,32
+32.5,32.1,32.8,"Reno North CCD, Washoe County, Nevada",031,94703,32
+49.1,49.7,48.4,"Incline Village CCD, Washoe County, Nevada",031,94462,32
+36.5,35.9,37.2,"Las Vegas CCD, Clark County, Nevada",003,94504,32
+40.2,39.6,40.8,"Clark CCD, Clark County, Nevada",003,94182,32
+43.0,40.6,44.8,"Carson City CCD, Carson City, Nevada",510,94140,32
+43.8,40.8,45.3,"Dayton CCD, Lyon County, Nevada",019,94224,32
+52.4,52.2,52.6,"Silver Springs CCD, Lyon County, Nevada",019,94777,32
+56.4,53.6,58.6,"Smith Valley CCD, Lyon County, Nevada",019,94784,32
+39.8,41.9,37.7,"Fernley CCD, Lyon County, Nevada",019,94322,32
+45.6,44.6,51.0,"Yerington CCD, Lyon County, Nevada",019,94924,32
+59.4,-666666666.0,51.3,"Ralston Valley CCD, Nye County, Nevada",023,94701,32
+52.1,58.2,48.3,"Silver Peak CCD, Esmeralda County, Nevada",009,94770,32

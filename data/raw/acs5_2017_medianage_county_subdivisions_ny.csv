@@ -1,0 +1,1024 @@
+B01002_001E,B01002_002E,B01002_003E,name,county,county subdivision,state
+44.2,41.1,47.3,"Canisteo town, Steuben County, New York",101,12265,36
+45.1,41.8,48.3,"Thurston town, Steuben County, New York",101,73836,36
+55.5,53.3,56.4,"Urbana town, Steuben County, New York",101,76496,36
+39.2,37.4,40.6,"Corning city, Steuben County, New York",101,18256,36
+47.1,47.2,46.9,"Fremont town, Steuben County, New York",101,27551,36
+41.2,42.2,38.7,"Howard town, Steuben County, New York",101,35837,36
+46.5,45.4,50.0,"Pulteney town, Steuben County, New York",101,59982,36
+43.4,42.1,46.3,"Wheeler town, Steuben County, New York",101,81457,36
+42.0,43.7,38.5,"Lindley town, Steuben County, New York",101,42576,36
+47.0,49.0,46.5,"Avoca town, Steuben County, New York",101,03342,36
+45.3,45.0,45.5,"Caton town, Steuben County, New York",101,12991,36
+41.3,40.2,43.5,"Tuscarora town, Steuben County, New York",101,75737,36
+36.2,35.0,36.8,"Troupsburg town, Steuben County, New York",101,75440,36
+35.0,35.4,34.7,"Rathbone town, Steuben County, New York",101,60653,36
+53.7,53.1,54.4,"Wayne town, Steuben County, New York",101,78883,36
+47.4,50.0,47.1,"West Union town, Steuben County, New York",101,81105,36
+41.8,40.9,44.6,"Volney town, Oswego County, New York",075,77662,36
+20.7,20.9,20.5,"Oswego town, Oswego County, New York",075,55585,36
+43.0,41.6,43.4,"Palermo town, Oswego County, New York",075,56154,36
+45.1,45.1,45.1,"Scriba town, Oswego County, New York",075,65992,36
+35.9,35.6,37.4,"Williamstown town, Oswego County, New York",075,82073,36
+36.8,36.7,36.9,"Richland town, Oswego County, New York",075,61533,36
+40.1,41.3,38.8,"Albion town, Oswego County, New York",075,01055,36
+40.4,38.7,41.9,"Mexico town, Oswego County, New York",075,46822,36
+44.6,44.6,47.1,"Redfield town, Oswego County, New York",075,60873,36
+32.8,28.7,44.3,"Orwell town, Oswego County, New York",075,55453,36
+42.3,41.6,43.7,"Parish town, Oswego County, New York",075,56352,36
+39.4,39.0,39.7,"Hannibal town, Oswego County, New York",075,32028,36
+47.4,45.8,48.1,"Laurens town, Otsego County, New York",077,41531,36
+43.5,43.2,46.1,"Decatur town, Otsego County, New York",077,19895,36
+21.9,22.7,21.6,"Oneonta city, Otsego County, New York",077,54881,36
+45.7,45.5,46.1,"Edmeston town, Otsego County, New York",077,23613,36
+48.4,46.2,50.1,"Maryland town, Otsego County, New York",077,45920,36
+42.8,44.5,42.2,"Morris town, Otsego County, New York",077,48494,36
+43.8,41.4,47.8,"Oneonta town, Otsego County, New York",077,54892,36
+45.0,38.5,49.1,"Richfield town, Otsego County, New York",077,61467,36
+47.6,48.4,47.2,"Roseboom town, Otsego County, New York",077,63638,36
+51.2,52.5,50.8,"Worcester town, Otsego County, New York",077,83129,36
+49.6,49.2,50.3,"Otego town, Otsego County, New York",077,55629,36
+44.3,45.6,40.7,"Pittsfield town, Otsego County, New York",077,58343,36
+-666666666.0,-666666666.0,-666666666.0,"County subdivisions not defined, Wayne County, New York",117,00000,36
+43.6,44.1,42.9,"Marion town, Wayne County, New York",117,45645,36
+46.4,46.4,46.6,"Williamson town, Wayne County, New York",117,82040,36
+46.1,44.3,46.8,"Ontario town, Wayne County, New York",117,55013,36
+41.0,39.7,43.3,"Wolcott town, Wayne County, New York",117,82689,36
+41.0,35.6,44.2,"Knox town, Albany County, New York",001,40002,36
+30.9,30.7,31.2,"Albany city, Albany County, New York",001,01000,36
+39.8,39.1,41.1,"Cohoes city, Albany County, New York",001,16749,36
+37.6,35.1,40.2,"Watervliet city, Albany County, New York",001,78674,36
+47.7,47.1,48.3,"Berne town, Albany County, New York",001,06211,36
+42.8,40.9,45.0,"Bethlehem town, Albany County, New York",001,06354,36
+41.1,39.3,43.2,"Colonie town, Albany County, New York",001,17343,36
+39.4,32.8,40.8,"Green Island town, Albany County, New York",001,30532,36
+40.0,38.4,41.5,"Guilderland town, Albany County, New York",001,31104,36
+45.7,42.5,48.4,"Chautauqua town, Chautauqua County, New York",013,14069,36
+49.4,49.9,48.3,"North Harmony town, Chautauqua County, New York",013,52155,36
+31.3,27.2,34.6,"Pomfret town, Chautauqua County, New York",013,58981,36
+-666666666.0,-666666666.0,-666666666.0,"County subdivisions not defined, Chautauqua County, New York",013,00000,36
+39.1,38.8,39.3,"Dunkirk city, Chautauqua County, New York",013,21105,36
+29.0,28.1,31.0,"Sherman town, Chautauqua County, New York",013,66960,36
+52.7,53.1,51.4,"Villenova town, Chautauqua County, New York",013,77530,36
+46.0,45.1,49.0,"Mina town, Chautauqua County, New York",013,47592,36
+38.0,33.5,44.6,"Portland town, Chautauqua County, New York",013,59421,36
+54.0,54.9,53.0,"Carroll town, Chautauqua County, New York",013,12639,36
+42.3,40.6,43.7,"Charlotte town, Chautauqua County, New York",013,13860,36
+40.6,42.3,38.0,"Stockton town, Chautauqua County, New York",013,71476,36
+49.2,45.0,54.2,"Westfield town, Chautauqua County, New York",013,79950,36
+44.5,39.2,48.1,"Arkwright town, Chautauqua County, New York",013,02605,36
+38.1,36.5,39.3,"Jamestown city, Chautauqua County, New York",013,38264,36
+43.9,43.4,45.3,"Ripley town, Chautauqua County, New York",013,61885,36
+49.0,46.7,50.8,"Busti town, Chautauqua County, New York",013,11451,36
+46.0,42.7,50.1,"Ellicott town, Chautauqua County, New York",013,23998,36
+49.5,48.2,50.0,"Ellery town, Chautauqua County, New York",013,23976,36
+44.9,44.9,44.8,"Hanover town, Chautauqua County, New York",013,32050,36
+40.6,42.1,40.3,"Poland town, Chautauqua County, New York",013,58926,36
+39.4,38.9,41.5,"Cherry Creek town, Chautauqua County, New York",013,15198,36
+35.4,35.3,35.8,"French Creek town, Chautauqua County, New York",013,27606,36
+43.4,45.5,42.0,"Harmony town, Chautauqua County, New York",013,32248,36
+44.0,45.3,43.3,"Kiantone town, Chautauqua County, New York",013,39507,36
+50.0,47.8,51.6,"Sheridan town, Chautauqua County, New York",013,66916,36
+57.7,54.7,60.1,"Dunkirk town, Chautauqua County, New York",013,21116,36
+32.6,31.0,33.1,"Clymer town, Chautauqua County, New York",013,16595,36
+51.6,49.0,52.6,"Gerry town, Chautauqua County, New York",013,28838,36
+40.6,39.6,41.5,"Ellington town, Chautauqua County, New York",013,24053,36
+34.8,33.3,36.2,"Brooklyn borough, Kings County, New York",047,10022,36
+37.1,36.5,37.6,"Manhattan borough, New York County, New York",061,44919,36
+39.9,39.3,42.1,"Barton town, Tioga County, New York",107,04671,36
+43.2,44.2,42.6,"Richford town, Tioga County, New York",107,61511,36
+48.9,49.7,47.5,"Berkshire town, Tioga County, New York",107,06145,36
+46.2,43.3,48.4,"New Scotland town, Albany County, New York",001,50672,36
+48.6,46.4,51.4,"Westerlo town, Albany County, New York",001,79851,36
+42.4,41.1,44.7,"Coeymans town, Albany County, New York",001,16694,36
+49.2,48.6,50.1,"Rensselaerville town, Albany County, New York",001,61181,36
+31.8,30.1,36.8,"Belfast town, Allegany County, New York",003,05573,36
+39.9,31.7,50.3,"Ward town, Allegany County, New York",003,78201,36
+32.5,23.5,40.2,"Allen town, Allegany County, New York",003,01319,36
+43.3,39.9,46.4,"Angelica town, Allegany County, New York",003,02187,36
+49.6,49.7,49.6,"Clarksville town, Allegany County, New York",003,15990,36
+47.1,49.4,44.5,"Genesee town, Allegany County, New York",003,28563,36
+38.2,40.5,34.4,"Friendship town, Allegany County, New York",003,27705,36
+55.9,59.0,54.5,"Grove town, Allegany County, New York",003,30994,36
+45.8,45.3,47.7,"Plainfield town, Otsego County, New York",077,58420,36
+44.2,44.7,43.3,"Westford town, Otsego County, New York",077,79972,36
+41.6,41.7,41.5,"Burlington town, Otsego County, New York",077,11209,36
+46.1,43.7,48.0,"Unadilla town, Otsego County, New York",077,76012,36
+49.5,49.7,48.9,"Exeter town, Otsego County, New York",077,24845,36
+53.9,53.1,54.9,"Middlefield town, Otsego County, New York",077,46910,36
+43.0,42.1,44.1,"Cherry Valley town, Otsego County, New York",077,15253,36
+50.1,49.5,50.5,"Butternuts town, Otsego County, New York",077,11528,36
+45.6,45.7,44.8,"Milford town, Otsego County, New York",077,47240,36
+47.6,48.1,47.2,"New Lisbon town, Otsego County, New York",077,50485,36
+51.4,48.6,54.6,"Otsego town, Otsego County, New York",077,55695,36
+41.6,40.3,43.7,"Hartwick town, Otsego County, New York",077,32589,36
+45.5,48.1,41.8,"Springfield town, Otsego County, New York",077,70310,36
+48.5,46.7,49.3,"Athens town, Greene County, New York",039,02913,36
+24.4,25.6,23.8,"Jasper town, Steuben County, New York",101,38319,36
+38.8,43.1,36.3,"Cameron town, Steuben County, New York",101,11880,36
+42.5,42.9,41.8,"Corning town, Steuben County, New York",101,18267,36
+43.2,44.4,39.6,"Dansville town, Steuben County, New York",101,19675,36
+41.5,43.9,37.8,"Hartsville town, Steuben County, New York",101,32567,36
+43.0,42.0,43.1,"Cohocton town, Steuben County, New York",101,16738,36
+39.8,37.4,42.3,"Erwin town, Steuben County, New York",101,24647,36
+38.2,36.5,39.2,"Hornell city, Steuben County, New York",101,35672,36
+43.0,37.4,46.3,"Prattsburgh town, Steuben County, New York",101,59718,36
+48.6,44.9,51.3,"Hornellsville town, Steuben County, New York",101,35683,36
+47.8,50.3,46.2,"Greenwood town, Steuben County, New York",101,30741,36
+40.5,41.5,39.3,"Bradford town, Steuben County, New York",101,07740,36
+63.2,63.3,53.2,"Arietta town, Hamilton County, New York",041,02572,36
+54.1,48.3,62.7,"Indian Lake town, Hamilton County, New York",041,37374,36
+39.7,55.1,39.2,"Hope town, Hamilton County, New York",041,35496,36
+59.7,61.4,57.9,"Lake Pleasant town, Hamilton County, New York",041,40794,36
+65.2,65.3,64.9,"Morehouse town, Hamilton County, New York",041,48340,36
+57.7,61.4,52.3,"Long Lake town, Hamilton County, New York",041,43412,36
+51.8,47.9,58.4,"Wells town, Hamilton County, New York",041,79059,36
+40.5,40.6,33.9,"Benson town, Hamilton County, New York",041,05958,36
+36.8,64.3,36.5,"Inlet town, Hamilton County, New York",041,37495,36
+47.3,46.8,47.6,"Argyle town, Washington County, New York",115,02561,36
+42.8,41.3,45.1,"Cambridge town, Washington County, New York",115,11836,36
+50.0,48.9,50.3,"Wirt town, Allegany County, New York",003,82623,36
+48.2,48.4,46.9,"Alma town, Allegany County, New York",003,01429,36
+52.4,54.5,50.5,"Birdsall town, Allegany County, New York",003,06717,36
+38.9,38.6,41.0,"Granger town, Allegany County, New York",003,29905,36
+36.9,37.2,35.6,"Bolivar town, Allegany County, New York",003,07201,36
+41.5,41.9,39.0,"Burns town, Allegany County, New York",003,11253,36
+22.0,23.2,21.7,"Caneadea town, Allegany County, New York",003,12243,36
+31.2,32.8,29.8,"Centerville town, Allegany County, New York",003,13475,36
+42.0,42.8,41.5,"Independence town, Allegany County, New York",003,37297,36
+39.6,38.9,39.8,"New Hudson town, Allegany County, New York",003,50375,36
+45.4,45.1,46.5,"West Almond town, Allegany County, New York",003,79202,36
+43.9,46.7,42.1,"Andover town, Allegany County, New York",003,02154,36
+44.2,42.3,45.7,"Willing town, Allegany County, New York",003,82095,36
+50.8,49.8,52.6,"Rushford town, Allegany County, New York",003,64166,36
+49.1,44.8,50.5,"Scio town, Allegany County, New York",003,65772,36
+47.5,45.1,49.2,"Wellsville town, Allegany County, New York",003,79103,36
+20.3,20.2,20.3,"Alfred town, Allegany County, New York",003,01209,36
+40.6,40.0,41.2,"Almond town, Allegany County, New York",003,01451,36
+40.1,37.6,43.3,"Hume town, Allegany County, New York",003,36112,36
+46.6,46.6,46.6,"Cuba town, Allegany County, New York",003,19367,36
+39.9,41.8,39.5,"Amity town, Allegany County, New York",003,02011,36
+44.4,45.1,44.1,"Chenango town, Broome County, New York",007,15110,36
+45.0,45.7,43.3,"Maine town, Broome County, New York",007,44611,36
+41.7,37.4,45.5,"Colesville town, Broome County, New York",007,17046,36
+43.4,43.7,43.2,"Conklin town, Broome County, New York",007,17772,36
+40.3,40.3,40.3,"Spencer town, Tioga County, New York",107,70178,36
+38.4,38.8,37.7,"Candor town, Tioga County, New York",107,12221,36
+42.1,45.5,37.6,"Nichols town, Tioga County, New York",107,51121,36
+47.5,46.2,47.8,"Tioga town, Tioga County, New York",107,73968,36
+45.6,42.5,48.4,"Owego town, Tioga County, New York",107,55893,36
+45.1,43.0,46.3,"Newark Valley town, Tioga County, New York",107,49913,36
+43.1,41.5,44.4,"Cato town, Cayuga County, New York",011,12969,36
+52.4,51.6,52.8,"Fleming town, Cayuga County, New York",011,26231,36
+43.7,42.2,44.7,"Springport town, Cayuga County, New York",011,70376,36
+42.7,42.7,42.7,"Summerhill town, Cayuga County, New York",011,72037,36
+40.5,39.1,44.3,"Venice town, Cayuga County, New York",011,77024,36
+43.5,43.8,42.4,"Victory town, Cayuga County, New York",011,77420,36
+43.2,41.1,44.4,"Brutus town, Cayuga County, New York",011,10297,36
+44.1,44.2,43.8,"Niles town, Cayuga County, New York",011,51198,36
+47.6,47.2,47.9,"Throop town, Cayuga County, New York",011,73770,36
+37.4,35.5,39.5,"Scipio town, Cayuga County, New York",011,65816,36
+39.0,37.3,39.5,"Mentz town, Cayuga County, New York",011,46602,36
+44.8,41.9,45.7,"Kirkwood town, Broome County, New York",007,39837,36
+41.6,39.5,44.0,"Union town, Broome County, New York",007,76056,36
+36.4,33.9,39.5,"Binghamton city, Broome County, New York",007,06607,36
+45.4,43.0,46.0,"Nanticoke town, Broome County, New York",007,49396,36
+46.2,45.6,46.6,"Barker town, Broome County, New York",007,04429,36
+40.2,43.1,35.8,"Lisle town, Broome County, New York",007,42653,36
+42.4,37.9,45.0,"Windsor town, Broome County, New York",007,82535,36
+47.8,44.8,48.7,"Binghamton town, Broome County, New York",007,06618,36
+39.6,31.9,45.2,"Triangle town, Broome County, New York",007,75319,36
+41.2,37.8,43.6,"Dickinson town, Broome County, New York",007,20588,36
+49.3,51.3,47.2,"Sanford town, Broome County, New York",007,65112,36
+44.7,41.4,46.3,"Fenton town, Broome County, New York",007,25604,36
+26.4,25.0,29.6,"Vestal town, Broome County, New York",007,77255,36
+45.4,44.9,46.8,"Persia town, Cattaraugus County, New York",009,57331,36
+50.6,50.2,52.3,"Farmersville town, Cattaraugus County, New York",009,25340,36
+42.6,43.7,41.2,"Freedom town, Cattaraugus County, New York",009,27441,36
+25.9,26.9,24.7,"Leon town, Cattaraugus County, New York",009,41982,36
+58.5,59.5,57.7,"South Valley town, Cattaraugus County, New York",009,69870,36
+43.3,40.3,46.0,"Yorkshire town, Cattaraugus County, New York",009,84055,36
+37.3,34.6,40.5,"Allegany Reservation, Cattaraugus County, New York",009,01308,36
+49.7,49.3,50.1,"Ellicottville town, Cattaraugus County, New York",009,24031,36
+48.0,49.1,47.9,"Mansfield town, Cattaraugus County, New York",009,45161,36
+45.7,43.6,47.4,"Portville town, Cattaraugus County, New York",009,59509,36
+44.7,44.9,44.5,"Hinsdale town, Cattaraugus County, New York",009,34946,36
+60.4,58.8,61.8,"Newcomb town, Essex County, New York",031,50144,36
+49.3,49.7,48.7,"St. Armand town, Essex County, New York",031,64529,36
+57.3,58.0,56.0,"Schroon town, Essex County, New York",031,65629,36
+45.0,41.7,49.4,"Wilmington town, Essex County, New York",031,82315,36
+50.2,47.9,50.7,"Lewis town, Essex County, New York",031,42114,36
+54.2,54.7,52.8,"Minerva town, Essex County, New York",031,47669,36
+39.9,37.7,45.4,"North Elba town, Essex County, New York",031,51935,36
+55.1,55.1,55.1,"Essex town, Essex County, New York",031,24768,36
+52.4,51.2,53.3,"Willsboro town, Essex County, New York",031,82271,36
+55.0,51.6,56.3,"Westport town, Essex County, New York",031,80775,36
+54.5,55.4,53.6,"North Hudson town, Essex County, New York",031,53077,36
+44.7,42.9,45.8,"Ticonderoga town, Essex County, New York",031,73891,36
+54.7,52.2,57.5,"Elizabethtown town, Essex County, New York",031,23833,36
+46.4,43.2,48.0,"Moriah town, Essex County, New York",031,48428,36
+46.2,44.6,49.0,"Jay town, Essex County, New York",031,38396,36
+50.7,49.8,53.1,"Keene town, Essex County, New York",031,39067,36
+47.4,48.0,46.8,"Chesterfield town, Essex County, New York",031,15330,36
+44.9,43.5,49.7,"Crown Point town, Essex County, New York",031,19246,36
+36.7,35.7,38.6,"Amsterdam city, Montgomery County, New York",057,02066,36
+51.9,47.0,55.7,"Amsterdam town, Montgomery County, New York",057,02077,36
+42.7,40.7,43.8,"Palatine town, Montgomery County, New York",057,56099,36
+38.0,37.9,38.3,"Charleston town, Montgomery County, New York",057,13816,36
+41.4,41.0,42.8,"Minden town, Montgomery County, New York",057,47614,36
+38.4,40.4,37.0,"Root town, Montgomery County, New York",057,63561,36
+49.2,48.4,49.8,"Florida town, Montgomery County, New York",057,26308,36
+36.5,35.3,36.9,"St. Johnsville town, Montgomery County, New York",057,64650,36
+45.4,43.2,47.9,"Mohawk town, Montgomery County, New York",057,47834,36
+37.2,38.7,33.9,"Canajoharie town, Montgomery County, New York",057,12122,36
+35.0,34.6,36.0,"Glen town, Montgomery County, New York",057,29047,36
+44.3,42.2,45.5,"Long Beach city, Nassau County, New York",059,43335,36
+40.1,38.1,41.8,"Hempstead town, Nassau County, New York",059,34000,36
+44.2,42.8,45.6,"Oyster Bay town, Nassau County, New York",059,56000,36
+42.6,40.8,44.2,"North Hempstead town, Nassau County, New York",059,53000,36
+38.1,36.2,40.1,"Glen Cove city, Nassau County, New York",059,29113,36
+39.9,38.1,41.3,"Staten Island borough, Richmond County, New York",085,70915,36
+26.1,23.5,28.4,"De Peyster town, St. Lawrence County, New York",089,20335,36
+36.3,33.3,43.8,"Gouverneur town, St. Lawrence County, New York",089,29608,36
+39.6,39.7,39.5,"Hammond town, St. Lawrence County, New York",089,31841,36
+43.5,42.9,47.2,"Lisbon town, St. Lawrence County, New York",089,42631,36
+40.2,40.3,40.0,"Parishville town, St. Lawrence County, New York",089,56374,36
+44.6,44.2,45.3,"Pierrepont town, St. Lawrence County, New York",089,57771,36
+42.6,44.2,41.2,"Fowler town, St. Lawrence County, New York",089,27100,36
+41.1,43.2,35.1,"Hopkinton town, St. Lawrence County, New York",089,35595,36
+36.5,31.3,40.2,"Brasher town, St. Lawrence County, New York",089,07938,36
+33.3,33.8,32.2,"De Kalb town, St. Lawrence County, New York",089,20038,36
+55.4,55.5,55.4,"Dresden town, Washington County, New York",115,20885,36
+48.6,49.7,47.9,"Hampton town, Washington County, New York",115,31885,36
+43.7,42.4,45.9,"Fort Edward town, Washington County, New York",115,26781,36
+44.4,45.6,42.5,"Hartford town, Washington County, New York",115,32457,36
+48.7,46.5,50.3,"Hebron town, Washington County, New York",115,33040,36
+39.1,37.1,40.9,"Whitehall town, Washington County, New York",115,81633,36
+46.3,45.5,47.2,"Granville town, Washington County, New York",115,30037,36
+53.4,52.3,53.9,"Jackson town, Washington County, New York",115,38143,36
+55.1,52.5,55.2,"Putnam town, Washington County, New York",115,60092,36
+47.1,42.0,50.4,"Salem town, Washington County, New York",115,64782,36
+49.8,53.1,46.9,"White Creek town, Washington County, New York",115,81578,36
+38.9,36.9,44.9,"Fort Ann town, Washington County, New York",115,26715,36
+44.6,42.0,48.6,"Easton town, Washington County, New York",115,22656,36
+45.8,45.1,47.2,"Greenwich town, Washington County, New York",115,30686,36
+37.4,36.0,39.8,"Kingsbury town, Washington County, New York",115,39650,36
+45.1,40.4,47.1,"Cairo town, Greene County, New York",039,11649,36
+52.4,54.6,52.2,"Hunter town, Greene County, New York",039,36178,36
+48.5,50.2,45.5,"New Baltimore town, Greene County, New York",039,49935,36
+55.0,53.2,56.7,"Windham town, Greene County, New York",039,82480,36
+37.9,36.3,44.7,"Coxsackie town, Greene County, New York",039,18729,36
+44.3,45.4,40.3,"Greenville town, Greene County, New York",039,30620,36
+60.8,60.8,60.8,"Jewett town, Greene County, New York",039,38638,36
+57.8,59.8,57.1,"Halcott town, Greene County, New York",039,31379,36
+55.6,49.3,59.3,"Ashland town, Greene County, New York",039,02803,36
+43.9,42.9,44.3,"Durham town, Greene County, New York",039,21204,36
+53.4,53.1,53.8,"Prattsville town, Greene County, New York",039,59751,36
+44.7,42.3,46.0,"Catskill town, Greene County, New York",039,13013,36
+60.3,58.7,61.7,"Lexington town, Greene County, New York",039,42202,36
+33.3,29.8,36.2,"Galen town, Wayne County, New York",117,28013,36
+46.2,46.8,45.8,"Arcadia town, Wayne County, New York",117,02440,36
+43.2,41.7,45.5,"Macedon town, Wayne County, New York",117,44160,36
+43.1,42.3,44.9,"Sodus town, Wayne County, New York",117,68220,36
+46.1,47.4,45.1,"Savannah town, Wayne County, New York",117,65343,36
+47.2,45.5,49.4,"Huron town, Wayne County, New York",117,37165,36
+42.1,42.2,42.0,"Lyons town, Wayne County, New York",117,43973,36
+41.1,39.9,42.7,"Butler town, Wayne County, New York",117,11473,36
+43.2,43.2,43.2,"Palmyra town, Wayne County, New York",117,56198,36
+44.7,46.5,40.0,"Rose town, Wayne County, New York",117,63605,36
+40.8,40.4,40.8,"Walworth town, Wayne County, New York",117,78102,36
+41.1,40.3,45.1,"Moravia town, Cayuga County, New York",011,48307,36
+44.6,46.6,43.3,"Locke town, Cayuga County, New York",011,43071,36
+43.1,44.6,41.4,"Sempronius town, Cayuga County, New York",011,66278,36
+47.5,45.3,48.3,"Sennett town, Cayuga County, New York",011,66443,36
+47.4,45.2,48.8,"Sterling town, Cayuga County, New York",011,71146,36
+38.6,37.3,40.9,"Auburn city, Cayuga County, New York",011,03078,36
+47.1,46.1,48.5,"Aurelius town, Cayuga County, New York",011,03166,36
+40.5,41.0,38.1,"Ledyard town, Cayuga County, New York",011,41740,36
+-666666666.0,-666666666.0,-666666666.0,"County subdivisions not defined, Cayuga County, New York",011,00000,36
+37.3,38.9,35.3,"Ira town, Cayuga County, New York",011,37660,36
+42.4,44.1,41.4,"Montezuma town, Cayuga County, New York",011,48131,36
+50.5,49.8,52.4,"Owasco town, Cayuga County, New York",011,55871,36
+45.8,44.9,47.7,"Conquest town, Cayuga County, New York",011,17849,36
+45.8,47.8,45.1,"Genoa town, Cayuga County, New York",011,28673,36
+44.7,40.6,46.8,"Yates town, Orleans County, New York",073,83448,36
+41.7,41.4,43.5,"Kendall town, Orleans County, New York",073,39188,36
+48.8,49.2,48.2,"Clarendon town, Orleans County, New York",073,15880,36
+38.9,37.7,41.3,"Murray town, Orleans County, New York",073,49286,36
+44.8,47.0,43.6,"Gaines town, Orleans County, New York",073,27958,36
+-666666666.0,-666666666.0,-666666666.0,"County subdivisions not defined, Orleans County, New York",073,00000,36
+38.8,35.9,40.0,"Ridgeway town, Orleans County, New York",073,61742,36
+51.0,49.6,53.3,"Highland town, Sullivan County, New York",105,34473,36
+41.0,41.2,40.8,"Mamakating town, Sullivan County, New York",105,44809,36
+52.8,54.2,51.5,"Tusten town, Sullivan County, New York",105,75759,36
+40.1,37.8,40.7,"Le Roy town, Genesee County, New York",037,42037,36
+46.1,46.0,46.3,"Pavilion town, Genesee County, New York",037,56792,36
+49.0,49.4,48.7,"Stafford town, Genesee County, New York",037,70607,36
+41.0,42.1,40.5,"Elba town, Genesee County, New York",037,23756,36
+38.5,36.7,40.1,"Batavia city, Genesee County, New York",037,04715,36
+43.8,45.8,38.4,"Darien town, Genesee County, New York",037,19719,36
+45.6,44.0,46.3,"Pembroke town, Genesee County, New York",037,57078,36
+42.2,42.2,42.4,"Alabama town, Genesee County, New York",037,00474,36
+51.5,47.6,53.7,"Batavia town, Genesee County, New York",037,04726,36
+42.9,43.5,41.9,"Byron town, Genesee County, New York",037,11572,36
+39.2,38.0,41.1,"Oakfield town, Genesee County, New York",037,54166,36
+44.5,45.6,42.9,"Bethany town, Genesee County, New York",037,06266,36
+44.3,43.3,46.7,"Alexander town, Genesee County, New York",037,01165,36
+43.9,43.6,44.5,"Bergen town, Genesee County, New York",037,06057,36
+43.4,43.2,43.6,"Benton town, Yates County, New York",123,06002,36
+44.8,43.0,49.3,"Milo town, Yates County, New York",123,47504,36
+38.7,38.5,40.9,"Starkey town, Yates County, New York",123,70816,36
+39.0,41.9,36.2,"Torrey town, Yates County, New York",123,75055,36
+32.4,28.1,34.3,"Potter town, Yates County, New York",123,59597,36
+46.9,49.3,43.5,"Italy town, Yates County, New York",123,38044,36
+38.4,39.7,36.2,"Jerusalem town, Yates County, New York",123,38583,36
+46.8,47.4,43.9,"Middlesex town, Yates County, New York",123,47020,36
+44.9,44.4,45.3,"Barrington town, Yates County, New York",123,04594,36
+41.8,41.3,42.1,"Hamptonburgh town, Orange County, New York",071,31907,36
+37.1,34.0,40.5,"Chester town, Orange County, New York",071,15308,36
+42.8,43.7,42.0,"Cornwall town, Orange County, New York",071,18300,36
+35.8,34.4,37.3,"Middletown city, Orange County, New York",071,47042,36
+42.3,42.5,42.1,"Crawford town, Orange County, New York",071,18916,36
+21.2,20.3,22.4,"Monroe town, Orange County, New York",071,47999,36
+38.6,35.2,42.1,"New Windsor town, Orange County, New York",071,50848,36
+47.0,44.5,49.0,"Tuxedo town, Orange County, New York",071,75781,36
+40.8,38.6,42.6,"Wallkill town, Orange County, New York",071,77992,36
+44.8,43.5,47.0,"Deerpark town, Orange County, New York",071,19961,36
+45.9,45.3,46.6,"Warwick town, Orange County, New York",071,78366,36
+43.3,40.0,47.8,"Goshen town, Orange County, New York",071,29553,36
+40.5,34.3,44.5,"Port Jervis city, Orange County, New York",071,59388,36
+23.2,22.3,30.7,"Highlands town, Orange County, New York",071,34550,36
+38.3,36.6,40.1,"Montgomery town, Orange County, New York",071,48153,36
+44.4,44.3,44.7,"Mount Hope town, Orange County, New York",071,48857,36
+39.2,36.1,42.0,"Woodbury town, Orange County, New York",071,82755,36
+27.9,27.4,28.9,"Newburgh city, Orange County, New York",071,50034,36
+40.8,39.5,42.2,"Minisink town, Orange County, New York",071,47713,36
+41.2,40.0,42.4,"Newburgh town, Orange County, New York",071,50045,36
+40.7,43.6,37.4,"Greenville town, Orange County, New York",071,30631,36
+44.5,46.9,42.2,"Lyndon town, Cattaraugus County, New York",009,43896,36
+42.9,36.9,46.6,"Machias town, Cattaraugus County, New York",009,44237,36
+47.5,45.3,48.8,"New Albion town, Cattaraugus County, New York",009,49880,36
+33.3,31.6,34.5,"Salamanca city, Cattaraugus County, New York",009,64749,36
+41.0,40.2,41.4,"Randolph town, Cattaraugus County, New York",009,60587,36
+32.3,31.6,32.7,"Red House town, Cattaraugus County, New York",009,60950,36
+44.6,44.1,45.7,"Olean town, Cattaraugus County, New York",009,54727,36
+45.9,45.0,47.9,"Perrysburg town, Cattaraugus County, New York",009,57298,36
+39.5,40.4,38.2,"Allegany town, Cattaraugus County, New York",009,01297,36
+44.4,46.3,38.7,"Carrollton town, Cattaraugus County, New York",009,12661,36
+35.4,33.8,37.9,"Little Valley town, Cattaraugus County, New York",009,42840,36
+43.7,49.2,39.3,"Otto town, Cattaraugus County, New York",009,55783,36
+41.1,41.1,41.0,"Ashford town, Cattaraugus County, New York",009,02759,36
+40.4,35.3,42.1,"Coldspring town, Cattaraugus County, New York",009,16903,36
+44.4,41.9,46.3,"Shelby town, Orleans County, New York",073,66751,36
+48.7,49.1,48.5,"Barre town, Orleans County, New York",073,04572,36
+37.2,36.2,39.0,"Albion town, Orleans County, New York",073,01044,36
+49.5,46.6,51.9,"Carlton town, Orleans County, New York",073,12496,36
+41.8,40.0,43.0,"Halfmoon town, Saratoga County, New York",091,31489,36
+42.9,42.6,43.2,"Malta town, Saratoga County, New York",091,44743,36
+35.8,35.4,37.5,"Mechanicville city, Saratoga County, New York",091,46360,36
+39.6,38.1,40.7,"Milton town, Saratoga County, New York",091,47537,36
+41.4,41.3,41.9,"Northumberland town, Saratoga County, New York",091,53737,36
+52.0,50.0,53.9,"Edinburg town, Saratoga County, New York",091,23591,36
+46.1,46.1,46.1,"Greenfield town, Saratoga County, New York",091,30444,36
+42.8,41.9,43.7,"Clifton Park town, Saratoga County, New York",091,16353,36
+44.0,43.0,45.0,"Providence town, Saratoga County, New York",091,59949,36
+39.9,37.2,41.1,"Saratoga town, Saratoga County, New York",091,65244,36
+49.1,48.3,49.4,"Charlton town, Saratoga County, New York",091,13926,36
+41.4,40.5,42.5,"Corinth town, Saratoga County, New York",091,18223,36
+44.1,42.8,45.7,"Moreau town, Saratoga County, New York",091,48318,36
+41.9,41.7,42.7,"Wilton town, Saratoga County, New York",091,82403,36
+44.5,43.7,45.3,"Ballston town, Saratoga County, New York",091,04220,36
+39.7,37.1,42.5,"Saratoga Springs city, Saratoga County, New York",091,65255,36
+43.4,43.1,43.6,"Stillwater town, Saratoga County, New York",091,71333,36
+38.4,36.3,40.5,"Waterford town, Saratoga County, New York",091,78531,36
+57.1,55.5,58.8,"Day town, Saratoga County, New York",091,19807,36
+48.3,46.0,50.7,"Galway town, Saratoga County, New York",091,28112,36
+47.9,48.1,47.9,"Hadley town, Saratoga County, New York",091,31269,36
+44.3,42.4,46.2,"Clarkstown town, Rockland County, New York",087,15968,36
+36.8,34.9,39.7,"Haverstraw town, Rockland County, New York",087,32765,36
+28.0,27.6,28.5,"Ramapo town, Rockland County, New York",087,60510,36
+43.0,40.9,44.3,"Stony Point town, Rockland County, New York",087,71674,36
+43.0,40.8,45.3,"Orangetown town, Rockland County, New York",087,55211,36
+48.3,42.8,51.7,"Canaan town, Columbia County, New York",021,12056,36
+50.6,50.2,50.9,"Claverack town, Columbia County, New York",021,16045,36
+48.2,47.2,48.9,"Kinderhook town, Columbia County, New York",021,39573,36
+40.3,40.4,40.0,"Stockport town, Columbia County, New York",021,71443,36
+48.8,49.0,48.5,"Copake town, Columbia County, New York",021,18102,36
+38.0,36.6,40.6,"Hudson city, Columbia County, New York",021,35969,36
+44.7,43.7,47.0,"Clermont town, Columbia County, New York",021,16177,36
+36.5,33.9,41.8,"Dayton town, Cattaraugus County, New York",009,19840,36
+51.4,53.1,47.7,"Great Valley town, Cattaraugus County, New York",009,30257,36
+38.3,39.6,37.8,"Humphrey town, Cattaraugus County, New York",009,36123,36
+40.8,38.0,43.5,"Olean city, Cattaraugus County, New York",009,54716,36
+52.3,56.3,50.9,"Ischua town, Cattaraugus County, New York",009,37825,36
+28.1,29.8,25.6,"Conewango town, Cattaraugus County, New York",009,17684,36
+42.9,44.9,41.5,"Napoli town, Cattaraugus County, New York",009,49462,36
+45.7,48.0,42.8,"Salamanca town, Cattaraugus County, New York",009,64760,36
+39.0,36.4,41.7,"Franklinville town, Cattaraugus County, New York",009,27342,36
+49.8,48.0,50.4,"East Otto town, Cattaraugus County, New York",009,22678,36
+37.3,36.3,38.4,"Lackawanna city, Erie County, New York",029,40189,36
+46.6,46.1,46.7,"Brant town, Erie County, New York",029,07894,36
+45.0,46.3,44.1,"Holland town, Erie County, New York",029,35122,36
+50.4,50.5,50.3,"Elma town, Erie County, New York",029,24130,36
+42.2,39.8,43.1,"North Collins town, Erie County, New York",029,51803,36
+44.1,43.8,44.3,"Wales town, Erie County, New York",029,77871,36
+48.4,45.2,50.7,"Eden town, Erie County, New York",029,23415,36
+47.1,45.7,48.3,"Evans town, Erie County, New York",029,24801,36
+49.0,47.2,52.7,"Boston town, Erie County, New York",029,07454,36
+40.1,37.0,43.1,"Amherst town, Erie County, New York",029,02000,36
+40.5,39.3,45.8,"Collins town, Erie County, New York",029,17200,36
+44.8,44.3,45.1,"Clarence town, Erie County, New York",029,15825,36
+-666666666.0,-666666666.0,-666666666.0,"County subdivisions not defined, Erie County, New York",029,00000,36
+42.0,40.4,44.5,"Alden town, Erie County, New York",029,01099,36
+42.7,40.2,44.6,"Cheektowaga town, Erie County, New York",029,15011,36
+41.9,42.4,41.0,"Grand Island town, Erie County, New York",029,29828,36
+43.5,42.1,44.6,"Hamburg town, Erie County, New York",029,31654,36
+43.4,41.4,46.1,"Tonawanda town, Erie County, New York",029,75000,36
+45.0,41.8,47.3,"West Seneca town, Erie County, New York",029,80918,36
+32.8,31.4,34.2,"Buffalo city, Erie County, New York",029,11000,36
+48.3,44.8,49.1,"Colden town, Erie County, New York",029,16870,36
+45.6,45.0,47.0,"Orchard Park town, Erie County, New York",029,55277,36
+43.9,42.4,46.7,"Sardinia town, Erie County, New York",029,65277,36
+46.4,44.5,47.1,"Concord town, Erie County, New York",029,17585,36
+36.2,33.6,38.5,"Lawrence town, St. Lawrence County, New York",089,41564,36
+50.7,48.6,51.9,"Louisville town, St. Lawrence County, New York",089,43588,36
+32.1,31.4,32.5,"Rossie town, St. Lawrence County, New York",089,63858,36
+36.1,36.7,32.1,"Clare town, St. Lawrence County, New York",089,15792,36
+27.8,27.8,27.8,"Canton town, St. Lawrence County, New York",089,12342,36
+40.0,37.0,44.0,"Macomb town, St. Lawrence County, New York",089,44391,36
+41.0,38.7,44.0,"Madrid town, St. Lawrence County, New York",089,44490,36
+52.8,53.6,50.9,"Morristown town, St. Lawrence County, New York",089,48582,36
+34.9,33.2,39.6,"Norfolk town, St. Lawrence County, New York",089,51330,36
+46.1,43.2,47.6,"Oswegatchie town, St. Lawrence County, New York",089,55563,36
+24.3,24.3,24.2,"Potsdam town, St. Lawrence County, New York",089,59575,36
+43.9,38.3,47.6,"Russell town, St. Lawrence County, New York",089,64221,36
+39.8,37.1,43.8,"Ogdensburg city, St. Lawrence County, New York",089,54485,36
+55.0,52.9,55.5,"Piercefield town, St. Lawrence County, New York",089,57716,36
+42.7,43.1,42.1,"Waddington town, St. Lawrence County, New York",089,77739,36
+52.9,49.1,55.4,"Colton town, St. Lawrence County, New York",089,17409,36
+44.1,46.4,42.7,"Edwards town, St. Lawrence County, New York",089,23646,36
+53.5,55.1,52.2,"Fine town, St. Lawrence County, New York",089,25791,36
+53.8,55.9,51.0,"Clifton town, St. Lawrence County, New York",089,16287,36
+48.1,43.4,50.8,"Hermon town, St. Lawrence County, New York",089,34176,36
+40.1,33.0,47.4,"Stockholm town, St. Lawrence County, New York",089,71410,36
+38.4,42.8,34.6,"Pitcairn town, St. Lawrence County, New York",089,58266,36
+41.3,40.0,42.1,"Massena town, St. Lawrence County, New York",089,46030,36
+41.0,44.3,38.1,"Orange town, Schuyler County, New York",097,55156,36
+43.0,41.3,47.1,"Catharine town, Schuyler County, New York",097,12914,36
+43.8,39.8,47.4,"Dix town, Schuyler County, New York",097,20676,36
+49.1,48.7,50.4,"Hector town, Schuyler County, New York",097,33073,36
+42.3,42.9,41.1,"Tyrone town, Schuyler County, New York",097,75924,36
+43.8,42.5,47.2,"Cayuta town, Schuyler County, New York",097,13112,36
+46.4,48.3,44.3,"Reading town, Schuyler County, New York",097,60763,36
+46.2,45.6,47.2,"Montour town, Schuyler County, New York",097,48186,36
+47.4,41.1,52.4,"Enfield town, Tompkins County, New York",109,24548,36
+43.2,36.0,47.6,"Groton town, Tompkins County, New York",109,30972,36
+26.9,26.1,28.5,"Ithaca town, Tompkins County, New York",109,38088,36
+21.8,21.9,21.8,"Ithaca city, Tompkins County, New York",109,38077,36
+37.6,38.8,37.0,"Lansing town, Tompkins County, New York",109,41234,36
+44.6,41.4,46.0,"Newfield town, Tompkins County, New York",109,50254,36
+50.2,48.5,52.0,"Ulysses town, Tompkins County, New York",109,75990,36
+50.7,51.2,50.2,"Danby town, Tompkins County, New York",109,19620,36
+38.2,36.6,39.3,"Dryden town, Tompkins County, New York",109,20962,36
+39.0,36.5,40.6,"Caroline town, Tompkins County, New York",109,12606,36
+46.7,45.3,47.7,"Chester town, Warren County, New York",113,15319,36
+54.5,56.0,52.3,"Stony Creek town, Warren County, New York",113,71641,36
+53.0,50.6,57.1,"Bolton town, Warren County, New York",113,07234,36
+58.2,57.7,58.5,"Hague town, Warren County, New York",113,31335,36
+49.5,51.2,47.8,"Lake George town, Warren County, New York",113,40519,36
+48.4,44.6,51.4,"Lake Luzerne town, Warren County, New York",113,40662,36
+45.5,46.0,43.8,"Warrensburg town, Warren County, New York",113,78300,36
+38.2,37.4,40.0,"Glens Falls city, Warren County, New York",113,29333,36
+54.7,54.4,55.0,"Horicon town, Warren County, New York",113,35639,36
+53.1,54.6,52.4,"Johnsburg town, Warren County, New York",113,38715,36
+47.3,43.6,49.4,"Thurman town, Warren County, New York",113,73814,36
+46.8,44.6,48.2,"Queensbury town, Warren County, New York",113,60356,36
+49.1,48.0,49.3,"Columbus town, Chenango County, New York",017,17486,36
+45.0,52.5,40.0,"German town, Chenango County, New York",017,28739,36
+47.9,43.8,49.2,"Lincklaen town, Chenango County, New York",017,42411,36
+49.5,50.8,47.9,"McDonough town, Chenango County, New York",017,44127,36
+42.6,44.2,41.0,"Norwich town, Chenango County, New York",017,53990,36
+39.5,38.1,45.6,"Sherburne town, Chenango County, New York",017,66894,36
+37.1,35.0,40.7,"Smithville town, Chenango County, New York",017,68055,36
+46.1,44.7,46.6,"Coventry town, Chenango County, New York",017,18619,36
+52.6,50.9,53.7,"Oxford town, Chenango County, New York",017,55959,36
+40.3,40.4,40.0,"Bainbridge town, Chenango County, New York",017,04044,36
+46.9,46.7,47.2,"North Norwich town, Chenango County, New York",017,53297,36
+42.6,44.1,41.9,"Otselic town, Chenango County, New York",017,55717,36
+42.7,40.6,46.5,"Preston town, Chenango County, New York",017,59817,36
+45.5,46.4,45.2,"Greene town, Chenango County, New York",017,30422,36
+48.9,45.0,52.1,"Guilford town, Chenango County, New York",017,31148,36
+34.8,34.5,35.1,"Norwich city, Chenango County, New York",017,53979,36
+49.3,50.5,48.3,"Pharsalia town, Chenango County, New York",017,57507,36
+45.1,44.0,45.6,"Plymouth town, Chenango County, New York",017,58772,36
+40.9,40.5,41.5,"Smyrna town, Chenango County, New York",017,68110,36
+46.2,44.8,48.6,"Pitcher town, Chenango County, New York",017,58288,36
+47.9,47.6,48.2,"New Berlin town, Chenango County, New York",017,49957,36
+49.4,49.2,50.0,"Afton town, Chenango County, New York",017,00353,36
+42.4,39.4,45.3,"Cortlandville town, Cortland County, New York",023,18421,36
+42.2,40.1,43.1,"Freetown town, Cortland County, New York",023,27496,36
+41.7,38.5,48.2,"Harford town, Cortland County, New York",023,32160,36
+45.2,46.5,42.0,"Preble town, Cortland County, New York",023,59773,36
+39.3,38.3,40.3,"Marathon town, Cortland County, New York",023,45403,36
+43.1,42.9,43.2,"Scott town, Cortland County, New York",023,65915,36
+40.6,40.9,40.4,"Homer town, Cortland County, New York",023,35287,36
+32.8,32.7,32.9,"Lapeer town, Cortland County, New York",023,41300,36
+39.8,40.5,39.3,"Solon town, Cortland County, New York",023,68264,36
+35.8,40.4,32.1,"Willet town, Cortland County, New York",023,81963,36
+27.9,28.4,26.2,"Cortland city, Cortland County, New York",023,18388,36
+48.4,49.0,47.2,"Cuyler town, Cortland County, New York",023,19499,36
+40.9,40.8,41.0,"Taylor town, Cortland County, New York",023,73220,36
+45.9,42.0,46.8,"Truxton town, Cortland County, New York",023,75550,36
+43.8,43.4,45.3,"Virgil town, Cortland County, New York",023,77596,36
+42.9,43.5,40.7,"Cincinnatus town, Cortland County, New York",023,15748,36
+48.9,45.5,50.8,"Milan town, Dutchess County, New York",027,47207,36
+53.5,52.3,54.6,"Rhinebeck town, Dutchess County, New York",027,61357,36
+50.9,51.8,50.3,"Stanford town, Dutchess County, New York",027,70662,36
+45.8,45.8,45.8,"Amenia town, Dutchess County, New York",027,01693,36
+43.4,43.0,44.2,"Dover town, Dutchess County, New York",027,20819,36
+37.7,36.8,39.1,"Poughkeepsie city, Dutchess County, New York",027,59641,36
+36.7,34.5,37.7,"Red Hook town, Dutchess County, New York",027,60905,36
+48.5,47.7,48.8,"Washington town, Dutchess County, New York",027,78388,36
+44.1,39.6,49.0,"North East town, Dutchess County, New York",027,51891,36
+45.9,40.5,49.5,"Pawling town, Dutchess County, New York",027,56825,36
+47.8,47.7,47.9,"Union Vale town, Dutchess County, New York",027,76166,36
+42.1,43.6,40.2,"Pleasant Valley town, Dutchess County, New York",027,58695,36
+36.9,36.9,36.9,"Poughkeepsie town, Dutchess County, New York",027,59652,36
+40.6,38.2,43.7,"Wappinger town, Dutchess County, New York",027,78157,36
+44.2,44.4,43.8,"Beekman town, Dutchess County, New York",027,05452,36
+41.6,38.2,45.9,"Fishkill town, Dutchess County, New York",027,25978,36
+44.4,39.6,46.9,"Van Buren town, Onondaga County, New York",067,76760,36
+44.7,42.1,45.9,"Manlius town, Onondaga County, New York",067,45029,36
+42.9,41.0,44.1,"Brownville town, Jefferson County, New York",045,10242,36
+33.5,32.3,35.9,"Hounsfield town, Jefferson County, New York",045,35782,36
+43.7,42.4,44.6,"Lyme town, Jefferson County, New York",045,43863,36
+41.8,42.7,41.1,"Orleans town, Jefferson County, New York",045,55398,36
+45.0,45.6,44.4,"Lorraine town, Jefferson County, New York",045,43544,36
+36.9,36.4,37.6,"Rodman town, Jefferson County, New York",045,63341,36
+37.3,35.4,39.2,"Theresa town, Jefferson County, New York",045,73528,36
+35.8,34.8,35.9,"Adams town, Jefferson County, New York",045,00210,36
+40.5,43.4,38.4,"Ellisburg town, Jefferson County, New York",045,24086,36
+54.7,54.7,54.7,"Henderson town, Jefferson County, New York",045,34055,36
+33.6,29.8,36.7,"Henrietta town, Monroe County, New York",055,34099,36
+43.4,41.8,44.7,"Pittsford town, Monroe County, New York",055,58365,36
+47.8,47.9,47.6,"Riga town, Monroe County, New York",055,61808,36
+33.7,32.6,35.0,"Wheatland town, Monroe County, New York",055,81402,36
+43.2,40.7,44.8,"Gates town, Monroe County, New York",055,28442,36
+44.2,41.7,46.3,"Irondequoit town, Monroe County, New York",055,37726,36
+39.9,38.2,41.9,"Ogden town, Monroe County, New York",055,54474,36
+46.0,45.9,46.0,"Penfield town, Monroe County, New York",055,57144,36
+31.7,30.5,32.8,"Rochester city, Monroe County, New York",055,63000,36
+39.7,36.7,41.9,"Brighton town, Monroe County, New York",055,08246,36
+-666666666.0,-666666666.0,-666666666.0,"County subdivisions not defined, Monroe County, New York",055,00000,36
+35.9,32.8,38.7,"East Rochester town, Monroe County, New York",055,22870,36
+43.8,42.4,45.2,"Greece town, Monroe County, New York",055,30290,36
+40.4,40.2,41.2,"Hamlin town, Monroe County, New York",055,31797,36
+45.8,43.1,48.0,"Mendon town, Monroe County, New York",055,46558,36
+41.4,40.8,41.7,"Parma town, Monroe County, New York",055,56561,36
+40.1,36.9,43.2,"Chili town, Monroe County, New York",055,15462,36
+45.9,45.2,46.9,"Perinton town, Monroe County, New York",055,57221,36
+49.3,45.8,52.1,"Rush town, Monroe County, New York",055,64144,36
+43.7,43.2,44.3,"Webster town, Monroe County, New York",055,78971,36
+44.2,41.6,45.7,"Clarkson town, Monroe County, New York",055,15957,36
+24.8,24.8,24.9,"Sweden town, Monroe County, New York",055,72455,36
+41.7,41.3,42.5,"Blooming Grove town, Orange County, New York",071,07003,36
+40.3,33.2,43.5,"Wawayanda town, Orange County, New York",071,78839,36
+-666666666.0,-666666666.0,-666666666.0,"Oil Springs Reservation, Cattaraugus County, New York",009,54523,36
+-666666666.0,-666666666.0,-666666666.0,"Tonawanda Reservation, Niagara County, New York",063,75011,36
+42.4,40.7,44.1,"Tupper Lake town, Franklin County, New York",033,75676,36
+-666666666.0,-666666666.0,-666666666.0,"Chautauqua Lake UT, Chautauqua County, New York",013,14072,36
+41.5,34.4,46.7,"Tuscarora Nation Reservation, Niagara County, New York",063,75748,36
+76.4,-666666666.0,76.4,"Onondaga Nation Reservation, Onondaga County, New York",067,54980,36
+29.7,70.1,11.8,"Cattaraugus Reservation, Chautauqua County, New York",013,13035,36
+-666666666.0,-666666666.0,-666666666.0,"Oil Springs Reservation, Allegany County, New York",003,54523,36
+27.4,27.3,34.1,"Cattaraugus Reservation, Cattaraugus County, New York",009,13035,36
+35.6,37.1,35.5,"Cattaraugus Reservation, Erie County, New York",029,13035,36
+-666666666.0,-666666666.0,-666666666.0,"Tonawanda Reservation, Erie County, New York",029,75011,36
+52.6,44.8,56.6,"Tonawanda Reservation, Genesee County, New York",037,75011,36
+39.5,38.1,41.2,"Rome city, Oneida County, New York",065,63418,36
+37.7,35.4,39.7,"Augusta town, Oneida County, New York",065,03155,36
+43.3,42.8,43.9,"Deerfield town, Oneida County, New York",065,19928,36
+55.5,55.5,55.5,"Forestport town, Oneida County, New York",065,26627,36
+46.7,43.2,48.6,"Lee town, Oneida County, New York",065,41762,36
+44.9,43.7,45.5,"Paris town, Oneida County, New York",065,56330,36
+42.8,40.5,45.0,"Lancaster town, Erie County, New York",029,41146,36
+49.5,50.1,47.9,"Marilla town, Erie County, New York",029,45601,36
+46.2,43.6,47.2,"Tonawanda city, Erie County, New York",029,74166,36
+47.4,45.2,48.6,"New Lebanon town, Columbia County, New York",021,50452,36
+49.8,44.3,51.3,"Livingston town, Columbia County, New York",021,42917,36
+48.1,46.3,49.0,"Germantown town, Columbia County, New York",021,28772,36
+47.8,46.7,48.5,"Ghent town, Columbia County, New York",021,28871,36
+48.8,48.0,51.1,"Hillsdale town, Columbia County, New York",021,34748,36
+50.2,52.1,45.8,"Gallatin town, Columbia County, New York",021,28068,36
+49.4,49.3,49.4,"Greenport town, Columbia County, New York",021,30565,36
+54.4,53.2,55.5,"Taghkanic town, Columbia County, New York",021,73077,36
+52.6,54.2,50.3,"Austerlitz town, Columbia County, New York",021,03287,36
+47.7,47.5,48.0,"Chatham town, Columbia County, New York",021,14014,36
+40.2,39.0,43.2,"Stuyvesant town, Columbia County, New York",021,71850,36
+54.4,53.0,55.5,"Ancram town, Columbia County, New York",021,02099,36
+43.3,45.5,39.9,"Lewis town, Lewis County, New York",049,42125,36
+46.2,47.3,45.5,"Turin town, Lewis County, New York",049,75693,36
+42.6,43.6,41.4,"Diana town, Lewis County, New York",049,20555,36
+39.2,40.0,39.0,"Leyden town, Lewis County, New York",049,42213,36
+51.2,49.9,51.7,"Greig town, Lewis County, New York",049,30796,36
+43.5,45.8,40.8,"Lyonsdale town, Lewis County, New York",049,43995,36
+50.8,51.6,50.1,"Osceola town, Lewis County, New York",049,55497,36
+44.6,46.5,44.1,"Watson town, Lewis County, New York",049,78729,36
+42.8,40.7,46.6,"Croghan town, Lewis County, New York",049,19081,36
+36.9,36.6,39.0,"Pinckney town, Lewis County, New York",049,57925,36
+39.6,39.0,41.2,"Hyde Park town, Dutchess County, New York",027,37209,36
+46.2,45.9,46.8,"Pine Plains town, Dutchess County, New York",027,58156,36
+45.9,45.6,46.1,"Clinton town, Dutchess County, New York",027,16408,36
+40.6,39.9,41.7,"Beacon city, Dutchess County, New York",027,05100,36
+43.7,42.6,44.5,"East Fishkill town, Dutchess County, New York",027,21996,36
+33.9,33.1,36.0,"New Bremen town, Lewis County, New York",049,50001,36
+41.8,40.0,42.3,"Lowville town, Lewis County, New York",049,43731,36
+55.6,57.7,55.2,"Montague town, Lewis County, New York",049,48032,36
+37.2,33.6,42.9,"Denmark town, Lewis County, New York",049,20214,36
+36.3,39.4,32.5,"Harrisburg town, Lewis County, New York",049,32358,36
+48.6,48.5,48.6,"West Turin town, Lewis County, New York",049,81094,36
+37.4,37.3,37.7,"Martinsburg town, Lewis County, New York",049,45854,36
+44.3,42.1,46.4,"North Tonawanda city, Niagara County, New York",063,53682,36
+46.1,39.0,49.3,"Cambria town, Niagara County, New York",063,11803,36
+47.9,47.6,47.9,"Hartland town, Niagara County, New York",063,32490,36
+41.0,42.5,39.7,"Somerset town, Niagara County, New York",063,68330,36
+46.5,43.7,48.8,"Wheatfield town, Niagara County, New York",063,81380,36
+45.0,45.2,44.8,"Wilson town, Niagara County, New York",063,82370,36
+44.3,44.3,44.6,"Niagara town, Niagara County, New York",063,51033,36
+43.0,42.0,43.9,"Lockport town, Niagara County, New York",063,43093,36
+45.7,43.2,48.6,"Newstead town, Erie County, New York",029,50716,36
+45.8,43.4,47.0,"Aurora town, Erie County, New York",029,03199,36
+41.8,40.0,42.9,"Oneida city, Madison County, New York",053,54837,36
+41.1,35.4,43.8,"Lebanon town, Madison County, New York",053,41674,36
+40.1,41.4,37.3,"Stockbridge town, Madison County, New York",053,71399,36
+44.9,44.6,45.3,"Sullivan town, Madison County, New York",053,71993,36
+46.3,45.3,48.2,"Fenner town, Madison County, New York",053,25593,36
+43.6,42.9,45.7,"Lincoln town, Madison County, New York",053,42422,36
+44.7,42.2,46.5,"DeRuyter town, Madison County, New York",053,20401,36
+23.7,24.7,23.3,"Eaton town, Madison County, New York",053,23305,36
+52.8,50.3,57.3,"Georgetown town, Madison County, New York",053,28695,36
+40.5,39.5,43.8,"Smithfield town, Madison County, New York",053,67785,36
+42.6,42.3,42.9,"Brookfield town, Madison County, New York",053,08587,36
+44.8,46.4,43.5,"Cazenovia town, Madison County, New York",053,13156,36
+42.1,39.7,43.5,"Lenox town, Madison County, New York",053,41905,36
+45.0,40.4,48.9,"Nelson town, Madison County, New York",053,49770,36
+22.7,22.8,22.4,"Hamilton town, Madison County, New York",053,31720,36
+53.9,45.9,57.1,"Madison town, Madison County, New York",053,44435,36
+49.4,54.2,47.0,"Princetown town, Schenectady County, New York",093,59861,36
+38.9,38.3,43.2,"Duanesburg town, Schenectady County, New York",093,21006,36
+41.6,39.6,44.3,"Rotterdam town, Schenectady County, New York",093,63935,36
+42.8,41.7,44.2,"Glenville town, Schenectady County, New York",093,29366,36
+36.4,35.9,36.9,"Schenectady city, Schenectady County, New York",093,65508,36
+43.2,37.7,47.3,"Niskayuna town, Schenectady County, New York",093,51264,36
+47.9,47.5,49.1,"Fremont town, Sullivan County, New York",105,27573,36
+41.5,36.9,43.5,"Liberty town, Sullivan County, New York",105,42235,36
+48.6,51.2,43.0,"Callicoon town, Sullivan County, New York",105,11759,36
+46.1,39.3,48.7,"Delaware town, Sullivan County, New York",105,20104,36
+45.3,45.4,45.2,"Lumberland town, Sullivan County, New York",105,43786,36
+40.3,39.9,40.6,"Neversink town, Sullivan County, New York",105,49847,36
+39.4,36.5,40.9,"Thompson town, Sullivan County, New York",105,73627,36
+48.0,47.6,52.2,"Bethel town, Sullivan County, New York",105,06310,36
+44.1,42.4,47.6,"Cochecton town, Sullivan County, New York",105,16661,36
+44.6,38.3,46.5,"Rockland town, Sullivan County, New York",105,63176,36
+52.1,51.1,52.7,"Forestburgh town, Sullivan County, New York",105,26528,36
+40.7,41.3,40.0,"Fallsburg town, Sullivan County, New York",105,25241,36
+38.6,38.0,39.4,"Niagara Falls city, Niagara County, New York",063,51055,36
+48.3,47.9,48.8,"Porter town, Niagara County, New York",063,59267,36
+44.9,43.7,46.3,"Newfane town, Niagara County, New York",063,50232,36
+46.3,40.9,50.4,"Lewiston town, Niagara County, New York",063,42158,36
+44.2,43.1,45.4,"Pendleton town, Niagara County, New York",063,57111,36
+41.1,43.8,37.7,"Royalton town, Niagara County, New York",063,64034,36
+-666666666.0,-666666666.0,-666666666.0,"County subdivisions not defined, Niagara County, New York",063,00000,36
+38.8,38.0,39.8,"Lockport city, Niagara County, New York",063,43082,36
+40.3,35.6,44.6,"Mount Kisco town, Westchester County, New York",119,48895,36
+43.2,40.6,45.1,"New Castle town, Westchester County, New York",119,50078,36
+44.3,43.9,44.4,"North Castle town, Westchester County, New York",119,51693,36
+48.5,49.0,47.6,"North Salem town, Westchester County, New York",119,53517,36
+42.9,42.1,43.8,"Rye city, Westchester County, New York",119,64309,36
+50.6,50.3,51.1,"Pound Ridge town, Westchester County, New York",119,59685,36
+45.5,43.3,47.5,"Yorktown town, Westchester County, New York",119,84077,36
+39.6,38.3,41.5,"Peekskill city, Westchester County, New York",119,56979,36
+43.0,43.6,42.2,"Scarsdale town, Westchester County, New York",119,65442,36
+42.5,40.5,44.3,"Eastchester town, Westchester County, New York",119,21820,36
+42.4,39.4,45.3,"Greenburgh town, Westchester County, New York",119,30367,36
+48.5,47.1,49.6,"Somers town, Westchester County, New York",119,68308,36
+39.6,38.6,41.3,"Ossining town, Westchester County, New York",119,55541,36
+44.2,43.8,44.6,"Cortlandt town, Westchester County, New York",119,18410,36
+40.0,38.0,41.9,"Mamaroneck town, Westchester County, New York",119,44842,36
+40.1,38.3,41.4,"Mount Pleasant town, Westchester County, New York",119,49011,36
+38.5,36.0,40.3,"Mount Vernon city, Westchester County, New York",119,49121,36
+40.0,37.3,41.5,"Bedford town, Westchester County, New York",119,05320,36
+34.9,33.4,35.9,"Harrison town, Westchester County, New York",119,32413,36
+46.3,46.5,45.9,"Lewisboro town, Westchester County, New York",119,42136,36
+39.7,39.0,40.3,"Pelham town, Westchester County, New York",119,57012,36
+38.5,36.6,40.0,"Rye town, Westchester County, New York",119,64320,36
+38.1,35.9,40.8,"White Plains city, Westchester County, New York",119,81677,36
+38.8,37.3,40.1,"Yonkers city, Westchester County, New York",119,84000,36
+39.4,38.0,41.1,"New Rochelle city, Westchester County, New York",119,50617,36
+46.1,46.6,42.3,"Davenport town, Delaware County, New York",025,19763,36
+25.2,23.5,30.2,"Delhi town, Delaware County, New York",025,20137,36
+52.3,46.0,53.4,"Hamden town, Delaware County, New York",025,31698,36
+48.8,51.7,41.3,"Meredith town, Delaware County, New York",025,46624,36
+52.8,54.2,48.9,"Colchester town, Delaware County, New York",025,16793,36
+47.9,46.4,48.6,"Hancock town, Delaware County, New York",025,31951,36
+50.6,50.4,50.8,"Harpersfield town, Delaware County, New York",025,32281,36
+48.4,48.8,46.6,"Masonville town, Delaware County, New York",025,45964,36
+49.6,50.0,49.2,"Roxbury town, Delaware County, New York",025,64001,36
+44.7,41.6,47.8,"Sidney town, Delaware County, New York",025,67345,36
+47.1,46.3,47.8,"Stamford town, Delaware County, New York",025,70629,36
+40.9,42.1,38.8,"Walton town, Delaware County, New York",025,78047,36
+50.7,55.4,45.9,"Tompkins town, Delaware County, New York",025,74111,36
+52.1,50.5,53.6,"Franklin town, Delaware County, New York",025,27232,36
+46.7,45.8,47.5,"Kortright town, Delaware County, New York",025,40068,36
+55.8,56.6,55.1,"Middletown town, Delaware County, New York",025,47031,36
+46.4,43.3,50.5,"Deposit town, Delaware County, New York",025,20357,36
+58.5,58.1,59.3,"Andes town, Delaware County, New York",025,02132,36
+48.2,50.9,44.7,"Bovina town, Delaware County, New York",025,07597,36
+44.1,44.1,44.0,"La Grange town, Dutchess County, New York",027,40299,36
+44.3,41.6,48.6,"Cape Vincent town, Jefferson County, New York",045,12364,36
+41.2,40.6,42.1,"Champion town, Jefferson County, New York",045,13717,36
+33.4,32.6,34.4,"Philadelphia town, Jefferson County, New York",045,57562,36
+39.3,53.5,32.0,"Worth town, Jefferson County, New York",045,83162,36
+-666666666.0,-666666666.0,-666666666.0,"County subdivisions not defined, Jefferson County, New York",045,00000,36
+45.4,43.9,46.8,"Alexandria town, Jefferson County, New York",045,01176,36
+36.3,34.4,42.2,"Antwerp town, Jefferson County, New York",045,02297,36
+29.1,26.6,31.5,"Wilna town, Jefferson County, New York",045,82348,36
+39.8,36.1,48.5,"Clayton town, Jefferson County, New York",045,16100,36
+36.4,36.0,38.1,"Pamelia town, Jefferson County, New York",045,56209,36
+31.1,30.3,32.8,"Watertown city, Jefferson County, New York",045,78608,36
+23.3,22.8,25.0,"Le Ray town, Jefferson County, New York",045,42015,36
+34.2,37.9,30.5,"Rutland town, Jefferson County, New York",045,64265,36
+38.8,38.3,39.2,"Watertown town, Jefferson County, New York",045,78619,36
+40.0,37.7,45.1,"Richmondville town, Schoharie County, New York",095,61599,36
+33.1,26.9,37.1,"Cobleskill town, Schoharie County, New York",095,16639,36
+42.7,40.3,43.3,"Sharon town, Schoharie County, New York",095,66641,36
+44.0,43.7,46.9,"Summit town, Schoharie County, New York",095,72070,36
+48.5,48.0,48.7,"Jefferson town, Schoharie County, New York",095,38440,36
+53.2,50.6,55.4,"Broome town, Schoharie County, New York",095,10154,36
+42.0,42.5,41.4,"Carlisle town, Schoharie County, New York",095,12452,36
+43.8,42.6,44.7,"Wright town, Schoharie County, New York",095,83195,36
+52.6,52.3,52.9,"Conesville town, Schoharie County, New York",095,17651,36
+49.1,46.9,50.3,"Middleburgh town, Schoharie County, New York",095,46855,36
+47.9,48.2,47.7,"Schoharie town, Schoharie County, New York",095,65596,36
+47.2,46.6,47.7,"Blenheim town, Schoharie County, New York",095,06893,36
+43.6,48.5,38.9,"Fulton town, Schoharie County, New York",095,27826,36
+47.6,47.4,48.2,"Gilboa town, Schoharie County, New York",095,28981,36
+46.2,48.2,44.0,"Seward town, Schoharie County, New York",095,66542,36
+43.6,42.2,46.1,"Esperance town, Schoharie County, New York",095,24724,36
+33.6,31.4,35.6,"Bronx borough, Bronx County, New York",005,08510,36
+46.4,46.5,46.1,"Otisco town, Onondaga County, New York",067,55651,36
+44.7,44.3,45.2,"Pompey town, Onondaga County, New York",067,59036,36
+39.5,37.2,41.7,"Clay town, Onondaga County, New York",067,16067,36
+42.3,39.7,45.0,"De Witt town, Onondaga County, New York",067,20478,36
+52.3,51.4,53.0,"Skaneateles town, Onondaga County, New York",067,67521,36
+30.6,29.9,31.4,"Syracuse city, Onondaga County, New York",067,73000,36
+45.9,44.0,47.2,"Tully town, Onondaga County, New York",067,75638,36
+46.5,48.0,45.0,"Elbridge town, Onondaga County, New York",067,23800,36
+46.1,46.3,44.5,"LaFayette town, Onondaga County, New York",067,40266,36
+42.9,41.6,44.0,"Onondaga town, Onondaga County, New York",067,54958,36
+46.7,44.7,48.2,"Marcellus town, Onondaga County, New York",067,45491,36
+42.4,39.9,45.1,"Salina town, Onondaga County, New York",067,64815,36
+38.4,36.5,44.0,"Fabius town, Onondaga County, New York",067,24878,36
+51.8,54.0,50.0,"Spafford town, Onondaga County, New York",067,70057,36
+41.0,40.2,41.8,"Cicero town, Onondaga County, New York",067,15704,36
+43.5,41.5,44.7,"Geddes town, Onondaga County, New York",067,28519,36
+44.5,42.5,45.9,"Lysander town, Onondaga County, New York",067,44039,36
+42.7,40.7,44.2,"Camillus town, Onondaga County, New York",067,11913,36
+42.8,42.9,42.7,"Broadalbin town, Fulton County, New York",035,08433,36
+52.1,56.1,46.5,"Bleecker town, Fulton County, New York",035,06882,36
+46.8,44.5,48.6,"Johnstown town, Fulton County, New York",035,38792,36
+44.5,44.7,44.1,"Northampton town, Fulton County, New York",035,51407,36
+43.4,44.3,42.1,"Oppenheim town, Fulton County, New York",035,55101,36
+56.3,55.0,57.9,"Stratford town, Fulton County, New York",035,71784,36
+47.9,47.3,48.5,"Mayfield town, Fulton County, New York",035,46217,36
+44.6,44.1,46.2,"Perth town, Fulton County, New York",035,57353,36
+54.6,54.2,55.5,"Caroga town, Fulton County, New York",035,12573,36
+40.1,37.3,41.9,"Gloversville city, Fulton County, New York",035,29443,36
+38.7,35.6,42.5,"Johnstown city, Fulton County, New York",035,38781,36
+48.6,49.8,48.3,"Ephratah town, Fulton County, New York",035,24603,36
+44.1,44.0,44.1,"Chazy town, Clinton County, New York",019,14113,36
+49.6,49.7,49.1,"Clinton town, Clinton County, New York",019,16397,36
+47.5,46.6,48.3,"Mooers town, Clinton County, New York",019,48252,36
+40.8,39.5,43.2,"Peru town, Clinton County, New York",019,57375,36
+28.4,28.1,29.0,"Plattsburgh city, Clinton County, New York",019,58574,36
+44.3,43.4,45.1,"Plattsburgh town, Clinton County, New York",019,58585,36
+47.6,47.0,51.1,"Black Brook town, Clinton County, New York",019,06761,36
+42.5,45.4,38.0,"Champlain town, Clinton County, New York",019,13750,36
+37.3,36.7,46.4,"Dannemora town, Clinton County, New York",019,19653,36
+42.8,42.7,42.9,"Ellenburg town, Clinton County, New York",019,23921,36
+41.4,41.4,42.0,"Altona town, Clinton County, New York",019,01583,36
+43.4,39.5,47.3,"Au Sable town, Clinton County, New York",019,03221,36
+42.6,43.3,41.9,"Beekmantown town, Clinton County, New York",019,05485,36
+41.7,41.3,43.3,"Schuyler Falls town, Clinton County, New York",019,65717,36
+37.0,36.0,37.9,"Saranac town, Clinton County, New York",019,65211,36
+46.2,45.2,47.4,"Covert town, Seneca County, New York",099,18663,36
+48.6,46.9,50.7,"Remsen town, Oneida County, New York",065,61126,36
+42.6,40.3,43.4,"Verona town, Oneida County, New York",065,77178,36
+46.9,45.9,48.6,"Sherrill city, Oneida County, New York",065,66993,36
+43.3,38.7,47.4,"Trenton town, Oneida County, New York",065,75280,36
+45.4,45.9,43.7,"Vienna town, Oneida County, New York",065,77486,36
+45.1,42.4,47.3,"Western town, Oneida County, New York",065,79862,36
+44.6,42.5,48.5,"Westmoreland town, Oneida County, New York",065,80533,36
+38.4,40.3,37.3,"Bridgewater town, Oneida County, New York",065,08180,36
+42.5,37.4,44.6,"Florence town, Oneida County, New York",065,26297,36
+46.8,44.0,48.5,"Floyd town, Oneida County, New York",065,26385,36
+40.0,38.2,44.3,"Marcy town, Oneida County, New York",065,45535,36
+47.5,46.3,49.1,"New Hartford town, Oneida County, New York",065,50309,36
+41.9,39.0,45.9,"Vernon town, Oneida County, New York",065,77123,36
+45.4,42.2,48.5,"Boonville town, Oneida County, New York",065,07366,36
+42.4,41.2,43.3,"Camden town, Oneida County, New York",065,11858,36
+39.7,41.4,38.0,"Annsville town, Oneida County, New York",065,02253,36
+49.1,49.4,47.9,"Ava town, Oneida County, New York",065,03309,36
+47.9,44.3,50.0,"Sangerfield town, Oneida County, New York",065,65134,36
+45.8,48.6,44.3,"Steuben town, Oneida County, New York",065,71212,36
+34.0,33.1,35.4,"Utica city, Oneida County, New York",065,76540,36
+37.8,35.3,41.6,"Kirkland town, Oneida County, New York",065,39804,36
+39.3,37.4,42.8,"Marshall town, Oneida County, New York",065,45755,36
+43.8,43.2,44.4,"Whitestown town, Oneida County, New York",065,81754,36
+39.5,37.7,40.9,"Brookhaven town, Suffolk County, New York",103,10000,36
+50.9,51.8,50.4,"Shelter Island town, Suffolk County, New York",103,66839,36
+33.6,38.4,33.4,"Shinnecock Reservation, Suffolk County, New York",103,67059,36
+38.0,36.4,39.6,"Islip town, Suffolk County, New York",103,38000,36
+44.3,43.4,45.3,"Huntington town, Suffolk County, New York",103,37000,36
+51.0,46.2,54.0,"East Hampton town, Suffolk County, New York",103,22194,36
+31.4,31.8,31.2,"Poospatuck Reservation, Suffolk County, New York",103,59106,36
+45.5,44.5,46.3,"Smithtown town, Suffolk County, New York",103,68000,36
+39.7,37.8,41.2,"Babylon town, Suffolk County, New York",103,04000,36
+48.7,46.0,49.9,"Riverhead town, Suffolk County, New York",103,61984,36
+45.3,42.9,47.6,"Southampton town, Suffolk County, New York",103,68473,36
+53.0,52.3,53.8,"Southold town, Suffolk County, New York",103,69463,36
+49.1,51.1,43.3,"Denning town, Ulster County, New York",111,20247,36
+52.6,51.9,53.4,"Hurley town, Ulster County, New York",111,37143,36
+24.7,23.9,25.8,"New Paltz town, Ulster County, New York",111,50562,36
+44.3,40.7,47.0,"Waterloo town, Seneca County, New York",099,78564,36
+42.7,41.3,43.6,"Seneca Falls town, Seneca County, New York",099,66333,36
+49.5,52.2,44.5,"Fayette town, Seneca County, New York",099,25505,36
+39.3,37.8,39.9,"Tyre town, Seneca County, New York",099,75902,36
+47.8,48.1,47.6,"Lodi town, Seneca County, New York",099,43225,36
+36.2,35.9,39.6,"Romulus town, Seneca County, New York",099,63440,36
+37.4,32.7,42.9,"Junius town, Seneca County, New York",099,38858,36
+38.2,34.8,40.7,"Varick town, Seneca County, New York",099,76958,36
+38.0,35.5,45.4,"Ovid town, Seneca County, New York",099,55827,36
+-666666666.0,-666666666.0,-666666666.0,"Geneva city, Seneca County, New York",099,28640,36
+46.5,46.5,46.5,"Stephentown town, Rensselaer County, New York",083,71102,36
+43.2,40.8,45.0,"Nassau town, Rensselaer County, New York",083,49517,36
+38.5,38.2,39.2,"Pittstown town, Rensselaer County, New York",083,58398,36
+34.9,32.6,36.5,"Rensselaer city, Rensselaer County, New York",083,61148,36
+42.7,38.2,47.1,"Schaghticoke town, Rensselaer County, New York",083,65486,36
+45.1,44.0,46.8,"Grafton town, Rensselaer County, New York",083,29674,36
+49.6,47.5,52.1,"Petersburgh town, Rensselaer County, New York",083,57441,36
+43.1,42.1,46.1,"Hoosick town, Rensselaer County, New York",083,35463,36
+47.0,45.0,48.9,"North Greenbush town, Rensselaer County, New York",083,52100,36
+47.5,46.9,48.2,"Brunswick town, Rensselaer County, New York",083,10275,36
+43.5,44.2,42.6,"Poestenkill town, Rensselaer County, New York",083,58805,36
+44.1,42.7,45.0,"Schodack town, Rensselaer County, New York",083,65541,36
+45.0,44.6,45.4,"Sand Lake town, Rensselaer County, New York",083,65013,36
+49.4,50.1,48.7,"Berlin town, Rensselaer County, New York",083,06189,36
+45.1,42.9,47.1,"East Greenbush town, Rensselaer County, New York",083,22117,36
+30.6,28.8,32.1,"Troy city, Rensselaer County, New York",083,75484,36
+44.1,44.4,42.9,"Putnam Valley town, Putnam County, New York",079,60147,36
+41.5,39.1,43.7,"Southeast town, Putnam County, New York",079,68924,36
+40.5,39.9,40.7,"Patterson town, Putnam County, New York",079,56748,36
+36.3,33.8,41.3,"Malone town, Franklin County, New York",033,44721,36
+45.9,43.4,48.2,"Brandon town, Franklin County, New York",033,07839,36
+56.0,53.7,57.5,"Duane town, Franklin County, New York",033,20973,36
+36.6,40.5,32.5,"Fort Covington town, Franklin County, New York",033,26737,36
+45.5,43.5,48.0,"Columbia town, Herkimer County, New York",043,17431,36
+46.6,47.8,45.3,"Litchfield town, Herkimer County, New York",043,42664,36
+37.4,36.1,41.2,"Manheim town, Herkimer County, New York",043,44974,36
+47.5,45.8,49.1,"Philipstown town, Putnam County, New York",079,57584,36
+45.9,46.2,45.4,"Kent town, Putnam County, New York",079,39331,36
+43.9,40.9,46.0,"Carmel town, Putnam County, New York",079,12529,36
+45.7,46.6,45.2,"Bellmont town, Franklin County, New York",033,05716,36
+43.6,44.2,42.8,"Constable town, Franklin County, New York",033,17871,36
+43.7,45.2,38.6,"Dickinson town, Franklin County, New York",033,20610,36
+44.4,42.4,47.8,"Moira town, Franklin County, New York",033,47933,36
+46.3,45.1,46.8,"Burke town, Franklin County, New York",033,11165,36
+48.4,44.3,50.6,"Marbletown town, Ulster County, New York",111,45458,36
+48.2,47.0,49.8,"Plattekill town, Ulster County, New York",111,58552,36
+39.9,39.4,42.1,"Shawangunk town, Ulster County, New York",111,66674,36
+43.3,43.4,43.2,"Esopus town, Ulster County, New York",111,24691,36
+38.1,37.9,38.3,"Kingston city, Ulster County, New York",111,39727,36
+41.2,40.3,44.1,"Lloyd town, Ulster County, New York",111,42994,36
+41.5,41.6,41.3,"Wawarsing town, Ulster County, New York",111,78828,36
+48.9,48.0,49.6,"Olive town, Ulster County, New York",111,54749,36
+47.7,45.9,49.2,"Ulster town, Ulster County, New York",111,75935,36
+46.8,43.4,49.0,"Rochester town, Ulster County, New York",111,63011,36
+47.8,46.9,48.7,"Rosendale town, Ulster County, New York",111,63737,36
+57.0,56.1,59.2,"Shandaken town, Ulster County, New York",111,66597,36
+56.9,56.4,57.3,"Woodstock town, Ulster County, New York",111,83052,36
+44.4,48.4,42.4,"Gardiner town, Ulster County, New York",111,28255,36
+48.6,49.0,48.0,"Kingston town, Ulster County, New York",111,39738,36
+43.0,40.5,45.8,"Saugerties town, Ulster County, New York",111,65299,36
+55.9,56.0,55.8,"Hardenburgh town, Ulster County, New York",111,32116,36
+43.8,43.4,44.4,"Marlborough town, Ulster County, New York",111,45722,36
+38.5,40.2,36.9,"Eagle town, Wyoming County, New York",121,21369,36
+45.6,46.6,44.7,"Covington town, Wyoming County, New York",121,18696,36
+48.3,48.2,48.4,"Sheldon town, Wyoming County, New York",121,66773,36
+38.9,38.1,40.2,"Gainesville town, Wyoming County, New York",121,27980,36
+46.4,48.4,42.9,"Pike town, Wyoming County, New York",121,57826,36
+48.3,46.6,51.3,"Castile town, Wyoming County, New York",121,12782,36
+46.6,44.0,47.2,"Genesee Falls town, Wyoming County, New York",121,28596,36
+39.7,37.0,40.5,"Perry town, Wyoming County, New York",121,57254,36
+41.1,40.5,42.6,"Arcade town, Wyoming County, New York",121,02418,36
+36.4,35.6,40.0,"Attica town, Wyoming County, New York",121,03012,36
+45.0,44.4,46.0,"Middlebury town, Wyoming County, New York",121,46877,36
+39.5,39.1,41.1,"Orangeville town, Wyoming County, New York",121,55222,36
+43.5,38.0,45.6,"Warsaw town, Wyoming County, New York",121,78344,36
+40.9,40.6,42.3,"Wethersfield town, Wyoming County, New York",121,81325,36
+45.3,43.9,46.5,"Java town, Wyoming County, New York",121,38341,36
+47.0,46.5,48.1,"Bennington town, Wyoming County, New York",121,05936,36
+33.4,33.5,33.4,"Elmira city, Chemung County, New York",015,24229,36
+50.4,50.2,50.6,"Ashland town, Chemung County, New York",015,02781,36
+43.3,41.6,45.1,"Erin town, Chemung County, New York",015,24636,36
+48.7,49.1,48.4,"Baldwin town, Chemung County, New York",015,04132,36
+51.8,51.5,51.9,"Franklin town, Franklin County, New York",033,27243,36
+57.8,58.8,57.0,"Santa Clara town, Franklin County, New York",033,65178,36
+45.3,43.1,47.9,"Waverly town, Franklin County, New York",033,78795,36
+47.9,47.5,48.5,"Westville town, Franklin County, New York",033,81215,36
+34.5,34.3,34.7,"Bangor town, Franklin County, New York",033,04319,36
+31.9,31.8,32.0,"Bombay town, Franklin County, New York",033,07278,36
+21.7,21.4,23.0,"Brighton town, Franklin County, New York",033,08213,36
+44.0,43.7,44.8,"Chateaugay town, Franklin County, New York",033,13992,36
+45.8,45.6,46.3,"St. Regis Mohawk Reservation, Franklin County, New York",033,64727,36
+42.5,39.6,46.8,"Harrietstown town, Franklin County, New York",033,32314,36
+47.2,45.7,49.8,"Schuyler town, Herkimer County, New York",043,65695,36
+42.8,40.1,45.3,"Winfield town, Herkimer County, New York",043,82568,36
+46.0,49.4,43.8,"Norway town, Herkimer County, New York",043,53968,36
+46.3,45.8,46.8,"Stark town, Herkimer County, New York",043,70794,36
+44.1,36.7,49.0,"Herkimer town, Herkimer County, New York",043,34132,36
+38.0,35.9,38.7,"Warren town, Herkimer County, New York",043,78278,36
+45.1,44.3,45.9,"Frankfort town, Herkimer County, New York",043,27199,36
+39.9,39.7,40.4,"German Flatts town, Herkimer County, New York",043,28750,36
+43.1,41.5,45.2,"Little Falls town, Herkimer County, New York",043,42752,36
+40.9,41.3,40.7,"Russia town, Herkimer County, New York",043,64254,36
+38.8,38.1,39.6,"Salisbury town, Herkimer County, New York",043,64837,36
+41.9,39.0,44.4,"Newport town, Herkimer County, New York",043,50584,36
+44.9,48.0,42.3,"Fairfield town, Herkimer County, New York",043,24933,36
+41.4,41.5,40.9,"Little Falls city, Herkimer County, New York",043,42741,36
+44.1,47.1,41.6,"Danube town, Herkimer County, New York",043,19686,36
+49.9,50.9,48.9,"Ohio town, Herkimer County, New York",043,54507,36
+59.7,59.6,59.7,"Webb town, Herkimer County, New York",043,78927,36
+47.5,47.1,47.9,"Geneva town, Ontario County, New York",069,28651,36
+40.7,37.5,42.2,"Hopewell town, Ontario County, New York",069,35551,36
+50.6,47.6,51.7,"Richmond town, Ontario County, New York",069,61544,36
+45.2,41.8,50.1,"Southport town, Chemung County, New York",015,69617,36
+43.8,45.3,42.8,"Van Etten town, Chemung County, New York",015,76892,36
+51.9,51.8,52.4,"Veteran town, Chemung County, New York",015,77310,36
+45.0,43.7,45.7,"Big Flats town, Chemung County, New York",015,06475,36
+38.9,39.0,38.5,"Catlin town, Chemung County, New York",015,12947,36
+47.7,48.5,46.6,"Elmira town, Chemung County, New York",015,24240,36
+43.5,42.7,44.8,"Horseheads town, Chemung County, New York",015,35705,36
+47.5,48.4,45.7,"Chemung town, Chemung County, New York",015,15077,36
+41.9,39.8,44.1,"Avon town, Livingston County, New York",051,03364,36
+43.4,44.7,41.4,"Livonia town, Livingston County, New York",051,42961,36
+45.3,45.3,45.2,"Leicester town, Livingston County, New York",051,41883,36
+43.7,40.3,49.5,"Mount Morris town, Livingston County, New York",051,48956,36
+49.4,50.5,48.8,"Sparta town, Livingston County, New York",051,70101,36
+44.4,45.3,43.2,"Caledonia town, Livingston County, New York",051,11715,36
+21.8,22.0,21.6,"Geneseo town, Livingston County, New York",051,28629,36
+36.6,36.3,41.0,"Groveland town, Livingston County, New York",051,31016,36
+45.0,42.4,46.7,"North Dansville town, Livingston County, New York",051,51869,36
+44.8,44.8,44.8,"Ossian town, Livingston County, New York",051,55508,36
+41.9,42.6,40.3,"West Sparta town, Livingston County, New York",051,81006,36
+42.4,41.3,45.2,"York town, Livingston County, New York",051,84022,36
+48.4,47.7,49.0,"Conesus town, Livingston County, New York",051,17618,36
+41.4,41.8,41.1,"Lima town, Livingston County, New York",051,42334,36
+46.9,46.9,47.1,"Nunda town, Livingston County, New York",051,54089,36
+45.3,43.5,48.1,"Springwater town, Livingston County, New York",051,70475,36
+44.9,44.0,47.8,"Portage town, Livingston County, New York",051,59179,36
+42.7,42.6,42.7,"West Monroe town, Oswego County, New York",075,80500,36
+41.9,40.7,42.8,"New Haven town, Oswego County, New York",075,50342,36
+-666666666.0,-666666666.0,-666666666.0,"County subdivisions not defined, Oswego County, New York",075,00000,36
+44.8,40.6,49.3,"Minetto town, Oswego County, New York",075,47691,36
+46.2,46.5,45.3,"Constantia town, Oswego County, New York",075,17904,36
+44.2,44.5,43.5,"Hastings town, Oswego County, New York",075,32688,36
+34.9,31.6,38.4,"Oswego city, Oswego County, New York",075,55574,36
+45.0,47.2,43.8,"Sandy Creek town, Oswego County, New York",075,65079,36
+41.8,41.3,43.1,"Schroeppel town, Oswego County, New York",075,65618,36
+45.9,44.7,46.1,"Boylston town, Oswego County, New York",075,07674,36
+43.5,42.4,45.8,"Amboy town, Oswego County, New York",075,01649,36
+37.9,36.4,41.1,"Fulton city, Oswego County, New York",075,27815,36
+39.7,40.8,37.5,"Granby town, Oswego County, New York",075,29729,36
+54.8,55.6,54.0,"South Bristol town, Ontario County, New York",069,68660,36
+42.6,37.6,45.4,"Canandaigua city, Ontario County, New York",069,12144,36
+37.8,38.8,37.3,"Farmington town, Ontario County, New York",069,25406,36
+42.9,43.2,42.3,"Victor town, Ontario County, New York",069,77387,36
+52.6,53.0,51.8,"Canadice town, Ontario County, New York",069,12100,36
+45.1,43.3,46.3,"Phelps town, Ontario County, New York",069,57529,36
+41.8,40.7,44.7,"East Bloomfield town, Ontario County, New York",069,21699,36
+29.6,27.6,31.7,"Geneva city, Ontario County, New York",069,28640,36
+46.7,42.2,49.1,"Seneca town, Ontario County, New York",069,66289,36
+50.0,50.1,49.9,"West Bloomfield town, Ontario County, New York",069,79356,36
+50.5,49.6,50.7,"Bristol town, Ontario County, New York",069,08378,36
+48.9,50.0,48.0,"Gorham town, Ontario County, New York",069,29531,36
+45.7,44.2,47.1,"Manchester town, Ontario County, New York",069,44864,36
+51.0,50.2,52.0,"Naples town, Ontario County, New York",069,49440,36
+47.3,45.5,49.6,"Canandaigua town, Ontario County, New York",069,12155,36
+38.3,36.8,39.7,"Queens borough, Queens County, New York",081,60323,36
+42.3,41.9,42.5,"Hornby town, Steuben County, New York",101,35661,36
+48.9,49.9,48.6,"Wayland town, Steuben County, New York",101,78861,36
+33.7,32.3,35.4,"Woodhull town, Steuben County, New York",101,82843,36
+38.5,38.7,38.3,"Addison town, Steuben County, New York",101,00287,36
+45.1,44.9,45.3,"Bath town, Steuben County, New York",101,04770,36
+49.0,46.9,50.6,"Campbell town, Steuben County, New York",101,11946,36

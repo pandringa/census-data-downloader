@@ -1,0 +1,1531 @@
+geoid,name,total,same_house,moved_within_county,moved_from_different_county_in_same_state,moved_from_different_state,moved_from_abroad,county,county subdivision,state
+2011962925,"Sand Creek township, Meade County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,119,62925,20
+2012514600,"Coffeyville city, Montgomery County, Kansas",993.0,908.0,69.0,1.0,0.0,15.0,125,14600,20
+2011945350,"Meade Center township, Meade County, Kansas",91.0,77.0,0.0,0.0,14.0,0.0,119,45350,20
+2011952075,"Odee township, Meade County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,119,52075,20
+2012561925,"Rutland township, Montgomery County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,125,61925,20
+2011924200,"Fowler township, Meade County, Kansas",129.0,90.0,0.0,39.0,0.0,0.0,119,24200,20
+2012518700,"Drum Creek township, Montgomery County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,125,18700,20
+2012540275,"Liberty township, Montgomery County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,125,40275,20
+2012569750,"Sycamore township, Montgomery County, Kansas",20.0,20.0,0.0,0.0,0.0,0.0,125,69750,20
+2011942000,"Logan township, Meade County, Kansas",1.0,0.0,1.0,0.0,0.0,0.0,119,42000,20
+2011946025,"Mertilla township, Meade County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,119,46025,20
+2011916450,"Crooked Creek township, Meade County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,119,16450,20
+2012512850,"Cherokee township, Montgomery County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,125,12850,20
+2012512925,"Cherryvale city, Montgomery County, Kansas",48.0,33.0,9.0,6.0,0.0,0.0,125,12925,20
+2012533875,"Independence city, Montgomery County, Kansas",625.0,563.0,4.0,32.0,26.0,0.0,125,33875,20
+2012510375,"Caney city, Montgomery County, Kansas",115.0,115.0,0.0,0.0,0.0,0.0,125,10375,20
+2012533900,"Independence township, Montgomery County, Kansas",20.0,2.0,0.0,8.0,0.0,10.0,125,33900,20
+2012554525,"Parker township, Montgomery County, Kansas",93.0,93.0,0.0,0.0,0.0,0.0,125,54525,20
+2012523325,"Fawn Creek township, Montgomery County, Kansas",91.0,91.0,0.0,0.0,0.0,0.0,125,23325,20
+2012542900,"Louisburg township, Montgomery County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,125,42900,20
+2012576825,"West Cherry township, Montgomery County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,125,76825,20
+2015728050,"Grant township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,28050,20
+2015740325,"Liberty township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,40325,20
+2015772300,"Union township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,72300,20
+2015741075,"Lincoln township, Republic County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,157,41075,20
+2015751575,"Norway township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,51575,20
+2015761200,"Rose Creek township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,61200,20
+2015720275,"Elk Creek township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,20275,20
+201575150,"Beaver township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,5150,20
+200658850,"Bryant township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,8850,20
+2006532200,"Hill City township, Graham County, Kansas",63.0,63.0,0.0,0.0,0.0,0.0,065,32200,20
+2006534000,"Indiana township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,34000,20
+2006529950,"Happy township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,29950,20
+200651325,"Allodium township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,1325,20
+2006527175,"Graham township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,27175,20
+2006548250,"Morlan township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,48250,20
+2006566300,"Solomon township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,66300,20
+2001561125,"Rosalia township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,61125,20
+2001541775,"Logan township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,41775,20
+2001522450,"Fairview township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,22450,20
+2001546875,"Milton township, Butler County, Kansas",10.0,4.0,6.0,0.0,0.0,0.0,015,46875,20
+2001572050,"Union township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,72050,20
+2001518425,"Douglass township, Butler County, Kansas",34.0,32.0,0.0,2.0,0.0,0.0,015,18425,20
+2001520075,"El Dorado city, Butler County, Kansas",515.0,421.0,39.0,52.0,3.0,0.0,015,20075,20
+2001556850,"Plum Grove township, Butler County, Kansas",68.0,68.0,0.0,0.0,0.0,0.0,015,56850,20
+2001567275,"Spring township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,67275,20
+2001571150,"Towanda township, Butler County, Kansas",47.0,47.0,0.0,0.0,0.0,0.0,015,71150,20
+2001513575,"Clay township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,13575,20
+2001512750,"Chelsea township, Butler County, Kansas",11.0,11.0,0.0,0.0,0.0,0.0,015,12750,20
+2001526400,"Glencoe township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,26400,20
+2001556200,"Pleasant township, Butler County, Kansas",212.0,163.0,0.0,49.0,0.0,0.0,015,56200,20
+2001514175,"Clifford township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,14175,20
+2001522275,"Fairmount township, Butler County, Kansas",10.0,2.0,6.0,2.0,0.0,0.0,015,22275,20
+2001541625,"Little Walnut township, Butler County, Kansas",14.0,11.0,3.0,0.0,0.0,0.0,015,41625,20
+200156200,"Benton township, Butler County, Kansas",21.0,15.0,6.0,0.0,0.0,0.0,015,6200,20
+2001540500,"Lincoln township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,40500,20
+2001569700,"Sycamore township, Butler County, Kansas",18.0,18.0,0.0,0.0,0.0,0.0,015,69700,20
+200153300,"Augusta city, Butler County, Kansas",582.0,470.0,81.0,31.0,0.0,0.0,015,3300,20
+200153325,"Augusta township, Butler County, Kansas",25.0,25.0,0.0,0.0,0.0,0.0,015,3325,20
+200157500,"Bloomington township, Butler County, Kansas",27.0,27.0,0.0,0.0,0.0,0.0,015,7500,20
+200158825,"Bruno township, Butler County, Kansas",933.0,850.0,0.0,53.0,0.0,30.0,015,8825,20
+2001520100,"El Dorado township, Butler County, Kansas",43.0,36.0,7.0,0.0,0.0,0.0,015,20100,20
+2001549225,"Murdock township, Butler County, Kansas",123.0,123.0,0.0,0.0,0.0,0.0,015,49225,20
+2001557775,"Prospect township, Butler County, Kansas",246.0,193.0,0.0,40.0,0.0,13.0,015,57775,20
+2001559250,"Richland township, Butler County, Kansas",30.0,0.0,5.0,0.0,0.0,25.0,015,59250,20
+2001574900,"Walnut township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,74900,20
+2001531750,"Hickory township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,31750,20
+2001560475,"Rock Creek township, Butler County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,015,60475,20
+200277050,"Blaine township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,7050,20
+200277325,"Bloom township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,7325,20
+2002713625,"Clay Center city, Clay County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,027,13625,20
+2002722100,"Exeter township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,22100,20
+2002731825,"Highland township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,31825,20
+2002759025,"Republican township, Clay County, Kansas",20.0,7.0,9.0,0.0,4.0,0.0,027,59025,20
+2002725500,"Garfield township, Clay County, Kansas",72.0,72.0,0.0,0.0,0.0,0.0,027,25500,20
+2002749000,"Mulberry township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,49000,20
+2006328925,"Grinnell township, Gove County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,063,28925,20
+2006355050,"Payne township, Gove County, Kansas",6.0,0.0,0.0,6.0,0.0,0.0,063,55050,20
+2006327075,"Gove township, Gove County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,063,27075,20
+2006339750,"Lewis township, Gove County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,063,39750,20
+2005952350,"Ohio township, Franklin County, Kansas",23.0,23.0,0.0,0.0,0.0,0.0,059,52350,20
+2005953550,"Ottawa city, Franklin County, Kansas",592.0,525.0,35.0,25.0,7.0,0.0,059,53550,20
+2005912475,"Centropolis township, Franklin County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,059,12475,20
+2005979325,"Williamsburg township, Franklin County, Kansas",18.0,14.0,1.0,3.0,0.0,0.0,059,79325,20
+200592075,"Appanoose township, Franklin County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,059,2075,20
+2005928750,"Greenwood township, Franklin County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,059,28750,20
+2005940700,"Lincoln township, Franklin County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,059,40700,20
+2005916900,"Cutler township, Franklin County, Kansas",37.0,23.0,1.0,13.0,0.0,0.0,059,16900,20
+2005930925,"Hayes township, Franklin County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,059,30925,20
+2005957025,"Pomona township, Franklin County, Kansas",64.0,4.0,18.0,42.0,0.0,0.0,059,57025,20
+2005924375,"Franklin township, Franklin County, Kansas",110.0,102.0,8.0,0.0,0.0,0.0,059,24375,20
+2005933000,"Homewood township, Franklin County, Kansas",118.0,118.0,0.0,0.0,0.0,0.0,059,33000,20
+2005955425,"Peoria township, Franklin County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,059,55425,20
+2005957225,"Pottawatomie township, Franklin County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,059,57225,20
+2007959350,"Richland township, Harvey County, Kansas",29.0,29.0,0.0,0.0,0.0,0.0,079,59350,20
+2005959700,"Richmond township, Franklin County, Kansas",27.0,21.0,0.0,0.0,6.0,0.0,059,59700,20
+2005953575,"Ottawa township, Franklin County, Kansas",29.0,29.0,0.0,0.0,0.0,0.0,059,53575,20
+2005930300,"Harrison township, Franklin County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,059,30300,20
+2003139925,"Liberty township, Coffey County, Kansas",12.0,5.0,7.0,0.0,0.0,0.0,031,39925,20
+200319400,"Burlington city, Coffey County, Kansas",26.0,19.0,1.0,0.0,6.0,0.0,031,9400,20
+2003157200,"Pottawatomie township, Coffey County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,031,57200,20
+2003140550,"Lincoln township, Coffey County, Kansas",13.0,4.0,0.0,9.0,0.0,0.0,031,40550,20
+2003167375,"Spring Creek township, Coffey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,031,67375,20
+2003168000,"Star township, Coffey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,031,68000,20
+2003129775,"Hampden township, Coffey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,031,29775,20
+2003160500,"Rock Creek township, Coffey County, Kansas",44.0,44.0,0.0,0.0,0.0,0.0,031,60500,20
+2003749025,"Mulberry city, Crawford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,037,49025,20
+2003726300,"Girard city, Crawford County, Kansas",63.0,59.0,2.0,2.0,0.0,0.0,037,26300,20
+2003727575,"Grant township, Crawford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,037,27575,20
+2003930050,"Harlan township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,30050,20
+2003941825,"Logan township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,41825,20
+2003952675,"Olive township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,52675,20
+2003915375,"Cook township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,15375,20
+2003956525,"Pleasant Valley township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,56525,20
+2003916850,"Custer township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,16850,20
+2004140625,"Lincoln township, Dickinson County, Kansas",50.0,50.0,0.0,0.0,0.0,0.0,041,40625,20
+2004141850,"Logan township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,41850,20
+2004164925,"Sherman township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,64925,20
+2004112700,"Cheever township, Dickinson County, Kansas",37.0,37.0,0.0,0.0,0.0,0.0,041,12700,20
+2004133100,"Hope township, Dickinson County, Kansas",13.0,10.0,0.0,3.0,0.0,0.0,041,33100,20
+20041125,"Abilene city, Dickinson County, Kansas",248.0,224.0,5.0,19.0,0.0,0.0,041,125,20
+2004125550,"Garfield township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,25550,20
+2004172100,"Union township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,72100,20
+2004131400,"Herington city, Dickinson County, Kansas",217.0,217.0,0.0,0.0,0.0,0.0,041,31400,20
+200413975,"Banner township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,3975,20
+2004159900,"Rinehart township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,59900,20
+2004123550,"Flora township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,23550,20
+2004143475,"Lyon township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,43475,20
+2004159800,"Ridge township, Dickinson County, Kansas",6.0,0.0,0.0,6.0,0.0,0.0,041,59800,20
+2004130900,"Hayes township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,30900,20
+2004150225,"Newbern township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,50225,20
+2004179450,"Willowdale township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,79450,20
+200418925,"Buckeye township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,8925,20
+2004124250,"Fragrant Hill township, Dickinson County, Kansas",38.0,0.0,38.0,0.0,0.0,0.0,041,24250,20
+2004127625,"Grant township, Dickinson County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,041,27625,20
+2004132625,"Holland township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,32625,20
+2004135175,"Jefferson township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,35175,20
+2004177625,"Wheatland township, Dickinson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,041,77625,20
+2004140000,"Liberty township, Dickinson County, Kansas",5.0,0.0,5.0,0.0,0.0,0.0,041,40000,20
+2004111675,"Center township, Dickinson County, Kansas",86.0,80.0,0.0,0.0,6.0,0.0,041,11675,20
+2004150800,"Noble township, Dickinson County, Kansas",146.0,138.0,8.0,0.0,0.0,0.0,041,50800,20
+2008761700,"Rural township, Jefferson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,087,61700,20
+2008772150,"Union township, Jefferson County, Kansas",42.0,28.0,0.0,14.0,0.0,0.0,087,72150,20
+2008753400,"Oskaloosa township, Jefferson County, Kansas",96.0,23.0,29.0,0.0,44.0,0.0,087,53400,20
+2008717425,"Delaware township, Jefferson County, Kansas",47.0,41.0,0.0,6.0,0.0,0.0,087,17425,20
+2008751475,"Norton township, Jefferson County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,087,51475,20
+2008753950,"Ozawkie township, Jefferson County, Kansas",24.0,18.0,6.0,0.0,0.0,0.0,087,53950,20
+2013552400,"Ohio township, Ness County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,135,52400,20
+2013535550,"Johnson township, Ness County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,135,35550,20
+2013550125,"Nevada township, Ness County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,135,50125,20
+2013575400,"Waring township, Ness County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,135,75400,20
+2013532100,"Highpoint township, Ness County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,135,32100,20
+2013524475,"Franklin township, Ness County, Kansas",4.0,0.0,0.0,4.0,0.0,0.0,135,24475,20
+2014169150,"Sumner township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,69150,20
+2014117500,"Delhi township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,17500,20
+2014136750,"Kill Creek township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,36750,20
+2014140300,"Liberty township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,40300,20
+201416425,"Bethany township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,6425,20
+2014116100,"Covert township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,16100,20
+2014127875,"Grant township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,27875,20
+2014133925,"Independence township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,33925,20
+2014134875,"Jackson township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,34875,20
+2014149450,"Natoma township, Osborne County, Kansas",19.0,2.0,0.0,17.0,0.0,0.0,141,49450,20
+2014153325,"Osborne city, Osborne County, Kansas",44.0,41.0,3.0,0.0,0.0,0.0,141,53325,20
+2014115625,"Corinth township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,15625,20
+2014129825,"Hancock township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,29825,20
+2014161375,"Ross township, Osborne County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,141,61375,20
+2014173000,"Valley township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,73000,20
+2014130850,"Hawkeye township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,30850,20
+2014138925,"Lawrence township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,38925,20
+2014173750,"Victor township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,73750,20
+201417400,"Bloom township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,7400,20
+2014148875,"Mount Ayr township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,48875,20
+2014170575,"Tilden township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,70575,20
+2014179975,"Winfield township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,79975,20
+2000528225,"Grasshopper township, Atchison County, Kansas",1.0,1.0,0.0,0.0,0.0,0.0,005,28225,20
+2000548925,"Mount Pleasant township, Atchison County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,005,48925,20
+2000536100,"Kapioma township, Atchison County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,005,36100,20
+200052900,"Atchison city, Atchison County, Kansas",413.0,378.0,12.0,5.0,18.0,0.0,005,2900,20
+2000564275,"Shannon township, Atchison County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,005,64275,20
+2000574800,"Walnut township, Atchison County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,005,74800,20
+2000511550,"Center township, Atchison County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,005,11550,20
+2000538350,"Lancaster township, Atchison County, Kansas",11.0,11.0,0.0,0.0,0.0,0.0,005,38350,20
+2003764875,"Sherman township, Crawford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,037,64875,20
+2003774975,"Walnut township, Crawford County, Kansas",28.0,17.0,0.0,0.0,11.0,0.0,037,74975,20
+2003775575,"Washington township, Crawford County, Kansas",37.0,34.0,3.0,0.0,0.0,0.0,037,75575,20
+2003740575,"Lincoln township, Crawford County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,037,40575,20
+2003753125,"Osage township, Crawford County, Kansas",5.0,2.0,0.0,3.0,0.0,0.0,037,53125,20
+2003756025,"Pittsburg city, Crawford County, Kansas",1505.0,1200.0,229.0,44.0,20.0,12.0,037,56025,20
+2003764675,"Sheridan township, Crawford County, Kansas",99.0,99.0,0.0,0.0,0.0,0.0,037,64675,20
+200373750,"Baker township, Crawford County, Kansas",55.0,34.0,0.0,0.0,21.0,0.0,037,3750,20
+2003716250,"Crawford township, Crawford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,037,16250,20
+2003724850,"Frontenac city, Crawford County, Kansas",175.0,158.0,0.0,0.0,0.0,17.0,037,24850,20
+2005131525,"Herzog township, Ellis County, Kansas",10.0,2.0,0.0,8.0,0.0,0.0,051,31525,20
+2005120450,"Ellis city, Ellis County, Kansas",224.0,224.0,0.0,0.0,0.0,0.0,051,20450,20
+2005173800,"Victoria township, Ellis County, Kansas",47.0,47.0,0.0,0.0,0.0,0.0,051,73800,20
+200516650,"Big Creek township, Ellis County, Kansas",133.0,133.0,0.0,0.0,0.0,0.0,051,6650,20
+2005120475,"Ellis township, Ellis County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,051,20475,20
+2005131100,"Hays city, Ellis County, Kansas",1098.0,449.0,291.0,168.0,105.0,85.0,051,31100,20
+2005177650,"Wheatland township, Ellis County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,051,77650,20
+200518950,"Buckeye township, Ellis County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,051,8950,20
+2005124625,"Freedom township, Ellis County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,051,24625,20
+2005111050,"Catherine township, Ellis County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,051,11050,20
+2005142700,"Lookout township, Ellis County, Kansas",1.0,1.0,0.0,0.0,0.0,0.0,051,42700,20
+2007321800,"Eureka city, Greenwood County, Kansas",118.0,95.0,20.0,3.0,0.0,0.0,073,21800,20
+2007321825,"Eureka township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,21825,20
+2007353650,"Otter Creek township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,53650,20
+2007356375,"Pleasant Grove township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,56375,20
+2007358175,"Quincy township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,58175,20
+2007322800,"Fall River township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,22800,20
+2007338425,"Lane township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,38425,20
+2007362875,"Salt Springs township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,62875,20
+200733625,"Bachelor township, Greenwood County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,073,3625,20
+2007364600,"Shell Rock township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,64600,20
+2007335000,"Janesville township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,35000,20
+2007366925,"South Salem township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,66925,20
+2007367425,"Spring Creek township, Greenwood County, Kansas",21.0,21.0,0.0,0.0,0.0,0.0,073,67425,20
+2007371825,"Twin Grove township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,71825,20
+2007362650,"Salem township, Greenwood County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,073,62650,20
+2007344075,"Madison township, Greenwood County, Kansas",87.0,27.0,34.0,26.0,0.0,0.0,073,44075,20
+2008735250,"Jefferson township, Jefferson County, Kansas",20.0,20.0,0.0,0.0,0.0,0.0,087,35250,20
+2008736575,"Kentucky township, Jefferson County, Kansas",48.0,48.0,0.0,0.0,0.0,0.0,087,36575,20
+2008722525,"Fairview township, Jefferson County, Kansas",43.0,43.0,0.0,0.0,0.0,0.0,087,22525,20
+2008736125,"Kaw township, Jefferson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,087,36125,20
+2008760575,"Rock Creek township, Jefferson County, Kansas",113.0,94.0,19.0,0.0,0.0,0.0,087,60575,20
+2008763100,"Sarcoxie township, Jefferson County, Kansas",12.0,12.0,0.0,0.0,0.0,0.0,087,63100,20
+200056150,"Benton township, Atchison County, Kansas",23.0,23.0,0.0,0.0,0.0,0.0,005,6150,20
+2001153100,"Osage township, Bourbon County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,011,53100,20
+2001124000,"Fort Scott city, Bourbon County, Kansas",217.0,115.0,92.0,10.0,0.0,0.0,011,24000,20
+2001170600,"Timberhill township, Bourbon County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,011,70600,20
+2001124300,"Franklin township, Bourbon County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,011,24300,20
+2001124600,"Freedom township, Bourbon County, Kansas",22.0,22.0,0.0,0.0,0.0,0.0,011,24600,20
+2001146675,"Mill Creek township, Bourbon County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,011,46675,20
+2001163500,"Scott township, Bourbon County, Kansas",64.0,64.0,0.0,0.0,0.0,0.0,011,63500,20
+2001144650,"Marion township, Bourbon County, Kansas",37.0,5.0,1.0,28.0,0.0,3.0,011,44650,20
+2001154775,"Pawnee township, Bourbon County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,011,54775,20
+2001174850,"Walnut township, Bourbon County, Kansas",2.0,0.0,0.0,0.0,0.0,2.0,011,74850,20
+2001144900,"Marmaton township, Bourbon County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,011,44900,20
+2001118750,"Drywood township, Bourbon County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,011,18750,20
+2005534675,"Ivanhoe township, Finney County, Kansas",285.0,285.0,0.0,0.0,0.0,0.0,055,34675,20
+2005556550,"Pleasant Valley township, Finney County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,055,56550,20
+2005564800,"Sherlock township, Finney County, Kansas",761.0,642.0,95.0,2.0,22.0,0.0,055,64800,20
+2005525600,"Garfield township, Finney County, Kansas",36.0,10.0,0.0,26.0,0.0,0.0,055,25600,20
+2005525350,"Garden City township, Finney County, Kansas",3385.0,2916.0,338.0,60.0,71.0,0.0,055,25350,20
+2005555800,"Pierceville township, Finney County, Kansas",115.0,115.0,0.0,0.0,0.0,0.0,055,55800,20
+2005570225,"Terry township, Finney County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,055,70225,20
+2005525325,"Garden City city, Finney County, Kansas",13245.0,11304.0,1578.0,48.0,294.0,21.0,055,25325,20
+2007540075,"Liberty township, Hamilton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,075,40075,20
+2007569875,"Syracuse township, Hamilton County, Kansas",622.0,460.0,74.0,13.0,67.0,8.0,075,69875,20
+2007536425,"Kendall township, Hamilton County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,075,36425,20
+2007545650,"Medway township, Hamilton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,075,45650,20
+2007538275,"Lamont township, Hamilton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,075,38275,20
+2007515425,"Coolidge township, Hamilton County, Kansas",21.0,21.0,0.0,0.0,0.0,0.0,075,15425,20
+200754850,"Bear Creek township, Hamilton County, Kansas",215.0,151.0,64.0,0.0,0.0,0.0,075,4850,20
+2007559325,"Richland township, Hamilton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,075,59325,20
+2014155350,"Penn township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,55350,20
+2014161475,"Round Mound township, Osborne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,141,61475,20
+201031100,"Alexandria township, Leavenworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,103,1100,20
+2010338650,"Lansing city, Leavenworth County, Kansas",1072.0,913.0,13.0,127.0,19.0,0.0,103,38650,20
+2010370825,"Tonganoxie township, Leavenworth County, Kansas",158.0,158.0,0.0,0.0,0.0,0.0,103,70825,20
+2009953150,"Osage township, Labette County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,099,53150,20
+2009737185,"Kiowa Rural township, Kiowa County, Kansas",161.0,158.0,0.0,3.0,0.0,0.0,097,37185,20
+2010365000,"Sherman township, Leavenworth County, Kansas",187.0,113.0,2.0,72.0,0.0,0.0,103,65000,20
+2010368500,"Stranger township, Leavenworth County, Kansas",255.0,125.0,116.0,14.0,0.0,0.0,103,68500,20
+2009937400,"Labette township, Labette County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,099,37400,20
+2009948850,"Mound Valley township, Labette County, Kansas",38.0,36.0,0.0,2.0,0.0,0.0,099,48850,20
+2009959425,"Richland township, Labette County, Kansas",20.0,20.0,0.0,0.0,0.0,0.0,099,59425,20
+2009922550,"Fairview township, Labette County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,099,22550,20
+2009947850,"Montana township, Labette County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,099,47850,20
+2006526175,"Gettysburg township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,26175,20
+2006546625,"Millbrook township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,46625,20
+2006550575,"Nicodemus township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,50575,20
+2006555900,"Pioneer township, Graham County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,065,55900,20
+2006579225,"Wildhorse township, Graham County, Kansas",19.0,19.0,0.0,0.0,0.0,0.0,065,79225,20
+2009125450,"Gardner township, Johnson County, Kansas",97.0,31.0,50.0,8.0,8.0,0.0,091,25450,20
+2009137975,"Lake Quivira city, Johnson County, Kansas",18.0,14.0,4.0,0.0,0.0,0.0,091,37975,20
+2009167625,"Spring Hill city, Johnson County, Kansas",408.0,126.0,193.0,48.0,41.0,0.0,091,67625,20
+200917975,"Bonner Springs city, Johnson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,091,7975,20
+2009122700,"Fairway city, Johnson County, Kansas",64.0,64.0,0.0,0.0,0.0,0.0,091,22700,20
+2009125425,"Gardner city, Johnson County, Kansas",1770.0,1459.0,274.0,6.0,31.0,0.0,091,25425,20
+2009147225,"Mission city, Johnson County, Kansas",528.0,372.0,92.0,36.0,28.0,0.0,091,47225,20
+2009147350,"Mission Hills city, Johnson County, Kansas",129.0,129.0,0.0,0.0,0.0,0.0,091,47350,20
+2009177525,"Westwood Hills city, Johnson County, Kansas",23.0,21.0,0.0,0.0,2.0,0.0,091,77525,20
+2009147425,"Mission Woods city, Johnson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,091,47425,20
+2009153825,"Oxford township, Johnson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,091,53825,20
+2009177500,"Westwood city, Johnson County, Kansas",95.0,83.0,0.0,0.0,0.0,12.0,091,77500,20
+2009139075,"Leawood city, Johnson County, Kansas",734.0,658.0,71.0,0.0,5.0,0.0,091,39075,20
+2009139350,"Lenexa city, Johnson County, Kansas",4315.0,3093.0,399.0,64.0,690.0,69.0,091,39350,20
+2009143625,"McCamish township, Johnson County, Kansas",17.0,17.0,0.0,0.0,0.0,0.0,091,43625,20
+2009146000,"Merriam city, Johnson County, Kansas",934.0,850.0,21.0,57.0,6.0,0.0,091,46000,20
+2012512875,"Cherry township, Montgomery County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,125,12875,20
+2012510400,"Caney township, Montgomery County, Kansas",50.0,50.0,0.0,0.0,0.0,0.0,125,10400,20
+2012731975,"Highland township, Morris County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,127,31975,20
+2012715925,"Council Grove city, Morris County, Kansas",152.0,136.0,16.0,0.0,0.0,0.0,127,15925,20
+2012753750,"Overland township, Morris County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,127,53750,20
+2012731400,"Herington city, Morris County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,127,31400,20
+2015157625,"Pratt city, Pratt County, Kansas",577.0,444.0,59.0,36.0,3.0,35.0,151,57625,20
+20153175,"Achilles township, Rawlins County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,153,175,20
+201533175,"Atwood township, Rawlins County, Kansas",74.0,74.0,0.0,0.0,0.0,0.0,153,3175,20
+2015347175,"Mirage township, Rawlins County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,153,47175,20
+2015331462,"Herl township, Rawlins County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,153,31462,20
+2015343200,"Ludell township, Rawlins County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,153,43200,20
+2015360362,"Rocewood township, Rawlins County, Kansas",25.0,7.0,0.0,10.0,0.0,8.0,153,60362,20
+2015372275,"Union township, Rawlins County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,153,72275,20
+2015312037,"Center township, Rawlins County, Kansas",43.0,43.0,0.0,0.0,0.0,0.0,153,12037,20
+2015335300,"Jefferson township, Rawlins County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,153,35300,20
+2015318675,"Driftwood township, Rawlins County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,153,18675,20
+2009152600,"Olathe township, Johnson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,091,52600,20
+2009153775,"Overland Park city, Johnson County, Kansas",11059.0,8565.0,1318.0,380.0,577.0,219.0,091,53775,20
+2009160825,"Roeland Park city, Johnson County, Kansas",794.0,560.0,101.0,50.0,83.0,0.0,091,60825,20
+200913225,"Aubry township, Johnson County, Kansas",144.0,132.0,0.0,0.0,0.0,12.0,091,3225,20
+2009117850,"De Soto city, Johnson County, Kansas",886.0,886.0,0.0,0.0,0.0,0.0,091,17850,20
+2009119825,"Edgerton city, Johnson County, Kansas",44.0,18.0,8.0,18.0,0.0,0.0,091,19825,20
+2009167650,"Spring Hill township, Johnson County, Kansas",59.0,15.0,44.0,0.0,0.0,0.0,091,67650,20
+2009139800,"Lexington township, Johnson County, Kansas",70.0,70.0,0.0,0.0,0.0,0.0,091,39800,20
+2009152575,"Olathe city, Johnson County, Kansas",14934.0,11539.0,2300.0,346.0,547.0,202.0,091,52575,20
+2009157575,"Prairie Village city, Johnson County, Kansas",710.0,641.0,16.0,53.0,0.0,0.0,091,57575,20
+2009164500,"Shawnee city, Johnson County, Kansas",4540.0,3583.0,615.0,261.0,72.0,9.0,091,64500,20
+2004579500,"Willow Springs township, Douglas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,045,79500,20
+2004554225,"Palmyra township, Douglas County, Kansas",342.0,283.0,35.0,20.0,4.0,0.0,045,54225,20
+2004538900,"Lawrence city, Douglas County, Kansas",6138.0,4196.0,809.0,500.0,475.0,158.0,045,38900,20
+2004574400,"Wakarusa township, Douglas County, Kansas",143.0,92.0,38.0,0.0,0.0,13.0,045,74400,20
+2004527650,"Grant township, Douglas County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,045,27650,20
+2004521700,"Eudora township, Douglas County, Kansas",363.0,152.0,13.0,0.0,198.0,0.0,045,21700,20
+2004536075,"Kanwaka township, Douglas County, Kansas",26.0,18.0,8.0,0.0,0.0,0.0,045,36075,20
+201797450,"Bloomfield township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,7450,20
+2004539175,"Lecompton township, Douglas County, Kansas",49.0,46.0,3.0,0.0,0.0,0.0,045,39175,20
+2004514325,"Clinton township, Douglas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,045,14325,20
+2004544700,"Marion township, Douglas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,045,44700,20
+2017967350,"Springbrook township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,67350,20
+2017972400,"Union township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,72400,20
+201798125,"Bowcreek township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,8125,20
+20179300,"Adell township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,300,20
+2017919675,"East Saline township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,19675,20
+2017954650,"Parnell township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,54650,20
+2017966400,"Solomon township, Sheridan County, Kansas",8.0,1.0,0.0,0.0,0.0,7.0,179,66400,20
+2017973150,"Valley township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,73150,20
+2017942225,"Logan township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,42225,20
+2017957500,"Prairie Dog township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,57500,20
+2017977375,"West Saline township, Sheridan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,179,77375,20
+2017964750,"Sheridan township, Sheridan County, Kansas",8.0,7.0,0.0,1.0,0.0,0.0,179,64750,20
+2017936525,"Kenneth township, Sheridan County, Kansas",93.0,68.0,0.0,2.0,23.0,0.0,179,36525,20
+2000374650,"Walker township, Anderson County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,003,74650,20
+2000375500,"Washington township, Anderson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,003,75500,20
+2000353900,"Ozark township, Anderson County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,003,53900,20
+2000358825,"Reeder township, Anderson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,003,58825,20
+2000376450,"Welda township, Anderson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,003,76450,20
+2000377275,"Westphalia township, Anderson County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,003,77275,20
+2000334725,"Jackson township, Anderson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,003,34725,20
+2000342450,"Lone Elm township, Anderson County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,003,42450,20
+2000325925,"Garnett city, Anderson County, Kansas",9.0,5.0,4.0,0.0,0.0,0.0,003,25925,20
+2000340475,"Lincoln township, Anderson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,003,40475,20
+2000334050,"Indian Creek township, Anderson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,003,34050,20
+2000347725,"Monroe township, Anderson County, Kansas",21.0,21.0,0.0,0.0,0.0,0.0,003,47725,20
+2000358000,"Putnam township, Anderson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,003,58000,20
+2012142875,"Louisburg city, Miami County, Kansas",37.0,37.0,0.0,0.0,0.0,0.0,121,42875,20
+2012154250,"Paola city, Miami County, Kansas",273.0,258.0,11.0,0.0,4.0,0.0,121,54250,20
+2012167925,"Stanton township, Miami County, Kansas",74.0,74.0,0.0,0.0,0.0,0.0,121,67925,20
+2012145100,"Marysville township, Miami County, Kansas",59.0,59.0,0.0,0.0,0.0,0.0,121,45100,20
+2006915500,"Copeland township, Gray County, Kansas",20.0,12.0,8.0,0.0,0.0,0.0,069,15500,20
+2006941900,"Logan township, Gray County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,069,41900,20
+2006947900,"Montezuma township, Gray County, Kansas",107.0,107.0,0.0,0.0,0.0,0.0,069,47900,20
+2006913300,"Cimarron township, Gray County, Kansas",669.0,508.0,68.0,93.0,0.0,0.0,069,13300,20
+2006934250,"Ingalls township, Gray County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,069,34250,20
+2006923675,"Foote township, Gray County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,069,23675,20
+2006919525,"East Hess township, Gray County, Kansas",70.0,70.0,0.0,0.0,0.0,0.0,069,19525,20
+2019964400,"Sharon Springs township, Wallace County, Kansas",48.0,38.0,6.0,0.0,4.0,0.0,199,64400,20
+2019976700,"Weskan township, Wallace County, Kansas",33.0,33.0,0.0,0.0,0.0,0.0,199,76700,20
+2019974775,"Wallace township, Wallace County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,199,74775,20
+2019930450,"Harrison township, Wallace County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,199,30450,20
+200174700,"Bazaar township, Chase County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,017,4700,20
+2001717975,"Diamond Creek township, Chase County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,017,17975,20
+2001768600,"Strong township, Chase County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,017,68600,20
+2001770775,"Toledo township, Chase County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,017,70775,20
+2001745125,"Matfield township, Chase County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,017,45125,20
+2001711225,"Cedar township, Chase County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,017,11225,20
+2007950475,"Newton city, Harvey County, Kansas",3053.0,2596.0,295.0,124.0,0.0,38.0,079,50475,20
+2007950500,"Newton township, Harvey County, Kansas",170.0,143.0,5.0,10.0,12.0,0.0,079,50500,20
+2007956250,"Pleasant township, Harvey County, Kansas",32.0,32.0,0.0,0.0,0.0,0.0,079,56250,20
+2007963825,"Sedgwick township, Harvey County, Kansas",32.0,25.0,7.0,0.0,0.0,0.0,079,63825,20
+2007929600,"Halstead city, Harvey County, Kansas",148.0,103.0,45.0,0.0,0.0,0.0,079,29600,20
+2007937825,"Lake township, Harvey County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,079,37825,20
+2007943925,"Macon township, Harvey County, Kansas",47.0,47.0,0.0,0.0,0.0,0.0,079,43925,20
+2007921025,"Emma township, Harvey County, Kansas",337.0,224.0,5.0,11.0,16.0,81.0,079,21025,20
+2007938150,"Lakin township, Harvey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,079,38150,20
+200791500,"Alta township, Harvey County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,079,1500,20
+200799600,"Burrton township, Harvey County, Kansas",53.0,52.0,0.0,1.0,0.0,0.0,079,9600,20
+2007917025,"Darlington township, Harvey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,079,17025,20
+2007925300,"Garden township, Harvey County, Kansas",39.0,39.0,0.0,0.0,0.0,0.0,079,25300,20
+2007929625,"Halstead township, Harvey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,079,29625,20
+2007931875,"Highland township, Harvey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,079,31875,20
+2007975225,"Walton township, Harvey County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,079,75225,20
+2011546900,"Milton township, Marion County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,115,46900,20
+2011523600,"Florence city, Marion County, Kansas",22.0,18.0,0.0,0.0,4.0,0.0,115,23600,20
+2011539250,"Lehigh township, Marion County, Kansas",39.0,39.0,0.0,0.0,0.0,0.0,115,39250,20
+2011542850,"Lost Springs township, Marion County, Kansas",23.0,23.0,0.0,0.0,0.0,0.0,115,42850,20
+2011560000,"Risley township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,60000,20
+2011511075,"Catlin township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,11075,20
+2004928550,"Greenfield township, Elk County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,049,28550,20
+2004951950,"Oak Valley township, Elk County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,049,51950,20
+2004920325,"Elk Falls township, Elk County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,049,20325,20
+2004954925,"Paw Paw township, Elk County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,049,54925,20
+2004933275,"Howard township, Elk County, Kansas",79.0,79.0,0.0,0.0,0.0,0.0,049,33275,20
+2004942675,"Longton township, Elk County, Kansas",18.0,18.0,0.0,0.0,0.0,0.0,049,42675,20
+2004940025,"Liberty township, Elk County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,049,40025,20
+2006325000,"Gaeland township, Gove County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,063,25000,20
+2004972500,"Union Center township, Elk County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,049,72500,20
+2004954075,"Painterhood township, Elk County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,049,54075,20
+200633775,"Baker township, Gove County, Kansas",48.0,43.0,0.0,5.0,0.0,0.0,063,3775,20
+2006327225,"Grainfield township, Gove County, Kansas",3.0,2.0,0.0,1.0,0.0,0.0,063,27225,20
+2006335425,"Jerome township, Gove County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,063,35425,20
+2006338750,"Larrabee township, Gove County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,063,38750,20
+2004737075,"Kinsley city, Edwards County, Kansas",286.0,263.0,10.0,0.0,13.0,0.0,047,37075,20
+2004741875,"Logan township, Edwards County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,047,41875,20
+2004724350,"Franklin township, Edwards County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,047,24350,20
+2004737100,"Kinsley township, Edwards County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,047,37100,20
+200475850,"Belpre township, Edwards County, Kansas",92.0,92.0,0.0,0.0,0.0,0.0,047,5850,20
+2004766550,"South Brown township, Edwards County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,047,66550,20
+2004776125,"Wayne township, Edwards County, Kansas",134.0,120.0,13.0,1.0,0.0,0.0,047,76125,20
+2008118825,"Dudley township, Haskell County, Kansas",590.0,513.0,52.0,3.0,22.0,0.0,081,18825,20
+2008141675,"Lockport township, Haskell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,081,41675,20
+2008130625,"Haskell township, Haskell County, Kansas",585.0,541.0,7.0,12.0,25.0,0.0,081,30625,20
+20101775,"Alamota township, Lane County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,101,775,20
+2010118075,"Dighton township, Lane County, Kansas",98.0,68.0,10.0,10.0,10.0,0.0,101,18075,20
+2010177950,"White Rock township, Lane County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,101,77950,20
+2010179725,"Wilson township, Lane County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,101,79725,20
+2010113050,"Cheyenne township, Lane County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,101,13050,20
+201651087,"Alexander-Belle Prairie township, Rush County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,165,1087,20
+201656775,"Big Timber township, Rush County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,165,6775,20
+2016555950,"Pioneer township, Rush County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,165,55950,20
+2016572350,"Union township, Rush County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,165,72350,20
+2016512125,"Center township, Rush County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,165,12125,20
+2016525800,"Garfield township, Rush County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,165,25800,20
+2016537525,"La Crosse-Brookdale township, Rush County, Kansas",71.0,66.0,5.0,0.0,0.0,0.0,165,37525,20
+2016542500,"Lone Star township, Rush County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,165,42500,20
+2016529812,"Hampton-Fairview township, Rush County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,165,29812,20
+2016556325,"Pleasantdale township, Rush County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,165,56325,20
+201654075,"Banner township, Rush County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,165,4075,20
+2016533750,"Illinois township, Rush County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,165,33750,20
+2017173125,"Valley township, Scott County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,171,73125,20
+201715175,"Beaver township, Scott County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,171,5175,20
+2017163575,"Scott township, Scott County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,171,63575,20
+2017163600,"Scott City city, Scott County, Kansas",840.0,557.0,59.0,224.0,0.0,0.0,171,63600,20
+2017136600,"Keystone township, Scott County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,171,36600,20
+2017137850,"Lake township, Scott County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,171,37850,20
+2017146175,"Michigan township, Scott County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,171,46175,20
+2017134575,"Isbel township, Scott County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,171,34575,20
+2015171238,"Township 9, Pratt County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,151,71238,20
+2015171228,"Township 7, Pratt County, Kansas",51.0,51.0,0.0,0.0,0.0,0.0,151,71228,20
+2002153450,"Oswego city, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,53450,20
+201037975,"Bonner Springs city, Leavenworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,103,7975,20
+2015171223,"Township 6, Pratt County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,151,71223,20
+2020920000,"Edwardsville city, Wyandotte County, Kansas",361.0,361.0,0.0,0.0,0.0,0.0,209,20000,20
+2003139675,"LeRoy township, Coffey County, Kansas",31.0,5.0,0.0,26.0,0.0,0.0,031,39675,20
+2015171233,"Township 8, Pratt County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,151,71233,20
+2015171242,"Township 10, Pratt County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,151,71242,20
+2012771210,"Township 3, Morris County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,127,71210,20
+2012771214,"Township 4, Morris County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,127,71214,20
+2012771218,"Township 5, Morris County, Kansas",16.0,13.0,0.0,0.0,3.0,0.0,127,71218,20
+2012771222,"Township 6, Morris County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,127,71222,20
+2012771227,"Township 7, Morris County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,127,71227,20
+2012771237,"Township 9, Morris County, Kansas",17.0,17.0,0.0,0.0,0.0,0.0,127,71237,20
+2016371203,"Township 1, Rooks County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,163,71203,20
+2016371207,"Township 2, Rooks County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,163,71207,20
+2016371211,"Township 3, Rooks County, Kansas",46.0,46.0,0.0,0.0,0.0,0.0,163,71211,20
+2016371215,"Township 4, Rooks County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,163,71215,20
+2016371219,"Township 5, Rooks County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,163,71219,20
+2016371224,"Township 6, Rooks County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,163,71224,20
+2016371229,"Township 7, Rooks County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,163,71229,20
+2016371234,"Township 8, Rooks County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,163,71234,20
+2016371239,"Township 9, Rooks County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,163,71239,20
+2016371243,"Township 10, Rooks County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,163,71243,20
+2016371246,"Township 11, Rooks County, Kansas",75.0,64.0,0.0,11.0,0.0,0.0,163,71246,20
+2016371249,"Township 12, Rooks County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,163,71249,20
+2015171248,"Township 12, Pratt County, Kansas",30.0,30.0,0.0,0.0,0.0,0.0,151,71248,20
+2012771232,"Township 8, Morris County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,127,71232,20
+2009953450,"Oswego city, Labette County, Kansas",18.0,15.0,1.0,2.0,0.0,0.0,099,53450,20
+2009910325,"Canada township, Labette County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,099,10325,20
+2009954675,"Parsons city, Labette County, Kansas",706.0,546.0,100.0,0.0,60.0,0.0,099,54675,20
+2009929350,"Hackberry township, Labette County, Kansas",23.0,5.0,0.0,0.0,18.0,0.0,099,29350,20
+2009950975,"North township, Labette County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,099,50975,20
+2009933300,"Howard township, Labette County, Kansas",12.0,0.0,12.0,0.0,0.0,0.0,099,33300,20
+2009940175,"Liberty township, Labette County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,099,40175,20
+2009948950,"Mount Pleasant township, Labette County, Kansas",32.0,28.0,0.0,4.0,0.0,0.0,099,48950,20
+2009949775,"Neosho township, Labette County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,099,49775,20
+2009953475,"Oswego township, Labette County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,099,53475,20
+2009912950,"Chetopa city, Labette County, Kansas",29.0,8.0,0.0,21.0,0.0,0.0,099,12950,20
+2009920750,"Elm Grove township, Labette County, Kansas",12.0,12.0,0.0,0.0,0.0,0.0,099,20750,20
+2009975250,"Walton township, Labette County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,099,75250,20
+2010740200,"Liberty township, Linn County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,107,40200,20
+2010740825,"Lincoln township, Linn County, Kansas",81.0,77.0,0.0,4.0,0.0,0.0,107,40825,20
+2010764700,"Sheridan township, Linn County, Kansas",6.0,2.0,2.0,0.0,0.0,2.0,107,64700,20
+2010763550,"Scott township, Linn County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,107,63550,20
+2010757175,"Potosi township, Linn County, Kansas",22.0,22.0,0.0,0.0,0.0,0.0,107,57175,20
+2010767875,"Stanton township, Linn County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,107,67875,20
+2010748775,"Mound City township, Linn County, Kansas",125.0,125.0,0.0,0.0,0.0,0.0,107,48775,20
+2010772925,"Valley township, Linn County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,107,72925,20
+201077625,"Blue Mound township, Linn County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,107,7625,20
+2010754375,"Paris township, Linn County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,107,54375,20
+2010712350,"Centerville township, Linn County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,107,12350,20
+2017362675,"Salem township, Sedgwick County, Kansas",360.0,360.0,0.0,0.0,0.0,0.0,173,62675,20
+2017372375,"Union township, Sedgwick County, Kansas",127.0,118.0,9.0,0.0,0.0,0.0,173,72375,20
+2017325400,"Garden Plain township, Sedgwick County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,173,25400,20
+2017327300,"Grand River township, Sedgwick County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,173,27300,20
+2017317375,"Delano township, Sedgwick County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,173,17375,20
+2017333775,"Illinois township, Sedgwick County, Kansas",322.0,322.0,0.0,0.0,0.0,0.0,173,33775,20
+2017350725,"Ninnescah township, Sedgwick County, Kansas",74.0,58.0,16.0,0.0,0.0,0.0,173,50725,20
+2017373275,"Valley Center township, Sedgwick County, Kansas",410.0,265.0,145.0,0.0,0.0,0.0,173,73275,20
+2010322325,"Fairmount township, Leavenworth County, Kansas",149.0,149.0,0.0,0.0,0.0,0.0,103,22325,20
+2010339000,"Leavenworth city, Leavenworth County, Kansas",3237.0,2007.0,662.0,169.0,384.0,15.0,103,39000,20
+2010317450,"Delaware township, Leavenworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,103,17450,20
+2010332125,"High Prairie township, Leavenworth County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,103,32125,20
+2010358950,"Reno township, Leavenworth County, Kansas",78.0,60.0,0.0,18.0,0.0,0.0,103,58950,20
+2010319625,"Easton township, Leavenworth County, Kansas",58.0,56.0,2.0,0.0,0.0,0.0,103,19625,20
+2010336700,"Kickapoo township, Leavenworth County, Kansas",102.0,84.0,18.0,0.0,0.0,0.0,103,36700,20
+2017779350,"Williamsport township, Shawnee County, Kansas",283.0,263.0,20.0,0.0,0.0,0.0,177,79350,20
+2017745850,"Menoken township, Shawnee County, Kansas",208.0,208.0,0.0,0.0,0.0,0.0,177,45850,20
+2017747700,"Monmouth township, Shawnee County, Kansas",51.0,43.0,8.0,0.0,0.0,0.0,177,47700,20
+2017766225,"Soldier township, Shawnee County, Kansas",641.0,498.0,59.0,45.0,0.0,39.0,177,66225,20
+2017771025,"Topeka township, Shawnee County, Kansas",23.0,23.0,0.0,0.0,0.0,0.0,177,71025,20
+2017770100,"Tecumseh township, Shawnee County, Kansas",816.0,791.0,25.0,0.0,0.0,0.0,177,70100,20
+201773275,"Auburn township, Shawnee County, Kansas",84.0,84.0,0.0,0.0,0.0,0.0,177,3275,20
+2017747275,"Mission township, Shawnee County, Kansas",524.0,449.0,44.0,12.0,10.0,9.0,177,47275,20
+2017771000,"Topeka city, Shawnee County, Kansas",17798.0,14803.0,1843.0,480.0,557.0,115.0,177,71000,20
+2017761425,"Rossville township, Shawnee County, Kansas",266.0,266.0,0.0,0.0,0.0,0.0,177,61425,20
+2017729075,"Grove township, Shawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,177,29075,20
+2017765625,"Silver Lake township, Shawnee County, Kansas",68.0,68.0,0.0,0.0,0.0,0.0,177,65625,20
+2017718475,"Dover township, Shawnee County, Kansas",169.0,169.0,0.0,0.0,0.0,0.0,177,18475,20
+2018174175,"Voltaire township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,74175,20
+2018128150,"Grant township, Sherman County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,181,28150,20
+2018142250,"Logan township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,42250,20
+2018134600,"Itasca township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,34600,20
+2018126875,"Goodland city, Sherman County, Kansas",578.0,497.0,0.0,2.0,79.0,0.0,181,26875,20
+2018141650,"Llanos township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,41650,20
+2018165950,"Smoky township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,65950,20
+2018168150,"Stateline township, Sherman County, Kansas",63.0,62.0,0.0,0.0,1.0,0.0,181,68150,20
+2018141175,"Lincoln township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,41175,20
+2018175750,"Washington township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,75750,20
+2018165175,"Shermanville township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,65175,20
+2018172425,"Union township, Sherman County, Kansas",1.0,1.0,0.0,0.0,0.0,0.0,181,72425,20
+2018144025,"McPherson township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,44025,20
+2018134450,"Iowa township, Sherman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,181,34450,20
+2018744400,"Manter township, Stanton County, Kansas",62.0,38.0,0.0,4.0,20.0,0.0,187,44400,20
+2018767975,"Stanton township, Stanton County, Kansas",631.0,605.0,2.0,4.0,0.0,20.0,187,67975,20
+201876600,"Big Bow township, Stanton County, Kansas",74.0,36.0,23.0,0.0,15.0,0.0,187,6600,20
+2017352450,"Ohio township, Sedgwick County, Kansas",41.0,41.0,0.0,0.0,0.0,0.0,173,52450,20
+201735337,"Bel Aire city, Sedgwick County, Kansas",416.0,255.0,161.0,0.0,0.0,0.0,173,5337,20
+2017321550,"Erie township, Sedgwick County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,173,21550,20
+2017328400,"Greeley township, Sedgwick County, Kansas",58.0,55.0,0.0,3.0,0.0,0.0,173,28400,20
+201733125,"Attica township, Sedgwick County, Kansas",380.0,353.0,2.0,0.0,11.0,14.0,173,3125,20
+2017347125,"Minneha township, Sedgwick County, Kansas",257.0,240.0,17.0,0.0,0.0,0.0,173,47125,20
+2017348550,"Morton township, Sedgwick County, Kansas",106.0,106.0,0.0,0.0,0.0,0.0,173,48550,20
+2017360125,"Riverside township, Sedgwick County, Kansas",1249.0,1169.0,74.0,0.0,6.0,0.0,173,60125,20
+2017374300,"Waco township, Sedgwick County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,173,74300,20
+2017341150,"Lincoln township, Sedgwick County, Kansas",9.0,9.0,0.0,0.0,0.0,0.0,173,41150,20
+20173425,"Afton township, Sedgwick County, Kansas",35.0,35.0,0.0,0.0,0.0,0.0,173,425,20
+2017336250,"Kechi township, Sedgwick County, Kansas",656.0,584.0,37.0,12.0,18.0,5.0,173,36250,20
+2017374050,"Viola township, Sedgwick County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,173,74050,20
+2017354425,"Park township, Sedgwick County, Kansas",404.0,188.0,216.0,0.0,0.0,0.0,173,54425,20
+2017355075,"Payne township, Sedgwick County, Kansas",57.0,57.0,0.0,0.0,0.0,0.0,173,55075,20
+2017365100,"Sherman township, Sedgwick County, Kansas",67.0,59.0,0.0,2.0,6.0,0.0,173,65100,20
+2017379000,"Wichita city, Sedgwick County, Kansas",63391.0,53048.0,7542.0,866.0,1769.0,166.0,173,79000,20
+2017328125,"Grant township, Sedgwick County, Kansas",19.0,12.0,7.0,0.0,0.0,0.0,173,28125,20
+2017319250,"Eagle township, Sedgwick County, Kansas",76.0,76.0,0.0,0.0,0.0,0.0,173,19250,20
+2017329300,"Gypsum township, Sedgwick County, Kansas",879.0,745.0,49.0,0.0,64.0,21.0,173,29300,20
+2017360675,"Rockford township, Sedgwick County, Kansas",816.0,717.0,67.0,0.0,32.0,0.0,173,60675,20
+2017523000,"Fargo township, Seward County, Kansas",1016.0,997.0,13.0,1.0,5.0,0.0,175,23000,20
+2017539825,"Liberal city, Seward County, Kansas",12394.0,9946.0,1679.0,212.0,416.0,141.0,175,39825,20
+2017539850,"Liberal township, Seward County, Kansas",61.0,61.0,0.0,0.0,0.0,0.0,175,39850,20
+2017564075,"Seward township, Seward County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,175,64075,20
+2000359175,"Rich township, Anderson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,003,59175,20
+2002565725,"Sitka township, Clark County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,025,65725,20
+200252100,"Appleton township, Clark County, Kansas",125.0,90.0,0.0,0.0,30.0,5.0,025,2100,20
+2002521375,"Englewood township, Clark County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,025,21375,20
+2002539900,"Liberty township, Clark County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,025,39900,20
+2002511600,"Center township, Clark County, Kansas",52.0,32.0,9.0,11.0,0.0,0.0,025,11600,20
+2002539775,"Lexington township, Clark County, Kansas",47.0,47.0,0.0,0.0,0.0,0.0,025,39775,20
+2005349050,"Mulberry township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,49050,20
+2005354100,"Palacky township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,54100,20
+2005371525,"Trivoli township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,71525,20
+200532575,"Ash Creek township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,2575,20
+2005321150,"Empire township, Ellsworth County, Kansas",19.0,0.0,0.0,0.0,19.0,0.0,053,21150,20
+2005364950,"Sherman township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,64950,20
+2005370450,"Thomas township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,70450,20
+2012148700,"Mound township, Miami County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,121,48700,20
+2012168825,"Sugar Creek township, Miami County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,121,68825,20
+2012153175,"Osage township, Miami County, Kansas",21.0,21.0,0.0,0.0,0.0,0.0,121,53175,20
+2012176225,"Wea township, Miami County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,121,76225,20
+2012159475,"Richland township, Miami County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,121,59475,20
+2012167625,"Spring Hill city, Miami County, Kansas",190.0,190.0,0.0,0.0,0.0,0.0,121,67625,20
+2012170125,"Ten Mile township, Miami County, Kansas",32.0,32.0,0.0,0.0,0.0,0.0,121,70125,20
+2012146225,"Middle Creek township, Miami County, Kansas",19.0,19.0,0.0,0.0,0.0,0.0,121,46225,20
+2012153250,"Osawatomie township, Miami County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,121,53250,20
+2012172950,"Valley township, Miami County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,121,72950,20
+2012146100,"Miami township, Miami County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,121,46100,20
+2012153225,"Osawatomie city, Miami County, Kansas",284.0,87.0,193.0,4.0,0.0,0.0,121,53225,20
+2012154275,"Paola township, Miami County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,121,54275,20
+2001715875,"Cottonwood township, Chase County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,017,15875,20
+2001722850,"Falls township, Chase County, Kansas",85.0,44.0,17.0,15.0,9.0,0.0,017,22850,20
+2001732950,"Homestead township, Chase County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,017,32950,20
+2005379700,"Wilson township, Ellsworth County, Kansas",11.0,11.0,0.0,0.0,0.0,0.0,053,79700,20
+2005310800,"Carneiro township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,10800,20
+2005338600,"Langley township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,38600,20
+200537025,"Black Wolf township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,7025,20
+2005320500,"Ellsworth city, Ellsworth County, Kansas",261.0,225.0,0.0,24.0,12.0,0.0,053,20500,20
+2005328600,"Green Garden township, Ellsworth County, Kansas",17.0,17.0,0.0,0.0,0.0,0.0,053,28600,20
+2005350825,"Noble township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,50825,20
+2005313725,"Clear Creek township, Ellsworth County, Kansas",9.0,6.0,0.0,3.0,0.0,0.0,053,13725,20
+2005315025,"Columbia township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,15025,20
+2005340675,"Lincoln township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,40675,20
+2005320525,"Ellsworth township, Ellsworth County, Kansas",55.0,50.0,5.0,0.0,0.0,0.0,053,20525,20
+2005325575,"Garfield township, Ellsworth County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,053,25575,20
+2005372800,"Valley township, Ellsworth County, Kansas",8.0,6.0,0.0,0.0,2.0,0.0,053,72800,20
+200617275,"Blakely township, Geary County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,061,7275,20
+2006140050,"Liberty township, Geary County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,061,40050,20
+2006166000,"Smoky Hill township, Geary County, Kansas",1454.0,1064.0,141.0,44.0,124.0,81.0,061,66000,20
+2006146550,"Milford township, Geary County, Kansas",148.0,148.0,0.0,0.0,0.0,0.0,061,46550,20
+2006180025,"Wingfield township, Geary County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,061,80025,20
+2006135750,"Junction City city, Geary County, Kansas",3193.0,2102.0,360.0,160.0,530.0,41.0,061,35750,20
+2006134775,"Jackson township, Geary County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,061,34775,20
+2006135200,"Jefferson township, Geary County, Kansas",623.0,364.0,51.0,41.0,160.0,7.0,061,35200,20
+2006143500,"Lyon township, Geary County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,061,43500,20
+2007730175,"Harper city, Harper County, Kansas",115.0,112.0,0.0,3.0,0.0,0.0,077,30175,20
+200771975,"Anthony city, Harper County, Kansas",176.0,141.0,0.0,32.0,3.0,0.0,077,1975,20
+200579025,"Bucklin township, Ford County, Kansas",142.0,142.0,0.0,0.0,0.0,0.0,057,9025,20
+2005723750,"Ford township, Ford County, Kansas",32.0,20.0,0.0,12.0,0.0,0.0,057,23750,20
+2005766150,"Sodville township, Ford County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,057,66150,20
+2005715150,"Concord township, Ford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,057,15150,20
+2005759300,"Richland township, Ford County, Kansas",824.0,824.0,0.0,0.0,0.0,0.0,057,59300,20
+2005718225,"Dodge township, Ford County, Kansas",58.0,29.0,29.0,0.0,0.0,0.0,057,18225,20
+2005722500,"Fairview township, Ford County, Kansas",11.0,11.0,0.0,0.0,0.0,0.0,057,22500,20
+201894125,"Banner township, Stevens County, Kansas",60.0,0.0,0.0,60.0,0.0,0.0,189,4125,20
+2018948625,"Moscow township, Stevens County, Kansas",193.0,193.0,0.0,0.0,0.0,0.0,189,48625,20
+2018974200,"Voorhees township, Stevens County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,189,74200,20
+2018912200,"Center township, Stevens County, Kansas",1755.0,1575.0,1.0,2.0,171.0,6.0,189,12200,20
+2018930150,"Harmony township, Stevens County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,189,30150,20
+2018976800,"West Center township, Stevens County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,189,76800,20
+2020123275,"Farmington township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,23275,20
+2020132025,"Highland township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,32025,20
+2020141500,"Little Blue township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,41500,20
+2020142300,"Logan township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,42300,20
+2020175850,"Washington township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,75850,20
+2020128650,"Greenleaf township, Washington County, Kansas",47.0,37.0,0.0,8.0,0.0,2.0,201,28650,20
+2020129425,"Haddam township, Washington County, Kansas",3.0,1.0,2.0,0.0,0.0,0.0,201,29425,20
+2020141250,"Lincoln township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,41250,20
+2020114750,"Coleman township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,14750,20
+2020165125,"Sherman township, Washington County, Kansas",27.0,11.0,0.0,0.0,16.0,0.0,201,65125,20
+2020128175,"Grant township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,28175,20
+2020168550,"Strawberry township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,68550,20
+2020172475,"Union township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,72475,20
+2020112625,"Charleston township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,12625,20
+2020133950,"Independence township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,33950,20
+2020146750,"Mill Creek township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,46750,20
+202018250,"Brantford township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,8250,20
+2020114225,"Clifton township, Washington County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,201,14225,20
+2020124525,"Franklin township, Washington County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,201,24525,20
+202014275,"Barnes township, Washington County, Kansas",37.0,37.0,0.0,0.0,0.0,0.0,201,4275,20
+2020129900,"Hanover township, Washington County, Kansas",1.0,1.0,0.0,0.0,0.0,0.0,201,29900,20
+2020136850,"Kimeo township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,36850,20
+2020141450,"Linn township, Washington County, Kansas",45.0,36.0,0.0,1.0,8.0,0.0,201,41450,20
+2020175825,"Washington city, Washington County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,201,75825,20
+2020164775,"Sheridan township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,64775,20
+2020143025,"Lowe township, Washington County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,201,43025,20
+2020339575,"Leoti township, Wichita County, Kansas",579.0,456.0,105.0,6.0,12.0,0.0,203,39575,20
+2001911575,"Center township, Chautauqua County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,019,11575,20
+2001935125,"Jefferson township, Chautauqua County, Kansas",33.0,33.0,0.0,0.0,0.0,0.0,019,35125,20
+2018330550,"Harvey township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,30550,20
+2018378000,"White Rock township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,78000,20
+2018345000,"Martin township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,45000,20
+2018333225,"Houston township, Smith County, Kansas",34.0,34.0,0.0,0.0,0.0,0.0,183,33225,20
+2018338450,"Lane township, Smith County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,183,38450,20
+2018311350,"Cedar township, Smith County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,183,11350,20
+2018312175,"Center township, Smith County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,183,12175,20
+2018318300,"Dor township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,18300,20
+2018342275,"Logan township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,42275,20
+2018354825,"Pawnee township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,54825,20
+2018373175,"Valley township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,73175,20
+2018376275,"Webster township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,76275,20
+201837200,"Blaine township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,7200,20
+2018316575,"Crystal Plains township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,16575,20
+2018369625,"Swan township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,69625,20
+2018375775,"Washington township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,75775,20
+201835200,"Beaver township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,5200,20
+2018315525,"Cora township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,15525,20
+2018330100,"Harlan township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,30100,20
+2018351650,"Oak township, Smith County, Kansas",11.0,11.0,0.0,0.0,0.0,0.0,183,51650,20
+201834100,"Banner township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,4100,20
+2018326150,"German township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,26150,20
+2018356300,"Pleasant township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,56300,20
+2018325825,"Garfield township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,25825,20
+2018341200,"Lincoln township, Smith County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,183,41200,20
+2012771202,"Township 1, Morris County, Kansas",48.0,26.0,22.0,0.0,0.0,0.0,127,71202,20
+2007771201,"Township 1, Harper County, Kansas",56.0,51.0,0.0,5.0,0.0,0.0,077,71201,20
+2012771206,"Township 2, Morris County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,127,71206,20
+2007771213,"Township 4, Harper County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,077,71213,20
+2015171245,"Township 11, Pratt County, Kansas",11.0,11.0,0.0,0.0,0.0,0.0,151,71245,20
+2007771205,"Township 2, Harper County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,077,71205,20
+2011512437,"Centre township, Marion County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,115,12437,20
+2007771209,"Township 3, Harper County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,077,71209,20
+2007771217,"Township 5, Harper County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,077,71217,20
+2007771221,"Township 6, Harper County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,077,71221,20
+2011525075,"Gale township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,25075,20
+2011545800,"Menno township, Marion County, Kansas",15.0,2.0,0.0,13.0,0.0,0.0,115,45800,20
+2011579750,"Wilson township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,79750,20
+2011519325,"East Branch township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,19325,20
+2011541950,"Logan township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,41950,20
+2011569100,"Summit township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,69100,20
+2011576775,"West Branch township, Marion County, Kansas",60.0,60.0,0.0,0.0,0.0,0.0,115,76775,20
+2011513750,"Clear Creek township, Marion County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,115,13750,20
+2011540225,"Liberty township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,40225,20
+2011544750,"Marion city, Marion County, Kansas",49.0,41.0,7.0,1.0,0.0,0.0,115,44750,20
+201157125,"Blaine township, Marion County, Kansas",12.0,12.0,0.0,0.0,0.0,0.0,115,7125,20
+2011513500,"Clark township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,13500,20
+2011522350,"Fairplay township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,22350,20
+2011548100,"Moore township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,48100,20
+2011514800,"Colfax township, Marion County, Kansas",10.0,2.0,5.0,3.0,0.0,0.0,115,14800,20
+2011518550,"Doyle township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,18550,20
+2011519100,"Durham Park township, Marion County, Kansas",8.0,5.0,0.0,0.0,0.0,3.0,115,19100,20
+2011527775,"Grant township, Marion County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,115,27775,20
+2011532275,"Hillsboro city, Marion County, Kansas",141.0,106.0,5.0,30.0,0.0,0.0,115,32275,20
+2011555125,"Peabody township, Marion County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,115,55125,20
+2013337600,"Ladore township, Neosho County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,133,37600,20
+2013340875,"Lincoln township, Neosho County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,133,40875,20
+2013321525,"Erie township, Neosho County, Kansas",62.0,44.0,2.0,16.0,0.0,0.0,133,21525,20
+2013375175,"Walnut Grove township, Neosho County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,133,75175,20
+2013310525,"Canville township, Neosho County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,133,10525,20
+2013312500,"Chanute city, Neosho County, Kansas",598.0,457.0,141.0,0.0,0.0,0.0,133,12500,20
+2013365300,"Shiloh township, Neosho County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,133,65300,20
+2013312975,"Chetopa township, Neosho County, Kansas",47.0,47.0,0.0,0.0,0.0,0.0,133,12975,20
+2013312375,"Centerville township, Neosho County, Kansas",19.0,19.0,0.0,0.0,0.0,0.0,133,12375,20
+201336675,"Big Creek township, Neosho County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,133,6675,20
+2013327800,"Grant township, Neosho County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,133,27800,20
+2013347250,"Mission township, Neosho County, Kansas",69.0,61.0,0.0,0.0,8.0,0.0,133,47250,20
+2002727025,"Goshen township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,27025,20
+2002727500,"Grant township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,27500,20
+2002764850,"Sherman township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,64850,20
+2002772075,"Union township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,72075,20
+2002751725,"Oakland township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,51725,20
+200272950,"Athelstane township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,2950,20
+2002712525,"Chapman township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,12525,20
+2002713650,"Clay Center township, Clay County, Kansas",24.0,24.0,0.0,0.0,0.0,0.0,027,13650,20
+2002730875,"Hayes township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,30875,20
+2002723475,"Five Creeks township, Clay County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,027,23475,20
+2002726250,"Gill township, Clay County, Kansas",51.0,51.0,0.0,0.0,0.0,0.0,027,26250,20
+201054525,"Battle Creek township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,4525,20
+2010524425,"Franklin township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,24425,20
+2010534025,"Indiana township, Lincoln County, Kansas",24.0,0.0,24.0,0.0,0.0,0.0,105,34025,20
+201055075,"Beaver township, Lincoln County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,105,5075,20
+2010520375,"Elkhorn township, Lincoln County, Kansas",48.0,47.0,0.0,1.0,0.0,0.0,105,20375,20
+2010541925,"Logan township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,41925,20
+2010556275,"Pleasant township, Lincoln County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,105,56275,20
+2010572900,"Valley township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,72900,20
+2010527750,"Grant township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,27750,20
+2010544725,"Marion township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,44725,20
+2010562800,"Salt Creek township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,62800,20
+2010573650,"Vesper township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,73650,20
+2010511500,"Cedron township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,11500,20
+2010526800,"Golden Belt township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,26800,20
+2010529850,"Hanover township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,29850,20
+2010531950,"Highland township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,31950,20
+2010544100,"Madison township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,44100,20
+2010563525,"Scott township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,63525,20
+2010515000,"Colorado township, Lincoln County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,105,15000,20
+2010552950,"Orange township, Lincoln County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,105,52950,20
+2016920650,"Elm Creek township, Saline County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,169,20650,20
+2016922925,"Falun township, Saline County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,169,22925,20
+2016928375,"Greeley township, Saline County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,169,28375,20
+2016921925,"Eureka township, Saline County, Kansas",16.0,5.0,6.0,5.0,0.0,0.0,169,21925,20
+2016940350,"Liberty township, Saline County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,169,40350,20
+2016966050,"Smoky Hill township, Saline County, Kansas",155.0,155.0,0.0,0.0,0.0,0.0,169,66050,20
+2016956625,"Pleasant Valley township, Saline County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,169,56625,20
+2008329525,"Hallet township, Hodgeman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,083,29525,20
+2008366900,"South Roscoe township, Hodgeman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,083,66900,20
+200836225,"Benton township, Hodgeman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,083,6225,20
+2008368175,"Sterling township, Hodgeman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,083,68175,20
+2008363225,"Sawlog township, Hodgeman County, Kansas",20.0,20.0,0.0,0.0,0.0,0.0,083,63225,20
+2008311725,"Center township, Hodgeman County, Kansas",45.0,26.0,0.0,0.0,19.0,0.0,083,11725,20
+2008351350,"North Roscoe township, Hodgeman County, Kansas",15.0,8.0,7.0,0.0,0.0,0.0,083,51350,20
+2008372825,"Valley township, Hodgeman County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,083,72825,20
+2008344575,"Marena township, Hodgeman County, Kansas",50.0,14.0,18.0,6.0,12.0,0.0,083,44575,20
+2008977925,"White Mound township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,77925,20
+200899550,"Burr Oak township, Jewell County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,089,9550,20
+2008932800,"Holmwood township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,32800,20
+2008965675,"Sinclair township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,65675,20
+200892975,"Athens township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,2975,20
+2008952125,"Odessa township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,52125,20
+2008975000,"Walnut township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,75000,20
+2008927725,"Grant township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,27725,20
+200899125,"Buffalo township, Jewell County, Kansas",26.0,26.0,0.0,0.0,0.0,0.0,089,9125,20
+2008921625,"Esbon township, Jewell County, Kansas",11.0,11.0,0.0,0.0,0.0,0.0,089,21625,20
+200898725,"Browns Creek township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,8725,20
+2008934800,"Jackson township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,34800,20
+2001333200,"Horton city, Brown County, Kansas",122.0,97.0,0.0,11.0,8.0,6.0,013,33200,20
+2001357375,"Powhattan township, Brown County, Kansas",49.0,44.0,0.0,5.0,0.0,0.0,013,57375,20
+2001374875,"Walnut township, Brown County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,013,74875,20
+2001331675,"Hiawatha city, Brown County, Kansas",173.0,101.0,70.0,2.0,0.0,0.0,013,31675,20
+2001334500,"Irving township, Brown County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,013,34500,20
+2001347200,"Mission township, Brown County, Kansas",12.0,12.0,0.0,0.0,0.0,0.0,013,47200,20
+2001354025,"Padonia township, Brown County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,013,54025,20
+2001375525,"Washington township, Brown County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,013,75525,20
+2001360350,"Robinson township, Brown County, Kansas",10.0,5.0,5.0,0.0,0.0,0.0,013,60350,20
+2001331700,"Hiawatha township, Brown County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,013,31700,20
+2001362025,"Sabetha city, Brown County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,013,62025,20
+2001329725,"Hamlin township, Brown County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,013,29725,20
+201437150,"Blaine township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,7150,20
+2014342050,"Logan township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,42050,20
+2014353600,"Ottawa township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,53600,20
+2014324075,"Fountain township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,24075,20
+2014348500,"Morton township, Ottawa County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,143,48500,20
+2014364725,"Sheridan township, Ottawa County, Kansas",9.0,9.0,0.0,0.0,0.0,0.0,143,64725,20
+2014315175,"Concord township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,15175,20
+2014316725,"Culver township, Ottawa County, Kansas",9.0,9.0,0.0,0.0,0.0,0.0,143,16725,20
+201438975,"Buckeye township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,8975,20
+2014319075,"Durham township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,19075,20
+2014331325,"Henry township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,31325,20
+2014311975,"Center township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,11975,20
+2014312575,"Chapman township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,12575,20
+2014340950,"Lincoln township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,40950,20
+2014365025,"Sherman township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,65025,20
+2014367950,"Stanton township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,67950,20
+2014325725,"Garfield township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,25725,20
+201436100,"Bennington township, Ottawa County, Kansas",54.0,39.0,9.0,0.0,0.0,6.0,143,6100,20
+2014359500,"Richland township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,59500,20
+201475100,"Beaver township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,5100,20
+2014728775,"Greenwood township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,28775,20
+2015722575,"Fairview township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,22575,20
+2015724675,"Freedom township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,24675,20
+2015735325,"Jefferson township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,35325,20
+2015775700,"Washington township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,75700,20
+2015777975,"White Rock township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,77975,20
+2015716050,"Courtland township, Republic County, Kansas",20.0,20.0,0.0,0.0,0.0,0.0,157,16050,20
+2015723200,"Farmington township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,23200,20
+20157900,"Albion township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,900,20
+201575600,"Belleville city, Republic County, Kansas",26.0,26.0,0.0,0.0,0.0,0.0,157,5600,20
+201576550,"Big Bend township, Republic County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,157,6550,20
+2015759575,"Richland township, Republic County, Kansas",18.0,13.0,0.0,5.0,0.0,0.0,157,59575,20
+2015763375,"Scandia township, Republic County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,157,63375,20
+2006768875,"Sullivan township, Grant County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,067,68875,20
+2006764975,"Sherman township, Grant County, Kansas",47.0,47.0,0.0,0.0,0.0,0.0,067,64975,20
+2006740725,"Lincoln township, Grant County, Kansas",3537.0,3036.0,371.0,76.0,54.0,0.0,067,40725,20
+2008532825,"Holton city, Jackson County, Kansas",144.0,71.0,69.0,4.0,0.0,0.0,085,32825,20
+2008527700,"Grant township, Jackson County, Kansas",6.0,0.0,0.0,6.0,0.0,0.0,085,27700,20
+2008540125,"Liberty township, Jackson County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,085,40125,20
+200854025,"Banner township, Jackson County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,085,4025,20
+2008535225,"Jefferson township, Jackson County, Kansas",2.0,0.0,0.0,2.0,0.0,0.0,085,35225,20
+2008524400,"Franklin township, Jackson County, Kansas",63.0,63.0,0.0,0.0,0.0,0.0,085,24400,20
+2008940450,"Limestone township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,40450,20
+2008910075,"Calvin township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,10075,20
+2008930350,"Harrison township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,30350,20
+2008931900,"Highland township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,31900,20
+2008957400,"Prairie township, Jewell County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,089,57400,20
+2008973725,"Vicksburg township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,73725,20
+2008911750,"Center township, Jewell County, Kansas",27.0,19.0,8.0,0.0,0.0,0.0,089,11750,20
+2008921575,"Erving township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,21575,20
+2008934375,"Ionia township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,34375,20
+200891225,"Allen township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,1225,20
+2008975650,"Washington township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,75650,20
+2008947800,"Montana township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,47800,20
+2008959375,"Richland township, Jewell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,089,59375,20
+2009330500,"Hartland township, Kearny County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,093,30500,20
+2009319550,"East Hibbard township, Kearny County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,093,19550,20
+2009377050,"West Hibbard township, Kearny County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,093,77050,20
+2013370650,"Tioga township, Neosho County, Kansas",9.0,9.0,0.0,0.0,0.0,0.0,133,70650,20
+2001348325,"Morrill township, Brown County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,013,48325,20
+2016966375,"Solomon township, Saline County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,169,66375,20
+2016929275,"Gypsum township, Saline County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,169,29275,20
+2016975725,"Washington township, Saline County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,169,75725,20
+2016966075,"Smoky View township, Saline County, Kansas",20.0,3.0,5.0,12.0,0.0,0.0,169,66075,20
+2014327900,"Grant township, Ottawa County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,143,27900,20
+2014347075,"Minneapolis city, Ottawa County, Kansas",77.0,55.0,7.0,15.0,0.0,0.0,143,47075,20
+2016926475,"Glendale township, Saline County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,169,26475,20
+2016967500,"Spring Creek township, Saline County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,169,67500,20
+2016910100,"Cambria township, Saline County, Kansas",5.0,0.0,3.0,0.0,2.0,0.0,169,10100,20
+2016917125,"Dayton township, Saline County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,169,17125,20
+2016962700,"Salina city, Saline County, Kansas",5663.0,4310.0,562.0,363.0,393.0,35.0,169,62700,20
+2016966125,"Smolan township, Saline County, Kansas",15.0,15.0,0.0,0.0,0.0,0.0,169,66125,20
+2016975125,"Walnut township, Saline County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,169,75125,20
+2016952425,"Ohio township, Saline County, Kansas",36.0,36.0,0.0,0.0,0.0,0.0,169,52425,20
+2019154175,"Palestine township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,54175,20
+201917750,"Bluff township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,7750,20
+2019116300,"Creek township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,16300,20
+2019148375,"Morris township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,48375,20
+2019173350,"Valverde township, Sumner County, Kansas",12.0,12.0,0.0,0.0,0.0,0.0,191,73350,20
+201919900,"Caldwell city, Sumner County, Kansas",36.0,34.0,0.0,0.0,2.0,0.0,191,9900,20
+2019126975,"Gore township, Sumner County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,191,26975,20
+2019130125,"Harmon township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,30125,20
+2019142400,"London township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,42400,20
+2019167575,"Springdale township, Sumner County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,191,67575,20
+2019175300,"Walton township, Sumner County, Kansas",1.0,1.0,0.0,0.0,0.0,0.0,191,75300,20
+2019176500,"Wellington township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,76500,20
+201919925,"Caldwell township, Sumner County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,191,9925,20
+2019118200,"Dixon township, Sumner County, Kansas",27.0,24.0,3.0,0.0,0.0,0.0,191,18200,20
+2019118525,"Downs township, Sumner County, Kansas",2.0,0.0,0.0,0.0,2.0,0.0,191,18525,20
+2019122875,"Falls township, Sumner County, Kansas",17.0,10.0,7.0,0.0,0.0,0.0,191,22875,20
+2019129175,"Guelph township, Sumner County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,191,29175,20
+2019133800,"Illinois township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,33800,20
+2019134925,"Jackson township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,34925,20
+2019153875,"Oxford township, Sumner County, Kansas",123.0,113.0,0.0,10.0,0.0,0.0,191,53875,20
+2019161950,"Ryan township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,61950,20
+2019115300,"Conway township, Sumner County, Kansas",29.0,3.0,26.0,0.0,0.0,0.0,191,15300,20
+2019119800,"Eden township, Sumner County, Kansas",3.0,0.0,0.0,3.0,0.0,0.0,191,19800,20
+201913575,"Avon township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,3575,20
+2019113150,"Chikaskia township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,13150,20
+2019128525,"Greene township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,28525,20
+2019176475,"Wellington city, Sumner County, Kansas",730.0,699.0,31.0,0.0,0.0,0.0,191,76475,20
+2009336450,"Kendall township, Kearny County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,093,36450,20
+2009338200,"Lakin township, Kearny County, Kansas",636.0,583.0,0.0,0.0,53.0,0.0,093,38200,20
+2009317250,"Deerfield township, Kearny County, Kansas",581.0,515.0,0.0,66.0,0.0,0.0,093,17250,20
+2009367025,"Southside township, Kearny County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,093,67025,20
+2015968225,"Sterling township, Rice County, Kansas",14.0,0.0,14.0,0.0,0.0,0.0,159,68225,20
+201593075,"Atlanta township, Rice County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,159,3075,20
+2015912075,"Center township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,12075,20
+2015925175,"Galt township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,25175,20
+2015930425,"Harrison township, Rice County, Kansas",74.0,67.0,0.0,7.0,0.0,0.0,159,30425,20
+2015977425,"West Washington township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,77425,20
+2015952150,"Odessa township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,52150,20
+2015919725,"East Washington township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,19725,20
+2015960725,"Rockville township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,60725,20
+2015979775,"Wilson township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,79775,20
+2015947525,"Mitchell township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,47525,20
+2015958575,"Raymond township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,58575,20
+2015972325,"Union township, Rice County, Kansas",24.0,22.0,2.0,0.0,0.0,0.0,159,72325,20
+2015941100,"Lincoln township, Rice County, Kansas",113.0,36.0,14.0,63.0,0.0,0.0,159,41100,20
+2015968200,"Sterling city, Rice County, Kansas",175.0,85.0,50.0,8.0,32.0,0.0,159,68200,20
+201595375,"Bell township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,5375,20
+2015955925,"Pioneer township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,55925,20
+2015923100,"Farmer township, Rice County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,159,23100,20
+2015973100,"Valley township, Rice County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,159,73100,20
+2015973825,"Victoria township, Rice County, Kansas",22.0,22.0,0.0,0.0,0.0,0.0,159,73825,20
+2015943525,"Lyons city, Rice County, Kansas",628.0,429.0,193.0,6.0,0.0,0.0,159,43525,20
+2015921900,"Eureka township, Rice County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,159,21900,20
+2018522675,"Fairview township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,22675,20
+201859825,"Byron township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,9825,20
+2018551375,"North Seward township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,51375,20
+2018580800,"York township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,80800,20
+20185800,"Albano township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,800,20
+2018561300,"Rose Valley township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,61300,20
+2018562300,"St. John township, Stafford County, Kansas",156.0,95.0,58.0,3.0,0.0,0.0,185,62300,20
+2018576875,"West Cooper township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,76875,20
+2018559650,"Richland township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,59650,20
+2018558050,"Putnam township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,58050,20
+2018513825,"Clear Creek township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,13825,20
+2018518375,"Douglas township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,18375,20
+2014748725,"Mound township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,48725,20
+2014717100,"Dayton township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,17100,20
+2014757550,"Prairie View township, Phillips County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,147,57550,20
+2014761800,"Rushville township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,61800,20
+2014755700,"Phillipsburg township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,55700,20
+2014737300,"Kirwin township, Phillips County, Kansas",2.0,0.0,2.0,0.0,0.0,0.0,147,37300,20
+201475700,"Belmont township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,5700,20
+2014775075,"Walnut township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,75075,20
+2014716550,"Crystal township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,16550,20
+2014742625,"Long Island township, Phillips County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,147,42625,20
+2014755675,"Phillipsburg city, Phillips County, Kansas",99.0,93.0,2.0,0.0,4.0,0.0,147,55675,20
+201472150,"Arcade township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,2150,20
+201478075,"Bow Creek township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,8075,20
+2014726650,"Glenwood township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,26650,20
+2014727450,"Granite township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,27450,20
+2014766350,"Solomon township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,66350,20
+2014742125,"Logan township, Phillips County, Kansas",18.0,18.0,0.0,0.0,0.0,0.0,147,42125,20
+2014771175,"Towanda township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,71175,20
+2014756775,"Plum township, Phillips County, Kansas",12.0,12.0,0.0,0.0,0.0,0.0,147,56775,20
+2014769175,"Sumner township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,69175,20
+2014717200,"Deer Creek township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,17200,20
+2014773025,"Valley township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,73025,20
+2014756125,"Plainview township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,56125,20
+2014724650,"Freedom township, Phillips County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,147,24650,20
+2016122950,"Fancy Creek township, Riley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,161,22950,20
+2016145225,"May Day township, Riley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,161,45225,20
+2016134900,"Jackson township, Riley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,161,34900,20
+2016152300,"Ogden township, Riley County, Kansas",142.0,66.0,30.0,36.0,10.0,0.0,161,52300,20
+2016165075,"Sherman township, Riley County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,161,65075,20
+201612725,"Ashland township, Riley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,161,2725,20
+2016144250,"Manhattan city, Riley County, Kansas",3773.0,2169.0,615.0,189.0,348.0,452.0,161,44250,20
+2016144275,"Manhattan township, Riley County, Kansas",394.0,394.0,0.0,0.0,0.0,0.0,161,44275,20
+2016179175,"Wildcat township, Riley County, Kansas",18.0,18.0,0.0,0.0,0.0,0.0,161,79175,20
+2016180900,"Zeandale township, Riley County, Kansas",60.0,60.0,0.0,0.0,0.0,0.0,161,80900,20
+201613825,"Bala township, Riley County, Kansas",30.0,30.0,0.0,0.0,0.0,0.0,161,3825,20
+2016128075,"Grant township, Riley County, Kansas",86.0,86.0,0.0,0.0,0.0,0.0,161,28075,20
+2016112100,"Center township, Riley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,161,12100,20
+2016144125,"Madison township, Riley County, Kansas",1539.0,1135.0,21.0,66.0,172.0,145.0,161,44125,20
+2016169650,"Swede Creek township, Riley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,161,69650,20
+2019169225,"Sumner township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,69225,20
+2019153335,"Osborne township, Sumner County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,191,53335,20
+201915525,"Belle Plaine township, Sumner County, Kansas",208.0,179.0,9.0,10.0,10.0,0.0,191,5525,20
+2019166675,"South Haven township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,66675,20
+2019164000,"Seventy-Six township, Sumner County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,191,64000,20
+2011329325,"Gypsum Creek township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,29325,20
+2011330950,"Hayes township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,30950,20
+2011367750,"Spring Valley township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,67750,20
+2011310500,"Canton township, McPherson County, Kansas",44.0,17.0,15.0,0.0,12.0,0.0,113,10500,20
+2011336900,"King City township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,36900,20
+2011321200,"Empire township, McPherson County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,113,21200,20
+2011330225,"Harper township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,30225,20
+2011369475,"Superior township, McPherson County, Kansas",108.0,108.0,0.0,0.0,0.0,0.0,113,69475,20
+201134550,"Battle Hill township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,4550,20
+2011341375,"Lindsborg city, McPherson County, Kansas",126.0,72.0,11.0,19.0,19.0,5.0,113,41375,20
+2008540750,"Lincoln township, Jackson County, Kansas",147.0,136.0,7.0,4.0,0.0,0.0,085,40750,20
+200577375,"Bloom township, Ford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,057,7375,20
+2005779100,"Wilburn township, Ford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,057,79100,20
+2005727350,"Grandview township, Ford County, Kansas",109.0,109.0,0.0,0.0,0.0,0.0,057,27350,20
+2005718250,"Dodge City city, Ford County, Kansas",16861.0,13984.0,1902.0,482.0,169.0,324.0,057,18250,20
+2005721450,"Enterprise township, Ford County, Kansas",280.0,280.0,0.0,0.0,0.0,0.0,057,21450,20
+2005761575,"Royal township, Ford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,057,61575,20
+2005767150,"Spearville township, Ford County, Kansas",64.0,64.0,0.0,0.0,0.0,0.0,057,67150,20
+2005777675,"Wheatland township, Ford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,057,77675,20
+2016780125,"Winterset township, Russell County, Kansas",12.0,5.0,0.0,7.0,0.0,0.0,167,80125,20
+2016722650,"Fairview township, Russell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,167,22650,20
+2016761825,"Russell city, Russell County, Kansas",157.0,34.0,36.0,53.0,34.0,0.0,167,61825,20
+201676700,"Big Creek township, Russell County, Kansas",16.0,11.0,0.0,5.0,0.0,0.0,167,6700,20
+2016728100,"Grant township, Russell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,167,28100,20
+2016774600,"Waldo township, Russell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,167,74600,20
+2016754350,"Paradise township, Russell County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,167,54350,20
+2016756925,"Plymouth township, Russell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,167,56925,20
+2016743275,"Luray township, Russell County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,167,43275,20
+2016761850,"Russell township, Russell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,167,61850,20
+2016722200,"Fairfield township, Russell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,167,22200,20
+2016712150,"Center township, Russell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,167,12150,20
+2011121275,"Emporia city, Lyon County, Kansas",6416.0,5268.0,826.0,243.0,31.0,48.0,111,21275,20
+2016741125,"Lincoln township, Russell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,167,41125,20
+2011158625,"Reading township, Lyon County, Kansas",8.0,5.0,3.0,0.0,0.0,0.0,111,58625,20
+20111525,"Agnes City township, Lyon County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,111,525,20
+2011124750,"Fremont township, Lyon County, Kansas",40.0,40.0,0.0,0.0,0.0,0.0,111,24750,20
+2011121300,"Emporia township, Lyon County, Kansas",96.0,81.0,15.0,0.0,0.0,0.0,111,21300,20
+2011134700,"Ivy township, Lyon County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,111,34700,20
+2011175925,"Waterloo township, Lyon County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,111,75925,20
+201111700,"Americus township, Lyon County, Kansas",19.0,11.0,8.0,0.0,0.0,0.0,111,1700,20
+2011120687,"Elmendaro township, Lyon County, Kansas",5.0,0.0,0.0,0.0,5.0,0.0,111,20687,20
+2011134825,"Jackson township, Lyon County, Kansas",26.0,26.0,0.0,0.0,0.0,0.0,111,34825,20
+2011155825,"Pike township, Lyon County, Kansas",127.0,127.0,0.0,0.0,0.0,0.0,111,55825,20
+2011111800,"Center township, Lyon County, Kansas",20.0,20.0,0.0,0.0,0.0,0.0,111,11800,20
+2011711850,"Center township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,11850,20
+2011752550,"Oketo township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,52550,20
+2011759450,"Richland township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,59450,20
+2011724450,"Franklin township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,24450,20
+2001975550,"Washington township, Chautauqua County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,019,75550,20
+2001910425,"Caneyville township, Chautauqua County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,019,10425,20
+2001930275,"Harrison township, Chautauqua County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,019,30275,20
+2001931300,"Hendricks township, Chautauqua County, Kansas",15.0,15.0,0.0,0.0,0.0,0.0,019,31300,20
+2001962775,"Salt Creek township, Chautauqua County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,019,62775,20
+2001941525,"Little Caney township, Chautauqua County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,019,41525,20
+2001937650,"Lafayette township, Chautauqua County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,019,37650,20
+2001969025,"Summit township, Chautauqua County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,019,69025,20
+200195575,"Belleville township, Chautauqua County, Kansas",18.0,18.0,0.0,0.0,0.0,0.0,019,5575,20
+2001963775,"Sedan township, Chautauqua County, Kansas",44.0,29.0,15.0,0.0,0.0,0.0,019,63775,20
+2012959225,"Richfield township, Morton County, Kansas",53.0,53.0,0.0,0.0,0.0,0.0,129,59225,20
+2012960925,"Rolla township, Morton County, Kansas",82.0,78.0,0.0,0.0,4.0,0.0,129,60925,20
+2012913350,"Cimarron township, Morton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,129,13350,20
+2012977225,"Westola township, Morton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,129,77225,20
+2012935650,"Jones township, Morton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,129,35650,20
+2012969975,"Taloga township, Morton County, Kansas",527.0,518.0,0.0,9.0,0.0,0.0,129,69975,20
+2013732060,"Highland-District 2 township, Norton County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,137,32060,20
+2013751500,"Norton city, Norton County, Kansas",78.0,61.0,0.0,17.0,0.0,0.0,137,51500,20
+201371450,"Almena-District 4 township, Norton County, Kansas",19.0,19.0,0.0,0.0,0.0,0.0,137,1450,20
+2013712260,"Center-District 1 township, Norton County, Kansas",154.0,72.0,0.0,82.0,0.0,0.0,137,12260,20
+2013766410,"Solomon-District 3 township, Norton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,137,66410,20
+2015573075,"Valley township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,73075,20
+2015533625,"Hutchinson city, Reno County, Kansas",4871.0,3902.0,473.0,315.0,114.0,67.0,155,33625,20
+2015550700,"Ninnescah township, Reno County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,155,50700,20
+2015562850,"Salt Creek township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,62850,20
+2015575100,"Walnut township, Reno County, Kansas",18.0,18.0,0.0,0.0,0.0,0.0,155,75100,20
+2015546125,"Miami township, Reno County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,155,46125,20
+201555350,"Bell township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,5350,20
+2015541050,"Lincoln township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,41050,20
+2015580775,"Yoder township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,80775,20
+2015545600,"Medora township, Reno County, Kansas",71.0,71.0,0.0,0.0,0.0,0.0,155,45600,20
+2015550525,"Nickerson city, Reno County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,155,50525,20
+201552350,"Arlington township, Reno County, Kansas",42.0,42.0,0.0,0.0,0.0,0.0,155,2350,20
+2015513600,"Clay township, Reno County, Kansas",49.0,49.0,0.0,0.0,0.0,0.0,155,13600,20
+2015528025,"Grant township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,28025,20
+2008518350,"Douglas township, Jackson County, Kansas",95.0,93.0,2.0,0.0,0.0,0.0,085,18350,20
+2008511275,"Cedar township, Jackson County, Kansas",63.0,63.0,0.0,0.0,0.0,0.0,085,11275,20
+2008578125,"Whiting township, Jackson County, Kansas",1.0,1.0,0.0,0.0,0.0,0.0,085,78125,20
+2008525625,"Garfield township, Jackson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,085,25625,20
+2008566200,"Soldier township, Jackson County, Kansas",14.0,10.0,0.0,4.0,0.0,0.0,085,66200,20
+20085350,"Adrian township, Jackson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,085,350,20
+2008549975,"Netawaka township, Jackson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,085,49975,20
+2008568475,"Straight Creek township, Jackson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,085,68475,20
+2008575625,"Washington township, Jackson County, Kansas",36.0,36.0,0.0,0.0,0.0,0.0,085,75625,20
+2009577775,"White township, Kingman County, Kansas",29.0,29.0,0.0,0.0,0.0,0.0,095,77775,20
+2009510450,"Canton township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,10450,20
+2009536975,"Kingman township, Kingman County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,095,36975,20
+2009550650,"Ninnescah township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,50650,20
+2009559400,"Richland township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,59400,20
+200955675,"Belmont township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,5675,20
+2009519225,"Eagle township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,19225,20
+2009518650,"Dresden township, Kingman County, Kansas",9.0,3.0,0.0,6.0,0.0,0.0,095,18650,20
+2009536950,"Kingman city, Kingman County, Kansas",181.0,164.0,0.0,17.0,0.0,0.0,095,36950,20
+2009572850,"Valley township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,72850,20
+2009555550,"Peters township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,55550,20
+2009560375,"Rochester township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,60375,20
+2009572175,"Union township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,72175,20
+200951250,"Allen township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,1250,20
+2009525125,"Galesburg township, Kingman County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,095,25125,20
+2009513125,"Chikaskia township, Kingman County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,095,13125,20
+2009516925,"Dale township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,16925,20
+2009522000,"Evan township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,22000,20
+2009533050,"Hoosier township, Kingman County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,095,33050,20
+2009540150,"Liberty township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,40150,20
+2009561725,"Rural township, Kingman County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,095,61725,20
+200956050,"Bennett township, Kingman County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,095,6050,20
+2009573975,"Vinita township, Kingman County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,095,73975,20
+2009521850,"Eureka township, Kingman County, Kansas",1.0,1.0,0.0,0.0,0.0,0.0,095,21850,20
+2010942325,"Logansport township, Logan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,109,42325,20
+2010948050,"Monument township, Logan County, Kansas",29.0,29.0,0.0,0.0,0.0,0.0,109,48050,20
+2010920225,"Elkader township, Logan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,109,20225,20
+2010943600,"McAllaster township, Logan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,109,43600,20
+201093350,"Augustine township, Logan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,109,3350,20
+2011741975,"Logan township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,41975,20
+2011750850,"Noble township, Marshall County, Kansas",4.0,0.0,0.0,0.0,4.0,0.0,117,50850,20
+2011775975,"Waterville township, Marshall County, Kansas",37.0,33.0,0.0,0.0,4.0,0.0,117,75975,20
+2011776525,"Wells township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,76525,20
+2011715850,"Cottage Hill township, Marshall County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,117,15850,20
+2011745075,"Marysville township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,45075,20
+2011749275,"Murray township, Marshall County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,117,49275,20
+2011775025,"Walnut township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,75025,20
+2011714100,"Cleveland township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,14100,20
+2011720600,"Elm Creek township, Marshall County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,117,20600,20
+2011745050,"Marysville city, Marshall County, Kansas",136.0,136.0,0.0,0.0,0.0,0.0,117,45050,20
+2011773550,"Vermillion township, Marshall County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,117,73550,20
+201176725,"Bigelow township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,6725,20
+201177675,"Blue Rapids township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,7675,20
+2011713875,"Clear Fork township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,13875,20
+201177700,"Blue Rapids City township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,7700,20
+2011729225,"Guittard township, Marshall County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,117,29225,20
+2011731450,"Herkimer township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,31450,20
+2011740850,"Lincoln township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,40850,20
+2011762100,"St. Bridget township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,62100,20
+201173850,"Balderson township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,3850,20
+2011760425,"Rock township, Marshall County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,117,60425,20
+2014563250,"Sawmill township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,63250,20
+201452825,"Ash Valley township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,2825,20
+2014527925,"Grant township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,27925,20
+2014556400,"Pleasant Grove township, Pawnee County, Kansas",20.0,20.0,0.0,0.0,0.0,0.0,145,56400,20
+201458750,"Browns Grove township, Pawnee County, Kansas",9.0,0.0,0.0,9.0,0.0,0.0,145,8750,20
+2014575050,"Walnut township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,75050,20
+2014515225,"Conkling township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,15225,20
+2014536625,"Keysville township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,36625,20
+2014556475,"Pleasant Ridge township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,56475,20
+2014560050,"River township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,60050,20
+2014573225,"Valley Center township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,73225,20
+2014525775,"Garfield township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,25775,20
+2014540975,"Lincoln township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,40975,20
+2014538725,"Larned township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,38725,20
+2014542075,"Logan township, Pawnee County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,145,42075,20
+2014538700,"Larned city, Pawnee County, Kansas",391.0,98.0,106.0,51.0,136.0,0.0,145,38700,20
+2015533550,"Huntsville township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,33550,20
+2015538525,"Langdon township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,38525,20
+2015556750,"Plevna township, Reno County, Kansas",2.0,0.0,0.0,2.0,0.0,0.0,155,56750,20
+2015571600,"Troy township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,71600,20
+20155875,"Albion township, Reno County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,155,875,20
+2015511000,"Castleton township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,11000,20
+2015512050,"Center township, Reno County, Kansas",36.0,19.0,0.0,0.0,17.0,0.0,155,12050,20
+2015569200,"Sumner township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,69200,20
+2015529025,"Grove township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,29025,20
+2015541700,"Loda township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,41700,20
+2015561150,"Roscoe township, Reno County, Kansas",11.0,11.0,0.0,0.0,0.0,0.0,155,61150,20
+2015569825,"Sylvia township, Reno County, Kansas",17.0,3.0,0.0,14.0,0.0,0.0,155,69825,20
+2015521475,"Enterprise township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,21475,20
+2015531000,"Hayes township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,31000,20
+2019514925,"Collyer township, Trego County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,195,14925,20
+2019524500,"Franklin township, Trego County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,195,24500,20
+2019560150,"Riverside township, Trego County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,195,60150,20
+2019574475,"WaKeeney township, Trego County, Kansas",28.0,21.0,0.0,6.0,1.0,0.0,195,74475,20
+2019526425,"Glencoe township, Trego County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,195,26425,20
+2019552250,"Ogallah township, Trego County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,195,52250,20
+2019579137,"Wilcox township, Trego County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,195,79137,20
+2019725850,"Garfield township, Wabaunsee County, Kansas",15.0,15.0,0.0,0.0,0.0,0.0,197,25850,20
+2019723125,"Farmer township, Wabaunsee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,197,23125,20
+2019747300,"Mission Creek township, Wabaunsee County, Kansas",19.0,19.0,0.0,0.0,0.0,0.0,197,47300,20
+2019746725,"Mill Creek township, Wabaunsee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,197,46725,20
+2019756800,"Plumb township, Wabaunsee County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,197,56800,20
+201971375,"Alma township, Wabaunsee County, Kansas",111.0,109.0,0.0,2.0,0.0,0.0,197,1375,20
+2019744525,"Maple Hill township, Wabaunsee County, Kansas",34.0,34.0,0.0,0.0,0.0,0.0,197,44525,20
+2019760650,"Rock Creek township, Wabaunsee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,197,60650,20
+2019774250,"Wabaunsee township, Wabaunsee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,197,74250,20
+2019750275,"Newbury township, Wabaunsee County, Kansas",31.0,27.0,0.0,4.0,0.0,0.0,197,50275,20
+2019775800,"Washington township, Wabaunsee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,197,75800,20
+2019779525,"Wilmington township, Wabaunsee County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,197,79525,20
+2019736150,"Kaw township, Wabaunsee County, Kansas",13.0,0.0,0.0,0.0,13.0,0.0,197,36150,20
+2020549650,"Neodesha city, Wilson County, Kansas",75.0,60.0,15.0,0.0,0.0,0.0,205,49650,20
+2020549675,"Neodesha township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,49675,20
+2020573500,"Verdigris township, Wilson County, Kansas",17.0,17.0,0.0,0.0,0.0,0.0,205,73500,20
+2020576300,"Webster township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,76300,20
+2020514825,"Colfax township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,14825,20
+2020529200,"Guilford township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,29200,20
+2020557425,"Prairie township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,57425,20
+2020512225,"Center township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,12225,20
+2020524575,"Fredonia city, Wilson County, Kansas",122.0,41.0,52.0,29.0,0.0,0.0,205,24575,20
+2020550200,"Newark township, Wilson County, Kansas",28.0,28.0,0.0,0.0,0.0,0.0,205,50200,20
+2020513000,"Chetopa township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,13000,20
+2020556650,"Pleasant Valley township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,56650,20
+2018519350,"East Cooper township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,19350,20
+2018572450,"Union township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,72450,20
+2018514125,"Cleveland township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,14125,20
+2018541225,"Lincoln township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,41225,20
+2018523250,"Farmington township, Stafford County, Kansas",220.0,218.0,0.0,0.0,2.0,0.0,185,23250,20
+2018552475,"Ohio township, Stafford County, Kansas",32.0,32.0,0.0,0.0,0.0,0.0,185,52475,20
+2018566975,"South Seward township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,66975,20
+2018567800,"Stafford township, Stafford County, Kansas",146.0,93.0,53.0,0.0,0.0,0.0,185,67800,20
+2018531025,"Hayes township, Stafford County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,185,31025,20
+2011343975,"McPherson township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,43975,20
+2011344950,"Marquette township, McPherson County, Kansas",75.0,74.0,0.0,0.0,1.0,0.0,113,44950,20
+2011345975,"Meridian township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,45975,20
+2011372225,"Union township, McPherson County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,113,72225,20
+2011348675,"Mound township, McPherson County, Kansas",96.0,93.0,0.0,0.0,3.0,0.0,113,48675,20
+2011350350,"New Gottland township, McPherson County, Kansas",64.0,64.0,0.0,0.0,0.0,0.0,113,50350,20
+2011341600,"Little Valley township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,41600,20
+2011342525,"Lone Tree township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,42525,20
+2011371700,"Turkey Creek township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,71700,20
+2011310950,"Castle township, McPherson County, Kansas",12.0,12.0,0.0,0.0,0.0,0.0,113,10950,20
+2011334850,"Jackson township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,34850,20
+2011317575,"Delmore township, McPherson County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,113,17575,20
+2011343950,"McPherson city, McPherson County, Kansas",592.0,392.0,159.0,18.0,23.0,0.0,113,43950,20
+2011367000,"South Sharps Creek township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,67000,20
+2011366025,"Smoky Hill township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,66025,20
+201137925,"Bonaville township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,7925,20
+2011329150,"Groveland township, McPherson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,113,29150,20
+2013918575,"Dragoon township, Osage County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,139,18575,20
+2000720800,"Elm Mills township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,20800,20
+20007400,"Aetna township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,400,20
+2000772750,"Valley township, Barber County, Kansas",4.0,0.0,0.0,4.0,0.0,0.0,007,72750,20
+2000717300,"Deerhead township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,17300,20
+2000737150,"Kiowa township, Barber County, Kansas",16.0,16.0,0.0,0.0,0.0,0.0,007,37150,20
+2000750775,"Nippawalla township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,50775,20
+2000719150,"Eagle township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,19150,20
+2000771675,"Turkey Creek township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,71675,20
+2000737900,"Lake City township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,37900,20
+2000743550,"McAdoo township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,43550,20
+2000745525,"Medicine Lodge township, Barber County, Kansas",112.0,112.0,0.0,0.0,0.0,0.0,007,45525,20
+2000748075,"Moore township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,48075,20
+2000747050,"Mingona township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,47050,20
+2000720925,"Elwood township, Barber County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,007,20925,20
+2000731175,"Hazelton township, Barber County, Kansas",3.0,2.0,0.0,1.0,0.0,0.0,007,31175,20
+2000764350,"Sharon township, Barber County, Kansas",1.0,1.0,0.0,0.0,0.0,0.0,007,64350,20
+2000769300,"Sun City township, Barber County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,007,69300,20
+2003963050,"Sappa township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,63050,20
+2003927600,"Grant township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,27600,20
+2003943450,"Lyon township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,43450,20
+2003952025,"Oberlin township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,52025,20
+2003961025,"Roosevelt township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,61025,20
+2003952000,"Oberlin city, Decatur County, Kansas",75.0,40.0,5.0,0.0,30.0,0.0,039,52000,20
+200394475,"Bassettville township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,4475,20
+2003918625,"Dresden township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,18625,20
+2003935400,"Jennings township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,35400,20
+2003923425,"Finley township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,23425,20
+200391650,"Altory township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,1650,20
+2003911650,"Center township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,11650,20
+2003957475,"Prairie Dog township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,57475,20
+2003939975,"Liberty township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,39975,20
+2003925525,"Garfield township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,25525,20
+2003940600,"Lincoln township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,40600,20
+2003964900,"Sherman township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,64900,20
+2003969075,"Summit township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,69075,20
+200391300,"Allison township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,1300,20
+200395050,"Beaver township, Decatur County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,039,5050,20
+2020569900,"Talleyrand township, Wilson County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,205,69900,20
+2015545450,"Medford township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,45450,20
+2020514250,"Clifton township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,14250,20
+2020518800,"Duck Creek township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,18800,20
+2020522825,"Fall River township, Wilson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,205,22825,20
+2020511375,"Cedar township, Wilson County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,205,11375,20
+2020751025,"North township, Woodson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,207,51025,20
+2020740375,"Liberty township, Woodson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,207,40375,20
+2020755475,"Perry township, Woodson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,207,55475,20
+2020749850,"Neosho Falls township, Woodson County, Kansas",20.0,19.0,0.0,1.0,0.0,0.0,207,49850,20
+2020712250,"Center township, Woodson County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,207,12250,20
+2012311150,"Cawker township, Mitchell County, Kansas",3.0,0.0,3.0,0.0,0.0,0.0,123,11150,20
+2020780700,"Yates Center city, Woodson County, Kansas",5.0,0.0,1.0,4.0,0.0,0.0,207,80700,20
+2020771075,"Toronto township, Woodson County, Kansas",1.0,1.0,0.0,0.0,0.0,0.0,207,71075,20
+201232625,"Asherville township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,2625,20
+2012321875,"Eureka township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,21875,20
+201237575,"Blue Hill township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,7575,20
+201575625,"Belleville township, Republic County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,157,5625,20
+2019337425,"Lacey township, Thomas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,193,37425,20
+2019376650,"Wendell township, Thomas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,193,76650,20
+2019351300,"North Randall township, Thomas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,193,51300,20
+2019365900,"Smith township, Thomas County, Kansas",146.0,109.0,0.0,5.0,3.0,29.0,193,65900,20
+2019361525,"Rovohl township, Thomas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,193,61525,20
+201934325,"Barrett township, Thomas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,193,4325,20
+2019319475,"East Hale township, Thomas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,193,19475,20
+2019348200,"Morgan township, Thomas County, Kansas",63.0,63.0,0.0,0.0,0.0,0.0,193,48200,20
+2019345775,"Menlo township, Thomas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,193,45775,20
+2019366875,"South Randall township, Thomas County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,193,66875,20
+2019376975,"West Hale township, Thomas County, Kansas",31.0,31.0,0.0,0.0,0.0,0.0,193,76975,20
+2019314650,"Colby city, Thomas County, Kansas",176.0,101.0,64.0,0.0,11.0,0.0,193,14650,20
+2019336925,"Kingery township, Thomas County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,193,36925,20
+2019368975,"Summers township, Thomas County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,193,68975,20
+2011977300,"West Plains township, Meade County, Kansas",465.0,423.0,29.0,7.0,0.0,6.0,119,77300,20
+2011913325,"Cimarron township, Meade County, Kansas",14.0,14.0,0.0,0.0,0.0,0.0,119,13325,20
+2015577175,"Westminster township, Reno County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,155,77175,20
+2015530750,"Haven township, Reno County, Kansas",31.0,19.0,3.0,0.0,9.0,0.0,155,30750,20
+2015541550,"Little River township, Reno County, Kansas",60.0,33.0,27.0,0.0,0.0,0.0,155,41550,20
+2015558975,"Reno township, Reno County, Kansas",402.0,339.0,14.0,49.0,0.0,0.0,155,58975,20
+2000972025,"Union township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,72025,20
+2000920425,"Ellinwood city, Barton County, Kansas",165.0,126.0,26.0,13.0,0.0,0.0,009,20425,20
+2000922400,"Fairview township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,22400,20
+2000966525,"South Bend township, Barton County, Kansas",31.0,11.0,0.0,0.0,20.0,0.0,009,66525,20
+20009850,"Albion township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,850,20
+2000928300,"Great Bend city, Barton County, Kansas",3043.0,2636.0,204.0,56.0,117.0,30.0,009,28300,20
+2000951200,"North Homestead township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,51200,20
+2000977600,"Wheatland township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,77600,20
+2000939875,"Liberty township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,39875,20
+200099075,"Buffalo township, Barton County, Kansas",290.0,290.0,0.0,0.0,0.0,0.0,009,9075,20
+2000932550,"Hoisington city, Barton County, Kansas",124.0,80.0,8.0,2.0,34.0,0.0,009,32550,20
+2000954900,"Pawnee Rock township, Barton County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,009,54900,20
+2000974825,"Walnut township, Barton County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,009,74825,20
+2000913475,"Clarence township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,13475,20
+2000921750,"Eureka township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,21750,20
+2000914025,"Cleveland township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,14025,20
+2000913025,"Cheyenne township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,13025,20
+2000933975,"Independent township, Barton County, Kansas",24.0,24.0,0.0,0.0,0.0,0.0,009,33975,20
+2000915125,"Comanche township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,15125,20
+2000927475,"Grant township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,27475,20
+2010939200,"Lees township, Logan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,109,39200,20
+2010976900,"Western township, Logan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,109,76900,20
+2010951850,"Oakley township, Logan County, Kansas",107.0,80.0,24.0,3.0,0.0,0.0,109,51850,20
+2010955025,"Paxton township, Logan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,109,55025,20
+2010980100,"Winona township, Logan County, Kansas",4.0,0.0,0.0,0.0,4.0,0.0,109,80100,20
+2010961900,"Russell Springs township, Logan County, Kansas",15.0,13.0,0.0,2.0,0.0,0.0,109,61900,20
+2013144775,"Marion township, Nemaha County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,131,44775,20
+2013133725,"Illinois township, Nemaha County, Kansas",2.0,2.0,0.0,0.0,0.0,0.0,131,33725,20
+2013113775,"Clear Creek township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,13775,20
+2013126275,"Gilman township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,26275,20
+2013163950,"Seneca city, Nemaha County, Kansas",26.0,13.0,13.0,0.0,0.0,0.0,131,63950,20
+20131275,"Adams township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,275,20
+2013110575,"Capioma township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,10575,20
+2013111900,"Center township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,11900,20
+2013127275,"Granada township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,27275,20
+2013175675,"Washington township, Nemaha County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,131,75675,20
+2013149625,"Nemaha township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,49625,20
+2013160600,"Rock Creek township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,60600,20
+2013162025,"Sabetha city, Nemaha County, Kansas",99.0,59.0,11.0,23.0,6.0,0.0,131,62025,20
+2013132900,"Home township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,32900,20
+2013158750,"Red Vermillion township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,58750,20
+2013150050,"Neuchatel township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,50050,20
+2013158900,"Reilly township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,58900,20
+2013177575,"Wetmore township, Nemaha County, Kansas",20.0,20.0,0.0,0.0,0.0,0.0,131,77575,20
+2013147475,"Mitchell township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,47475,20
+2013159725,"Richmond township, Nemaha County, Kansas",17.0,8.0,0.0,0.0,0.0,9.0,131,59725,20
+201316375,"Berwick township, Nemaha County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,131,6375,20
+2013130375,"Harrison township, Nemaha County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,131,30375,20
+2014912000,"Center township, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,12000,20
+2014921125,"Emmett township, Pottawatomie County, Kansas",18.0,0.0,0.0,0.0,18.0,0.0,149,21125,20
+2014927950,"Grant township, Pottawatomie County, Kansas",15.0,15.0,0.0,0.0,0.0,0.0,149,27950,20
+2014913800,"Clear Creek township, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,13800,20
+2014957250,"Pottawatomie township, Pottawatomie County, Kansas",22.0,22.0,0.0,0.0,0.0,0.0,149,57250,20
+2014962225,"St. George township, Pottawatomie County, Kansas",272.0,272.0,0.0,0.0,0.0,0.0,149,62225,20
+2014964300,"Shannon township, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,64300,20
+2014965050,"Sherman township, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,65050,20
+2014556600,"Pleasant Valley township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,56600,20
+2014941000,"Lincoln township, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,41000,20
+2014942550,"Lone Tree township, Pottawatomie County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,149,42550,20
+2014548525,"Morton township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,48525,20
+2014554800,"Pawnee township, Pawnee County, Kansas",50.0,37.0,0.0,13.0,0.0,0.0,145,54800,20
+2014563025,"Santa Fe township, Pawnee County, Kansas",41.0,21.0,2.0,14.0,4.0,0.0,145,63025,20
+2014565275,"Shiley township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,65275,20
+2014553000,"Orange township, Pawnee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,145,53000,20
+2000141725,"Logan township, Allen County, Kansas",22.0,22.0,0.0,0.0,0.0,0.0,001,41725,20
+2000126100,"Geneva township, Allen County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,001,26100,20
+2000110725,"Carlyle township, Allen County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,001,10725,20
+2000117175,"Deer Creek township, Allen County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,001,17175,20
+2000133475,"Humboldt township, Allen County, Kansas",33.0,33.0,0.0,0.0,0.0,0.0,001,33475,20
+2000134300,"Iola city, Allen County, Kansas",202.0,11.0,165.0,24.0,2.0,0.0,001,34300,20
+2000134325,"Iola township, Allen County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,001,34325,20
+2000144850,"Marmaton township, Allen County, Kansas",28.0,28.0,0.0,0.0,0.0,0.0,001,44850,20
+2000120900,"Elsmore township, Allen County, Kansas",6.0,6.0,0.0,0.0,0.0,0.0,001,20900,20
+2000133450,"Humboldt city, Allen County, Kansas",85.0,79.0,6.0,0.0,0.0,0.0,001,33450,20
+2000162600,"Salem township, Allen County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,001,62600,20
+2000120550,"Elm township, Allen County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,001,20550,20
+2000137725,"La Harpe city, Allen County, Kansas",46.0,46.0,0.0,0.0,0.0,0.0,001,37725,20
+2000153075,"Osage township, Allen County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,001,53075,20
+2000115825,"Cottage Grove township, Allen County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,001,15825,20
+200236025,"Benkelman township, Cheyenne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,023,6025,20
+2002375375,"Wano township, Cheyenne County, Kansas",70.0,22.0,44.0,4.0,0.0,0.0,023,75375,20
+200239950,"Calhoun township, Cheyenne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,023,9950,20
+2002314150,"Cleveland Run township, Cheyenne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,023,14150,20
+2002353050,"Orlando township, Cheyenne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,023,53050,20
+2002335025,"Jaqua township, Cheyenne County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,023,35025,20
+200236850,"Bird City township, Cheyenne County, Kansas",94.0,72.0,3.0,0.0,19.0,0.0,023,6850,20
+200333525,"Avilla township, Comanche County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,033,3525,20
+2003357325,"Powell township, Comanche County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,033,57325,20
+2003314725,"Coldwater township, Comanche County, Kansas",35.0,35.0,0.0,0.0,0.0,0.0,033,14725,20
+2003357875,"Protection township, Comanche County, Kansas",107.0,107.0,0.0,0.0,0.0,0.0,033,57875,20
+2003553625,"Otter township, Cowley County, Kansas",8.0,8.0,0.0,0.0,0.0,0.0,035,53625,20
+2003517950,"Dexter township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,17950,20
+200352300,"Arkansas City city, Cowley County, Kansas",2292.0,1554.0,159.0,39.0,16.0,524.0,035,2300,20
+2003560525,"Rock Creek township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,60525,20
+2000928325,"Great Bend township, Barton County, Kansas",123.0,117.0,0.0,3.0,3.0,0.0,009,28325,20
+2000938125,"Lakin township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,38125,20
+2000941750,"Logan township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,41750,20
+2000966725,"South Homestead township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,66725,20
+200094975,"Beaver township, Barton County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,009,4975,20
+2002965425,"Sibley township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,65425,20
+2002938875,"Lawrence township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,38875,20
+2002951750,"Oakland township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,51750,20
+2002968050,"Starr township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,68050,20
+2002920150,"Elk township, Cloud County, Kansas",15.0,15.0,0.0,0.0,0.0,0.0,029,20150,20
+2002940525,"Lincoln township, Cloud County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,029,40525,20
+2002966250,"Solomon township, Cloud County, Kansas",4.0,4.0,0.0,0.0,0.0,0.0,029,66250,20
+200292275,"Arion township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,2275,20
+200299100,"Buffalo township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,9100,20
+2002914775,"Colfax township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,14775,20
+200293450,"Aurora township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,3450,20
+2002911625,"Center township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,11625,20
+2002915200,"Concordia city, Cloud County, Kansas",236.0,223.0,0.0,13.0,0.0,0.0,029,15200,20
+2002943425,"Lyon township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,43425,20
+2002927525,"Grant township, Cloud County, Kansas",13.0,13.0,0.0,0.0,0.0,0.0,029,27525,20
+2002945925,"Meredith township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,45925,20
+2002965375,"Shirley township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,65375,20
+2002969050,"Summit township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,69050,20
+2002949600,"Nelson township, Cloud County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,029,49600,20
+2004372125,"Union township, Doniphan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,043,72125,20
+200439500,"Burr Oak township, Doniphan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,043,9500,20
+2004333850,"Independence township, Doniphan County, Kansas",9.0,4.0,0.0,5.0,0.0,0.0,043,33850,20
+2004334400,"Iowa township, Doniphan County, Kansas",50.0,39.0,4.0,7.0,0.0,0.0,043,34400,20
+2004344675,"Marion township, Doniphan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,043,44675,20
+2004376100,"Wayne township, Doniphan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,043,76100,20
+2004311700,"Center township, Doniphan County, Kansas",76.0,51.0,25.0,0.0,0.0,0.0,043,11700,20
+2004380275,"Wolf River township, Doniphan County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,043,80275,20
+2004375600,"Washington township, Doniphan County, Kansas",78.0,62.0,16.0,0.0,0.0,0.0,043,75600,20
+2004734750,"Jackson township, Edwards County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,047,34750,20
+2004771400,"Trenton township, Edwards County, Kansas",35.0,33.0,0.0,2.0,0.0,0.0,047,71400,20
+2004740650,"Lincoln township, Edwards County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,047,40650,20
+2014962425,"St. Marys township, Pottawatomie County, Kansas",225.0,219.0,0.0,6.0,0.0,0.0,149,62425,20
+2004751100,"North Brown township, Edwards County, Kansas",45.0,45.0,0.0,0.0,0.0,0.0,047,51100,20
+2014972250,"Union township, Pottawatomie County, Kansas",15.0,15.0,0.0,0.0,0.0,0.0,149,72250,20
+2014928450,"Green township, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,28450,20
+201497725,"Blue Valley township, Pottawatomie County, Kansas",19.0,16.0,3.0,0.0,0.0,0.0,149,7725,20
+2014960625,"Rock Creek township, Pottawatomie County, Kansas",10.0,10.0,0.0,0.0,0.0,0.0,149,60625,20
+2014973875,"Vienna township, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,73875,20
+2014942950,"Louisville township, Pottawatomie County, Kansas",90.0,90.0,0.0,0.0,0.0,0.0,149,42950,20
+2014944250,"Manhattan city, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,44250,20
+201495950,"Belvue township, Pottawatomie County, Kansas",19.0,19.0,0.0,0.0,0.0,0.0,149,5950,20
+201497550,"Blue township, Pottawatomie County, Kansas",175.0,127.0,0.0,48.0,0.0,0.0,149,7550,20
+2014946700,"Mill Creek township, Pottawatomie County, Kansas",58.0,43.0,15.0,0.0,0.0,0.0,149,46700,20
+2014967475,"Spring Creek township, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,67475,20
+2014962150,"St. Clere township, Pottawatomie County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,149,62150,20
+2014975350,"Wamego township, Pottawatomie County, Kansas",252.0,252.0,0.0,0.0,0.0,0.0,149,75350,20
+202097975,"Bonner Springs city, Wyandotte County, Kansas",691.0,665.0,0.0,26.0,0.0,0.0,209,7975,20
+2020917475,"Delaware township, Wyandotte County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,209,17475,20
+2020937975,"Lake Quivira city, Wyandotte County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,209,37975,20
+2020936000,"Kansas City city, Wyandotte County, Kansas",43831.0,37960.0,3546.0,579.0,1384.0,362.0,209,36000,20
+2002149725,"Neosho township, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,49725,20
+2002142350,"Lola township, Cherokee County, Kansas",8.0,3.0,5.0,0.0,0.0,0.0,021,42350,20
+2002147000,"Mineral township, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,47000,20
+2002163325,"Scammon city, Cherokee County, Kansas",5.0,5.0,0.0,0.0,0.0,0.0,021,63325,20
+2002156675,"Pleasant View township, Cherokee County, Kansas",16.0,0.0,0.0,16.0,0.0,0.0,021,56675,20
+2002161350,"Ross township, Cherokee County, Kansas",2.0,1.0,0.0,1.0,0.0,0.0,021,61350,20
+2002125100,"Galena city, Cherokee County, Kansas",177.0,143.0,34.0,0.0,0.0,0.0,021,25100,20
+2002125250,"Garden township, Cherokee County, Kansas",46.0,46.0,0.0,0.0,0.0,0.0,021,25250,20
+200214625,"Baxter Springs city, Cherokee County, Kansas",137.0,130.0,0.0,7.0,0.0,0.0,021,4625,20
+2002115075,"Columbus city, Cherokee County, Kansas",48.0,48.0,0.0,0.0,0.0,0.0,021,15075,20
+2002112800,"Cherokee township, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,12800,20
+2002116225,"Crawford township, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,16225,20
+2002162575,"Salamanca township, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,62575,20
+2002176350,"Weir city, Cherokee County, Kansas",3.0,1.0,2.0,0.0,0.0,0.0,021,76350,20
+2002143075,"Lowell township, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,43075,20
+2002143400,"Lyon township, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,43400,20
+2002164475,"Shawnee township, Cherokee County, Kansas",48.0,48.0,0.0,0.0,0.0,0.0,021,64475,20
+2002167725,"Spring Valley township, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,67725,20
+2002164625,"Sheridan township, Cherokee County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,021,64625,20
+2003562625,"Salem township, Cowley County, Kansas",28.0,28.0,0.0,0.0,0.0,0.0,035,62625,20
+2003579950,"Winfield city, Cowley County, Kansas",963.0,728.0,76.0,31.0,128.0,0.0,035,79950,20
+2003565500,"Silver Creek township, Cowley County, Kansas",28.0,25.0,3.0,0.0,0.0,0.0,035,65500,20
+2003574925,"Walnut township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,74925,20
+2003516375,"Creswell township, Cowley County, Kansas",109.0,109.0,0.0,0.0,0.0,0.0,035,16375,20
+2003567400,"Spring Creek township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,67400,20
+200355025,"Beaver township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,5025,20
+2003511250,"Cedar township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,11250,20
+2003522475,"Fairview township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,22475,20
+2003527550,"Grant township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,27550,20
+2003539950,"Liberty township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,39950,20
+2003550625,"Ninnescah township, Cowley County, Kansas",27.0,27.0,0.0,0.0,0.0,0.0,035,50625,20
+2003552850,"Omnia township, Cowley County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,035,52850,20
+2003579875,"Windsor township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,79875,20
+2003544450,"Maple township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,44450,20
+2003556500,"Pleasant Valley township, Cowley County, Kansas",21.0,21.0,0.0,0.0,0.0,0.0,035,56500,20
+2003559275,"Richland township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,59275,20
+2003565575,"Silverdale township, Cowley County, Kansas",20.0,20.0,0.0,0.0,0.0,0.0,035,65575,20
+200357875,"Bolton township, Cowley County, Kansas",110.0,110.0,0.0,0.0,0.0,0.0,035,7875,20
+2003570725,"Tisdale township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,70725,20
+2003564650,"Sheridan township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,64650,20
+2003530525,"Harvey township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,30525,20
+2003573575,"Vernon township, Cowley County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,035,73575,20
+2004979150,"Wildcat township, Elk County, Kansas",3.0,3.0,0.0,0.0,0.0,0.0,049,79150,20
+2012356825,"Plum Creek township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,56825,20
+201235800,"Beloit township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,5800,20
+2012311875,"Center township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,11875,20
+2012342025,"Logan township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,42025,20
+2012362825,"Salt Creek township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,62825,20
+201235775,"Beloit city, Mitchell County, Kansas",131.0,98.0,25.0,0.0,8.0,0.0,123,5775,20
+2012316875,"Custer township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,16875,20
+2012330975,"Hayes township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,30975,20
+2012343225,"Lulu township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,43225,20
+2012356050,"Pittsburg township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,56050,20
+2012371725,"Turkey Creek township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,71725,20
+2012310850,"Carr Creek township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,10850,20
+2012375150,"Walnut Creek township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,75150,20
+2012361500,"Round Springs township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,61500,20
+2012366450,"Solomon Rapids township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,66450,20
+2012326525,"Glen Elder township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,26525,20
+201237425,"Bloomfield township, Mitchell County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,123,7425,20
+201354800,"Bazine township, Ness County, Kansas",93.0,90.0,0.0,0.0,3.0,0.0,135,4800,20
+2013519775,"Eden township, Ness County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,135,19775,20
+2013511925,"Center township, Ness County, Kansas",216.0,214.0,1.0,0.0,0.0,1.0,135,11925,20
+2013523875,"Forrester township, Ness County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,135,23875,20
+20139450,"Agency township, Osage County, Kansas",32.0,21.0,0.0,11.0,0.0,0.0,139,450,20
+201392550,"Arvonia township, Osage County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,139,2550,20
+2013922150,"Fairfax township, Osage County, Kansas",63.0,63.0,0.0,0.0,0.0,0.0,139,22150,20
+2013935725,"Junction township, Osage County, Kansas",31.0,31.0,0.0,0.0,0.0,0.0,139,35725,20
+2013952725,"Olivet township, Osage County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,139,52725,20
+2013959825,"Ridgeway township, Osage County, Kansas",77.0,59.0,0.0,18.0,0.0,0.0,139,59825,20
+201399375,"Burlingame township, Osage County, Kansas",11.0,11.0,0.0,0.0,0.0,0.0,139,9375,20
+201394175,"Barclay township, Osage County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,139,4175,20
+2013920175,"Elk township, Osage County, Kansas",33.0,24.0,6.0,0.0,3.0,0.0,139,20175,20
+2013940925,"Lincoln township, Osage County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,139,40925,20
+2013945725,"Melvern township, Osage County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,139,45725,20
+2013963700,"Scranton township, Osage County, Kansas",40.0,19.0,0.0,21.0,0.0,0.0,139,63700,20
+2013953200,"Osage City city, Osage County, Kansas",121.0,121.0,0.0,0.0,0.0,0.0,139,53200,20
+2013973200,"Valley Brook township, Osage County, Kansas",43.0,36.0,4.0,3.0,0.0,0.0,139,73200,20
+2013969500,"Superior township, Osage County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,139,69500,20
+2013927850,"Grant township, Osage County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,139,27850,20
+2007171475,"Tribune township, Greeley County, Kansas",267.0,246.0,5.0,0.0,0.0,16.0,071,71475,20
+200313550,"Avon township, Coffey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,031,3550,20
+200319425,"Burlington township, Coffey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,031,9425,20
+2003149750,"Neosho township, Coffey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,031,49750,20
+2003156225,"Pleasant township, Coffey County, Kansas",0.0,0.0,0.0,0.0,0.0,0.0,031,56225,20
+2003136650,"Key West township, Coffey County, Kansas",7.0,7.0,0.0,0.0,0.0,0.0,031,36650,20
+2003153700,"Ottumwa township, Coffey County, Kansas",60.0,36.0,0.0,23.0,1.0,0.0,031,53700,20

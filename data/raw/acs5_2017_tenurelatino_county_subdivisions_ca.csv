@@ -1,0 +1,398 @@
+B25003I_001E,B25003I_002E,B25003I_003E,name,county,county subdivision,state
+708.0,335.0,373.0,"Sonora CCD, Tuolumne County, California",109,93080,06
+287.0,218.0,69.0,"East Sonora-Phoenix Lake CCD, Tuolumne County, California",109,90835,06
+1105.0,503.0,602.0,"Escalon CCD, San Joaquin County, California",077,90900,06
+1099.0,615.0,484.0,"Thornton CCD, San Joaquin County, California",077,93340,06
+636.0,268.0,368.0,"Linden-Farmington CCD, San Joaquin County, California",077,91630,06
+899.0,257.0,642.0,"Lockeford CCD, San Joaquin County, California",077,91690,06
+7620.0,2994.0,4626.0,"Lodi CCD, San Joaquin County, California",077,91700,06
+41306.0,17252.0,24054.0,"Stockton CCD, San Joaquin County, California",077,93240,06
+9792.0,5266.0,4526.0,"Manteca CCD, San Joaquin County, California",077,91870,06
+1021.0,535.0,486.0,"Ripon CCD, San Joaquin County, California",077,92620,06
+9554.0,4514.0,5040.0,"Tracy CCD, San Joaquin County, California",077,93400,06
+206.0,143.0,63.0,"Sutter Creek-Plymouth CCD, Amador County, California",005,93300,06
+167.0,93.0,74.0,"Jackson CCD, Amador County, California",005,91430,06
+358.0,358.0,0.0,"Pine Grove-Silver Lake CCD, Amador County, California",005,92470,06
+299.0,255.0,44.0,"Ione CCD, Amador County, California",005,91410,06
+1647.0,1085.0,562.0,"Dos Palos CCD, Merced County, California",047,90720,06
+1807.0,1024.0,783.0,"Planada-Le Grand CCD, Merced County, California",047,92500,06
+7079.0,3308.0,3771.0,"Los Banos CCD, Merced County, California",047,91760,06
+13476.0,5085.0,8391.0,"Merced CCD, Merced County, California",047,91960,06
+106.0,8.0,98.0,"Snelling CCD, Merced County, California",047,93050,06
+696.0,248.0,448.0,"Hilmar-Irwin CCD, Merced County, California",047,91290,06
+1229.0,542.0,687.0,"Gustine CCD, Merced County, California",047,91210,06
+400.0,176.0,224.0,"Lakeport CCD, Lake County, California",033,91540,06
+368.0,172.0,196.0,"Mariposa CCD, Mariposa County, California",043,91880,06
+215.0,141.0,74.0,"Coulterville CCD, Mariposa County, California",043,90600,06
+21.0,15.0,6.0,"Surprise Valley CCD, Modoc County, California",049,93270,06
+6702.0,2884.0,3818.0,"Atwater CCD, Merced County, California",047,90150,06
+5360.0,3013.0,2347.0,"Livingston-Delhi CCD, Merced County, California",047,91670,06
+131.0,41.0,90.0,"Yuba Foothills CCD, Yuba County, California",115,93830,06
+1025.0,316.0,709.0,"Marysville CCD, Yuba County, California",115,91900,06
+9.0,9.0,0.0,"Adin-Lookout CCD, Modoc County, California",049,90010,06
+260.0,133.0,127.0,"Alturas CCD, Modoc County, California",049,90040,06
+1901.0,1225.0,676.0,"Olivehurst CCD, Yuba County, California",115,92250,06
+156.0,73.0,83.0,"Wheatland CCD, Yuba County, California",115,93720,06
+1841.0,849.0,992.0,"Linda CCD, Yuba County, California",115,91610,06
+8860.0,5348.0,3512.0,"East Contra Costa CCD, Contra Costa County, California",013,90780,06
+1679.0,1215.0,464.0,"Tassajara CCD, Contra Costa County, California",013,93310,06
+22897.0,9463.0,13434.0,"West Contra Costa CCD, Contra Costa County, California",013,93620,06
+21535.0,10594.0,10941.0,"Central Contra Costa CCD, Contra Costa County, California",013,90440,06
+32.0,10.0,22.0,"Death Valley CCD, Inyo County, California",027,90650,06
+239.0,76.0,163.0,"Lone Pine CCD, Inyo County, California",027,91720,06
+812.0,363.0,449.0,"Bishop CCD, Inyo County, California",027,90250,06
+101.0,60.0,41.0,"Independence CCD, Inyo County, California",027,91390,06
+7.0,1.0,6.0,"Madeline Plains CCD, Lassen County, California",035,91820,06
+158.0,87.0,71.0,"Susanville CCD, Lassen County, California",035,93280,06
+27.0,9.0,18.0,"Westwood CCD, Lassen County, California",035,93710,06
+13.0,11.0,2.0,"Honey Lake CCD, Lassen County, California",035,91320,06
+1.0,1.0,0.0,"Big Valley CCD, Lassen County, California",035,90240,06
+1440.0,811.0,629.0,"Waterford CCD, Stanislaus County, California",099,93580,06
+1080.0,478.0,602.0,"Hughson CCD, Stanislaus County, California",099,91350,06
+8327.0,3345.0,4982.0,"Turlock CCD, Stanislaus County, California",099,93460,06
+2285.0,918.0,1367.0,"Oakdale CCD, Stanislaus County, California",099,92210,06
+499.0,95.0,404.0,"Westport CCD, Stanislaus County, California",099,93650,06
+2042.0,1020.0,1022.0,"Newman CCD, Stanislaus County, California",099,92120,06
+4038.0,2328.0,1710.0,"Patterson CCD, Stanislaus County, California",099,92420,06
+16208.0,8291.0,7917.0,"Antioch-Pittsburg CCD, Contra Costa County, California",013,90080,06
+120.0,79.0,41.0,"Briones CCD, Contra Costa County, California",013,90270,06
+37848.0,18635.0,19213.0,"Modesto CCD, Stanislaus County, California",099,91980,06
+2416.0,1401.0,1015.0,"Salida CCD, Stanislaus County, California",099,92720,06
+1588.0,715.0,873.0,"Guadalupe CCD, Santa Barbara County, California",083,91200,06
+15783.0,4675.0,11108.0,"Santa Barbara CCD, Santa Barbara County, California",083,92890,06
+104.0,46.0,58.0,"Cuyama CCD, Santa Barbara County, California",083,90630,06
+265.0,123.0,142.0,"Weed CCD, Siskiyou County, California",093,93600,06
+36.0,34.0,2.0,"McCloud-Medicine Lake CCD, Siskiyou County, California",093,91800,06
+3.0,0.0,3.0,"Hornbrook-Hilt CCD, Siskiyou County, California",093,91340,06
+130.0,74.0,56.0,"Montague CCD, Siskiyou County, California",093,92010,06
+224.0,140.0,84.0,"Mount Shasta CCD, Siskiyou County, California",093,92050,06
+162.0,66.0,96.0,"Butte Valley CCD, Siskiyou County, California",093,90290,06
+62.0,31.0,31.0,"Dunsmuir CCD, Siskiyou County, California",093,90740,06
+209.0,53.0,156.0,"Tulelake CCD, Siskiyou County, California",093,93450,06
+75.0,33.0,42.0,"Fort Jones CCD, Siskiyou County, California",093,91040,06
+325.0,98.0,227.0,"Yreka CCD, Siskiyou County, California",093,93810,06
+39.0,28.0,11.0,"Happy Camp CCD, Siskiyou County, California",093,91240,06
+163.0,147.0,16.0,"Central Shasta CCD, Shasta County, California",089,90450,06
+40.0,36.0,4.0,"Southwest Shasta CCD, Shasta County, California",089,93210,06
+10256.0,4960.0,5296.0,"Fairfield-Suisun City CCD, Solano County, California",095,90950,06
+330.0,178.0,152.0,"East Shasta CCD, Shasta County, California",089,90820,06
+36.0,36.0,0.0,"Sacramento Canyon CCD, Shasta County, California",089,92700,06
+2216.0,1333.0,883.0,"Dixon CCD, Solano County, California",095,90700,06
+316.0,126.0,190.0,"Rio Vista CCD, Solano County, California",095,92610,06
+6377.0,3252.0,3125.0,"Vacaville CCD, Solano County, California",095,93520,06
+9166.0,5086.0,4080.0,"Vallejo CCD, Solano County, California",095,93530,06
+37.0,32.0,5.0,"Klamath CCD, Del Norte County, California",015,91490,06
+191.0,65.0,126.0,"Smith River-Gasquet CCD, Del Norte County, California",015,93040,06
+674.0,336.0,338.0,"Crescent City CCD, Del Norte County, California",015,90620,06
+1923.0,1143.0,780.0,"Central Colusa CCD, Colusa County, California",011,90430,06
+36.0,21.0,15.0,"West Colusa CCD, Colusa County, California",011,93610,06
+1182.0,518.0,664.0,"East Colusa CCD, Colusa County, California",011,90770,06
+2256.0,1151.0,1105.0,"Orland CCD, Glenn County, California",021,92280,06
+892.0,343.0,549.0,"Willows CCD, Glenn County, California",021,93750,06
+1158.0,548.0,610.0,"Gridley CCD, Butte County, California",007,91180,06
+139.0,116.0,23.0,"Feather Falls CCD, Butte County, California",007,90970,06
+247.0,142.0,105.0,"Biggs CCD, Butte County, California",007,90230,06
+5315.0,1654.0,3661.0,"Chico CCD, Butte County, California",007,90470,06
+558.0,363.0,195.0,"Palermo CCD, Butte County, California",007,92330,06
+931.0,634.0,297.0,"Paradise CCD, Butte County, California",007,92380,06
+240.0,101.0,139.0,"Durham CCD, Butte County, California",007,90750,06
+1206.0,680.0,526.0,"Oroville CCD, Butte County, California",007,92300,06
+3063.0,1360.0,1703.0,"Corcoran CCD, Kings County, California",031,90570,06
+254.0,70.0,184.0,"Hanford Northeast CCD, Kings County, California",031,91230,06
+3828.0,1354.0,2474.0,"Lemoore CCD, Kings County, California",031,91590,06
+686.0,348.0,338.0,"Stratford CCD, Kings County, California",031,93250,06
+1989.0,909.0,1080.0,"Avenal CCD, Kings County, California",031,90170,06
+9065.0,4321.0,4744.0,"Hanford CCD, Kings County, California",031,91220,06
+39.0,34.0,5.0,"Graeagle CCD, Plumas County, California",063,91135,06
+209.0,154.0,55.0,"Quincy CCD, Plumas County, California",063,92540,06
+73.0,64.0,9.0,"Greenville CCD, Plumas County, California",063,91170,06
+60.0,4.0,56.0,"Chester CCD, Plumas County, California",063,90460,06
+160.0,123.0,37.0,"Portola CCD, Plumas County, California",063,92530,06
+4436.0,1647.0,2789.0,"Paso Robles CCD, San Luis Obispo County, California",079,92410,06
+2806.0,483.0,2323.0,"San Luis Obispo CCD, San Luis Obispo County, California",079,92860,06
+5427.0,2424.0,3003.0,"Arroyo Grande CCD, San Luis Obispo County, California",079,90120,06
+1857.0,727.0,1130.0,"North Coast CCD, San Luis Obispo County, California",079,92160,06
+1923.0,975.0,948.0,"Atascadero CCD, San Luis Obispo County, California",079,90140,06
+1685.0,562.0,1123.0,"Caruthers-Raisin City CCD, Fresno County, California",019,90390,06
+570.0,253.0,317.0,"Laton CCD, Fresno County, California",019,91570,06
+6326.0,3321.0,3005.0,"Sanger CCD, Fresno County, California",019,92800,06
+2407.0,967.0,1440.0,"Firebaugh CCD, Fresno County, California",019,91000,06
+737.0,590.0,147.0,"Sierra CCD, Fresno County, California",019,93010,06
+4349.0,2069.0,2280.0,"Kerman CCD, Fresno County, California",019,91460,06
+1474.0,902.0,572.0,"Kingsburg CCD, Fresno County, California",019,91480,06
+1578.0,567.0,1011.0,"San Joaquin-Tranquillity CCD, Fresno County, California",019,92820,06
+2889.0,1011.0,1878.0,"Mendota CCD, Fresno County, California",019,91950,06
+5365.0,2936.0,2429.0,"Reedley CCD, Fresno County, California",019,92600,06
+2503.0,938.0,1565.0,"Orange Cove CCD, Fresno County, California",019,92270,06
+6095.0,3001.0,3094.0,"Selma CCD, Fresno County, California",019,92990,06
+2307.0,1189.0,1118.0,"Coalinga CCD, Fresno County, California",019,90530,06
+1882.0,867.0,1015.0,"Fowler CCD, Fresno County, California",019,91060,06
+83624.0,34976.0,48648.0,"Fresno CCD, Fresno County, California",019,91080,06
+1957.0,514.0,1443.0,"Huron CCD, Fresno County, California",019,91360,06
+7315.0,5227.0,2088.0,"Greenfield-Panama CCD, Kern County, California",029,91160,06
+867.0,438.0,429.0,"Riverdale CCD, Fresno County, California",019,92630,06
+4653.0,2068.0,2585.0,"Parlier-Del Rey CCD, Fresno County, California",019,92390,06
+56362.0,25394.0,30968.0,"Bakersfield CCD, Kern County, California",029,90180,06
+503.0,155.0,348.0,"Lake Isabella CCD, Kern County, California",029,91520,06
+9116.0,3889.0,5227.0,"Arvin-Lamont CCD, Kern County, California",029,90130,06
+1913.0,1125.0,788.0,"Tehachapi CCD, Kern County, California",029,93320,06
+5149.0,2517.0,2632.0,"Wasco CCD, Kern County, California",029,93570,06
+4120.0,1919.0,2201.0,"Shafter CCD, Kern County, California",029,93000,06
+5738.0,3108.0,2630.0,"East Kern CCD, Kern County, California",029,90800,06
+580.0,280.0,300.0,"Buttonwillow CCD, Kern County, California",029,90300,06
+5043.0,3637.0,1406.0,"Rosedale CCD, Kern County, California",029,92650,06
+177796.0,68091.0,109705.0,"Anaheim-Santa Ana-Garden Grove CCD, Orange County, California",059,90050,06
+19786.0,7824.0,11962.0,"North Coast CCD, Orange County, California",059,92150,06
+2843.0,1680.0,1163.0,"Moorpark CCD, Ventura County, California",111,92020,06
+14172.0,3358.0,10814.0,"Central Coast CCD, Orange County, California",059,90420,06
+15138.0,6763.0,8375.0,"South Coast CCD, Orange County, California",059,93110,06
+21.0,21.0,0.0,"Los Padres CCD, Ventura County, California",111,91770,06
+10543.0,4217.0,6326.0,"Ventura CCD, Ventura County, California",111,93550,06
+366.0,74.0,292.0,"Las Posas CCD, Ventura County, California",111,91560,06
+4301.0,2400.0,1901.0,"Camarillo CCD, Ventura County, California",111,90350,06
+36853.0,17012.0,19841.0,"Oxnard CCD, Ventura County, California",111,92310,06
+6952.0,3217.0,3735.0,"Santa Paula CCD, Ventura County, California",111,92930,06
+6415.0,3652.0,2763.0,"Thousand Oaks CCD, Ventura County, California",111,93350,06
+8082.0,4773.0,3309.0,"Simi Valley CCD, Ventura County, California",111,93020,06
+424.0,275.0,149.0,"Angels City CCD, Calaveras County, California",009,90060,06
+714.0,446.0,268.0,"San Andreas CCD, Calaveras County, California",009,92740,06
+202.0,77.0,125.0,"Meridian-Robbins CCD, Sutter County, California",101,91970,06
+92.0,80.0,12.0,"Sutter CCD, Sutter County, California",101,93290,06
+151.0,64.0,87.0,"South Sutter CCD, Sutter County, California",101,93180,06
+1177.0,645.0,532.0,"Live Oak CCD, Sutter County, California",101,91650,06
+5725.0,1965.0,3760.0,"Yuba City CCD, Sutter County, California",101,93820,06
+20490.0,8974.0,11516.0,"South San Francisco CCD, San Mateo County, California",081,93170,06
+25615.0,8223.0,17392.0,"San Mateo CCD, San Mateo County, California",081,92870,06
+74.0,68.0,6.0,"Groveland CCD, Tuolumne County, California",109,91190,06
+698.0,400.0,298.0,"Twain Harte-Tuolumne City CCD, Tuolumne County, California",109,93470,06
+2718.0,886.0,1832.0,"Sonoma CCD, Sonoma County, California",097,93070,06
+3338.0,1588.0,1750.0,"Healdsburg CCD, Sonoma County, California",097,91270,06
+1132.0,483.0,649.0,"Cloverdale-Geyserville CCD, Sonoma County, California",097,90510,06
+7040.0,3041.0,3999.0,"Petaluma CCD, Sonoma County, California",097,92460,06
+16554.0,5628.0,10926.0,"Santa Rosa CCD, Sonoma County, California",097,92940,06
+1155.0,476.0,679.0,"Sebastopol CCD, Sonoma County, California",097,92980,06
+1636.0,1073.0,563.0,"Corning CCD, Tehama County, California",103,90580,06
+162.0,86.0,76.0,"East Tehama CCD, Tehama County, California",103,90840,06
+1938.0,878.0,1060.0,"Red Bluff CCD, Tehama County, California",103,92560,06
+333.0,182.0,151.0,"West Tehama CCD, Tehama County, California",103,93690,06
+1605.0,764.0,841.0,"Calipatria-Westmorland CCD, Imperial County, California",025,90330,06
+1202.0,720.0,482.0,"West Imperial CCD, Imperial County, California",025,93630,06
+13507.0,6963.0,6544.0,"El Centro CCD, Imperial County, California",025,90860,06
+5542.0,2650.0,2892.0,"Brawley CCD, Imperial County, California",025,90260,06
+2436.0,1703.0,733.0,"Imperial CCD, Imperial County, California",025,91380,06
+1629.0,819.0,810.0,"Holtville CCD, Imperial County, California",025,91310,06
+162.0,77.0,85.0,"Winterhaven-Bard CCD, Imperial County, California",025,93760,06
+8907.0,4596.0,4311.0,"Calexico CCD, Imperial County, California",025,90320,06
+20.0,6.0,14.0,"East Imperial CCD, Imperial County, California",025,90790,06
+750.0,304.0,446.0,"San Juan Bautista CCD, San Benito County, California",069,92840,06
+45.0,5.0,40.0,"San Benito-Bitterwater CCD, San Benito County, California",069,92760,06
+7344.0,4058.0,3286.0,"Hollister CCD, San Benito County, California",069,91300,06
+2776.0,813.0,1963.0,"Alameda CCD, Alameda County, California",001,90020,06
+34456.0,14233.0,20223.0,"Hayward CCD, Alameda County, California",001,91260,06
+7676.0,3865.0,3811.0,"Livermore-Pleasanton CCD, Alameda County, California",001,91660,06
+4048.0,1001.0,3047.0,"Berkeley CCD, Alameda County, California",001,90200,06
+14828.0,7927.0,6901.0,"Fremont CCD, Alameda County, California",001,91070,06
+28852.0,8602.0,20250.0,"Oakland CCD, Alameda County, California",001,92230,06
+2119.0,1412.0,707.0,"Folsom CCD, Sacramento County, California",067,91010,06
+110.0,110.0,0.0,"Sloughhouse CCD, Sacramento County, California",067,93030,06
+72638.0,30885.0,41753.0,"Sacramento CCD, Sacramento County, California",067,92690,06
+3580.0,2235.0,1345.0,"Galt CCD, Sacramento County, California",067,91090,06
+5776.0,3810.0,1966.0,"Elk Grove CCD, Sacramento County, California",067,90870,06
+1715.0,474.0,1241.0,"South Lake Tahoe CCD, El Dorado County, California",017,93160,06
+2503.0,1809.0,694.0,"South El Dorado CCD, El Dorado County, California",017,93150,06
+609.0,271.0,338.0,"Placerville CCD, El Dorado County, California",017,92490,06
+785.0,546.0,239.0,"North El Dorado CCD, El Dorado County, California",017,92190,06
+777.0,366.0,411.0,"Calistoga CCD, Napa County, California",055,90340,06
+9747.0,4261.0,5486.0,"Napa CCD, Napa County, California",055,92070,06
+694.0,227.0,467.0,"St. Helena CCD, Napa County, California",055,92710,06
+251.0,69.0,182.0,"Angwin CCD, Napa County, California",055,90070,06
+2463.0,1071.0,1392.0,"Pajaro CCD, Monterey County, California",053,92320,06
+2405.0,942.0,1463.0,"Gonzales CCD, Monterey County, California",053,91130,06
+3263.0,1427.0,1836.0,"King City CCD, Monterey County, California",053,91470,06
+2651.0,1263.0,1388.0,"Castroville CCD, Monterey County, California",053,90400,06
+28777.0,11308.0,17469.0,"Salinas CCD, Monterey County, California",053,92730,06
+3385.0,1561.0,1824.0,"Greenfield CCD, Monterey County, California",053,91150,06
+3435.0,1975.0,1460.0,"Soledad CCD, Monterey County, California",053,93060,06
+196.0,93.0,103.0,"Carmel Valley CCD, Monterey County, California",053,90370,06
+7038.0,1689.0,5349.0,"Seaside-Monterey CCD, Monterey County, California",053,92970,06
+279.0,63.0,216.0,"San Ardo CCD, Monterey County, California",053,92750,06
+42347.0,10848.0,31499.0,"San Francisco CCD, San Francisco County, California",075,92790,06
+4317.0,1959.0,2358.0,"Fallbrook CCD, San Diego County, California",073,90960,06
+180.0,93.0,87.0,"Laguna-Pine Valley CCD, San Diego County, California",073,91510,06
+9.0,9.0,0.0,"West Sierra CCD, Sierra County, California",091,93680,06
+115.0,47.0,68.0,"East Sierra CCD, Sierra County, California",091,90830,06
+588.0,264.0,324.0,"Pauma Valley CCD, San Diego County, California",073,92430,06
+1166.0,1036.0,130.0,"Jamul CCD, San Diego County, California",073,91440,06
+692.0,473.0,219.0,"Mountain Empire CCD, San Diego County, California",073,92030,06
+58229.0,22025.0,36204.0,"Oceanside-Escondido CCD, San Diego County, California",073,92240,06
+1725.0,1078.0,647.0,"Ramona CCD, San Diego County, California",073,92550,06
+1031.0,566.0,465.0,"Valley Center CCD, San Diego County, California",073,93540,06
+166.0,128.0,38.0,"Palomar-Julian CCD, San Diego County, California",073,92350,06
+619.0,387.0,232.0,"Alpine CCD, San Diego County, California",073,90030,06
+205057.0,78867.0,126190.0,"San Diego CCD, San Diego County, California",073,92780,06
+251.0,139.0,112.0,"Springville-Johnsondale CCD, Tulare County, California",107,93220,06
+1185.0,692.0,493.0,"Terra Bella CCD, Tulare County, California",107,93330,06
+3195.0,1382.0,1813.0,"Earlimart CCD, Tulare County, California",107,90760,06
+4165.0,2415.0,1750.0,"Exeter CCD, Tulare County, California",107,90940,06
+11797.0,5852.0,5945.0,"Porterville CCD, Tulare County, California",107,92520,06
+2222.0,1309.0,913.0,"Woodlake-Three Rivers CCD, Tulare County, California",107,93780,06
+1294.0,449.0,845.0,"Strathmore CCD, Tulare County, California",107,93260,06
+18389.0,9205.0,9184.0,"Visalia CCD, Tulare County, California",107,93560,06
+10801.0,5211.0,5590.0,"Tulare CCD, Tulare County, California",107,93430,06
+1263.0,450.0,813.0,"Ivanhoe CCD, Tulare County, California",107,91420,06
+3783.0,1824.0,1959.0,"Lindsay CCD, Tulare County, California",107,91640,06
+3788.0,1813.0,1975.0,"Orosi-Cutler CCD, Tulare County, California",107,92290,06
+1457.0,455.0,1002.0,"Pixley CCD, Tulare County, California",107,92480,06
+1416.0,439.0,977.0,"Tipton CCD, Tulare County, California",107,93360,06
+6832.0,2963.0,3869.0,"Dinuba CCD, Tulare County, California",107,90690,06
+121.0,65.0,56.0,"Clarksburg CCD, Yolo County, California",113,90500,06
+2614.0,667.0,1947.0,"Davis CCD, Yolo County, California",113,90640,06
+606.0,295.0,311.0,"Knights Landing CCD, Yolo County, California",113,91500,06
+1275.0,580.0,695.0,"Winters CCD, Yolo County, California",113,93770,06
+743.0,435.0,308.0,"Esparto CCD, Yolo County, California",113,90910,06
+219.0,172.0,47.0,"Chuckwalla Valley CCD, Riverside County, California",065,90492,06
+252.0,32.0,220.0,"Yuba City Southwest CCD, Sutter County, California",101,93825,06
+4307.0,1728.0,2579.0,"Twentynine Palms-Yucca Valley CCD, San Bernardino County, California",071,93482,06
+4871.0,2115.0,2756.0,"Barstow CCD, San Bernardino County, California",071,90188,06
+2435.0,1534.0,901.0,"Rocklin CCD, Placer County, California",061,92645,06
+136.0,84.0,52.0,"Arnold-West Point CCD, Calaveras County, California",009,90105,06
+701.0,265.0,436.0,"Russian River-Sonoma Coast CCD, Sonoma County, California",097,92682,06
+12649.0,5540.0,7109.0,"South Santa Clara Valley CCD, Santa Clara County, California",085,93175,06
+68.0,48.0,20.0,"Lexington Hills CCD, Santa Clara County, California",085,91602,06
+3215.0,1201.0,2014.0,"Novato CCD, Marin County, California",041,92205,06
+7.0,0.0,7.0,"Bolinas CCD, Marin County, California",041,90256,06
+2596.0,1186.0,1410.0,"Blythe CCD, Riverside County, California",065,90253,06
+15.0,13.0,2.0,"Northwest Trinity CCD, Trinity County, California",105,92202,06
+3719.0,2309.0,1410.0,"Fillmore CCD, Ventura County, California",111,90988,06
+1419.0,807.0,612.0,"Ojai-Mira Monte CCD, Ventura County, California",111,92245,06
+27.0,19.0,8.0,"Triunfo Pass-Point Mugu CCD, Ventura County, California",111,93422,06
+1113.0,452.0,661.0,"Clearlake CCD, Lake County, California",033,90503,06
+113.0,65.0,48.0,"Lower Lake CCD, Lake County, California",033,91775,06
+188.0,126.0,62.0,"Middletown CCD, Lake County, California",033,91975,06
+51.0,51.0,0.0,"Cobb CCD, Lake County, California",033,90545,06
+331.0,238.0,93.0,"Clearlake Riviera CCD, Lake County, California",033,90505,06
+220.0,200.0,20.0,"Upper Lake-Nice CCD, Lake County, California",033,93505,06
+629.0,305.0,324.0,"Kelseyville CCD, Lake County, California",033,91455,06
+310.0,69.0,241.0,"Lucerne-Clearlake Oaks CCD, Lake County, California",033,91795,06
+50.0,33.0,17.0,"Newell CCD, Modoc County, California",049,92105,06
+80.0,45.0,35.0,"Lake Berryessa CCD, Napa County, California",055,91515,06
+1655.0,707.0,948.0,"Half Moon Bay CCD, San Mateo County, California",081,91215,06
+1185.0,645.0,540.0,"Lake Arrowhead CCD, San Bernardino County, California",071,91513,06
+40984.0,23596.0,17388.0,"Victorville-Hesperia CCD, San Bernardino County, California",071,93555,06
+813.0,147.0,666.0,"Newberry Springs-Baker CCD, San Bernardino County, California",071,92102,06
+106.0,52.0,54.0,"Searles Valley CCD, San Bernardino County, California",071,92955,06
+79.0,60.0,19.0,"West Santa Cruz CCD, Santa Cruz County, California",087,93665,06
+1461.0,923.0,538.0,"Agoura Hills-Malibu CCD, Los Angeles County, California",037,90015,06
+198557.0,73290.0,125267.0,"San Fernando Valley CCD, Los Angeles County, California",037,92785,06
+114772.0,36911.0,77861.0,"South Gate-East Los Angeles CCD, Los Angeles County, California",037,93155,06
+12543.0,7042.0,5501.0,"Delano-McFarland CCD, Kern County, California",029,90655,06
+2124.0,1094.0,1030.0,"West Kern CCD, Kern County, California",029,93635,06
+530.0,149.0,381.0,"Mendocino CCD, Mendocino County, California",045,91938,06
+435.0,284.0,151.0,"Yosemite Lakes CCD, Madera County, California",039,93802,06
+883.0,606.0,277.0,"Redwood Valley-Potter Valley CCD, Mendocino County, California",045,92592,06
+537.0,215.0,322.0,"Isleton CCD, Sacramento County, California",067,91416,06
+6325.0,2664.0,3661.0,"Rancho Cordova CCD, Sacramento County, California",067,92555,06
+224.0,83.0,141.0,"East Yuba-Beale AFB CCD, Yuba County, California",115,90855,06
+287.0,258.0,29.0,"Marysville Northeast CCD, Yuba County, California",115,91908,06
+9041.0,3558.0,5483.0,"Irvine-Lake Forest CCD, Orange County, California",059,91413,06
+10836.0,6651.0,4185.0,"Mission Viejo CCD, Orange County, California",059,91977,06
+84.0,67.0,17.0,"Silverado CCD, Orange County, California",059,93015,06
+57.0,57.0,0.0,"Summit Road CCD, Santa Cruz County, California",087,93265,06
+97.0,48.0,49.0,"Willow Creek-Hoopa Valley CCD, Humboldt County, California",023,93745,06
+1942.0,768.0,1174.0,"Carpinteria CCD, Santa Barbara County, California",083,90378,06
+6979.0,2296.0,4683.0,"Lompoc CCD, Santa Barbara County, California",083,91708,06
+19247.0,8302.0,10945.0,"Santa Maria CCD, Santa Barbara County, California",083,92908,06
+1465.0,550.0,915.0,"Solvang-Santa Ynez CCD, Santa Barbara County, California",083,93065,06
+117.0,22.0,95.0,"North Mono CCD, Mono County, California",051,92195,06
+779.0,96.0,683.0,"Mammoth Lakes CCD, Mono County, California",051,91865,06
+169.0,91.0,78.0,"Borrego Springs CCD, San Diego County, California",073,90258,06
+0.0,0.0,0.0,"Feather River Canyon CCD, Plumas County, California",063,90975,06
+21.0,0.0,21.0,"Yosemite Valley CCD, Mariposa County, California",043,93804,06
+131.0,0.0,131.0,"Big Sur CCD, Monterey County, California",053,90235,06
+353.0,241.0,112.0,"Carmel-by-the-Sea CCD, Monterey County, California",053,90362,06
+1133.0,0.0,1133.0,"Camp Pendleton CCD, San Diego County, California",073,90355,06
+4166.0,1593.0,2573.0,"Redding CCD, Shasta County, California",089,92568,06
+361.0,221.0,140.0,"Toro Park CCD, Monterey County, California",053,93372,06
+3128.0,1989.0,1139.0,"Lincoln CCD, Placer County, California",061,91605,06
+4268.0,1886.0,2382.0,"East Yolo CCD, Yolo County, California",113,90850,06
+8057.0,3447.0,4610.0,"Woodland CCD, Yolo County, California",113,93790,06
+1527.0,491.0,1036.0,"Eureka CCD, Humboldt County, California",023,90930,06
+200.0,49.0,151.0,"Garberville CCD, Humboldt County, California",023,91100,06
+531.0,122.0,409.0,"Fortuna CCD, Humboldt County, California",023,91050,06
+623.0,247.0,376.0,"North Coastal CCD, Humboldt County, California",023,92170,06
+898.0,159.0,739.0,"Arcata CCD, Humboldt County, California",023,90100,06
+59.0,10.0,49.0,"Ferndale CCD, Humboldt County, California",023,90980,06
+1387.0,782.0,605.0,"Grass Valley CCD, Nevada County, California",057,91140,06
+825.0,368.0,457.0,"Donner CCD, Nevada County, California",057,90710,06
+272.0,190.0,82.0,"Nevada City CCD, Nevada County, California",057,92090,06
+11.0,7.0,4.0,"Markleeville CCD, Alpine County, California",003,91890,06
+2024.0,882.0,1142.0,"Chowchilla CCD, Madera County, California",039,90480,06
+253.0,53.0,200.0,"Madera West CCD, Madera County, California",039,91850,06
+417.0,290.0,127.0,"Oakhurst-North Fork CCD, Madera County, California",039,92220,06
+16297.0,8156.0,8141.0,"Madera CCD, Madera County, California",039,91830,06
+661.0,290.0,371.0,"Madera Southeast CCD, Madera County, California",039,91840,06
+204.0,55.0,149.0,"Point Arena CCD, Mendocino County, California",045,92510,06
+707.0,204.0,503.0,"Fort Bragg CCD, Mendocino County, California",045,91030,06
+139.0,40.0,99.0,"Laytonville-Leggett CCD, Mendocino County, California",045,91580,06
+83.0,27.0,56.0,"Hopland CCD, Mendocino County, California",045,91330,06
+2481.0,828.0,1653.0,"Ukiah CCD, Mendocino County, California",045,93490,06
+463.0,256.0,207.0,"Willits CCD, Mendocino County, California",045,93740,06
+105.0,50.0,55.0,"Covelo CCD, Mendocino County, California",045,90610,06
+7727.0,2686.0,5041.0,"Santa Cruz CCD, Santa Cruz County, California",087,92900,06
+12995.0,4962.0,8033.0,"Watsonville CCD, Santa Cruz County, California",087,93590,06
+600.0,461.0,139.0,"San Lorenzo Valley CCD, Santa Cruz County, California",087,92850,06
+41.0,25.0,16.0,"Hayfork CCD, Trinity County, California",105,91250,06
+57.0,57.0,0.0,"Weaverville CCD, Trinity County, California",105,93595,06
+4378.0,1944.0,2434.0,"Palos Verdes CCD, Los Angeles County, California",037,92360,06
+330.0,236.0,94.0,"Colfax-Monumental Ridge CCD, Placer County, California",061,90548,06
+10.0,0.0,10.0,"Mad River CCD, Trinity County, California",105,91860,06
+19707.0,10858.0,8849.0,"Newhall CCD, Los Angeles County, California",037,92110,06
+62813.0,30093.0,32720.0,"Downey-Norwalk CCD, Los Angeles County, California",037,90730,06
+59898.0,37443.0,22455.0,"Whittier CCD, Los Angeles County, California",037,93730,06
+6199.0,2479.0,3720.0,"South Bay Cities CCD, Los Angeles County, California",037,93100,06
+17294.0,9932.0,7362.0,"North Antelope Valley CCD, Los Angeles County, California",037,92140,06
+7344.0,2987.0,4357.0,"Torrance CCD, Los Angeles County, California",037,93380,06
+37867.0,14261.0,23606.0,"Southwest San Gabriel Valley CCD, Los Angeles County, California",037,93200,06
+36405.0,12459.0,23946.0,"Upper San Gabriel Valley CCD, Los Angeles County, California",037,93510,06
+63229.0,21121.0,42108.0,"Long Beach-Lakewood CCD, Los Angeles County, California",037,91730,06
+328404.0,79019.0,249385.0,"Los Angeles CCD, Los Angeles County, California",037,91750,06
+20566.0,8267.0,12299.0,"Pasadena CCD, Los Angeles County, California",037,92400,06
+45628.0,24216.0,21412.0,"Compton CCD, Los Angeles County, California",037,90560,06
+120026.0,70653.0,49373.0,"East San Gabriel Valley CCD, Los Angeles County, California",037,90810,06
+5707.0,972.0,4735.0,"Santa Monica CCD, Los Angeles County, California",037,92920,06
+25718.0,16594.0,9124.0,"South Antelope Valley CCD, Los Angeles County, California",037,93090,06
+50287.0,16250.0,34037.0,"Inglewood CCD, Los Angeles County, California",037,91400,06
+20711.0,12305.0,8406.0,"Corona CCD, Riverside County, California",065,90590,06
+37542.0,22883.0,14659.0,"Coachella Valley CCD, Riverside County, California",065,90520,06
+504.0,307.0,197.0,"Idyllwild CCD, Riverside County, California",065,91370,06
+19106.0,11431.0,7675.0,"Murrieta CCD, Riverside County, California",065,92060,06
+15399.0,6434.0,8965.0,"Cathedral City-Palm Desert CCD, Riverside County, California",065,90410,06
+7073.0,3316.0,3757.0,"Desert Hot Springs CCD, Riverside County, California",065,90670,06
+17750.0,9858.0,7892.0,"Hemet-San Jacinto CCD, Riverside County, California",065,91280,06
+57459.0,30241.0,27218.0,"Riverside CCD, Riverside County, California",065,92640,06
+2591.0,1738.0,853.0,"Lake Mathews CCD, Riverside County, California",065,91530,06
+9050.0,5386.0,3664.0,"San Gorgonio Pass CCD, Riverside County, California",065,92810,06
+19447.0,12568.0,6879.0,"Jurupa CCD, Riverside County, California",065,91450,06
+4064.0,1235.0,2829.0,"Palm Springs CCD, Riverside County, California",065,92340,06
+12210.0,7324.0,4886.0,"Elsinore Valley CCD, Riverside County, California",065,90880,06
+1616.0,1215.0,401.0,"Norco CCD, Riverside County, California",065,92130,06
+33280.0,21289.0,11991.0,"Perris Valley CCD, Riverside County, California",065,92450,06
+122539.0,67410.0,55129.0,"San Bernardino CCD, San Bernardino County, California",071,92770,06
+1499.0,648.0,851.0,"Big Bear CCD, San Bernardino County, California",071,90220,06
+4701.0,3277.0,1424.0,"Yucaipa CCD, San Bernardino County, California",071,93850,06
+79903.0,42045.0,37858.0,"Ontario CCD, San Bernardino County, California",071,92260,06
+462.0,246.0,216.0,"Mount Baldy-Wrightwood CCD, San Bernardino County, California",071,92040,06
+473.0,250.0,223.0,"Needles CCD, San Bernardino County, California",071,92080,06
+185.0,173.0,12.0,"Llagas-Uvas CCD, Santa Clara County, California",085,91680,06
+106969.0,42125.0,64844.0,"San Jose CCD, Santa Clara County, California",085,92830,06
+86.0,25.0,61.0,"West Santa Clara CCD, Santa Clara County, California",085,93660,06
+60.0,23.0,37.0,"Diablo Range CCD, Santa Clara County, California",085,90680,06
+1026.0,431.0,595.0,"Ross Valley CCD, Marin County, California",041,92670,06
+1466.0,633.0,833.0,"Southeast Marin CCD, Marin County, California",041,93140,06
+266.0,61.0,205.0,"Northwest Marin CCD, Marin County, California",041,92200,06
+4474.0,738.0,3736.0,"San Rafael CCD, Marin County, California",041,92880,06
+1620.0,760.0,860.0,"Auburn CCD, Placer County, California",061,90160,06
+5285.0,2469.0,2816.0,"Roseville CCD, Placer County, California",061,92660,06
+51.0,34.0,17.0,"Foresthill-Back Country CCD, Placer County, California",061,91020,06
+348.0,92.0,256.0,"Lake Tahoe CCD, Placer County, California",061,91550,06
+68.0,57.0,11.0,"Etna CCD, Siskiyou County, California",093,90920,06

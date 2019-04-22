@@ -1,0 +1,587 @@
+geoid,name,median,county,county subdivision,state
+1300592562,"Rockingham CCD, Bacon County, Georgia",42750.0,005,92562,13
+1300190078,"Altamaha River CCD, Appling County, Georgia",53242.0,001,90078,13
+1300190240,"Baxley CCD, Appling County, Georgia",33737.0,001,90240,13
+1300590072,"Alma CCD, Bacon County, Georgia",37102.0,005,90072,13
+1302591500,"Hoboken CCD, Brantley County, Georgia",34464.0,025,91500,13
+1302593306,"Waynesville CCD, Brantley County, Georgia",40055.0,025,93306,13
+1302592124,"Nahunta CCD, Brantley County, Georgia",34143.0,025,92124,13
+1301192803,"Southeast Banks CCD, Banks County, Georgia",37962.0,011,92803,13
+1322392210,"North Paulding CCD, Paulding County, Georgia",84286.0,223,92210,13
+1329591668,"LaFayette CCD, Walker County, Georgia",38935.0,295,91668,13
+1301792433,"Queensland CCD, Ben Hill County, Georgia",47371.0,017,92433,13
+1312992460,"Redbud CCD, Gordon County, Georgia",47942.0,129,92460,13
+1331793275,"Washington CCD, Wilkes County, Georgia",33663.0,317,93275,13
+1313192804,"Southeast Grady CCD, Grady County, Georgia",63500.0,131,92804,13
+1313192216,"Northwest Grady CCD, Grady County, Georgia",59688.0,131,92216,13
+1316793332,"West Johnson CCD, Johnson County, Georgia",45170.0,167,93332,13
+1326990557,"Carsonville CCD, Taylor County, Georgia",36420.0,269,90557,13
+1308590284,"Blacks Mill CCD, Dawson County, Georgia",65640.0,085,90284,13
+1328992215,"North Twiggs CCD, Twiggs County, Georgia",31008.0,289,92215,13
+1328992821,"South Twiggs CCD, Twiggs County, Georgia",29821.0,289,92821,13
+1308792104,"Mount Pleasant CCD, Decatur County, Georgia",42699.0,087,92104,13
+1318793024,"Three Sisters Mountain CCD, Lumpkin County, Georgia",51600.0,187,93024,13
+1316592019,"Millen CCD, Jenkins County, Georgia",25808.0,165,92019,13
+1316592806,"South Jenkins CCD, Jenkins County, Georgia",36458.0,165,92806,13
+1329392671,"Salem CCD, Upson County, Georgia",34100.0,293,92671,13
+1327990591,"Cedar Crossing CCD, Toombs County, Georgia",43107.0,279,90591,13
+1318192807,"South Lincoln CCD, Lincoln County, Georgia",35508.0,181,92807,13
+1322190814,"Crawford CCD, Oglethorpe County, Georgia",43867.0,221,90814,13
+1302191891,"Macon East CCD, Bibb County, Georgia",27974.0,021,91891,13
+1325593180,"Vaughn CCD, Spalding County, Georgia",55526.0,255,93180,13
+1302191892,"Macon West CCD, Bibb County, Georgia",35626.0,021,91892,13
+1325593071,"Towalaga CCD, Spalding County, Georgia",62610.0,255,93071,13
+1325590942,"Digbey CCD, Spalding County, Georgia",61250.0,255,90942,13
+1316991351,"Gray-Macon East CCD, Jones County, Georgia",55603.0,169,91351,13
+1303593438,"Worthville CCD, Butts County, Georgia",55071.0,035,93438,13
+1303592822,"Southwest Butts CCD, Butts County, Georgia",47049.0,035,92822,13
+1327791052,"Eldorado CCD, Tift County, Georgia",36042.0,277,91052,13
+1300992015,"Milledgeville CCD, Baldwin County, Georgia",31823.0,009,92015,13
+1325791934,"Martin-Avalon CCD, Stephens County, Georgia",41592.0,257,91934,13
+1308393084,"Trenton CCD, Dade County, Georgia",37841.0,083,93084,13
+1307391383,"Grovetown-Harlem CCD, Columbia County, Georgia",61452.0,073,91383,13
+1300990992,"East Baldwin CCD, Baldwin County, Georgia",54194.0,009,90992,13
+1329591810,"Lookout Mountain CCD, Walker County, Georgia",71728.0,295,91810,13
+1312392805,"South Gilmer CCD, Gilmer County, Georgia",51120.0,123,92805,13
+1312392206,"North Gilmer CCD, Gilmer County, Georgia",61484.0,123,92206,13
+1321792810,"South Newton CCD, Newton County, Georgia",51347.0,217,92810,13
+1313590469,"Buford-Sugar Hill CCD, Gwinnett County, Georgia",73948.0,135,90469,13
+1310590719,"Coldwater CCD, Elbert County, Georgia",39842.0,105,90719,13
+1305192393,"Pooler-Bloomingdale CCD, Chatham County, Georgia",62770.0,051,92393,13
+1305193127,"Tybee Island-Wilmington Island CCD, Chatham County, Georgia",75706.0,051,93127,13
+1317391010,"East Lanier CCD, Lanier County, Georgia",32768.0,173,91010,13
+1300190273,"Big Satilla Creek CCD, Appling County, Georgia",42540.0,001,90273,13
+1300192905,"Surrency-Troper CCD, Appling County, Georgia",40667.0,001,92905,13
+1324192103,"Mountain City CCD, Rabun County, Georgia",40761.0,241,92103,13
+1302392198,"Northeast Bleckley CCD, Bleckley County, Georgia",44583.0,023,92198,13
+1311392331,"Peachtree City-Tyrone CCD, Fayette County, Georgia",95963.0,113,92331,13
+1312791599,"Jekyll Island CCD, Glynn County, Georgia",59853.0,127,91599,13
+1321591213,"Fort Benning CCD, Muscogee County, Georgia",55599.0,215,91213,13
+1329392902,"Sunset Village CCD, Upson County, Georgia",40458.0,293,92902,13
+1321590753,"Columbus West CCD, Muscogee County, Georgia",26860.0,215,90753,13
+1321590751,"Columbus East CCD, Muscogee County, Georgia",40342.0,215,90751,13
+1321590752,"Columbus North CCD, Muscogee County, Georgia",68575.0,215,90752,13
+1319792207,"North Marion CCD, Marion County, Georgia",42829.0,197,92207,13
+1309790974,"Douglasville-Lithia Springs CCD, Douglas County, Georgia",52882.0,097,90974,13
+1310992204,"North Evans CCD, Evans County, Georgia",46940.0,109,92204,13
+1331393350,"West Whitfield CCD, Whitfield County, Georgia",48462.0,313,93350,13
+1311592586,"Rome CCD, Floyd County, Georgia",45249.0,115,92586,13
+1311790642,"Chestatee CCD, Forsyth County, Georgia",68007.0,117,90642,13
+1311590126,"Armuchee CCD, Floyd County, Georgia",56302.0,115,90126,13
+1311592736,"Shannon CCD, Floyd County, Georgia",43386.0,115,92736,13
+1311792772,"Silver City CCD, Forsyth County, Georgia",80739.0,117,92772,13
+1311790828,"Cumming CCD, Forsyth County, Georgia",90864.0,117,90828,13
+1311790270,"Big Creek CCD, Forsyth County, Georgia",123374.0,117,90270,13
+1313790672,"Clarkesville CCD, Habersham County, Georgia",47782.0,137,90672,13
+1313790798,"Cornelia CCD, Habersham County, Georgia",42038.0,137,90798,13
+1313793102,"Turnerville CCD, Habersham County, Georgia",40093.0,137,93102,13
+1314792622,"Royston CCD, Hart County, Georgia",33313.0,147,92622,13
+1314791428,"Hartwell CCD, Hart County, Georgia",41299.0,147,91428,13
+1314792466,"Reed Creek CCD, Hart County, Georgia",41747.0,147,92466,13
+1314790348,"Bowersville CCD, Hart County, Georgia",48472.0,147,90348,13
+1318592136,"Naylor CCD, Lowndes County, Georgia",47692.0,185,92136,13
+1318590228,"Barretts CCD, Lowndes County, Georgia",51127.0,185,90228,13
+1319991368,"Greenville CCD, Meriwether County, Georgia",32951.0,199,91368,13
+1319991908,"Manchester CCD, Meriwether County, Georgia",32969.0,199,91908,13
+1319190882,"Darien CCD, McIntosh County, Georgia",38844.0,191,90882,13
+1319193078,"Townsend CCD, McIntosh County, Georgia",52995.0,191,93078,13
+1319991854,"Luthersville CCD, Meriwether County, Georgia",36197.0,199,91854,13
+1318591392,"Hahira CCD, Lowndes County, Georgia",67000.0,185,91392,13
+1318591686,"Lake Park CCD, Lowndes County, Georgia",43571.0,185,91686,13
+1318593168,"Valdosta CCD, Lowndes County, Georgia",33090.0,185,93168,13
+1319993414,"Woodbury CCD, Meriwether County, Georgia",38542.0,199,93414,13
+1319993246,"Warm Springs CCD, Meriwether County, Georgia",38648.0,199,93246,13
+1319991266,"Gay CCD, Meriwether County, Georgia",41225.0,199,91266,13
+1320790822,"Culloden-Bolingbroke CCD, Monroe County, Georgia",61956.0,207,90822,13
+1320791206,"Forsyth CCD, Monroe County, Georgia",41150.0,207,91206,13
+1323791782,"Little River CCD, Putnam County, Georgia",56538.0,237,91782,13
+1323792364,"Phoenix CCD, Putnam County, Georgia",56791.0,237,92364,13
+1323791032,"Eatonton CCD, Putnam County, Georgia",36329.0,237,91032,13
+1326191728,"Leslie-De Soto CCD, Sumter County, Georgia",45114.0,261,91728,13
+1326190090,"Americus CCD, Sumter County, Georgia",32377.0,261,90090,13
+1326190096,"Andersonville CCD, Sumter County, Georgia",42000.0,261,90096,13
+1326192388,"Plains CCD, Sumter County, Georgia",37583.0,261,92388,13
+1326590816,"Crawfordville CCD, Taliaferro County, Georgia",30990.0,265,90816,13
+1326592742,"Sharon CCD, Taliaferro County, Georgia",28875.0,265,92742,13
+1330192304,"Panhandle CCD, Warren County, Georgia",46597.0,301,92304,13
+1330192226,"Norwood CCD, Warren County, Georgia",39132.0,301,92226,13
+1330190516,"Camak CCD, Warren County, Georgia",36530.0,301,90516,13
+1330192190,"Norris CCD, Warren County, Georgia",26935.0,301,92190,13
+1330193258,"Warrenton CCD, Warren County, Georgia",20060.0,301,93258,13
+1300792010,"Milford CCD, Baker County, Georgia",45486.0,007,92010,13
+1300792160,"Newton CCD, Baker County, Georgia",43594.0,007,92160,13
+1302992346,"Pembroke CCD, Bryan County, Georgia",47949.0,029,92346,13
+1302992514,"Richmond Hill CCD, Bryan County, Georgia",82305.0,029,92514,13
+1302991236,"Fort Stewart CCD, Bryan County, Georgia",-666666666.0,029,91236,13
+1303591572,"Jackson CCD, Butts County, Georgia",32048.0,035,91572,13
+1303591602,"Jenkinsburg CCD, Butts County, Georgia",38417.0,035,91602,13
+1303591182,"Flovilla CCD, Butts County, Georgia",42917.0,035,91182,13
+1304390060,"Aline CCD, Candler County, Georgia",35426.0,043,90060,13
+1304392430,"Pulaski CCD, Candler County, Georgia",39034.0,043,92430,13
+1304391986,"Metter CCD, Candler County, Georgia",28125.0,043,91986,13
+1303992652,"St. Marys CCD, Camden County, Georgia",56601.0,039,92652,13
+1304593216,"Villa Rica CCD, Carroll County, Georgia",53081.0,045,93216,13
+1303993408,"Woodbine CCD, Camden County, Georgia",60677.0,039,93408,13
+1303991650,"Kingsland CCD, Camden County, Georgia",48469.0,039,91650,13
+1304592112,"Mount Zion CCD, Carroll County, Georgia",45372.0,045,92112,13
+1304590342,"Bowdon CCD, Carroll County, Georgia",43197.0,045,90342,13
+1304593372,"Whitesburg CCD, Carroll County, Georgia",52281.0,045,93372,13
+1304592592,"Roopville CCD, Carroll County, Georgia",56660.0,045,92592,13
+1304590552,"Carrollton CCD, Carroll County, Georgia",44429.0,045,90552,13
+1304592976,"Temple CCD, Carroll County, Georgia",49421.0,045,92976,13
+1307992544,"Roberta CCD, Crawford County, Georgia",32482.0,079,92544,13
+1307993480,"Zenith CCD, Crawford County, Georgia",43200.0,079,93480,13
+1309990870,"Damascus CCD, Early County, Georgia",23068.0,099,90870,13
+1309991584,"Jakin CCD, Early County, Georgia",27384.0,099,91584,13
+1306990438,"Broxton CCD, Coffee County, Georgia",35748.0,069,90438,13
+1309990294,"Blakely CCD, Early County, Georgia",31339.0,099,90294,13
+1308190108,"Arabi CCD, Crisp County, Georgia",37143.0,081,90108,13
+1308190792,"Cordele CCD, Crisp County, Georgia",32672.0,081,90792,13
+1306993324,"West Green CCD, Coffee County, Georgia",43353.0,069,93324,13
+1306990972,"Douglas CCD, Coffee County, Georgia",33692.0,069,90972,13
+1306992166,"Nicholls CCD, Coffee County, Georgia",31449.0,069,92166,13
+1306990084,"Ambrose CCD, Coffee County, Georgia",52719.0,069,90084,13
+1307792154,"Newnan CCD, Coweta County, Georgia",67221.0,077,92154,13
+1307792070,"Moreland CCD, Coweta County, Georgia",63359.0,077,92070,13
+1307791344,"Grantville CCD, Coweta County, Georgia",48812.0,077,91344,13
+1307792724,"Senoia CCD, Coweta County, Georgia",72981.0,077,92724,13
+1306791866,"Mableton CCD, Cobb County, Georgia",58081.0,067,91866,13
+1306790018,"Acworth-Kennesaw CCD, Cobb County, Georgia",82954.0,067,90018,13
+1306790174,"Austell CCD, Cobb County, Georgia",49547.0,067,90174,13
+1306792202,"Northeast Cobb CCD, Cobb County, Georgia",99714.0,067,92202,13
+1306792784,"Smyrna CCD, Cobb County, Georgia",63163.0,067,92784,13
+1306793222,"Vinings CCD, Cobb County, Georgia",79286.0,067,93222,13
+1306791926,"Marietta CCD, Cobb County, Georgia",55256.0,067,91926,13
+1306792418,"Powder Springs CCD, Cobb County, Georgia",63988.0,067,92418,13
+1306791140,"Fair Oaks CCD, Cobb County, Georgia",36343.0,067,91140,13
+1312390567,"Carters Lake CCD, Gilmer County, Georgia",42455.0,123,90567,13
+1312391074,"Ellijay CCD, Gilmer County, Georgia",43358.0,123,91074,13
+1329791320,"Good Hope CCD, Walton County, Georgia",46553.0,297,91320,13
+1312392517,"Rich Mountain CCD, Gilmer County, Georgia",37253.0,123,92517,13
+1308391809,"Lookout Mountain CCD, Dade County, Georgia",63274.0,083,91809,13
+1308392682,"Sand Mountain CCD, Dade County, Georgia",46300.0,083,92682,13
+1329791608,"Jersey CCD, Walton County, Georgia",60964.0,297,91608,13
+1329792796,"Social Circle CCD, Walton County, Georgia",53433.0,297,92796,13
+1329792046,"Monroe CCD, Walton County, Georgia",40766.0,297,92046,13
+1329790528,"Campton CCD, Walton County, Georgia",62065.0,297,90528,13
+1329791806,"Loganville CCD, Walton County, Georgia",66414.0,297,91806,13
+1331793048,"Tignall CCD, Wilkes County, Georgia",31250.0,317,93048,13
+1331792448,"Rayle CCD, Wilkes County, Georgia",41944.0,317,92448,13
+1302790948,"Dixie CCD, Brooks County, Georgia",42500.0,027,90948,13
+1302792436,"Quitman CCD, Brooks County, Georgia",31710.0,027,92436,13
+1302792088,"Morven CCD, Brooks County, Georgia",39426.0,027,92088,13
+1309191014,"Eastman CCD, Dodge County, Georgia",34995.0,091,91014,13
+1302790222,"Barney CCD, Brooks County, Georgia",20448.0,027,90222,13
+1302791086,"Empress CCD, Brooks County, Georgia",34427.0,027,91086,13
+1302790234,"Barwick-Pavo CCD, Brooks County, Georgia",34750.0,027,90234,13
+1309190630,"Chauncey CCD, Dodge County, Georgia",32727.0,091,90630,13
+1309190648,"Chester CCD, Dodge County, Georgia",36000.0,091,90648,13
+1309192496,"Rhine CCD, Dodge County, Georgia",37235.0,091,92496,13
+1310591044,"Elberton CCD, Elbert County, Georgia",33564.0,105,91044,13
+1312992880,"Sugar Valley-Resaca CCD, Gordon County, Georgia",49727.0,129,92880,13
+1312991134,"Fairmount CCD, Gordon County, Georgia",44866.0,129,91134,13
+1312990504,"Calhoun CCD, Gordon County, Georgia",41466.0,129,90504,13
+1310590354,"Bowman CCD, Elbert County, Georgia",30395.0,105,90354,13
+1305790540,"Canton CCD, Cherokee County, Georgia",58871.0,057,90540,13
+1305791512,"Holly Springs CCD, Cherokee County, Georgia",79751.0,057,91512,13
+1305790204,"Ball Ground CCD, Cherokee County, Georgia",65867.0,057,90204,13
+1305793234,"Waleska CCD, Cherokee County, Georgia",65549.0,057,93234,13
+1305793426,"Woodstock CCD, Cherokee County, Georgia",74905.0,057,93426,13
+1305791692,"Lathemtown CCD, Cherokee County, Georgia",101094.0,057,91692,13
+1311390432,"Brooks CCD, Fayette County, Georgia",90792.0,113,90432,13
+1311391164,"Fayetteville CCD, Fayette County, Georgia",75918.0,113,91164,13
+1317791716,"Leesburg CCD, Lee County, Georgia",73052.0,177,91716,13
+1317792778,"Smithville CCD, Lee County, Georgia",40893.0,177,92778,13
+1317792358,"Philema CCD, Lee County, Georgia",54708.0,177,92358,13
+1321791920,"Mansfield CCD, Newton County, Georgia",72952.0,217,91920,13
+1321790804,"Covington-Porterdale CCD, Newton County, Georgia",51064.0,217,90804,13
+1322791590,"Jasper CCD, Pickens County, Georgia",54489.0,227,91590,13
+1322792952,"Talking Rock CCD, Pickens County, Georgia",52642.0,227,92952,13
+1322792139,"Nelson-Tate-Marble Hill CCD, Pickens County, Georgia",72278.0,227,92139,13
+1322791830,"Ludville CCD, Pickens County, Georgia",52857.0,227,91830,13
+1313392766,"Siloam CCD, Greene County, Georgia",31723.0,133,92766,13
+1313391356,"Greensboro CCD, Greene County, Georgia",51163.0,133,91356,13
+1313391374,"Greshamville CCD, Greene County, Georgia",42841.0,133,91374,13
+1313393366,"White Plains CCD, Greene County, Georgia",58056.0,133,93366,13
+1307192184,"Norman Park CCD, Colquitt County, Georgia",40313.0,071,92184,13
+1313393432,"Woodville CCD, Greene County, Georgia",30298.0,133,93432,13
+1313393156,"Union Point CCD, Greene County, Georgia",27371.0,133,93156,13
+1307190960,"Doerun CCD, Colquitt County, Georgia",36009.0,071,90960,13
+1307192100,"Moultrie CCD, Colquitt County, Georgia",32011.0,071,92100,13
+1307190258,"Berlin-Ellenton CCD, Colquitt County, Georgia",50428.0,071,90258,13
+1307191254,"Funston CCD, Colquitt County, Georgia",35845.0,071,91254,13
+1307591722,"Lenox CCD, Cook County, Georgia",34325.0,075,91722,13
+1307590030,"Adel-Sparks CCD, Cook County, Georgia",35827.0,075,90030,13
+1308590906,"Dawsonville CCD, Dawson County, Georgia",60668.0,085,90906,13
+1306390726,"College Park CCD, Clayton County, Georgia",37080.0,063,90726,13
+1306391620,"Jonesboro CCD, Clayton County, Georgia",51295.0,063,91620,13
+1306391200,"Forest Park-Morrow CCD, Clayton County, Georgia",41918.0,063,91200,13
+1306392538,"Riverdale CCD, Clayton County, Georgia",41973.0,063,92538,13
+1312191128,"Fairburn-Union City CCD, Fulton County, Georgia",44363.0,121,91128,13
+1312192604,"Roswell-Alpharetta CCD, Fulton County, Georgia",101934.0,121,92604,13
+1312190732,"College Park CCD, Fulton County, Georgia",32127.0,121,90732,13
+1312191020,"East Point CCD, Fulton County, Georgia",37471.0,121,91020,13
+1312192298,"Palmetto CCD, Fulton County, Georgia",50294.0,121,92298,13
+1312190144,"Atlanta CCD, Fulton County, Georgia",55134.0,121,90144,13
+1313991260,"Gainesville CCD, Hall County, Georgia",47668.0,139,91260,13
+1313992250,"Oakwood CCD, Hall County, Georgia",54299.0,139,92250,13
+1313992118,"Murrayville CCD, Hall County, Georgia",63622.0,139,92118,13
+1314191758,"Linton CCD, Hancock County, Georgia",23667.0,141,91758,13
+1313990690,"Clermont CCD, Hall County, Georgia",61330.0,139,90690,13
+1313991188,"Flowery Branch CCD, Hall County, Georgia",73826.0,139,91188,13
+1313991836,"Lula CCD, Hall County, Georgia",48776.0,139,91836,13
+1314191944,"Mayfield CCD, Hancock County, Georgia",25234.0,141,91944,13
+1314192826,"Sparta CCD, Hancock County, Georgia",28253.0,141,92826,13
+1314190930,"Devereux CCD, Hancock County, Georgia",34783.0,141,90930,13
+1320191950,"Mayhaw CCD, Miller County, Georgia",41979.0,201,91950,13
+1318993018,"Thomson CCD, McDuffie County, Georgia",40000.0,189,93018,13
+1318790852,"Dahlonega CCD, Lumpkin County, Georgia",37358.0,187,90852,13
+1318990912,"Dearing CCD, McDuffie County, Georgia",41138.0,189,90912,13
+1320190744,"Colquitt CCD, Miller County, Georgia",28257.0,201,90744,13
+1320190246,"Bellview CCD, Miller County, Georgia",46364.0,201,90246,13
+1321191314,"Godfrey CCD, Morgan County, Georgia",59832.0,211,91314,13
+1321192640,"Rutledge CCD, Morgan County, Georgia",60304.0,211,92640,13
+1321191902,"Madison CCD, Morgan County, Georgia",52171.0,211,91902,13
+1321190336,"Bostwick CCD, Morgan County, Georgia",62946.0,211,90336,13
+1321190456,"Buckhead CCD, Morgan County, Georgia",69882.0,211,90456,13
+1314990606,"Centralhatchee CCD, Heard County, Georgia",49469.0,149,90606,13
+1314991248,"Franklin CCD, Heard County, Georgia",36885.0,149,91248,13
+1314992988,"Texas CCD, Heard County, Georgia",40000.0,149,92988,13
+1321990324,"Bogart CCD, Oconee County, Georgia",85037.0,219,90324,13
+1321991050,"Elder CCD, Oconee County, Georgia",70333.0,219,91050,13
+1321993282,"Watkinsville CCD, Oconee County, Georgia",74756.0,219,93282,13
+1309593312,"West Dougherty CCD, Dougherty County, Georgia",38331.0,095,93312,13
+1309590996,"East Dougherty CCD, Dougherty County, Georgia",26456.0,095,90996,13
+1311190306,"Blue Ridge CCD, Fannin County, Georgia",42486.0,111,90306,13
+1311192082,"Morganton CCD, Fannin County, Georgia",55428.0,111,92082,13
+1311191464,"Higdon-Mobile CCD, Fannin County, Georgia",45469.0,111,91464,13
+1311191872,"McCaysville CCD, Fannin County, Georgia",37361.0,111,91872,13
+1311192034,"Mineral Bluff CCD, Fannin County, Georgia",42670.0,111,92034,13
+1315191800,"Locust Grove CCD, Henry County, Georgia",61302.0,151,91800,13
+1315192862,"Stockbridge CCD, Henry County, Georgia",59136.0,151,92862,13
+1315191404,"Hampton CCD, Henry County, Georgia",64800.0,151,91404,13
+1315191878,"McDonough CCD, Henry County, Georgia",69301.0,151,91878,13
+1315392352,"Perry CCD, Houston County, Georgia",57424.0,153,92352,13
+1315391056,"Elko CCD, Houston County, Georgia",72933.0,153,91056,13
+1317590378,"Brewton CCD, Laurens County, Georgia",37975.0,175,90378,13
+1315393252,"Warner Robins CCD, Houston County, Georgia",54917.0,153,93252,13
+1317591002,"East Dublin CCD, Laurens County, Georgia",27177.0,175,91002,13
+1317590984,"Dudley CCD, Laurens County, Georgia",60078.0,175,90984,13
+1317590978,"Dublin CCD, Laurens County, Georgia",36326.0,175,90978,13
+1317592484,"Rentz CCD, Laurens County, Georgia",30365.0,175,92484,13
+1317590492,"Cadwell CCD, Laurens County, Georgia",24979.0,175,90492,13
+1317590594,"Cedar Grove CCD, Laurens County, Georgia",37768.0,175,90594,13
+1317590936,"Dexter CCD, Laurens County, Georgia",36569.0,175,90936,13
+1318391818,"Ludowici North CCD, Long County, Georgia",54724.0,183,91818,13
+1318391824,"Ludowici South CCD, Long County, Georgia",51156.0,183,91824,13
+1325592613,"Rover CCD, Spalding County, Georgia",53631.0,255,92613,13
+1325591380,"Griffin CCD, Spalding County, Georgia",35262.0,255,91380,13
+1325592292,"Orchard Hill CCD, Spalding County, Georgia",44281.0,255,92292,13
+1325592901,"Sunny Side CCD, Spalding County, Georgia",46712.0,255,92901,13
+1325792556,"Rock Creek CCD, Stephens County, Georgia",43165.0,257,92556,13
+1327192004,"Milan CCD, Telfair County, Georgia",44113.0,271,92004,13
+1325793054,"Toccoa CCD, Stephens County, Georgia",35538.0,257,93054,13
+1327191896,"McRae-Helena CCD, Telfair County, Georgia",26606.0,271,91896,13
+1327191578,"Jacksonville CCD, Telfair County, Georgia",31207.0,271,91578,13
+1327191842,"Lumber City CCD, Telfair County, Georgia",25580.0,271,91842,13
+1329192874,"Suches CCD, Union County, Georgia",53750.0,291,92874,13
+1329190288,"Blairsville CCD, Union County, Georgia",42987.0,291,90288,13
+1329191566,"Ivylog CCD, Union County, Georgia",42344.0,291,91566,13
+1329393006,"Thomaston CCD, Upson County, Georgia",31944.0,293,93006,13
+1329393000,"The Rock-Yatesville CCD, Upson County, Georgia",50673.0,293,93000,13
+1330391416,"Harrison CCD, Washington County, Georgia",34931.0,303,91416,13
+1330392676,"Sandersville CCD, Washington County, Georgia",39286.0,303,92676,13
+1322591242,"Fort Valley CCD, Peach County, Georgia",32223.0,225,91242,13
+1331191446,"Helen CCD, White County, Georgia",47917.0,311,91446,13
+1322590486,"Byron CCD, Peach County, Georgia",52103.0,225,90486,13
+1330393264,"Warthen CCD, Washington County, Georgia",48836.0,303,93264,13
+1330392982,"Tennille CCD, Washington County, Georgia",35445.0,303,92982,13
+1330390894,"Davisboro CCD, Washington County, Georgia",43255.0,303,90894,13
+1322390858,"Dallas CCD, Paulding County, Georgia",58400.0,223,90858,13
+1322391494,"Hiram CCD, Paulding County, Georgia",63312.0,223,91494,13
+1322393462,"Yorkville CCD, Paulding County, Georgia",52867.0,223,93462,13
+1322992322,"Patterson CCD, Pierce County, Georgia",48657.0,229,92322,13
+1322990396,"Bristol CCD, Pierce County, Georgia",39792.0,229,90396,13
+1322990282,"Blackshear CCD, Pierce County, Georgia",37930.0,229,90282,13
+1323193474,"Zebulon CCD, Pike County, Georgia",50570.0,231,93474,13
+1323191968,"Meansville CCD, Pike County, Georgia",46782.0,231,91968,13
+1323190768,"Concord-Molena CCD, Pike County, Georgia",52500.0,231,90768,13
+1323193384,"Williamson CCD, Pike County, Georgia",66402.0,231,93384,13
+1324591452,"Hephzibah CCD, Richmond County, Georgia",49383.0,245,91452,13
+1324591224,"Fort Gordon CCD, Richmond County, Georgia",50231.0,245,91224,13
+1324591338,"Gracewood CCD, Richmond County, Georgia",43602.0,245,91338,13
+1324590168,"Augusta CCD, Richmond County, Georgia",37045.0,245,90168,13
+1325192148,"Newington CCD, Screven County, Georgia",31691.0,251,92148,13
+1325191482,"Hiltonia CCD, Screven County, Georgia",40563.0,251,91482,13
+1325192022,"Millhaven CCD, Screven County, Georgia",36250.0,251,92022,13
+1325192580,"Rocky Ford CCD, Screven County, Georgia",39595.0,251,92580,13
+1325192934,"Sylvania CCD, Screven County, Georgia",36435.0,251,92934,13
+1326792478,"Reidsville CCD, Tattnall County, Georgia",30116.0,267,92478,13
+1326791302,"Glennville CCD, Tattnall County, Georgia",45836.0,267,91302,13
+1326790738,"Collins CCD, Tattnall County, Georgia",41845.0,267,90738,13
+1308990612,"Chamblee-Doraville CCD, DeKalb County, Georgia",73125.0,089,90612,13
+1308991770,"Lithonia CCD, DeKalb County, Georgia",51448.0,089,91770,13
+1314392958,"Tallapoosa CCD, Haralson County, Georgia",44588.0,143,92958,13
+1314390450,"Buchanan CCD, Haralson County, Georgia",41470.0,143,90450,13
+1314390372,"Bremen CCD, Haralson County, Georgia",44707.0,143,90372,13
+1315792172,"Nicholson CCD, Jackson County, Georgia",47083.0,157,92172,13
+1315791962,"Maysville CCD, Jackson County, Georgia",49265.0,157,91962,13
+1315793330,"West Jackson CCD, Jackson County, Georgia",69512.0,157,93330,13
+1315790762,"Commerce CCD, Jackson County, Georgia",45926.0,157,90762,13
+1315791596,"Jefferson CCD, Jackson County, Georgia",61317.0,157,91596,13
+1330390918,"Deepstep CCD, Washington County, Georgia",40787.0,303,90918,13
+1331190696,"Cleveland CCD, White County, Georgia",42702.0,311,90696,13
+1331192094,"Mossy Creek CCD, White County, Georgia",44533.0,311,92094,13
+1316391812,"Louisville CCD, Jefferson County, Georgia",27063.0,163,91812,13
+1316393228,"Wadley CCD, Jefferson County, Georgia",26161.0,163,93228,13
+1316392838,"Stapleton CCD, Jefferson County, Georgia",40000.0,163,92838,13
+1316393444,"Wrens CCD, Jefferson County, Georgia",32246.0,163,93444,13
+1316992610,"Round Oak CCD, Jones County, Georgia",48365.0,169,92610,13
+1318191752,"Lincolnton CCD, Lincoln County, Georgia",40642.0,181,91752,13
+1321390618,"Chatsworth CCD, Murray County, Georgia",42484.0,213,90618,13
+1321390666,"Cisco CCD, Murray County, Georgia",42679.0,213,90666,13
+1321390576,"Casey Springs CCD, Murray County, Georgia",37644.0,213,90576,13
+1321390810,"Crandall-Eton CCD, Murray County, Georgia",41763.0,213,90810,13
+1323591170,"Finleyson CCD, Pulaski County, Georgia",40078.0,235,91170,13
+1323591422,"Hartford CCD, Pulaski County, Georgia",33224.0,235,91422,13
+1323591434,"Hawkinsville CCD, Pulaski County, Georgia",39845.0,235,91434,13
+1324190684,"Clayton CCD, Rabun County, Georgia",37253.0,241,90684,13
+1324193042,"Tiger CCD, Rabun County, Georgia",44216.0,241,93042,13
+1325992508,"Richland CCD, Stewart County, Georgia",21893.0,259,92508,13
+1325991848,"Lumpkin CCD, Stewart County, Georgia",49940.0,259,91848,13
+1325992280,"Omaha CCD, Stewart County, Georgia",19347.0,259,92280,13
+1328191458,"Hiawassee CCD, Towns County, Georgia",40633.0,281,91458,13
+1328191884,"Macedonia CCD, Towns County, Georgia",46680.0,281,91884,13
+1328193468,"Young Harris CCD, Towns County, Georgia",38682.0,281,93468,13
+1328391290,"Gillis Springs CCD, Treutlen County, Georgia",43203.0,283,91290,13
+1328392802,"Soperton CCD, Treutlen County, Georgia",38587.0,283,92802,13
+1328792454,"Rebecca CCD, Turner County, Georgia",51250.0,287,92454,13
+1328790134,"Ashburn-Sycamore CCD, Turner County, Georgia",42192.0,287,90134,13
+1315591560,"Irwinville CCD, Irwin County, Georgia",36250.0,155,91560,13
+1315592262,"Ocilla CCD, Irwin County, Georgia",30931.0,155,92262,13
+1315591518,"Holt CCD, Irwin County, Georgia",47600.0,155,91518,13
+1300392334,"Pearson CCD, Atkinson County, Georgia",33322.0,003,92334,13
+1300390180,"Axson CCD, Atkinson County, Georgia",39265.0,003,90180,13
+1300393378,"Willacoochee CCD, Atkinson County, Georgia",29688.0,003,93378,13
+1301991092,"Enigma CCD, Berrien County, Georgia",36318.0,019,91092,13
+1301990054,"Alapaha CCD, Berrien County, Georgia",42114.0,019,90054,13
+1301992442,"Ray City CCD, Berrien County, Georgia",28952.0,019,92442,13
+1301992130,"Nashville CCD, Berrien County, Georgia",40118.0,019,92130,13
+1329590654,"Chickamauga CCD, Walker County, Georgia",50381.0,295,90654,13
+1329593210,"Villanow CCD, Walker County, Georgia",50417.0,295,93210,13
+1329590624,"Chattanooga Valley CCD, Walker County, Georgia",39830.0,295,90624,13
+1329592574,"Rock Spring CCD, Walker County, Georgia",66103.0,295,92574,13
+1329591638,"Kensington CCD, Walker County, Georgia",38421.0,295,91638,13
+1329592598,"Rossville-Beverly Hills CCD, Walker County, Georgia",32443.0,295,92598,13
+1313592790,"Snellville-Grayson CCD, Gwinnett County, Georgia",72765.0,135,92790,13
+1313591740,"Lilburn CCD, Gwinnett County, Georgia",50903.0,135,91740,13
+1313591704,"Lawrenceville CCD, Gwinnett County, Georgia",59956.0,135,91704,13
+1313590846,"Dacula-Rocky Creek CCD, Gwinnett County, Georgia",83506.0,135,90846,13
+1313592178,"Norcross CCD, Gwinnett County, Georgia",56383.0,135,92178,13
+1313592910,"Suwanee-Duluth CCD, Gwinnett County, Georgia",71124.0,135,92910,13
+1301390264,"Bethlehem CCD, Barrow County, Georgia",62665.0,013,90264,13
+1301390162,"Auburn CCD, Barrow County, Georgia",59152.0,013,90162,13
+1301392850,"Statham CCD, Barrow County, Georgia",57080.0,013,92850,13
+1301393390,"Winder CCD, Barrow County, Georgia",50400.0,013,93390,13
+1304992646,"St. George CCD, Charlton County, Georgia",55833.0,049,92646,13
+1304991194,"Folkston CCD, Charlton County, Georgia",42250.0,049,91194,13
+1306591530,"Homerville CCD, Clinch County, Georgia",23269.0,065,91530,13
+1306591158,"Fargo CCD, Clinch County, Georgia",19044.0,065,91158,13
+1301593360,"White-Pine Log CCD, Bartow County, Georgia",67689.0,015,93360,13
+1301591080,"Emerson CCD, Bartow County, Georgia",45653.0,015,91080,13
+1301591656,"Kingston CCD, Bartow County, Georgia",59639.0,015,91656,13
+1301590024,"Adairsville CCD, Bartow County, Georgia",42919.0,015,90024,13
+1301590570,"Cartersville CCD, Bartow County, Georgia",52890.0,015,90570,13
+1301591104,"Euharlee-Taylorsville CCD, Bartow County, Georgia",62877.0,015,91104,13
+1313190498,"Cairo CCD, Grady County, Georgia",37419.0,131,90498,13
+1309790276,"Bill Arp CCD, Douglas County, Georgia",66086.0,097,90276,13
+1309793396,"Winston CCD, Douglas County, Georgia",56831.0,097,93396,13
+1309791146,"Fairplay CCD, Douglas County, Georgia",88536.0,097,91146,13
+1313192832,"Spence CCD, Grady County, Georgia",42188.0,131,92832,13
+1313193354,"Whigham CCD, Grady County, Georgia",43845.0,131,93354,13
+1313190510,"Calvary-Reno CCD, Grady County, Georgia",39912.0,131,90510,13
+1316191440,"Hazlehurst CCD, Jeff Davis County, Georgia",37115.0,161,91440,13
+1316190924,"Denton CCD, Jeff Davis County, Georgia",38929.0,161,90924,13
+1320992964,"Tarrytown CCD, Montgomery County, Georgia",48466.0,209,92964,13
+1320993162,"Uvalda CCD, Montgomery County, Georgia",40400.0,209,93162,13
+1320992106,"Mount Vernon-Ailey CCD, Montgomery County, Georgia",37997.0,209,92106,13
+1324390252,"Benevolence CCD, Randolph County, Georgia",41750.0,243,90252,13
+1322193186,"Vesta-Enterprise CCD, Oglethorpe County, Georgia",41983.0,221,93186,13
+1322191938,"Maxeys CCD, Oglethorpe County, Georgia",51250.0,221,91938,13
+1324390840,"Cuthbert CCD, Randolph County, Georgia",30232.0,243,90840,13
+1324392754,"Shellman CCD, Randolph County, Georgia",29583.0,243,92754,13
+1324792820,"South Rockdale CCD, Rockdale County, Georgia",64821.0,247,92820,13
+1324790774,"Conyers CCD, Rockdale County, Georgia",49310.0,247,90774,13
+1324792214,"North Rockdale CCD, Rockdale County, Georgia",54659.0,247,92214,13
+1329991914,"Manor CCD, Ware County, Georgia",-666666666.0,299,91914,13
+1329993240,"Waresboro CCD, Ware County, Georgia",44060.0,299,93240,13
+1329990954,"Dixie Union CCD, Ware County, Georgia",48156.0,299,90954,13
+1329993294,"Waycross CCD, Ware County, Georgia",34539.0,299,93294,13
+1330592718,"Screven CCD, Wayne County, Georgia",41500.0,305,92718,13
+1330591614,"Jesup CCD, Wayne County, Georgia",38911.0,305,91614,13
+1330592268,"Odum CCD, Wayne County, Georgia",54412.0,305,92268,13
+1331390864,"Dalton CCD, Whitfield County, Georgia",41308.0,313,90864,13
+1331392220,"North Whitfield CCD, Whitfield County, Georgia",53553.0,313,92220,13
+1303791710,"Leary CCD, Calhoun County, Georgia",40395.0,037,91710,13
+1303791038,"Edison CCD, Calhoun County, Georgia",24679.0,037,91038,13
+1303792076,"Morgan CCD, Calhoun County, Georgia",36571.0,037,92076,13
+1303790120,"Arlington CCD, Calhoun County, Georgia",20592.0,037,90120,13
+1319391542,"Ideal CCD, Macon County, Georgia",32708.0,193,91542,13
+1319392052,"Montezuma CCD, Macon County, Georgia",31792.0,193,92052,13
+1319392274,"Oglethorpe CCD, Macon County, Georgia",31670.0,193,92274,13
+1319391932,"Marshallville CCD, Macon County, Georgia",21076.0,193,91932,13
+1328591506,"Hogansville CCD, Troup County, Georgia",42941.0,285,91506,13
+1328590012,"Abbottsford CCD, Troup County, Georgia",58047.0,285,90012,13
+1330990048,"Alamo CCD, Wheeler County, Georgia",29906.0,309,90048,13
+1330991308,"Glenwood CCD, Wheeler County, Georgia",27452.0,309,91308,13
+1331592382,"Pitts CCD, Wilcox County, Georgia",50395.0,315,92382,13
+1331592550,"Rochelle CCD, Wilcox County, Georgia",34125.0,315,92550,13
+1331590006,"Abbeville CCD, Wilcox County, Georgia",28889.0,315,90006,13
+1331592376,"Pineview CCD, Wilcox County, Georgia",37917.0,315,92376,13
+1300990786,"Coopers CCD, Baldwin County, Georgia",39859.0,009,90786,13
+1301191524,"Homer CCD, Banks County, Georgia",42369.0,011,91524,13
+1301191956,"Maysville CCD, Banks County, Georgia",41012.0,011,91956,13
+1301190198,"Baldwin CCD, Banks County, Georgia",44248.0,011,90198,13
+1303192472,"Register CCD, Bulloch County, Georgia",39958.0,031,92472,13
+1303190426,"Brooklet CCD, Bulloch County, Georgia",52980.0,031,90426,13
+1303192400,"Portal CCD, Bulloch County, Georgia",33750.0,031,92400,13
+1303192142,"Nevils-Stilson CCD, Bulloch County, Georgia",44976.0,031,92142,13
+1303192844,"Statesboro CCD, Bulloch County, Georgia",35016.0,031,92844,13
+1305990138,"Athens CCD, Clarke County, Georgia",33080.0,059,90138,13
+1305993402,"Winterville CCD, Clarke County, Georgia",31146.0,059,93402,13
+1305990318,"Bogart CCD, Clarke County, Georgia",45534.0,059,90318,13
+1306191218,"Fort Gaines CCD, Clay County, Georgia",22719.0,061,91218,13
+1306190312,"Bluffton CCD, Clay County, Georgia",27589.0,061,90312,13
+1310191008,"East Echols CCD, Echols County, Georgia",31522.0,101,91008,13
+1310193318,"West Echols CCD, Echols County, Georgia",37813.0,101,93318,13
+1312792994,"Thalmann CCD, Glynn County, Georgia",57561.0,127,92994,13
+1312791116,"Everett CCD, Glynn County, Georgia",51750.0,127,91116,13
+1312792658,"St. Simons CCD, Glynn County, Georgia",79643.0,127,92658,13
+1312790444,"Brunswick CCD, Glynn County, Georgia",32081.0,127,90444,13
+1308990150,"Atlanta-Decatur CCD, DeKalb County, Georgia",53036.0,089,90150,13
+1308992868,"Stone Mountain CCD, DeKalb County, Georgia",39846.0,089,92868,13
+1308993096,"Tucker CCD, DeKalb County, Georgia",63039.0,089,93096,13
+1328591674,"LaGrange CCD, Troup County, Georgia",42539.0,285,91674,13
+1328592232,"Oak Grove CCD, Troup County, Georgia",57768.0,285,92232,13
+1328593342,"West Point CCD, Troup County, Georgia",34976.0,285,93342,13
+1328591470,"Hillcrest CCD, Troup County, Georgia",67844.0,285,91470,13
+1302191794,"Lizella CCD, Bibb County, Georgia",61800.0,021,91794,13
+1302192634,"Rutland CCD, Bibb County, Georgia",54922.0,021,92634,13
+1314592370,"Pine Mountain CCD, Harris County, Georgia",52308.0,145,92370,13
+1314591398,"Hamilton CCD, Harris County, Georgia",74479.0,145,91398,13
+1314593288,"Waverly Hall CCD, Harris County, Georgia",80515.0,145,93288,13
+1314592760,"Shiloh CCD, Harris County, Georgia",58622.0,145,92760,13
+1319790462,"Buena Vista CCD, Marion County, Georgia",37597.0,197,90462,13
+1324991068,"Ellaville South CCD, Schley County, Georgia",53700.0,249,91068,13
+1324991062,"Ellaville North CCD, Schley County, Georgia",29774.0,249,91062,13
+1332192940,"Sylvester CCD, Worth County, Georgia",39817.0,321,92940,13
+1332192412,"Poulan CCD, Worth County, Georgia",43720.0,321,92412,13
+1332190384,"Bridgeboro CCD, Worth County, Georgia",38649.0,321,90384,13
+1332193270,"Warwick CCD, Worth County, Georgia",39297.0,321,93270,13
+1302390708,"Cochran CCD, Bleckley County, Georgia",40351.0,023,90708,13
+1309390480,"Byromville CCD, Dooly County, Georgia",29972.0,093,90480,13
+1309393144,"Unadilla CCD, Dooly County, Georgia",31758.0,093,93144,13
+1309393204,"Vienna CCD, Dooly County, Georgia",36438.0,093,93204,13
+1310990678,"Claxton CCD, Evans County, Georgia",37317.0,109,90678,13
+1311990546,"Carnesville CCD, Franklin County, Georgia",44460.0,119,90546,13
+1311991698,"Lavonia CCD, Franklin County, Georgia",41860.0,119,91698,13
+1311992616,"Royston CCD, Franklin County, Georgia",23183.0,119,92616,13
+1311992688,"Sandy Cross CCD, Franklin County, Georgia",35688.0,119,92688,13
+1310391386,"Guyton-Springfield CCD, Effingham County, Georgia",60201.0,103,91386,13
+1310392748,"Shawnee CCD, Effingham County, Georgia",59954.0,103,92748,13
+1330793336,"Weston CCD, Webster County, Georgia",34375.0,307,93336,13
+1330792424,"Preston CCD, Webster County, Georgia",42625.0,307,92424,13
+1310392520,"Rincon CCD, Effingham County, Georgia",68580.0,103,92520,13
+1317190216,"Barnesville CCD, Lamar County, Georgia",36490.0,171,90216,13
+1317192028,"Milner CCD, Lamar County, Georgia",47823.0,171,92028,13
+1312591284,"Gibson CCD, Glascock County, Georgia",44291.0,125,91284,13
+1312592040,"Mitchell CCD, Glascock County, Georgia",47059.0,125,92040,13
+1310792238,"Oak Park CCD, Emanuel County, Georgia",46964.0,107,92238,13
+1310792886,"Summertown CCD, Emanuel County, Georgia",33333.0,107,92886,13
+1310790036,"Adrian CCD, Emanuel County, Georgia",40143.0,107,90036,13
+1310792916,"Swainsboro CCD, Emanuel County, Georgia",34419.0,107,92916,13
+1310793120,"Twin City CCD, Emanuel County, Georgia",30588.0,107,93120,13
+1323991272,"Georgetown North CCD, Quitman County, Georgia",33065.0,239,91272,13
+1323991278,"Georgetown South CCD, Quitman County, Georgia",20863.0,239,91278,13
+1305192406,"Port Wentworth CCD, Chatham County, Georgia",85734.0,051,92406,13
+1305192712,"Savannah CCD, Chatham County, Georgia",38207.0,051,92712,13
+1305192058,"Montgomery CCD, Chatham County, Georgia",79652.0,051,92058,13
+1315991098,"Eudora CCD, Jasper County, Georgia",49570.0,159,91098,13
+1315992730,"Shady Dale CCD, Jasper County, Georgia",39665.0,159,92730,13
+1315991476,"Hillsboro CCD, Jasper County, Georgia",43573.0,159,91476,13
+1315992064,"Monticello CCD, Jasper County, Georgia",37614.0,159,92064,13
+1316791662,"Kite CCD, Johnson County, Georgia",52344.0,167,91662,13
+1316790042,"Adrian CCD, Johnson County, Georgia",26528.0,167,90042,13
+1316793450,"Wrightsville CCD, Johnson County, Georgia",34438.0,167,93450,13
+1317391680,"Lakeland CCD, Lanier County, Georgia",30914.0,173,91680,13
+1317992502,"Riceboro CCD, Liberty County, Georgia",42609.0,179,92502,13
+1319590402,"Broad River CCD, Madison County, Georgia",53080.0,195,90402,13
+1317991998,"Midway CCD, Liberty County, Georgia",50603.0,179,91998,13
+1317991488,"Hinesville CCD, Liberty County, Georgia",42935.0,179,91488,13
+1319591548,"Ila CCD, Madison County, Georgia",43816.0,195,91548,13
+1319590714,"Colbert CCD, Madison County, Georgia",54624.0,195,90714,13
+1319590876,"Danielsville CCD, Madison County, Georgia",48459.0,195,90876,13
+1319590756,"Comer CCD, Madison County, Georgia",36796.0,195,90756,13
+1320590186,"Baconton CCD, Mitchell County, Georgia",36451.0,205,90186,13
+1320590522,"Camilla CCD, Mitchell County, Georgia",31576.0,205,90522,13
+1320590366,"Branchville CCD, Mitchell County, Georgia",32083.0,205,90366,13
+1325390966,"Donalsonville CCD, Seminole County, Georgia",33082.0,253,90966,13
+1320592340,"Pelham CCD, Mitchell County, Georgia",34443.0,205,92340,13
+1320592664,"Sale City CCD, Mitchell County, Georgia",37083.0,205,92664,13
+1325392856,"Steam Mill CCD, Seminole County, Georgia",35711.0,253,92856,13
+1327790420,"Brookfield CCD, Tift County, Georgia",65625.0,277,90420,13
+1327793036,"Tifton CCD, Tift County, Georgia",33249.0,277,93036,13
+1327792286,"Omega CCD, Tift County, Georgia",29940.0,277,92286,13
+1327790660,"Chula CCD, Tift County, Georgia",72583.0,277,90660,13
+1327793138,"Ty Ty CCD, Tift County, Georgia",50444.0,277,93138,13
+1323390114,"Aragon CCD, Polk County, Georgia",47946.0,233,90114,13
+1323390600,"Cedartown CCD, Polk County, Georgia",41952.0,233,90600,13
+1323392568,"Rockmart CCD, Polk County, Georgia",36326.0,233,92568,13
+1326391626,"Junction City CCD, Talbot County, Georgia",37639.0,263,91626,13
+1326392946,"Talbotton CCD, Talbot County, Georgia",36546.0,263,92946,13
+1326393420,"Woodland CCD, Talbot County, Georgia",37847.0,263,93420,13
+1326992490,"Reynolds CCD, Taylor County, Georgia",29569.0,269,92490,13
+1326990474,"Butler CCD, Taylor County, Georgia",26410.0,269,90474,13
+1327392700,"Sasser CCD, Terrell County, Georgia",47311.0,273,92700,13
+1327390900,"Dawson CCD, Terrell County, Georgia",27899.0,273,90900,13
+1326992628,"Rupert CCD, Taylor County, Georgia",34597.0,269,92628,13
+1327392316,"Parrott CCD, Terrell County, Georgia",42500.0,273,92316,13
+1327390414,"Bronwood CCD, Terrell County, Georgia",30417.0,273,90414,13
+1327592256,"Ochlocknee CCD, Thomas County, Georgia",44120.0,275,92256,13
+1327593012,"Thomasville CCD, Thomas County, Georgia",41617.0,275,93012,13
+1327590330,"Boston CCD, Thomas County, Georgia",41384.0,275,90330,13
+1327591974,"Meigs CCD, Thomas County, Georgia",26429.0,275,91974,13
+1327592328,"Pavo-Barwick CCD, Thomas County, Georgia",38321.0,275,92328,13
+1327590780,"Coolidge CCD, Thomas County, Georgia",41186.0,275,90780,13
+1327993192,"Vidalia-Lyons CCD, Toombs County, Georgia",34391.0,279,93192,13
+1331991332,"Gordon CCD, Wilkinson County, Georgia",36831.0,319,91332,13
+1331991554,"Irwinton CCD, Wilkinson County, Georgia",47216.0,319,91554,13
+1331990066,"Allentown CCD, Wilkinson County, Georgia",46429.0,319,90066,13
+1331993066,"Toomsboro CCD, Wilkinson County, Georgia",21974.0,319,93066,13
+1303391296,"Girard CCD, Burke County, Georgia",40699.0,033,91296,13
+1301791176,"Fitzgerald CCD, Ben Hill County, Georgia",31889.0,017,91176,13
+1303391362,"Greens Cut CCD, Burke County, Georgia",40071.0,033,91362,13
+1303391644,"Keysville CCD, Burke County, Georgia",38021.0,033,91644,13
+1303391992,"Midville CCD, Burke County, Georgia",44531.0,033,91992,13
+1303392694,"Sardis CCD, Burke County, Georgia",34206.0,033,92694,13
+1303393198,"Vidette CCD, Burke County, Georgia",40882.0,033,93198,13
+1303393300,"Waynesboro CCD, Burke County, Georgia",38515.0,033,93300,13
+1304791230,"Fort Oglethorpe-Lakeview CCD, Catoosa County, Georgia",40328.0,047,91230,13
+1305390834,"Cusseta CCD, Chattahoochee County, Georgia",36463.0,053,90834,13
+1304790360,"Boynton Ridge CCD, Catoosa County, Georgia",62175.0,047,90360,13
+1304792526,"Ringgold CCD, Catoosa County, Georgia",63899.0,047,92526,13
+1304790582,"Catoosa Springs CCD, Catoosa County, Georgia",60642.0,047,90582,13
+1305391212,"Fort Benning CCD, Chattahoochee County, Georgia",51935.0,053,91212,13
+1305591980,"Menlo CCD, Chattooga County, Georgia",32014.0,055,91980,13
+1305591860,"Lyerly CCD, Chattooga County, Georgia",40682.0,055,91860,13
+1305593090,"Trion CCD, Chattooga County, Georgia",36482.0,055,93090,13
+1305592892,"Summerville CCD, Chattooga County, Georgia",30509.0,055,92892,13
+1305591788,"Little Sand Mountain CCD, Chattooga County, Georgia",45679.0,055,91788,13
+1307391110,"Evans CCD, Columbia County, Georgia",80570.0,073,91110,13
+1307390102,"Appling CCD, Columbia County, Georgia",70887.0,073,90102,13
+1308790702,"Climax CCD, Decatur County, Georgia",39489.0,087,90702,13
+1308791122,"Faceville CCD, Decatur County, Georgia",42534.0,087,91122,13
+1308790390,"Brinson CCD, Decatur County, Georgia",42899.0,087,90390,13
+1308790156,"Attapulgus CCD, Decatur County, Georgia",45938.0,087,90156,13
+1308790192,"Bainbridge CCD, Decatur County, Georgia",32261.0,087,90192,13
+1311590588,"Cave Spring CCD, Floyd County, Georgia",42669.0,115,90588,13

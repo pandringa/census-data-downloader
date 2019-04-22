@@ -1,0 +1,131 @@
+geoid,name,total,same_house,moved_within_county,moved_from_different_county_in_same_state,moved_from_different_state,moved_from_abroad,county,county subdivision,state
+3504592970,"Shiprock-Sanostee CCD, San Juan County, New Mexico",216.0,194.0,0.0,10.0,12.0,0.0,045,92970,35
+3504590360,"Bloomfield CCD, San Juan County, New Mexico",6519.0,5650.0,685.0,116.0,0.0,68.0,045,90360,35
+3504591290,"Farmington CCD, San Juan County, New Mexico",11625.0,10264.0,892.0,258.0,191.0,20.0,045,91290,35
+3504592160,"Naschitti CCD, San Juan County, New Mexico",42.0,32.0,0.0,0.0,10.0,0.0,045,92160,35
+3504590180,"Aztec CCD, San Juan County, New Mexico",5151.0,4537.0,455.0,27.0,56.0,76.0,045,90180,35
+3503792730,"San Jon CCD, Quay County, New Mexico",96.0,96.0,0.0,0.0,0.0,0.0,037,92730,35
+3503793540,"Tucumcari CCD, Quay County, New Mexico",3386.0,3023.0,266.0,44.0,51.0,2.0,037,93540,35
+3502791500,"Hondo CCD, Lincoln County, New Mexico",711.0,658.0,0.0,0.0,53.0,0.0,027,91500,35
+3503791830,"Logan-Nara Visa CCD, Quay County, New Mexico",246.0,246.0,0.0,0.0,0.0,0.0,037,91830,35
+3503791530,"House-Forrest CCD, Quay County, New Mexico",8.0,8.0,0.0,0.0,0.0,0.0,037,91530,35
+3502790780,"Corona CCD, Lincoln County, New Mexico",34.0,34.0,0.0,0.0,0.0,0.0,027,90780,35
+3502790510,"Carrizozo CCD, Lincoln County, New Mexico",327.0,304.0,0.0,19.0,4.0,0.0,027,90510,35
+3502790450,"Capitan CCD, Lincoln County, New Mexico",575.0,498.0,33.0,10.0,34.0,0.0,027,90450,35
+3502792700,"Ruidoso CCD, Lincoln County, New Mexico",4520.0,3784.0,270.0,211.0,201.0,54.0,027,92700,35
+3500591410,"Hagerman CCD, Chaves County, New Mexico",1660.0,1549.0,11.0,20.0,80.0,0.0,005,91410,35
+3500592280,"Northwest Chaves CCD, Chaves County, New Mexico",930.0,615.0,181.0,134.0,0.0,0.0,005,92280,35
+3500593240,"Southwest Chaves CCD, Chaves County, New Mexico",4328.0,3814.0,246.0,65.0,42.0,161.0,005,93240,35
+3500590960,"Dexter CCD, Chaves County, New Mexico",2163.0,1758.0,109.0,204.0,92.0,0.0,005,90960,35
+3500593090,"Southeast Chaves CCD, Chaves County, New Mexico",689.0,674.0,0.0,0.0,3.0,12.0,005,93090,35
+3500592670,"Roswell CCD, Chaves County, New Mexico",25827.0,21385.0,3284.0,617.0,495.0,46.0,005,92670,35
+3500592190,"Northeast Chaves CCD, Chaves County, New Mexico",20.0,20.0,0.0,0.0,0.0,0.0,005,92190,35
+3502591950,"Lovington CCD, Lea County, New Mexico",10148.0,9028.0,824.0,46.0,196.0,54.0,025,91950,35
+3502591620,"Jal CCD, Lea County, New Mexico",1142.0,1074.0,52.0,0.0,16.0,0.0,025,91620,35
+3502591470,"Hobbs CCD, Lea County, New Mexico",25201.0,22688.0,1457.0,411.0,605.0,40.0,025,91470,35
+3502591230,"Eunice CCD, Lea County, New Mexico",1662.0,1502.0,119.0,0.0,41.0,0.0,025,91230,35
+3502593360,"Tatum CCD, Lea County, New Mexico",597.0,591.0,6.0,0.0,0.0,0.0,025,93360,35
+3504992880,"Santa Fe South CCD, Santa Fe County, New Mexico",15431.0,13498.0,804.0,743.0,339.0,47.0,049,92880,35
+3504992820,"Santa Fe CCD, Santa Fe County, New Mexico",47691.0,43793.0,2470.0,725.0,604.0,99.0,049,92820,35
+3504992850,"Santa Fe North CCD, Santa Fe County, New Mexico",11681.0,11096.0,262.0,236.0,80.0,7.0,049,92850,35
+3505990660,"Clayton North CCD, Union County, New Mexico",119.0,118.0,0.0,1.0,0.0,0.0,059,90660,35
+3505990690,"Clayton South CCD, Union County, New Mexico",1586.0,1277.0,105.0,169.0,35.0,0.0,059,90690,35
+3505193510,"Truth or Consequences West CCD, Sierra County, New Mexico",1195.0,1166.0,0.0,29.0,0.0,0.0,051,93510,35
+3505193480,"Truth or Consequences East CCD, Sierra County, New Mexico",2132.0,1965.0,116.0,48.0,3.0,0.0,051,93480,35
+3505391980,"Magdalena CCD, Socorro County, New Mexico",437.0,437.0,0.0,0.0,0.0,0.0,053,91980,35
+3505390630,"Claunch CCD, Socorro County, New Mexico",11.0,11.0,0.0,0.0,0.0,0.0,053,90630,35
+3504192430,"Portales CCD, Roosevelt County, New Mexico",7067.0,5186.0,906.0,633.0,177.0,165.0,041,92430,35
+3504191140,"Elida CCD, Roosevelt County, New Mexico",328.0,321.0,0.0,3.0,4.0,0.0,041,91140,35
+3504191080,"Dora CCD, Roosevelt County, New Mexico",388.0,195.0,26.0,11.0,147.0,9.0,041,91080,35
+3502891860,"Los Alamos CCD, Los Alamos County, New Mexico",2108.0,1865.0,103.0,109.0,23.0,8.0,028,91860,35
+3502893810,"White Rock CCD, Los Alamos County, New Mexico",1002.0,930.0,24.0,17.0,0.0,31.0,028,93810,35
+3503991020,"Dixon CCD, Rio Arriba County, New Mexico",1072.0,1072.0,0.0,0.0,0.0,0.0,039,91020,35
+3503992610,"Rio Chama CCD, Rio Arriba County, New Mexico",2420.0,2321.0,0.0,77.0,22.0,0.0,039,92610,35
+3503990810,"Coyote CCD, Rio Arriba County, New Mexico",710.0,709.0,0.0,1.0,0.0,0.0,039,90810,35
+3503993390,"Tierra Amarilla CCD, Rio Arriba County, New Mexico",2828.0,2542.0,213.0,69.0,0.0,4.0,039,93390,35
+3504790750,"Conchas Dam CCD, San Miguel County, New Mexico",0.0,0.0,0.0,0.0,0.0,0.0,047,90750,35
+3504793690,"Villanueva CCD, San Miguel County, New Mexico",1787.0,1747.0,29.0,0.0,0.0,11.0,047,93690,35
+3503993210,"South Rio Arriba CCD, Rio Arriba County, New Mexico",7093.0,6946.0,93.0,51.0,3.0,0.0,039,93210,35
+3503990570,"Chimayo CCD, Rio Arriba County, New Mexico",2812.0,2508.0,134.0,169.0,1.0,0.0,039,90570,35
+3504792310,"Pecos CCD, San Miguel County, New Mexico",4640.0,4561.0,30.0,34.0,15.0,0.0,047,92310,35
+3503992790,"Santa Clara Pueblo CCD, Rio Arriba County, New Mexico",5758.0,5487.0,133.0,135.0,3.0,0.0,039,92790,35
+3504791770,"Las Vegas CCD, San Miguel County, New Mexico",15037.0,13667.0,721.0,537.0,90.0,22.0,047,91770,35
+3504793420,"Trementina CCD, San Miguel County, New Mexico",123.0,123.0,0.0,0.0,0.0,0.0,047,93420,35
+3506190240,"Belen CCD, Valencia County, New Mexico",11956.0,9450.0,1995.0,494.0,17.0,0.0,061,90240,35
+3506191890,"Los Lunas CCD, Valencia County, New Mexico",33004.0,29445.0,1703.0,1151.0,570.0,135.0,061,91890,35
+3505792135,"Mountainair-Encino CCD, Torrance County, New Mexico",1231.0,1120.0,91.0,11.0,9.0,0.0,057,92135,35
+3505791200,"Estancia CCD, Torrance County, New Mexico",5251.0,4442.0,198.0,368.0,109.0,134.0,057,91200,35
+3500691380,"Grants CCD, Cibola County, New Mexico",9616.0,8182.0,714.0,544.0,93.0,83.0,006,91380,35
+3500693900,"Zuni-Ramah Navajo CCD, Cibola County, New Mexico",71.0,71.0,0.0,0.0,0.0,0.0,006,93900,35
+3500691320,"Fence Lake CCD, Cibola County, New Mexico",36.0,0.0,36.0,0.0,0.0,0.0,006,91320,35
+3500691710,"Laguna CCD, Cibola County, New Mexico",360.0,344.0,8.0,5.0,3.0,0.0,006,91710,35
+3501993660,"Vaughn CCD, Guadalupe County, New Mexico",416.0,416.0,0.0,0.0,0.0,0.0,019,93660,35
+3501990990,"Dilia CCD, Guadalupe County, New Mexico",349.0,349.0,0.0,0.0,0.0,0.0,019,90990,35
+3501191110,"East De Baca CCD, De Baca County, New Mexico",847.0,809.0,0.0,36.0,1.0,1.0,011,91110,35
+3501193750,"West De Baca CCD, De Baca County, New Mexico",81.0,77.0,4.0,0.0,0.0,0.0,011,93750,35
+3501992910,"Santa Rosa CCD, Guadalupe County, New Mexico",2846.0,2544.0,125.0,153.0,13.0,11.0,019,92910,35
+3500392580,"Reserve CCD, Catron County, New Mexico",336.0,330.0,3.0,3.0,0.0,0.0,003,92580,35
+3500392460,"Quemado CCD, Catron County, New Mexico",215.0,215.0,0.0,0.0,0.0,0.0,003,92460,35
+3502392250,"North Hidalgo CCD, Hidalgo County, New Mexico",2517.0,2208.0,159.0,10.0,130.0,10.0,023,92250,35
+3502393180,"South Hidalgo CCD, Hidalgo County, New Mexico",23.0,8.0,0.0,0.0,15.0,0.0,023,93180,35
+3502990900,"Deming North CCD, Luna County, New Mexico",3296.0,2703.0,383.0,57.0,72.0,81.0,029,90900,35
+3503192535,"Red Rock CCD, McKinley County, New Mexico",1683.0,1647.0,9.0,0.0,27.0,0.0,031,92535,35
+3503190840,"Crownpoint CCD, McKinley County, New Mexico",68.0,61.0,0.0,7.0,0.0,0.0,031,90840,35
+3502990930,"Deming South CCD, Luna County, New Mexico",12415.0,10049.0,1843.0,220.0,140.0,163.0,029,90930,35
+3503191350,"Gallup CCD, McKinley County, New Mexico",7974.0,6852.0,520.0,296.0,119.0,187.0,031,91350,35
+3503193870,"Zuni CCD, McKinley County, New Mexico",154.0,146.0,4.0,0.0,0.0,4.0,031,93870,35
+3504390870,"Cuba CCD, Sandoval County, New Mexico",1143.0,1090.0,17.0,36.0,0.0,0.0,043,90870,35
+3505593450,"Tres Piedras CCD, Taos County, New Mexico",31.0,31.0,0.0,0.0,0.0,0.0,055,93450,35
+3505592490,"Questa CCD, Taos County, New Mexico",2503.0,2402.0,29.0,19.0,53.0,0.0,055,92490,35
+3505593300,"Taos CCD, Taos County, New Mexico",11268.0,9811.0,986.0,337.0,75.0,59.0,055,93300,35
+3505593330,"Taos Pueblo CCD, Taos County, New Mexico",811.0,757.0,50.0,0.0,4.0,0.0,055,93330,35
+3505590120,"Arroyo Hondo CCD, Taos County, New Mexico",1620.0,1519.0,5.0,66.0,30.0,0.0,055,90120,35
+3505592370,"Picuris CCD, Taos County, New Mexico",1692.0,1582.0,28.0,82.0,0.0,0.0,055,92370,35
+3501792400,"Pinos Altos CCD, Grant County, New Mexico",94.0,83.0,11.0,0.0,0.0,0.0,017,92400,35
+3501793000,"Silver City CCD, Grant County, New Mexico",7907.0,6605.0,1188.0,92.0,22.0,0.0,017,93000,35
+3501792070,"Mimbres CCD, Grant County, New Mexico",566.0,566.0,0.0,0.0,0.0,0.0,017,92070,35
+3501791560,"Hurley CCD, Grant County, New Mexico",1090.0,957.0,129.0,0.0,4.0,0.0,017,91560,35
+3501792782,"Santa Clara CCD, Grant County, New Mexico",1801.0,1643.0,155.0,0.0,3.0,0.0,017,92782,35
+3500190060,"Albuquerque CCD, Bernalillo County, New Mexico",319588.0,273379.0,35667.0,5272.0,4157.0,1113.0,001,90060,35
+3500191590,"Isleta Pueblo CCD, Bernalillo County, New Mexico",345.0,336.0,9.0,0.0,0.0,0.0,001,91590,35
+3503592040,"Mescalero CCD, Otero County, New Mexico",310.0,268.0,38.0,0.0,0.0,4.0,035,92040,35
+3503593120,"Southeast Otero CCD, Otero County, New Mexico",8978.0,7012.0,195.0,203.0,729.0,839.0,035,93120,35
+3503593570,"Tularosa CCD, Otero County, New Mexico",2347.0,2142.0,161.0,0.0,0.0,44.0,035,93570,35
+3503590030,"Alamogordo CCD, Otero County, New Mexico",12345.0,9975.0,1547.0,202.0,488.0,133.0,035,90030,35
+3500990390,"Broadview CCD, Curry County, New Mexico",81.0,52.0,10.0,0.0,19.0,0.0,009,90390,35
+3500990720,"Clovis CCD, Curry County, New Mexico",20060.0,15211.0,3000.0,621.0,1200.0,28.0,009,90720,35
+3501793600,"Tyrone CCD, Grant County, New Mexico",324.0,221.0,74.0,0.0,29.0,0.0,017,93600,35
+3501790210,"Bayard-Santa Rita CCD, Grant County, New Mexico",2272.0,2010.0,207.0,28.0,27.0,0.0,017,90210,35
+3500992010,"Melrose CCD, Curry County, New Mexico",61.0,61.0,0.0,0.0,0.0,0.0,009,92010,35
+3500792520,"Raton CCD, Colfax County, New Mexico",3932.0,3376.0,404.0,118.0,17.0,17.0,007,92520,35
+3500793270,"Springer CCD, Colfax County, New Mexico",1121.0,901.0,46.0,164.0,10.0,0.0,007,93270,35
+3500790600,"Cimarron CCD, Colfax County, New Mexico",1045.0,835.0,114.0,7.0,89.0,0.0,007,90600,35
+3501591920,"Loving CCD, Eddy County, New Mexico",1255.0,1151.0,72.0,26.0,6.0,0.0,015,91920,35
+3501590150,"Artesia CCD, Eddy County, New Mexico",9400.0,8439.0,611.0,190.0,121.0,39.0,015,90150,35
+3501591800,"Loco Hills CCD, Eddy County, New Mexico",101.0,46.0,0.0,55.0,0.0,0.0,015,91800,35
+3501590480,"Carlsbad CCD, Eddy County, New Mexico",15601.0,13337.0,1207.0,389.0,517.0,151.0,015,90480,35
+3502193150,"South Harding CCD, Harding County, New Mexico",2.0,2.0,0.0,0.0,0.0,0.0,021,93150,35
+3502192220,"North Harding CCD, Harding County, New Mexico",202.0,192.0,1.0,6.0,0.0,3.0,021,92220,35
+3503392100,"Mora CCD, Mora County, New Mexico",2861.0,2776.0,0.0,85.0,0.0,0.0,033,92100,35
+3503393720,"Wagon Mound CCD, Mora County, New Mexico",772.0,771.0,0.0,1.0,0.0,0.0,033,93720,35
+3504592180,"Nenahnezad-Burnham CCD, San Juan County, New Mexico",125.0,112.0,13.0,0.0,0.0,0.0,045,92180,35
+3504592150,"Napi Headquarters CCD, San Juan County, New Mexico",1264.0,1066.0,101.0,90.0,7.0,0.0,045,92150,35
+3503992295,"Ohkay Owingeh CCD, Rio Arriba County, New Mexico",4438.0,4233.0,124.0,50.0,23.0,8.0,039,92295,35
+3505592340,"Peñasco CCD, Taos County, New Mexico",546.0,546.0,0.0,0.0,0.0,0.0,055,92340,35
+3500191095,"East Bernalillo CCD, Bernalillo County, New Mexico",4381.0,3983.0,180.0,173.0,17.0,28.0,001,91095,35
+3500193735,"West Bernalillo CCD, Bernalillo County, New Mexico",5417.0,3947.0,777.0,163.0,298.0,232.0,001,93735,35
+3501393060,"South Doña Ana CCD, Doña Ana County, New Mexico",25091.0,22873.0,914.0,184.0,1082.0,38.0,013,93060,35
+3503991682,"Jicarilla Apache CCD, Rio Arriba County, New Mexico",499.0,493.0,0.0,0.0,6.0,0.0,039,91682,35
+3503993630,"Vallecitos CCD, Rio Arriba County, New Mexico",191.0,191.0,0.0,0.0,0.0,0.0,039,93630,35
+3501390090,"Anthony CCD, Doña Ana County, New Mexico",25686.0,22965.0,1677.0,272.0,640.0,132.0,013,90090,35
+3501391050,"Doña Ana-Hill CCD, Doña Ana County, New Mexico",23655.0,21252.0,1847.0,279.0,238.0,39.0,013,91050,35
+3501391440,"Hatch CCD, Doña Ana County, New Mexico",4419.0,3733.0,272.0,104.0,54.0,256.0,013,91440,35
+3503993795,"West Rio Arriba CCD, Rio Arriba County, New Mexico",8.0,8.0,0.0,0.0,0.0,0.0,039,93795,35
+3501391260,"Fairacres CCD, Doña Ana County, New Mexico",2717.0,2045.0,290.0,322.0,60.0,0.0,013,91260,35
+3501391740,"Las Cruces CCD, Doña Ana County, New Mexico",61160.0,49775.0,7278.0,1929.0,1884.0,294.0,013,91740,35
+3501393840,"White Sands CCD, Doña Ana County, New Mexico",239.0,169.0,0.0,0.0,70.0,0.0,013,93840,35
+3504392655,"Rio Rancho CCD, Sandoval County, New Mexico",48967.0,43822.0,2705.0,1890.0,514.0,36.0,043,92655,35
+3504391654,"Jemez-Zia CCD, Sandoval County, New Mexico",488.0,447.0,39.0,2.0,0.0,0.0,043,91654,35
+3504392944,"Santo Domingo-San Felipe CCD, Sandoval County, New Mexico",1011.0,959.0,19.0,29.0,4.0,0.0,043,92944,35
+3505393040,"Socorro CCD, Socorro County, New Mexico",7958.0,7322.0,409.0,171.0,56.0,0.0,053,93040,35
+3503192170,"Navajo Nation CCD, McKinley County, New Mexico",252.0,248.0,4.0,0.0,0.0,0.0,031,92170,35

@@ -1,0 +1,317 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+1210190481,"Central Pasco CCD, Pasco County, Florida",1441.0,1222.0,219.0,101,90481,12
+1204190130,"Bell CCD, Gilchrist County, Florida",0.0,0.0,0.0,041,90130,12
+1212191950,"Live Oak CCD, Suwannee County, Florida",0.0,0.0,0.0,121,91950,12
+1210192860,"Port Richey CCD, Pasco County, Florida",385.0,273.0,112.0,101,92860,12
+1205593120,"Sebring CCD, Highlands County, Florida",42.0,35.0,7.0,055,93120,12
+1205591846,"Lake Placid CCD, Highlands County, Florida",66.0,66.0,0.0,055,91846,12
+1205590091,"Avon Park CCD, Highlands County, Florida",353.0,163.0,190.0,055,90091,12
+1212190299,"Branford CCD, Suwannee County, Florida",1.0,0.0,1.0,121,90299,12
+1210190741,"Dade City CCD, Pasco County, Florida",26.0,8.0,18.0,101,90741,12
+1210192327,"New Port Richey CCD, Pasco County, Florida",1171.0,966.0,205.0,101,92327,12
+1204193432,"Trenton CCD, Gilchrist County, Florida",2.0,2.0,0.0,041,93432,12
+1212190858,"Dowling Park CCD, Suwannee County, Florida",5.0,5.0,0.0,121,90858,12
+1212192002,"McAlpin-Wellborn CCD, Suwannee County, Florida",3.0,3.0,0.0,121,92002,12
+1200191248,"Gainesville CCD, Alachua County, Florida",4078.0,1508.0,2570.0,001,91248,12
+1200191469,"Hawthorne CCD, Alachua County, Florida",0.0,0.0,0.0,001,91469,12
+1200192314,"Newberry-Archer CCD, Alachua County, Florida",300.0,250.0,50.0,001,92314,12
+1200192184,"Micanopy CCD, Alachua County, Florida",1.0,1.0,0.0,001,92184,12
+1200191495,"High Springs-Alachua CCD, Alachua County, Florida",400.0,332.0,68.0,001,91495,12
+1200193536,"Waldo CCD, Alachua County, Florida",24.0,24.0,0.0,001,93536,12
+1202790078,"Arcadia West CCD, DeSoto County, Florida",0.0,0.0,0.0,027,90078,12
+1202790065,"Arcadia East CCD, DeSoto County, Florida",9.0,9.0,0.0,027,90065,12
+1201390026,"Altha CCD, Calhoun County, Florida",0.0,0.0,0.0,013,90026,12
+1201390169,"Blountstown CCD, Calhoun County, Florida",15.0,15.0,0.0,013,90169,12
+1202391183,"Fort White CCD, Columbia County, Florida",33.0,33.0,0.0,023,91183,12
+1201592899,"Punta Gorda CCD, Charlotte County, Florida",114.0,39.0,75.0,015,92899,12
+1201591352,"Grove City-Rotonda CCD, Charlotte County, Florida",114.0,71.0,43.0,015,91352,12
+1201592834,"Port Charlotte CCD, Charlotte County, Florida",502.0,379.0,123.0,015,92834,12
+1202392366,"North Columbia CCD, Columbia County, Florida",0.0,0.0,0.0,023,92366,12
+1202391820,"Lake City CCD, Columbia County, Florida",130.0,98.0,32.0,023,91820,12
+1202990702,"Cross City South CCD, Dixie County, Florida",28.0,28.0,0.0,029,90702,12
+1202990689,"Cross City North CCD, Dixie County, Florida",0.0,0.0,0.0,029,90689,12
+1208593250,"Stuart CCD, Martin County, Florida",255.0,173.0,82.0,085,93250,12
+1208591586,"Indiantown CCD, Martin County, Florida",19.0,7.0,12.0,085,91586,12
+1208592873,"Port Salerno-Hobe Sound CCD, Martin County, Florida",197.0,150.0,47.0,085,92873,12
+1211593484,"Venice CCD, Sarasota County, Florida",428.0,327.0,101.0,115,93484,12
+1210791612,"Interlachen-Florahome CCD, Putnam County, Florida",70.0,70.0,0.0,107,91612,12
+1210790663,"Crescent City CCD, Putnam County, Florida",38.0,38.0,0.0,107,90663,12
+1210792574,"Palatka CCD, Putnam County, Florida",0.0,0.0,0.0,107,92574,12
+1211591599,"Interior County CCD, Sarasota County, Florida",127.0,118.0,9.0,115,91599,12
+1210790923,"East Palatka CCD, Putnam County, Florida",6.0,0.0,6.0,107,90923,12
+1211590975,"Englewood CCD, Sarasota County, Florida",41.0,18.0,23.0,115,90975,12
+1211591963,"Longboat Key CCD, Sarasota County, Florida",21.0,21.0,0.0,115,91963,12
+1211592431,"North Port CCD, Sarasota County, Florida",267.0,232.0,35.0,115,92431,12
+1211593107,"Sarasota CCD, Sarasota County, Florida",1022.0,739.0,283.0,115,93107,12
+1212592925,"Raiford CCD, Union County, Florida",23.0,23.0,0.0,125,92925,12
+1212591807,"Lake Butler CCD, Union County, Florida",5.0,0.0,5.0,125,91807,12
+1212593731,"Worthington Springs CCD, Union County, Florida",0.0,0.0,0.0,125,93731,12
+1205393230,"Spring Hill CCD, Hernando County, Florida",559.0,440.0,119.0,053,93230,12
+1212790832,"DeLand CCD, Volusia County, Florida",316.0,232.0,84.0,127,90832,12
+1201191417,"Hallandale Beach CCD, Broward County, Florida",317.0,170.0,147.0,011,91417,12
+1205191781,"LaBelle CCD, Hendry County, Florida",14.0,14.0,0.0,051,91781,12
+1212790793,"DeBary-Orange City CCD, Volusia County, Florida",221.0,179.0,42.0,127,90793,12
+1211392218,"Midway CCD, Santa Rosa County, Florida",249.0,110.0,139.0,113,92218,12
+1211393659,"Whiting Field CCD, Santa Rosa County, Florida",0.0,0.0,0.0,113,93659,12
+1211393127,"Skyline CCD, Santa Rosa County, Florida",46.0,19.0,27.0,113,93127,12
+1211392309,"Navarre Beach CCD, Santa Rosa County, Florida",0.0,0.0,0.0,113,92309,12
+1211391500,"Holley-Navarre CCD, Santa Rosa County, Florida",249.0,187.0,62.0,113,91500,12
+1212990949,"East Wakulla CCD, Wakulla County, Florida",21.0,21.0,0.0,129,90949,12
+1213390442,"Caryville CCD, Washington County, Florida",0.0,0.0,0.0,133,90442,12
+1213393497,"Vernon CCD, Washington County, Florida",8.0,4.0,4.0,133,93497,12
+1212993627,"West Wakulla CCD, Wakulla County, Florida",0.0,0.0,0.0,129,93627,12
+1213390546,"Chipley CCD, Washington County, Florida",0.0,0.0,0.0,133,90546,12
+1200793237,"Starke CCD, Bradford County, Florida",0.0,0.0,0.0,007,93237,12
+1200790312,"Brooker CCD, Bradford County, Florida",0.0,0.0,0.0,007,90312,12
+1200791430,"Hampton CCD, Bradford County, Florida",30.0,30.0,0.0,007,91430,12
+1200791898,"Lawtey CCD, Bradford County, Florida",0.0,0.0,0.0,007,91898,12
+1200992106,"Melbourne CCD, Brevard County, Florida",1646.0,1015.0,631.0,009,92106,12
+1200993224,"Space Center CCD, Brevard County, Florida",0.0,0.0,0.0,009,93224,12
+1200993419,"Titusville CCD, Brevard County, Florida",462.0,360.0,102.0,009,93419,12
+1200990624,"Cocoa-Rockledge CCD, Brevard County, Florida",674.0,598.0,76.0,009,90624,12
+1200992119,"Melbourne Shores-Floridana Beach CCD, Brevard County, Florida",59.0,59.0,0.0,009,92119,12
+1200992132,"Merritt Island CCD, Brevard County, Florida",275.0,236.0,39.0,009,92132,12
+1200990611,"Cocoa Beach-Cape Canaveral CCD, Brevard County, Florida",117.0,94.0,23.0,009,90611,12
+1200992587,"Palm Bay CCD, Brevard County, Florida",623.0,439.0,184.0,009,92587,12
+1200991573,"Indialantic-Melbourne Beach CCD, Brevard County, Florida",294.0,213.0,81.0,009,91573,12
+1200992028,"Malabar CCD, Brevard County, Florida",0.0,0.0,0.0,009,92028,12
+1200993588,"West Brevard CCD, Brevard County, Florida",37.0,17.0,20.0,009,93588,12
+1201992509,"Orange Park CCD, Clay County, Florida",980.0,812.0,168.0,019,92509,12
+1201992197,"Middleburg-Clay Hill CCD, Clay County, Florida",651.0,490.0,161.0,019,92197,12
+1201992678,"Penney Farms CCD, Clay County, Florida",0.0,0.0,0.0,019,92678,12
+1201991300,"Green Cove Springs CCD, Clay County, Florida",54.0,46.0,8.0,019,91300,12
+1201991742,"Keystone Heights CCD, Clay County, Florida",65.0,31.0,34.0,019,91742,12
+1206790767,"Day CCD, Lafayette County, Florida",0.0,0.0,0.0,067,90767,12
+1206792093,"Mayo CCD, Lafayette County, Florida",0.0,0.0,0.0,067,92093,12
+1206991235,"Fruitland Park-Lady Lake CCD, Lake County, Florida",134.0,82.0,52.0,069,91235,12
+1206991365,"Groveland-Mascotte CCD, Lake County, Florida",191.0,132.0,59.0,069,91365,12
+1206991924,"Leesburg East CCD, Lake County, Florida",112.0,106.0,6.0,069,91924,12
+1206991014,"Eustis CCD, Lake County, Florida",90.0,82.0,8.0,069,91014,12
+1206990585,"Clermont CCD, Lake County, Florida",734.0,554.0,180.0,069,90585,12
+1206991541,"Howey-in-the-Hills-Okahumpka CCD, Lake County, Florida",42.0,42.0,0.0,069,91541,12
+1206993445,"Umatilla CCD, Lake County, Florida",80.0,80.0,0.0,069,93445,12
+1206993393,"Tavares CCD, Lake County, Florida",154.0,87.0,67.0,069,93393,12
+1206991911,"Leesburg CCD, Lake County, Florida",25.0,6.0,19.0,069,91911,12
+1206992262,"Mount Dora CCD, Lake County, Florida",106.0,93.0,13.0,069,92262,12
+1208993757,"Yulee CCD, Nassau County, Florida",20.0,20.0,0.0,089,93757,12
+1208990364,"Callahan-Hilliard CCD, Nassau County, Florida",4.0,4.0,0.0,089,90364,12
+1208991079,"Fernandina Beach CCD, Nassau County, Florida",237.0,194.0,43.0,089,91079,12
+1210390572,"Clearwater CCD, Pinellas County, Florida",2487.0,1807.0,680.0,103,90572,12
+1210393042,"St. Petersburg CCD, Pinellas County, Florida",5327.0,3383.0,1944.0,103,93042,12
+1210393380,"Tarpon Springs CCD, Pinellas County, Florida",1213.0,806.0,407.0,103,93380,12
+1210393036,"St. Pete Beach CCD, Pinellas County, Florida",83.0,73.0,10.0,103,93036,12
+1210390182,"Boca Ciega CCD, Pinellas County, Florida",363.0,242.0,121.0,103,90182,12
+1210591209,"Frostproof CCD, Polk County, Florida",9.0,9.0,0.0,105,91209,12
+1210591833,"Lakeland CCD, Polk County, Florida",1595.0,1109.0,486.0,105,91833,12
+1210591404,"Haines City CCD, Polk County, Florida",879.0,806.0,73.0,105,91404,12
+1210591859,"Lake Wales CCD, Polk County, Florida",61.0,25.0,36.0,105,91859,12
+1210590117,"Bartow CCD, Polk County, Florida",338.0,262.0,76.0,105,90117,12
+1210593718,"Winter Haven-Auburndale CCD, Polk County, Florida",550.0,385.0,165.0,105,93718,12
+1211193620,"West St. Lucie CCD, St. Lucie County, Florida",0.0,0.0,0.0,111,93620,12
+1211191157,"Fort Pierce CCD, St. Lucie County, Florida",350.0,218.0,132.0,111,91157,12
+1211191547,"Hutchinson Island CCD, St. Lucie County, Florida",11.0,11.0,0.0,111,91547,12
+1211192866,"Port St. Lucie CCD, St. Lucie County, Florida",1257.0,1130.0,127.0,111,92866,12
+1204392379,"Northeast Glades CCD, Glades County, Florida",3.0,3.0,0.0,043,92379,12
+1204393185,"Southwest Glades CCD, Glades County, Florida",48.0,48.0,0.0,043,93185,12
+1205190598,"Clewiston CCD, Hendry County, Florida",60.0,49.0,11.0,051,90598,12
+1206191066,"Fellsmere CCD, Indian River County, Florida",11.0,0.0,11.0,061,91066,12
+1206193510,"Vero Beach CCD, Indian River County, Florida",437.0,354.0,83.0,061,93510,12
+1206390013,"Alford CCD, Jackson County, Florida",0.0,0.0,0.0,063,90013,12
+1206390650,"Cottondale CCD, Jackson County, Florida",7.0,7.0,0.0,063,90650,12
+1206392067,"Marianna CCD, Jackson County, Florida",59.0,10.0,49.0,063,92067,12
+1206391287,"Graceville CCD, Jackson County, Florida",0.0,0.0,0.0,063,91287,12
+1206393133,"Sneads CCD, Jackson County, Florida",7.0,7.0,0.0,063,93133,12
+1206392041,"Malone CCD, Jackson County, Florida",0.0,0.0,0.0,063,92041,12
+1206390377,"Campbellton CCD, Jackson County, Florida",0.0,0.0,0.0,063,90377,12
+1206391339,"Greenwood CCD, Jackson County, Florida",0.0,0.0,0.0,063,91339,12
+1206390728,"Cypress CCD, Jackson County, Florida",0.0,0.0,0.0,063,90728,12
+1209990143,"Belle Glade-Pahokee CCD, Palm Beach County, Florida",14.0,0.0,14.0,099,90143,12
+1209990260,"Boynton Beach-Delray Beach CCD, Palm Beach County, Florida",1999.0,1425.0,574.0,099,90260,12
+1209992990,"Royal Palm Beach-West Jupiter CCD, Palm Beach County, Florida",1048.0,757.0,291.0,099,92990,12
+1209991274,"Glades CCD, Palm Beach County, Florida",0.0,0.0,0.0,099,91274,12
+1209990208,"Boca Raton CCD, Palm Beach County, Florida",1290.0,840.0,450.0,099,90208,12
+1209993276,"Sunshine Parkway CCD, Palm Beach County, Florida",2299.0,1962.0,337.0,099,93276,12
+1209991690,"Jupiter CCD, Palm Beach County, Florida",695.0,417.0,278.0,099,91690,12
+1209991872,"Lake Worth CCD, Palm Beach County, Florida",1207.0,865.0,342.0,099,91872,12
+1209992977,"Riviera Beach CCD, Palm Beach County, Florida",962.0,557.0,405.0,099,92977,12
+1209993614,"West Palm Beach CCD, Palm Beach County, Florida",1189.0,663.0,526.0,099,93614,12
+1210991443,"Hastings CCD, St. Johns County, Florida",10.0,10.0,0.0,109,91443,12
+1210991222,"Fruit Cove CCD, St. Johns County, Florida",460.0,432.0,28.0,109,91222,12
+1210992080,"Matanzas CCD, St. Johns County, Florida",96.0,83.0,13.0,109,92080,12
+1210992795,"Ponte Vedra CCD, St. Johns County, Florida",250.0,158.0,92.0,109,92795,12
+1210993016,"St. Augustine CCD, St. Johns County, Florida",1166.0,1014.0,152.0,109,93016,12
+1211790455,"Casselberry-Altamonte Springs CCD, Seminole County, Florida",2162.0,1439.0,723.0,117,90455,12
+1211793081,"Sanford CCD, Seminole County, Florida",2386.0,1711.0,675.0,117,93081,12
+1211792548,"Oviedo CCD, Seminole County, Florida",1304.0,1059.0,245.0,117,92548,12
+1208691040,"Everglades CCD, Miami-Dade County, Florida",53.0,53.0,0.0,086,91040,12
+1208692158,"Miami CCD, Miami-Dade County, Florida",4761.0,2561.0,2200.0,086,92158,12
+1208691729,"Key Biscayne CCD, Miami-Dade County, Florida",25.0,13.0,12.0,086,91729,12
+1208691534,"Homestead CCD, Miami-Dade County, Florida",322.0,180.0,142.0,086,91534,12
+1208692171,"Miami Beach CCD, Miami-Dade County, Florida",1373.0,432.0,941.0,086,92171,12
+1208692470,"North Westside CCD, Miami-Dade County, Florida",1116.0,452.0,664.0,086,92470,12
+1208693211,"South Westside CCD, Miami-Dade County, Florida",259.0,182.0,77.0,086,93211,12
+1201790715,"Crystal River CCD, Citrus County, Florida",335.0,217.0,118.0,017,90715,12
+1208192652,"Parrish CCD, Manatee County, Florida",195.0,164.0,31.0,081,92652,12
+1208190273,"Bradenton CCD, Manatee County, Florida",1452.0,1035.0,417.0,081,90273,12
+1208192600,"Palmetto CCD, Manatee County, Florida",64.0,51.0,13.0,081,92600,12
+1201791625,"Inverness CCD, Citrus County, Florida",410.0,381.0,29.0,017,91625,12
+1207593679,"Williston-Bronson CCD, Levy County, Florida",28.0,22.0,6.0,075,93679,12
+1207590533,"Chiefland CCD, Levy County, Florida",26.0,22.0,4.0,075,90533,12
+1207590468,"Cedar Key-Yankeetown CCD, Levy County, Florida",3.0,3.0,0.0,075,90468,12
+1200393068,"Sanderson CCD, Baker County, Florida",3.0,3.0,0.0,003,93068,12
+1211391664,"Jay CCD, Santa Rosa County, Florida",0.0,0.0,0.0,113,91664,12
+1211392561,"Pace CCD, Santa Rosa County, Florida",151.0,112.0,39.0,113,92561,12
+1200392009,"Macclenny CCD, Baker County, Florida",27.0,27.0,0.0,003,92009,12
+1212792340,"New Smyrna Beach CCD, Volusia County, Florida",145.0,109.0,36.0,127,92340,12
+1212790494,"Central Volusia CCD, Volusia County, Florida",574.0,533.0,41.0,127,90494,12
+1211392223,"Milton CCD, Santa Rosa County, Florida",108.0,64.0,44.0,113,92223,12
+1212790780,"Daytona Beach CCD, Volusia County, Florida",355.0,63.0,292.0,127,90780,12
+1212792418,"North Peninsula CCD, Volusia County, Florida",155.0,81.0,74.0,127,92418,12
+1212792730,"Pierson-Seville CCD, Volusia County, Florida",45.0,45.0,0.0,127,92730,12
+1212790845,"Deltona CCD, Volusia County, Florida",329.0,286.0,43.0,127,90845,12
+1212793159,"South Peninsula CCD, Volusia County, Florida",76.0,61.0,15.0,127,93159,12
+1212792535,"Ormond Beach CCD, Volusia County, Florida",422.0,271.0,151.0,127,92535,12
+1212792847,"Port Orange CCD, Volusia County, Florida",442.0,304.0,138.0,127,92847,12
+1207390878,"East Leon CCD, Leon County, Florida",620.0,475.0,145.0,073,90878,12
+1207393302,"Tallahassee East CCD, Leon County, Florida",254.0,27.0,227.0,073,93302,12
+1207393190,"Southwest Leon CCD, Leon County, Florida",11.0,0.0,11.0,073,93190,12
+1207393315,"Tallahassee Northeast CCD, Leon County, Florida",134.0,39.0,95.0,073,93315,12
+1207392463,"Northwest Leon CCD, Leon County, Florida",42.0,42.0,0.0,073,92463,12
+1207393295,"Tallahassee Central CCD, Leon County, Florida",418.0,58.0,360.0,073,93295,12
+1207393335,"Tallahassee South CCD, Leon County, Florida",90.0,24.0,66.0,073,93335,12
+1207393328,"Tallahassee Northwest CCD, Leon County, Florida",334.0,125.0,209.0,073,93328,12
+1207392384,"Northeast Leon CCD, Leon County, Florida",1016.0,811.0,205.0,073,92384,12
+1207393354,"Tallahassee Southwest CCD, Leon County, Florida",170.0,26.0,144.0,073,93354,12
+1207393152,"Southeast Leon CCD, Leon County, Florida",201.0,125.0,76.0,073,93152,12
+1201190754,"Davie CCD, Broward County, Florida",3579.0,2507.0,1072.0,011,90754,12
+1201192236,"Miramar-Pembroke Pines CCD, Broward County, Florida",4526.0,3738.0,788.0,011,92236,12
+1201190806,"Deerfield Beach CCD, Broward County, Florida",2246.0,1905.0,341.0,011,90806,12
+1201192756,"Plantation CCD, Broward County, Florida",2840.0,1771.0,1069.0,011,92756,12
+1201192782,"Pompano Beach CCD, Broward County, Florida",550.0,345.0,205.0,011,92782,12
+1201191508,"Hollywood CCD, Broward County, Florida",1452.0,939.0,513.0,011,91508,12
+1211390964,"Eglin AFB CCD, Santa Rosa County, Florida",0.0,0.0,0.0,113,90964,12
+1211390903,"East Milton CCD, Santa Rosa County, Florida",0.0,0.0,0.0,113,90903,12
+1211390020,"Allentown CCD, Santa Rosa County, Florida",8.0,8.0,0.0,113,90020,12
+1211390162,"Berrydale CCD, Santa Rosa County, Florida",0.0,0.0,0.0,113,90162,12
+1211390097,"Bagdad CCD, Santa Rosa County, Florida",110.0,110.0,0.0,113,90097,12
+1211390085,"Avalon-Mulat CCD, Santa Rosa County, Florida",28.0,28.0,0.0,113,90085,12
+1211391376,"Gulf Breeze CCD, Santa Rosa County, Florida",0.0,0.0,0.0,113,91376,12
+1213193542,"Walton Beaches CCD, Walton County, Florida",195.0,97.0,98.0,131,93542,12
+1211391436,"Harold CCD, Santa Rosa County, Florida",0.0,0.0,0.0,113,91436,12
+1205792614,"Palm River-Gibsonton CCD, Hillsborough County, Florida",500.0,388.0,112.0,057,92614,12
+1211392269,"Munson CCD, Santa Rosa County, Florida",0.0,0.0,0.0,113,92269,12
+1205791735,"Keystone-Citrus Park CCD, Hillsborough County, Florida",2456.0,1576.0,880.0,057,91735,12
+1211591393,"Gulf Gate Estates-Osprey CCD, Sarasota County, Florida",183.0,154.0,29.0,115,91393,12
+1205993596,"West Holmes CCD, Holmes County, Florida",0.0,0.0,0.0,059,93596,12
+1205391475,"Hernando Beach CCD, Hernando County, Florida",73.0,73.0,0.0,053,91475,12
+1201190644,"Coral Springs-Margate CCD, Broward County, Florida",2762.0,1998.0,764.0,011,90644,12
+1203191644,"Jacksonville North CCD, Duval County, Florida",392.0,365.0,27.0,031,91644,12
+1203191642,"Jacksonville East CCD, Duval County, Florida",9504.0,5921.0,3583.0,031,91642,12
+1203191640,"Jacksonville Beaches CCD, Duval County, Florida",523.0,308.0,215.0,031,91640,12
+1203190110,"Baldwin CCD, Duval County, Florida",0.0,0.0,0.0,031,90110,12
+1203191646,"Jacksonville West CCD, Duval County, Florida",2931.0,2328.0,603.0,031,91646,12
+1208192290,"Myakka City CCD, Manatee County, Florida",441.0,314.0,127.0,081,92290,12
+1201393592,"West Calhoun CCD, Calhoun County, Florida",0.0,0.0,0.0,013,93592,12
+1209993594,"Western Community CCD, Palm Beach County, Florida",305.0,305.0,0.0,099,93594,12
+1211990344,"Bushnell-Center Hill CCD, Sumter County, Florida",25.0,25.0,0.0,119,90344,12
+1209190962,"Eglin AFB CCD, Okaloosa County, Florida",37.0,0.0,37.0,091,90962,12
+1208691714,"Kendall-Palmetto Bay CCD, Miami-Dade County, Florida",2152.0,1452.0,700.0,086,91714,12
+1208691705,"Kendale Lakes-Tamiami CCD, Miami-Dade County, Florida",2654.0,2095.0,559.0,086,91705,12
+1208692175,"Miami Gardens CCD, Miami-Dade County, Florida",306.0,206.0,100.0,086,92175,12
+1205793693,"Wimauma-Riverview CCD, Hillsborough County, Florida",1395.0,1125.0,270.0,057,93693,12
+1213190819,"DeFuniak Springs CCD, Walton County, Florida",0.0,0.0,0.0,131,90819,12
+1201190637,"Conservation CCD, Broward County, Florida",0.0,0.0,0.0,011,90637,12
+1207991326,"Greenville CCD, Madison County, Florida",16.0,16.0,0.0,079,91326,12
+1208790416,"Cape Sable CCD, Monroe County, Florida",0.0,0.0,0.0,087,90416,12
+1201191098,"Fort Lauderdale CCD, Broward County, Florida",1959.0,1179.0,780.0,011,91098,12
+1207992015,"Madison CCD, Madison County, Florida",38.0,10.0,28.0,079,92015,12
+1208791755,"Key West CCD, Monroe County, Florida",143.0,78.0,65.0,087,91755,12
+1208791976,"Lower Keys CCD, Monroe County, Florida",42.0,42.0,0.0,087,91976,12
+1208793471,"Upper Keys CCD, Monroe County, Florida",27.0,12.0,15.0,087,93471,12
+1208792210,"Middle Keys CCD, Monroe County, Florida",55.0,18.0,37.0,087,92210,12
+1203390390,"Cantonment CCD, Escambia County, Florida",334.0,303.0,31.0,033,90390,12
+1203390507,"Century CCD, Escambia County, Florida",13.0,13.0,0.0,033,90507,12
+1203392457,"Northwest Escambia CCD, Escambia County, Florida",0.0,0.0,0.0,033,92457,12
+1203392691,"Pensacola CCD, Escambia County, Florida",2359.0,1541.0,818.0,033,92691,12
+1205390325,"Brooksville CCD, Hernando County, Florida",49.0,40.0,9.0,053,90325,12
+1205392964,"Ridge Manor CCD, Hernando County, Florida",37.0,37.0,0.0,053,92964,12
+1205790286,"Brandon CCD, Hillsborough County, Florida",2758.0,1487.0,1271.0,057,90286,12
+1205793003,"Ruskin CCD, Hillsborough County, Florida",244.0,204.0,40.0,057,93003,12
+1205792769,"Plant City CCD, Hillsborough County, Florida",383.0,328.0,55.0,057,92769,12
+1209191170,"Fort Walton Beach CCD, Okaloosa County, Florida",1274.0,617.0,657.0,091,91170,12
+1205793367,"Tampa CCD, Hillsborough County, Florida",9848.0,5607.0,4241.0,057,93367,12
+1209190104,"Baker CCD, Okaloosa County, Florida",0.0,0.0,0.0,091,90104,12
+1209192353,"Niceville-Valparaiso CCD, Okaloosa County, Florida",370.0,332.0,38.0,091,92353,12
+1209191885,"Laurel Hill CCD, Okaloosa County, Florida",7.0,7.0,0.0,091,91885,12
+1209190676,"Crestview CCD, Okaloosa County, Florida",270.0,199.0,71.0,091,90676,12
+1212392704,"Perry North CCD, Taylor County, Florida",21.0,21.0,0.0,123,92704,12
+1212392717,"Perry South CCD, Taylor County, Florida",30.0,30.0,0.0,123,92717,12
+1200592145,"Mexico Beach CCD, Bay County, Florida",36.0,0.0,36.0,005,92145,12
+1208692886,"Princeton-Goulds CCD, Miami-Dade County, Florida",658.0,420.0,238.0,086,92886,12
+1208691482,"Hialeah CCD, Miami-Dade County, Florida",674.0,476.0,198.0,086,91482,12
+1200591989,"Lynn Haven CCD, Bay County, Florida",103.0,103.0,0.0,005,91989,12
+1200592639,"Panama City Beaches CCD, Bay County, Florida",203.0,157.0,46.0,005,92639,12
+1200593744,"Youngstown CCD, Bay County, Florida",0.0,0.0,0.0,005,93744,12
+1200593172,"Southport CCD, Bay County, Florida",44.0,0.0,44.0,005,93172,12
+1200592626,"Panama City CCD, Bay County, Florida",608.0,329.0,279.0,005,92626,12
+1203590338,"Bunnell CCD, Flagler County, Florida",472.0,418.0,54.0,035,90338,12
+1203591092,"Flagler Beach CCD, Flagler County, Florida",202.0,189.0,13.0,035,91092,12
+1203790936,"Eastpoint CCD, Franklin County, Florida",0.0,0.0,0.0,037,90936,12
+1203790429,"Carrabelle CCD, Franklin County, Florida",0.0,0.0,0.0,037,90429,12
+1203790039,"Apalachicola CCD, Franklin County, Florida",20.0,20.0,0.0,037,90039,12
+1204592863,"Port St. Joe CCD, Gulf County, Florida",11.0,8.0,3.0,045,92863,12
+1204593640,"Wewahitchka CCD, Gulf County, Florida",6.0,6.0,0.0,045,93640,12
+1204793653,"White Springs CCD, Hamilton County, Florida",0.0,0.0,0.0,047,93653,12
+1204791651,"Jasper CCD, Hamilton County, Florida",0.0,0.0,0.0,047,91651,12
+1204791677,"Jennings CCD, Hamilton County, Florida",8.0,0.0,8.0,047,91677,12
+1207793601,"West Liberty CCD, Liberty County, Florida",4.0,4.0,0.0,077,93601,12
+1207790884,"East Liberty CCD, Liberty County, Florida",0.0,0.0,0.0,077,90884,12
+1209791768,"Kissimmee CCD, Osceola County, Florida",1341.0,1018.0,323.0,097,91768,12
+1209793029,"St. Cloud CCD, Osceola County, Florida",931.0,825.0,106.0,097,93029,12
+1209793146,"South and East Osceola CCD, Osceola County, Florida",34.0,19.0,15.0,097,93146,12
+1211993666,"Wildwood CCD, Sumter County, Florida",210.0,210.0,0.0,119,93666,12
+1213191196,"Freeport CCD, Walton County, Florida",26.0,15.0,11.0,131,91196,12
+1213192938,"Redbay CCD, Walton County, Florida",26.0,26.0,0.0,131,92938,12
+1213192665,"Paxton-Darlington CCD, Walton County, Florida",21.0,16.0,5.0,131,92665,12
+1203991456,"Havana CCD, Gadsden County, Florida",22.0,22.0,0.0,039,91456,12
+1203990520,"Chattahoochee CCD, Gadsden County, Florida",25.0,25.0,0.0,039,90520,12
+1205991001,"Esto-Noma CCD, Holmes County, Florida",0.0,0.0,0.0,059,91001,12
+1203991313,"Greensboro CCD, Gadsden County, Florida",0.0,0.0,0.0,039,91313,12
+1203992912,"Quincy CCD, Gadsden County, Florida",19.0,19.0,0.0,039,92912,12
+1205990221,"Bonifay CCD, Holmes County, Florida",31.0,16.0,15.0,059,90221,12
+1206593523,"Wacissa CCD, Jefferson County, Florida",0.0,0.0,0.0,065,93523,12
+1206592249,"Monticello CCD, Jefferson County, Florida",0.0,0.0,0.0,065,92249,12
+1207191131,"Fort Myers CCD, Lee County, Florida",515.0,385.0,130.0,071,91131,12
+1207191144,"Fort Myers Shores CCD, Lee County, Florida",60.0,60.0,0.0,071,91144,12
+1207193094,"Sanibel Island CCD, Lee County, Florida",20.0,6.0,14.0,071,93094,12
+1207190195,"Boca Grande CCD, Lee County, Florida",0.0,0.0,0.0,071,90195,12
+1207190988,"Estero Island CCD, Lee County, Florida",14.0,14.0,0.0,071,90988,12
+1207191937,"Lehigh Acres CCD, Lee County, Florida",977.0,727.0,250.0,071,91937,12
+1207190403,"Cape Coral CCD, Lee County, Florida",665.0,545.0,120.0,071,90403,12
+1207192392,"North Fort Myers CCD, Lee County, Florida",98.0,22.0,76.0,071,92392,12
+1207192743,"Pine Island CCD, Lee County, Florida",23.0,11.0,12.0,071,92743,12
+1207190234,"Bonita Springs CCD, Lee County, Florida",599.0,424.0,175.0,071,90234,12
+1208391053,"Fellowship CCD, Marion County, Florida",106.0,88.0,18.0,083,91053,12
+1208392951,"Reddick-McIntosh CCD, Marion County, Florida",0.0,0.0,0.0,083,92951,12
+1208390897,"East Marion CCD, Marion County, Florida",0.0,0.0,0.0,083,90897,12
+1208391105,"Fort McCoy-Anthony CCD, Marion County, Florida",42.0,16.0,26.0,083,91105,12
+1208392483,"Ocala CCD, Marion County, Florida",900.0,768.0,132.0,083,92483,12
+1208390871,"Dunnellon CCD, Marion County, Florida",146.0,143.0,3.0,083,90871,12
+1208390156,"Belleview CCD, Marion County, Florida",595.0,454.0,141.0,083,90156,12
+1204993783,"Zolfo Springs CCD, Hardee County, Florida",0.0,0.0,0.0,049,93783,12
+1204990247,"Bowling Green CCD, Hardee County, Florida",0.0,0.0,0.0,049,90247,12
+1204993549,"Wauchula CCD, Hardee County, Florida",50.0,10.0,40.0,049,93549,12
+1202191560,"Immokalee CCD, Collier County, Florida",184.0,153.0,31.0,021,91560,12
+1202192048,"Marco Island CCD, Collier County, Florida",77.0,59.0,18.0,021,92048,12
+1202192301,"Naples CCD, Collier County, Florida",969.0,742.0,227.0,021,92301,12
+1202191027,"Everglades CCD, Collier County, Florida",55.0,55.0,0.0,021,91027,12
+1209392496,"Okeechobee CCD, Okeechobee County, Florida",90.0,35.0,55.0,093,92496,12
+1209392405,"North Okeechobee CCD, Okeechobee County, Florida",19.0,19.0,0.0,093,92405,12
+1209590052,"Apopka CCD, Orange County, Florida",749.0,636.0,113.0,095,90052,12
+1209590910,"East Orange CCD, Orange County, Florida",804.0,475.0,329.0,095,90910,12
+1209592522,"Orlando CCD, Orange County, Florida",7160.0,3963.0,3197.0,095,92522,12
+1209593198,"Southwest Orange CCD, Orange County, Florida",5533.0,4272.0,1261.0,095,93198,12
+1209593458,"Union Park CCD, Orange County, Florida",4250.0,3029.0,1221.0,095,93458,12
+1209593705,"Winter Garden-Ocoee CCD, Orange County, Florida",1326.0,1069.0,257.0,095,93705,12
+1210193770,"Zephyrhills CCD, Pasco County, Florida",303.0,273.0,30.0,101,93770,12
+1210191794,"Lacoochee CCD, Pasco County, Florida",15.0,15.0,0.0,101,91794,12

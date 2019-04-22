@@ -1,0 +1,38 @@
+geoid,name,total_population_16over,in_labor_force,civilian,civilian_employed,civilian_unemployed,armed_forces,not_in_labor_force,county,county subdivision,state
+0212238460,"Kenai-Cook Inlet census subarea, Kenai Peninsula Borough, Alaska",41530.0,25211.0,25104.0,22873.0,2231.0,107.0,16319.0,122,38460,02
+0226114420,"Chugach census subarea, Valdez-Cordova Census Area, Alaska",6169.0,4698.0,4497.0,4221.0,276.0,201.0,1471.0,261,14420,02
+0206818765,"Denali census subarea, Denali Borough, Alaska",2023.0,1592.0,1558.0,1529.0,29.0,34.0,431.0,068,18765,02
+0226117350,"Copper River census subarea, Valdez-Cordova Census Area, Alaska",1202.0,642.0,642.0,534.0,108.0,0.0,560.0,261,17350,02
+0212268610,"Seward-Hope census subarea, Kenai Peninsula Borough, Alaska",4631.0,2857.0,2857.0,2691.0,166.0,0.0,1774.0,122,68610,02
+0229046060,"McGrath-Holy Cross census subarea, Yukon-Koyukuk Census Area, Alaska",774.0,489.0,488.0,395.0,93.0,1.0,285.0,290,46060,02
+0216442780,"Lake and Peninsula census subarea, Lake and Peninsula Borough, Alaska",987.0,669.0,669.0,581.0,88.0,0.0,318.0,164,42780,02
+0224072030,"Southeast Fairbanks census subarea, Southeast Fairbanks Census Area, Alaska",5214.0,3470.0,3361.0,2941.0,420.0,109.0,1744.0,240,72030,02
+0229042080,"Koyukuk-Middle Yukon census subarea, Yukon-Koyukuk Census Area, Alaska",2419.0,1564.0,1564.0,1272.0,292.0,0.0,855.0,290,42080,02
+0229086690,"Yukon Flats census subarea, Yukon-Koyukuk Census Area, Alaska",912.0,557.0,540.0,415.0,125.0,17.0,355.0,290,86690,02
+020203050,"Anchorage census subarea, Anchorage Municipality, Alaska",231729.0,170351.0,162145.0,152751.0,9394.0,8206.0,61378.0,020,3050,02
+020131598,"Aleutians East census subarea, Aleutians East Borough, Alaska",2947.0,2469.0,2464.0,2405.0,59.0,5.0,478.0,013,1598,02
+0219864310,"Prince of Wales census subarea, Prince of Wales-Hyder Census Area, Alaska",3890.0,2494.0,2494.0,2193.0,301.0,0.0,1396.0,198,64310,02
+0223070810,"Skagway census subarea, Skagway Municipality, Alaska",924.0,761.0,761.0,701.0,60.0,0.0,163.0,230,70810,02
+0219834575,"Hyder census subarea, Prince of Wales-Hyder Census Area, Alaska",0.0,0.0,0.0,0.0,0.0,0.0,0.0,198,34575,02
+0219848873,"Metlakatla Indian Community census subarea, Prince of Wales-Hyder Census Area, Alaska",1213.0,719.0,719.0,587.0,132.0,0.0,494.0,198,48873,02
+0227586420,"Wrangell census subarea, Wrangell City and Borough, Alaska",2060.0,1178.0,1178.0,1095.0,83.0,0.0,882.0,275,86420,02
+0210533390,"Hoonah-Angoon census subarea, Hoonah-Angoon Census Area, Alaska",1770.0,1150.0,1145.0,1011.0,134.0,5.0,620.0,105,33390,02
+0210540560,"Klukwan census subarea, Hoonah-Angoon Census Area, Alaska",61.0,32.0,32.0,28.0,4.0,0.0,29.0,105,40560,02
+020161615,"Aleutians West census subarea, Aleutians West Census Area, Alaska",4892.0,4127.0,4038.0,3961.0,77.0,89.0,765.0,016,1615,02
+020609050,"Bristol Bay census subarea, Bristol Bay Borough, Alaska",740.0,558.0,545.0,508.0,37.0,13.0,182.0,060,9050,02
+0215041200,"Kodiak Island census subarea, Kodiak Island Borough, Alaska",10482.0,7939.0,7406.0,7010.0,396.0,533.0,2543.0,150,41200,02
+0218856270,"Northwest Arctic census subarea, Northwest Arctic Borough, Alaska",5300.0,3323.0,3323.0,2654.0,669.0,0.0,1977.0,188,56270,02
+0222070590,"Sitka census subarea, Sitka City and Borough, Alaska",7106.0,5019.0,4949.0,4702.0,247.0,70.0,2087.0,220,70590,02
+020503580,"Aniak census subarea, Bethel Census Area, Alaska",988.0,605.0,605.0,439.0,166.0,0.0,383.0,050,3580,02
+0205045510,"Lower Kuskokwim census subarea, Bethel Census Area, Alaska",11212.0,6932.0,6926.0,5636.0,1290.0,6.0,4280.0,050,45510,02
+0218555970,"North Slope census subarea, North Slope Borough, Alaska",7551.0,6040.0,5977.0,5412.0,565.0,63.0,1511.0,185,55970,02
+0215842185,"Kusilvak census subarea, Kusilvak Census Area, Alaska",5233.0,2988.0,2983.0,2125.0,858.0,5.0,2245.0,158,42185,02
+0219560360,"Petersburg census subarea, Petersburg Borough, Alaska",2608.0,1738.0,1726.0,1644.0,82.0,12.0,870.0,195,60360,02
+0209024450,"Fairbanks North Star census subarea, Fairbanks North Star Borough, Alaska",78105.0,57306.0,50772.0,46725.0,4047.0,6534.0,20799.0,090,24450,02
+0213039010,"Ketchikan census subarea, Ketchikan Gateway Borough, Alaska",10963.0,7575.0,7420.0,6899.0,521.0,155.0,3388.0,130,39010,02
+0217047440,"Matanuska-Susitna census subarea, Matanuska-Susitna Borough, Alaska",76585.0,47922.0,47341.0,42695.0,4646.0,581.0,28663.0,170,47440,02
+0218054970,"Nome census subarea, Nome Census Area, Alaska",6852.0,4410.0,4363.0,3639.0,724.0,47.0,2442.0,180,54970,02
+0207019000,"Dillingham census subarea, Dillingham Census Area, Alaska",3601.0,2245.0,2245.0,1989.0,256.0,0.0,1356.0,070,19000,02
+0210031160,"Haines census subarea, Haines Borough, Alaska",2078.0,1477.0,1477.0,1437.0,40.0,0.0,601.0,100,31160,02
+0228286498,"Yakutat census subarea, Yakutat City and Borough, Alaska",548.0,403.0,403.0,377.0,26.0,0.0,145.0,282,86498,02
+0211036450,"Juneau census subarea, Juneau City and Borough, Alaska",26154.0,19112.0,18876.0,17970.0,906.0,236.0,7042.0,110,36450,02

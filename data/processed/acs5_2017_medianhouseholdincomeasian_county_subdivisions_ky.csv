@@ -1,0 +1,494 @@
+geoid,name,median,county,county subdivision,state
+2103990968,"Cunningham CCD, Carlisle County, Kentucky",-666666666.0,039,90968,21
+2104192840,"Prestonville CCD, Carroll County, Kentucky",-666666666.0,041,92840,21
+2103990080,"Arlington CCD, Carlisle County, Kentucky",-666666666.0,039,90080,21
+2104190608,"Carrollton CCD, Carroll County, Kentucky",-666666666.0,041,90608,21
+2121991928,"Kirkmansville CCD, Todd County, Kentucky",-666666666.0,219,91928,21
+2103990160,"Bardwell CCD, Carlisle County, Kentucky",-666666666.0,039,90160,21
+2106592888,"Ravenna CCD, Estill County, Kentucky",-666666666.0,065,92888,21
+2105390032,"Albany CCD, Clinton County, Kentucky",-666666666.0,053,90032,21
+2105390944,"Cumberland City CCD, Clinton County, Kentucky",-666666666.0,053,90944,21
+2106591816,"Irvine CCD, Estill County, Kentucky",-666666666.0,065,91816,21
+2107793616,"Warsaw CCD, Gallatin County, Kentucky",-666666666.0,077,93616,21
+2107992664,"Paint Lick CCD, Garrard County, Kentucky",-666666666.0,079,92664,21
+2107991976,"Lancaster CCD, Garrard County, Kentucky",-666666666.0,079,91976,21
+2107990400,"Bryantsville CCD, Garrard County, Kentucky",-666666666.0,079,90400,21
+2116793064,"Salvisa-McAfee CCD, Mercer County, Kentucky",-666666666.0,167,93064,21
+2119190472,"Butler CCD, Pendleton County, Kentucky",-666666666.0,191,90472,21
+2116790424,"Burgin CCD, Mercer County, Kentucky",-666666666.0,167,90424,21
+2116791624,"Harrodsburg CCD, Mercer County, Kentucky",-666666666.0,167,91624,21
+2119191200,"Falmouth CCD, Pendleton County, Kentucky",-666666666.0,191,91200,21
+2120192408,"Mount Olivet CCD, Robertson County, Kentucky",-666666666.0,201,92408,21
+2120790384,"Bryan CCD, Russell County, Kentucky",-666666666.0,207,90384,21
+2120791120,"Eli CCD, Russell County, Kentucky",-666666666.0,207,91120,21
+2122993328,"Springfield CCD, Washington County, Kentucky",128828.0,229,93328,21
+2120791864,"Jamestown CCD, Russell County, Kentucky",-666666666.0,207,91864,21
+2120792984,"Russell Springs CCD, Russell County, Kentucky",-666666666.0,207,92984,21
+2121593448,"Taylorsville CCD, Spencer County, Kentucky",-666666666.0,215,93448,21
+2122993728,"Willisburg CCD, Washington County, Kentucky",-666666666.0,229,93728,21
+2101193144,"Sharpsburg CCD, Bath County, Kentucky",-666666666.0,011,93144,21
+2101193056,"Salt Lick CCD, Bath County, Kentucky",-666666666.0,011,93056,21
+2101192640,"Owingsville CCD, Bath County, Kentucky",-666666666.0,011,92640,21
+2100793696,"Wickliffe CCD, Ballard County, Kentucky",-666666666.0,007,93696,21
+2100790168,"Barlow CCD, Ballard County, Kentucky",-666666666.0,007,90168,21
+2100791952,"La Center CCD, Ballard County, Kentucky",-666666666.0,007,91952,21
+2100992944,"Rocky Hill CCD, Barren County, Kentucky",-666666666.0,009,92944,21
+2100991408,"Glasgow CCD, Barren County, Kentucky",-666666666.0,009,91408,21
+2100993496,"Tracy CCD, Barren County, Kentucky",-666666666.0,009,93496,21
+2100990640,"Cave City CCD, Barren County, Kentucky",-666666666.0,009,90640,21
+2100991744,"Hiseville CCD, Barren County, Kentucky",-666666666.0,009,91744,21
+2100993464,"Temple Hill CCD, Barren County, Kentucky",-666666666.0,009,93464,21
+2102191896,"Junction City CCD, Boyle County, Kentucky",-666666666.0,021,91896,21
+2102191000,"Danville CCD, Boyle County, Kentucky",73636.0,021,91000,21
+2102192744,"Perryville CCD, Boyle County, Kentucky",-666666666.0,021,92744,21
+2108791536,"Gresham CCD, Green County, Kentucky",-666666666.0,087,91536,21
+2108791504,"Greensburg CCD, Green County, Kentucky",-666666666.0,087,91504,21
+2108791064,"Donansburg CCD, Green County, Kentucky",-666666666.0,087,91064,21
+2108793408,"Summersville CCD, Green County, Kentucky",-666666666.0,087,93408,21
+2109192696,"Patesville CCD, Hancock County, Kentucky",-666666666.0,091,92696,21
+2109192032,"Lewisport CCD, Hancock County, Kentucky",-666666666.0,091,92032,21
+2109191640,"Hawesville CCD, Hancock County, Kentucky",-666666666.0,091,91640,21
+2109590648,"Cawood CCD, Harlan County, Kentucky",-666666666.0,095,90648,21
+2109591608,"Harlan CCD, Harlan County, Kentucky",250001.0,095,91608,21
+2109590056,"Alva CCD, Harlan County, Kentucky",-666666666.0,095,90056,21
+2109593584,"Wallins Creek CCD, Harlan County, Kentucky",-666666666.0,095,93584,21
+2109592824,"Poor Fork CCD, Harlan County, Kentucky",-666666666.0,095,92824,21
+2109592792,"Pine Mountain CCD, Harlan County, Kentucky",-666666666.0,095,92792,21
+2109590936,"Cumberland CCD, Harlan County, Kentucky",-666666666.0,095,90936,21
+2115993600,"Warfield CCD, Martin County, Kentucky",-666666666.0,159,93600,21
+2109393264,"Sonora CCD, Hardin County, Kentucky",-666666666.0,093,93264,21
+2109393664,"West Point CCD, Hardin County, Kentucky",-666666666.0,093,93664,21
+2109391128,"Elizabethtown CCD, Hardin County, Kentucky",51597.0,093,91128,21
+2109392880,"Radcliff CCD, Hardin County, Kentucky",48125.0,093,92880,21
+2109393416,"Summit CCD, Hardin County, Kentucky",-666666666.0,093,93416,21
+2109390656,"Cecilia CCD, Hardin County, Kentucky",-666666666.0,093,90656,21
+2113793632,"Waynesburg CCD, Lincoln County, Kentucky",-666666666.0,137,93632,21
+2113790888,"Crab Orchard CCD, Lincoln County, Kentucky",-666666666.0,137,90888,21
+2113791792,"Hustonville CCD, Lincoln County, Kentucky",-666666666.0,137,91792,21
+2113793344,"Stanford CCD, Lincoln County, Kentucky",-666666666.0,137,93344,21
+2114990496,"Calhoun CCD, McLean County, Kentucky",-666666666.0,149,90496,21
+2114993000,"Sacramento CCD, McLean County, Kentucky",-666666666.0,149,93000,21
+2114991832,"Island CCD, McLean County, Kentucky",-666666666.0,149,91832,21
+2114992056,"Livermore CCD, McLean County, Kentucky",-666666666.0,149,92056,21
+2117191312,"Fountain Run CCD, Monroe County, Kentucky",-666666666.0,171,91312,21
+2117193488,"Tompkinsville CCD, Monroe County, Kentucky",-666666666.0,171,93488,21
+2118390200,"Beaver Dam CCD, Ohio County, Kentucky",-666666666.0,183,90200,21
+2118391632,"Hartford CCD, Ohio County, Kentucky",-666666666.0,183,91632,21
+2118391776,"Horse Branch CCD, Ohio County, Kentucky",-666666666.0,183,91776,21
+2118391280,"Fordsville CCD, Ohio County, Kentucky",-666666666.0,183,91280,21
+2118391688,"Heflin-Beda CCD, Ohio County, Kentucky",-666666666.0,183,91688,21
+2119790728,"Clay City CCD, Powell County, Kentucky",-666666666.0,197,90728,21
+2118390672,"Centertown CCD, Ohio County, Kentucky",-666666666.0,183,90672,21
+2118392144,"McHenry-Rockport CCD, Ohio County, Kentucky",-666666666.0,183,92144,21
+2119793352,"Stanton CCD, Powell County, Kentucky",-666666666.0,197,93352,21
+2122592384,"Morganfield CCD, Union County, Kentucky",-666666666.0,225,92384,21
+2122593384,"Sturgis CCD, Union County, Kentucky",-666666666.0,225,93384,21
+2122593536,"Uniontown CCD, Union County, Kentucky",-666666666.0,225,93536,21
+2123393120,"Sebree CCD, Webster County, Kentucky",-666666666.0,233,93120,21
+2123390720,"Clay CCD, Webster County, Kentucky",-666666666.0,233,90720,21
+2123392856,"Providence CCD, Webster County, Kentucky",-666666666.0,233,92856,21
+2123391056,"Dixon CCD, Webster County, Kentucky",-666666666.0,233,91056,21
+2103392848,"Princeton CCD, Caldwell County, Kentucky",-666666666.0,033,92848,21
+2103391336,"Fredonia CCD, Caldwell County, Kentucky",-666666666.0,033,91336,21
+2103592480,"Murray CCD, Calloway County, Kentucky",-666666666.0,035,92480,21
+2103593176,"Shiloh CCD, Calloway County, Kentucky",-666666666.0,035,93176,21
+2103591936,"Kirksey CCD, Calloway County, Kentucky",-666666666.0,035,91936,21
+2103592512,"New Concord CCD, Calloway County, Kentucky",-666666666.0,035,92512,21
+2104592040,"Liberty CCD, Casey County, Kentucky",-666666666.0,045,92040,21
+2104590736,"Clementsville CCD, Casey County, Kentucky",-666666666.0,045,90736,21
+2104591088,"Dunnville CCD, Casey County, Kentucky",-666666666.0,045,91088,21
+2104592296,"Middleburg CCD, Casey County, Kentucky",-666666666.0,045,92296,21
+2116390328,"Brandenburg CCD, Meade County, Kentucky",-666666666.0,163,90328,21
+2122190687,"Cerulean CCD, Trigg County, Kentucky",-666666666.0,221,90687,21
+2122191980,"Land Between the Lakes CCD, Trigg County, Kentucky",-666666666.0,221,91980,21
+2117192400,"Mount Hermon CCD, Monroe County, Kentucky",-666666666.0,171,92400,21
+2119191420,"Goforth-Locust Grove CCD, Pendleton County, Kentucky",-666666666.0,191,91420,21
+2122190588,"Canton CCD, Trigg County, Kentucky",-666666666.0,221,90588,21
+2117391872,"Jeffersonville CCD, Montgomery County, Kentucky",-666666666.0,173,91872,21
+2122191290,"Fort Campbell CCD, Trigg County, Kentucky",-666666666.0,221,91290,21
+2121391101,"East Simpson CCD, Simpson County, Kentucky",-666666666.0,213,91101,21
+2106192212,"Mammoth Cave CCD, Edmonson County, Kentucky",-666666666.0,061,92212,21
+2107591918,"Kentucky Bend CCD, Fulton County, Kentucky",-666666666.0,075,91918,21
+2110990076,"Annville CCD, Jackson County, Kentucky",-666666666.0,109,90076,21
+2110993080,"Sandgap CCD, Jackson County, Kentucky",-666666666.0,109,93080,21
+2120591725,"Hilda-Triplett CCD, Rowan County, Kentucky",-666666666.0,205,91725,21
+2103792545,"Newport-Fort Thomas CCD, Campbell County, Kentucky",61307.0,037,92545,21
+2123993308,"South Woodford CCD, Woodford County, Kentucky",-666666666.0,239,93308,21
+2104791288,"Fort Campbell CCD, Christian County, Kentucky",31125.0,047,91288,21
+2104791768,"Hopkinsville CCD, Christian County, Kentucky",71250.0,047,91768,21
+2104790928,"Crofton CCD, Christian County, Kentucky",-666666666.0,047,90928,21
+2104791960,"LaFayette CCD, Christian County, Kentucky",-666666666.0,047,91960,21
+2105992624,"Owensboro CCD, Daviess County, Kentucky",31517.0,059,92624,21
+2108592336,"Millerstown CCD, Grayson County, Kentucky",-666666666.0,085,92336,21
+2108590560,"Caneyville CCD, Grayson County, Kentucky",-666666666.0,085,90560,21
+2108593192,"Short Creek CCD, Grayson County, Kentucky",-666666666.0,085,93192,21
+2108590704,"Clarkson CCD, Grayson County, Kentucky",-666666666.0,085,90704,21
+2110191672,"Hebbardsville-Robards CCD, Henderson County, Kentucky",-666666666.0,101,91672,21
+2108592016,"Leitchfield CCD, Grayson County, Kentucky",-666666666.0,085,92016,21
+2110191704,"Henderson CCD, Henderson County, Kentucky",61806.0,101,91704,21
+2110190848,"Corydon CCD, Henderson County, Kentucky",-666666666.0,101,90848,21
+2110193320,"Spottsville CCD, Henderson County, Kentucky",-666666666.0,101,93320,21
+2110392816,"Pleasureville CCD, Henry County, Kentucky",-666666666.0,103,92816,21
+2110390520,"Campbellsburg CCD, Henry County, Kentucky",-666666666.0,103,90520,21
+2110392504,"New Castle CCD, Henry County, Kentucky",-666666666.0,103,92504,21
+2110391152,"Eminence CCD, Henry County, Kentucky",-666666666.0,103,91152,21
+2110792496,"Nebo CCD, Hopkins County, Kentucky",-666666666.0,107,92496,21
+2110793016,"St. Charles CCD, Hopkins County, Kentucky",-666666666.0,107,93016,21
+2110792584,"Nortonville CCD, Hopkins County, Kentucky",-666666666.0,107,92584,21
+2110791576,"Hanson CCD, Hopkins County, Kentucky",-666666666.0,107,91576,21
+2110791024,"Dawson Springs CCD, Hopkins County, Kentucky",-666666666.0,107,91024,21
+2110792176,"Madisonville CCD, Hopkins County, Kentucky",-666666666.0,107,92176,21
+2110992152,"McKee CCD, Jackson County, Kentucky",-666666666.0,109,92152,21
+2112592568,"North Corbin CCD, Laurel County, Kentucky",-666666666.0,125,92568,21
+2112591096,"East Bernstadt CCD, Laurel County, Kentucky",-666666666.0,125,91096,21
+2112590536,"Camp Ground CCD, Laurel County, Kentucky",-666666666.0,125,90536,21
+2112591904,"Keavy CCD, Laurel County, Kentucky",-666666666.0,125,91904,21
+2112590464,"Bush CCD, Laurel County, Kentucky",-666666666.0,125,90464,21
+2112591496,"Greenmount-Langnau CCD, Laurel County, Kentucky",-666666666.0,125,91496,21
+2112592072,"London CCD, Laurel County, Kentucky",-666666666.0,125,92072,21
+2112590768,"Colony CCD, Laurel County, Kentucky",-666666666.0,125,90768,21
+2115790216,"Benton CCD, Marshall County, Kentucky",-666666666.0,157,90216,21
+2115790512,"Calvert City CCD, Marshall County, Kentucky",-666666666.0,157,90512,21
+2115791192,"Fairdealing CCD, Marshall County, Kentucky",-666666666.0,157,91192,21
+2116391248,"Flaherty CCD, Meade County, Kentucky",-666666666.0,163,91248,21
+2116390176,"Battletown-Payneville CCD, Meade County, Kentucky",-666666666.0,163,90176,21
+2117392416,"Mount Sterling CCD, Montgomery County, Kentucky",-666666666.0,173,92416,21
+2118190592,"Carlisle CCD, Nicholas County, Kentucky",-666666666.0,181,90592,21
+2118191664,"Headquarters CCD, Nicholas County, Kentucky",-666666666.0,181,91664,21
+2118592752,"Pewee Valley CCD, Oldham County, Kentucky",191071.0,185,92752,21
+2118591968,"La Grange CCD, Oldham County, Kentucky",-666666666.0,185,91968,21
+2118792360,"Monterey-New Columbus CCD, Owen County, Kentucky",-666666666.0,187,92360,21
+2118792632,"Owenton CCD, Owen County, Kentucky",-666666666.0,187,92632,21
+2118792528,"New Liberty CCD, Owen County, Kentucky",-666666666.0,187,92528,21
+2120392424,"Mount Vernon CCD, Rockcastle County, Kentucky",-666666666.0,203,92424,21
+2120392064,"Livingston CCD, Rockcastle County, Kentucky",-666666666.0,203,92064,21
+2120390800,"Conway CCD, Rockcastle County, Kentucky",-666666666.0,203,90800,21
+2120993008,"Sadieville CCD, Scott County, Kentucky",-666666666.0,209,93008,21
+2120993336,"Stamping Ground CCD, Scott County, Kentucky",-666666666.0,209,93336,21
+2120991392,"Georgetown CCD, Scott County, Kentucky",53188.0,209,91392,21
+2122793248,"Smiths Grove CCD, Warren County, Kentucky",-666666666.0,227,93248,21
+2122790312,"Bowling Green CCD, Warren County, Kentucky",41759.0,227,90312,21
+2122793760,"Woodburn CCD, Warren County, Kentucky",-666666666.0,227,93760,21
+2122791488,"Greencastle CCD, Warren County, Kentucky",-666666666.0,227,91488,21
+2100393112,"Scottsville CCD, Allen County, Kentucky",-666666666.0,003,93112,21
+2100390024,"Adolphus CCD, Allen County, Kentucky",-666666666.0,003,90024,21
+2100393136,"Settle CCD, Allen County, Kentucky",-666666666.0,003,93136,21
+2100391760,"Holland CCD, Allen County, Kentucky",-666666666.0,003,91760,21
+2100391560,"Halfway CCD, Allen County, Kentucky",-666666666.0,003,91560,21
+2101792576,"North Middletown CCD, Bourbon County, Kentucky",-666666666.0,017,92576,21
+2101792328,"Millersburg CCD, Bourbon County, Kentucky",-666666666.0,017,92328,21
+2101792680,"Paris CCD, Bourbon County, Kentucky",-666666666.0,017,92680,21
+2101990632,"Catlettsburg CCD, Boyd County, Kentucky",-666666666.0,019,90632,21
+2101990104,"Ashland CCD, Boyd County, Kentucky",-666666666.0,019,90104,21
+2101990576,"Cannonsburg CCD, Boyd County, Kentucky",-666666666.0,019,90576,21
+2102991296,"Fort Knox CCD, Bullitt County, Kentucky",-666666666.0,029,91296,21
+2102993168,"Shepherdsville Southeast CCD, Bullitt County, Kentucky",-666666666.0,029,93168,21
+2102993160,"Shepherdsville Northwest CCD, Bullitt County, Kentucky",66767.0,029,93160,21
+2102992008,"Lebanon Junction CCD, Bullitt County, Kentucky",-666666666.0,029,92008,21
+2102992440,"Mount Washington CCD, Bullitt County, Kentucky",-666666666.0,029,92440,21
+2105592240,"Marion CCD, Crittenden County, Kentucky",-666666666.0,055,92240,21
+2107591360,"Fulton CCD, Fulton County, Kentucky",-666666666.0,075,91360,21
+2107591712,"Hickman CCD, Fulton County, Kentucky",-666666666.0,075,91712,21
+2111591256,"Flatgap CCD, Johnson County, Kentucky",-666666666.0,115,91256,21
+2111592600,"Oil Springs CCD, Johnson County, Kentucky",-666666666.0,115,92600,21
+2111592672,"Paintsville CCD, Johnson County, Kentucky",-666666666.0,115,92672,21
+2111592560,"Nippa CCD, Johnson County, Kentucky",-666666666.0,115,92560,21
+2111991736,"Hindman CCD, Knott County, Kentucky",-666666666.0,119,91736,21
+2111992448,"Mousie CCD, Knott County, Kentucky",-666666666.0,119,92448,21
+2111990600,"Carr Fork CCD, Knott County, Kentucky",-666666666.0,119,90600,21
+2111991160,"Emmalena CCD, Knott County, Kentucky",-666666666.0,119,91160,21
+2116591344,"Frenchburg CCD, Menifee County, Kentucky",-666666666.0,165,91344,21
+2117591456,"Grassy Creek CCD, Morgan County, Kentucky",-666666666.0,175,91456,21
+2117593656,"West Liberty CCD, Morgan County, Kentucky",-666666666.0,175,93656,21
+2117593776,"Wrigley CCD, Morgan County, Kentucky",-666666666.0,175,93776,21
+2117590568,"Cannel City CCD, Morgan County, Kentucky",-666666666.0,175,90568,21
+2117792736,"Penrod CCD, Muhlenberg County, Kentucky",-666666666.0,177,92736,21
+2117790352,"Bremen CCD, Muhlenberg County, Kentucky",-666666666.0,177,90352,21
+2117790680,"Central City CCD, Muhlenberg County, Kentucky",-666666666.0,177,90680,21
+2117791080,"Drakesboro CCD, Muhlenberg County, Kentucky",-666666666.0,177,91080,21
+2117791520,"Greenville CCD, Muhlenberg County, Kentucky",-666666666.0,177,91520,21
+2117792952,"Rosewood CCD, Muhlenberg County, Kentucky",-666666666.0,177,92952,21
+2119391648,"Hazard CCD, Perry County, Kentucky",-666666666.0,193,91648,21
+2119391944,"Krypton CCD, Perry County, Kentucky",-666666666.0,193,91944,21
+2119390992,"Daisy CCD, Perry County, Kentucky",-666666666.0,193,90992,21
+2119390408,"Buckhorn CCD, Perry County, Kentucky",-666666666.0,193,90408,21
+2119393576,"Viper CCD, Perry County, Kentucky",-666666666.0,193,93576,21
+2119391032,"Defiance-Vicco CCD, Perry County, Kentucky",-666666666.0,193,91032,21
+2119391048,"Dice CCD, Perry County, Kentucky",-666666666.0,193,91048,21
+2119992488,"Nancy CCD, Pulaski County, Kentucky",-666666666.0,199,92488,21
+2119992432,"Mount Victory CCD, Pulaski County, Kentucky",-666666666.0,199,92432,21
+2119991176,"Eubank CCD, Pulaski County, Kentucky",-666666666.0,199,91176,21
+2119993184,"Shopville CCD, Pulaski County, Kentucky",-666666666.0,199,93184,21
+2119993256,"Somerset CCD, Pulaski County, Kentucky",37321.0,199,93256,21
+2119993104,"Science Hill CCD, Pulaski County, Kentucky",-666666666.0,199,93104,21
+2119990456,"Burnside CCD, Pulaski County, Kentucky",-666666666.0,199,90456,21
+2123792208,"Malaga CCD, Wolfe County, Kentucky",-666666666.0,237,92208,21
+2123791656,"Hazel Green CCD, Wolfe County, Kentucky",-666666666.0,237,91656,21
+2123790544,"Campton CCD, Wolfe County, Kentucky",-666666666.0,237,90544,21
+2105190096,"Ashers Fork CCD, Clay County, Kentucky",-666666666.0,051,90096,21
+2105190448,"Burning Springs CCD, Clay County, Kentucky",-666666666.0,051,90448,21
+2105192616,"Oneida CCD, Clay County, Kentucky",-666666666.0,051,92616,21
+2105190248,"Big Creek CCD, Clay County, Kentucky",-666666666.0,051,90248,21
+2105192216,"Manchester CCD, Clay County, Kentucky",-666666666.0,051,92216,21
+2105193200,"Sibert-Hima CCD, Clay County, Kentucky",-666666666.0,051,93200,21
+2100193680,"White Oak CCD, Adair County, Kentucky",-666666666.0,001,93680,21
+2100190624,"Casey Creek CCD, Adair County, Kentucky",-666666666.0,001,90624,21
+2100191416,"Glens Fork CCD, Adair County, Kentucky",-666666666.0,001,91416,21
+2100191432,"Gradyville CCD, Adair County, Kentucky",-666666666.0,001,91432,21
+2100190552,"Cane Valley CCD, Adair County, Kentucky",-666666666.0,001,90552,21
+2101392808,"Pineville CCD, Bell County, Kentucky",-666666666.0,013,92808,21
+2100190784,"Columbia CCD, Adair County, Kentucky",-666666666.0,001,90784,21
+2101391920,"Kentucky Ridge CCD, Bell County, Kentucky",-666666666.0,013,91920,21
+2101392304,"Middlesborough CCD, Bell County, Kentucky",-666666666.0,013,92304,21
+2101393456,"Tejay CCD, Bell County, Kentucky",-666666666.0,013,93456,21
+2101392864,"Pruden-Fonde CCD, Bell County, Kentucky",-666666666.0,013,92864,21
+2102591552,"Haddix CCD, Breathitt County, Kentucky",-666666666.0,025,91552,21
+2102591848,"Jackson CCD, Breathitt County, Kentucky",-666666666.0,025,91848,21
+2102593440,"Taulbee CCD, Breathitt County, Kentucky",-666666666.0,025,93440,21
+2102590584,"Canoe CCD, Breathitt County, Kentucky",-666666666.0,025,90584,21
+2102591592,"Hardshell CCD, Breathitt County, Kentucky",-666666666.0,025,91592,21
+2102592592,"Oakdale CCD, Breathitt County, Kentucky",-666666666.0,025,92592,21
+2102592960,"Rousseau CCD, Breathitt County, Kentucky",-666666666.0,025,92960,21
+2105790432,"Burkesville CCD, Cumberland County, Kentucky",-666666666.0,057,90432,21
+2108393752,"Wingo-Water Valley CCD, Graves County, Kentucky",-666666666.0,083,93752,21
+2108393128,"Sedalia CCD, Graves County, Kentucky",-666666666.0,083,93128,21
+2108391216,"Farmington CCD, Graves County, Kentucky",-666666666.0,083,91216,21
+2108391208,"Fancy Farm CCD, Graves County, Kentucky",-666666666.0,083,91208,21
+2108392256,"Mayfield CCD, Graves County, Kentucky",-666666666.0,083,92256,21
+2108393432,"Symsonia CCD, Graves County, Kentucky",-666666666.0,083,93432,21
+2109991600,"Hardyville CCD, Hart County, Kentucky",-666666666.0,099,91600,21
+2109991568,"Hammonville CCD, Hart County, Kentucky",-666666666.0,099,91568,21
+2109990280,"Bonnieville CCD, Hart County, Kentucky",-666666666.0,099,90280,21
+2109992472,"Munfordville CCD, Hart County, Kentucky",-666666666.0,099,92472,21
+2109991784,"Horse Cave CCD, Hart County, Kentucky",-666666666.0,099,91784,21
+2112990184,"Beattyville CCD, Lee County, Kentucky",-666666666.0,129,90184,21
+2112993024,"St. Helens CCD, Lee County, Kentucky",-666666666.0,129,93024,21
+2115590320,"Bradfordsville CCD, Marion County, Kentucky",-666666666.0,155,90320,21
+2113593560,"Vanceburg CCD, Lewis County, Kentucky",-666666666.0,135,93560,21
+2115592536,"New Market CCD, Marion County, Kentucky",-666666666.0,155,92536,21
+2115592896,"Raywick CCD, Marion County, Kentucky",-666666666.0,155,92896,21
+2115592000,"Lebanon CCD, Marion County, Kentucky",-666666666.0,155,92000,21
+2115592088,"Loretto CCD, Marion County, Kentucky",-666666666.0,155,92088,21
+2115593032,"St. Mary CCD, Marion County, Kentucky",-666666666.0,155,93032,21
+2115591464,"Gravel Switch CCD, Marion County, Kentucky",-666666666.0,155,91464,21
+2122190480,"Cadiz CCD, Trigg County, Kentucky",-666666666.0,221,90480,21
+2123993568,"Versailles CCD, Woodford County, Kentucky",109219.0,239,93568,21
+2123992312,"Midway CCD, Woodford County, Kentucky",-666666666.0,239,92312,21
+2101591272,"Florence CCD, Boone County, Kentucky",63420.0,015,91272,21
+2101590440,"Burlington CCD, Boone County, Kentucky",-666666666.0,015,90440,21
+2101591680,"Hebron CCD, Boone County, Kentucky",163000.0,015,91680,21
+2101593592,"Walton CCD, Boone County, Kentucky",-666666666.0,015,93592,21
+2113192456,"Mozelle CCD, Leslie County, Kentucky",-666666666.0,131,92456,21
+2113190976,"Cutshin CCD, Leslie County, Kentucky",-666666666.0,131,90976,21
+2113191800,"Hyden CCD, Leslie County, Kentucky",250001.0,131,91800,21
+2111391912,"Keene CCD, Jessamine County, Kentucky",-666666666.0,113,91912,21
+2111393736,"Wilmore CCD, Jessamine County, Kentucky",30855.0,113,93736,21
+2111392552,"Nicholasville CCD, Jessamine County, Kentucky",62241.0,113,92552,21
+2112191400,"Girdler CCD, Knox County, Kentucky",-666666666.0,121,91400,21
+2112190824,"Corbin CCD, Knox County, Kentucky",-666666666.0,121,90824,21
+2112193520,"Trosper CCD, Knox County, Kentucky",-666666666.0,121,93520,21
+2112191040,"Dewitt CCD, Knox County, Kentucky",-666666666.0,121,91040,21
+2112191472,"Gray CCD, Knox County, Kentucky",-666666666.0,121,91472,21
+2112190144,"Barbourville CCD, Knox County, Kentucky",-666666666.0,121,90144,21
+2112793640,"Webbville CCD, Lawrence County, Kentucky",-666666666.0,127,93640,21
+2112790264,"Blaine CCD, Lawrence County, Kentucky",-666666666.0,127,90264,21
+2112792096,"Louisa CCD, Lawrence County, Kentucky",-666666666.0,127,92096,21
+2103192392,"Morgantown CCD, Butler County, Kentucky",-666666666.0,031,92392,21
+2103191888,"Jetson CCD, Butler County, Kentucky",-666666666.0,031,91888,21
+2103193392,"Sugar Grove CCD, Butler County, Kentucky",-666666666.0,031,93392,21
+2103192936,"Rochester CCD, Butler County, Kentucky",-666666666.0,031,92936,21
+2106190368,"Brownsville CCD, Edmonson County, Kentucky",-666666666.0,061,90368,21
+2103193648,"Welchs Creek CCD, Butler County, Kentucky",-666666666.0,031,93648,21
+2122390208,"Bedford CCD, Trimble County, Kentucky",-666666666.0,223,90208,21
+2122392352,"Milton CCD, Trimble County, Kentucky",-666666666.0,223,92352,21
+2106193424,"Sunfish CCD, Edmonson County, Kentucky",-666666666.0,061,93424,21
+2106190376,"Brownsville North CCD, Edmonson County, Kentucky",-666666666.0,061,90376,21
+2109790240,"Berry West CCD, Harrison County, Kentucky",-666666666.0,097,90240,21
+2110590752,"Clinton CCD, Hickman County, Kentucky",-666666666.0,105,90752,21
+2109790984,"Cynthiana CCD, Harrison County, Kentucky",-666666666.0,097,90984,21
+2109790232,"Berry CCD, Harrison County, Kentucky",-666666666.0,097,90232,21
+2110590792,"Columbus CCD, Hickman County, Kentucky",-666666666.0,105,90792,21
+2102390360,"Brooksville CCD, Bracken County, Kentucky",-666666666.0,023,90360,21
+2102391304,"Foster CCD, Bracken County, Kentucky",-666666666.0,023,91304,21
+2102390128,"Augusta CCD, Bracken County, Kentucky",-666666666.0,023,90128,21
+2114393272,"Southeast Lyon CCD, Lyon County, Kentucky",-666666666.0,143,93272,21
+2114391104,"Eddyville CCD, Lyon County, Kentucky",-666666666.0,143,91104,21
+2117990152,"Bardstown CCD, Nelson County, Kentucky",-666666666.0,179,90152,21
+2117990272,"Bloomfield CCD, Nelson County, Kentucky",-666666666.0,179,90272,21
+2117990304,"Boston CCD, Nelson County, Kentucky",-666666666.0,179,90304,21
+2117990880,"Coxs Creek CCD, Nelson County, Kentucky",-666666666.0,179,90880,21
+2117992520,"New Haven CCD, Nelson County, Kentucky",-666666666.0,179,92520,21
+2123192344,"Mill Springs CCD, Wayne County, Kentucky",-666666666.0,231,92344,21
+2123193792,"Zula-Powersburg CCD, Wayne County, Kentucky",-666666666.0,231,93792,21
+2123191528,"Gregory CCD, Wayne County, Kentucky",-666666666.0,231,91528,21
+2123190816,"Coopersville CCD, Wayne County, Kentucky",-666666666.0,231,90816,21
+2123192368,"Monticello CCD, Wayne County, Kentucky",-666666666.0,231,92368,21
+2113591376,"Garrison CCD, Lewis County, Kentucky",-666666666.0,135,91376,21
+2113591984,"Laurel-Petersville CCD, Lewis County, Kentucky",-666666666.0,135,91984,21
+2113593480,"Tollesboro CCD, Lewis County, Kentucky",-666666666.0,135,93480,21
+2105593265,"South Crittenden CCD, Crittenden County, Kentucky",-666666666.0,055,93265,21
+2104393552,"Upper Tygart CCD, Carter County, Kentucky",-666666666.0,043,93552,21
+2105591098,"East Crittenden CCD, Crittenden County, Kentucky",-666666666.0,055,91098,21
+2105791924,"Kettle-Peytonsburg CCD, Cumberland County, Kentucky",-666666666.0,057,91924,21
+2109391298,"Fort Knox CCD, Hardin County, Kentucky",128068.0,093,91298,21
+2114591436,"Grahamville-Heath CCD, McCracken County, Kentucky",-666666666.0,145,91436,21
+2114593028,"St. Johns-Freemont CCD, McCracken County, Kentucky",-666666666.0,145,93028,21
+2114590516,"Camelia CCD, McCracken County, Kentucky",-666666666.0,145,90516,21
+2104991278,"Ford-Boonesborough CCD, Clark County, Kentucky",-666666666.0,049,91278,21
+2104993269,"Southeast Clark CCD, Clark County, Kentucky",-666666666.0,049,93269,21
+2108391722,"Hickory-Lowes CCD, Graves County, Kentucky",-666666666.0,083,91722,21
+2111192820,"Pond Creek CCD, Jefferson County, Kentucky",59244.0,111,92820,21
+2111193267,"South Dixie CCD, Jefferson County, Kentucky",-666666666.0,111,93267,21
+2111192572,"North Dixie CCD, Jefferson County, Kentucky",-666666666.0,111,92572,21
+2112790744,"Clifford CCD, Lawrence County, Kentucky",-666666666.0,127,90744,21
+2112790016,"Adams CCD, Lawrence County, Kentucky",-666666666.0,127,90016,21
+2113393688,"Whitesburg CCD, Letcher County, Kentucky",145938.0,133,93688,21
+2113391880,"Jenkins CCD, Letcher County, Kentucky",-666666666.0,133,91880,21
+2113390256,"Blackey CCD, Letcher County, Kentucky",-666666666.0,133,90256,21
+2113390776,"Colson CCD, Letcher County, Kentucky",-666666666.0,133,90776,21
+2113391168,"Eolia CCD, Letcher County, Kentucky",-666666666.0,133,91168,21
+2113993040,"Salem CCD, Livingston County, Kentucky",-666666666.0,139,93040,21
+2113993240,"Smithland CCD, Livingston County, Kentucky",-666666666.0,139,93240,21
+2114592648,"Paducah CCD, McCracken County, Kentucky",-666666666.0,145,92648,21
+2119591232,"Fedscreek CCD, Pike County, Kentucky",-666666666.0,195,91232,21
+2119593304,"South Williamson CCD, Pike County, Kentucky",-666666666.0,195,93304,21
+2119592264,"Mayflower CCD, Pike County, Kentucky",-666666666.0,195,92264,21
+2119592872,"Raccoon CCD, Pike County, Kentucky",-666666666.0,195,92872,21
+2119592768,"Pikeville CCD, Pike County, Kentucky",-666666666.0,195,92768,21
+2119592080,"Long Fork CCD, Pike County, Kentucky",-666666666.0,195,92080,21
+2119592112,"McCarr CCD, Pike County, Kentucky",-666666666.0,195,92112,21
+2119592928,"Robinson Creek CCD, Pike County, Kentucky",-666666666.0,195,92928,21
+2119593208,"Sidney CCD, Pike County, Kentucky",-666666666.0,195,93208,21
+2119590088,"Ashcamp CCD, Pike County, Kentucky",-666666666.0,195,90088,21
+2119591072,"Dorton CCD, Pike County, Kentucky",-666666666.0,195,91072,21
+2119591136,"Elkhorn City CCD, Pike County, Kentucky",-666666666.0,195,91136,21
+2119592320,"Millard CCD, Pike County, Kentucky",-666666666.0,195,92320,21
+2119592760,"Phelps CCD, Pike County, Kentucky",-666666666.0,195,92760,21
+2119591696,"Hellier CCD, Pike County, Kentucky",-666666666.0,195,91696,21
+2121191616,"Harrisonville CCD, Shelby County, Kentucky",-666666666.0,211,91616,21
+2121193232,"Simpsonville CCD, Shelby County, Kentucky",-666666666.0,211,93232,21
+2121193152,"Shelbyville CCD, Shelby County, Kentucky",-666666666.0,211,93152,21
+2121190696,"Christianburg CCD, Shelby County, Kentucky",-666666666.0,211,90696,21
+2123593712,"Williamsburg CCD, Whitley County, Kentucky",-666666666.0,235,93712,21
+2123590832,"Corbin CCD, Whitley County, Kentucky",-666666666.0,235,90832,21
+2123593096,"Saxton CCD, Whitley County, Kentucky",-666666666.0,235,93096,21
+2123593216,"Siler CCD, Whitley County, Kentucky",-666666666.0,235,93216,21
+2123592712,"Pearl CCD, Whitley County, Kentucky",-666666666.0,235,92712,21
+2123590952,"Cumberland Falls CCD, Whitley County, Kentucky",-666666666.0,235,90952,21
+2100591992,"Lawrenceburg CCD, Anderson County, Kentucky",-666666666.0,005,91992,21
+2102791584,"Hardinsburg CCD, Breckinridge County, Kentucky",-666666666.0,027,91584,21
+2102790760,"Cloverport CCD, Breckinridge County, Kentucky",-666666666.0,027,90760,21
+2102791824,"Irvington CCD, Breckinridge County, Kentucky",-666666666.0,027,91824,21
+2107192832,"Prestonsburg CCD, Floyd County, Kentucky",-666666666.0,071,92832,21
+2107193624,"Wayland CCD, Floyd County, Kentucky",-666666666.0,071,93624,21
+2107193672,"Wheelwright-Weeksbury CCD, Floyd County, Kentucky",-666666666.0,071,93672,21
+2107192136,"McDowell CCD, Floyd County, Kentucky",-666666666.0,071,92136,21
+2107390136,"Bald Knob CCD, Franklin County, Kentucky",-666666666.0,073,90136,21
+2107392704,"Peaks Mill CCD, Franklin County, Kentucky",-666666666.0,073,92704,21
+2107391320,"Frankfort CCD, Franklin County, Kentucky",60563.0,073,91320,21
+2111790864,"Covington CCD, Kenton County, Kentucky",60262.0,117,90864,21
+2111791808,"Independence CCD, Kenton County, Kentucky",105129.0,117,91808,21
+2111792800,"Piner-Visalia CCD, Kenton County, Kentucky",-666666666.0,117,92800,21
+2114793368,"Stearns-Whitley City CCD, McCreary County, Kentucky",-666666666.0,147,93368,21
+2114792688,"Parkers Lake CCD, McCreary County, Kentucky",-666666666.0,147,92688,21
+2114792784,"Pine Knot CCD, McCreary County, Kentucky",-666666666.0,147,92784,21
+2114790808,"Co-operative CCD, McCreary County, Kentucky",-666666666.0,147,90808,21
+2115190224,"Berea CCD, Madison County, Kentucky",-666666666.0,151,90224,21
+2115192912,"Richmond CCD, Madison County, Kentucky",91090.0,151,92912,21
+2115190856,"Cottonburg-Valley View CCD, Madison County, Kentucky",-666666666.0,151,90856,21
+2115392968,"Royalton CCD, Magoffin County, Kentucky",-666666666.0,153,92968,21
+2115393072,"Salyersville CCD, Magoffin County, Kentucky",-666666666.0,153,93072,21
+2116993400,"Summer Shade CCD, Metcalfe County, Kentucky",-666666666.0,169,93400,21
+2116990664,"Center CCD, Metcalfe County, Kentucky",-666666666.0,169,90664,21
+2116991112,"Edmonton CCD, Metcalfe County, Kentucky",-666666666.0,169,91112,21
+2118993376,"Sturgeon CCD, Owsley County, Kentucky",-666666666.0,189,93376,21
+2118990296,"Booneville CCD, Owsley County, Kentucky",-666666666.0,189,90296,21
+2118990872,"Cowcreek CCD, Owsley County, Kentucky",-666666666.0,189,90872,21
+2120592376,"Morehead CCD, Rowan County, Kentucky",-666666666.0,205,92376,21
+2121391328,"Franklin CCD, Simpson County, Kentucky",-666666666.0,213,91328,21
+2121792224,"Mannsville CCD, Taylor County, Kentucky",-666666666.0,217,92224,21
+2121790528,"Campbellsville CCD, Taylor County, Kentucky",-666666666.0,217,90528,21
+2121793048,"Saloma CCD, Taylor County, Kentucky",-666666666.0,217,93048,21
+2104993744,"Winchester CCD, Clark County, Kentucky",-666666666.0,049,93744,21
+2121991144,"Elkton CCD, Todd County, Kentucky",-666666666.0,219,91144,21
+2121993504,"Trenton CCD, Todd County, Kentucky",-666666666.0,219,93504,21
+2121991544,"Guthrie CCD, Todd County, Kentucky",-666666666.0,219,91544,21
+2108993784,"Wurtland CCD, Greenup County, Kentucky",-666666666.0,089,93784,21
+2106991264,"Flemingsburg CCD, Fleming County, Kentucky",-666666666.0,069,91264,21
+2108991512,"Greenup CCD, Greenup County, Kentucky",-666666666.0,089,91512,21
+2106991728,"Hillsboro CCD, Fleming County, Kentucky",-666666666.0,069,91728,21
+2106991184,"Ewing CCD, Fleming County, Kentucky",-666666666.0,069,91184,21
+2103791448,"Grants Lick CCD, Campbell County, Kentucky",-666666666.0,037,91448,21
+2103790040,"Alexandria CCD, Campbell County, Kentucky",-666666666.0,037,90040,21
+2104391440,"Grahn CCD, Carter County, Kentucky",-666666666.0,043,91440,21
+2104390616,"Carter CCD, Carter County, Kentucky",-666666666.0,043,90616,21
+2104392608,"Olive Hill CCD, Carter County, Kentucky",-666666666.0,043,92608,21
+2104393704,"Willard CCD, Carter County, Kentucky",-666666666.0,043,93704,21
+2104391480,"Grayson CCD, Carter County, Kentucky",-666666666.0,043,91480,21
+2108193720,"Williamstown-Dry Ridge CCD, Grant County, Kentucky",-666666666.0,081,93720,21
+2106391840,"Isonville CCD, Elliott County, Kentucky",-666666666.0,063,91840,21
+2106393088,"Sandy Hook CCD, Elliott County, Kentucky",-666666666.0,063,93088,21
+2108190896,"Crittenden CCD, Grant County, Kentucky",-666666666.0,081,90896,21
+2108190840,"Corinth CCD, Grant County, Kentucky",-666666666.0,081,90840,21
+2111192109,"Louisville South CCD, Jefferson County, Kentucky",48996.0,111,92109,21
+2111192108,"Louisville East CCD, Jefferson County, Kentucky",73207.0,111,92108,21
+2111192110,"Louisville West CCD, Jefferson County, Kentucky",-666666666.0,111,92110,21
+2111192106,"Louisville Central CCD, Jefferson County, Kentucky",41107.0,111,92106,21
+2112392192,"Magnolia-Upton CCD, Larue County, Kentucky",-666666666.0,123,92192,21
+2112391752,"Hodgenville CCD, Larue County, Kentucky",-666666666.0,123,91752,21
+2112390416,"Buffalo CCD, Larue County, Kentucky",-666666666.0,123,90416,21
+2114190008,"Adairville CCD, Logan County, Kentucky",-666666666.0,141,90008,21
+2114192024,"Lewisburg CCD, Logan County, Kentucky",-666666666.0,141,92024,21
+2114192992,"Russellville CCD, Logan County, Kentucky",-666666666.0,141,92992,21
+2114190120,"Auburn CCD, Logan County, Kentucky",-666666666.0,141,90120,21
+2116192272,"Mays Lick CCD, Mason County, Kentucky",-666666666.0,161,92272,21
+2116192280,"Maysville CCD, Mason County, Kentucky",-666666666.0,161,92280,21
+2111192105,"Louisville Airport CCD, Jefferson County, Kentucky",-666666666.0,111,92105,21
+2111190683,"Central Jefferson CCD, Jefferson County, Kentucky",34239.0,111,90683,21
+2111193270,"Southeast Jefferson CCD, Jefferson County, Kentucky",66881.0,111,93270,21
+2111191099,"East Jefferson CCD, Jefferson County, Kentucky",66324.0,111,91099,21
+2111192573,"Northeast Jefferson CCD, Jefferson County, Kentucky",142222.0,111,92573,21
+2111191276,"Floyds Fork CCD, Jefferson County, Kentucky",93712.0,111,91276,21
+2111193283,"South Jefferson CCD, Jefferson County, Kentucky",71125.0,111,93283,21
+2105593650,"West Crittenden CCD, Crittenden County, Kentucky",-666666666.0,055,93650,21
+2111990196,"Beaver Creek CCD, Knott County, Kentucky",-666666666.0,119,90196,21
+2116593662,"West Menifee CCD, Menifee County, Kentucky",-666666666.0,165,93662,21
+2104591052,"Dividing Ridge CCD, Casey County, Kentucky",-666666666.0,045,91052,21
+2122791556,"Hadley-Browning CCD, Warren County, Kentucky",-666666666.0,227,91556,21
+2122790060,"Alvaton CCD, Warren County, Kentucky",-666666666.0,227,90060,21
+2122793084,"Sand Hill-Girkin CCD, Warren County, Kentucky",-666666666.0,227,93084,21
+2101990113,"Ashland South CCD, Boyd County, Kentucky",-666666666.0,019,90113,21
+2121593668,"West Spencer CCD, Spencer County, Kentucky",-666666666.0,215,93668,21
+2115393660,"West Magoffin CCD, Magoffin County, Kentucky",-666666666.0,153,93660,21
+2108993290,"South Shore CCD, Greenup County, Kentucky",-666666666.0,089,93290,21
+2108991260,"Flatwoods-Russell CCD, Greenup County, Kentucky",143750.0,089,91260,21
+2108993530,"Tygarts Valley CCD, Greenup County, Kentucky",-666666666.0,089,93530,21
+2112993294,"Southwest Lee CCD, Lee County, Kentucky",-666666666.0,129,93294,21
+2117591132,"Elkfork-Ophir CCD, Morgan County, Kentucky",-666666666.0,175,91132,21
+2105993692,"Whitesville-Philpot CCD, Daviess County, Kentucky",-666666666.0,059,93692,21
+2105993556,"Utica-Stanley CCD, Daviess County, Kentucky",-666666666.0,059,93556,21
+2115193578,"Waco-Bybee CCD, Madison County, Kentucky",-666666666.0,151,93578,21
+2115190290,"Boonesborough-White Hall CCD, Madison County, Kentucky",-666666666.0,151,90290,21
+2115191940,"Kirksville CCD, Madison County, Kentucky",-666666666.0,151,91940,21
+2114391978,"Land Between the Lakes CCD, Lyon County, Kentucky",-666666666.0,143,91978,21
+2112190396,"Bryants Store CCD, Knox County, Kentucky",-666666666.0,121,90396,21
+2107192244,"Martin-Allen CCD, Floyd County, Kentucky",-666666666.0,071,92244,21
+2107190244,"Betsy Layne-Stanville CCD, Floyd County, Kentucky",-666666666.0,071,90244,21
+2107191540,"Grethel-Teaberry CCD, Floyd County, Kentucky",-666666666.0,071,91540,21
+2107192919,"Risner CCD, Floyd County, Kentucky",-666666666.0,071,92919,21
+2103591658,"Hazel-Lynn Grove CCD, Calloway County, Kentucky",-666666666.0,035,91658,21
+2100592580,"Northwest Anderson CCD, Anderson County, Kentucky",-666666666.0,005,92580,21
+2100593292,"Southwest Anderson CCD, Anderson County, Kentucky",-666666666.0,005,93292,21
+2115991812,"Inez CCD, Martin County, Kentucky",-666666666.0,159,91812,21
+2115993472,"Threeforks CCD, Martin County, Kentucky",-666666666.0,159,93472,21
+2106593756,"Winston-West Irvine CCD, Estill County, Kentucky",-666666666.0,065,93756,21
+2106593580,"Wagersville-South Irvine CCD, Estill County, Kentucky",-666666666.0,065,93580,21
+2106792038,"Lexington-Fayette Southwest CCD, Fayette County, Kentucky",82877.0,067,92038,21
+2106792037,"Lexington-Fayette Southeast CCD, Fayette County, Kentucky",66273.0,067,92037,21
+2106792036,"Lexington-Fayette Northwest CCD, Fayette County, Kentucky",-666666666.0,067,92036,21
+2106792035,"Lexington-Fayette Northeast CCD, Fayette County, Kentucky",68839.0,067,92035,21
+2106792034,"Lexington-Fayette Central CCD, Fayette County, Kentucky",28696.0,067,92034,21
+2104792596,"Oak Grove-Pembroke CCD, Christian County, Kentucky",-666666666.0,047,92596,21
+2102792134,"McDaniels-Hudson CCD, Breckinridge County, Kentucky",-666666666.0,027,92134,21
+2102791412,"Glen Dean-Vanzant CCD, Breckinridge County, Kentucky",-666666666.0,027,91412,21
+2109593545,"Upper Clover Fork CCD, Harlan County, Kentucky",-666666666.0,095,93545,21

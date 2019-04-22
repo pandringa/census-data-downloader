@@ -1,0 +1,213 @@
+geoid,name,median,male,female,county,county subdivision,state
+4106991938,"Mitchell CCD, Wheeler County, Oregon",59.7,59.3,60.3,069,91938,41
+4104991411,"Ione-Lexington CCD, Morrow County, Oregon",43.9,45.8,40.4,049,91411,41
+4104990323,"Boardman CCD, Morrow County, Oregon",37.7,37.2,38.2,049,90323,41
+4104991309,"Heppner CCD, Morrow County, Oregon",42.0,36.8,47.0,049,91309,41
+4100792839,"Seaside CCD, Clatsop County, Oregon",44.2,43.3,44.4,007,92839,41
+4100790153,"Astoria CCD, Clatsop County, Oregon",43.8,41.7,46.0,007,90153,41
+4100791598,"Knappa-Brownsmead CCD, Clatsop County, Oregon",44.3,44.3,44.1,007,91598,41
+4100791445,"Jewell CCD, Clatsop County, Oregon",47.4,49.9,44.4,007,91445,41
+4101192567,"Powers CCD, Coos County, Oregon",55.2,50.7,58.0,011,92567,41
+4101190221,"Bandon CCD, Coos County, Oregon",56.8,58.0,55.4,011,90221,41
+4101192074,"Myrtle Point CCD, Coos County, Oregon",55.5,50.5,56.5,011,92074,41
+4101190629,"Coos Bay CCD, Coos County, Oregon",43.7,40.7,45.7,011,90629,41
+4101191003,"Eastside CCD, Coos County, Oregon",51.5,51.9,51.2,011,91003,41
+4101190646,"Coquille CCD, Coos County, Oregon",50.3,49.7,51.0,011,90646,41
+4101192159,"North Bayside CCD, Coos County, Oregon",52.6,52.8,52.6,011,92159,41
+4101592533,"Port Orford CCD, Curry County, Oregon",57.2,56.9,57.3,015,92533,41
+4101590051,"Agness CCD, Curry County, Oregon",-666666666.0,-666666666.0,-666666666.0,015,90051,41
+4101590357,"Brookings CCD, Curry County, Oregon",53.1,52.9,53.2,015,90357,41
+4101591207,"Gold Beach CCD, Curry County, Oregon",53.5,49.8,58.1,015,91207,41
+4101591275,"Harbor CCD, Curry County, Oregon",58.5,56.6,60.6,015,91275,41
+4102190612,"Condon CCD, Gilliam County, Oregon",55.0,54.0,57.1,021,90612,41
+4102190102,"Arlington CCD, Gilliam County, Oregon",41.0,41.7,36.9,021,90102,41
+4102792431,"Parkdale CCD, Hood River County, Oregon",37.1,33.2,41.1,027,92431,41
+4102792380,"Odell CCD, Hood River County, Oregon",37.7,37.2,37.9,027,92380,41
+4102790850,"Dee CCD, Hood River County, Oregon",47.1,44.5,49.5,027,90850,41
+4102790476,"Cascade Locks CCD, Hood River County, Oregon",49.5,41.2,51.5,027,90476,41
+4102791343,"Hood River CCD, Hood River County, Oregon",38.7,39.1,38.4,027,91343,41
+4103792924,"Silver Lake-Fort Rock CCD, Lake County, Oregon",57.6,63.2,54.9,037,92924,41
+4103793417,"Warner Valley CCD, Lake County, Oregon",44.5,48.2,40.7,037,93417,41
+4103793145,"Summer Lake CCD, Lake County, Oregon",51.1,50.4,51.3,037,93145,41
+4103791632,"Lakeview CCD, Lake County, Oregon",44.9,43.6,48.4,037,91632,41
+4105190663,"Corbett CCD, Multnomah County, Oregon",49.8,51.3,49.4,051,90663,41
+4105192975,"Skyline CCD, Multnomah County, Oregon",52.2,52.1,52.5,051,92975,41
+4106190714,"Cove CCD, Union County, Oregon",44.0,47.6,41.3,061,90714,41
+4106193111,"Starkey CCD, Union County, Oregon",63.3,47.6,64.4,061,93111,41
+4106191037,"Elgin CCD, Union County, Oregon",50.6,50.9,50.4,061,91037,41
+4106191615,"La Grande CCD, Union County, Oregon",36.8,34.7,38.7,061,91615,41
+4106193281,"Union CCD, Union County, Oregon",38.8,36.7,44.1,061,93281,41
+4103593594,"Yonna Valley-Poe Valley CCD, Klamath County, Oregon",44.2,36.5,49.3,035,93594,41
+4104790994,"East Marion CCD, Marion County, Oregon",58.0,59.2,57.0,047,90994,41
+4100590272,"Beavercreek CCD, Clackamas County, Oregon",44.6,46.0,44.3,005,90272,41
+4106790510,"Chehalem Mountains CCD, Washington County, Oregon",46.0,48.5,40.3,067,90510,41
+4103591651,"Langell Valley CCD, Klamath County, Oregon",54.8,51.4,57.1,035,91651,41
+4106792678,"Rockcreek CCD, Washington County, Oregon",34.8,34.2,35.3,067,92678,41
+4100193555,"Wingville-Haines CCD, Baker County, Oregon",50.4,52.6,48.2,001,93555,41
+4103991719,"McKenzie River CCD, Lane County, Oregon",57.1,57.9,56.5,039,91719,41
+4103991889,"Middle Siuslaw River-Triangle Lake CCD, Lane County, Oregon",56.0,57.1,55.7,039,91889,41
+4103991147,"Florence CCD, Lane County, Oregon",60.4,60.3,60.4,039,91147,41
+4103990943,"Dunes City CCD, Lane County, Oregon",57.4,53.9,59.5,039,90943,41
+4105991334,"Hermiston-Umatilla CCD, Umatilla County, Oregon",33.3,32.9,33.8,059,91334,41
+4103993300,"Upper Siuslaw River CCD, Lane County, Oregon",51.0,48.9,52.8,039,93300,41
+4101392592,"Prineville CCD, Crook County, Oregon",43.0,43.6,42.7,013,92592,41
+4104192133,"Newport CCD, Lincoln County, Oregon",45.6,45.0,46.4,041,92133,41
+4104191674,"Lincoln City CCD, Lincoln County, Oregon",48.9,46.4,52.8,041,91674,41
+4105991929,"Milton-Freewater CCD, Umatilla County, Oregon",38.7,38.1,40.1,059,91929,41
+4105993270,"Umatilla Reservation CCD, Umatilla County, Oregon",42.8,40.5,44.7,059,93270,41
+4105192518,"Portland East CCD, Multnomah County, Oregon",36.4,36.1,36.7,051,92518,41
+4105192520,"Portland West CCD, Multnomah County, Oregon",39.4,39.5,39.3,051,92520,41
+4105191249,"Gresham CCD, Multnomah County, Oregon",35.8,34.9,36.8,051,91249,41
+4104593442,"West Bench CCD, Malheur County, Oregon",45.0,48.4,43.5,045,93442,41
+4101993153,"Sutherlin CCD, Douglas County, Oregon",49.2,48.2,50.0,019,93153,41
+4105793213,"Tillamook CCD, Tillamook County, Oregon",38.9,39.3,38.7,057,93213,41
+4105792108,"Neskowin CCD, Tillamook County, Oregon",60.7,59.0,61.4,057,92108,41
+4105792091,"Nehalem CCD, Tillamook County, Oregon",59.2,51.3,60.9,057,92091,41
+4107190459,"Carlton CCD, Yamhill County, Oregon",45.1,44.0,46.0,071,90459,41
+4107190816,"Dayton-Amity CCD, Yamhill County, Oregon",36.8,36.8,36.8,071,90816,41
+4107191734,"McMinnville CCD, Yamhill County, Oregon",36.6,36.0,37.5,071,91734,41
+4107192890,"Sheridan CCD, Yamhill County, Oregon",42.1,40.7,43.5,071,92890,41
+4107192125,"Newberg CCD, Yamhill County, Oregon",37.3,36.1,38.5,071,92125,41
+4100191326,"Hereford CCD, Baker County, Oregon",55.6,58.3,50.9,001,91326,41
+4100191258,"Halfway CCD, Baker County, Oregon",53.8,54.9,53.2,001,91258,41
+4100190969,"Eagle Valley CCD, Baker County, Oregon",60.3,60.9,59.4,001,90969,41
+4100191377,"Huntington CCD, Baker County, Oregon",56.8,58.3,56.6,001,91377,41
+4100190204,"Baker City CCD, Baker County, Oregon",43.7,40.8,47.5,001,90204,41
+4103393519,"Williams CCD, Josephine County, Oregon",50.5,48.3,51.2,033,93519,41
+4103390493,"Cave Junction CCD, Josephine County, Oregon",51.0,51.4,50.8,033,90493,41
+4103391241,"Grants Pass CCD, Josephine County, Oregon",45.3,42.3,48.1,033,91241,41
+4103392295,"Northwest Josephine CCD, Josephine County, Oregon",54.9,56.2,53.9,033,92295,41
+4103393485,"Wilderville CCD, Josephine County, Oregon",55.6,56.2,55.0,033,93485,41
+4103590527,"Chiloquin CCD, Klamath County, Oregon",52.7,52.9,50.9,035,90527,41
+4103591581,"Klamath Falls CCD, Klamath County, Oregon",39.7,38.6,40.6,035,91581,41
+4103591870,"Merrill CCD, Klamath County, Oregon",45.9,47.5,45.2,035,91870,41
+4103591785,"Malin CCD, Klamath County, Oregon",33.5,30.5,34.5,035,91785,41
+4103591564,"Keno CCD, Klamath County, Oregon",53.1,53.2,53.0,035,91564,41
+4103590731,"Crescent Lake CCD, Klamath County, Oregon",53.1,53.1,53.0,035,90731,41
+4105992448,"Pendleton CCD, Umatilla County, Oregon",37.8,36.6,41.1,059,92448,41
+4105992465,"Pilot Rock CCD, Umatilla County, Oregon",46.4,43.3,48.5,059,92465,41
+4105993264,"Umapine CCD, Umatilla County, Oregon",40.1,42.0,39.7,059,93264,41
+4105993451,"Weston CCD, Umatilla County, Oregon",35.6,34.3,39.5,059,93451,41
+4105990170,"Athena CCD, Umatilla County, Oregon",44.4,41.1,49.5,059,90170,41
+4104192907,"Siletz CCD, Lincoln County, Oregon",44.3,44.8,44.2,041,92907,41
+4104193230,"Toledo CCD, Lincoln County, Oregon",43.0,43.0,43.0,041,93230,41
+4104193349,"Waldport CCD, Lincoln County, Oregon",57.9,57.1,58.6,041,93349,41
+4104191020,"Eddyville CCD, Lincoln County, Oregon",54.1,53.9,54.6,041,91020,41
+4104190884,"Depoe Bay CCD, Lincoln County, Oregon",60.1,58.8,60.6,041,90884,41
+4100392142,"North Albany CCD, Benton County, Oregon",45.4,46.1,45.0,003,92142,41
+4100393077,"Southwest Benton CCD, Benton County, Oregon",49.2,49.7,47.0,003,93077,41
+4100390680,"Corvallis CCD, Benton County, Oregon",29.0,27.6,31.0,003,90680,41
+4100393009,"Southeast Benton CCD, Benton County, Oregon",45.5,45.3,45.5,003,93009,41
+4100392176,"North Benton CCD, Benton County, Oregon",45.9,49.6,43.5,003,92176,41
+4100991190,"Goble CCD, Columbia County, Oregon",49.9,50.3,48.9,009,91190,41
+4100992703,"St. Helens CCD, Columbia County, Oregon",42.7,40.9,44.4,009,92703,41
+4100990544,"Clatskanie CCD, Columbia County, Oregon",46.8,47.9,44.2,009,90544,41
+4100992601,"Rainier CCD, Columbia County, Oregon",43.8,43.8,43.7,009,92601,41
+4100992805,"Scappoose CCD, Columbia County, Oregon",41.5,42.3,40.0,009,92805,41
+4100993332,"Vernonia CCD, Columbia County, Oregon",42.8,42.2,43.6,009,93332,41
+4101392550,"Powell Butte CCD, Crook County, Oregon",55.2,54.1,55.6,013,92550,41
+4101390765,"Crooked River CCD, Crook County, Oregon",55.9,55.2,57.4,013,90765,41
+4105591989,"Moro CCD, Sherman County, Oregon",47.6,39.8,50.8,055,91989,41
+4105593434,"Wasco CCD, Sherman County, Oregon",57.0,56.0,59.0,055,93434,41
+4106590935,"Dufur CCD, Wasco County, Oregon",51.3,51.2,51.5,065,90935,41
+4106590085,"Antelope CCD, Wasco County, Oregon",46.6,55.1,41.4,065,90085,41
+4106593196,"The Dalles CCD, Wasco County, Oregon",40.1,38.9,41.7,065,93196,41
+4106593400,"Warm Springs CCD, Wasco County, Oregon",26.6,29.0,24.8,065,93400,41
+4102590918,"Drewsey CCD, Harney County, Oregon",49.0,50.1,47.8,025,90918,41
+4102590391,"Burns CCD, Harney County, Oregon",43.9,42.4,46.3,025,90391,41
+4102590901,"Diamond CCD, Harney County, Oregon",48.8,47.8,51.4,025,90901,41
+4103991700,"Lowell CCD, Lane County, Oregon",48.7,52.1,47.9,039,91700,41
+4103992346,"Oakridge CCD, Lane County, Oregon",52.6,53.1,52.3,039,92346,41
+4103992482,"Pleasant Hill CCD, Lane County, Oregon",45.9,44.5,48.1,039,92482,41
+4103990187,"Badger Mountain CCD, Lane County, Oregon",45.2,45.7,44.5,039,90187,41
+4103991802,"Marcola CCD, Lane County, Oregon",51.5,50.3,52.5,039,91802,41
+4103990697,"Cottage Grove CCD, Lane County, Oregon",45.7,45.2,46.2,039,90697,41
+4103990748,"Creswell CCD, Lane County, Oregon",44.2,43.4,45.1,039,90748,41
+4103991105,"Eugene-Springfield CCD, Lane County, Oregon",36.2,34.4,38.0,039,91105,41
+4103990578,"Coburg CCD, Lane County, Oregon",48.0,48.5,47.4,039,90578,41
+4103991513,"Junction City CCD, Lane County, Oregon",42.8,43.4,42.1,039,91513,41
+4104591479,"Jordan Valley CCD, Malheur County, Oregon",43.5,43.4,43.7,045,91479,41
+4104592414,"Owyhee CCD, Malheur County, Oregon",36.8,36.6,37.0,045,92414,41
+4104590833,"Dead Ox Flat CCD, Malheur County, Oregon",47.1,47.4,46.5,045,90833,41
+4104592329,"Nyssa CCD, Malheur County, Oregon",28.1,26.7,28.5,045,92329,41
+4104593315,"Vale CCD, Malheur County, Oregon",39.1,35.9,44.5,045,93315,41
+4104590017,"Adrian CCD, Malheur County, Oregon",45.0,44.1,46.8,045,90017,41
+4104590340,"Brogan CCD, Malheur County, Oregon",39.5,39.8,36.2,045,90340,41
+4104592397,"Ontario CCD, Malheur County, Oregon",34.1,33.1,34.6,045,92397,41
+4104591768,"Malheur Junction CCD, Malheur County, Oregon",57.1,53.7,61.1,045,91768,41
+4104591530,"Juntura CCD, Malheur County, Oregon",58.8,58.9,57.9,045,91530,41
+4106391394,"Imnaha CCD, Wallowa County, Oregon",62.1,62.8,58.8,063,91394,41
+4106393366,"Wallowa CCD, Wallowa County, Oregon",50.6,53.8,46.7,063,93366,41
+4106391496,"Joseph CCD, Wallowa County, Oregon",52.8,48.7,57.6,063,91496,41
+4106391071,"Enterprise CCD, Wallowa County, Oregon",52.5,51.6,53.4,063,91071,41
+4106391139,"Flora CCD, Wallowa County, Oregon",56.8,63.5,39.9,063,91139,41
+4106790289,"Beaverton-Hillsboro CCD, Washington County, Oregon",36.7,35.8,37.8,067,90289,41
+4106790561,"Coast Range CCD, Washington County, Oregon",42.4,42.5,42.3,067,90561,41
+4106792210,"North Plains CCD, Washington County, Oregon",44.3,43.4,44.9,067,92210,41
+4106791156,"Forest Grove-Cornelius CCD, Washington County, Oregon",33.5,32.4,34.5,067,91156,41
+4106991173,"Fossil CCD, Wheeler County, Oregon",54.3,54.7,54.3,069,91173,41
+4104792737,"Salem CCD, Marion County, Oregon",35.7,34.8,36.7,047,92737,41
+4104793128,"Stayton CCD, Marion County, Oregon",39.6,37.9,40.3,047,93128,41
+4104793570,"Woodburn CCD, Marion County, Oregon",32.4,31.5,33.2,047,93570,41
+4104791428,"Jefferson CCD, Marion County, Oregon",39.0,36.6,41.7,047,91428,41
+4104792720,"St. Paul CCD, Marion County, Oregon",39.6,40.2,38.6,047,92720,41
+4104792006,"Mount Angel CCD, Marion County, Oregon",38.6,34.5,47.6,047,92006,41
+4104792941,"Silverton CCD, Marion County, Oregon",39.7,37.1,42.1,047,92941,41
+4104791360,"Hubbard CCD, Marion County, Oregon",38.9,36.8,40.5,047,91360,41
+4102990119,"Ashland CCD, Jackson County, Oregon",44.6,43.7,46.2,029,90119,41
+4102990408,"Butte Falls-Prospect CCD, Jackson County, Oregon",52.8,50.7,54.9,029,90408,41
+4102991836,"Medford CCD, Jackson County, Oregon",40.1,38.9,41.2,029,91836,41
+4102992771,"Sams Valley CCD, Jackson County, Oregon",49.6,49.0,50.3,029,92771,41
+4102993094,"Southwest Jackson CCD, Jackson County, Oregon",55.6,54.0,56.1,029,93094,41
+4102990952,"Eagle Point CCD, Jackson County, Oregon",37.9,37.9,37.8,029,90952,41
+4102993026,"Southeast Jackson CCD, Jackson County, Oregon",59.0,59.2,58.8,029,93026,41
+4102992278,"Northwest Jackson CCD, Jackson County, Oregon",54.9,52.2,56.6,029,92278,41
+4102992873,"Shady Cove CCD, Jackson County, Oregon",56.5,57.2,55.8,029,92873,41
+4101991054,"Elkton-Drain CCD, Douglas County, Oregon",48.1,47.2,48.6,019,91054,41
+4101992244,"North Umpqua CCD, Douglas County, Oregon",47.7,48.9,45.9,019,92244,41
+4101992652,"Reedsport CCD, Douglas County, Oregon",53.9,50.8,55.2,019,92652,41
+4101993060,"South Umpqua CCD, Douglas County, Oregon",52.8,54.3,50.6,019,93060,41
+4101991853,"Melrose CCD, Douglas County, Oregon",56.9,58.8,55.1,019,91853,41
+4101991547,"Kellogg-Yoncalla CCD, Douglas County, Oregon",53.7,52.1,55.4,019,91547,41
+4101992057,"Myrtle Creek-Riddle CCD, Douglas County, Oregon",45.4,45.3,45.5,019,92057,41
+4101993179,"Tenmile CCD, Douglas County, Oregon",44.8,43.6,45.8,019,93179,41
+4101992686,"Roseburg CCD, Douglas County, Oregon",43.6,40.2,46.1,019,92686,41
+4102391462,"John Day CCD, Grant County, Oregon",50.4,50.5,50.3,023,91462,41
+4102392584,"Prairie City CCD, Grant County, Oregon",53.3,50.8,53.4,023,92584,41
+4102391683,"Long Creek CCD, Grant County, Oregon",57.1,55.6,58.6,023,91683,41
+4102392856,"Seneca CCD, Grant County, Oregon",59.4,59.9,57.0,023,92856,41
+4103193383,"Warm Springs CCD, Jefferson County, Oregon",27.6,27.5,28.0,031,93383,41
+4103190782,"Culver CCD, Jefferson County, Oregon",48.9,49.1,48.6,031,90782,41
+4103191751,"Madras CCD, Jefferson County, Oregon",37.8,36.6,41.7,031,91751,41
+4103190136,"Ashwood CCD, Jefferson County, Oregon",40.2,38.8,40.9,031,90136,41
+4103191224,"Grandview CCD, Jefferson County, Oregon",66.0,68.9,64.2,031,91224,41
+4105392754,"Salem CCD, Polk County, Oregon",39.1,37.8,40.6,053,92754,41
+4105390799,"Dallas CCD, Polk County, Oregon",42.8,42.3,43.1,053,90799,41
+4105391122,"Falls City CCD, Polk County, Oregon",50.1,52.8,47.7,053,91122,41
+4105393502,"Willamina CCD, Polk County, Oregon",42.1,42.0,42.1,053,93502,41
+4105391972,"Monmouth-Independence CCD, Polk County, Oregon",27.0,27.3,26.6,053,91972,41
+4100593536,"Wilsonville CCD, Clackamas County, Oregon",38.5,36.7,41.1,005,93536,41
+4100592788,"Sandy CCD, Clackamas County, Oregon",40.3,40.4,40.3,005,92788,41
+4100593587,"Yoder CCD, Clackamas County, Oregon",43.5,41.7,45.4,005,93587,41
+4100591088,"Estacada CCD, Clackamas County, Oregon",44.2,43.3,45.7,005,91088,41
+4100592040,"Mulino CCD, Clackamas County, Oregon",42.5,44.3,38.9,005,92040,41
+4100592618,"Redland CCD, Clackamas County, Oregon",50.0,50.1,49.0,005,92618,41
+4100592261,"Northwest Clackamas CCD, Clackamas County, Oregon",41.4,39.8,42.8,005,92261,41
+4100590442,"Canby CCD, Clackamas County, Oregon",38.1,36.0,39.0,005,90442,41
+4100590595,"Colton CCD, Clackamas County, Oregon",45.0,45.4,44.4,005,90595,41
+4100591955,"Molalla CCD, Clackamas County, Oregon",37.3,38.2,36.5,005,91955,41
+4100592023,"Mount Hood CCD, Clackamas County, Oregon",51.0,51.0,50.9,005,92023,41
+4101790306,"Bend CCD, Deschutes County, Oregon",39.8,39.4,40.2,017,90306,41
+4101793247,"Tumalo CCD, Deschutes County, Oregon",57.4,55.8,59.3,017,93247,41
+4101792635,"Redmond CCD, Deschutes County, Oregon",40.1,37.9,41.0,017,92635,41
+4101792958,"Sisters-Millican CCD, Deschutes County, Oregon",51.2,49.5,52.9,017,92958,41
+4104391904,"Mill City CCD, Linn County, Oregon",50.4,50.2,51.0,043,91904,41
+4104390068,"Albany CCD, Linn County, Oregon",37.1,36.4,37.8,043,90068,41
+4104390374,"Brownsville CCD, Linn County, Oregon",48.1,44.9,49.3,043,90374,41
+4104393162,"Sweet Home CCD, Linn County, Oregon",40.9,40.7,41.3,043,93162,41
+4104391666,"Lebanon CCD, Linn County, Oregon",41.9,39.0,45.1,043,91666,41
+4104390986,"East Linn CCD, Linn County, Oregon",52.3,50.6,52.8,043,90986,41
+4104391292,"Harrisburg CCD, Linn County, Oregon",34.1,34.6,33.3,043,91292,41
+4104392822,"Scio-Lacomb CCD, Linn County, Oregon",43.9,43.9,43.9,043,92822,41
+4105790255,"Beaver CCD, Tillamook County, Oregon",52.8,47.7,55.7,057,90255,41
+4105790238,"Bay City CCD, Tillamook County, Oregon",51.4,50.2,52.6,057,90238,41

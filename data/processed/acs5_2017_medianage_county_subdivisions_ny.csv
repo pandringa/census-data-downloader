@@ -1,0 +1,1024 @@
+geoid,name,median,male,female,county,county subdivision,state
+3610112265,"Canisteo town, Steuben County, New York",44.2,41.1,47.3,101,12265,36
+3610173836,"Thurston town, Steuben County, New York",45.1,41.8,48.3,101,73836,36
+3610176496,"Urbana town, Steuben County, New York",55.5,53.3,56.4,101,76496,36
+3610118256,"Corning city, Steuben County, New York",39.2,37.4,40.6,101,18256,36
+3610127551,"Fremont town, Steuben County, New York",47.1,47.2,46.9,101,27551,36
+3610135837,"Howard town, Steuben County, New York",41.2,42.2,38.7,101,35837,36
+3610159982,"Pulteney town, Steuben County, New York",46.5,45.4,50.0,101,59982,36
+3610181457,"Wheeler town, Steuben County, New York",43.4,42.1,46.3,101,81457,36
+3610142576,"Lindley town, Steuben County, New York",42.0,43.7,38.5,101,42576,36
+361013342,"Avoca town, Steuben County, New York",47.0,49.0,46.5,101,3342,36
+3610112991,"Caton town, Steuben County, New York",45.3,45.0,45.5,101,12991,36
+3610175737,"Tuscarora town, Steuben County, New York",41.3,40.2,43.5,101,75737,36
+3610175440,"Troupsburg town, Steuben County, New York",36.2,35.0,36.8,101,75440,36
+3610160653,"Rathbone town, Steuben County, New York",35.0,35.4,34.7,101,60653,36
+3610178883,"Wayne town, Steuben County, New York",53.7,53.1,54.4,101,78883,36
+3610181105,"West Union town, Steuben County, New York",47.4,50.0,47.1,101,81105,36
+3607577662,"Volney town, Oswego County, New York",41.8,40.9,44.6,075,77662,36
+3607555585,"Oswego town, Oswego County, New York",20.7,20.9,20.5,075,55585,36
+3607556154,"Palermo town, Oswego County, New York",43.0,41.6,43.4,075,56154,36
+3607565992,"Scriba town, Oswego County, New York",45.1,45.1,45.1,075,65992,36
+3607582073,"Williamstown town, Oswego County, New York",35.9,35.6,37.4,075,82073,36
+3607561533,"Richland town, Oswego County, New York",36.8,36.7,36.9,075,61533,36
+360751055,"Albion town, Oswego County, New York",40.1,41.3,38.8,075,1055,36
+3607546822,"Mexico town, Oswego County, New York",40.4,38.7,41.9,075,46822,36
+3607560873,"Redfield town, Oswego County, New York",44.6,44.6,47.1,075,60873,36
+3607555453,"Orwell town, Oswego County, New York",32.8,28.7,44.3,075,55453,36
+3607556352,"Parish town, Oswego County, New York",42.3,41.6,43.7,075,56352,36
+3607532028,"Hannibal town, Oswego County, New York",39.4,39.0,39.7,075,32028,36
+3607741531,"Laurens town, Otsego County, New York",47.4,45.8,48.1,077,41531,36
+3607719895,"Decatur town, Otsego County, New York",43.5,43.2,46.1,077,19895,36
+3607754881,"Oneonta city, Otsego County, New York",21.9,22.7,21.6,077,54881,36
+3607723613,"Edmeston town, Otsego County, New York",45.7,45.5,46.1,077,23613,36
+3607745920,"Maryland town, Otsego County, New York",48.4,46.2,50.1,077,45920,36
+3607748494,"Morris town, Otsego County, New York",42.8,44.5,42.2,077,48494,36
+3607754892,"Oneonta town, Otsego County, New York",43.8,41.4,47.8,077,54892,36
+3607761467,"Richfield town, Otsego County, New York",45.0,38.5,49.1,077,61467,36
+3607763638,"Roseboom town, Otsego County, New York",47.6,48.4,47.2,077,63638,36
+3607783129,"Worcester town, Otsego County, New York",51.2,52.5,50.8,077,83129,36
+3607755629,"Otego town, Otsego County, New York",49.6,49.2,50.3,077,55629,36
+3607758343,"Pittsfield town, Otsego County, New York",44.3,45.6,40.7,077,58343,36
+361170,"County subdivisions not defined, Wayne County, New York",-666666666.0,-666666666.0,-666666666.0,117,0,36
+3611745645,"Marion town, Wayne County, New York",43.6,44.1,42.9,117,45645,36
+3611782040,"Williamson town, Wayne County, New York",46.4,46.4,46.6,117,82040,36
+3611755013,"Ontario town, Wayne County, New York",46.1,44.3,46.8,117,55013,36
+3611782689,"Wolcott town, Wayne County, New York",41.0,39.7,43.3,117,82689,36
+3600140002,"Knox town, Albany County, New York",41.0,35.6,44.2,001,40002,36
+360011000,"Albany city, Albany County, New York",30.9,30.7,31.2,001,1000,36
+3600116749,"Cohoes city, Albany County, New York",39.8,39.1,41.1,001,16749,36
+3600178674,"Watervliet city, Albany County, New York",37.6,35.1,40.2,001,78674,36
+360016211,"Berne town, Albany County, New York",47.7,47.1,48.3,001,6211,36
+360016354,"Bethlehem town, Albany County, New York",42.8,40.9,45.0,001,6354,36
+3600117343,"Colonie town, Albany County, New York",41.1,39.3,43.2,001,17343,36
+3600130532,"Green Island town, Albany County, New York",39.4,32.8,40.8,001,30532,36
+3600131104,"Guilderland town, Albany County, New York",40.0,38.4,41.5,001,31104,36
+3601314069,"Chautauqua town, Chautauqua County, New York",45.7,42.5,48.4,013,14069,36
+3601352155,"North Harmony town, Chautauqua County, New York",49.4,49.9,48.3,013,52155,36
+3601358981,"Pomfret town, Chautauqua County, New York",31.3,27.2,34.6,013,58981,36
+360130,"County subdivisions not defined, Chautauqua County, New York",-666666666.0,-666666666.0,-666666666.0,013,0,36
+3601321105,"Dunkirk city, Chautauqua County, New York",39.1,38.8,39.3,013,21105,36
+3601366960,"Sherman town, Chautauqua County, New York",29.0,28.1,31.0,013,66960,36
+3601377530,"Villenova town, Chautauqua County, New York",52.7,53.1,51.4,013,77530,36
+3601347592,"Mina town, Chautauqua County, New York",46.0,45.1,49.0,013,47592,36
+3601359421,"Portland town, Chautauqua County, New York",38.0,33.5,44.6,013,59421,36
+3601312639,"Carroll town, Chautauqua County, New York",54.0,54.9,53.0,013,12639,36
+3601313860,"Charlotte town, Chautauqua County, New York",42.3,40.6,43.7,013,13860,36
+3601371476,"Stockton town, Chautauqua County, New York",40.6,42.3,38.0,013,71476,36
+3601379950,"Westfield town, Chautauqua County, New York",49.2,45.0,54.2,013,79950,36
+360132605,"Arkwright town, Chautauqua County, New York",44.5,39.2,48.1,013,2605,36
+3601338264,"Jamestown city, Chautauqua County, New York",38.1,36.5,39.3,013,38264,36
+3601361885,"Ripley town, Chautauqua County, New York",43.9,43.4,45.3,013,61885,36
+3601311451,"Busti town, Chautauqua County, New York",49.0,46.7,50.8,013,11451,36
+3601323998,"Ellicott town, Chautauqua County, New York",46.0,42.7,50.1,013,23998,36
+3601323976,"Ellery town, Chautauqua County, New York",49.5,48.2,50.0,013,23976,36
+3601332050,"Hanover town, Chautauqua County, New York",44.9,44.9,44.8,013,32050,36
+3601358926,"Poland town, Chautauqua County, New York",40.6,42.1,40.3,013,58926,36
+3601315198,"Cherry Creek town, Chautauqua County, New York",39.4,38.9,41.5,013,15198,36
+3601327606,"French Creek town, Chautauqua County, New York",35.4,35.3,35.8,013,27606,36
+3601332248,"Harmony town, Chautauqua County, New York",43.4,45.5,42.0,013,32248,36
+3601339507,"Kiantone town, Chautauqua County, New York",44.0,45.3,43.3,013,39507,36
+3601366916,"Sheridan town, Chautauqua County, New York",50.0,47.8,51.6,013,66916,36
+3601321116,"Dunkirk town, Chautauqua County, New York",57.7,54.7,60.1,013,21116,36
+3601316595,"Clymer town, Chautauqua County, New York",32.6,31.0,33.1,013,16595,36
+3601328838,"Gerry town, Chautauqua County, New York",51.6,49.0,52.6,013,28838,36
+3601324053,"Ellington town, Chautauqua County, New York",40.6,39.6,41.5,013,24053,36
+3604710022,"Brooklyn borough, Kings County, New York",34.8,33.3,36.2,047,10022,36
+3606144919,"Manhattan borough, New York County, New York",37.1,36.5,37.6,061,44919,36
+361074671,"Barton town, Tioga County, New York",39.9,39.3,42.1,107,4671,36
+3610761511,"Richford town, Tioga County, New York",43.2,44.2,42.6,107,61511,36
+361076145,"Berkshire town, Tioga County, New York",48.9,49.7,47.5,107,6145,36
+3600150672,"New Scotland town, Albany County, New York",46.2,43.3,48.4,001,50672,36
+3600179851,"Westerlo town, Albany County, New York",48.6,46.4,51.4,001,79851,36
+3600116694,"Coeymans town, Albany County, New York",42.4,41.1,44.7,001,16694,36
+3600161181,"Rensselaerville town, Albany County, New York",49.2,48.6,50.1,001,61181,36
+360035573,"Belfast town, Allegany County, New York",31.8,30.1,36.8,003,5573,36
+3600378201,"Ward town, Allegany County, New York",39.9,31.7,50.3,003,78201,36
+360031319,"Allen town, Allegany County, New York",32.5,23.5,40.2,003,1319,36
+360032187,"Angelica town, Allegany County, New York",43.3,39.9,46.4,003,2187,36
+3600315990,"Clarksville town, Allegany County, New York",49.6,49.7,49.6,003,15990,36
+3600328563,"Genesee town, Allegany County, New York",47.1,49.4,44.5,003,28563,36
+3600327705,"Friendship town, Allegany County, New York",38.2,40.5,34.4,003,27705,36
+3600330994,"Grove town, Allegany County, New York",55.9,59.0,54.5,003,30994,36
+3607758420,"Plainfield town, Otsego County, New York",45.8,45.3,47.7,077,58420,36
+3607779972,"Westford town, Otsego County, New York",44.2,44.7,43.3,077,79972,36
+3607711209,"Burlington town, Otsego County, New York",41.6,41.7,41.5,077,11209,36
+3607776012,"Unadilla town, Otsego County, New York",46.1,43.7,48.0,077,76012,36
+3607724845,"Exeter town, Otsego County, New York",49.5,49.7,48.9,077,24845,36
+3607746910,"Middlefield town, Otsego County, New York",53.9,53.1,54.9,077,46910,36
+3607715253,"Cherry Valley town, Otsego County, New York",43.0,42.1,44.1,077,15253,36
+3607711528,"Butternuts town, Otsego County, New York",50.1,49.5,50.5,077,11528,36
+3607747240,"Milford town, Otsego County, New York",45.6,45.7,44.8,077,47240,36
+3607750485,"New Lisbon town, Otsego County, New York",47.6,48.1,47.2,077,50485,36
+3607755695,"Otsego town, Otsego County, New York",51.4,48.6,54.6,077,55695,36
+3607732589,"Hartwick town, Otsego County, New York",41.6,40.3,43.7,077,32589,36
+3607770310,"Springfield town, Otsego County, New York",45.5,48.1,41.8,077,70310,36
+360392913,"Athens town, Greene County, New York",48.5,46.7,49.3,039,2913,36
+3610138319,"Jasper town, Steuben County, New York",24.4,25.6,23.8,101,38319,36
+3610111880,"Cameron town, Steuben County, New York",38.8,43.1,36.3,101,11880,36
+3610118267,"Corning town, Steuben County, New York",42.5,42.9,41.8,101,18267,36
+3610119675,"Dansville town, Steuben County, New York",43.2,44.4,39.6,101,19675,36
+3610132567,"Hartsville town, Steuben County, New York",41.5,43.9,37.8,101,32567,36
+3610116738,"Cohocton town, Steuben County, New York",43.0,42.0,43.1,101,16738,36
+3610124647,"Erwin town, Steuben County, New York",39.8,37.4,42.3,101,24647,36
+3610135672,"Hornell city, Steuben County, New York",38.2,36.5,39.2,101,35672,36
+3610159718,"Prattsburgh town, Steuben County, New York",43.0,37.4,46.3,101,59718,36
+3610135683,"Hornellsville town, Steuben County, New York",48.6,44.9,51.3,101,35683,36
+3610130741,"Greenwood town, Steuben County, New York",47.8,50.3,46.2,101,30741,36
+361017740,"Bradford town, Steuben County, New York",40.5,41.5,39.3,101,7740,36
+360412572,"Arietta town, Hamilton County, New York",63.2,63.3,53.2,041,2572,36
+3604137374,"Indian Lake town, Hamilton County, New York",54.1,48.3,62.7,041,37374,36
+3604135496,"Hope town, Hamilton County, New York",39.7,55.1,39.2,041,35496,36
+3604140794,"Lake Pleasant town, Hamilton County, New York",59.7,61.4,57.9,041,40794,36
+3604148340,"Morehouse town, Hamilton County, New York",65.2,65.3,64.9,041,48340,36
+3604143412,"Long Lake town, Hamilton County, New York",57.7,61.4,52.3,041,43412,36
+3604179059,"Wells town, Hamilton County, New York",51.8,47.9,58.4,041,79059,36
+360415958,"Benson town, Hamilton County, New York",40.5,40.6,33.9,041,5958,36
+3604137495,"Inlet town, Hamilton County, New York",36.8,64.3,36.5,041,37495,36
+361152561,"Argyle town, Washington County, New York",47.3,46.8,47.6,115,2561,36
+3611511836,"Cambridge town, Washington County, New York",42.8,41.3,45.1,115,11836,36
+3600382623,"Wirt town, Allegany County, New York",50.0,48.9,50.3,003,82623,36
+360031429,"Alma town, Allegany County, New York",48.2,48.4,46.9,003,1429,36
+360036717,"Birdsall town, Allegany County, New York",52.4,54.5,50.5,003,6717,36
+3600329905,"Granger town, Allegany County, New York",38.9,38.6,41.0,003,29905,36
+360037201,"Bolivar town, Allegany County, New York",36.9,37.2,35.6,003,7201,36
+3600311253,"Burns town, Allegany County, New York",41.5,41.9,39.0,003,11253,36
+3600312243,"Caneadea town, Allegany County, New York",22.0,23.2,21.7,003,12243,36
+3600313475,"Centerville town, Allegany County, New York",31.2,32.8,29.8,003,13475,36
+3600337297,"Independence town, Allegany County, New York",42.0,42.8,41.5,003,37297,36
+3600350375,"New Hudson town, Allegany County, New York",39.6,38.9,39.8,003,50375,36
+3600379202,"West Almond town, Allegany County, New York",45.4,45.1,46.5,003,79202,36
+360032154,"Andover town, Allegany County, New York",43.9,46.7,42.1,003,2154,36
+3600382095,"Willing town, Allegany County, New York",44.2,42.3,45.7,003,82095,36
+3600364166,"Rushford town, Allegany County, New York",50.8,49.8,52.6,003,64166,36
+3600365772,"Scio town, Allegany County, New York",49.1,44.8,50.5,003,65772,36
+3600379103,"Wellsville town, Allegany County, New York",47.5,45.1,49.2,003,79103,36
+360031209,"Alfred town, Allegany County, New York",20.3,20.2,20.3,003,1209,36
+360031451,"Almond town, Allegany County, New York",40.6,40.0,41.2,003,1451,36
+3600336112,"Hume town, Allegany County, New York",40.1,37.6,43.3,003,36112,36
+3600319367,"Cuba town, Allegany County, New York",46.6,46.6,46.6,003,19367,36
+360032011,"Amity town, Allegany County, New York",39.9,41.8,39.5,003,2011,36
+3600715110,"Chenango town, Broome County, New York",44.4,45.1,44.1,007,15110,36
+3600744611,"Maine town, Broome County, New York",45.0,45.7,43.3,007,44611,36
+3600717046,"Colesville town, Broome County, New York",41.7,37.4,45.5,007,17046,36
+3600717772,"Conklin town, Broome County, New York",43.4,43.7,43.2,007,17772,36
+3610770178,"Spencer town, Tioga County, New York",40.3,40.3,40.3,107,70178,36
+3610712221,"Candor town, Tioga County, New York",38.4,38.8,37.7,107,12221,36
+3610751121,"Nichols town, Tioga County, New York",42.1,45.5,37.6,107,51121,36
+3610773968,"Tioga town, Tioga County, New York",47.5,46.2,47.8,107,73968,36
+3610755893,"Owego town, Tioga County, New York",45.6,42.5,48.4,107,55893,36
+3610749913,"Newark Valley town, Tioga County, New York",45.1,43.0,46.3,107,49913,36
+3601112969,"Cato town, Cayuga County, New York",43.1,41.5,44.4,011,12969,36
+3601126231,"Fleming town, Cayuga County, New York",52.4,51.6,52.8,011,26231,36
+3601170376,"Springport town, Cayuga County, New York",43.7,42.2,44.7,011,70376,36
+3601172037,"Summerhill town, Cayuga County, New York",42.7,42.7,42.7,011,72037,36
+3601177024,"Venice town, Cayuga County, New York",40.5,39.1,44.3,011,77024,36
+3601177420,"Victory town, Cayuga County, New York",43.5,43.8,42.4,011,77420,36
+3601110297,"Brutus town, Cayuga County, New York",43.2,41.1,44.4,011,10297,36
+3601151198,"Niles town, Cayuga County, New York",44.1,44.2,43.8,011,51198,36
+3601173770,"Throop town, Cayuga County, New York",47.6,47.2,47.9,011,73770,36
+3601165816,"Scipio town, Cayuga County, New York",37.4,35.5,39.5,011,65816,36
+3601146602,"Mentz town, Cayuga County, New York",39.0,37.3,39.5,011,46602,36
+3600739837,"Kirkwood town, Broome County, New York",44.8,41.9,45.7,007,39837,36
+3600776056,"Union town, Broome County, New York",41.6,39.5,44.0,007,76056,36
+360076607,"Binghamton city, Broome County, New York",36.4,33.9,39.5,007,6607,36
+3600749396,"Nanticoke town, Broome County, New York",45.4,43.0,46.0,007,49396,36
+360074429,"Barker town, Broome County, New York",46.2,45.6,46.6,007,4429,36
+3600742653,"Lisle town, Broome County, New York",40.2,43.1,35.8,007,42653,36
+3600782535,"Windsor town, Broome County, New York",42.4,37.9,45.0,007,82535,36
+360076618,"Binghamton town, Broome County, New York",47.8,44.8,48.7,007,6618,36
+3600775319,"Triangle town, Broome County, New York",39.6,31.9,45.2,007,75319,36
+3600720588,"Dickinson town, Broome County, New York",41.2,37.8,43.6,007,20588,36
+3600765112,"Sanford town, Broome County, New York",49.3,51.3,47.2,007,65112,36
+3600725604,"Fenton town, Broome County, New York",44.7,41.4,46.3,007,25604,36
+3600777255,"Vestal town, Broome County, New York",26.4,25.0,29.6,007,77255,36
+3600957331,"Persia town, Cattaraugus County, New York",45.4,44.9,46.8,009,57331,36
+3600925340,"Farmersville town, Cattaraugus County, New York",50.6,50.2,52.3,009,25340,36
+3600927441,"Freedom town, Cattaraugus County, New York",42.6,43.7,41.2,009,27441,36
+3600941982,"Leon town, Cattaraugus County, New York",25.9,26.9,24.7,009,41982,36
+3600969870,"South Valley town, Cattaraugus County, New York",58.5,59.5,57.7,009,69870,36
+3600984055,"Yorkshire town, Cattaraugus County, New York",43.3,40.3,46.0,009,84055,36
+360091308,"Allegany Reservation, Cattaraugus County, New York",37.3,34.6,40.5,009,1308,36
+3600924031,"Ellicottville town, Cattaraugus County, New York",49.7,49.3,50.1,009,24031,36
+3600945161,"Mansfield town, Cattaraugus County, New York",48.0,49.1,47.9,009,45161,36
+3600959509,"Portville town, Cattaraugus County, New York",45.7,43.6,47.4,009,59509,36
+3600934946,"Hinsdale town, Cattaraugus County, New York",44.7,44.9,44.5,009,34946,36
+3603150144,"Newcomb town, Essex County, New York",60.4,58.8,61.8,031,50144,36
+3603164529,"St. Armand town, Essex County, New York",49.3,49.7,48.7,031,64529,36
+3603165629,"Schroon town, Essex County, New York",57.3,58.0,56.0,031,65629,36
+3603182315,"Wilmington town, Essex County, New York",45.0,41.7,49.4,031,82315,36
+3603142114,"Lewis town, Essex County, New York",50.2,47.9,50.7,031,42114,36
+3603147669,"Minerva town, Essex County, New York",54.2,54.7,52.8,031,47669,36
+3603151935,"North Elba town, Essex County, New York",39.9,37.7,45.4,031,51935,36
+3603124768,"Essex town, Essex County, New York",55.1,55.1,55.1,031,24768,36
+3603182271,"Willsboro town, Essex County, New York",52.4,51.2,53.3,031,82271,36
+3603180775,"Westport town, Essex County, New York",55.0,51.6,56.3,031,80775,36
+3603153077,"North Hudson town, Essex County, New York",54.5,55.4,53.6,031,53077,36
+3603173891,"Ticonderoga town, Essex County, New York",44.7,42.9,45.8,031,73891,36
+3603123833,"Elizabethtown town, Essex County, New York",54.7,52.2,57.5,031,23833,36
+3603148428,"Moriah town, Essex County, New York",46.4,43.2,48.0,031,48428,36
+3603138396,"Jay town, Essex County, New York",46.2,44.6,49.0,031,38396,36
+3603139067,"Keene town, Essex County, New York",50.7,49.8,53.1,031,39067,36
+3603115330,"Chesterfield town, Essex County, New York",47.4,48.0,46.8,031,15330,36
+3603119246,"Crown Point town, Essex County, New York",44.9,43.5,49.7,031,19246,36
+360572066,"Amsterdam city, Montgomery County, New York",36.7,35.7,38.6,057,2066,36
+360572077,"Amsterdam town, Montgomery County, New York",51.9,47.0,55.7,057,2077,36
+3605756099,"Palatine town, Montgomery County, New York",42.7,40.7,43.8,057,56099,36
+3605713816,"Charleston town, Montgomery County, New York",38.0,37.9,38.3,057,13816,36
+3605747614,"Minden town, Montgomery County, New York",41.4,41.0,42.8,057,47614,36
+3605763561,"Root town, Montgomery County, New York",38.4,40.4,37.0,057,63561,36
+3605726308,"Florida town, Montgomery County, New York",49.2,48.4,49.8,057,26308,36
+3605764650,"St. Johnsville town, Montgomery County, New York",36.5,35.3,36.9,057,64650,36
+3605747834,"Mohawk town, Montgomery County, New York",45.4,43.2,47.9,057,47834,36
+3605712122,"Canajoharie town, Montgomery County, New York",37.2,38.7,33.9,057,12122,36
+3605729047,"Glen town, Montgomery County, New York",35.0,34.6,36.0,057,29047,36
+3605943335,"Long Beach city, Nassau County, New York",44.3,42.2,45.5,059,43335,36
+3605934000,"Hempstead town, Nassau County, New York",40.1,38.1,41.8,059,34000,36
+3605956000,"Oyster Bay town, Nassau County, New York",44.2,42.8,45.6,059,56000,36
+3605953000,"North Hempstead town, Nassau County, New York",42.6,40.8,44.2,059,53000,36
+3605929113,"Glen Cove city, Nassau County, New York",38.1,36.2,40.1,059,29113,36
+3608570915,"Staten Island borough, Richmond County, New York",39.9,38.1,41.3,085,70915,36
+3608920335,"De Peyster town, St. Lawrence County, New York",26.1,23.5,28.4,089,20335,36
+3608929608,"Gouverneur town, St. Lawrence County, New York",36.3,33.3,43.8,089,29608,36
+3608931841,"Hammond town, St. Lawrence County, New York",39.6,39.7,39.5,089,31841,36
+3608942631,"Lisbon town, St. Lawrence County, New York",43.5,42.9,47.2,089,42631,36
+3608956374,"Parishville town, St. Lawrence County, New York",40.2,40.3,40.0,089,56374,36
+3608957771,"Pierrepont town, St. Lawrence County, New York",44.6,44.2,45.3,089,57771,36
+3608927100,"Fowler town, St. Lawrence County, New York",42.6,44.2,41.2,089,27100,36
+3608935595,"Hopkinton town, St. Lawrence County, New York",41.1,43.2,35.1,089,35595,36
+360897938,"Brasher town, St. Lawrence County, New York",36.5,31.3,40.2,089,7938,36
+3608920038,"De Kalb town, St. Lawrence County, New York",33.3,33.8,32.2,089,20038,36
+3611520885,"Dresden town, Washington County, New York",55.4,55.5,55.4,115,20885,36
+3611531885,"Hampton town, Washington County, New York",48.6,49.7,47.9,115,31885,36
+3611526781,"Fort Edward town, Washington County, New York",43.7,42.4,45.9,115,26781,36
+3611532457,"Hartford town, Washington County, New York",44.4,45.6,42.5,115,32457,36
+3611533040,"Hebron town, Washington County, New York",48.7,46.5,50.3,115,33040,36
+3611581633,"Whitehall town, Washington County, New York",39.1,37.1,40.9,115,81633,36
+3611530037,"Granville town, Washington County, New York",46.3,45.5,47.2,115,30037,36
+3611538143,"Jackson town, Washington County, New York",53.4,52.3,53.9,115,38143,36
+3611560092,"Putnam town, Washington County, New York",55.1,52.5,55.2,115,60092,36
+3611564782,"Salem town, Washington County, New York",47.1,42.0,50.4,115,64782,36
+3611581578,"White Creek town, Washington County, New York",49.8,53.1,46.9,115,81578,36
+3611526715,"Fort Ann town, Washington County, New York",38.9,36.9,44.9,115,26715,36
+3611522656,"Easton town, Washington County, New York",44.6,42.0,48.6,115,22656,36
+3611530686,"Greenwich town, Washington County, New York",45.8,45.1,47.2,115,30686,36
+3611539650,"Kingsbury town, Washington County, New York",37.4,36.0,39.8,115,39650,36
+3603911649,"Cairo town, Greene County, New York",45.1,40.4,47.1,039,11649,36
+3603936178,"Hunter town, Greene County, New York",52.4,54.6,52.2,039,36178,36
+3603949935,"New Baltimore town, Greene County, New York",48.5,50.2,45.5,039,49935,36
+3603982480,"Windham town, Greene County, New York",55.0,53.2,56.7,039,82480,36
+3603918729,"Coxsackie town, Greene County, New York",37.9,36.3,44.7,039,18729,36
+3603930620,"Greenville town, Greene County, New York",44.3,45.4,40.3,039,30620,36
+3603938638,"Jewett town, Greene County, New York",60.8,60.8,60.8,039,38638,36
+3603931379,"Halcott town, Greene County, New York",57.8,59.8,57.1,039,31379,36
+360392803,"Ashland town, Greene County, New York",55.6,49.3,59.3,039,2803,36
+3603921204,"Durham town, Greene County, New York",43.9,42.9,44.3,039,21204,36
+3603959751,"Prattsville town, Greene County, New York",53.4,53.1,53.8,039,59751,36
+3603913013,"Catskill town, Greene County, New York",44.7,42.3,46.0,039,13013,36
+3603942202,"Lexington town, Greene County, New York",60.3,58.7,61.7,039,42202,36
+3611728013,"Galen town, Wayne County, New York",33.3,29.8,36.2,117,28013,36
+361172440,"Arcadia town, Wayne County, New York",46.2,46.8,45.8,117,2440,36
+3611744160,"Macedon town, Wayne County, New York",43.2,41.7,45.5,117,44160,36
+3611768220,"Sodus town, Wayne County, New York",43.1,42.3,44.9,117,68220,36
+3611765343,"Savannah town, Wayne County, New York",46.1,47.4,45.1,117,65343,36
+3611737165,"Huron town, Wayne County, New York",47.2,45.5,49.4,117,37165,36
+3611743973,"Lyons town, Wayne County, New York",42.1,42.2,42.0,117,43973,36
+3611711473,"Butler town, Wayne County, New York",41.1,39.9,42.7,117,11473,36
+3611756198,"Palmyra town, Wayne County, New York",43.2,43.2,43.2,117,56198,36
+3611763605,"Rose town, Wayne County, New York",44.7,46.5,40.0,117,63605,36
+3611778102,"Walworth town, Wayne County, New York",40.8,40.4,40.8,117,78102,36
+3601148307,"Moravia town, Cayuga County, New York",41.1,40.3,45.1,011,48307,36
+3601143071,"Locke town, Cayuga County, New York",44.6,46.6,43.3,011,43071,36
+3601166278,"Sempronius town, Cayuga County, New York",43.1,44.6,41.4,011,66278,36
+3601166443,"Sennett town, Cayuga County, New York",47.5,45.3,48.3,011,66443,36
+3601171146,"Sterling town, Cayuga County, New York",47.4,45.2,48.8,011,71146,36
+360113078,"Auburn city, Cayuga County, New York",38.6,37.3,40.9,011,3078,36
+360113166,"Aurelius town, Cayuga County, New York",47.1,46.1,48.5,011,3166,36
+3601141740,"Ledyard town, Cayuga County, New York",40.5,41.0,38.1,011,41740,36
+360110,"County subdivisions not defined, Cayuga County, New York",-666666666.0,-666666666.0,-666666666.0,011,0,36
+3601137660,"Ira town, Cayuga County, New York",37.3,38.9,35.3,011,37660,36
+3601148131,"Montezuma town, Cayuga County, New York",42.4,44.1,41.4,011,48131,36
+3601155871,"Owasco town, Cayuga County, New York",50.5,49.8,52.4,011,55871,36
+3601117849,"Conquest town, Cayuga County, New York",45.8,44.9,47.7,011,17849,36
+3601128673,"Genoa town, Cayuga County, New York",45.8,47.8,45.1,011,28673,36
+3607383448,"Yates town, Orleans County, New York",44.7,40.6,46.8,073,83448,36
+3607339188,"Kendall town, Orleans County, New York",41.7,41.4,43.5,073,39188,36
+3607315880,"Clarendon town, Orleans County, New York",48.8,49.2,48.2,073,15880,36
+3607349286,"Murray town, Orleans County, New York",38.9,37.7,41.3,073,49286,36
+3607327958,"Gaines town, Orleans County, New York",44.8,47.0,43.6,073,27958,36
+360730,"County subdivisions not defined, Orleans County, New York",-666666666.0,-666666666.0,-666666666.0,073,0,36
+3607361742,"Ridgeway town, Orleans County, New York",38.8,35.9,40.0,073,61742,36
+3610534473,"Highland town, Sullivan County, New York",51.0,49.6,53.3,105,34473,36
+3610544809,"Mamakating town, Sullivan County, New York",41.0,41.2,40.8,105,44809,36
+3610575759,"Tusten town, Sullivan County, New York",52.8,54.2,51.5,105,75759,36
+3603742037,"Le Roy town, Genesee County, New York",40.1,37.8,40.7,037,42037,36
+3603756792,"Pavilion town, Genesee County, New York",46.1,46.0,46.3,037,56792,36
+3603770607,"Stafford town, Genesee County, New York",49.0,49.4,48.7,037,70607,36
+3603723756,"Elba town, Genesee County, New York",41.0,42.1,40.5,037,23756,36
+360374715,"Batavia city, Genesee County, New York",38.5,36.7,40.1,037,4715,36
+3603719719,"Darien town, Genesee County, New York",43.8,45.8,38.4,037,19719,36
+3603757078,"Pembroke town, Genesee County, New York",45.6,44.0,46.3,037,57078,36
+36037474,"Alabama town, Genesee County, New York",42.2,42.2,42.4,037,474,36
+360374726,"Batavia town, Genesee County, New York",51.5,47.6,53.7,037,4726,36
+3603711572,"Byron town, Genesee County, New York",42.9,43.5,41.9,037,11572,36
+3603754166,"Oakfield town, Genesee County, New York",39.2,38.0,41.1,037,54166,36
+360376266,"Bethany town, Genesee County, New York",44.5,45.6,42.9,037,6266,36
+360371165,"Alexander town, Genesee County, New York",44.3,43.3,46.7,037,1165,36
+360376057,"Bergen town, Genesee County, New York",43.9,43.6,44.5,037,6057,36
+361236002,"Benton town, Yates County, New York",43.4,43.2,43.6,123,6002,36
+3612347504,"Milo town, Yates County, New York",44.8,43.0,49.3,123,47504,36
+3612370816,"Starkey town, Yates County, New York",38.7,38.5,40.9,123,70816,36
+3612375055,"Torrey town, Yates County, New York",39.0,41.9,36.2,123,75055,36
+3612359597,"Potter town, Yates County, New York",32.4,28.1,34.3,123,59597,36
+3612338044,"Italy town, Yates County, New York",46.9,49.3,43.5,123,38044,36
+3612338583,"Jerusalem town, Yates County, New York",38.4,39.7,36.2,123,38583,36
+3612347020,"Middlesex town, Yates County, New York",46.8,47.4,43.9,123,47020,36
+361234594,"Barrington town, Yates County, New York",44.9,44.4,45.3,123,4594,36
+3607131907,"Hamptonburgh town, Orange County, New York",41.8,41.3,42.1,071,31907,36
+3607115308,"Chester town, Orange County, New York",37.1,34.0,40.5,071,15308,36
+3607118300,"Cornwall town, Orange County, New York",42.8,43.7,42.0,071,18300,36
+3607147042,"Middletown city, Orange County, New York",35.8,34.4,37.3,071,47042,36
+3607118916,"Crawford town, Orange County, New York",42.3,42.5,42.1,071,18916,36
+3607147999,"Monroe town, Orange County, New York",21.2,20.3,22.4,071,47999,36
+3607150848,"New Windsor town, Orange County, New York",38.6,35.2,42.1,071,50848,36
+3607175781,"Tuxedo town, Orange County, New York",47.0,44.5,49.0,071,75781,36
+3607177992,"Wallkill town, Orange County, New York",40.8,38.6,42.6,071,77992,36
+3607119961,"Deerpark town, Orange County, New York",44.8,43.5,47.0,071,19961,36
+3607178366,"Warwick town, Orange County, New York",45.9,45.3,46.6,071,78366,36
+3607129553,"Goshen town, Orange County, New York",43.3,40.0,47.8,071,29553,36
+3607159388,"Port Jervis city, Orange County, New York",40.5,34.3,44.5,071,59388,36
+3607134550,"Highlands town, Orange County, New York",23.2,22.3,30.7,071,34550,36
+3607148153,"Montgomery town, Orange County, New York",38.3,36.6,40.1,071,48153,36
+3607148857,"Mount Hope town, Orange County, New York",44.4,44.3,44.7,071,48857,36
+3607182755,"Woodbury town, Orange County, New York",39.2,36.1,42.0,071,82755,36
+3607150034,"Newburgh city, Orange County, New York",27.9,27.4,28.9,071,50034,36
+3607147713,"Minisink town, Orange County, New York",40.8,39.5,42.2,071,47713,36
+3607150045,"Newburgh town, Orange County, New York",41.2,40.0,42.4,071,50045,36
+3607130631,"Greenville town, Orange County, New York",40.7,43.6,37.4,071,30631,36
+3600943896,"Lyndon town, Cattaraugus County, New York",44.5,46.9,42.2,009,43896,36
+3600944237,"Machias town, Cattaraugus County, New York",42.9,36.9,46.6,009,44237,36
+3600949880,"New Albion town, Cattaraugus County, New York",47.5,45.3,48.8,009,49880,36
+3600964749,"Salamanca city, Cattaraugus County, New York",33.3,31.6,34.5,009,64749,36
+3600960587,"Randolph town, Cattaraugus County, New York",41.0,40.2,41.4,009,60587,36
+3600960950,"Red House town, Cattaraugus County, New York",32.3,31.6,32.7,009,60950,36
+3600954727,"Olean town, Cattaraugus County, New York",44.6,44.1,45.7,009,54727,36
+3600957298,"Perrysburg town, Cattaraugus County, New York",45.9,45.0,47.9,009,57298,36
+360091297,"Allegany town, Cattaraugus County, New York",39.5,40.4,38.2,009,1297,36
+3600912661,"Carrollton town, Cattaraugus County, New York",44.4,46.3,38.7,009,12661,36
+3600942840,"Little Valley town, Cattaraugus County, New York",35.4,33.8,37.9,009,42840,36
+3600955783,"Otto town, Cattaraugus County, New York",43.7,49.2,39.3,009,55783,36
+360092759,"Ashford town, Cattaraugus County, New York",41.1,41.1,41.0,009,2759,36
+3600916903,"Coldspring town, Cattaraugus County, New York",40.4,35.3,42.1,009,16903,36
+3607366751,"Shelby town, Orleans County, New York",44.4,41.9,46.3,073,66751,36
+360734572,"Barre town, Orleans County, New York",48.7,49.1,48.5,073,4572,36
+360731044,"Albion town, Orleans County, New York",37.2,36.2,39.0,073,1044,36
+3607312496,"Carlton town, Orleans County, New York",49.5,46.6,51.9,073,12496,36
+3609131489,"Halfmoon town, Saratoga County, New York",41.8,40.0,43.0,091,31489,36
+3609144743,"Malta town, Saratoga County, New York",42.9,42.6,43.2,091,44743,36
+3609146360,"Mechanicville city, Saratoga County, New York",35.8,35.4,37.5,091,46360,36
+3609147537,"Milton town, Saratoga County, New York",39.6,38.1,40.7,091,47537,36
+3609153737,"Northumberland town, Saratoga County, New York",41.4,41.3,41.9,091,53737,36
+3609123591,"Edinburg town, Saratoga County, New York",52.0,50.0,53.9,091,23591,36
+3609130444,"Greenfield town, Saratoga County, New York",46.1,46.1,46.1,091,30444,36
+3609116353,"Clifton Park town, Saratoga County, New York",42.8,41.9,43.7,091,16353,36
+3609159949,"Providence town, Saratoga County, New York",44.0,43.0,45.0,091,59949,36
+3609165244,"Saratoga town, Saratoga County, New York",39.9,37.2,41.1,091,65244,36
+3609113926,"Charlton town, Saratoga County, New York",49.1,48.3,49.4,091,13926,36
+3609118223,"Corinth town, Saratoga County, New York",41.4,40.5,42.5,091,18223,36
+3609148318,"Moreau town, Saratoga County, New York",44.1,42.8,45.7,091,48318,36
+3609182403,"Wilton town, Saratoga County, New York",41.9,41.7,42.7,091,82403,36
+360914220,"Ballston town, Saratoga County, New York",44.5,43.7,45.3,091,4220,36
+3609165255,"Saratoga Springs city, Saratoga County, New York",39.7,37.1,42.5,091,65255,36
+3609171333,"Stillwater town, Saratoga County, New York",43.4,43.1,43.6,091,71333,36
+3609178531,"Waterford town, Saratoga County, New York",38.4,36.3,40.5,091,78531,36
+3609119807,"Day town, Saratoga County, New York",57.1,55.5,58.8,091,19807,36
+3609128112,"Galway town, Saratoga County, New York",48.3,46.0,50.7,091,28112,36
+3609131269,"Hadley town, Saratoga County, New York",47.9,48.1,47.9,091,31269,36
+3608715968,"Clarkstown town, Rockland County, New York",44.3,42.4,46.2,087,15968,36
+3608732765,"Haverstraw town, Rockland County, New York",36.8,34.9,39.7,087,32765,36
+3608760510,"Ramapo town, Rockland County, New York",28.0,27.6,28.5,087,60510,36
+3608771674,"Stony Point town, Rockland County, New York",43.0,40.9,44.3,087,71674,36
+3608755211,"Orangetown town, Rockland County, New York",43.0,40.8,45.3,087,55211,36
+3602112056,"Canaan town, Columbia County, New York",48.3,42.8,51.7,021,12056,36
+3602116045,"Claverack town, Columbia County, New York",50.6,50.2,50.9,021,16045,36
+3602139573,"Kinderhook town, Columbia County, New York",48.2,47.2,48.9,021,39573,36
+3602171443,"Stockport town, Columbia County, New York",40.3,40.4,40.0,021,71443,36
+3602118102,"Copake town, Columbia County, New York",48.8,49.0,48.5,021,18102,36
+3602135969,"Hudson city, Columbia County, New York",38.0,36.6,40.6,021,35969,36
+3602116177,"Clermont town, Columbia County, New York",44.7,43.7,47.0,021,16177,36
+3600919840,"Dayton town, Cattaraugus County, New York",36.5,33.9,41.8,009,19840,36
+3600930257,"Great Valley town, Cattaraugus County, New York",51.4,53.1,47.7,009,30257,36
+3600936123,"Humphrey town, Cattaraugus County, New York",38.3,39.6,37.8,009,36123,36
+3600954716,"Olean city, Cattaraugus County, New York",40.8,38.0,43.5,009,54716,36
+3600937825,"Ischua town, Cattaraugus County, New York",52.3,56.3,50.9,009,37825,36
+3600917684,"Conewango town, Cattaraugus County, New York",28.1,29.8,25.6,009,17684,36
+3600949462,"Napoli town, Cattaraugus County, New York",42.9,44.9,41.5,009,49462,36
+3600964760,"Salamanca town, Cattaraugus County, New York",45.7,48.0,42.8,009,64760,36
+3600927342,"Franklinville town, Cattaraugus County, New York",39.0,36.4,41.7,009,27342,36
+3600922678,"East Otto town, Cattaraugus County, New York",49.8,48.0,50.4,009,22678,36
+3602940189,"Lackawanna city, Erie County, New York",37.3,36.3,38.4,029,40189,36
+360297894,"Brant town, Erie County, New York",46.6,46.1,46.7,029,7894,36
+3602935122,"Holland town, Erie County, New York",45.0,46.3,44.1,029,35122,36
+3602924130,"Elma town, Erie County, New York",50.4,50.5,50.3,029,24130,36
+3602951803,"North Collins town, Erie County, New York",42.2,39.8,43.1,029,51803,36
+3602977871,"Wales town, Erie County, New York",44.1,43.8,44.3,029,77871,36
+3602923415,"Eden town, Erie County, New York",48.4,45.2,50.7,029,23415,36
+3602924801,"Evans town, Erie County, New York",47.1,45.7,48.3,029,24801,36
+360297454,"Boston town, Erie County, New York",49.0,47.2,52.7,029,7454,36
+360292000,"Amherst town, Erie County, New York",40.1,37.0,43.1,029,2000,36
+3602917200,"Collins town, Erie County, New York",40.5,39.3,45.8,029,17200,36
+3602915825,"Clarence town, Erie County, New York",44.8,44.3,45.1,029,15825,36
+360290,"County subdivisions not defined, Erie County, New York",-666666666.0,-666666666.0,-666666666.0,029,0,36
+360291099,"Alden town, Erie County, New York",42.0,40.4,44.5,029,1099,36
+3602915011,"Cheektowaga town, Erie County, New York",42.7,40.2,44.6,029,15011,36
+3602929828,"Grand Island town, Erie County, New York",41.9,42.4,41.0,029,29828,36
+3602931654,"Hamburg town, Erie County, New York",43.5,42.1,44.6,029,31654,36
+3602975000,"Tonawanda town, Erie County, New York",43.4,41.4,46.1,029,75000,36
+3602980918,"West Seneca town, Erie County, New York",45.0,41.8,47.3,029,80918,36
+3602911000,"Buffalo city, Erie County, New York",32.8,31.4,34.2,029,11000,36
+3602916870,"Colden town, Erie County, New York",48.3,44.8,49.1,029,16870,36
+3602955277,"Orchard Park town, Erie County, New York",45.6,45.0,47.0,029,55277,36
+3602965277,"Sardinia town, Erie County, New York",43.9,42.4,46.7,029,65277,36
+3602917585,"Concord town, Erie County, New York",46.4,44.5,47.1,029,17585,36
+3608941564,"Lawrence town, St. Lawrence County, New York",36.2,33.6,38.5,089,41564,36
+3608943588,"Louisville town, St. Lawrence County, New York",50.7,48.6,51.9,089,43588,36
+3608963858,"Rossie town, St. Lawrence County, New York",32.1,31.4,32.5,089,63858,36
+3608915792,"Clare town, St. Lawrence County, New York",36.1,36.7,32.1,089,15792,36
+3608912342,"Canton town, St. Lawrence County, New York",27.8,27.8,27.8,089,12342,36
+3608944391,"Macomb town, St. Lawrence County, New York",40.0,37.0,44.0,089,44391,36
+3608944490,"Madrid town, St. Lawrence County, New York",41.0,38.7,44.0,089,44490,36
+3608948582,"Morristown town, St. Lawrence County, New York",52.8,53.6,50.9,089,48582,36
+3608951330,"Norfolk town, St. Lawrence County, New York",34.9,33.2,39.6,089,51330,36
+3608955563,"Oswegatchie town, St. Lawrence County, New York",46.1,43.2,47.6,089,55563,36
+3608959575,"Potsdam town, St. Lawrence County, New York",24.3,24.3,24.2,089,59575,36
+3608964221,"Russell town, St. Lawrence County, New York",43.9,38.3,47.6,089,64221,36
+3608954485,"Ogdensburg city, St. Lawrence County, New York",39.8,37.1,43.8,089,54485,36
+3608957716,"Piercefield town, St. Lawrence County, New York",55.0,52.9,55.5,089,57716,36
+3608977739,"Waddington town, St. Lawrence County, New York",42.7,43.1,42.1,089,77739,36
+3608917409,"Colton town, St. Lawrence County, New York",52.9,49.1,55.4,089,17409,36
+3608923646,"Edwards town, St. Lawrence County, New York",44.1,46.4,42.7,089,23646,36
+3608925791,"Fine town, St. Lawrence County, New York",53.5,55.1,52.2,089,25791,36
+3608916287,"Clifton town, St. Lawrence County, New York",53.8,55.9,51.0,089,16287,36
+3608934176,"Hermon town, St. Lawrence County, New York",48.1,43.4,50.8,089,34176,36
+3608971410,"Stockholm town, St. Lawrence County, New York",40.1,33.0,47.4,089,71410,36
+3608958266,"Pitcairn town, St. Lawrence County, New York",38.4,42.8,34.6,089,58266,36
+3608946030,"Massena town, St. Lawrence County, New York",41.3,40.0,42.1,089,46030,36
+3609755156,"Orange town, Schuyler County, New York",41.0,44.3,38.1,097,55156,36
+3609712914,"Catharine town, Schuyler County, New York",43.0,41.3,47.1,097,12914,36
+3609720676,"Dix town, Schuyler County, New York",43.8,39.8,47.4,097,20676,36
+3609733073,"Hector town, Schuyler County, New York",49.1,48.7,50.4,097,33073,36
+3609775924,"Tyrone town, Schuyler County, New York",42.3,42.9,41.1,097,75924,36
+3609713112,"Cayuta town, Schuyler County, New York",43.8,42.5,47.2,097,13112,36
+3609760763,"Reading town, Schuyler County, New York",46.4,48.3,44.3,097,60763,36
+3609748186,"Montour town, Schuyler County, New York",46.2,45.6,47.2,097,48186,36
+3610924548,"Enfield town, Tompkins County, New York",47.4,41.1,52.4,109,24548,36
+3610930972,"Groton town, Tompkins County, New York",43.2,36.0,47.6,109,30972,36
+3610938088,"Ithaca town, Tompkins County, New York",26.9,26.1,28.5,109,38088,36
+3610938077,"Ithaca city, Tompkins County, New York",21.8,21.9,21.8,109,38077,36
+3610941234,"Lansing town, Tompkins County, New York",37.6,38.8,37.0,109,41234,36
+3610950254,"Newfield town, Tompkins County, New York",44.6,41.4,46.0,109,50254,36
+3610975990,"Ulysses town, Tompkins County, New York",50.2,48.5,52.0,109,75990,36
+3610919620,"Danby town, Tompkins County, New York",50.7,51.2,50.2,109,19620,36
+3610920962,"Dryden town, Tompkins County, New York",38.2,36.6,39.3,109,20962,36
+3610912606,"Caroline town, Tompkins County, New York",39.0,36.5,40.6,109,12606,36
+3611315319,"Chester town, Warren County, New York",46.7,45.3,47.7,113,15319,36
+3611371641,"Stony Creek town, Warren County, New York",54.5,56.0,52.3,113,71641,36
+361137234,"Bolton town, Warren County, New York",53.0,50.6,57.1,113,7234,36
+3611331335,"Hague town, Warren County, New York",58.2,57.7,58.5,113,31335,36
+3611340519,"Lake George town, Warren County, New York",49.5,51.2,47.8,113,40519,36
+3611340662,"Lake Luzerne town, Warren County, New York",48.4,44.6,51.4,113,40662,36
+3611378300,"Warrensburg town, Warren County, New York",45.5,46.0,43.8,113,78300,36
+3611329333,"Glens Falls city, Warren County, New York",38.2,37.4,40.0,113,29333,36
+3611335639,"Horicon town, Warren County, New York",54.7,54.4,55.0,113,35639,36
+3611338715,"Johnsburg town, Warren County, New York",53.1,54.6,52.4,113,38715,36
+3611373814,"Thurman town, Warren County, New York",47.3,43.6,49.4,113,73814,36
+3611360356,"Queensbury town, Warren County, New York",46.8,44.6,48.2,113,60356,36
+3601717486,"Columbus town, Chenango County, New York",49.1,48.0,49.3,017,17486,36
+3601728739,"German town, Chenango County, New York",45.0,52.5,40.0,017,28739,36
+3601742411,"Lincklaen town, Chenango County, New York",47.9,43.8,49.2,017,42411,36
+3601744127,"McDonough town, Chenango County, New York",49.5,50.8,47.9,017,44127,36
+3601753990,"Norwich town, Chenango County, New York",42.6,44.2,41.0,017,53990,36
+3601766894,"Sherburne town, Chenango County, New York",39.5,38.1,45.6,017,66894,36
+3601768055,"Smithville town, Chenango County, New York",37.1,35.0,40.7,017,68055,36
+3601718619,"Coventry town, Chenango County, New York",46.1,44.7,46.6,017,18619,36
+3601755959,"Oxford town, Chenango County, New York",52.6,50.9,53.7,017,55959,36
+360174044,"Bainbridge town, Chenango County, New York",40.3,40.4,40.0,017,4044,36
+3601753297,"North Norwich town, Chenango County, New York",46.9,46.7,47.2,017,53297,36
+3601755717,"Otselic town, Chenango County, New York",42.6,44.1,41.9,017,55717,36
+3601759817,"Preston town, Chenango County, New York",42.7,40.6,46.5,017,59817,36
+3601730422,"Greene town, Chenango County, New York",45.5,46.4,45.2,017,30422,36
+3601731148,"Guilford town, Chenango County, New York",48.9,45.0,52.1,017,31148,36
+3601753979,"Norwich city, Chenango County, New York",34.8,34.5,35.1,017,53979,36
+3601757507,"Pharsalia town, Chenango County, New York",49.3,50.5,48.3,017,57507,36
+3601758772,"Plymouth town, Chenango County, New York",45.1,44.0,45.6,017,58772,36
+3601768110,"Smyrna town, Chenango County, New York",40.9,40.5,41.5,017,68110,36
+3601758288,"Pitcher town, Chenango County, New York",46.2,44.8,48.6,017,58288,36
+3601749957,"New Berlin town, Chenango County, New York",47.9,47.6,48.2,017,49957,36
+36017353,"Afton town, Chenango County, New York",49.4,49.2,50.0,017,353,36
+3602318421,"Cortlandville town, Cortland County, New York",42.4,39.4,45.3,023,18421,36
+3602327496,"Freetown town, Cortland County, New York",42.2,40.1,43.1,023,27496,36
+3602332160,"Harford town, Cortland County, New York",41.7,38.5,48.2,023,32160,36
+3602359773,"Preble town, Cortland County, New York",45.2,46.5,42.0,023,59773,36
+3602345403,"Marathon town, Cortland County, New York",39.3,38.3,40.3,023,45403,36
+3602365915,"Scott town, Cortland County, New York",43.1,42.9,43.2,023,65915,36
+3602335287,"Homer town, Cortland County, New York",40.6,40.9,40.4,023,35287,36
+3602341300,"Lapeer town, Cortland County, New York",32.8,32.7,32.9,023,41300,36
+3602368264,"Solon town, Cortland County, New York",39.8,40.5,39.3,023,68264,36
+3602381963,"Willet town, Cortland County, New York",35.8,40.4,32.1,023,81963,36
+3602318388,"Cortland city, Cortland County, New York",27.9,28.4,26.2,023,18388,36
+3602319499,"Cuyler town, Cortland County, New York",48.4,49.0,47.2,023,19499,36
+3602373220,"Taylor town, Cortland County, New York",40.9,40.8,41.0,023,73220,36
+3602375550,"Truxton town, Cortland County, New York",45.9,42.0,46.8,023,75550,36
+3602377596,"Virgil town, Cortland County, New York",43.8,43.4,45.3,023,77596,36
+3602315748,"Cincinnatus town, Cortland County, New York",42.9,43.5,40.7,023,15748,36
+3602747207,"Milan town, Dutchess County, New York",48.9,45.5,50.8,027,47207,36
+3602761357,"Rhinebeck town, Dutchess County, New York",53.5,52.3,54.6,027,61357,36
+3602770662,"Stanford town, Dutchess County, New York",50.9,51.8,50.3,027,70662,36
+360271693,"Amenia town, Dutchess County, New York",45.8,45.8,45.8,027,1693,36
+3602720819,"Dover town, Dutchess County, New York",43.4,43.0,44.2,027,20819,36
+3602759641,"Poughkeepsie city, Dutchess County, New York",37.7,36.8,39.1,027,59641,36
+3602760905,"Red Hook town, Dutchess County, New York",36.7,34.5,37.7,027,60905,36
+3602778388,"Washington town, Dutchess County, New York",48.5,47.7,48.8,027,78388,36
+3602751891,"North East town, Dutchess County, New York",44.1,39.6,49.0,027,51891,36
+3602756825,"Pawling town, Dutchess County, New York",45.9,40.5,49.5,027,56825,36
+3602776166,"Union Vale town, Dutchess County, New York",47.8,47.7,47.9,027,76166,36
+3602758695,"Pleasant Valley town, Dutchess County, New York",42.1,43.6,40.2,027,58695,36
+3602759652,"Poughkeepsie town, Dutchess County, New York",36.9,36.9,36.9,027,59652,36
+3602778157,"Wappinger town, Dutchess County, New York",40.6,38.2,43.7,027,78157,36
+360275452,"Beekman town, Dutchess County, New York",44.2,44.4,43.8,027,5452,36
+3602725978,"Fishkill town, Dutchess County, New York",41.6,38.2,45.9,027,25978,36
+3606776760,"Van Buren town, Onondaga County, New York",44.4,39.6,46.9,067,76760,36
+3606745029,"Manlius town, Onondaga County, New York",44.7,42.1,45.9,067,45029,36
+3604510242,"Brownville town, Jefferson County, New York",42.9,41.0,44.1,045,10242,36
+3604535782,"Hounsfield town, Jefferson County, New York",33.5,32.3,35.9,045,35782,36
+3604543863,"Lyme town, Jefferson County, New York",43.7,42.4,44.6,045,43863,36
+3604555398,"Orleans town, Jefferson County, New York",41.8,42.7,41.1,045,55398,36
+3604543544,"Lorraine town, Jefferson County, New York",45.0,45.6,44.4,045,43544,36
+3604563341,"Rodman town, Jefferson County, New York",36.9,36.4,37.6,045,63341,36
+3604573528,"Theresa town, Jefferson County, New York",37.3,35.4,39.2,045,73528,36
+36045210,"Adams town, Jefferson County, New York",35.8,34.8,35.9,045,210,36
+3604524086,"Ellisburg town, Jefferson County, New York",40.5,43.4,38.4,045,24086,36
+3604534055,"Henderson town, Jefferson County, New York",54.7,54.7,54.7,045,34055,36
+3605534099,"Henrietta town, Monroe County, New York",33.6,29.8,36.7,055,34099,36
+3605558365,"Pittsford town, Monroe County, New York",43.4,41.8,44.7,055,58365,36
+3605561808,"Riga town, Monroe County, New York",47.8,47.9,47.6,055,61808,36
+3605581402,"Wheatland town, Monroe County, New York",33.7,32.6,35.0,055,81402,36
+3605528442,"Gates town, Monroe County, New York",43.2,40.7,44.8,055,28442,36
+3605537726,"Irondequoit town, Monroe County, New York",44.2,41.7,46.3,055,37726,36
+3605554474,"Ogden town, Monroe County, New York",39.9,38.2,41.9,055,54474,36
+3605557144,"Penfield town, Monroe County, New York",46.0,45.9,46.0,055,57144,36
+3605563000,"Rochester city, Monroe County, New York",31.7,30.5,32.8,055,63000,36
+360558246,"Brighton town, Monroe County, New York",39.7,36.7,41.9,055,8246,36
+360550,"County subdivisions not defined, Monroe County, New York",-666666666.0,-666666666.0,-666666666.0,055,0,36
+3605522870,"East Rochester town, Monroe County, New York",35.9,32.8,38.7,055,22870,36
+3605530290,"Greece town, Monroe County, New York",43.8,42.4,45.2,055,30290,36
+3605531797,"Hamlin town, Monroe County, New York",40.4,40.2,41.2,055,31797,36
+3605546558,"Mendon town, Monroe County, New York",45.8,43.1,48.0,055,46558,36
+3605556561,"Parma town, Monroe County, New York",41.4,40.8,41.7,055,56561,36
+3605515462,"Chili town, Monroe County, New York",40.1,36.9,43.2,055,15462,36
+3605557221,"Perinton town, Monroe County, New York",45.9,45.2,46.9,055,57221,36
+3605564144,"Rush town, Monroe County, New York",49.3,45.8,52.1,055,64144,36
+3605578971,"Webster town, Monroe County, New York",43.7,43.2,44.3,055,78971,36
+3605515957,"Clarkson town, Monroe County, New York",44.2,41.6,45.7,055,15957,36
+3605572455,"Sweden town, Monroe County, New York",24.8,24.8,24.9,055,72455,36
+360717003,"Blooming Grove town, Orange County, New York",41.7,41.3,42.5,071,7003,36
+3607178839,"Wawayanda town, Orange County, New York",40.3,33.2,43.5,071,78839,36
+3600954523,"Oil Springs Reservation, Cattaraugus County, New York",-666666666.0,-666666666.0,-666666666.0,009,54523,36
+3606375011,"Tonawanda Reservation, Niagara County, New York",-666666666.0,-666666666.0,-666666666.0,063,75011,36
+3603375676,"Tupper Lake town, Franklin County, New York",42.4,40.7,44.1,033,75676,36
+3601314072,"Chautauqua Lake UT, Chautauqua County, New York",-666666666.0,-666666666.0,-666666666.0,013,14072,36
+3606375748,"Tuscarora Nation Reservation, Niagara County, New York",41.5,34.4,46.7,063,75748,36
+3606754980,"Onondaga Nation Reservation, Onondaga County, New York",76.4,-666666666.0,76.4,067,54980,36
+3601313035,"Cattaraugus Reservation, Chautauqua County, New York",29.7,70.1,11.8,013,13035,36
+3600354523,"Oil Springs Reservation, Allegany County, New York",-666666666.0,-666666666.0,-666666666.0,003,54523,36
+3600913035,"Cattaraugus Reservation, Cattaraugus County, New York",27.4,27.3,34.1,009,13035,36
+3602913035,"Cattaraugus Reservation, Erie County, New York",35.6,37.1,35.5,029,13035,36
+3602975011,"Tonawanda Reservation, Erie County, New York",-666666666.0,-666666666.0,-666666666.0,029,75011,36
+3603775011,"Tonawanda Reservation, Genesee County, New York",52.6,44.8,56.6,037,75011,36
+3606563418,"Rome city, Oneida County, New York",39.5,38.1,41.2,065,63418,36
+360653155,"Augusta town, Oneida County, New York",37.7,35.4,39.7,065,3155,36
+3606519928,"Deerfield town, Oneida County, New York",43.3,42.8,43.9,065,19928,36
+3606526627,"Forestport town, Oneida County, New York",55.5,55.5,55.5,065,26627,36
+3606541762,"Lee town, Oneida County, New York",46.7,43.2,48.6,065,41762,36
+3606556330,"Paris town, Oneida County, New York",44.9,43.7,45.5,065,56330,36
+3602941146,"Lancaster town, Erie County, New York",42.8,40.5,45.0,029,41146,36
+3602945601,"Marilla town, Erie County, New York",49.5,50.1,47.9,029,45601,36
+3602974166,"Tonawanda city, Erie County, New York",46.2,43.6,47.2,029,74166,36
+3602150452,"New Lebanon town, Columbia County, New York",47.4,45.2,48.6,021,50452,36
+3602142917,"Livingston town, Columbia County, New York",49.8,44.3,51.3,021,42917,36
+3602128772,"Germantown town, Columbia County, New York",48.1,46.3,49.0,021,28772,36
+3602128871,"Ghent town, Columbia County, New York",47.8,46.7,48.5,021,28871,36
+3602134748,"Hillsdale town, Columbia County, New York",48.8,48.0,51.1,021,34748,36
+3602128068,"Gallatin town, Columbia County, New York",50.2,52.1,45.8,021,28068,36
+3602130565,"Greenport town, Columbia County, New York",49.4,49.3,49.4,021,30565,36
+3602173077,"Taghkanic town, Columbia County, New York",54.4,53.2,55.5,021,73077,36
+360213287,"Austerlitz town, Columbia County, New York",52.6,54.2,50.3,021,3287,36
+3602114014,"Chatham town, Columbia County, New York",47.7,47.5,48.0,021,14014,36
+3602171850,"Stuyvesant town, Columbia County, New York",40.2,39.0,43.2,021,71850,36
+360212099,"Ancram town, Columbia County, New York",54.4,53.0,55.5,021,2099,36
+3604942125,"Lewis town, Lewis County, New York",43.3,45.5,39.9,049,42125,36
+3604975693,"Turin town, Lewis County, New York",46.2,47.3,45.5,049,75693,36
+3604920555,"Diana town, Lewis County, New York",42.6,43.6,41.4,049,20555,36
+3604942213,"Leyden town, Lewis County, New York",39.2,40.0,39.0,049,42213,36
+3604930796,"Greig town, Lewis County, New York",51.2,49.9,51.7,049,30796,36
+3604943995,"Lyonsdale town, Lewis County, New York",43.5,45.8,40.8,049,43995,36
+3604955497,"Osceola town, Lewis County, New York",50.8,51.6,50.1,049,55497,36
+3604978729,"Watson town, Lewis County, New York",44.6,46.5,44.1,049,78729,36
+3604919081,"Croghan town, Lewis County, New York",42.8,40.7,46.6,049,19081,36
+3604957925,"Pinckney town, Lewis County, New York",36.9,36.6,39.0,049,57925,36
+3602737209,"Hyde Park town, Dutchess County, New York",39.6,39.0,41.2,027,37209,36
+3602758156,"Pine Plains town, Dutchess County, New York",46.2,45.9,46.8,027,58156,36
+3602716408,"Clinton town, Dutchess County, New York",45.9,45.6,46.1,027,16408,36
+360275100,"Beacon city, Dutchess County, New York",40.6,39.9,41.7,027,5100,36
+3602721996,"East Fishkill town, Dutchess County, New York",43.7,42.6,44.5,027,21996,36
+3604950001,"New Bremen town, Lewis County, New York",33.9,33.1,36.0,049,50001,36
+3604943731,"Lowville town, Lewis County, New York",41.8,40.0,42.3,049,43731,36
+3604948032,"Montague town, Lewis County, New York",55.6,57.7,55.2,049,48032,36
+3604920214,"Denmark town, Lewis County, New York",37.2,33.6,42.9,049,20214,36
+3604932358,"Harrisburg town, Lewis County, New York",36.3,39.4,32.5,049,32358,36
+3604981094,"West Turin town, Lewis County, New York",48.6,48.5,48.6,049,81094,36
+3604945854,"Martinsburg town, Lewis County, New York",37.4,37.3,37.7,049,45854,36
+3606353682,"North Tonawanda city, Niagara County, New York",44.3,42.1,46.4,063,53682,36
+3606311803,"Cambria town, Niagara County, New York",46.1,39.0,49.3,063,11803,36
+3606332490,"Hartland town, Niagara County, New York",47.9,47.6,47.9,063,32490,36
+3606368330,"Somerset town, Niagara County, New York",41.0,42.5,39.7,063,68330,36
+3606381380,"Wheatfield town, Niagara County, New York",46.5,43.7,48.8,063,81380,36
+3606382370,"Wilson town, Niagara County, New York",45.0,45.2,44.8,063,82370,36
+3606351033,"Niagara town, Niagara County, New York",44.3,44.3,44.6,063,51033,36
+3606343093,"Lockport town, Niagara County, New York",43.0,42.0,43.9,063,43093,36
+3602950716,"Newstead town, Erie County, New York",45.7,43.2,48.6,029,50716,36
+360293199,"Aurora town, Erie County, New York",45.8,43.4,47.0,029,3199,36
+3605354837,"Oneida city, Madison County, New York",41.8,40.0,42.9,053,54837,36
+3605341674,"Lebanon town, Madison County, New York",41.1,35.4,43.8,053,41674,36
+3605371399,"Stockbridge town, Madison County, New York",40.1,41.4,37.3,053,71399,36
+3605371993,"Sullivan town, Madison County, New York",44.9,44.6,45.3,053,71993,36
+3605325593,"Fenner town, Madison County, New York",46.3,45.3,48.2,053,25593,36
+3605342422,"Lincoln town, Madison County, New York",43.6,42.9,45.7,053,42422,36
+3605320401,"DeRuyter town, Madison County, New York",44.7,42.2,46.5,053,20401,36
+3605323305,"Eaton town, Madison County, New York",23.7,24.7,23.3,053,23305,36
+3605328695,"Georgetown town, Madison County, New York",52.8,50.3,57.3,053,28695,36
+3605367785,"Smithfield town, Madison County, New York",40.5,39.5,43.8,053,67785,36
+360538587,"Brookfield town, Madison County, New York",42.6,42.3,42.9,053,8587,36
+3605313156,"Cazenovia town, Madison County, New York",44.8,46.4,43.5,053,13156,36
+3605341905,"Lenox town, Madison County, New York",42.1,39.7,43.5,053,41905,36
+3605349770,"Nelson town, Madison County, New York",45.0,40.4,48.9,053,49770,36
+3605331720,"Hamilton town, Madison County, New York",22.7,22.8,22.4,053,31720,36
+3605344435,"Madison town, Madison County, New York",53.9,45.9,57.1,053,44435,36
+3609359861,"Princetown town, Schenectady County, New York",49.4,54.2,47.0,093,59861,36
+3609321006,"Duanesburg town, Schenectady County, New York",38.9,38.3,43.2,093,21006,36
+3609363935,"Rotterdam town, Schenectady County, New York",41.6,39.6,44.3,093,63935,36
+3609329366,"Glenville town, Schenectady County, New York",42.8,41.7,44.2,093,29366,36
+3609365508,"Schenectady city, Schenectady County, New York",36.4,35.9,36.9,093,65508,36
+3609351264,"Niskayuna town, Schenectady County, New York",43.2,37.7,47.3,093,51264,36
+3610527573,"Fremont town, Sullivan County, New York",47.9,47.5,49.1,105,27573,36
+3610542235,"Liberty town, Sullivan County, New York",41.5,36.9,43.5,105,42235,36
+3610511759,"Callicoon town, Sullivan County, New York",48.6,51.2,43.0,105,11759,36
+3610520104,"Delaware town, Sullivan County, New York",46.1,39.3,48.7,105,20104,36
+3610543786,"Lumberland town, Sullivan County, New York",45.3,45.4,45.2,105,43786,36
+3610549847,"Neversink town, Sullivan County, New York",40.3,39.9,40.6,105,49847,36
+3610573627,"Thompson town, Sullivan County, New York",39.4,36.5,40.9,105,73627,36
+361056310,"Bethel town, Sullivan County, New York",48.0,47.6,52.2,105,6310,36
+3610516661,"Cochecton town, Sullivan County, New York",44.1,42.4,47.6,105,16661,36
+3610563176,"Rockland town, Sullivan County, New York",44.6,38.3,46.5,105,63176,36
+3610526528,"Forestburgh town, Sullivan County, New York",52.1,51.1,52.7,105,26528,36
+3610525241,"Fallsburg town, Sullivan County, New York",40.7,41.3,40.0,105,25241,36
+3606351055,"Niagara Falls city, Niagara County, New York",38.6,38.0,39.4,063,51055,36
+3606359267,"Porter town, Niagara County, New York",48.3,47.9,48.8,063,59267,36
+3606350232,"Newfane town, Niagara County, New York",44.9,43.7,46.3,063,50232,36
+3606342158,"Lewiston town, Niagara County, New York",46.3,40.9,50.4,063,42158,36
+3606357111,"Pendleton town, Niagara County, New York",44.2,43.1,45.4,063,57111,36
+3606364034,"Royalton town, Niagara County, New York",41.1,43.8,37.7,063,64034,36
+360630,"County subdivisions not defined, Niagara County, New York",-666666666.0,-666666666.0,-666666666.0,063,0,36
+3606343082,"Lockport city, Niagara County, New York",38.8,38.0,39.8,063,43082,36
+3611948895,"Mount Kisco town, Westchester County, New York",40.3,35.6,44.6,119,48895,36
+3611950078,"New Castle town, Westchester County, New York",43.2,40.6,45.1,119,50078,36
+3611951693,"North Castle town, Westchester County, New York",44.3,43.9,44.4,119,51693,36
+3611953517,"North Salem town, Westchester County, New York",48.5,49.0,47.6,119,53517,36
+3611964309,"Rye city, Westchester County, New York",42.9,42.1,43.8,119,64309,36
+3611959685,"Pound Ridge town, Westchester County, New York",50.6,50.3,51.1,119,59685,36
+3611984077,"Yorktown town, Westchester County, New York",45.5,43.3,47.5,119,84077,36
+3611956979,"Peekskill city, Westchester County, New York",39.6,38.3,41.5,119,56979,36
+3611965442,"Scarsdale town, Westchester County, New York",43.0,43.6,42.2,119,65442,36
+3611921820,"Eastchester town, Westchester County, New York",42.5,40.5,44.3,119,21820,36
+3611930367,"Greenburgh town, Westchester County, New York",42.4,39.4,45.3,119,30367,36
+3611968308,"Somers town, Westchester County, New York",48.5,47.1,49.6,119,68308,36
+3611955541,"Ossining town, Westchester County, New York",39.6,38.6,41.3,119,55541,36
+3611918410,"Cortlandt town, Westchester County, New York",44.2,43.8,44.6,119,18410,36
+3611944842,"Mamaroneck town, Westchester County, New York",40.0,38.0,41.9,119,44842,36
+3611949011,"Mount Pleasant town, Westchester County, New York",40.1,38.3,41.4,119,49011,36
+3611949121,"Mount Vernon city, Westchester County, New York",38.5,36.0,40.3,119,49121,36
+361195320,"Bedford town, Westchester County, New York",40.0,37.3,41.5,119,5320,36
+3611932413,"Harrison town, Westchester County, New York",34.9,33.4,35.9,119,32413,36
+3611942136,"Lewisboro town, Westchester County, New York",46.3,46.5,45.9,119,42136,36
+3611957012,"Pelham town, Westchester County, New York",39.7,39.0,40.3,119,57012,36
+3611964320,"Rye town, Westchester County, New York",38.5,36.6,40.0,119,64320,36
+3611981677,"White Plains city, Westchester County, New York",38.1,35.9,40.8,119,81677,36
+3611984000,"Yonkers city, Westchester County, New York",38.8,37.3,40.1,119,84000,36
+3611950617,"New Rochelle city, Westchester County, New York",39.4,38.0,41.1,119,50617,36
+3602519763,"Davenport town, Delaware County, New York",46.1,46.6,42.3,025,19763,36
+3602520137,"Delhi town, Delaware County, New York",25.2,23.5,30.2,025,20137,36
+3602531698,"Hamden town, Delaware County, New York",52.3,46.0,53.4,025,31698,36
+3602546624,"Meredith town, Delaware County, New York",48.8,51.7,41.3,025,46624,36
+3602516793,"Colchester town, Delaware County, New York",52.8,54.2,48.9,025,16793,36
+3602531951,"Hancock town, Delaware County, New York",47.9,46.4,48.6,025,31951,36
+3602532281,"Harpersfield town, Delaware County, New York",50.6,50.4,50.8,025,32281,36
+3602545964,"Masonville town, Delaware County, New York",48.4,48.8,46.6,025,45964,36
+3602564001,"Roxbury town, Delaware County, New York",49.6,50.0,49.2,025,64001,36
+3602567345,"Sidney town, Delaware County, New York",44.7,41.6,47.8,025,67345,36
+3602570629,"Stamford town, Delaware County, New York",47.1,46.3,47.8,025,70629,36
+3602578047,"Walton town, Delaware County, New York",40.9,42.1,38.8,025,78047,36
+3602574111,"Tompkins town, Delaware County, New York",50.7,55.4,45.9,025,74111,36
+3602527232,"Franklin town, Delaware County, New York",52.1,50.5,53.6,025,27232,36
+3602540068,"Kortright town, Delaware County, New York",46.7,45.8,47.5,025,40068,36
+3602547031,"Middletown town, Delaware County, New York",55.8,56.6,55.1,025,47031,36
+3602520357,"Deposit town, Delaware County, New York",46.4,43.3,50.5,025,20357,36
+360252132,"Andes town, Delaware County, New York",58.5,58.1,59.3,025,2132,36
+360257597,"Bovina town, Delaware County, New York",48.2,50.9,44.7,025,7597,36
+3602740299,"La Grange town, Dutchess County, New York",44.1,44.1,44.0,027,40299,36
+3604512364,"Cape Vincent town, Jefferson County, New York",44.3,41.6,48.6,045,12364,36
+3604513717,"Champion town, Jefferson County, New York",41.2,40.6,42.1,045,13717,36
+3604557562,"Philadelphia town, Jefferson County, New York",33.4,32.6,34.4,045,57562,36
+3604583162,"Worth town, Jefferson County, New York",39.3,53.5,32.0,045,83162,36
+360450,"County subdivisions not defined, Jefferson County, New York",-666666666.0,-666666666.0,-666666666.0,045,0,36
+360451176,"Alexandria town, Jefferson County, New York",45.4,43.9,46.8,045,1176,36
+360452297,"Antwerp town, Jefferson County, New York",36.3,34.4,42.2,045,2297,36
+3604582348,"Wilna town, Jefferson County, New York",29.1,26.6,31.5,045,82348,36
+3604516100,"Clayton town, Jefferson County, New York",39.8,36.1,48.5,045,16100,36
+3604556209,"Pamelia town, Jefferson County, New York",36.4,36.0,38.1,045,56209,36
+3604578608,"Watertown city, Jefferson County, New York",31.1,30.3,32.8,045,78608,36
+3604542015,"Le Ray town, Jefferson County, New York",23.3,22.8,25.0,045,42015,36
+3604564265,"Rutland town, Jefferson County, New York",34.2,37.9,30.5,045,64265,36
+3604578619,"Watertown town, Jefferson County, New York",38.8,38.3,39.2,045,78619,36
+3609561599,"Richmondville town, Schoharie County, New York",40.0,37.7,45.1,095,61599,36
+3609516639,"Cobleskill town, Schoharie County, New York",33.1,26.9,37.1,095,16639,36
+3609566641,"Sharon town, Schoharie County, New York",42.7,40.3,43.3,095,66641,36
+3609572070,"Summit town, Schoharie County, New York",44.0,43.7,46.9,095,72070,36
+3609538440,"Jefferson town, Schoharie County, New York",48.5,48.0,48.7,095,38440,36
+3609510154,"Broome town, Schoharie County, New York",53.2,50.6,55.4,095,10154,36
+3609512452,"Carlisle town, Schoharie County, New York",42.0,42.5,41.4,095,12452,36
+3609583195,"Wright town, Schoharie County, New York",43.8,42.6,44.7,095,83195,36
+3609517651,"Conesville town, Schoharie County, New York",52.6,52.3,52.9,095,17651,36
+3609546855,"Middleburgh town, Schoharie County, New York",49.1,46.9,50.3,095,46855,36
+3609565596,"Schoharie town, Schoharie County, New York",47.9,48.2,47.7,095,65596,36
+360956893,"Blenheim town, Schoharie County, New York",47.2,46.6,47.7,095,6893,36
+3609527826,"Fulton town, Schoharie County, New York",43.6,48.5,38.9,095,27826,36
+3609528981,"Gilboa town, Schoharie County, New York",47.6,47.4,48.2,095,28981,36
+3609566542,"Seward town, Schoharie County, New York",46.2,48.2,44.0,095,66542,36
+3609524724,"Esperance town, Schoharie County, New York",43.6,42.2,46.1,095,24724,36
+360058510,"Bronx borough, Bronx County, New York",33.6,31.4,35.6,005,8510,36
+3606755651,"Otisco town, Onondaga County, New York",46.4,46.5,46.1,067,55651,36
+3606759036,"Pompey town, Onondaga County, New York",44.7,44.3,45.2,067,59036,36
+3606716067,"Clay town, Onondaga County, New York",39.5,37.2,41.7,067,16067,36
+3606720478,"De Witt town, Onondaga County, New York",42.3,39.7,45.0,067,20478,36
+3606767521,"Skaneateles town, Onondaga County, New York",52.3,51.4,53.0,067,67521,36
+3606773000,"Syracuse city, Onondaga County, New York",30.6,29.9,31.4,067,73000,36
+3606775638,"Tully town, Onondaga County, New York",45.9,44.0,47.2,067,75638,36
+3606723800,"Elbridge town, Onondaga County, New York",46.5,48.0,45.0,067,23800,36
+3606740266,"LaFayette town, Onondaga County, New York",46.1,46.3,44.5,067,40266,36
+3606754958,"Onondaga town, Onondaga County, New York",42.9,41.6,44.0,067,54958,36
+3606745491,"Marcellus town, Onondaga County, New York",46.7,44.7,48.2,067,45491,36
+3606764815,"Salina town, Onondaga County, New York",42.4,39.9,45.1,067,64815,36
+3606724878,"Fabius town, Onondaga County, New York",38.4,36.5,44.0,067,24878,36
+3606770057,"Spafford town, Onondaga County, New York",51.8,54.0,50.0,067,70057,36
+3606715704,"Cicero town, Onondaga County, New York",41.0,40.2,41.8,067,15704,36
+3606728519,"Geddes town, Onondaga County, New York",43.5,41.5,44.7,067,28519,36
+3606744039,"Lysander town, Onondaga County, New York",44.5,42.5,45.9,067,44039,36
+3606711913,"Camillus town, Onondaga County, New York",42.7,40.7,44.2,067,11913,36
+360358433,"Broadalbin town, Fulton County, New York",42.8,42.9,42.7,035,8433,36
+360356882,"Bleecker town, Fulton County, New York",52.1,56.1,46.5,035,6882,36
+3603538792,"Johnstown town, Fulton County, New York",46.8,44.5,48.6,035,38792,36
+3603551407,"Northampton town, Fulton County, New York",44.5,44.7,44.1,035,51407,36
+3603555101,"Oppenheim town, Fulton County, New York",43.4,44.3,42.1,035,55101,36
+3603571784,"Stratford town, Fulton County, New York",56.3,55.0,57.9,035,71784,36
+3603546217,"Mayfield town, Fulton County, New York",47.9,47.3,48.5,035,46217,36
+3603557353,"Perth town, Fulton County, New York",44.6,44.1,46.2,035,57353,36
+3603512573,"Caroga town, Fulton County, New York",54.6,54.2,55.5,035,12573,36
+3603529443,"Gloversville city, Fulton County, New York",40.1,37.3,41.9,035,29443,36
+3603538781,"Johnstown city, Fulton County, New York",38.7,35.6,42.5,035,38781,36
+3603524603,"Ephratah town, Fulton County, New York",48.6,49.8,48.3,035,24603,36
+3601914113,"Chazy town, Clinton County, New York",44.1,44.0,44.1,019,14113,36
+3601916397,"Clinton town, Clinton County, New York",49.6,49.7,49.1,019,16397,36
+3601948252,"Mooers town, Clinton County, New York",47.5,46.6,48.3,019,48252,36
+3601957375,"Peru town, Clinton County, New York",40.8,39.5,43.2,019,57375,36
+3601958574,"Plattsburgh city, Clinton County, New York",28.4,28.1,29.0,019,58574,36
+3601958585,"Plattsburgh town, Clinton County, New York",44.3,43.4,45.1,019,58585,36
+360196761,"Black Brook town, Clinton County, New York",47.6,47.0,51.1,019,6761,36
+3601913750,"Champlain town, Clinton County, New York",42.5,45.4,38.0,019,13750,36
+3601919653,"Dannemora town, Clinton County, New York",37.3,36.7,46.4,019,19653,36
+3601923921,"Ellenburg town, Clinton County, New York",42.8,42.7,42.9,019,23921,36
+360191583,"Altona town, Clinton County, New York",41.4,41.4,42.0,019,1583,36
+360193221,"Au Sable town, Clinton County, New York",43.4,39.5,47.3,019,3221,36
+360195485,"Beekmantown town, Clinton County, New York",42.6,43.3,41.9,019,5485,36
+3601965717,"Schuyler Falls town, Clinton County, New York",41.7,41.3,43.3,019,65717,36
+3601965211,"Saranac town, Clinton County, New York",37.0,36.0,37.9,019,65211,36
+3609918663,"Covert town, Seneca County, New York",46.2,45.2,47.4,099,18663,36
+3606561126,"Remsen town, Oneida County, New York",48.6,46.9,50.7,065,61126,36
+3606577178,"Verona town, Oneida County, New York",42.6,40.3,43.4,065,77178,36
+3606566993,"Sherrill city, Oneida County, New York",46.9,45.9,48.6,065,66993,36
+3606575280,"Trenton town, Oneida County, New York",43.3,38.7,47.4,065,75280,36
+3606577486,"Vienna town, Oneida County, New York",45.4,45.9,43.7,065,77486,36
+3606579862,"Western town, Oneida County, New York",45.1,42.4,47.3,065,79862,36
+3606580533,"Westmoreland town, Oneida County, New York",44.6,42.5,48.5,065,80533,36
+360658180,"Bridgewater town, Oneida County, New York",38.4,40.3,37.3,065,8180,36
+3606526297,"Florence town, Oneida County, New York",42.5,37.4,44.6,065,26297,36
+3606526385,"Floyd town, Oneida County, New York",46.8,44.0,48.5,065,26385,36
+3606545535,"Marcy town, Oneida County, New York",40.0,38.2,44.3,065,45535,36
+3606550309,"New Hartford town, Oneida County, New York",47.5,46.3,49.1,065,50309,36
+3606577123,"Vernon town, Oneida County, New York",41.9,39.0,45.9,065,77123,36
+360657366,"Boonville town, Oneida County, New York",45.4,42.2,48.5,065,7366,36
+3606511858,"Camden town, Oneida County, New York",42.4,41.2,43.3,065,11858,36
+360652253,"Annsville town, Oneida County, New York",39.7,41.4,38.0,065,2253,36
+360653309,"Ava town, Oneida County, New York",49.1,49.4,47.9,065,3309,36
+3606565134,"Sangerfield town, Oneida County, New York",47.9,44.3,50.0,065,65134,36
+3606571212,"Steuben town, Oneida County, New York",45.8,48.6,44.3,065,71212,36
+3606576540,"Utica city, Oneida County, New York",34.0,33.1,35.4,065,76540,36
+3606539804,"Kirkland town, Oneida County, New York",37.8,35.3,41.6,065,39804,36
+3606545755,"Marshall town, Oneida County, New York",39.3,37.4,42.8,065,45755,36
+3606581754,"Whitestown town, Oneida County, New York",43.8,43.2,44.4,065,81754,36
+3610310000,"Brookhaven town, Suffolk County, New York",39.5,37.7,40.9,103,10000,36
+3610366839,"Shelter Island town, Suffolk County, New York",50.9,51.8,50.4,103,66839,36
+3610367059,"Shinnecock Reservation, Suffolk County, New York",33.6,38.4,33.4,103,67059,36
+3610338000,"Islip town, Suffolk County, New York",38.0,36.4,39.6,103,38000,36
+3610337000,"Huntington town, Suffolk County, New York",44.3,43.4,45.3,103,37000,36
+3610322194,"East Hampton town, Suffolk County, New York",51.0,46.2,54.0,103,22194,36
+3610359106,"Poospatuck Reservation, Suffolk County, New York",31.4,31.8,31.2,103,59106,36
+3610368000,"Smithtown town, Suffolk County, New York",45.5,44.5,46.3,103,68000,36
+361034000,"Babylon town, Suffolk County, New York",39.7,37.8,41.2,103,4000,36
+3610361984,"Riverhead town, Suffolk County, New York",48.7,46.0,49.9,103,61984,36
+3610368473,"Southampton town, Suffolk County, New York",45.3,42.9,47.6,103,68473,36
+3610369463,"Southold town, Suffolk County, New York",53.0,52.3,53.8,103,69463,36
+3611120247,"Denning town, Ulster County, New York",49.1,51.1,43.3,111,20247,36
+3611137143,"Hurley town, Ulster County, New York",52.6,51.9,53.4,111,37143,36
+3611150562,"New Paltz town, Ulster County, New York",24.7,23.9,25.8,111,50562,36
+3609978564,"Waterloo town, Seneca County, New York",44.3,40.7,47.0,099,78564,36
+3609966333,"Seneca Falls town, Seneca County, New York",42.7,41.3,43.6,099,66333,36
+3609925505,"Fayette town, Seneca County, New York",49.5,52.2,44.5,099,25505,36
+3609975902,"Tyre town, Seneca County, New York",39.3,37.8,39.9,099,75902,36
+3609943225,"Lodi town, Seneca County, New York",47.8,48.1,47.6,099,43225,36
+3609963440,"Romulus town, Seneca County, New York",36.2,35.9,39.6,099,63440,36
+3609938858,"Junius town, Seneca County, New York",37.4,32.7,42.9,099,38858,36
+3609976958,"Varick town, Seneca County, New York",38.2,34.8,40.7,099,76958,36
+3609955827,"Ovid town, Seneca County, New York",38.0,35.5,45.4,099,55827,36
+3609928640,"Geneva city, Seneca County, New York",-666666666.0,-666666666.0,-666666666.0,099,28640,36
+3608371102,"Stephentown town, Rensselaer County, New York",46.5,46.5,46.5,083,71102,36
+3608349517,"Nassau town, Rensselaer County, New York",43.2,40.8,45.0,083,49517,36
+3608358398,"Pittstown town, Rensselaer County, New York",38.5,38.2,39.2,083,58398,36
+3608361148,"Rensselaer city, Rensselaer County, New York",34.9,32.6,36.5,083,61148,36
+3608365486,"Schaghticoke town, Rensselaer County, New York",42.7,38.2,47.1,083,65486,36
+3608329674,"Grafton town, Rensselaer County, New York",45.1,44.0,46.8,083,29674,36
+3608357441,"Petersburgh town, Rensselaer County, New York",49.6,47.5,52.1,083,57441,36
+3608335463,"Hoosick town, Rensselaer County, New York",43.1,42.1,46.1,083,35463,36
+3608352100,"North Greenbush town, Rensselaer County, New York",47.0,45.0,48.9,083,52100,36
+3608310275,"Brunswick town, Rensselaer County, New York",47.5,46.9,48.2,083,10275,36
+3608358805,"Poestenkill town, Rensselaer County, New York",43.5,44.2,42.6,083,58805,36
+3608365541,"Schodack town, Rensselaer County, New York",44.1,42.7,45.0,083,65541,36
+3608365013,"Sand Lake town, Rensselaer County, New York",45.0,44.6,45.4,083,65013,36
+360836189,"Berlin town, Rensselaer County, New York",49.4,50.1,48.7,083,6189,36
+3608322117,"East Greenbush town, Rensselaer County, New York",45.1,42.9,47.1,083,22117,36
+3608375484,"Troy city, Rensselaer County, New York",30.6,28.8,32.1,083,75484,36
+3607960147,"Putnam Valley town, Putnam County, New York",44.1,44.4,42.9,079,60147,36
+3607968924,"Southeast town, Putnam County, New York",41.5,39.1,43.7,079,68924,36
+3607956748,"Patterson town, Putnam County, New York",40.5,39.9,40.7,079,56748,36
+3603344721,"Malone town, Franklin County, New York",36.3,33.8,41.3,033,44721,36
+360337839,"Brandon town, Franklin County, New York",45.9,43.4,48.2,033,7839,36
+3603320973,"Duane town, Franklin County, New York",56.0,53.7,57.5,033,20973,36
+3603326737,"Fort Covington town, Franklin County, New York",36.6,40.5,32.5,033,26737,36
+3604317431,"Columbia town, Herkimer County, New York",45.5,43.5,48.0,043,17431,36
+3604342664,"Litchfield town, Herkimer County, New York",46.6,47.8,45.3,043,42664,36
+3604344974,"Manheim town, Herkimer County, New York",37.4,36.1,41.2,043,44974,36
+3607957584,"Philipstown town, Putnam County, New York",47.5,45.8,49.1,079,57584,36
+3607939331,"Kent town, Putnam County, New York",45.9,46.2,45.4,079,39331,36
+3607912529,"Carmel town, Putnam County, New York",43.9,40.9,46.0,079,12529,36
+360335716,"Bellmont town, Franklin County, New York",45.7,46.6,45.2,033,5716,36
+3603317871,"Constable town, Franklin County, New York",43.6,44.2,42.8,033,17871,36
+3603320610,"Dickinson town, Franklin County, New York",43.7,45.2,38.6,033,20610,36
+3603347933,"Moira town, Franklin County, New York",44.4,42.4,47.8,033,47933,36
+3603311165,"Burke town, Franklin County, New York",46.3,45.1,46.8,033,11165,36
+3611145458,"Marbletown town, Ulster County, New York",48.4,44.3,50.6,111,45458,36
+3611158552,"Plattekill town, Ulster County, New York",48.2,47.0,49.8,111,58552,36
+3611166674,"Shawangunk town, Ulster County, New York",39.9,39.4,42.1,111,66674,36
+3611124691,"Esopus town, Ulster County, New York",43.3,43.4,43.2,111,24691,36
+3611139727,"Kingston city, Ulster County, New York",38.1,37.9,38.3,111,39727,36
+3611142994,"Lloyd town, Ulster County, New York",41.2,40.3,44.1,111,42994,36
+3611178828,"Wawarsing town, Ulster County, New York",41.5,41.6,41.3,111,78828,36
+3611154749,"Olive town, Ulster County, New York",48.9,48.0,49.6,111,54749,36
+3611175935,"Ulster town, Ulster County, New York",47.7,45.9,49.2,111,75935,36
+3611163011,"Rochester town, Ulster County, New York",46.8,43.4,49.0,111,63011,36
+3611163737,"Rosendale town, Ulster County, New York",47.8,46.9,48.7,111,63737,36
+3611166597,"Shandaken town, Ulster County, New York",57.0,56.1,59.2,111,66597,36
+3611183052,"Woodstock town, Ulster County, New York",56.9,56.4,57.3,111,83052,36
+3611128255,"Gardiner town, Ulster County, New York",44.4,48.4,42.4,111,28255,36
+3611139738,"Kingston town, Ulster County, New York",48.6,49.0,48.0,111,39738,36
+3611165299,"Saugerties town, Ulster County, New York",43.0,40.5,45.8,111,65299,36
+3611132116,"Hardenburgh town, Ulster County, New York",55.9,56.0,55.8,111,32116,36
+3611145722,"Marlborough town, Ulster County, New York",43.8,43.4,44.4,111,45722,36
+3612121369,"Eagle town, Wyoming County, New York",38.5,40.2,36.9,121,21369,36
+3612118696,"Covington town, Wyoming County, New York",45.6,46.6,44.7,121,18696,36
+3612166773,"Sheldon town, Wyoming County, New York",48.3,48.2,48.4,121,66773,36
+3612127980,"Gainesville town, Wyoming County, New York",38.9,38.1,40.2,121,27980,36
+3612157826,"Pike town, Wyoming County, New York",46.4,48.4,42.9,121,57826,36
+3612112782,"Castile town, Wyoming County, New York",48.3,46.6,51.3,121,12782,36
+3612128596,"Genesee Falls town, Wyoming County, New York",46.6,44.0,47.2,121,28596,36
+3612157254,"Perry town, Wyoming County, New York",39.7,37.0,40.5,121,57254,36
+361212418,"Arcade town, Wyoming County, New York",41.1,40.5,42.6,121,2418,36
+361213012,"Attica town, Wyoming County, New York",36.4,35.6,40.0,121,3012,36
+3612146877,"Middlebury town, Wyoming County, New York",45.0,44.4,46.0,121,46877,36
+3612155222,"Orangeville town, Wyoming County, New York",39.5,39.1,41.1,121,55222,36
+3612178344,"Warsaw town, Wyoming County, New York",43.5,38.0,45.6,121,78344,36
+3612181325,"Wethersfield town, Wyoming County, New York",40.9,40.6,42.3,121,81325,36
+3612138341,"Java town, Wyoming County, New York",45.3,43.9,46.5,121,38341,36
+361215936,"Bennington town, Wyoming County, New York",47.0,46.5,48.1,121,5936,36
+3601524229,"Elmira city, Chemung County, New York",33.4,33.5,33.4,015,24229,36
+360152781,"Ashland town, Chemung County, New York",50.4,50.2,50.6,015,2781,36
+3601524636,"Erin town, Chemung County, New York",43.3,41.6,45.1,015,24636,36
+360154132,"Baldwin town, Chemung County, New York",48.7,49.1,48.4,015,4132,36
+3603327243,"Franklin town, Franklin County, New York",51.8,51.5,51.9,033,27243,36
+3603365178,"Santa Clara town, Franklin County, New York",57.8,58.8,57.0,033,65178,36
+3603378795,"Waverly town, Franklin County, New York",45.3,43.1,47.9,033,78795,36
+3603381215,"Westville town, Franklin County, New York",47.9,47.5,48.5,033,81215,36
+360334319,"Bangor town, Franklin County, New York",34.5,34.3,34.7,033,4319,36
+360337278,"Bombay town, Franklin County, New York",31.9,31.8,32.0,033,7278,36
+360338213,"Brighton town, Franklin County, New York",21.7,21.4,23.0,033,8213,36
+3603313992,"Chateaugay town, Franklin County, New York",44.0,43.7,44.8,033,13992,36
+3603364727,"St. Regis Mohawk Reservation, Franklin County, New York",45.8,45.6,46.3,033,64727,36
+3603332314,"Harrietstown town, Franklin County, New York",42.5,39.6,46.8,033,32314,36
+3604365695,"Schuyler town, Herkimer County, New York",47.2,45.7,49.8,043,65695,36
+3604382568,"Winfield town, Herkimer County, New York",42.8,40.1,45.3,043,82568,36
+3604353968,"Norway town, Herkimer County, New York",46.0,49.4,43.8,043,53968,36
+3604370794,"Stark town, Herkimer County, New York",46.3,45.8,46.8,043,70794,36
+3604334132,"Herkimer town, Herkimer County, New York",44.1,36.7,49.0,043,34132,36
+3604378278,"Warren town, Herkimer County, New York",38.0,35.9,38.7,043,78278,36
+3604327199,"Frankfort town, Herkimer County, New York",45.1,44.3,45.9,043,27199,36
+3604328750,"German Flatts town, Herkimer County, New York",39.9,39.7,40.4,043,28750,36
+3604342752,"Little Falls town, Herkimer County, New York",43.1,41.5,45.2,043,42752,36
+3604364254,"Russia town, Herkimer County, New York",40.9,41.3,40.7,043,64254,36
+3604364837,"Salisbury town, Herkimer County, New York",38.8,38.1,39.6,043,64837,36
+3604350584,"Newport town, Herkimer County, New York",41.9,39.0,44.4,043,50584,36
+3604324933,"Fairfield town, Herkimer County, New York",44.9,48.0,42.3,043,24933,36
+3604342741,"Little Falls city, Herkimer County, New York",41.4,41.5,40.9,043,42741,36
+3604319686,"Danube town, Herkimer County, New York",44.1,47.1,41.6,043,19686,36
+3604354507,"Ohio town, Herkimer County, New York",49.9,50.9,48.9,043,54507,36
+3604378927,"Webb town, Herkimer County, New York",59.7,59.6,59.7,043,78927,36
+3606928651,"Geneva town, Ontario County, New York",47.5,47.1,47.9,069,28651,36
+3606935551,"Hopewell town, Ontario County, New York",40.7,37.5,42.2,069,35551,36
+3606961544,"Richmond town, Ontario County, New York",50.6,47.6,51.7,069,61544,36
+3601569617,"Southport town, Chemung County, New York",45.2,41.8,50.1,015,69617,36
+3601576892,"Van Etten town, Chemung County, New York",43.8,45.3,42.8,015,76892,36
+3601577310,"Veteran town, Chemung County, New York",51.9,51.8,52.4,015,77310,36
+360156475,"Big Flats town, Chemung County, New York",45.0,43.7,45.7,015,6475,36
+3601512947,"Catlin town, Chemung County, New York",38.9,39.0,38.5,015,12947,36
+3601524240,"Elmira town, Chemung County, New York",47.7,48.5,46.6,015,24240,36
+3601535705,"Horseheads town, Chemung County, New York",43.5,42.7,44.8,015,35705,36
+3601515077,"Chemung town, Chemung County, New York",47.5,48.4,45.7,015,15077,36
+360513364,"Avon town, Livingston County, New York",41.9,39.8,44.1,051,3364,36
+3605142961,"Livonia town, Livingston County, New York",43.4,44.7,41.4,051,42961,36
+3605141883,"Leicester town, Livingston County, New York",45.3,45.3,45.2,051,41883,36
+3605148956,"Mount Morris town, Livingston County, New York",43.7,40.3,49.5,051,48956,36
+3605170101,"Sparta town, Livingston County, New York",49.4,50.5,48.8,051,70101,36
+3605111715,"Caledonia town, Livingston County, New York",44.4,45.3,43.2,051,11715,36
+3605128629,"Geneseo town, Livingston County, New York",21.8,22.0,21.6,051,28629,36
+3605131016,"Groveland town, Livingston County, New York",36.6,36.3,41.0,051,31016,36
+3605151869,"North Dansville town, Livingston County, New York",45.0,42.4,46.7,051,51869,36
+3605155508,"Ossian town, Livingston County, New York",44.8,44.8,44.8,051,55508,36
+3605181006,"West Sparta town, Livingston County, New York",41.9,42.6,40.3,051,81006,36
+3605184022,"York town, Livingston County, New York",42.4,41.3,45.2,051,84022,36
+3605117618,"Conesus town, Livingston County, New York",48.4,47.7,49.0,051,17618,36
+3605142334,"Lima town, Livingston County, New York",41.4,41.8,41.1,051,42334,36
+3605154089,"Nunda town, Livingston County, New York",46.9,46.9,47.1,051,54089,36
+3605170475,"Springwater town, Livingston County, New York",45.3,43.5,48.1,051,70475,36
+3605159179,"Portage town, Livingston County, New York",44.9,44.0,47.8,051,59179,36
+3607580500,"West Monroe town, Oswego County, New York",42.7,42.6,42.7,075,80500,36
+3607550342,"New Haven town, Oswego County, New York",41.9,40.7,42.8,075,50342,36
+360750,"County subdivisions not defined, Oswego County, New York",-666666666.0,-666666666.0,-666666666.0,075,0,36
+3607547691,"Minetto town, Oswego County, New York",44.8,40.6,49.3,075,47691,36
+3607517904,"Constantia town, Oswego County, New York",46.2,46.5,45.3,075,17904,36
+3607532688,"Hastings town, Oswego County, New York",44.2,44.5,43.5,075,32688,36
+3607555574,"Oswego city, Oswego County, New York",34.9,31.6,38.4,075,55574,36
+3607565079,"Sandy Creek town, Oswego County, New York",45.0,47.2,43.8,075,65079,36
+3607565618,"Schroeppel town, Oswego County, New York",41.8,41.3,43.1,075,65618,36
+360757674,"Boylston town, Oswego County, New York",45.9,44.7,46.1,075,7674,36
+360751649,"Amboy town, Oswego County, New York",43.5,42.4,45.8,075,1649,36
+3607527815,"Fulton city, Oswego County, New York",37.9,36.4,41.1,075,27815,36
+3607529729,"Granby town, Oswego County, New York",39.7,40.8,37.5,075,29729,36
+3606968660,"South Bristol town, Ontario County, New York",54.8,55.6,54.0,069,68660,36
+3606912144,"Canandaigua city, Ontario County, New York",42.6,37.6,45.4,069,12144,36
+3606925406,"Farmington town, Ontario County, New York",37.8,38.8,37.3,069,25406,36
+3606977387,"Victor town, Ontario County, New York",42.9,43.2,42.3,069,77387,36
+3606912100,"Canadice town, Ontario County, New York",52.6,53.0,51.8,069,12100,36
+3606957529,"Phelps town, Ontario County, New York",45.1,43.3,46.3,069,57529,36
+3606921699,"East Bloomfield town, Ontario County, New York",41.8,40.7,44.7,069,21699,36
+3606928640,"Geneva city, Ontario County, New York",29.6,27.6,31.7,069,28640,36
+3606966289,"Seneca town, Ontario County, New York",46.7,42.2,49.1,069,66289,36
+3606979356,"West Bloomfield town, Ontario County, New York",50.0,50.1,49.9,069,79356,36
+360698378,"Bristol town, Ontario County, New York",50.5,49.6,50.7,069,8378,36
+3606929531,"Gorham town, Ontario County, New York",48.9,50.0,48.0,069,29531,36
+3606944864,"Manchester town, Ontario County, New York",45.7,44.2,47.1,069,44864,36
+3606949440,"Naples town, Ontario County, New York",51.0,50.2,52.0,069,49440,36
+3606912155,"Canandaigua town, Ontario County, New York",47.3,45.5,49.6,069,12155,36
+3608160323,"Queens borough, Queens County, New York",38.3,36.8,39.7,081,60323,36
+3610135661,"Hornby town, Steuben County, New York",42.3,41.9,42.5,101,35661,36
+3610178861,"Wayland town, Steuben County, New York",48.9,49.9,48.6,101,78861,36
+3610182843,"Woodhull town, Steuben County, New York",33.7,32.3,35.4,101,82843,36
+36101287,"Addison town, Steuben County, New York",38.5,38.7,38.3,101,287,36
+361014770,"Bath town, Steuben County, New York",45.1,44.9,45.3,101,4770,36
+3610111946,"Campbell town, Steuben County, New York",49.0,46.9,50.6,101,11946,36

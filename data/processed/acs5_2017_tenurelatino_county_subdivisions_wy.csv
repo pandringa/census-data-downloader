@@ -1,0 +1,72 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+5601593465,"Torrington CCD, Goshen County, Wyoming",497.0,310.0,187.0,015,93465,56
+5601591430,"Goshen Hole CCD, Goshen County, Wyoming",18.0,1.0,17.0,015,91430,56
+5601592585,"Rawhide Creek CCD, Goshen County, Wyoming",12.0,12.0,0.0,015,92585,56
+5604191155,"Evanston CCD, Uinta County, Wyoming",621.0,278.0,343.0,041,91155,56
+5604190440,"Bridger Valley CCD, Uinta County, Wyoming",26.0,26.0,0.0,041,90440,56
+5604393300,"Ten Sleep CCD, Washakie County, Wyoming",4.0,2.0,2.0,043,93300,56
+5604393795,"Worland CCD, Washakie County, Wyoming",411.0,296.0,115.0,043,93795,56
+5601793410,"Thermopolis West CCD, Hot Springs County, Wyoming",55.0,55.0,0.0,017,93410,56
+5601793355,"Thermopolis East CCD, Hot Springs County, Wyoming",12.0,12.0,0.0,017,93355,56
+5601391045,"Dubois CCD, Fremont County, Wyoming",29.0,29.0,0.0,013,91045,56
+5601392035,"Lander CCD, Fremont County, Wyoming",159.0,94.0,65.0,013,92035,56
+5601393080,"Shoshoni CCD, Fremont County, Wyoming",29.0,16.0,13.0,013,93080,56
+5603592475,"Pinedale CCD, Sublette County, Wyoming",160.0,131.0,29.0,035,92475,56
+5603590385,"Boulder CCD, Sublette County, Wyoming",0.0,0.0,0.0,035,90385,56
+5603590330,"Big Piney CCD, Sublette County, Wyoming",36.0,26.0,10.0,035,90330,56
+5604593520,"Upton CCD, Weston County, Wyoming",44.0,0.0,44.0,045,93520,56
+5604592255,"Newcastle CCD, Weston County, Wyoming",0.0,0.0,0.0,045,92255,56
+5600390688,"Central Big Horn CCD, Big Horn County, Wyoming",115.0,72.0,43.0,003,90688,56
+5600392393,"North Big Horn CCD, Big Horn County, Wyoming",149.0,64.0,85.0,003,92393,56
+5601393742,"Wind River Reservation CCD, Fremont County, Wyoming",439.0,240.0,199.0,013,93742,56
+5601793744,"Wind River Reservation CCD, Hot Springs County, Wyoming",0.0,0.0,0.0,017,93744,56
+5600393142,"South Big Horn CCD, Big Horn County, Wyoming",53.0,13.0,40.0,003,93142,56
+5602791128,"East Niobrara CCD, Niobrara County, Wyoming",0.0,0.0,0.0,027,91128,56
+5602793603,"West Niobrara CCD, Niobrara County, Wyoming",5.0,5.0,0.0,027,93603,56
+5600591265,"Gillette South CCD, Campbell County, Wyoming",433.0,300.0,133.0,005,91265,56
+5600591210,"Gillette North CCD, Campbell County, Wyoming",585.0,315.0,270.0,005,91210,56
+5602390055,"Afton CCD, Lincoln County, Wyoming",125.0,38.0,87.0,023,90055,56
+5602391980,"Kemmerer West CCD, Lincoln County, Wyoming",17.0,0.0,17.0,023,91980,56
+5602391925,"Kemmerer East CCD, Lincoln County, Wyoming",73.0,62.0,11.0,023,91925,56
+5601991870,"Kaycee CCD, Johnson County, Wyoming",23.0,0.0,23.0,019,91870,56
+5601990495,"Buffalo CCD, Johnson County, Wyoming",54.0,14.0,40.0,019,90495,56
+5602590550,"Casper CCD, Natrona County, Wyoming",1568.0,669.0,899.0,025,90550,56
+5602590660,"Casper South CCD, Natrona County, Wyoming",191.0,127.0,64.0,025,90660,56
+5602590605,"Casper North CCD, Natrona County, Wyoming",138.0,132.0,6.0,025,90605,56
+5602591705,"Hells Half Acre CCD, Natrona County, Wyoming",87.0,62.0,25.0,025,91705,56
+5602190770,"Cheyenne East CCD, Laramie County, Wyoming",238.0,238.0,0.0,021,90770,56
+5602190715,"Cheyenne CCD, Laramie County, Wyoming",3877.0,2265.0,1612.0,021,90715,56
+5602190825,"Cheyenne West CCD, Laramie County, Wyoming",132.0,72.0,60.0,021,90825,56
+5602192420,"Pine Bluffs CCD, Laramie County, Wyoming",80.0,50.0,30.0,021,92420,56
+5600990990,"Douglas CCD, Converse County, Wyoming",243.0,243.0,0.0,009,90990,56
+5600991375,"Glenrock CCD, Converse County, Wyoming",94.0,33.0,61.0,009,91375,56
+5603991815,"Jackson Hole CCD, Teton County, Wyoming",828.0,98.0,730.0,039,91815,56
+5603993905,"Yellowstone National Park CCD, Teton County, Wyoming",0.0,0.0,0.0,039,93905,56
+5603990110,"Alta CCD, Teton County, Wyoming",0.0,0.0,0.0,039,90110,56
+5603791540,"Green River South CCD, Sweetwater County, Wyoming",121.0,91.0,30.0,037,91540,56
+5603791485,"Green River North CCD, Sweetwater County, Wyoming",662.0,422.0,240.0,037,91485,56
+5603792750,"Rock Springs North CCD, Sweetwater County, Wyoming",1324.0,850.0,474.0,037,92750,56
+5603793575,"Wamsutter CCD, Sweetwater County, Wyoming",12.0,10.0,2.0,037,93575,56
+5603792805,"Rock Springs South CCD, Sweetwater County, Wyoming",0.0,0.0,0.0,037,92805,56
+5603193630,"Wheatland CCD, Platte County, Wyoming",151.0,84.0,67.0,031,93630,56
+5603190880,"Chugwater CCD, Platte County, Wyoming",7.0,7.0,0.0,031,90880,56
+5603191320,"Glendo CCD, Platte County, Wyoming",0.0,0.0,0.0,031,91320,56
+5603191595,"Guernsey CCD, Platte County, Wyoming",51.0,27.0,24.0,031,91595,56
+5603392970,"Sheridan South CCD, Sheridan County, Wyoming",18.0,18.0,0.0,033,92970,56
+5603393025,"Sheridan West CCD, Sheridan County, Wyoming",23.0,6.0,17.0,033,93025,56
+5603392915,"Sheridan CCD, Sheridan County, Wyoming",396.0,188.0,208.0,033,92915,56
+5601192200,"Moorcroft CCD, Crook County, Wyoming",57.0,40.0,17.0,011,92200,56
+5601193190,"Sundance CCD, Crook County, Wyoming",0.0,0.0,0.0,011,93190,56
+5601191760,"Hulett CCD, Crook County, Wyoming",6.0,0.0,6.0,011,91760,56
+5602990935,"Cody CCD, Park County, Wyoming",118.0,86.0,32.0,029,90935,56
+5602992145,"Meeteetse CCD, Park County, Wyoming",18.0,3.0,15.0,029,92145,56
+5602993850,"Yellowstone National Park CCD, Park County, Wyoming",0.0,0.0,0.0,029,93850,56
+5602992530,"Powell CCD, Park County, Wyoming",309.0,93.0,216.0,029,92530,56
+5600193135,"South Albany CCD, Albany County, Wyoming",40.0,36.0,4.0,001,93135,56
+5600191100,"East Albany CCD, Albany County, Wyoming",0.0,0.0,0.0,001,91100,56
+5600192695,"Rock River CCD, Albany County, Wyoming",7.0,3.0,4.0,001,92695,56
+5600192090,"Laramie CCD, Albany County, Wyoming",1168.0,665.0,503.0,001,92090,56
+5600791650,"Hanna CCD, Carbon County, Wyoming",20.0,2.0,18.0,007,91650,56
+5600792640,"Rawlins CCD, Carbon County, Wyoming",870.0,639.0,231.0,007,92640,56
+5600792860,"Saratoga CCD, Carbon County, Wyoming",50.0,7.0,43.0,007,92860,56
+5601391842,"Jeffrey City CCD, Fremont County, Wyoming",0.0,0.0,0.0,013,91842,56

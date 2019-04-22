@@ -1,0 +1,1579 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+2606524120,"East Lansing city, Ingham County, Michigan",12894.0,4171.0,8723.0,065,24120,26
+2606547200,"Leslie township, Ingham County, Michigan",934.0,853.0,81.0,065,47200,26
+2606552180,"Mason city, Ingham County, Michigan",3193.0,1991.0,1202.0,065,52180,26
+2606546020,"Lansing charter township, Ingham County, Michigan",3901.0,2075.0,1826.0,065,46020,26
+2606547180,"Leslie city, Ingham County, Michigan",673.0,528.0,145.0,065,47180,26
+2606549040,"Locke township, Ingham County, Michigan",636.0,562.0,74.0,065,49040,26
+2606553140,"Meridian charter township, Ingham County, Michigan",18008.0,10977.0,7031.0,065,53140,26
+2606560800,"Onondaga township, Ingham County, Michigan",1084.0,958.0,126.0,065,60800,26
+2606547080,"Leroy township, Ingham County, Michigan",1353.0,1110.0,243.0,065,47080,26
+260654240,"Aurelius township, Ingham County, Michigan",1463.0,1404.0,59.0,065,4240,26
+26065800,"Alaiedon township, Ingham County, Michigan",1106.0,1015.0,91.0,065,800,26
+2606587420,"Williamston city, Ingham County, Michigan",1604.0,1089.0,515.0,065,87420,26
+2606586520,"Wheatfield township, Ingham County, Michigan",620.0,572.0,48.0,065,86520,26
+2606540640,"Ingham township, Ingham County, Michigan",870.0,803.0,67.0,065,40640,26
+2606586900,"White Oak township, Ingham County, Michigan",448.0,383.0,65.0,065,86900,26
+260516680,"Beaverton township, Gladwin County, Michigan",761.0,620.0,141.0,051,6680,26
+260517360,"Bentley township, Gladwin County, Michigan",354.0,323.0,31.0,051,7360,26
+260518360,"Billings township, Gladwin County, Michigan",1086.0,1019.0,67.0,051,8360,26
+2605173140,"Sherman township, Gladwin County, Michigan",456.0,405.0,51.0,051,73140,26
+2605112180,"Butman township, Gladwin County, Michigan",881.0,814.0,67.0,051,12180,26
+2605170500,"Sage township, Gladwin County, Michigan",969.0,855.0,114.0,051,70500,26
+2605137300,"Hay township, Gladwin County, Michigan",602.0,542.0,60.0,051,37300,26
+2605132320,"Gladwin city, Gladwin County, Michigan",1267.0,633.0,634.0,051,32320,26
+2605132340,"Gladwin township, Gladwin County, Michigan",410.0,362.0,48.0,051,32340,26
+260519720,"Bourret township, Gladwin County, Michigan",214.0,200.0,14.0,051,9720,26
+2605111440,"Buckeye township, Gladwin County, Michigan",531.0,470.0,61.0,051,11440,26
+2605116360,"Clement township, Gladwin County, Michigan",452.0,428.0,24.0,051,16360,26
+2605179860,"Tobacco township, Gladwin County, Michigan",1098.0,987.0,111.0,051,79860,26
+2605135620,"Grout township, Gladwin County, Michigan",650.0,589.0,61.0,051,35620,26
+2605172240,"Secord township, Gladwin County, Michigan",651.0,623.0,28.0,051,72240,26
+260516660,"Beaverton city, Gladwin County, Michigan",558.0,269.0,289.0,051,6660,26
+2605135340,"Grim township, Gladwin County, Michigan",50.0,45.0,5.0,051,35340,26
+2607782840,"Wakeshma township, Kalamazoo County, Michigan",510.0,444.0,66.0,077,82840,26
+2607742160,"Kalamazoo city, Kalamazoo County, Michigan",28996.0,12998.0,15998.0,077,42160,26
+2607762960,"Pavilion township, Kalamazoo County, Michigan",2345.0,2168.0,177.0,077,62960,26
+2607765560,"Portage city, Kalamazoo County, Michigan",19552.0,13258.0,6294.0,077,65560,26
+2607766200,"Prairie Ronde township, Kalamazoo County, Michigan",833.0,818.0,15.0,077,66200,26
+2607769820,"Ross township, Kalamazoo County, Michigan",2055.0,1730.0,325.0,077,69820,26
+2607762340,"Parchment city, Kalamazoo County, Michigan",827.0,426.0,401.0,077,62340,26
+2607731260,"Galesburg city, Kalamazoo County, Michigan",828.0,429.0,399.0,077,31260,26
+2607768260,"Richland township, Kalamazoo County, Michigan",2999.0,2347.0,652.0,077,68260,26
+260779920,"Brady township, Kalamazoo County, Michigan",1620.0,1357.0,263.0,077,9920,26
+2607714720,"Charleston township, Kalamazoo County, Michigan",769.0,726.0,43.0,077,14720,26
+2607771880,"Schoolcraft township, Kalamazoo County, Michigan",3290.0,2686.0,604.0,077,71880,26
+2607716460,"Climax township, Kalamazoo County, Michigan",946.0,854.0,92.0,077,16460,26
+260890,"County subdivisions not defined, Leelanau County, Michigan",0.0,0.0,0.0,089,0,26
+2608925700,"Elmwood charter township, Leelanau County, Michigan",1873.0,1554.0,319.0,089,25700,26
+260898440,"Bingham township, Leelanau County, Michigan",1030.0,923.0,107.0,089,8440,26
+2608914340,"Centerville township, Leelanau County, Michigan",520.0,455.0,65.0,089,14340,26
+2608926000,"Empire township, Leelanau County, Michigan",597.0,541.0,56.0,089,26000,26
+2608974500,"Solon township, Leelanau County, Michigan",614.0,554.0,60.0,089,74500,26
+2608711840,"Burlington township, Lapeer County, Michigan",551.0,486.0,65.0,087,11840,26
+2608735840,"Hadley township, Lapeer County, Michigan",1714.0,1653.0,61.0,087,35840,26
+2608746040,"Lapeer city, Lapeer County, Michigan",3565.0,1669.0,1896.0,087,46040,26
+2608746060,"Lapeer township, Lapeer County, Michigan",1920.0,1655.0,265.0,087,46060,26
+2608752500,"Mayfield township, Lapeer County, Michigan",3051.0,2660.0,391.0,087,52500,26
+2608751420,"Marathon township, Lapeer County, Michigan",1728.0,1522.0,206.0,087,51420,26
+2608768160,"Rich township, Lapeer County, Michigan",565.0,509.0,56.0,087,68160,26
+2608725160,"Elba township, Lapeer County, Michigan",2069.0,1900.0,169.0,087,25160,26
+2608740300,"Imlay township, Lapeer County, Michigan",1032.0,934.0,98.0,087,40300,26
+2608753360,"Metamora township, Lapeer County, Michigan",1609.0,1335.0,274.0,087,53360,26
+260874040,"Attica township, Lapeer County, Michigan",1708.0,1519.0,189.0,087,4040,26
+2608711900,"Burnside township, Lapeer County, Michigan",677.0,609.0,68.0,087,11900,26
+2608711180,"Brown City city, Lapeer County, Michigan",4.0,0.0,4.0,087,11180,26
+2608732960,"Goodland township, Lapeer County, Michigan",660.0,581.0,79.0,087,32960,26
+2608723160,"Dryden township, Lapeer County, Michigan",1754.0,1527.0,227.0,087,23160,26
+2608758090,"North Branch township, Lapeer County, Michigan",1415.0,1081.0,334.0,087,58090,26
+260871680,"Almont township, Lapeer County, Michigan",2531.0,2220.0,311.0,087,1680,26
+260873280,"Arcadia township, Lapeer County, Michigan",1199.0,1123.0,76.0,087,3280,26
+2608761060,"Oregon township, Lapeer County, Michigan",2126.0,1986.0,140.0,087,61060,26
+2609969800,"Roseville city, Macomb County, Michigan",19585.0,12328.0,7257.0,099,69800,26
+260990,"County subdivisions not defined, Macomb County, Michigan",0.0,0.0,0.0,099,0,26
+2609924290,"Eastpointe city, Macomb County, Michigan",12539.0,7914.0,4625.0,099,24290,26
+2609952960,"Memphis city, Macomb County, Michigan",366.0,210.0,156.0,099,52960,26
+260993540,"Armada township, Macomb County, Michigan",2061.0,1864.0,197.0,099,3540,26
+26077840,"Alamo township, Kalamazoo County, Michigan",1477.0,1449.0,28.0,077,840,26
+26107500,"Aetna township, Mecosta County, Michigan",804.0,671.0,133.0,107,500,26
+2608721160,"Deerfield township, Lapeer County, Michigan",2008.0,1788.0,220.0,087,21160,26
+2608740320,"Imlay City city, Lapeer County, Michigan",1266.0,591.0,675.0,087,40320,26
+2603530900,"Frost township, Clare County, Michigan",505.0,442.0,63.0,035,30900,26
+2603535120,"Greenwood township, Clare County, Michigan",460.0,434.0,26.0,035,35120,26
+2603537160,"Hatton township, Clare County, Michigan",371.0,320.0,51.0,035,37160,26
+2603537340,"Hayes township, Clare County, Michigan",1859.0,1526.0,333.0,035,37340,26
+2603577120,"Summerfield township, Clare County, Michigan",183.0,170.0,13.0,035,77120,26
+260353620,"Arthur township, Clare County, Michigan",249.0,224.0,25.0,035,3620,26
+2603530280,"Franklin township, Clare County, Michigan",312.0,294.0,18.0,035,30280,26
+2603536140,"Hamilton township, Clare County, Michigan",815.0,746.0,69.0,035,36140,26
+2603547620,"Lincoln township, Clare County, Michigan",760.0,659.0,101.0,035,47620,26
+2616189100,"York charter township, Washtenaw County, Michigan",2396.0,2054.0,342.0,161,89100,26
+2616149120,"Lodi township, Washtenaw County, Michigan",2198.0,2116.0,82.0,161,49120,26
+2616158280,"Northfield township, Washtenaw County, Michigan",3294.0,2567.0,727.0,161,58280,26
+2616164560,"Pittsfield charter township, Washtenaw County, Michigan",14096.0,7975.0,6121.0,161,64560,26
+261613000,"Ann Arbor city, Washtenaw County, Michigan",47524.0,21803.0,25721.0,161,3000,26
+2616147460,"Lima township, Washtenaw County, Michigan",1317.0,1212.0,105.0,161,47460,26
+2616189140,"Ypsilanti city, Washtenaw County, Michigan",7865.0,2421.0,5444.0,161,89140,26
+2616122180,"Dexter township, Washtenaw County, Michigan",2231.0,2072.0,159.0,161,22180,26
+2614575480,"Spaulding township, Saginaw County, Michigan",837.0,678.0,159.0,145,75480,26
+2614579840,"Tittabawassee township, Saginaw County, Michigan",3198.0,2571.0,627.0,145,79840,26
+2614514660,"Chapin township, Saginaw County, Michigan",375.0,315.0,60.0,145,14660,26
+2614530200,"Frankenmuth city, Saginaw County, Michigan",2286.0,1569.0,717.0,145,30200,26
+2614544560,"Lakefield township, Saginaw County, Michigan",381.0,345.0,36.0,145,44560,26
+261458560,"Birch Run township, Saginaw County, Michigan",2462.0,2009.0,453.0,145,8560,26
+2614515160,"Chesaning township, Saginaw County, Michigan",1858.0,1440.0,418.0,145,15160,26
+2614541480,"James township, Saginaw County, Michigan",755.0,701.0,54.0,145,41480,26
+2614541900,"Jonesfield township, Saginaw County, Michigan",618.0,543.0,75.0,145,41900,26
+2614543800,"Kochville township, Saginaw County, Michigan",1212.0,945.0,267.0,145,43800,26
+2614551060,"Maple Grove township, Saginaw County, Michigan",939.0,858.0,81.0,145,51060,26
+2614579100,"Taymouth township, Saginaw County, Michigan",1560.0,1446.0,114.0,145,79100,26
+2614510460,"Bridgeport charter township, Saginaw County, Michigan",4237.0,3404.0,833.0,145,10460,26
+2614570540,"Saginaw charter township, Saginaw County, Michigan",17913.0,11587.0,6326.0,145,70540,26
+2614579520,"Thomas township, Saginaw County, Michigan",4721.0,4128.0,593.0,145,79520,26
+2614589320,"Zilwaukee city, Saginaw County, Michigan",673.0,494.0,179.0,145,89320,26
+2614570660,"St. Charles township, Saginaw County, Michigan",1326.0,968.0,358.0,145,70660,26
+2614577660,"Swan Creek township, Saginaw County, Michigan",955.0,877.0,78.0,145,77660,26
+261459940,"Brady township, Saginaw County, Michigan",806.0,739.0,67.0,145,9940,26
+2614511560,"Buena Vista charter township, Saginaw County, Michigan",3640.0,2303.0,1337.0,145,11560,26
+261459400,"Blumfield township, Saginaw County, Michigan",736.0,680.0,56.0,145,9400,26
+2614530720,"Fremont township, Saginaw County, Michigan",779.0,756.0,23.0,145,30720,26
+2614570520,"Saginaw city, Saginaw County, Michigan",19778.0,11825.0,7953.0,145,70520,26
+26145920,"Albee township, Saginaw County, Michigan",744.0,682.0,62.0,145,920,26
+2614510100,"Brant township, Saginaw County, Michigan",750.0,693.0,57.0,145,10100,26
+2614513540,"Carrollton township, Saginaw County, Michigan",2234.0,1458.0,776.0,145,13540,26
+2614568340,"Richland township, Saginaw County, Michigan",1598.0,1314.0,284.0,145,68340,26
+2614589340,"Zilwaukee township, Saginaw County, Michigan",42.0,31.0,11.0,145,89340,26
+2614530220,"Frankenmuth township, Saginaw County, Michigan",712.0,658.0,54.0,145,30220,26
+2603587980,"Winterfield township, Clare County, Michigan",206.0,180.0,26.0,035,87980,26
+2603573000,"Sheridan township, Clare County, Michigan",483.0,451.0,32.0,035,73000,26
+2603531560,"Garfield township, Clare County, Michigan",811.0,693.0,118.0,035,31560,26
+2603536800,"Harrison city, Clare County, Michigan",926.0,561.0,365.0,035,36800,26
+2603567600,"Redding township, Clare County, Michigan",160.0,135.0,25.0,035,67600,26
+2603577580,"Surrey township, Clare County, Michigan",1424.0,1171.0,253.0,035,77580,26
+2603530560,"Freeman township, Clare County, Michigan",492.0,462.0,30.0,035,30560,26
+2603534220,"Grant township, Clare County, Michigan",1274.0,1121.0,153.0,035,34220,26
+2603515920,"Clare city, Clare County, Michigan",1436.0,782.0,654.0,035,15920,26
+2615184140,"Washington township, Sanilac County, Michigan",613.0,549.0,64.0,151,84140,26
+2615188760,"Worth township, Sanilac County, Michigan",1746.0,1597.0,149.0,151,88760,26
+2615119460,"Custer township, Sanilac County, Michigan",402.0,370.0,32.0,151,19460,26
+261510,"County subdivisions not defined, Sanilac County, Michigan",0.0,0.0,0.0,151,0,26
+261513460,"Argyle township, Sanilac County, Michigan",293.0,263.0,30.0,151,3460,26
+2615121380,"Delaware township, Sanilac County, Michigan",348.0,284.0,64.0,151,21380,26
+2615129240,"Flynn township, Sanilac County, Michigan",378.0,325.0,53.0,151,29240,26
+2615129500,"Forester township, Sanilac County, Michigan",411.0,358.0,53.0,151,29500,26
+2615147300,"Lexington township, Sanilac County, Michigan",1608.0,1416.0,192.0,151,47300,26
+2615184440,"Watertown township, Sanilac County, Michigan",539.0,437.0,102.0,151,84440,26
+2615111180,"Brown City city, Sanilac County, Michigan",557.0,327.0,230.0,151,11180,26
+2615111540,"Buel township, Sanilac County, Michigan",514.0,413.0,101.0,151,11540,26
+2615151380,"Maple Valley township, Sanilac County, Michigan",415.0,379.0,36.0,151,51380,26
+2615151720,"Marion township, Sanilac County, Michigan",624.0,464.0,160.0,151,51720,26
+2615186580,"Wheatland township, Sanilac County, Michigan",188.0,155.0,33.0,151,86580,26
+2615154540,"Minden township, Sanilac County, Michigan",224.0,201.0,23.0,151,54540,26
+2615125280,"Elk township, Sanilac County, Michigan",569.0,468.0,101.0,151,25280,26
+2615125540,"Elmer township, Sanilac County, Michigan",303.0,270.0,33.0,151,25540,26
+2615171580,"Sanilac township, Sanilac County, Michigan",1071.0,886.0,185.0,151,71580,26
+2615175500,"Speaker township, Sanilac County, Michigan",505.0,476.0,29.0,151,75500,26
+261514400,"Austin township, Sanilac County, Michigan",212.0,192.0,20.0,151,4400,26
+2615118920,"Croswell city, Sanilac County, Michigan",1086.0,649.0,437.0,151,18920,26
+2615135020,"Greenleaf township, Sanilac County, Michigan",304.0,241.0,63.0,151,35020,26
+2615171540,"Sandusky city, Sanilac County, Michigan",1058.0,563.0,495.0,151,71540,26
+2615110420,"Bridgehampton township, Sanilac County, Michigan",328.0,257.0,71.0,151,10420,26
+2615126740,"Evergreen township, Sanilac County, Michigan",325.0,279.0,46.0,151,26740,26
+2615151820,"Marlette city, Sanilac County, Michigan",776.0,421.0,355.0,151,51820,26
+2615151840,"Marlette township, Sanilac County, Michigan",621.0,553.0,68.0,151,51840,26
+2615155320,"Moore township, Sanilac County, Michigan",380.0,318.0,62.0,151,55320,26
+2601566260,"Prairieville township, Barry County, Michigan",1271.0,1083.0,188.0,015,66260,26
+2601513960,"Castleton township, Barry County, Michigan",1377.0,974.0,403.0,015,13960,26
+2601539120,"Hope township, Barry County, Michigan",1519.0,1237.0,282.0,015,39120,26
+2601589020,"Yankee Springs township, Barry County, Michigan",1758.0,1530.0,228.0,015,89020,26
+260153860,"Assyria township, Barry County, Michigan",850.0,716.0,134.0,015,3860,26
+2601579620,"Thornapple township, Barry County, Michigan",2908.0,2313.0,595.0,015,79620,26
+260155020,"Baltimore township, Barry County, Michigan",806.0,674.0,132.0,015,5020,26
+2601537120,"Hastings city, Barry County, Michigan",3040.0,1850.0,1190.0,015,37120,26
+2601541120,"Irving township, Barry County, Michigan",1193.0,1054.0,139.0,015,41120,26
+2601550960,"Maple Grove township, Barry County, Michigan",535.0,482.0,53.0,015,50960,26
+2602763380,"Penn township, Cass County, Michigan",760.0,611.0,149.0,027,63380,26
+2602765720,"Porter township, Cass County, Michigan",1517.0,1279.0,238.0,027,65720,26
+2602741600,"Jefferson township, Cass County, Michigan",924.0,823.0,101.0,027,41600,26
+2602752140,"Mason township, Cass County, Michigan",1057.0,792.0,265.0,027,52140,26
+2602757120,"Newberg township, Cass County, Michigan",667.0,585.0,82.0,027,57120,26
+2602757760,"Niles city, Cass County, Michigan",0.0,0.0,0.0,027,57760,26
+2602782580,"Volinia township, Cass County, Michigan",417.0,331.0,86.0,027,82580,26
+2602712620,"Calvin township, Cass County, Michigan",727.0,613.0,114.0,027,12620,26
+2602722880,"Dowagiac city, Cass County, Michigan",2416.0,1271.0,1145.0,027,22880,26
+2602765300,"Pokagon township, Cass County, Michigan",909.0,812.0,97.0,027,65300,26
+2602754460,"Milton township, Cass County, Michigan",1409.0,1324.0,85.0,027,54460,26
+2602760900,"Ontwa township, Cass County, Michigan",2584.0,2166.0,418.0,027,60900,26
+2602739480,"Howard township, Cass County, Michigan",2635.0,2303.0,332.0,027,39480,26
+2602773940,"Silver Creek township, Cass County, Michigan",1316.0,1195.0,121.0,027,73940,26
+2602751480,"Marcellus township, Cass County, Michigan",1012.0,820.0,192.0,027,51480,26
+2602784920,"Wayne township, Cass County, Michigan",1053.0,927.0,126.0,027,84920,26
+2607137580,"Hematite township, Iron County, Michigan",129.0,106.0,23.0,071,37580,26
+2607141000,"Iron River township, Iron County, Michigan",470.0,421.0,49.0,071,41000,26
+2607119140,"Crystal Falls city, Iron County, Michigan",724.0,581.0,143.0,071,19140,26
+260715860,"Bates township, Iron County, Michigan",414.0,395.0,19.0,071,5860,26
+2607113860,"Caspian city, Iron County, Michigan",302.0,232.0,70.0,071,13860,26
+2607131160,"Gaastra city, Iron County, Michigan",158.0,145.0,13.0,071,31160,26
+2607150860,"Mansfield township, Iron County, Michigan",108.0,105.0,3.0,071,50860,26
+2607152300,"Mastodon township, Iron County, Michigan",310.0,286.0,24.0,071,52300,26
+2607176080,"Stambaugh township, Iron County, Michigan",519.0,489.0,30.0,071,76080,26
+2607119150,"Crystal Falls township, Iron County, Michigan",655.0,579.0,76.0,071,19150,26
+2614551700,"Marion township, Saginaw County, Michigan",357.0,288.0,69.0,145,51700,26
+2615511880,"Burns township, Shiawassee County, Michigan",1301.0,1107.0,194.0,155,11880,26
+2615573520,"Shiawassee township, Shiawassee County, Michigan",1082.0,910.0,172.0,155,73520,26
+2615563700,"Perry city, Shiawassee County, Michigan",894.0,533.0,361.0,155,63700,26
+2615582040,"Vernon township, Shiawassee County, Michigan",1962.0,1629.0,333.0,155,82040,26
+261557280,"Bennington township, Shiawassee County, Michigan",1211.0,1127.0,84.0,155,7280,26
+2615518300,"Corunna city, Shiawassee County, Michigan",1362.0,695.0,667.0,155,18300,26
+2615561940,"Owosso city, Shiawassee County, Michigan",6052.0,3532.0,2520.0,155,61940,26
+261553120,"Antrim township, Shiawassee County, Michigan",818.0,709.0,109.0,155,3120,26
+2615557400,"New Haven township, Shiawassee County, Michigan",481.0,451.0,30.0,155,57400,26
+2615581880,"Venice township, Shiawassee County, Michigan",1019.0,828.0,191.0,155,81880,26
+2615588400,"Woodhull township, Shiawassee County, Michigan",1473.0,1348.0,125.0,155,88400,26
+2615527040,"Fairfield township, Shiawassee County, Michigan",290.0,244.0,46.0,155,27040,26
+2615553680,"Middlebury township, Shiawassee County, Michigan",631.0,572.0,59.0,155,53680,26
+2615571960,"Sciota township, Shiawassee County, Michigan",657.0,588.0,69.0,155,71960,26
+2607347660,"Lincoln township, Isabella County, Michigan",742.0,625.0,117.0,073,47660,26
+2607321680,"Denver township, Isabella County, Michigan",437.0,368.0,69.0,073,21680,26
+2613113520,"Carp Lake township, Ontonagon County, Michigan",338.0,328.0,10.0,131,13520,26
+2613160880,"Ontonagon township, Ontonagon County, Michigan",1150.0,955.0,195.0,131,60880,26
+2613152320,"Matchwood township, Ontonagon County, Michigan",35.0,34.0,1.0,131,52320,26
+2613150460,"McMillan township, Ontonagon County, Michigan",190.0,162.0,28.0,131,50460,26
+2613169140,"Rockland township, Ontonagon County, Michigan",95.0,85.0,10.0,131,69140,26
+2613140760,"Interior township, Ontonagon County, Michigan",169.0,151.0,18.0,131,40760,26
+2611153780,"Midland city, Midland County, Michigan",17504.0,11161.0,6343.0,111,53780,26
+2611146160,"Larkin charter township, Midland County, Michigan",1988.0,1815.0,173.0,111,46160,26
+2611154320,"Mills township, Midland County, Michigan",679.0,638.0,41.0,111,54320,26
+2611165740,"Porter township, Midland County, Michigan",428.0,390.0,38.0,111,65740,26
+2611184020,"Warren township, Midland County, Michigan",734.0,673.0,61.0,111,84020,26
+2611141760,"Jerome township, Midland County, Michigan",1968.0,1749.0,219.0,111,41760,26
+2611134860,"Greendale township, Midland County, Michigan",685.0,594.0,91.0,111,34860,26
+2611140620,"Ingersoll township, Midland County, Michigan",986.0,922.0,64.0,111,40620,26
+2611138980,"Homer township, Midland County, Michigan",1630.0,1511.0,119.0,111,38980,26
+2611155940,"Mount Haley township, Midland County, Michigan",694.0,616.0,78.0,111,55940,26
+2611131820,"Geneva township, Midland County, Michigan",432.0,406.0,26.0,111,31820,26
+2602147600,"Lincoln charter township, Berrien County, Michigan",5960.0,4756.0,1204.0,021,47600,26
+2602170100,"Royalton township, Berrien County, Michigan",1604.0,1403.0,201.0,021,70100,26
+2602184520,"Watervliet township, Berrien County, Michigan",1363.0,1139.0,224.0,021,84520,26
+260215520,"Baroda township, Berrien County, Michigan",1191.0,995.0,196.0,021,5520,26
+2602111400,"Buchanan city, Berrien County, Michigan",1879.0,1030.0,849.0,021,11400,26
+2602144260,"Lake charter township, Berrien County, Michigan",1381.0,1039.0,342.0,021,44260,26
+2602164480,"Pipestone township, Berrien County, Michigan",838.0,706.0,132.0,021,64480,26
+2602117340,"Coloma charter township, Berrien County, Michigan",2056.0,1528.0,528.0,021,17340,26
+2612380680,"Troy township, Newaygo County, Michigan",96.0,78.0,18.0,123,80680,26
+2612310500,"Bridgeton township, Newaygo County, Michigan",851.0,706.0,145.0,123,10500,26
+2612318980,"Croton township, Newaygo County, Michigan",1360.0,1258.0,102.0,123,18980,26
+2612347700,"Lincoln township, Newaygo County, Michigan",567.0,484.0,83.0,123,47700,26
+2612353160,"Merrill township, Newaygo County, Michigan",299.0,248.0,51.0,123,53160,26
+261238280,"Big Prairie township, Newaygo County, Michigan",1115.0,988.0,127.0,123,8280,26
+2612321700,"Denver township, Newaygo County, Michigan",762.0,661.0,101.0,123,21700,26
+2612333000,"Goodwell township, Newaygo County, Michigan",206.0,195.0,11.0,123,33000,26
+2612359300,"Norwich township, Newaygo County, Michigan",218.0,200.0,18.0,123,59300,26
+2612387200,"Wilcox township, Newaygo County, Michigan",407.0,339.0,68.0,123,87200,26
+261235620,"Barton township, Newaygo County, Michigan",281.0,254.0,27.0,123,5620,26
+2612334380,"Grant township, Newaygo County, Michigan",1135.0,954.0,181.0,123,34380,26
+2612311060,"Brooks township, Newaygo County, Michigan",1586.0,1400.0,186.0,123,11060,26
+2612326700,"Everett township, Newaygo County, Michigan",735.0,603.0,132.0,123,26700,26
+2613337840,"Hersey township, Osceola County, Michigan",661.0,579.0,82.0,133,37840,26
+2613351680,"Marion township, Osceola County, Michigan",632.0,488.0,144.0,133,51680,26
+2613337060,"Hartwick township, Osceola County, Michigan",237.0,215.0,22.0,133,37060,26
+2613347120,"Le Roy township, Osceola County, Michigan",506.0,461.0,45.0,133,47120,26
+2613361080,"Orient township, Osceola County, Michigan",315.0,286.0,29.0,133,61080,26
+2613311680,"Burdell township, Osceola County, Michigan",490.0,418.0,72.0,133,11680,26
+2613314040,"Cedar township, Osceola County, Michigan",183.0,170.0,13.0,133,14040,26
+2613338100,"Highland township, Osceola County, Michigan",445.0,389.0,56.0,133,38100,26
+2613369760,"Rose Lake township, Osceola County, Michigan",489.0,446.0,43.0,133,69760,26
+2613347720,"Lincoln township, Osceola County, Michigan",608.0,496.0,112.0,133,47720,26
+26125400,"Addison township, Oakland County, Michigan",2388.0,2190.0,198.0,125,400,26
+261259180,"Bloomfield Hills city, Oakland County, Michigan",1292.0,1151.0,141.0,125,9180,26
+261258640,"Birmingham city, Oakland County, Michigan",8982.0,6713.0,2269.0,125,8640,26
+2612527440,"Farmington Hills city, Oakland County, Michigan",34377.0,21245.0,13132.0,125,27440,26
+2612561020,"Orchard Lake Village city, Oakland County, Michigan",855.0,829.0,26.0,125,61020,26
+2612562040,"Oxford charter township, Oakland County, Michigan",8076.0,6796.0,1280.0,125,62040,26
+2612564900,"Pleasant Ridge city, Oakland County, Michigan",1058.0,1003.0,55.0,125,64900,26
+2612565440,"Pontiac city, Oakland County, Michigan",23262.0,9634.0,13628.0,125,65440,26
+2612574900,"Southfield city, Oakland County, Michigan",32333.0,15516.0,16817.0,125,74900,26
+2612538720,"Holly township, Oakland County, Michigan",4378.0,3521.0,857.0,125,38720,26
+2612542460,"Keego Harbor city, Oakland County, Michigan",1512.0,898.0,614.0,125,42460,26
+2612559440,"Novi city, Oakland County, Michigan",22770.0,14834.0,7936.0,125,59440,26
+2612569020,"Rochester city, Oakland County, Michigan",5461.0,3512.0,1949.0,125,69020,26
+2612570040,"Royal Oak city, Oakland County, Michigan",28548.0,18907.0,9641.0,125,70040,26
+2612527380,"Farmington city, Oakland County, Michigan",4717.0,2804.0,1913.0,125,27380,26
+2612540000,"Huntington Woods city, Oakland County, Michigan",2447.0,2377.0,70.0,125,40000,26
+2612559820,"Oakland charter township, Oakland County, Michigan",6326.0,5996.0,330.0,125,59820,26
+2615523500,"Durand city, Shiawassee County, Michigan",1469.0,960.0,509.0,155,23500,26
+2615544200,"Laingsburg city, Shiawassee County, Michigan",501.0,371.0,130.0,155,44200,26
+2615563720,"Perry township, Shiawassee County, Michigan",1431.0,1229.0,202.0,155,63720,26
+2615570260,"Rush township, Shiawassee County, Michigan",460.0,438.0,22.0,155,70260,26
+2615537440,"Hazelton township, Shiawassee County, Michigan",818.0,690.0,128.0,155,37440,26
+260135340,"Baraga township, Baraga County, Michigan",856.0,652.0,204.0,013,5340,26
+2601318600,"Covington township, Baraga County, Michigan",220.0,209.0,11.0,013,18600,26
+2601376000,"Spurr township, Baraga County, Michigan",120.0,116.0,4.0,013,76000,26
+260133660,"Arvon township, Baraga County, Michigan",175.0,171.0,4.0,013,3660,26
+2601345560,"L'Anse township, Baraga County, Michigan",1638.0,1359.0,279.0,013,45560,26
+260130,"County subdivisions not defined, Baraga County, Michigan",0.0,0.0,0.0,013,0,26
+2601764180,"Pinconning township, Bay County, Michigan",933.0,849.0,84.0,017,64180,26
+2601753220,"Merritt township, Bay County, Michigan",570.0,527.0,43.0,017,53220,26
+2601764160,"Pinconning city, Bay County, Michigan",608.0,425.0,183.0,017,64160,26
+2601726420,"Essexville city, Bay County, Michigan",1401.0,1257.0,144.0,017,26420,26
+2601732040,"Gibson township, Bay County, Michigan",419.0,371.0,48.0,017,32040,26
+2601742360,"Kawkawlin township, Bay County, Michigan",2079.0,1898.0,181.0,017,42360,26
+2615130740,"Fremont township, Sanilac County, Michigan",385.0,286.0,99.0,151,30740,26
+2615145460,"Lamotte township, Sanilac County, Michigan",338.0,279.0,59.0,151,45460,26
+260831520,"Allouez township, Keweenaw County, Michigan",674.0,562.0,112.0,083,1520,26
+2608334300,"Grant township, Keweenaw County, Michigan",105.0,90.0,15.0,083,34300,26
+2608323620,"Eagle Harbor township, Keweenaw County, Michigan",138.0,135.0,3.0,083,23620,26
+2608339380,"Houghton township, Keweenaw County, Michigan",51.0,43.0,8.0,083,39380,26
+2608373220,"Sherman township, Keweenaw County, Michigan",45.0,42.0,3.0,083,73220,26
+260830,"County subdivisions not defined, Keweenaw County, Michigan",0.0,0.0,0.0,083,0,26
+2607311140,"Broomfield township, Isabella County, Michigan",696.0,615.0,81.0,073,11140,26
+2607388040,"Wise township, Isabella County, Michigan",521.0,446.0,75.0,073,88040,26
+2607317060,"Coldwater township, Isabella County, Michigan",309.0,276.0,33.0,073,17060,26
+2607341160,"Isabella township, Isabella County, Michigan",795.0,710.0,85.0,073,41160,26
+2607356020,"Mount Pleasant city, Isabella County, Michigan",8027.0,3138.0,4889.0,073,56020,26
+2607382000,"Vernon township, Isabella County, Michigan",466.0,413.0,53.0,073,82000,26
+2607315920,"Clare city, Isabella County, Michigan",20.0,11.0,9.0,073,15920,26
+2607332200,"Gilmore township, Isabella County, Michigan",531.0,490.0,41.0,073,32200,26
+2607373200,"Sherman township, Isabella County, Michigan",1165.0,1002.0,163.0,073,73200,26
+2607359360,"Nottawa township, Isabella County, Michigan",885.0,785.0,100.0,073,59360,26
+2607381340,"Union charter township, Isabella County, Michigan",5133.0,2090.0,3043.0,073,81340,26
+2607369300,"Rolland township, Isabella County, Michigan",460.0,426.0,34.0,073,69300,26
+2607315580,"Chippewa township, Isabella County, Michigan",1770.0,1375.0,395.0,073,15580,26
+2607316880,"Coe township, Isabella County, Michigan",1230.0,992.0,238.0,073,16880,26
+2607321140,"Deerfield township, Isabella County, Michigan",1160.0,1071.0,89.0,073,21140,26
+2607330680,"Fremont township, Isabella County, Michigan",551.0,474.0,77.0,073,30680,26
+261319460,"Bohemia township, Ontonagon County, Michigan",30.0,28.0,2.0,131,9460,26
+261317640,"Bergland township, Ontonagon County, Michigan",231.0,209.0,22.0,131,7640,26
+2613135000,"Greenland township, Ontonagon County, Michigan",290.0,287.0,3.0,131,35000,26
+261310,"County subdivisions not defined, Ontonagon County, Michigan",0.0,0.0,0.0,131,0,26
+2607140980,"Iron River city, Iron County, Michigan",1526.0,1053.0,473.0,071,40980,26
+260197600,"Benzonia township, Benzie County, Michigan",1013.0,802.0,211.0,019,7600,26
+260191640,"Almira township, Benzie County, Michigan",1354.0,1287.0,67.0,019,1640,26
+2601939000,"Homestead township, Benzie County, Michigan",890.0,781.0,109.0,019,39000,26
+260198840,"Blaine township, Benzie County, Michigan",227.0,221.0,6.0,019,8840,26
+2601940700,"Inland township, Benzie County, Michigan",812.0,712.0,100.0,019,40700,26
+2601932180,"Gilmore township, Benzie County, Michigan",277.0,252.0,25.0,019,32180,26
+2601942000,"Joyfield township, Benzie County, Michigan",306.0,286.0,20.0,019,42000,26
+2601985160,"Weldon township, Benzie County, Michigan",241.0,200.0,41.0,019,85160,26
+260190,"County subdivisions not defined, Benzie County, Michigan",0.0,0.0,0.0,019,0,26
+2601917120,"Colfax township, Benzie County, Michigan",248.0,211.0,37.0,019,17120,26
+2601919180,"Crystal Lake township, Benzie County, Michigan",455.0,424.0,31.0,019,19180,26
+2601930260,"Frankfort city, Benzie County, Michigan",552.0,383.0,169.0,019,30260,26
+2601944240,"Lake township, Benzie County, Michigan",378.0,372.0,6.0,019,44240,26
+2601964760,"Platte township, Benzie County, Michigan",158.0,148.0,10.0,019,64760,26
+261434720,"Backus township, Roscommon County, Michigan",147.0,136.0,11.0,143,4720,26
+2614344400,"Lake township, Roscommon County, Michigan",543.0,474.0,69.0,143,44400,26
+261434320,"Au Sable township, Roscommon County, Michigan",134.0,121.0,13.0,143,4320,26
+2614338020,"Higgins township, Roscommon County, Michigan",871.0,588.0,283.0,143,38020,26
+2614321640,"Denton township, Roscommon County, Michigan",2759.0,2194.0,565.0,143,21640,26
+2614331960,"Gerrish township, Roscommon County, Michigan",1404.0,1313.0,91.0,143,31960,26
+2614356980,"Nester township, Roscommon County, Michigan",95.0,93.0,2.0,143,56980,26
+2614369560,"Roscommon township, Roscommon County, Michigan",1796.0,1344.0,452.0,143,69560,26
+2614349840,"Lyon township, Roscommon County, Michigan",577.0,528.0,49.0,143,49840,26
+2614368200,"Richfield township, Roscommon County, Michigan",1700.0,1415.0,285.0,143,68200,26
+2614351780,"Markey township, Roscommon County, Michigan",1105.0,871.0,234.0,143,51780,26
+2615337940,"Hiawatha township, Schoolcraft County, Michigan",540.0,512.0,28.0,153,37940,26
+2615350760,"Manistique city, Schoolcraft County, Michigan",1204.0,691.0,513.0,153,50760,26
+2615331940,"Germfask township, Schoolcraft County, Michigan",205.0,178.0,27.0,153,31940,26
+2615372500,"Seney township, Schoolcraft County, Michigan",39.0,33.0,6.0,153,72500,26
+2615340840,"Inwood township, Schoolcraft County, Michigan",267.0,244.0,23.0,153,40840,26
+261530,"County subdivisions not defined, Schoolcraft County, Michigan",0.0,0.0,0.0,153,0,26
+2615356060,"Mueller township, Schoolcraft County, Michigan",110.0,90.0,20.0,153,56060,26
+2615322960,"Doyle township, Schoolcraft County, Michigan",226.0,216.0,10.0,153,22960,26
+2615350780,"Manistique township, Schoolcraft County, Michigan",358.0,316.0,42.0,153,50780,26
+2615379580,"Thompson township, Schoolcraft County, Michigan",333.0,312.0,21.0,153,79580,26
+260176020,"Bay City city, Bay County, Michigan",14267.0,10015.0,4252.0,017,6020,26
+2601730400,"Fraser township, Bay County, Michigan",1489.0,1396.0,93.0,017,30400,26
+260176540,"Beaver township, Bay County, Michigan",977.0,878.0,99.0,017,6540,26
+2601730180,"Frankenlust township, Bay County, Michigan",1463.0,1066.0,397.0,017,30180,26
+2601731540,"Garfield township, Bay County, Michigan",711.0,676.0,35.0,017,31540,26
+2601753780,"Midland city, Bay County, Michigan",70.0,58.0,12.0,017,53780,26
+2601755920,"Mount Forest township, Bay County, Michigan",580.0,542.0,38.0,017,55920,26
+260170,"County subdivisions not defined, Bay County, Michigan",0.0,0.0,0.0,017,0,26
+260174080,"Auburn city, Bay County, Michigan",918.0,547.0,371.0,017,4080,26
+260296000,"Bay township, Charlevoix County, Michigan",564.0,547.0,17.0,029,6000,26
+260299820,"Boyne City city, Charlevoix County, Michigan",1629.0,1122.0,507.0,029,9820,26
+2602970920,"St. James township, Charlevoix County, Michigan",145.0,116.0,29.0,029,70920,26
+2602926580,"Evangeline township, Charlevoix County, Michigan",347.0,305.0,42.0,029,26580,26
+260299860,"Boyne Valley township, Charlevoix County, Michigan",533.0,475.0,58.0,029,9860,26
+2602926680,"Eveline township, Charlevoix County, Michigan",719.0,643.0,76.0,029,26680,26
+2602959340,"Norwood township, Charlevoix County, Michigan",337.0,315.0,22.0,029,59340,26
+2602914560,"Chandler township, Charlevoix County, Michigan",106.0,94.0,12.0,029,14560,26
+260290,"County subdivisions not defined, Charlevoix County, Michigan",0.0,0.0,0.0,029,0,26
+2602914780,"Charlevoix city, Charlevoix County, Michigan",1321.0,660.0,661.0,029,14780,26
+2602914800,"Charlevoix township, Charlevoix County, Michigan",658.0,590.0,68.0,029,14800,26
+2602924020,"East Jordan city, Charlevoix County, Michigan",993.0,706.0,287.0,029,24020,26
+2602937320,"Hayes township, Charlevoix County, Michigan",737.0,673.0,64.0,029,37320,26
+2602939700,"Hudson township, Charlevoix County, Michigan",278.0,265.0,13.0,029,39700,26
+2602987700,"Wilson township, Charlevoix County, Michigan",707.0,655.0,52.0,029,87700,26
+2602951620,"Marion township, Charlevoix County, Michigan",669.0,609.0,60.0,029,51620,26
+2602963140,"Peaine township, Charlevoix County, Michigan",135.0,135.0,0.0,029,63140,26
+2602974680,"South Arm township, Charlevoix County, Michigan",749.0,690.0,59.0,029,74680,26
+2602952880,"Melrose township, Charlevoix County, Michigan",607.0,512.0,95.0,029,52880,26
+260457080,"Bellevue township, Eaton County, Michigan",1233.0,1039.0,194.0,045,7080,26
+2604510920,"Brookfield township, Eaton County, Michigan",575.0,465.0,110.0,045,10920,26
+2604513380,"Carmel township, Eaton County, Michigan",1163.0,1102.0,61.0,045,13380,26
+2604515260,"Chester township, Eaton County, Michigan",702.0,630.0,72.0,045,15260,26
+2604524560,"Eaton Rapids township, Eaton County, Michigan",1529.0,1415.0,114.0,045,24560,26
+2604533420,"Grand Ledge city, Eaton County, Michigan",3566.0,2274.0,1292.0,045,33420,26
+2604536200,"Hamlin township, Eaton County, Michigan",1306.0,1207.0,99.0,045,36200,26
+2613135960,"Haight township, Ontonagon County, Michigan",76.0,61.0,15.0,131,35960,26
+2613176180,"Stannard township, Ontonagon County, Michigan",341.0,298.0,43.0,131,76180,26
+2613927960,"Ferrysburg city, Ottawa County, Michigan",1317.0,1134.0,183.0,139,27960,26
+2613938640,"Holland city, Ottawa County, Michigan",9041.0,5330.0,3711.0,139,38640,26
+2613939800,"Hudsonville city, Ottawa County, Michigan",2546.0,2045.0,501.0,139,39800,26
+2613965940,"Port Sheldon township, Ottawa County, Michigan",1779.0,1612.0,167.0,139,65940,26
+261390,"County subdivisions not defined, Ottawa County, Michigan",0.0,0.0,0.0,139,0,26
+2613988820,"Wright township, Ottawa County, Michigan",1063.0,957.0,106.0,139,88820,26
+2613989260,"Zeeland city, Ottawa County, Michigan",2389.0,1598.0,791.0,139,89260,26
+2613989280,"Zeeland charter township, Ottawa County, Michigan",3491.0,3268.0,223.0,139,89280,26
+261398940,"Blendon township, Ottawa County, Michigan",2118.0,1865.0,253.0,139,8940,26
+2613933340,"Grand Haven city, Ottawa County, Michigan",4936.0,3471.0,1465.0,139,33340,26
+2613962460,"Park township, Ottawa County, Michigan",6951.0,6278.0,673.0,139,62460,26
+2613915300,"Chester township, Ottawa County, Michigan",754.0,645.0,109.0,139,15300,26
+2613918020,"Coopersville city, Ottawa County, Michigan",1615.0,1201.0,414.0,139,18020,26
+2613975840,"Spring Lake township, Ottawa County, Michigan",5961.0,4385.0,1576.0,139,75840,26
+2613918800,"Crockery township, Ottawa County, Michigan",1617.0,1467.0,150.0,139,18800,26
+2613941520,"Jamestown charter township, Ottawa County, Michigan",2576.0,2264.0,312.0,139,41520,26
+2613969000,"Robinson township, Ottawa County, Michigan",2106.0,2027.0,79.0,139,69000,26
+2613960460,"Olive township, Ottawa County, Michigan",1777.0,1552.0,225.0,139,60460,26
+2615717420,"Columbia township, Tuscola County, Michigan",483.0,432.0,51.0,157,17420,26
+2615785280,"Wells township, Tuscola County, Michigan",625.0,542.0,83.0,157,85280,26
+2615754240,"Millington township, Tuscola County, Michigan",1678.0,1395.0,283.0,157,54240,26
+2615730760,"Fremont township, Tuscola County, Michigan",1313.0,1018.0,295.0,157,30760,26
+2615742140,"Juniata township, Tuscola County, Michigan",628.0,605.0,23.0,157,42140,26
+2615743400,"Kingston township, Tuscola County, Michigan",573.0,462.0,111.0,157,43400,26
+2615784460,"Watertown township, Tuscola County, Michigan",820.0,721.0,99.0,157,84460,26
+2615725380,"Ellington township, Tuscola County, Michigan",524.0,440.0,84.0,157,25380,26
+2615732160,"Gilford township, Tuscola County, Michigan",297.0,258.0,39.0,157,32160,26
+2615788080,"Wisner township, Tuscola County, Michigan",311.0,259.0,52.0,157,88080,26
+261573220,"Arbela township, Tuscola County, Michigan",1123.0,959.0,164.0,157,3220,26
+2616331420,"Garden City city, Wayne County, Michigan",10500.0,8567.0,1933.0,163,31420,26
+2616335580,"Grosse Pointe Woods city, Wayne County, Michigan",6024.0,5327.0,697.0,163,35580,26
+261631380,"Allen Park city, Wayne County, Michigan",10928.0,9244.0,1684.0,163,1380,26
+2613977980,"Tallmadge charter township, Ottawa County, Michigan",2897.0,2411.0,486.0,139,77980,26
+260375900,"Bath charter township, Clinton County, Michigan",4742.0,3240.0,1502.0,037,5900,26
+2613965320,"Polkton charter township, Ottawa County, Michigan",938.0,856.0,82.0,139,65320,26
+2613931880,"Georgetown charter township, Ottawa County, Michigan",17934.0,14821.0,3113.0,139,31880,26
+2613933360,"Grand Haven charter township, Ottawa County, Michigan",6018.0,5014.0,1004.0,139,33360,26
+2613938660,"Holland charter township, Ottawa County, Michigan",13477.0,9465.0,4012.0,139,38660,26
+2604927780,"Fenton charter township, Genesee County, Michigan",6045.0,5428.0,617.0,049,27780,26
+2604929020,"Flint charter township, Genesee County, Michigan",12899.0,8314.0,4585.0,049,29020,26
+2609916520,"Clinton charter township, Macomb County, Michigan",43713.0,27760.0,15953.0,099,16520,26
+2609936820,"Harrison charter township, Macomb County, Michigan",11403.0,7879.0,3524.0,099,36820,26
+2614729760,"Fort Gratiot charter township, St. Clair County, Michigan",4384.0,3212.0,1172.0,147,29760,26
+2616189160,"Ypsilanti charter township, Washtenaw County, Michigan",22509.0,12555.0,9954.0,161,89160,26
+2616311220,"Brownstown charter township, Wayne County, Michigan",11502.0,9013.0,2489.0,163,11220,26
+2616313120,"Canton charter township, Wayne County, Michigan",32567.0,24580.0,7987.0,163,13120,26
+260175120,"Bangor charter township, Bay County, Michigan",5785.0,4342.0,1443.0,017,5120,26
+2601736260,"Hampton charter township, Bay County, Michigan",4150.0,2661.0,1489.0,017,36260,26
+2601754980,"Monitor charter township, Bay County, Michigan",4439.0,4033.0,406.0,017,54980,26
+2601765980,"Portsmouth charter township, Bay County, Michigan",1357.0,1230.0,127.0,017,65980,26
+2601787380,"Williams charter township, Bay County, Michigan",1854.0,1660.0,194.0,017,87380,26
+260256720,"Bedford charter township, Calhoun County, Michigan",3814.0,3378.0,436.0,025,6720,26
+2602525935,"Emmett charter township, Calhoun County, Michigan",4905.0,3591.0,1314.0,025,25935,26
+2616365080,"Plymouth charter township, Wayne County, Michigan",10817.0,8846.0,1971.0,163,65080,26
+2616367625,"Redford charter township, Wayne County, Michigan",18127.0,13322.0,4805.0,163,67625,26
+2616381660,"Van Buren charter township, Wayne County, Michigan",11245.0,7273.0,3972.0,163,81660,26
+2616536600,"Haring charter township, Wexford County, Michigan",1306.0,1177.0,129.0,165,36600,26
+2600535720,"Gun Plain township, Allegan County, Michigan",2235.0,2103.0,132.0,005,35720,26
+2604982380,"Vienna charter township, Genesee County, Michigan",5133.0,4208.0,925.0,049,82380,26
+2605341080,"Ironwood charter township, Gogebic County, Michigan",915.0,751.0,164.0,053,41080,26
+2616332020,"Gibraltar city, Wayne County, Michigan",1804.0,1408.0,396.0,163,32020,26
+2616335520,"Grosse Pointe Farms city, Wayne County, Michigan",3113.0,2960.0,153.0,163,35520,26
+2616340040,"Huron charter township, Wayne County, Michigan",5580.0,5025.0,555.0,163,40040,26
+2616349000,"Livonia city, Wayne County, Michigan",37186.0,31529.0,5657.0,163,49000,26
+2616386000,"Westland city, Wayne County, Michigan",35107.0,20801.0,14306.0,163,86000,26
+2616338180,"Highland Park city, Wayne County, Michigan",4523.0,1637.0,2886.0,163,38180,26
+2616369420,"Romulus city, Wayne County, Michigan",8585.0,5563.0,3022.0,163,69420,26
+2616374960,"Southgate city, Wayne County, Michigan",12650.0,8056.0,4594.0,163,74960,26
+2616388380,"Woodhaven city, Wayne County, Michigan",5148.0,3561.0,1587.0,163,88380,26
+2616321000,"Dearborn city, Wayne County, Michigan",30814.0,20378.0,10436.0,163,21000,26
+2616324740,"Ecorse city, Wayne County, Michigan",3696.0,2061.0,1635.0,163,24740,26
+2616335540,"Grosse Pointe Park city, Wayne County, Michigan",4238.0,3202.0,1036.0,163,35540,26
+2616335420,"Grosse Ile township, Wayne County, Michigan",4088.0,3738.0,350.0,163,35420,26
+261637020,"Belleville city, Wayne County, Michigan",1739.0,1038.0,701.0,163,7020,26
+2616335480,"Grosse Pointe city, Wayne County, Michigan",2212.0,1720.0,492.0,163,35480,26
+2616336280,"Hamtramck city, Wayne County, Michigan",6158.0,3097.0,3061.0,163,36280,26
+2615725300,"Elkland township, Tuscola County, Michigan",1329.0,1064.0,265.0,157,25300,26
+2615725720,"Elmwood township, Tuscola County, Michigan",489.0,384.0,105.0,157,25720,26
+2615727100,"Fairgrove township, Tuscola County, Michigan",641.0,589.0,52.0,157,27100,26
+2615759420,"Novesta township, Tuscola County, Michigan",513.0,463.0,50.0,157,59420,26
+2615781860,"Vassar township, Tuscola County, Michigan",1552.0,1401.0,151.0,157,81860,26
+2615721600,"Denmark township, Tuscola County, Michigan",1298.0,1083.0,215.0,157,21600,26
+2615740440,"Indianfields township, Tuscola County, Michigan",912.0,770.0,142.0,157,40440,26
+2615743880,"Koylton township, Tuscola County, Michigan",581.0,536.0,45.0,157,43880,26
+261571620,"Almer township, Tuscola County, Michigan",948.0,802.0,146.0,157,1620,26
+261570,"County subdivisions not defined, Tuscola County, Michigan",0.0,0.0,0.0,157,0,26
+2600136880,"Harrisville township, Alcona County, Michigan",563.0,468.0,95.0,001,36880,26
+2600137380,"Haynes township, Alcona County, Michigan",298.0,278.0,20.0,001,37380,26
+260010,"County subdivisions not defined, Alcona County, Michigan",0.0,0.0,0.0,001,0,26
+2600136860,"Harrisville city, Alcona County, Michigan",199.0,136.0,63.0,001,36860,26
+2600154740,"Mitchell township, Alcona County, Michigan",176.0,161.0,15.0,001,54740,26
+2600135740,"Gustin township, Alcona County, Michigan",352.0,278.0,74.0,001,35740,26
+2605531580,"Garfield charter township, Grand Traverse County, Michigan",7268.0,4140.0,3128.0,055,31580,26
+2610315660,"Chocolay charter township, Marquette County, Michigan",2352.0,2003.0,349.0,103,15660,26
+2612156340,"Muskegon charter township, Muskegon County, Michigan",6844.0,5441.0,1403.0,121,56340,26
+2607717680,"Comstock charter township, Kalamazoo County, Michigan",6250.0,4334.0,1916.0,077,17680,26
+2607717980,"Cooper charter township, Kalamazoo County, Michigan",3928.0,3012.0,916.0,077,17980,26
+2607742180,"Kalamazoo charter township, Kalamazoo County, Michigan",9004.0,5558.0,3446.0,077,42180,26
+2607761400,"Oshtemo charter township, Kalamazoo County, Michigan",10441.0,5267.0,5174.0,077,61400,26
+2616177560,"Superior charter township, Washtenaw County, Michigan",4960.0,3746.0,1214.0,161,77560,26
+2606112600,"Calumet charter township, Houghton County, Michigan",2623.0,1990.0,633.0,061,12600,26
+261078320,"Big Rapids charter township, Mecosta County, Michigan",1665.0,1122.0,543.0,107,8320,26
+2609982453,"Village of Grosse Pointe Shores city, Macomb County, Michigan",30.0,30.0,0.0,099,82453,26
+2606165540,"Portage charter township, Houghton County, Michigan",1114.0,830.0,284.0,061,65540,26
+2610351920,"Marquette charter township, Marquette County, Michigan",1707.0,1027.0,680.0,103,51920,26
+2616382453,"Village of Grosse Pointe Shores city, Wayne County, Michigan",1166.0,1071.0,95.0,163,82453,26
+2608164660,"Plainfield charter township, Kent County, Michigan",12921.0,10835.0,2086.0,081,64660,26
+2604929220,"Flushing charter township, Genesee County, Michigan",3773.0,3505.0,268.0,049,29220,26
+2604931800,"Genesee charter township, Genesee County, Michigan",8195.0,6050.0,2145.0,049,31800,26
+2604933300,"Grand Blanc charter township, Genesee County, Michigan",14464.0,9955.0,4509.0,049,33300,26
+2604955300,"Montrose charter township, Genesee County, Michigan",2131.0,1982.0,149.0,049,55300,26
+261613020,"Ann Arbor charter township, Washtenaw County, Michigan",1783.0,1247.0,536.0,161,3020,26
+261614180,"Augusta charter township, Washtenaw County, Michigan",2311.0,2095.0,216.0,161,4180,26
+2614765840,"Port Huron charter township, St. Clair County, Michigan",4003.0,2734.0,1269.0,147,65840,26
+2616115020,"Chelsea city, Washtenaw County, Michigan",2160.0,1309.0,851.0,161,15020,26
+2611528360,"Flat Rock city, Monroe County, Michigan",0.0,0.0,0.0,115,28360,26
+2615713420,"Caro city, Tuscola County, Michigan",1813.0,1080.0,733.0,157,13420,26
+2600522740,"Douglas city, Allegan County, Michigan",496.0,374.0,122.0,005,22740,26
+2616122160,"Dexter city, Washtenaw County, Michigan",1615.0,1133.0,482.0,161,22160,26
+2602131320,"Galien township, Berrien County, Michigan",565.0,450.0,115.0,021,31320,26
+2602157220,"New Buffalo city, Berrien County, Michigan",841.0,604.0,237.0,021,57220,26
+2602157780,"Niles township, Berrien County, Michigan",5562.0,4218.0,1344.0,021,57780,26
+2602184500,"Watervliet city, Berrien County, Michigan",691.0,423.0,268.0,021,84500,26
+260217400,"Benton charter township, Berrien County, Michigan",5889.0,3160.0,2729.0,021,7400,26
+260217920,"Bertrand township, Berrien County, Michigan",1108.0,967.0,141.0,021,7920,26
+2602111420,"Buchanan township, Berrien County, Michigan",1397.0,1242.0,155.0,021,11420,26
+2602170960,"St. Joseph city, Berrien County, Michigan",4176.0,2293.0,1883.0,021,70960,26
+260210,"County subdivisions not defined, Berrien County, Michigan",0.0,0.0,0.0,021,0,26
+2602157230,"New Buffalo township, Berrien County, Michigan",1111.0,941.0,170.0,021,57230,26
+2602161180,"Oronoko charter township, Berrien County, Michigan",2568.0,1339.0,1229.0,021,61180,26
+2602115480,"Chikaming township, Berrien County, Michigan",1427.0,1332.0,95.0,021,15480,26
+260217520,"Benton Harbor city, Berrien County, Michigan",4043.0,1270.0,2773.0,021,7520,26
+2602157760,"Niles city, Berrien County, Michigan",4611.0,2397.0,2214.0,021,57760,26
+2602170980,"St. Joseph charter township, Berrien County, Michigan",4139.0,3639.0,500.0,021,70980,26
+2602174440,"Sodus township, Berrien County, Michigan",770.0,667.0,103.0,021,74440,26
+260214840,"Bainbridge township, Berrien County, Michigan",1114.0,896.0,218.0,021,4840,26
+260217820,"Berrien township, Berrien County, Michigan",1723.0,1425.0,298.0,021,7820,26
+2604931220,"Gaines township, Genesee County, Michigan",2557.0,2379.0,178.0,049,31220,26
+2604977700,"Swartz Creek city, Genesee County, Michigan",2414.0,1757.0,657.0,049,77700,26
+2604956160,"Mundy township, Genesee County, Michigan",5923.0,4980.0,943.0,049,56160,26
+2604919880,"Davison city, Genesee County, Michigan",2399.0,1290.0,1109.0,049,19880,26
+2604929000,"Flint city, Genesee County, Michigan",39780.0,22830.0,16950.0,049,29000,26
+2604929200,"Flushing city, Genesee County, Michigan",3441.0,2647.0,794.0,049,29200,26
+2604955280,"Montrose city, Genesee County, Michigan",640.0,430.0,210.0,049,55280,26
+260493420,"Argentine township, Genesee County, Michigan",2409.0,2213.0,196.0,049,3420,26
+2604912060,"Burton city, Genesee County, Michigan",11663.0,8551.0,3112.0,049,12060,26
+2604955960,"Mount Morris city, Genesee County, Michigan",1194.0,644.0,550.0,049,55960,26
+2604979460,"Thetford township, Genesee County, Michigan",2722.0,2374.0,348.0,049,79460,26
+2604927760,"Fenton city, Genesee County, Michigan",5113.0,3064.0,2049.0,049,27760,26
+260494000,"Atlas township, Genesee County, Michigan",2776.0,2546.0,230.0,049,4000,26
+2604933280,"Grand Blanc city, Genesee County, Michigan",3621.0,2042.0,1579.0,049,33280,26
+2604955980,"Mount Morris township, Genesee County, Michigan",8351.0,5767.0,2584.0,049,55980,26
+2604947820,"Linden city, Genesee County, Michigan",1476.0,1174.0,302.0,049,47820,26
+2604968180,"Richfield township, Genesee County, Michigan",3164.0,2847.0,317.0,049,68180,26
+2604929420,"Forest township, Genesee County, Michigan",1861.0,1663.0,198.0,049,29420,26
+2604916620,"Clio city, Genesee County, Michigan",1321.0,607.0,714.0,049,16620,26
+2600937500,"Helena township, Antrim County, Michigan",441.0,419.0,22.0,009,37500,26
+2600942400,"Kearney township, Antrim County, Michigan",748.0,551.0,197.0,009,42400,26
+2600929600,"Forest Home township, Antrim County, Michigan",728.0,671.0,57.0,009,29600,26
+2600925340,"Elk Rapids township, Antrim County, Michigan",1277.0,1023.0,254.0,009,25340,26
+2600954440,"Milton township, Antrim County, Michigan",966.0,884.0,82.0,009,54440,26
+260090,"County subdivisions not defined, Antrim County, Michigan",0.0,0.0,0.0,009,0,26
+2600983300,"Warner township, Antrim County, Michigan",130.0,113.0,17.0,009,83300,26
+260095240,"Banks township, Antrim County, Michigan",634.0,517.0,117.0,009,5240,26
+2600915380,"Chestonia township, Antrim County, Michigan",207.0,185.0,22.0,009,15380,26
+2600924640,"Echo township, Antrim County, Michigan",352.0,316.0,36.0,009,24640,26
+2600976260,"Star township, Antrim County, Michigan",378.0,313.0,65.0,009,76260,26
+2600980100,"Torch Lake township, Antrim County, Michigan",521.0,505.0,16.0,009,80100,26
+2602110580,"Bridgman city, Berrien County, Michigan",994.0,745.0,249.0,021,10580,26
+2602117320,"Coloma city, Berrien County, Michigan",613.0,432.0,181.0,021,17320,26
+2602135860,"Hagar township, Berrien County, Michigan",1549.0,1172.0,377.0,021,35860,26
+2602185120,"Weesaw township, Berrien County, Michigan",803.0,651.0,152.0,021,85120,26
+2602179740,"Three Oaks township, Berrien County, Michigan",1069.0,835.0,234.0,021,79740,26
+2612960300,"Ogemaw township, Ogemaw County, Michigan",443.0,407.0,36.0,129,60300,26
+2612969600,"Rose township, Ogemaw County, Michigan",546.0,512.0,34.0,129,69600,26
+2612932860,"Goodar township, Ogemaw County, Michigan",201.0,189.0,12.0,129,32860,26
+2612919260,"Cumming township, Ogemaw County, Michigan",287.0,255.0,32.0,129,19260,26
+2612915740,"Churchill township, Ogemaw County, Michigan",678.0,633.0,45.0,129,15740,26
+2612968320,"Richland township, Ogemaw County, Michigan",402.0,325.0,77.0,129,68320,26
+2612954340,"Mills township, Ogemaw County, Michigan",1913.0,1531.0,382.0,129,54340,26
+2612943640,"Klacking township, Ogemaw County, Michigan",283.0,244.0,39.0,129,43640,26
+2612938300,"Hill township, Ogemaw County, Michigan",669.0,617.0,52.0,129,38300,26
+2612969680,"Rose City city, Ogemaw County, Michigan",239.0,156.0,83.0,129,69680,26
+2612985600,"West Branch township, Ogemaw County, Michigan",1084.0,968.0,116.0,129,85600,26
+2612939320,"Horton township, Ogemaw County, Michigan",388.0,361.0,27.0,129,39320,26
+2612925020,"Edwards township, Ogemaw County, Michigan",554.0,479.0,75.0,129,25020,26
+2612949160,"Logan township, Ogemaw County, Michigan",226.0,210.0,16.0,129,49160,26
+2612929860,"Foster township, Ogemaw County, Michigan",385.0,341.0,44.0,129,29860,26
+2612985580,"West Branch city, Ogemaw County, Michigan",1027.0,466.0,561.0,129,85580,26
+2613535200,"Greenwood township, Oscoda County, Michigan",586.0,565.0,21.0,135,35200,26
+261358220,"Big Creek township, Oscoda County, Michigan",1320.0,1062.0,258.0,135,8220,26
+2613516540,"Clinton township, Oscoda County, Michigan",253.0,233.0,20.0,135,16540,26
+261078300,"Big Rapids city, Mecosta County, Michigan",3028.0,1155.0,1873.0,107,8300,26
+2603380600,"Trout Lake township, Chippewa County, Michigan",149.0,128.0,21.0,033,80600,26
+2603374620,"Soo township, Chippewa County, Michigan",1254.0,960.0,294.0,033,74620,26
+260336070,"Bay Mills township, Chippewa County, Michigan",642.0,465.0,177.0,033,6070,26
+2603315560,"Chippewa township, Chippewa County, Michigan",59.0,47.0,12.0,033,15560,26
+2603366760,"Raber township, Chippewa County, Michigan",297.0,269.0,28.0,033,66760,26
+2611526320,"Erie township, Monroe County, Michigan",1731.0,1503.0,228.0,115,26320,26
+2611530820,"Frenchtown township, Monroe County, Michigan",7966.0,5879.0,2087.0,115,30820,26
+2611563800,"Petersburg city, Monroe County, Michigan",491.0,358.0,133.0,115,63800,26
+261150,"County subdivisions not defined, Monroe County, Michigan",0.0,0.0,0.0,115,0,26
+2611549700,"Luna Pier city, Monroe County, Michigan",624.0,448.0,176.0,115,49700,26
+2611555020,"Monroe city, Monroe County, Michigan",7978.0,5115.0,2863.0,115,55020,26
+2611586740,"Whiteford township, Monroe County, Michigan",1771.0,1436.0,335.0,115,86740,26
+261157720,"Berlin charter township, Monroe County, Michigan",3448.0,2859.0,589.0,115,7720,26
+2611526880,"Exeter township, Monroe County, Michigan",1265.0,1175.0,90.0,115,26880,26
+2611540260,"Ida township, Monroe County, Michigan",1834.0,1680.0,154.0,115,40260,26
+2611577140,"Summerfield township, Monroe County, Michigan",1153.0,988.0,165.0,115,77140,26
+2612569035,"Rochester Hills city, Oakland County, Michigan",28468.0,21786.0,6682.0,125,69035,26
+2612527880,"Ferndale city, Oakland County, Michigan",9909.0,6373.0,3536.0,125,27880,26
+2612550560,"Madison Heights city, Oakland County, Michigan",12868.0,7592.0,5276.0,125,50560,26
+2612559460,"Novi township, Oakland County, Michigan",54.0,54.0,0.0,125,59460,26
+2612537420,"Hazel Park city, Oakland County, Michigan",7107.0,3598.0,3509.0,125,37420,26
+2612559920,"Oak Park city, Oakland County, Michigan",11601.0,6702.0,4899.0,125,59920,26
+2612516160,"Clawson city, Oakland County, Michigan",5652.0,4077.0,1575.0,125,16160,26
+2612577860,"Sylvan Lake city, Oakland County, Michigan",846.0,650.0,196.0,125,77860,26
+2605912780,"Camden township, Hillsdale County, Michigan",724.0,530.0,194.0,059,12780,26
+2605938460,"Hillsdale city, Hillsdale County, Michigan",2919.0,1489.0,1430.0,059,38460,26
+2605964620,"Pittsford township, Hillsdale County, Michigan",581.0,510.0,71.0,059,64620,26
+2605967520,"Reading township, Hillsdale County, Michigan",749.0,661.0,88.0,059,67520,26
+2605971980,"Scipio township, Hillsdale County, Michigan",674.0,534.0,140.0,059,71980,26
+2611776220,"Stanton city, Montcalm County, Michigan",517.0,309.0,208.0,117,76220,26
+2611787880,"Winfield township, Montcalm County, Michigan",692.0,632.0,60.0,117,87880,26
+2611712120,"Bushnell township, Montcalm County, Michigan",561.0,457.0,104.0,117,12120,26
+2613525500,"Elmer township, Oscoda County, Michigan",382.0,356.0,26.0,135,25500,26
+2613517600,"Comins township, Oscoda County, Michigan",699.0,560.0,139.0,135,17600,26
+2613553120,"Mentor township, Oscoda County, Michigan",488.0,394.0,94.0,135,53120,26
+2616535240,"Greenwood township, Wexford County, Michigan",225.0,206.0,19.0,165,35240,26
+2616515060,"Cherry Grove township, Wexford County, Michigan",856.0,756.0,100.0,165,15060,26
+2616575940,"Springville township, Wexford County, Michigan",668.0,495.0,173.0,165,75940,26
+2616574820,"South Branch township, Wexford County, Michigan",141.0,133.0,8.0,165,74820,26
+261659580,"Boon township, Wexford County, Michigan",279.0,246.0,33.0,165,9580,26
+2616512320,"Cadillac city, Wexford County, Michigan",4299.0,2565.0,1734.0,165,12320,26
+2616536420,"Hanover township, Wexford County, Michigan",590.0,475.0,115.0,165,36420,26
+2616574220,"Slagle township, Wexford County, Michigan",220.0,182.0,38.0,165,74220,26
+2616586500,"Wexford township, Wexford County, Michigan",357.0,296.0,61.0,165,86500,26
+2600950640,"Mancelona township, Antrim County, Michigan",1587.0,1269.0,318.0,009,50640,26
+2600919400,"Custer township, Antrim County, Michigan",438.0,373.0,65.0,009,19400,26
+2600914420,"Central Lake township, Antrim County, Michigan",960.0,784.0,176.0,009,14420,26
+2600941960,"Jordan township, Antrim County, Michigan",365.0,320.0,45.0,009,41960,26
+2606144220,"Laird township, Houghton County, Michigan",163.0,140.0,23.0,061,44220,26
+26061320,"Adams township, Houghton County, Michigan",907.0,717.0,190.0,061,320,26
+2606139360,"Houghton city, Houghton County, Michigan",2515.0,1031.0,1484.0,061,39360,26
+2606166680,"Quincy township, Houghton County, Michigan",100.0,83.0,17.0,061,66680,26
+2606171840,"Schoolcraft township, Houghton County, Michigan",676.0,518.0,158.0,061,71840,26
+2606180120,"Torch Lake township, Houghton County, Michigan",772.0,699.0,73.0,061,80120,26
+2606125660,"Elm River township, Houghton County, Michigan",110.0,109.0,1.0,061,25660,26
+2606176200,"Stanton township, Houghton County, Michigan",435.0,401.0,34.0,061,76200,26
+2606123340,"Duncan township, Houghton County, Michigan",94.0,86.0,8.0,061,23340,26
+2606161260,"Osceola township, Houghton County, Michigan",573.0,471.0,102.0,061,61260,26
+2606114920,"Chassell township, Houghton County, Michigan",644.0,533.0,111.0,061,14920,26
+2606136300,"Hancock city, Houghton County, Michigan",1807.0,841.0,966.0,061,36300,26
+260610,"County subdivisions not defined, Houghton County, Michigan",0.0,0.0,0.0,061,0,26
+2606130300,"Franklin township, Houghton County, Michigan",455.0,401.0,54.0,061,30300,26
+2606136320,"Hancock township, Houghton County, Michigan",169.0,163.0,6.0,061,36320,26
+2609339540,"Howell city, Livingston County, Michigan",4054.0,2032.0,2022.0,093,39540,26
+2609310640,"Brighton township, Livingston County, Michigan",6646.0,6364.0,282.0,093,10640,26
+2609321220,"Deerfield township, Livingston County, Michigan",1498.0,1431.0,67.0,093,21220,26
+2609331860,"Genoa township, Livingston County, Michigan",8051.0,6691.0,1360.0,093,31860,26
+2609340900,"Iosco township, Livingston County, Michigan",1254.0,1179.0,75.0,093,40900,26
+2609336340,"Handy township, Livingston County, Michigan",3075.0,2409.0,666.0,093,36340,26
+2609316920,"Cohoctah township, Livingston County, Michigan",1290.0,1247.0,43.0,093,16920,26
+2609360120,"Oceola township, Livingston County, Michigan",4626.0,4108.0,518.0,093,60120,26
+2609310620,"Brighton city, Livingston County, Michigan",3676.0,2177.0,1499.0,093,10620,26
+2609317920,"Conway township, Livingston County, Michigan",1144.0,1030.0,114.0,093,17920,26
+2609335060,"Green Oak township, Livingston County, Michigan",7068.0,6345.0,723.0,093,35060,26
+2609351640,"Marion township, Livingston County, Michigan",3801.0,3562.0,239.0,093,51640,26
+2609381160,"Tyrone township, Livingston County, Michigan",3621.0,3118.0,503.0,093,81160,26
+2609366540,"Putnam township, Livingston County, Michigan",3333.0,2908.0,425.0,093,66540,26
+2609336100,"Hamburg township, Livingston County, Michigan",8350.0,7810.0,540.0,093,36100,26
+2609339560,"Howell township, Livingston County, Michigan",2547.0,2282.0,265.0,093,39560,26
+2616550880,"Manton city, Wexford County, Michigan",512.0,307.0,205.0,165,50880,26
+2616547380,"Liberty township, Wexford County, Michigan",369.0,302.0,67.0,165,47380,26
+261653060,"Antioch township, Wexford County, Michigan",344.0,268.0,76.0,165,3060,26
+2616537640,"Henderson township, Wexford County, Michigan",95.0,88.0,7.0,165,37640,26
+2616517200,"Colfax township, Wexford County, Michigan",359.0,325.0,34.0,165,17200,26
+2616514120,"Cedar Creek township, Wexford County, Michigan",614.0,539.0,75.0,165,14120,26
+2616515860,"Clam Lake township, Wexford County, Michigan",917.0,822.0,95.0,165,15860,26
+2616572380,"Selma township, Wexford County, Michigan",954.0,824.0,130.0,165,72380,26
+2603950940,"Maple Forest township, Crawford County, Michigan",312.0,274.0,38.0,039,50940,26
+2603974760,"South Branch township, Crawford County, Michigan",845.0,789.0,56.0,039,74760,26
+2603949520,"Lovells township, Crawford County, Michigan",304.0,275.0,29.0,039,49520,26
+2603930480,"Frederic township, Crawford County, Michigan",543.0,477.0,66.0,039,30480,26
+260396600,"Beaver Creek township, Crawford County, Michigan",804.0,753.0,51.0,039,6600,26
+2603934640,"Grayling city, Crawford County, Michigan",734.0,313.0,421.0,039,34640,26
+2603719620,"Dallas township, Clinton County, Michigan",850.0,737.0,113.0,037,19620,26
+2603733420,"Grand Ledge city, Clinton County, Michigan",8.0,8.0,0.0,037,33420,26
+2603760440,"Olive township, Clinton County, Michigan",940.0,844.0,96.0,037,60440,26
+2603768600,"Riley township, Clinton County, Michigan",715.0,694.0,21.0,037,68600,26
+2603782320,"Victor township, Clinton County, Michigan",1309.0,1231.0,78.0,037,82320,26
+2603761880,"Ovid township, Clinton County, Michigan",1405.0,1141.0,264.0,037,61880,26
+260377240,"Bengal township, Clinton County, Michigan",418.0,386.0,32.0,037,7240,26
+2603723460,"Duplain township, Clinton County, Michigan",890.0,668.0,222.0,037,23460,26
+2603746580,"Lebanon township, Clinton County, Michigan",208.0,192.0,16.0,037,46580,26
+2603786140,"Westphalia township, Clinton County, Michigan",863.0,762.0,101.0,037,86140,26
+2603724120,"East Lansing city, Clinton County, Michigan",691.0,419.0,272.0,037,24120,26
+2603723580,"Eagle township, Clinton County, Michigan",1012.0,950.0,62.0,037,23580,26
+2603734840,"Greenbush township, Clinton County, Michigan",815.0,744.0,71.0,037,34840,26
+2603770940,"St. Johns city, Clinton County, Michigan",3078.0,1961.0,1117.0,037,70940,26
+260378400,"Bingham township, Clinton County, Michigan",1147.0,917.0,230.0,037,8400,26
+2603726400,"Essex township, Clinton County, Michigan",721.0,632.0,89.0,037,26400,26
+2604327660,"Felch township, Dickinson County, Michigan",298.0,282.0,16.0,043,27660,26
+2609381240,"Unadilla township, Livingston County, Michigan",1409.0,1276.0,133.0,093,81240,26
+2609337040,"Hartland township, Livingston County, Michigan",5388.0,4500.0,888.0,093,37040,26
+2606911740,"Burleigh township, Iosco County, Michigan",312.0,289.0,23.0,069,11740,26
+2606978100,"Tawas township, Iosco County, Michigan",731.0,664.0,67.0,069,78100,26
+26069760,"Alabaster township, Iosco County, Michigan",204.0,186.0,18.0,069,760,26
+2606987140,"Whittemore city, Iosco County, Michigan",209.0,157.0,52.0,069,87140,26
+2606987180,"Wilber township, Iosco County, Michigan",288.0,261.0,27.0,069,87180,26
+260690,"County subdivisions not defined, Iosco County, Michigan",0.0,0.0,0.0,069,0,26
+2606967960,"Reno township, Iosco County, Michigan",252.0,224.0,28.0,069,67960,26
+2606973180,"Sherman township, Iosco County, Michigan",226.0,194.0,32.0,069,73180,26
+260694920,"Baldwin township, Iosco County, Michigan",739.0,619.0,120.0,069,4920,26
+2606924420,"East Tawas city, Iosco County, Michigan",1303.0,821.0,482.0,069,24420,26
+2606978140,"Tawas City city, Iosco County, Michigan",704.0,521.0,183.0,069,78140,26
+2606934280,"Grant township, Iosco County, Michigan",743.0,644.0,99.0,069,34280,26
+2606964640,"Plainfield township, Iosco County, Michigan",1827.0,1611.0,216.0,069,64640,26
+2608564880,"Pleasant Plains township, Lake County, Michigan",697.0,510.0,187.0,085,64880,26
+2608585060,"Webber township, Lake County, Michigan",545.0,338.0,207.0,085,85060,26
+2608563120,"Peacock township, Lake County, Michigan",175.0,167.0,8.0,085,63120,26
+2608564440,"Pinora township, Lake County, Michigan",302.0,259.0,43.0,085,64440,26
+2608577740,"Sweetwater township, Lake County, Michigan",103.0,94.0,9.0,085,77740,26
+2608514880,"Chase township, Lake County, Michigan",401.0,379.0,22.0,085,14880,26
+2608571680,"Sauble township, Lake County, Michigan",162.0,148.0,14.0,085,71680,26
+2608589040,"Yates township, Lake County, Michigan",266.0,203.0,63.0,085,89040,26
+2608522800,"Dover township, Lake County, Michigan",133.0,115.0,18.0,085,22800,26
+2608524800,"Eden township, Lake County, Michigan",224.0,220.0,4.0,085,24800,26
+2608525260,"Elk township, Lake County, Michigan",459.0,433.0,26.0,085,25260,26
+2608544320,"Lake township, Lake County, Michigan",349.0,343.0,6.0,085,44320,26
+2608557480,"Newkirk township, Lake County, Michigan",286.0,236.0,50.0,085,57480,26
+2608525440,"Ellsworth township, Lake County, Michigan",277.0,251.0,26.0,085,25440,26
+2608515100,"Cherry Valley township, Lake County, Michigan",176.0,148.0,28.0,085,15100,26
+2610122320,"Dickson township, Manistee County, Michigan",371.0,334.0,37.0,101,22320,26
+2610150740,"Manistee township, Manistee County, Michigan",1207.0,1056.0,151.0,101,50740,26
+2610151000,"Maple Grove township, Manistee County, Michigan",515.0,452.0,63.0,101,51000,26
+2610175680,"Springdale township, Manistee County, Michigan",341.0,281.0,60.0,101,75680,26
+2610116380,"Cleon township, Manistee County, Michigan",374.0,337.0,37.0,101,16380,26
+2604385520,"West Branch township, Dickinson County, Michigan",15.0,13.0,2.0,043,85520,26
+2604340960,"Iron Mountain city, Dickinson County, Michigan",3163.0,2197.0,966.0,043,40960,26
+2604384700,"Waucedah township, Dickinson County, Michigan",337.0,303.0,34.0,043,84700,26
+2604343300,"Kingsford city, Dickinson County, Michigan",2310.0,1518.0,792.0,043,43300,26
+2604359240,"Norway township, Dickinson County, Michigan",658.0,574.0,84.0,043,59240,26
+2604370600,"Sagola township, Dickinson County, Michigan",480.0,425.0,55.0,043,70600,26
+2604310200,"Breen township, Dickinson County, Michigan",182.0,161.0,21.0,043,10200,26
+2604359220,"Norway city, Dickinson County, Michigan",1469.0,1160.0,309.0,043,59220,26
+2605731080,"Fulton township, Gratiot County, Michigan",942.0,697.0,245.0,057,31080,26
+2605744080,"Lafayette township, Gratiot County, Michigan",221.0,189.0,32.0,057,44080,26
+2605758800,"North Shade township, Gratiot County, Michigan",265.0,213.0,52.0,057,58800,26
+2605777300,"Sumner township, Gratiot County, Michigan",726.0,576.0,150.0,057,77300,26
+260571540,"Alma city, Gratiot County, Michigan",3529.0,2013.0,1516.0,057,1540,26
+2605771000,"St. Louis city, Gratiot County, Michigan",1308.0,782.0,526.0,057,71000,26
+260578020,"Bethany township, Gratiot County, Michigan",537.0,474.0,63.0,057,8020,26
+2605772580,"Seville township, Gratiot County, Michigan",810.0,735.0,75.0,057,72580,26
+260573260,"Arcada township, Gratiot County, Michigan",746.0,573.0,173.0,057,3260,26
+2605757360,"New Haven township, Gratiot County, Michigan",404.0,349.0,55.0,057,57360,26
+2605764360,"Pine River township, Gratiot County, Michigan",837.0,720.0,117.0,057,64360,26
+2605784080,"Washington township, Gratiot County, Michigan",355.0,302.0,53.0,057,84080,26
+2605736160,"Hamilton township, Gratiot County, Michigan",167.0,145.0,22.0,057,36160,26
+2605741340,"Ithaca city, Gratiot County, Michigan",1071.0,683.0,388.0,057,41340,26
+2605758880,"North Star township, Gratiot County, Michigan",362.0,297.0,65.0,057,58880,26
+2605725120,"Elba township, Gratiot County, Michigan",479.0,385.0,94.0,057,25120,26
+2605757040,"Newark township, Gratiot County, Michigan",466.0,392.0,74.0,057,57040,26
+2605786620,"Wheeler township, Gratiot County, Michigan",1166.0,913.0,253.0,057,86620,26
+2605725880,"Emerson township, Gratiot County, Michigan",345.0,280.0,65.0,057,25880,26
+2606362360,"Paris township, Huron County, Michigan",185.0,161.0,24.0,063,62360,26
+260634740,"Bad Axe city, Huron County, Michigan",1256.0,848.0,408.0,063,4740,26
+2606344300,"Lake township, Huron County, Michigan",328.0,325.0,3.0,063,44300,26
+2606365700,"Port Austin township, Huron County, Michigan",690.0,604.0,86.0,063,65700,26
+2606370140,"Rubicon township, Huron County, Michigan",340.0,311.0,29.0,063,70140,26
+2606372200,"Sebewaing township, Huron County, Michigan",1118.0,922.0,196.0,063,72200,26
+2606352600,"Meade township, Huron County, Michigan",307.0,276.0,31.0,063,52600,26
+2606327120,"Fairhaven township, Huron County, Michigan",499.0,396.0,103.0,063,27120,26
+2606336460,"Harbor Beach city, Huron County, Michigan",829.0,565.0,264.0,063,36460,26
+2606333080,"Gore township, Huron County, Michigan",66.0,50.0,16.0,063,33080,26
+2606339960,"Hume township, Huron County, Michigan",345.0,289.0,56.0,063,39960,26
+2610128040,"Filer charter township, Manistee County, Michigan",1090.0,1005.0,85.0,101,28040,26
+2610150720,"Manistee city, Manistee County, Michigan",2784.0,1771.0,1013.0,101,50720,26
+261013320,"Arcadia township, Manistee County, Michigan",274.0,249.0,25.0,101,3320,26
+261010,"County subdivisions not defined, Manistee County, Michigan",0.0,0.0,0.0,101,0,26
+261016480,"Bear Lake township, Manistee County, Michigan",650.0,577.0,73.0,101,6480,26
+2610111160,"Brown township, Manistee County, Michigan",257.0,244.0,13.0,101,11160,26
+2610176840,"Stronach township, Manistee County, Michigan",352.0,324.0,28.0,101,76840,26
+2610151580,"Marilla township, Manistee County, Michigan",117.0,102.0,15.0,101,51580,26
+2610160760,"Onekama township, Manistee County, Michigan",589.0,518.0,71.0,101,60760,26
+2611523400,"Dundee township, Monroe County, Michigan",2954.0,2089.0,865.0,115,23400,26
+2611546260,"La Salle township, Monroe County, Michigan",1804.0,1632.0,172.0,115,46260,26
+2611553900,"Milan township, Monroe County, Michigan",601.0,560.0,41.0,115,53900,26
+2611566900,"Raisinville township, Monroe County, Michigan",2005.0,1841.0,164.0,115,66900,26
+261153680,"Ash township, Monroe County, Michigan",2991.0,2690.0,301.0,115,3680,26
+261156740,"Bedford township, Monroe County, Michigan",12293.0,10776.0,1517.0,115,6740,26
+2611555040,"Monroe charter township, Monroe County, Michigan",5894.0,4521.0,1373.0,115,55040,26
+2611549180,"London township, Monroe County, Michigan",1076.0,943.0,133.0,115,49180,26
+2611553920,"Milan city, Monroe County, Michigan",773.0,526.0,247.0,115,53920,26
+2600564740,"Plainwell city, Allegan County, Michigan",1570.0,1000.0,570.0,005,64740,26
+2600552000,"Martin township, Allegan County, Michigan",1000.0,845.0,155.0,005,52000,26
+2600555200,"Monterey township, Allegan County, Michigan",916.0,818.0,98.0,005,55200,26
+2600571700,"Saugatuck city, Allegan County, Michigan",455.0,283.0,172.0,005,71700,26
+2600584880,"Wayland city, Allegan County, Michigan",1453.0,841.0,612.0,005,84880,26
+2600537460,"Heath township, Allegan County, Michigan",1131.0,1030.0,101.0,005,37460,26
+260051260,"Allegan city, Allegan County, Michigan",1820.0,988.0,832.0,005,1260,26
+2600515200,"Cheshire township, Allegan County, Michigan",792.0,732.0,60.0,005,15200,26
+2600538640,"Holland city, Allegan County, Michigan",2653.0,1788.0,865.0,005,38640,26
+2600546760,"Leighton township, Allegan County, Michigan",1849.0,1656.0,193.0,005,46760,26
+2600550840,"Manlius township, Allegan County, Michigan",1051.0,902.0,149.0,005,50840,26
+2600571720,"Saugatuck township, Allegan County, Michigan",1323.0,1203.0,120.0,005,71720,26
+2600513700,"Casco township, Allegan County, Michigan",1188.0,1010.0,178.0,005,13700,26
+2606582220,"Vevay township, Ingham County, Michigan",1378.0,1229.0,149.0,065,82220,26
+2606576580,"Stockbridge township, Ingham County, Michigan",1479.0,1224.0,255.0,065,76580,26
+2606511640,"Bunker Hill township, Ingham County, Michigan",708.0,613.0,95.0,065,11640,26
+2609166840,"Raisin township, Lenawee County, Michigan",2731.0,2590.0,141.0,091,66840,26
+260919020,"Blissfield township, Lenawee County, Michigan",1675.0,1324.0,351.0,091,9020,26
+2609112720,"Cambridge township, Lenawee County, Michigan",2461.0,2132.0,329.0,091,12720,26
+2609139740,"Hudson township, Lenawee County, Michigan",632.0,565.0,67.0,091,39740,26
+2609188640,"Woodstock township, Lenawee County, Michigan",1457.0,1212.0,245.0,091,88640,26
+26091460,"Adrian township, Lenawee County, Michigan",2689.0,2362.0,327.0,091,460,26
+2609116500,"Clinton township, Lenawee County, Michigan",1446.0,1190.0,256.0,091,16500,26
+2609169340,"Rollin township, Lenawee County, Michigan",1533.0,1287.0,246.0,091,69340,26
+2609172440,"Seneca township, Lenawee County, Michigan",474.0,408.0,66.0,091,72440,26
+2609168580,"Riga township, Lenawee County, Michigan",451.0,396.0,55.0,091,68580,26
+2609121200,"Deerfield township, Lenawee County, Michigan",613.0,486.0,127.0,091,21200,26
+2609152820,"Medina township, Lenawee County, Michigan",399.0,335.0,64.0,091,52820,26
+2609179140,"Tecumseh township, Lenawee County, Michigan",731.0,697.0,34.0,091,79140,26
+2609139720,"Hudson city, Lenawee County, Michigan",826.0,580.0,246.0,091,39720,26
+2609130320,"Franklin township, Lenawee County, Michigan",1216.0,1160.0,56.0,091,30320,26
+2609162240,"Palmyra township, Lenawee County, Michigan",808.0,652.0,156.0,091,62240,26
+2609169360,"Rome township, Lenawee County, Michigan",652.0,553.0,99.0,091,69360,26
+2609122820,"Dover township, Lenawee County, Michigan",697.0,569.0,128.0,091,22820,26
+2609150540,"Madison charter township, Lenawee County, Michigan",2242.0,1919.0,323.0,091,50540,26
+2609155500,"Morenci city, Lenawee County, Michigan",958.0,659.0,299.0,091,55500,26
+2609160260,"Ogden township, Lenawee County, Michigan",377.0,321.0,56.0,091,60260,26
+2609179120,"Tecumseh city, Lenawee County, Michigan",3558.0,2346.0,1212.0,091,79120,26
+2609127020,"Fairfield township, Lenawee County, Michigan",637.0,499.0,138.0,091,27020,26
+2609168540,"Ridgeway township, Lenawee County, Michigan",611.0,523.0,88.0,091,68540,26
+26091440,"Adrian city, Lenawee County, Michigan",7741.0,4366.0,3375.0,091,440,26
+2609150520,"Macon township, Lenawee County, Michigan",500.0,468.0,32.0,091,50520,26
+2610534320,"Grant township, Mason County, Michigan",398.0,370.0,28.0,105,34320,26
+261051980,"Amber township, Mason County, Michigan",1130.0,753.0,377.0,105,1980,26
+2610530620,"Free Soil township, Mason County, Michigan",314.0,288.0,26.0,105,30620,26
+261050,"County subdivisions not defined, Mason County, Michigan",0.0,0.0,0.0,105,0,26
+2610519440,"Custer township, Mason County, Michigan",484.0,421.0,63.0,105,19440,26
+2610524820,"Eden township, Mason County, Michigan",192.0,176.0,16.0,105,24820,26
+2610573060,"Sheridan township, Mason County, Michigan",428.0,340.0,88.0,105,73060,26
+2610552640,"Meade township, Mason County, Michigan",73.0,69.0,4.0,105,52640,26
+2610549640,"Ludington city, Mason County, Michigan",3582.0,2168.0,1414.0,105,49640,26
+2610717160,"Colfax township, Mecosta County, Michigan",726.0,615.0,111.0,107,17160,26
+2610734340,"Grant township, Mecosta County, Michigan",259.0,227.0,32.0,107,34340,26
+2610752780,"Mecosta township, Mecosta County, Michigan",1011.0,782.0,229.0,107,52780,26
+2610754020,"Millbrook township, Mecosta County, Michigan",397.0,352.0,45.0,107,54020,26
+261074380,"Austin township, Mecosta County, Michigan",596.0,547.0,49.0,107,4380,26
+2610734760,"Green charter township, Mecosta County, Michigan",1259.0,1031.0,228.0,107,34760,26
+2610729680,"Fork township, Mecosta County, Michigan",636.0,509.0,127.0,107,29680,26
+2610786560,"Wheatland township, Mecosta County, Michigan",542.0,395.0,147.0,107,86560,26
+2610755600,"Morton township, Mecosta County, Michigan",2072.0,1859.0,213.0,107,55600,26
+2610738540,"Hinton township, Mecosta County, Michigan",401.0,350.0,51.0,107,38540,26
+2610721240,"Deerfield township, Mecosta County, Michigan",605.0,513.0,92.0,107,21240,26
+2610752060,"Martiny township, Mecosta County, Michigan",626.0,546.0,80.0,107,52060,26
+2610773080,"Sheridan township, Mecosta County, Michigan",454.0,395.0,59.0,107,73080,26
+2610715600,"Chippewa township, Mecosta County, Michigan",560.0,498.0,62.0,107,15600,26
+2610326840,"Ewing township, Marquette County, Michigan",66.0,59.0,7.0,103,26840,26
+2610341240,"Ishpeming township, Marquette County, Michigan",1419.0,1236.0,183.0,103,41240,26
+2610356880,"Negaunee township, Marquette County, Michigan",1098.0,970.0,128.0,103,56880,26
+2610371460,"Sands township, Marquette County, Michigan",926.0,807.0,119.0,103,71460,26
+261030,"County subdivisions not defined, Marquette County, Michigan",0.0,0.0,0.0,103,0,26
+2610341220,"Ishpeming city, Marquette County, Michigan",2760.0,2059.0,701.0,103,41220,26
+2610353540,"Michigamme township, Marquette County, Michigan",153.0,142.0,11.0,103,53540,26
+2610368000,"Republic township, Marquette County, Michigan",426.0,382.0,44.0,103,68000,26
+2610329720,"Forsyth township, Marquette County, Michigan",2552.0,1889.0,663.0,103,29720,26
+2610351900,"Marquette city, Marquette County, Michigan",7587.0,3735.0,3852.0,103,51900,26
+2610380780,"Turin township, Marquette County, Michigan",61.0,57.0,4.0,103,80780,26
+2610314540,"Champion township, Marquette County, Michigan",130.0,120.0,10.0,103,14540,26
+2610356860,"Negaunee city, Marquette County, Michigan",1788.0,1287.0,501.0,103,56860,26
+2610374110,"Skandia township, Marquette County, Michigan",383.0,317.0,66.0,103,74110,26
+2610325820,"Ely township, Marquette County, Michigan",813.0,763.0,50.0,103,25820,26
+2610385260,"Wells township, Marquette County, Michigan",103.0,98.0,5.0,103,85260,26
+2610379780,"Tilden township, Marquette County, Michigan",390.0,374.0,16.0,103,79780,26
+2610339940,"Humboldt township, Marquette County, Michigan",190.0,160.0,30.0,103,39940,26
+2610366120,"Powell township, Marquette County, Michigan",220.0,197.0,23.0,103,66120,26
+2610368420,"Richmond township, Marquette County, Michigan",367.0,316.0,51.0,103,68420,26
+2610385540,"West Branch township, Marquette County, Michigan",708.0,330.0,378.0,103,85540,26
+2600531360,"Ganges township, Allegan County, Michigan",1050.0,969.0,81.0,005,31360,26
+2600561640,"Otsego township, Allegan County, Michigan",2121.0,1781.0,340.0,005,61640,26
+260051280,"Allegan township, Allegan County, Michigan",1782.0,1623.0,159.0,005,1280,26
+2600546600,"Lee township, Allegan County, Michigan",1238.0,725.0,513.0,005,46600,26
+2600571100,"Salem township, Allegan County, Michigan",1684.0,1635.0,49.0,005,71100,26
+2600580620,"Trowbridge township, Allegan County, Michigan",1069.0,917.0,152.0,005,80620,26
+2600581580,"Valley township, Allegan County, Michigan",800.0,689.0,111.0,005,81580,26
+2600528120,"Fillmore township, Allegan County, Michigan",1010.0,873.0,137.0,005,28120,26
+2600516720,"Clyde township, Allegan County, Michigan",798.0,729.0,69.0,005,16720,26
+2600527740,"Fennville city, Allegan County, Michigan",622.0,369.0,253.0,005,27740,26
+2600539200,"Hopkins township, Allegan County, Michigan",916.0,793.0,123.0,005,39200,26
+2600545180,"Laketown township, Allegan County, Michigan",2359.0,1990.0,369.0,005,45180,26
+2600584580,"Watson township, Allegan County, Michigan",769.0,723.0,46.0,005,84580,26
+2600561820,"Overisel township, Allegan County, Michigan",981.0,914.0,67.0,005,61820,26
+2600561620,"Otsego city, Allegan County, Michigan",1674.0,1062.0,612.0,005,61620,26
+2600574980,"South Haven city, Allegan County, Michigan",0.0,0.0,0.0,005,74980,26
+260050,"County subdivisions not defined, Allegan County, Michigan",0.0,0.0,0.0,005,0,26
+2600584900,"Wayland township, Allegan County, Michigan",1166.0,1094.0,72.0,005,84900,26
+2600522680,"Dorr township, Allegan County, Michigan",2585.0,2414.0,171.0,005,22680,26
+2611764040,"Pierson township, Montcalm County, Michigan",1291.0,1152.0,139.0,117,64040,26
+2611727180,"Fairplain township, Montcalm County, Michigan",677.0,554.0,123.0,117,27180,26
+2610157900,"Norman township, Manistee County, Michigan",564.0,514.0,50.0,101,57900,26
+261254105,"Auburn Hills city, Oakland County, Michigan",9235.0,4224.0,5011.0,125,4105,26
+2612544440,"Lake Angelus city, Oakland County, Michigan",126.0,118.0,8.0,125,44440,26
+2611719920,"Day township, Montcalm County, Michigan",406.0,334.0,72.0,117,19920,26
+2611726520,"Eureka township, Montcalm County, Michigan",1554.0,1372.0,182.0,117,26520,26
+2611726720,"Evergreen township, Montcalm County, Michigan",1093.0,881.0,212.0,117,26720,26
+2611722760,"Douglass township, Montcalm County, Michigan",878.0,818.0,60.0,117,22760,26
+2611719080,"Crystal township, Montcalm County, Michigan",1088.0,854.0,234.0,117,19080,26
+261179040,"Bloomer township, Montcalm County, Michigan",503.0,412.0,91.0,117,9040,26
+2611751340,"Maple Valley township, Montcalm County, Michigan",780.0,620.0,160.0,117,51340,26
+2611359280,"Norwich township, Missaukee County, Michigan",279.0,265.0,14.0,113,59280,26
+2611329440,"Forest township, Missaukee County, Michigan",466.0,330.0,136.0,113,29440,26
+2611364460,"Pioneer township, Missaukee County, Michigan",220.0,194.0,26.0,113,64460,26
+2611368820,"Riverside township, Missaukee County, Michigan",418.0,346.0,72.0,113,68820,26
+2611368280,"Richland township, Missaukee County, Michigan",538.0,511.0,27.0,113,68280,26
+2611344380,"Lake township, Missaukee County, Michigan",1159.0,955.0,204.0,113,44380,26
+2611344480,"Lake City city, Missaukee County, Michigan",354.0,271.0,83.0,113,44480,26
+2611312200,"Butterfield township, Missaukee County, Michigan",212.0,184.0,28.0,113,12200,26
+2611326200,"Enterprise township, Missaukee County, Michigan",62.0,46.0,16.0,113,26200,26
+2611349980,"McBain city, Missaukee County, Michigan",235.0,137.0,98.0,113,49980,26
+2611385560,"West Branch township, Missaukee County, Michigan",190.0,163.0,27.0,113,85560,26
+261139080,"Bloomfield township, Missaukee County, Michigan",209.0,187.0,22.0,113,9080,26
+2611315900,"Clam Union township, Missaukee County, Michigan",389.0,297.0,92.0,113,15900,26
+2611338620,"Holland township, Missaukee County, Michigan",93.0,82.0,11.0,113,38620,26
+2611367840,"Reeder township, Missaukee County, Michigan",418.0,347.0,71.0,113,67840,26
+2611312440,"Caldwell township, Missaukee County, Michigan",508.0,393.0,115.0,113,12440,26
+26113520,"Aetna township, Missaukee County, Michigan",191.0,162.0,29.0,113,520,26
+2614917370,"Colon township, St. Joseph County, Michigan",1302.0,906.0,396.0,149,17370,26
+2614929060,"Florence township, St. Joseph County, Michigan",517.0,422.0,95.0,149,29060,26
+2614976960,"Sturgis city, St. Joseph County, Michigan",4347.0,2582.0,1765.0,149,76960,26
+2614917860,"Constantine township, St. Joseph County, Michigan",1611.0,1250.0,361.0,149,17860,26
+2614911940,"Burr Oak township, St. Joseph County, Michigan",971.0,751.0,220.0,149,11940,26
+2614955780,"Mottville township, St. Joseph County, Michigan",580.0,501.0,79.0,149,55780,26
+2614976980,"Sturgis township, St. Joseph County, Michigan",816.0,533.0,283.0,149,76980,26
+2614927540,"Fawn River township, St. Joseph County, Michigan",517.0,453.0,64.0,149,27540,26
+2613361280,"Osceola township, Osceola County, Michigan",426.0,381.0,45.0,133,61280,26
+2613373280,"Sherman township, Osceola County, Michigan",396.0,350.0,46.0,133,73280,26
+2613377760,"Sylvan township, Osceola County, Michigan",332.0,290.0,42.0,133,77760,26
+2613353660,"Middle Branch township, Osceola County, Michigan",339.0,305.0,34.0,133,53660,26
+2613326640,"Evart city, Osceola County, Michigan",656.0,315.0,341.0,133,26640,26
+2613326660,"Evart township, Osceola County, Michigan",581.0,529.0,52.0,133,26660,26
+2613367820,"Reed City city, Osceola County, Michigan",1105.0,637.0,468.0,133,67820,26
+2613368440,"Richmond township, Osceola County, Michigan",609.0,557.0,52.0,133,68440,26
+261374780,"Bagley township, Otsego County, Michigan",2210.0,1871.0,339.0,137,4780,26
+2613731720,"Gaylord city, Otsego County, Michigan",1764.0,845.0,919.0,137,31720,26
+2613737360,"Hayes township, Otsego County, Michigan",1041.0,996.0,45.0,137,37360,26
+2613748140,"Livingston township, Otsego County, Michigan",957.0,792.0,165.0,137,48140,26
+2613714840,"Charlton township, Otsego County, Michigan",559.0,521.0,38.0,137,14840,26
+2613718320,"Corwith township, Otsego County, Michigan",736.0,559.0,177.0,137,18320,26
+2613725620,"Elmira township, Otsego County, Michigan",688.0,644.0,44.0,137,25620,26
+2613761680,"Otsego Lake township, Otsego County, Michigan",1190.0,992.0,198.0,137,61680,26
+2613715280,"Chester township, Otsego County, Michigan",538.0,463.0,75.0,137,15280,26
+2613722840,"Dover township, Otsego County, Michigan",197.0,177.0,20.0,137,22840,26
+260255920,"Battle Creek city, Calhoun County, Michigan",20606.0,12362.0,8244.0,025,5920,26
+2602546620,"Lee township, Calhoun County, Michigan",347.0,316.0,31.0,025,46620,26
+2602572980,"Sheridan township, Calhoun County, Michigan",757.0,633.0,124.0,025,72980,26
+26025980,"Albion city, Calhoun County, Michigan",2940.0,1746.0,1194.0,025,980,26
+2602524700,"Eckford township, Calhoun County, Michigan",476.0,410.0,66.0,025,24700,26
+2602530500,"Fredonia township, Calhoun County, Michigan",660.0,560.0,100.0,025,30500,26
+2602538940,"Homer township, Calhoun County, Michigan",1148.0,791.0,357.0,025,38940,26
+260253900,"Athens township, Calhoun County, Michigan",935.0,808.0,127.0,025,3900,26
+2602515960,"Clarence township, Calhoun County, Michigan",808.0,666.0,142.0,025,15960,26
+2602516020,"Clarendon township, Calhoun County, Michigan",444.0,367.0,77.0,025,16020,26
+2602547060,"Leroy township, Calhoun County, Michigan",1425.0,1368.0,57.0,025,47060,26
+2602551520,"Marengo township, Calhoun County, Michigan",836.0,718.0,118.0,025,51520,26
+260251000,"Albion township, Calhoun County, Michigan",438.0,377.0,61.0,025,1000,26
+2602511820,"Burlington township, Calhoun County, Michigan",686.0,613.0,73.0,025,11820,26
+2602517880,"Convis township, Calhoun County, Michigan",627.0,557.0,70.0,025,17880,26
+2602551940,"Marshall city, Calhoun County, Michigan",3215.0,2031.0,1184.0,025,51940,26
+2602557620,"Newton township, Calhoun County, Michigan",956.0,890.0,66.0,025,57620,26
+2602575700,"Springfield city, Calhoun County, Michigan",2041.0,937.0,1104.0,025,75700,26
+2602579180,"Tekonsha township, Calhoun County, Michigan",614.0,476.0,138.0,025,79180,26
+2605927580,"Fayette township, Hillsdale County, Michigan",437.0,393.0,44.0,059,27580,26
+2605941620,"Jefferson township, Hillsdale County, Michigan",1296.0,1045.0,251.0,059,41620,26
+26059300,"Adams township, Hillsdale County, Michigan",980.0,763.0,217.0,059,300,26
+2605912700,"Cambria township, Hillsdale County, Michigan",984.0,815.0,169.0,059,12700,26
+2605947980,"Litchfield city, Hillsdale County, Michigan",549.0,312.0,237.0,059,47980,26
+2605948000,"Litchfield township, Hillsdale County, Michigan",404.0,322.0,82.0,059,48000,26
+2605967500,"Reading city, Hillsdale County, Michigan",356.0,248.0,108.0,059,67500,26
+2605988780,"Wright township, Hillsdale County, Michigan",636.0,467.0,169.0,059,88780,26
+2605967120,"Ransom township, Hillsdale County, Michigan",360.0,305.0,55.0,059,67120,26
+2605955640,"Moscow township, Hillsdale County, Michigan",573.0,513.0,60.0,059,55640,26
+2605974560,"Somerset township, Hillsdale County, Michigan",2007.0,1754.0,253.0,059,74560,26
+260591320,"Allen township, Hillsdale County, Michigan",602.0,521.0,81.0,059,1320,26
+260592020,"Amboy township, Hillsdale County, Michigan",435.0,376.0,59.0,059,2020,26
+2605986540,"Wheatland township, Hillsdale County, Michigan",483.0,387.0,96.0,059,86540,26
+2605988300,"Woodbridge township, Hillsdale County, Michigan",398.0,328.0,70.0,059,88300,26
+260034460,"Au Train township, Alger County, Michigan",508.0,470.0,38.0,003,4460,26
+2605938480,"Hillsdale township, Hillsdale County, Michigan",800.0,653.0,147.0,059,38480,26
+2600347540,"Limestone township, Alger County, Michigan",156.0,151.0,5.0,003,47540,26
+260030,"County subdivisions not defined, Alger County, Michigan",0.0,0.0,0.0,003,0,26
+2600352360,"Mathias township, Alger County, Michigan",145.0,138.0,7.0,003,52360,26
+2600356200,"Munising city, Alger County, Michigan",871.0,610.0,261.0,003,56200,26
+2600369160,"Rock River township, Alger County, Michigan",561.0,519.0,42.0,003,69160,26
+2600333380,"Grand Island township, Alger County, Michigan",16.0,16.0,0.0,003,33380,26
+2600311960,"Burt township, Alger County, Michigan",144.0,122.0,22.0,003,11960,26
+2600356220,"Munising township, Alger County, Michigan",707.0,663.0,44.0,003,56220,26
+2600360820,"Onota township, Alger County, Michigan",136.0,120.0,16.0,003,60820,26
+2612167300,"Ravenna township, Muskegon County, Michigan",1065.0,872.0,193.0,121,67300,26
+261210,"County subdivisions not defined, Muskegon County, Michigan",0.0,0.0,0.0,121,0,26
+261219340,"Blue Lake township, Muskegon County, Michigan",745.0,641.0,104.0,121,9340,26
+2612138820,"Holton township, Muskegon County, Michigan",888.0,696.0,192.0,121,38820,26
+2612155100,"Montague city, Muskegon County, Michigan",1059.0,721.0,338.0,121,55100,26
+2612156360,"Muskegon Heights city, Muskegon County, Michigan",3994.0,1972.0,2022.0,121,56360,26
+2612186780,"Whitehall city, Muskegon County, Michigan",1160.0,739.0,421.0,121,86780,26
+2612119660,"Dalton township, Muskegon County, Michigan",3356.0,3055.0,301.0,121,19660,26
+2612145160,"Laketon township, Muskegon County, Michigan",2945.0,2745.0,200.0,121,45160,26
+2612131020,"Fruitport charter township, Muskegon County, Michigan",5296.0,4715.0,581.0,121,31020,26
+2612155440,"Moorland township, Muskegon County, Michigan",538.0,502.0,36.0,121,55440,26
+2614979760,"Three Rivers city, St. Joseph County, Michigan",3008.0,1657.0,1351.0,149,79760,26
+2614926920,"Fabius township, St. Joseph County, Michigan",1302.0,1137.0,165.0,149,26920,26
+2614947020,"Leonidas township, St. Joseph County, Michigan",432.0,367.0,65.0,149,47020,26
+2614959400,"Nottawa township, St. Joseph County, Michigan",1398.0,1183.0,215.0,149,59400,26
+2614929140,"Flowerfield township, St. Joseph County, Michigan",634.0,567.0,67.0,149,29140,26
+2614953000,"Mendon township, St. Joseph County, Michigan",1036.0,840.0,196.0,149,53000,26
+2614986940,"White Pigeon township, St. Joseph County, Michigan",1462.0,981.0,481.0,149,86940,26
+2614949060,"Lockport township, St. Joseph County, Michigan",1547.0,1340.0,207.0,149,49060,26
+2614973300,"Sherman township, St. Joseph County, Michigan",1369.0,1293.0,76.0,149,73300,26
+2614962480,"Park township, St. Joseph County, Michigan",982.0,876.0,106.0,149,62480,26
+2614752960,"Memphis city, St. Clair County, Michigan",157.0,126.0,31.0,147,52960,26
+2614735220,"Greenwood township, St. Clair County, Michigan",531.0,498.0,33.0,147,35220,26
+2614752080,"Marysville city, St. Clair County, Michigan",4191.0,3268.0,923.0,147,52080,26
+2614768380,"Richmond city, St. Clair County, Michigan",0.0,0.0,0.0,147,68380,26
+2614734420,"Grant township, St. Clair County, Michigan",680.0,619.0,61.0,147,34420,26
+2614712020,"Burtchville township, St. Clair County, Michigan",1582.0,1249.0,333.0,147,12020,26
+261471180,"Algonac city, St. Clair County, Michigan",1855.0,1239.0,616.0,147,1180,26
+2602563440,"Pennfield charter township, Calhoun County, Michigan",3631.0,2755.0,876.0,025,63440,26
+2602551960,"Marshall township, Calhoun County, Michigan",1219.0,996.0,223.0,025,51960,26
+260310,"County subdivisions not defined, Cheboygan County, Michigan",0.0,0.0,0.0,031,0,26
+260316500,"Beaugrand township, Cheboygan County, Michigan",567.0,461.0,106.0,031,6500,26
+2603150300,"Mackinaw township, Cheboygan County, Michigan",236.0,160.0,76.0,031,50300,26
+2603159500,"Nunda township, Cheboygan County, Michigan",461.0,405.0,56.0,031,59500,26
+2603182940,"Walker township, Cheboygan County, Michigan",105.0,91.0,14.0,031,82940,26
+260317420,"Benton township, Cheboygan County, Michigan",1478.0,1280.0,198.0,031,7420,26
+2603125400,"Ellis township, Cheboygan County, Michigan",246.0,226.0,20.0,031,25400,26
+2603129400,"Forest township, Cheboygan County, Michigan",445.0,404.0,41.0,031,29400,26
+2603156100,"Mullett township, Cheboygan County, Michigan",524.0,502.0,22.0,031,56100,26
+2603156280,"Munro township, Cheboygan County, Michigan",298.0,284.0,14.0,031,56280,26
+2603184760,"Waverly township, Cheboygan County, Michigan",197.0,191.0,6.0,031,84760,26
+2603180880,"Tuscarora township, Cheboygan County, Michigan",1367.0,1037.0,330.0,031,80880,26
+2603140820,"Inverness township, Cheboygan County, Michigan",1046.0,902.0,144.0,031,40820,26
+2603143820,"Koehler township, Cheboygan County, Michigan",476.0,356.0,120.0,031,43820,26
+2603115000,"Cheboygan city, Cheboygan County, Michigan",1961.0,1216.0,745.0,031,15000,26
+2603137480,"Hebron township, Cheboygan County, Michigan",114.0,83.0,31.0,031,37480,26
+2603187640,"Wilmot township, Cheboygan County, Michigan",316.0,273.0,43.0,031,87640,26
+260311720,"Aloha township, Cheboygan County, Michigan",453.0,429.0,24.0,031,1720,26
+2603111980,"Burt township, Cheboygan County, Michigan",309.0,291.0,18.0,031,11980,26
+2603134200,"Grant township, Cheboygan County, Michigan",372.0,340.0,32.0,031,34200,26
+2603153100,"Mentor township, Cheboygan County, Michigan",377.0,337.0,40.0,031,53100,26
+2609544540,"Lakefield township, Luce County, Michigan",431.0,399.0,32.0,095,44540,26
+2609563500,"Pentland township, Luce County, Michigan",615.0,531.0,84.0,095,63500,26
+2609517480,"Columbus township, Luce County, Michigan",67.0,63.0,4.0,095,17480,26
+2609550440,"McMillan township, Luce County, Michigan",1140.0,748.0,392.0,095,50440,26
+260950,"County subdivisions not defined, Luce County, Michigan",0.0,0.0,0.0,095,0,26
+2608123980,"East Grand Rapids city, Kent County, Michigan",4028.0,3789.0,239.0,081,23980,26
+2608169080,"Rockford city, Kent County, Michigan",2269.0,1665.0,604.0,081,69080,26
+260811160,"Algoma township, Kent County, Michigan",3902.0,3580.0,322.0,081,1160,26
+260819780,"Bowne township, Kent County, Michigan",1110.0,1039.0,71.0,081,9780,26
+2608156920,"Nelson township, Kent County, Michigan",1820.0,1506.0,314.0,081,56920,26
+260811840,"Alpine township, Kent County, Michigan",5422.0,2946.0,2476.0,081,1840,26
+2612156320,"Muskegon city, Muskegon County, Michigan",13794.0,6881.0,6913.0,121,56320,26
+2612158640,"North Muskegon city, Muskegon County, Michigan",1577.0,1301.0,276.0,121,58640,26
+2612113840,"Casnovia township, Muskegon County, Michigan",940.0,861.0,79.0,121,13840,26
+2612159140,"Norton Shores city, Muskegon County, Michigan",10045.0,8155.0,1890.0,121,59140,26
+2612186980,"White River township, Muskegon County, Michigan",490.0,467.0,23.0,121,86980,26
+2612125080,"Egelston township, Muskegon County, Michigan",3349.0,2817.0,532.0,121,25080,26
+2612169520,"Roosevelt Park city, Muskegon County, Michigan",1620.0,960.0,660.0,121,69520,26
+2612177100,"Sullivan township, Muskegon County, Michigan",950.0,892.0,58.0,121,77100,26
+2612186800,"Whitehall township, Muskegon County, Michigan",681.0,623.0,58.0,121,86800,26
+2612130980,"Fruitland township, Muskegon County, Michigan",2094.0,1794.0,300.0,121,30980,26
+2612155120,"Montague township, Muskegon County, Michigan",571.0,508.0,63.0,121,55120,26
+2612114100,"Cedar Creek township, Muskegon County, Michigan",1215.0,1108.0,107.0,121,14100,26
+2612719100,"Crystal township, Oceana County, Michigan",273.0,211.0,62.0,127,19100,26
+2612761780,"Otto township, Oceana County, Michigan",342.0,297.0,45.0,127,61780,26
+2612772860,"Shelby township, Oceana County, Michigan",1480.0,1075.0,405.0,127,72860,26
+2612716200,"Claybanks township, Oceana County, Michigan",372.0,317.0,55.0,127,16200,26
+2612717180,"Colfax township, Oceana County, Michigan",204.0,171.0,33.0,127,17180,26
+2612727940,"Ferry township, Oceana County, Michigan",466.0,445.0,21.0,127,27940,26
+2612734400,"Grant township, Oceana County, Michigan",1043.0,924.0,119.0,127,34400,26
+2612736940,"Hart township, Oceana County, Michigan",690.0,573.0,117.0,127,36940,26
+2612732780,"Golden township, Oceana County, Michigan",693.0,608.0,85.0,127,32780,26
+2612785040,"Weare township, Oceana County, Michigan",435.0,375.0,60.0,127,85040,26
+261270,"County subdivisions not defined, Oceana County, Michigan",0.0,0.0,0.0,127,0,26
+2612763560,"Pentwater township, Oceana County, Michigan",761.0,633.0,128.0,127,63560,26
+2612725200,"Elbridge township, Oceana County, Michigan",319.0,261.0,58.0,127,25200,26
+2612736920,"Hart city, Oceana County, Michigan",803.0,436.0,367.0,127,36920,26
+2612746560,"Leavitt township, Oceana County, Michigan",307.0,246.0,61.0,127,46560,26
+2616384940,"Wayne city, Wayne County, Michigan",6622.0,3710.0,2912.0,163,84940,26
+2616388900,"Wyandotte city, Wayne County, Michigan",11113.0,8069.0,3044.0,163,88900,26
+2616377360,"Sumpter township, Wayne County, Michigan",3487.0,2958.0,529.0,163,77360,26
+2616321020,"Dearborn Heights city, Wayne County, Michigan",20483.0,14745.0,5738.0,163,21020,26
+2616322000,"Detroit city, Wayne County, Michigan",258471.0,124449.0,134022.0,163,22000,26
+2616336700,"Harper Woods city, Wayne County, Michigan",5199.0,3152.0,2047.0,163,36700,26
+2616359000,"Northville township, Wayne County, Michigan",11077.0,8814.0,2263.0,163,59000,26
+2616368880,"Riverview city, Wayne County, Michigan",5067.0,3232.0,1835.0,163,68880,26
+2616347800,"Lincoln Park city, Wayne County, Michigan",14408.0,9868.0,4540.0,163,47800,26
+2616328360,"Flat Rock city, Wayne County, Michigan",3558.0,2787.0,771.0,163,28360,26
+2616365060,"Plymouth city, Wayne County, Michigan",4208.0,2678.0,1530.0,163,65060,26
+2616379000,"Taylor city, Wayne County, Michigan",23666.0,15423.0,8243.0,163,79000,26
+2616380420,"Trenton city, Wayne County, Michigan",7841.0,6141.0,1700.0,163,80420,26
+2616352940,"Melvindale city, Wayne County, Michigan",3769.0,2176.0,1593.0,163,52940,26
+2604587840,"Windsor charter township, Eaton County, Michigan",2798.0,2586.0,212.0,045,87840,26
+2604521520,"Delta charter township, Eaton County, Michigan",14422.0,8747.0,5675.0,045,21520,26
+2604524540,"Eaton Rapids city, Eaton County, Michigan",2109.0,1199.0,910.0,045,24540,26
+2604577440,"Sunfield township, Eaton County, Michigan",758.0,670.0,88.0,045,77440,26
+2604583180,"Walton township, Eaton County, Michigan",799.0,717.0,82.0,045,83180,26
+2604514820,"Charlotte city, Eaton County, Michigan",3635.0,2171.0,1464.0,045,14820,26
+2604542220,"Kalamo township, Eaton County, Michigan",661.0,570.0,91.0,045,42220,26
+2604566100,"Potterville city, Eaton County, Michigan",1038.0,733.0,305.0,045,66100,26
+2604560700,"Oneida charter township, Eaton County, Michigan",1483.0,1365.0,118.0,045,60700,26
+2604570020,"Roxand township, Eaton County, Michigan",754.0,623.0,131.0,045,70020,26
+2604581980,"Vermontville township, Eaton County, Michigan",737.0,607.0,130.0,045,81980,26
+2604524520,"Eaton township, Eaton County, Michigan",1505.0,1392.0,113.0,045,24520,26
+2604546000,"Lansing city, Eaton County, Michigan",2056.0,670.0,1386.0,045,46000,26
+2604560580,"Olivet city, Eaton County, Michigan",389.0,222.0,167.0,045,60580,26
+260457440,"Benton township, Eaton County, Michigan",1105.0,991.0,114.0,045,7440,26
+2604185240,"Wells township, Delta County, Michigan",1958.0,1801.0,157.0,041,85240,26
+2604151260,"Maple Ridge township, Delta County, Michigan",311.0,301.0,10.0,041,51260,26
+2604126380,"Escanaba township, Delta County, Michigan",1492.0,1352.0,140.0,041,26380,26
+2604152220,"Masonville township, Delta County, Michigan",697.0,562.0,135.0,041,52220,26
+260416040,"Bay de Noc township, Delta County, Michigan",152.0,147.0,5.0,041,6040,26
+2604132300,"Gladstone city, Delta County, Michigan",2007.0,1601.0,406.0,041,32300,26
+260415420,"Bark River township, Delta County, Michigan",615.0,520.0,95.0,041,5420,26
+260419980,"Brampton township, Delta County, Michigan",400.0,380.0,20.0,041,9980,26
+2604156500,"Nahma township, Delta County, Michigan",212.0,193.0,19.0,041,56500,26
+2604129380,"Ford River township, Delta County, Michigan",968.0,866.0,102.0,041,29380,26
+2604126360,"Escanaba city, Delta County, Michigan",5743.0,3739.0,2004.0,041,26360,26
+260410,"County subdivisions not defined, Delta County, Michigan",0.0,0.0,0.0,041,0,26
+260414900,"Baldwin township, Delta County, Michigan",301.0,270.0,31.0,041,4900,26
+2604118280,"Cornell township, Delta County, Michigan",227.0,215.0,12.0,041,18280,26
+2604126960,"Fairbanks township, Delta County, Michigan",166.0,160.0,6.0,041,26960,26
+2604126140,"Ensign township, Delta County, Michigan",338.0,307.0,31.0,041,26140,26
+2604131400,"Garden township, Delta County, Michigan",333.0,300.0,33.0,041,31400,26
+260537960,"Bessemer city, Gogebic County, Michigan",896.0,668.0,228.0,053,7960,26
+260537980,"Bessemer township, Gogebic County, Michigan",529.0,439.0,90.0,053,7980,26
+2605326340,"Erwin township, Gogebic County, Michigan",147.0,138.0,9.0,053,26340,26
+2605341060,"Ironwood city, Gogebic County, Michigan",2458.0,1710.0,748.0,053,41060,26
+2605351560,"Marenisco township, Gogebic County, Michigan",219.0,212.0,7.0,053,51560,26
+2615780940,"Tuscola township, Tuscola County, Michigan",841.0,748.0,93.0,157,80940,26
+2615781840,"Vassar city, Tuscola County, Michigan",1047.0,614.0,433.0,157,81840,26
+26157720,"Akron township, Tuscola County, Michigan",595.0,518.0,77.0,157,720,26
+2615719980,"Dayton township, Tuscola County, Michigan",690.0,584.0,106.0,157,19980,26
+2600154060,"Millen township, Alcona County, Michigan",204.0,172.0,32.0,001,54060,26
+260011040,"Alcona township, Alcona County, Michigan",583.0,568.0,15.0,001,1040,26
+2600153880,"Mikado township, Alcona County, Michigan",386.0,320.0,66.0,001,53880,26
+2600112460,"Caledonia township, Alcona County, Michigan",492.0,448.0,44.0,001,12460,26
+2600734740,"Green township, Alpena County, Michigan",485.0,467.0,18.0,007,34740,26
+2600119320,"Curtis township, Alcona County, Michigan",600.0,520.0,80.0,001,19320,26
+2600137220,"Hawes township, Alcona County, Michigan",465.0,431.0,34.0,001,37220,26
+2600134820,"Greenbush township, Alcona County, Michigan",661.0,611.0,50.0,001,34820,26
+260071740,"Alpena city, Alpena County, Michigan",4604.0,2871.0,1733.0,007,1740,26
+2600749360,"Long Rapids township, Alpena County, Michigan",458.0,436.0,22.0,007,49360,26
+2600785180,"Wellington township, Alpena County, Michigan",116.0,100.0,16.0,007,85180,26
+260071760,"Alpena township, Alpena County, Michigan",4137.0,3354.0,783.0,007,1760,26
+2600751220,"Maple Ridge township, Alpena County, Michigan",691.0,651.0,40.0,007,51220,26
+2600787680,"Wilson township, Alpena County, Michigan",813.0,732.0,81.0,007,87680,26
+2600771240,"Sanborn township, Alpena County, Michigan",799.0,634.0,165.0,007,71240,26
+260070,"County subdivisions not defined, Alpena County, Michigan",0.0,0.0,0.0,007,0,26
+2600761520,"Ossineke township, Alpena County, Michigan",686.0,606.0,80.0,007,61520,26
+2616368760,"River Rouge city, Wayne County, Michigan",2821.0,1598.0,1223.0,163,68760,26
+2616369180,"Rockwood city, Wayne County, Michigan",1341.0,883.0,458.0,163,69180,26
+2616358980,"Northville city, Wayne County, Michigan",1147.0,758.0,389.0,163,58980,26
+2616340680,"Inkster city, Wayne County, Michigan",9348.0,4456.0,4892.0,163,40680,26
+260235800,"Batavia township, Branch County, Michigan",558.0,396.0,162.0,023,5800,26
+2602332120,"Gilead township, Branch County, Michigan",316.0,275.0,41.0,023,32120,26
+2602357860,"Noble township, Branch County, Michigan",184.0,163.0,21.0,023,57860,26
+260231120,"Algansee township, Branch County, Michigan",653.0,540.0,113.0,023,1120,26
+2602317020,"Coldwater city, Branch County, Michigan",4317.0,2479.0,1838.0,023,17020,26
+2602366660,"Quincy township, Branch County, Michigan",1672.0,1378.0,294.0,023,66660,26
+2602312140,"Butler township, Branch County, Michigan",503.0,427.0,76.0,023,12140,26
+2602310860,"Bronson city, Branch County, Michigan",893.0,566.0,327.0,023,10860,26
+2602312560,"California township, Branch County, Michigan",305.0,268.0,37.0,023,12560,26
+2602373440,"Sherwood township, Branch County, Michigan",781.0,640.0,141.0,023,73440,26
+2602381280,"Union township, Branch County, Michigan",1140.0,902.0,238.0,023,81280,26
+260238060,"Bethel township, Branch County, Michigan",505.0,395.0,110.0,023,8060,26
+2602361840,"Ovid township, Branch County, Michigan",1131.0,1019.0,112.0,023,61840,26
+2602332280,"Girard township, Branch County, Michigan",685.0,570.0,115.0,023,32280,26
+2602343260,"Kinderhook township, Branch County, Michigan",645.0,571.0,74.0,023,43260,26
+2602352400,"Matteson township, Branch County, Michigan",477.0,388.0,89.0,023,52400,26
+2602310880,"Bronson township, Branch County, Michigan",512.0,457.0,55.0,023,10880,26
+2602317040,"Coldwater township, Branch County, Michigan",1138.0,942.0,196.0,023,17040,26
+2605552480,"Mayfield township, Grand Traverse County, Michigan",582.0,490.0,92.0,055,52480,26
+2605534960,"Green Lake township, Grand Traverse County, Michigan",2475.0,2250.0,225.0,055,34960,26
+2605528020,"Fife Lake township, Grand Traverse County, Michigan",631.0,551.0,80.0,055,28020,26
+2605523800,"East Bay township, Grand Traverse County, Michigan",4427.0,3728.0,699.0,055,23800,26
+2605563340,"Peninsula township, Grand Traverse County, Michigan",2618.0,2398.0,220.0,055,63340,26
+260558880,"Blair township, Grand Traverse County, Michigan",3064.0,2503.0,561.0,055,8880,26
+26055200,"Acme township, Grand Traverse County, Michigan",2123.0,1729.0,394.0,055,200,26
+2605534240,"Grant township, Grand Traverse County, Michigan",466.0,407.0,59.0,055,34240,26
+2605549240,"Long Lake township, Grand Traverse County, Michigan",3634.0,3317.0,317.0,055,49240,26
+2605581320,"Union township, Grand Traverse County, Michigan",152.0,144.0,8.0,055,81320,26
+2605587040,"Whitewater township, Grand Traverse County, Michigan",983.0,839.0,144.0,055,87040,26
+260550,"County subdivisions not defined, Grand Traverse County, Michigan",0.0,0.0,0.0,055,0,26
+2605562320,"Paradise township, Grand Traverse County, Michigan",1577.0,1412.0,165.0,055,62320,26
+2605384380,"Watersmeet township, Gogebic County, Michigan",615.0,509.0,106.0,053,84380,26
+260530,"County subdivisions not defined, Gogebic County, Michigan",0.0,0.0,0.0,053,0,26
+2605382780,"Wakefield city, Gogebic County, Michigan",724.0,558.0,166.0,053,82780,26
+2605382800,"Wakefield township, Gogebic County, Michigan",157.0,153.0,4.0,053,82800,26
+2604730860,"Friendship township, Emmet County, Michigan",363.0,327.0,36.0,047,30860,26
+2604751280,"Maple River township, Emmet County, Michigan",577.0,475.0,102.0,047,51280,26
+2604775900,"Springvale township, Emmet County, Michigan",839.0,730.0,109.0,047,75900,26
+2604786300,"West Traverse township, Emmet County, Michigan",753.0,681.0,72.0,047,86300,26
+2604750340,"McKinley township, Emmet County, Michigan",526.0,354.0,172.0,047,50340,26
+2604784840,"Wawatam township, Emmet County, Michigan",281.0,187.0,94.0,047,84840,26
+260470,"County subdivisions not defined, Emmet County, Michigan",0.0,0.0,0.0,047,0,26
+2604748080,"Little Traverse township, Emmet County, Michigan",1012.0,842.0,170.0,047,48080,26
+2604764960,"Pleasantview township, Emmet County, Michigan",393.0,320.0,73.0,047,64960,26
+2604713500,"Carp Lake township, Emmet County, Michigan",365.0,326.0,39.0,047,13500,26
+260478980,"Bliss township, Emmet County, Michigan",278.0,248.0,30.0,047,8980,26
+2604767540,"Readmond township, Emmet County, Michigan",304.0,287.0,17.0,047,67540,26
+2604718900,"Cross Village township, Emmet County, Michigan",118.0,114.0,4.0,047,18900,26
+2604736560,"Harbor Springs city, Emmet County, Michigan",513.0,372.0,141.0,047,36560,26
+2604748020,"Littlefield township, Emmet County, Michigan",1292.0,980.0,312.0,047,48020,26
+2604768060,"Resort township, Emmet County, Michigan",982.0,891.0,91.0,047,68060,26
+260476380,"Bear Creek township, Emmet County, Michigan",2728.0,1702.0,1026.0,047,6380,26
+2604763820,"Petoskey city, Emmet County, Michigan",2927.0,1613.0,1314.0,047,63820,26
+2604714300,"Center township, Emmet County, Michigan",245.0,199.0,46.0,047,14300,26
+2610164860,"Pleasanton township, Manistee County, Michigan",325.0,305.0,20.0,101,64860,26
+2611970380,"Rust township, Montmorency County, Michigan",193.0,168.0,25.0,119,70380,26
+26119940,"Albert township, Montmorency County, Michigan",1039.0,911.0,128.0,119,940,26
+2611938400,"Hillman township, Montmorency County, Michigan",885.0,741.0,144.0,119,38400,26
+2611949480,"Loud township, Montmorency County, Michigan",121.0,117.0,4.0,119,49480,26
+2611982420,"Vienna township, Montmorency County, Michigan",250.0,237.0,13.0,119,82420,26
+2611955240,"Montmorency township, Montmorency County, Michigan",483.0,456.0,27.0,119,55240,26
+261194580,"Avery township, Montmorency County, Michigan",294.0,272.0,22.0,119,4580,26
+2611910660,"Briley township, Montmorency County, Michigan",809.0,695.0,114.0,119,10660,26
+2614143900,"Krakow township, Presque Isle County, Michigan",353.0,320.0,33.0,141,43900,26
+261416920,"Belknap township, Presque Isle County, Michigan",286.0,266.0,20.0,141,6920,26
+2614113740,"Case township, Presque Isle County, Michigan",334.0,314.0,20.0,141,13740,26
+2614154860,"Moltke township, Presque Isle County, Michigan",128.0,120.0,8.0,141,54860,26
+261411480,"Allis township, Presque Isle County, Michigan",420.0,386.0,34.0,141,1480,26
+2614160680,"Onaway city, Presque Isle County, Michigan",355.0,256.0,99.0,141,60680,26
+261416400,"Bearinger township, Presque Isle County, Michigan",161.0,157.0,4.0,141,6400,26
+261418700,"Bismarck township, Presque Isle County, Michigan",186.0,175.0,11.0,141,8700,26
+2614160160,"Ocqueoc township, Presque Isle County, Michigan",298.0,281.0,17.0,141,60160,26
+2614166460,"Pulawski township, Presque Isle County, Michigan",142.0,137.0,5.0,141,66460,26
+261410,"County subdivisions not defined, Presque Isle County, Michigan",0.0,0.0,0.0,141,0,26
+2614169260,"Rogers City city, Presque Isle County, Michigan",1277.0,929.0,348.0,141,69260,26
+2614157940,"North Allis township, Presque Isle County, Michigan",182.0,177.0,5.0,141,57940,26
+2614166340,"Presque Isle township, Presque Isle County, Michigan",835.0,801.0,34.0,141,66340,26
+2614169240,"Rogers township, Presque Isle County, Michigan",482.0,455.0,27.0,141,69240,26
+2614166020,"Posen township, Presque Isle County, Michigan",356.0,281.0,75.0,141,66020,26
+2614153440,"Metz township, Presque Isle County, Michigan",134.0,120.0,14.0,141,53440,26
+2603311280,"Bruce township, Chippewa County, Michigan",897.0,787.0,110.0,033,11280,26
+2603323080,"Drummond township, Chippewa County, Michigan",568.0,491.0,77.0,033,23080,26
+2603339860,"Hulbert township, Chippewa County, Michigan",75.0,66.0,9.0,033,39860,26
+2603321770,"Detour township, Chippewa County, Michigan",366.0,331.0,35.0,033,21770,26
+2603363980,"Pickford township, Chippewa County, Michigan",688.0,622.0,66.0,033,63980,26
+2603319540,"Dafter township, Chippewa County, Michigan",498.0,450.0,48.0,033,19540,26
+2603377020,"Sugar Island township, Chippewa County, Michigan",286.0,271.0,15.0,033,77020,26
+2603370220,"Rudyard township, Chippewa County, Michigan",457.0,420.0,37.0,033,70220,26
+2603371740,"Sault Ste. Marie city, Chippewa County, Michigan",5581.0,3061.0,2520.0,033,71740,26
+2603386700,"Whitefish township, Chippewa County, Michigan",197.0,167.0,30.0,033,86700,26
+2603377540,"Superior township, Chippewa County, Michigan",560.0,531.0,29.0,033,77540,26
+260330,"County subdivisions not defined, Chippewa County, Michigan",0.0,0.0,0.0,033,0,26
+2603343480,"Kinross charter township, Chippewa County, Michigan",1430.0,735.0,695.0,033,43480,26
+260630,"County subdivisions not defined, Huron County, Michigan",0.0,0.0,0.0,063,0,26
+2606310940,"Brookfield township, Huron County, Michigan",310.0,267.0,43.0,063,10940,26
+2606314600,"Chandler township, Huron County, Michigan",199.0,170.0,29.0,063,14600,26
+2606334260,"Grant township, Huron County, Michigan",361.0,319.0,42.0,063,34260,26
+2606373880,"Sigel township, Huron County, Michigan",188.0,166.0,22.0,063,73880,26
+260639060,"Bloomfield township, Huron County, Michigan",175.0,158.0,17.0,063,9060,26
+2606350360,"McKinley township, Huron County, Michigan",206.0,169.0,37.0,063,50360,26
+2606360520,"Oliver township, Huron County, Michigan",602.0,425.0,177.0,063,60520,26
+2606382140,"Verona township, Huron County, Michigan",485.0,429.0,56.0,063,82140,26
+260638420,"Bingham township, Huron County, Michigan",691.0,589.0,102.0,063,8420,26
+2606347640,"Lincoln township, Huron County, Michigan",306.0,261.0,45.0,063,47640,26
+2606371260,"Sand Beach township, Huron County, Michigan",406.0,385.0,21.0,063,71260,26
+2606387960,"Winsor township, Huron County, Michigan",839.0,636.0,203.0,063,87960,26
+2606340020,"Huron township, Huron County, Michigan",164.0,158.0,6.0,063,40020,26
+2606313780,"Caseville township, Huron County, Michigan",796.0,724.0,72.0,063,13780,26
+2606373040,"Sheridan township, Huron County, Michigan",243.0,216.0,27.0,063,73040,26
+2606373160,"Sherman township, Huron County, Michigan",453.0,370.0,83.0,063,73160,26
+2606317140,"Colfax township, Huron County, Michigan",717.0,586.0,131.0,063,17140,26
+2606365180,"Pointe Aux Barques township, Huron County, Michigan",21.0,19.0,2.0,063,65180,26
+2606323540,"Dwight township, Huron County, Michigan",325.0,256.0,69.0,063,23540,26
+2606546000,"Lansing city, Ingham County, Michigan",46670.0,23829.0,22841.0,065,46000,26
+2606587440,"Williamstown township, Ingham County, Michigan",2043.0,1909.0,134.0,065,87440,26
+2606521420,"Delhi charter township, Ingham County, Michigan",10829.0,7880.0,2949.0,065,21420,26
+2612580700,"Troy city, Oakland County, Michigan",31520.0,23008.0,8512.0,125,80700,26
+2612582450,"Village of Clarkston city, Oakland County, Michigan",413.0,265.0,148.0,125,82450,26
+2612575100,"South Lyon city, Oakland County, Michigan",4902.0,3667.0,1235.0,125,75100,26
+2612546320,"Lathrup Village city, Oakland County, Michigan",1541.0,1442.0,99.0,125,46320,26
+2612558980,"Northville city, Oakland County, Michigan",1403.0,1196.0,207.0,125,58980,26
+2612583060,"Walled Lake city, Oakland County, Michigan",3442.0,1873.0,1569.0,125,83060,26
+2612574920,"Southfield township, Oakland County, Michigan",5804.0,5243.0,561.0,125,74920,26
+2612588140,"Wixom city, Oakland County, Michigan",6189.0,3035.0,3154.0,125,88140,26
+261257660,"Berkley city, Oakland County, Michigan",6504.0,5299.0,1205.0,125,7660,26
+2612535640,"Groveland township, Oakland County, Michigan",1919.0,1728.0,191.0,125,35640,26
+2612569580,"Rose township, Oakland County, Michigan",2573.0,2368.0,205.0,125,69580,26
+2612570060,"Royal Oak charter township, Oakland County, Michigan",1093.0,381.0,712.0,125,70060,26
+2610510020,"Branch township, Mason County, Michigan",566.0,442.0,124.0,105,10020,26
+2610577220,"Summit township, Mason County, Michigan",365.0,322.0,43.0,105,77220,26
+2610582360,"Victory township, Mason County, Michigan",522.0,459.0,63.0,105,82360,26
+2610563600,"Pere Marquette charter township, Mason County, Michigan",960.0,817.0,143.0,105,63600,26
+2610568860,"Riverton township, Mason County, Michigan",458.0,390.0,68.0,105,68860,26
+2610536220,"Hamlin township, Mason County, Michigan",1650.0,1551.0,99.0,105,36220,26
+2610549140,"Logan township, Mason County, Michigan",132.0,115.0,17.0,105,49140,26
+2610573240,"Sherman township, Mason County, Michigan",491.0,440.0,51.0,105,73240,26
+2610572080,"Scottville city, Mason County, Michigan",441.0,277.0,164.0,105,72080,26
+2610956440,"Nadeau township, Menominee County, Michigan",535.0,455.0,80.0,109,56440,26
+2610976380,"Stephenson city, Menominee County, Michigan",359.0,233.0,126.0,109,76380,26
+2610936760,"Harris township, Menominee County, Michigan",633.0,477.0,156.0,109,36760,26
+2610975350,"Spalding township, Menominee County, Michigan",653.0,523.0,130.0,109,75350,26
+2610976400,"Stephenson township, Menominee County, Michigan",283.0,250.0,33.0,109,76400,26
+2610953020,"Menominee city, Menominee County, Michigan",3976.0,2621.0,1355.0,109,53020,26
+2610953040,"Menominee township, Menominee County, Michigan",1678.0,1591.0,87.0,109,53040,26
+261090,"County subdivisions not defined, Menominee County, Michigan",0.0,0.0,0.0,109,0,26
+2610944360,"Lake township, Menominee County, Michigan",264.0,240.0,24.0,109,44360,26
+2610919580,"Daggett township, Menominee County, Michigan",283.0,265.0,18.0,109,19580,26
+2610927300,"Faithorn township, Menominee County, Michigan",104.0,103.0,1.0,109,27300,26
+2610933160,"Gourley township, Menominee County, Michigan",155.0,134.0,21.0,109,33160,26
+2610938760,"Holmes township, Menominee County, Michigan",160.0,141.0,19.0,109,38760,26
+2610940600,"Ingallston township, Menominee County, Michigan",423.0,391.0,32.0,109,40600,26
+2610914240,"Cedarville township, Menominee County, Michigan",107.0,97.0,10.0,109,14240,26
+2610952860,"Mellen township, Menominee County, Michigan",518.0,453.0,65.0,109,52860,26
+2610953460,"Meyer township, Menominee County, Michigan",462.0,382.0,80.0,109,53460,26
+261177200,"Belvidere township, Montcalm County, Michigan",872.0,713.0,159.0,117,7200,26
+2611713600,"Carson City city, Montcalm County, Michigan",467.0,285.0,182.0,117,13600,26
+2611714000,"Cato township, Montcalm County, Michigan",1041.0,829.0,212.0,117,14000,26
+2611735100,"Greenville city, Montcalm County, Michigan",3353.0,1790.0,1563.0,117,35100,26
+2611738840,"Home township, Montcalm County, Michigan",991.0,622.0,369.0,117,38840,26
+2611768300,"Richland township, Montcalm County, Michigan",1088.0,887.0,201.0,117,68300,26
+2611755140,"Montcalm township, Montcalm County, Michigan",1368.0,1098.0,270.0,117,55140,26
+2611773840,"Sidney township, Montcalm County, Michigan",1104.0,944.0,160.0,117,73840,26
+2611727900,"Ferris township, Montcalm County, Michigan",507.0,433.0,74.0,117,27900,26
+2611764200,"Pine township, Montcalm County, Michigan",779.0,693.0,86.0,117,64200,26
+2611768120,"Reynolds township, Montcalm County, Michigan",1946.0,1658.0,288.0,117,68120,26
+261236580,"Beaver township, Newaygo County, Michigan",176.0,148.0,28.0,123,6580,26
+2612338860,"Home township, Newaygo County, Michigan",98.0,89.0,9.0,123,38860,26
+2612357080,"Newaygo city, Newaygo County, Michigan",788.0,334.0,454.0,123,57080,26
+2612326160,"Ensley township, Newaygo County, Michigan",933.0,872.0,61.0,123,26160,26
+2612330700,"Fremont city, Newaygo County, Michigan",1715.0,1163.0,552.0,123,30700,26
+2612331640,"Garfield township, Newaygo County, Michigan",856.0,759.0,97.0,123,31640,26
+2612386680,"White Cloud city, Newaygo County, Michigan",417.0,254.0,163.0,123,86680,26
+2612347440,"Lilley township, Newaygo County, Michigan",321.0,255.0,66.0,123,47440,26
+261233700,"Ashland township, Newaygo County, Michigan",934.0,802.0,132.0,123,3700,26
+2612373120,"Sheridan charter township, Newaygo County, Michigan",996.0,883.0,113.0,123,73120,26
+2612319960,"Dayton township, Newaygo County, Michigan",682.0,615.0,67.0,123,19960,26
+2612334360,"Grant city, Newaygo County, Michigan",346.0,185.0,161.0,123,34360,26
+2612355060,"Monroe township, Newaygo County, Michigan",140.0,121.0,19.0,123,55060,26
+2612373260,"Sherman township, Newaygo County, Michigan",752.0,663.0,89.0,123,73260,26
+2614751600,"Marine City city, St. Clair County, Michigan",1866.0,1306.0,560.0,147,51600,26
+2614715540,"China township, St. Clair County, Michigan",1286.0,1262.0,24.0,147,15540,26
+2614749800,"Lynn township, St. Clair County, Michigan",419.0,368.0,51.0,147,49800,26
+2614718400,"Cottrellville township, St. Clair County, Michigan",1315.0,1197.0,118.0,147,18400,26
+2614723820,"East China township, St. Clair County, Michigan",1627.0,1220.0,407.0,147,23820,26
+2614756380,"Mussey township, St. Clair County, Michigan",1523.0,1189.0,334.0,147,56380,26
+2614765820,"Port Huron city, St. Clair County, Michigan",12390.0,6578.0,5812.0,147,65820,26
+2614770680,"St. Clair city, St. Clair County, Michigan",2385.0,1789.0,596.0,147,70680,26
+2614782900,"Wales township, St. Clair County, Michigan",1237.0,1103.0,134.0,147,82900,26
+2614743160,"Kimball township, St. Clair County, Michigan",3493.0,3110.0,383.0,147,43160,26
+2614716760,"Clyde township, St. Clair County, Michigan",2156.0,1923.0,233.0,147,16760,26
+2614768620,"Riley township, St. Clair County, Michigan",1173.0,1027.0,146.0,147,68620,26
+2614789000,"Yale city, St. Clair County, Michigan",807.0,497.0,310.0,147,89000,26
+2614713720,"Casco township, St. Clair County, Michigan",1483.0,1370.0,113.0,147,13720,26
+2614716180,"Clay township, St. Clair County, Michigan",4009.0,3448.0,561.0,147,16180,26
+261470,"County subdivisions not defined, St. Clair County, Michigan",0.0,0.0,0.0,147,0,26
+2614717520,"Columbus township, St. Clair County, Michigan",1498.0,1224.0,274.0,147,17520,26
+2614710820,"Brockway township, St. Clair County, Michigan",690.0,636.0,54.0,147,10820,26
+2614725960,"Emmett township, St. Clair County, Michigan",944.0,899.0,45.0,147,25960,26
+2612757300,"Newfield township, Oceana County, Michigan",902.0,762.0,140.0,127,57300,26
+2612735160,"Greenwood township, Oceana County, Michigan",434.0,317.0,117.0,127,35160,26
+2608932380,"Glen Arbor township, Leelanau County, Michigan",305.0,302.0,3.0,089,32380,26
+261277300,"Benona township, Oceana County, Michigan",652.0,555.0,97.0,127,7300,26
+2608977620,"Suttons Bay township, Leelanau County, Michigan",1171.0,918.0,253.0,089,77620,26
+2608916400,"Cleveland township, Leelanau County, Michigan",485.0,440.0,45.0,089,16400,26
+2608946700,"Leelanau township, Leelanau County, Michigan",970.0,873.0,97.0,089,46700,26
+2608946820,"Leland township, Leelanau County, Michigan",834.0,710.0,124.0,089,46820,26
+2608980340,"Traverse City city, Leelanau County, Michigan",110.0,110.0,0.0,089,80340,26
+261477760,"Berlin township, St. Clair County, Michigan",1212.0,1122.0,90.0,147,7760,26
+2614740920,"Ira township, St. Clair County, Michigan",2021.0,1654.0,367.0,147,40920,26
+2614770700,"St. Clair township, St. Clair County, Michigan",2535.0,2300.0,235.0,147,70700,26
+2614742740,"Kenockee township, St. Clair County, Michigan",935.0,857.0,78.0,147,42740,26
+2615936960,"Hartford city, Van Buren County, Michigan",841.0,543.0,298.0,159,36960,26
+2615936980,"Hartford township, Van Buren County, Michigan",1120.0,876.0,244.0,159,36980,26
+2615963000,"Paw Paw township, Van Buren County, Michigan",2895.0,1891.0,1004.0,159,63000,26
+2615965760,"Porter township, Van Buren County, Michigan",979.0,889.0,90.0,159,65760,26
+261590,"County subdivisions not defined, Van Buren County, Michigan",0.0,0.0,0.0,159,0,26
+261595140,"Bangor city, Van Buren County, Michigan",681.0,414.0,267.0,159,5140,26
+2615918560,"Covert township, Van Buren County, Michigan",1127.0,748.0,379.0,159,18560,26
+2615921060,"Decatur township, Van Buren County, Michigan",1398.0,1008.0,390.0,159,21060,26
+2615932640,"Gobles city, Van Buren County, Michigan",318.0,207.0,111.0,159,32640,26
+2615936180,"Hamilton township, Van Buren County, Michigan",495.0,421.0,74.0,159,36180,26
+2615984820,"Waverly township, Van Buren County, Michigan",1027.0,899.0,128.0,159,84820,26
+261593140,"Antwerp township, Van Buren County, Michigan",4413.0,3759.0,654.0,159,3140,26
+261593500,"Arlington township, Van Buren County, Michigan",799.0,662.0,137.0,159,3500,26
+2615974980,"South Haven city, Van Buren County, Michigan",2157.0,1252.0,905.0,159,74980,26
+261599240,"Bloomingdale township, Van Buren County, Michigan",1375.0,1107.0,268.0,159,9240,26
+2615946460,"Lawrence township, Van Buren County, Michigan",1248.0,964.0,284.0,159,46460,26
+261591600,"Almena township, Van Buren County, Michigan",1635.0,1516.0,119.0,159,1600,26
+2615964280,"Pine Grove township, Van Buren County, Michigan",1036.0,908.0,128.0,159,64280,26
+2615975000,"South Haven charter township, Van Buren County, Michigan",1675.0,1256.0,419.0,159,75000,26
+261595160,"Bangor township, Van Buren County, Michigan",792.0,630.0,162.0,159,5160,26
+2615942500,"Keeler township, Van Buren County, Michigan",819.0,677.0,142.0,159,42500,26
+2615931840,"Geneva township, Van Buren County, Michigan",1401.0,1136.0,265.0,159,31840,26
+2615917440,"Columbia township, Van Buren County, Michigan",920.0,745.0,175.0,159,17440,26
+2616149780,"Lyndon township, Washtenaw County, Michigan",998.0,948.0,50.0,161,49780,26
+2616150680,"Manchester township, Washtenaw County, Michigan",1922.0,1563.0,359.0,161,50680,26
+2616153920,"Milan city, Washtenaw County, Michigan",1312.0,995.0,317.0,161,53920,26
+2616171140,"Saline city, Washtenaw County, Michigan",3768.0,2786.0,982.0,161,71140,26
+2616171940,"Scio township, Washtenaw County, Michigan",6445.0,5378.0,1067.0,161,71940,26
+2616172760,"Sharon township, Washtenaw County, Michigan",688.0,604.0,84.0,161,72760,26
+2616185100,"Webster township, Washtenaw County, Michigan",2273.0,2208.0,65.0,161,85100,26
+2608134560,"Grattan township, Kent County, Michigan",1487.0,1406.0,81.0,081,34560,26
+2608175440,"Sparta township, Kent County, Michigan",3367.0,2530.0,837.0,081,75440,26
+2608175560,"Spencer township, Kent County, Michigan",1561.0,1461.0,100.0,081,75560,26
+2608181920,"Vergennes township, Kent County, Michigan",1452.0,1366.0,86.0,081,81920,26
+2608181140,"Tyrone township, Kent County, Michigan",1567.0,1322.0,245.0,081,81140,26
+2608112500,"Caledonia township, Kent County, Michigan",4708.0,4116.0,592.0,081,12500,26
+2608114200,"Cedar Springs city, Kent County, Michigan",1269.0,774.0,495.0,081,14200,26
+2608174460,"Solon township, Kent County, Michigan",2547.0,2328.0,219.0,081,74460,26
+2608182960,"Walker city, Kent County, Michigan",10078.0,6138.0,3940.0,081,82960,26
+2608142820,"Kentwood city, Kent County, Michigan",20368.0,11658.0,8710.0,081,42820,26
+2608134000,"Grand Rapids city, Kent County, Michigan",73434.0,39931.0,33503.0,081,34000,26
+2608134020,"Grand Rapids charter township, Kent County, Michigan",6310.0,5497.0,813.0,081,34020,26
+2608134160,"Grandville city, Kent County, Michigan",6248.0,4635.0,1613.0,081,34160,26
+2608113080,"Cannon township, Kent County, Michigan",4928.0,4696.0,232.0,081,13080,26
+2608149540,"Lowell city, Kent County, Michigan",1470.0,956.0,514.0,081,49540,26
+2608159580,"Oakfield township, Kent County, Michigan",2191.0,1957.0,234.0,081,59580,26
+2608112240,"Byron township, Kent County, Michigan",8271.0,7025.0,1246.0,081,12240,26
+2608188940,"Wyoming city, Kent County, Michigan",27915.0,18250.0,9665.0,081,88940,26
+26081240,"Ada township, Kent County, Michigan",4734.0,4421.0,313.0,081,240,26
+2608118500,"Courtland township, Kent County, Michigan",2733.0,2443.0,290.0,081,18500,26
+2609972820,"Shelby charter township, Macomb County, Michigan",30519.0,23328.0,7191.0,099,72820,26
+2609976460,"Sterling Heights city, Macomb County, Michigan",49838.0,35635.0,14203.0,099,76460,26
+2609968380,"Richmond city, Macomb County, Michigan",2188.0,1624.0,564.0,099,68380,26
+2609981540,"Utica city, Macomb County, Michigan",2253.0,1291.0,962.0,099,81540,26
+2609984120,"Washington township, Macomb County, Michigan",10247.0,8418.0,1829.0,099,84120,26
+2609968400,"Richmond township, Macomb County, Michigan",1239.0,1147.0,92.0,099,68400,26
+2609970760,"St. Clair Shores city, Macomb County, Michigan",26763.0,20901.0,5862.0,099,70760,26
+2609984000,"Warren city, Macomb County, Michigan",53436.0,37232.0,16204.0,099,84000,26
+2609914320,"Center Line city, Macomb County, Michigan",3618.0,1786.0,1832.0,099,14320,26
+2609915340,"Chesterfield township, Macomb County, Michigan",17291.0,13701.0,3590.0,099,15340,26
+2609955820,"Mount Clemens city, Macomb County, Michigan",6785.0,3830.0,2955.0,099,55820,26
+2609946900,"Lenox township, Macomb County, Michigan",3192.0,2582.0,610.0,099,46900,26
+2609967420,"Ray township, Macomb County, Michigan",1603.0,1447.0,156.0,099,67420,26
+2609911300,"Bruce township, Macomb County, Michigan",3210.0,2971.0,239.0,099,11300,26
+2608942320,"Kasson township, Leelanau County, Michigan",513.0,463.0,50.0,089,42320,26
+2616130520,"Freedom township, Washtenaw County, Michigan",592.0,506.0,86.0,161,30520,26
+2616171130,"Salem township, Washtenaw County, Michigan",2106.0,1980.0,126.0,161,71130,26
+2616110560,"Bridgewater township, Washtenaw County, Michigan",585.0,549.0,36.0,161,10560,26
+2616171160,"Saline township, Washtenaw County, Michigan",859.0,785.0,74.0,161,71160,26
+2616177800,"Sylvan township, Washtenaw County, Michigan",1140.0,1038.0,102.0,161,77800,26
+260113360,"Arenac township, Arenac County, Michigan",351.0,315.0,36.0,011,3360,26
+2601174020,"Sims township, Arenac County, Michigan",526.0,480.0,46.0,011,74020,26
+2601154800,"Moffatt township, Arenac County, Michigan",500.0,457.0,43.0,011,54800,26
+2601176140,"Standish township, Arenac County, Michigan",790.0,668.0,122.0,011,76140,26
+26011280,"Adams township, Arenac County, Michigan",232.0,199.0,33.0,011,280,26
+260114120,"Au Gres city, Arenac County, Michigan",432.0,289.0,143.0,011,4120,26
+2601121120,"Deep River township, Arenac County, Michigan",801.0,687.0,114.0,011,21120,26
+2601176120,"Standish city, Arenac County, Michigan",680.0,355.0,325.0,011,76120,26
+2601147580,"Lincoln township, Arenac County, Michigan",381.0,289.0,92.0,011,47580,26
+2601152120,"Mason township, Arenac County, Michigan",359.0,316.0,43.0,011,52120,26
+2601160660,"Omer city, Arenac County, Michigan",131.0,112.0,19.0,011,60660,26
+2601180840,"Turner township, Arenac County, Michigan",227.0,201.0,26.0,011,80840,26
+2601187080,"Whitney township, Arenac County, Michigan",457.0,433.0,24.0,011,87080,26
+260110,"County subdivisions not defined, Arenac County, Michigan",0.0,0.0,0.0,011,0,26
+260114140,"Au Gres township, Arenac County, Michigan",408.0,371.0,37.0,011,4140,26
+2601116240,"Clayton township, Arenac County, Michigan",388.0,335.0,53.0,011,16240,26
+2601588440,"Woodland township, Barry County, Michigan",843.0,652.0,191.0,015,88440,26
+260155560,"Barry township, Barry County, Michigan",1499.0,1294.0,205.0,015,5560,26
+2601513340,"Carlton township, Barry County, Michigan",849.0,751.0,98.0,015,13340,26
+2601537140,"Hastings charter township, Barry County, Michigan",1018.0,946.0,72.0,015,37140,26
+2601541860,"Johnstown township, Barry County, Michigan",1239.0,1110.0,129.0,015,41860,26
+2601560980,"Orangeville township, Barry County, Michigan",1413.0,1060.0,353.0,015,60980,26
+2601570420,"Rutland charter township, Barry County, Michigan",1421.0,1176.0,245.0,015,70420,26
+2609930420,"Fraser city, Macomb County, Michigan",6170.0,4343.0,1827.0,099,30420,26
+2609950480,"Macomb township, Macomb County, Michigan",28978.0,26958.0,2020.0,099,50480,26
+2609957100,"New Baltimore city, Macomb County, Michigan",4505.0,3665.0,840.0,099,57100,26
+2606740860,"Ionia city, Ionia County, Michigan",2783.0,1487.0,1296.0,067,40860,26
+2606769440,"Ronald township, Ionia County, Michigan",713.0,632.0,81.0,067,69440,26
+2606719720,"Danby township, Ionia County, Michigan",1108.0,1062.0,46.0,067,19720,26
+2606740880,"Ionia township, Ionia County, Michigan",1327.0,1103.0,224.0,067,40880,26
+2606712840,"Campbell township, Ionia County, Michigan",892.0,776.0,116.0,067,12840,26
+2606761580,"Otisco township, Ionia County, Michigan",790.0,662.0,128.0,067,61580,26
+2606765880,"Portland township, Ionia County, Michigan",1174.0,1019.0,155.0,067,65880,26
+260676900,"Belding city, Ionia County, Michigan",2143.0,1381.0,762.0,067,6900,26
+260679680,"Boston township, Ionia County, Michigan",2187.0,1851.0,336.0,067,9680,26
+2606749920,"Lyons township, Ionia County, Michigan",1327.0,1025.0,302.0,067,49920,26
+2606760200,"Odessa township, Ionia County, Michigan",1531.0,1191.0,340.0,067,60200,26
+2606765860,"Portland city, Ionia County, Michigan",1439.0,1045.0,394.0,067,65860,26
+2606724220,"Easton township, Ionia County, Michigan",1291.0,1123.0,168.0,067,24220,26
+2606742520,"Keene township, Ionia County, Michigan",661.0,575.0,86.0,067,42520,26
+2606758720,"North Plains township, Ionia County, Michigan",511.0,444.0,67.0,067,58720,26
+2606760920,"Orange township, Ionia County, Michigan",337.0,284.0,53.0,067,60920,26
+260677700,"Berlin township, Ionia County, Michigan",922.0,800.0,122.0,067,7700,26
+2606761160,"Orleans township, Ionia County, Michigan",1052.0,792.0,260.0,067,61160,26
+2606772120,"Sebewa township, Ionia County, Michigan",437.0,382.0,55.0,067,72120,26
+2607942280,"Kalkaska township, Kalkaska County, Michigan",1975.0,1316.0,659.0,079,42280,26
+260799320,"Blue Lake township, Kalkaska County, Michigan",210.0,197.0,13.0,079,9320,26
+260799440,"Boardman township, Kalkaska County, Michigan",491.0,399.0,92.0,079,9440,26
+2607916340,"Clearwater township, Kalkaska County, Michigan",985.0,824.0,161.0,079,16340,26
+2607960540,"Oliver township, Kalkaska County, Michigan",140.0,120.0,20.0,079,60540,26
+2607960940,"Orange township, Kalkaska County, Michigan",458.0,355.0,103.0,079,60940,26
+2607917000,"Coldsprings township, Kalkaska County, Michigan",656.0,609.0,47.0,079,17000,26
+2607926860,"Excelsior township, Kalkaska County, Michigan",345.0,288.0,57.0,079,26860,26
+2607931600,"Garfield township, Kalkaska County, Michigan",374.0,343.0,31.0,079,31600,26
+260796440,"Bear Lake township, Kalkaska County, Michigan",310.0,292.0,18.0,079,6440,26
+2607967180,"Rapid River township, Kalkaska County, Michigan",468.0,395.0,73.0,079,67180,26
+2607975720,"Springfield township, Kalkaska County, Michigan",607.0,514.0,93.0,079,75720,26
+2611124830,"Edenville township, Midland County, Michigan",1035.0,925.0,110.0,111,24830,26
+2611141560,"Jasper township, Midland County, Michigan",415.0,343.0,72.0,111,41560,26
+2611147680,"Lincoln township, Midland County, Michigan",1131.0,991.0,140.0,111,47680,26
+2611117100,"Coleman city, Midland County, Michigan",647.0,366.0,281.0,111,17100,26
+2611139160,"Hope township, Midland County, Michigan",616.0,564.0,52.0,111,39160,26
+2611146640,"Lee township, Midland County, Michigan",1525.0,1325.0,200.0,111,46640,26
+2605580340,"Traverse City city, Grand Traverse County, Michigan",6519.0,4083.0,2436.0,055,80340,26
+2607575880,"Springport township, Jackson County, Michigan",816.0,629.0,187.0,075,75880,26
+2607577200,"Summit township, Jackson County, Michigan",9300.0,7225.0,2075.0,075,77200,26
+2607584300,"Waterloo township, Jackson County, Michigan",1188.0,1082.0,106.0,075,84300,26
+2607575640,"Spring Arbor township, Jackson County, Michigan",2652.0,2128.0,524.0,075,75640,26
+2607556640,"Napoleon township, Jackson County, Michigan",2868.0,2449.0,419.0,075,56640,26
+2607517760,"Concord township, Jackson County, Michigan",988.0,845.0,143.0,075,17760,26
+2607541420,"Jackson city, Jackson County, Michigan",12798.0,6927.0,5871.0,075,41420,26
+2607546980,"Leoni township, Jackson County, Michigan",5772.0,4547.0,1225.0,075,46980,26
+2607568920,"Rives township, Jackson County, Michigan",1649.0,1464.0,185.0,075,68920,26
+2607517400,"Columbia township, Jackson County, Michigan",3098.0,2581.0,517.0,075,17400,26
+2607537700,"Henrietta township, Jackson County, Michigan",1859.0,1717.0,142.0,075,37700,26
+2607559180,"Norvell township, Jackson County, Michigan",1254.0,1118.0,136.0,075,59180,26
+2607566440,"Pulaski township, Jackson County, Michigan",812.0,726.0,86.0,075,66440,26
+2607534500,"Grass Lake charter township, Jackson County, Michigan",2230.0,1882.0,348.0,075,34500,26
+2607547360,"Liberty township, Jackson County, Michigan",1253.0,1193.0,60.0,075,47360,26
+2607571500,"Sandstone township, Jackson County, Michigan",1404.0,1335.0,69.0,075,71500,26
+2607579980,"Tompkins township, Jackson County, Michigan",1162.0,986.0,176.0,075,79980,26
+2607536400,"Hanover township, Jackson County, Michigan",1426.0,1271.0,155.0,075,36400,26
+2607562760,"Parma township, Jackson County, Michigan",1135.0,930.0,205.0,075,62760,26
+260970,"County subdivisions not defined, Mackinac County, Michigan",0.0,0.0,0.0,097,0,26
+2609739760,"Hudson township, Mackinac County, Michigan",105.0,90.0,15.0,097,39760,26
+2609751880,"Marquette township, Mackinac County, Michigan",291.0,260.0,31.0,097,51880,26
+2609755480,"Moran township, Mackinac County, Michigan",367.0,334.0,33.0,097,55480,26
+2609757640,"Newton township, Mackinac County, Michigan",206.0,161.0,45.0,097,57640,26
+2609770840,"St. Ignace city, Mackinac County, Michigan",1240.0,697.0,543.0,097,70840,26
+2609770860,"St. Ignace township, Mackinac County, Michigan",387.0,285.0,102.0,097,70860,26
+2609710360,"Brevort township, Mackinac County, Michigan",271.0,254.0,17.0,097,10360,26
+2609716060,"Clark township, Mackinac County, Michigan",911.0,701.0,210.0,097,16060,26
+2609737660,"Hendricks township, Mackinac County, Michigan",73.0,62.0,11.0,097,37660,26
+2609765600,"Portage township, Mackinac County, Michigan",350.0,318.0,32.0,097,65600,26
+260979500,"Bois Blanc township, Mackinac County, Michigan",53.0,48.0,5.0,097,9500,26
+2609731620,"Garfield township, Mackinac County, Michigan",509.0,441.0,68.0,097,31620,26
+2609750280,"Mackinac Island city, Mackinac County, Michigan",369.0,147.0,222.0,097,50280,26
+2604919900,"Davison township, Genesee County, Michigan",8525.0,5265.0,3260.0,049,19900,26
+2603934660,"Grayling charter township, Crawford County, Michigan",2483.0,1975.0,508.0,039,34660,26
+2615512520,"Caledonia charter township, Shiawassee County, Michigan",1819.0,1547.0,272.0,155,12520,26
+260758760,"Blackman charter township, Jackson County, Michigan",7754.0,3897.0,3857.0,075,8760,26
+2606313760,"Caseville city, Huron County, Michigan",430.0,280.0,150.0,063,13760,26
+2603746000,"Lansing city, Clinton County, Michigan",0.0,0.0,0.0,037,46000,26
+2605941920,"Jonesville city, Hillsdale County, Michigan",949.0,758.0,191.0,059,41920,26
+2611153800,"Midland charter township, Midland County, Michigan",889.0,802.0,87.0,111,53800,26
+2608131240,"Gaines charter township, Kent County, Michigan",9397.0,6497.0,2900.0,081,31240,26
+2602744140,"LaGrange township, Cass County, Michigan",1283.0,794.0,489.0,027,44140,26
+2609327760,"Fenton city, Livingston County, Michigan",0.0,0.0,0.0,093,27760,26
+261259110,"Bloomfield charter township, Oakland County, Michigan",16578.0,14453.0,2125.0,125,9110,26
+2612510040,"Brandon charter township, Oakland County, Michigan",5729.0,5245.0,484.0,125,10040,26
+2612538080,"Highland charter township, Oakland County, Michigan",7510.0,6842.0,668.0,125,38080,26
+2612549820,"Lyon charter township, Oakland County, Michigan",6297.0,5338.0,959.0,125,49820,26
+2612553980,"Milford charter township, Oakland County, Michigan",6458.0,5053.0,1405.0,125,53980,26
+2612561100,"Orion charter township, Oakland County, Michigan",13744.0,11041.0,2703.0,125,61100,26
+2612585480,"West Bloomfield charter township, Oakland County, Michigan",24822.0,20340.0,4482.0,125,85480,26
+2612586860,"White Lake charter township, Oakland County, Michigan",11690.0,10528.0,1162.0,125,86860,26
+2603722120,"DeWitt city, Clinton County, Michigan",1683.0,1305.0,378.0,037,22120,26
+2612527760,"Fenton city, Oakland County, Michigan",0.0,0.0,0.0,125,27760,26
+2612517640,"Commerce charter township, Oakland County, Michigan",15789.0,14060.0,1729.0,125,17640,26
+2612540400,"Independence charter township, Oakland County, Michigan",13493.0,10905.0,2588.0,125,40400,26
+2612575760,"Springfield charter township, Oakland County, Michigan",5185.0,4679.0,506.0,125,75760,26
+2612584240,"Waterford charter township, Oakland County, Michigan",30371.0,21598.0,8773.0,125,84240,26
+2615561960,"Owosso charter township, Shiawassee County, Michigan",1892.0,1390.0,502.0,155,61960,26
+2603722140,"DeWitt charter township, Clinton County, Michigan",5843.0,4605.0,1238.0,037,22140,26
+2603784400,"Watertown charter township, Clinton County, Michigan",1825.0,1692.0,133.0,037,84400,26
+2604310220,"Breitung charter township, Dickinson County, Michigan",2357.0,2143.0,214.0,043,10220,26
+260694300,"Au Sable charter township, Iosco County, Michigan",881.0,719.0,162.0,069,4300,26
+2606961340,"Oscoda charter township, Iosco County, Michigan",3038.0,2269.0,769.0,069,61340,26
+2607779300,"Texas charter township, Kalamazoo County, Michigan",5692.0,5323.0,369.0,077,79300,26
+2608113660,"Cascade charter township, Kent County, Michigan",6916.0,6353.0,563.0,081,13660,26
+2608149560,"Lowell charter township, Kent County, Michigan",2506.0,2169.0,337.0,081,49560,26
+2604916260,"Clayton charter township, Genesee County, Michigan",2848.0,2522.0,326.0,049,16260,26
+261391360,"Allendale charter township, Ottawa County, Michigan",6420.0,3540.0,2880.0,139,1360,26

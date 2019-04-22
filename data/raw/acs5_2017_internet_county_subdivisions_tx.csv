@@ -1,0 +1,863 @@
+B28003_001E,B28003_002E,B28003_003E,B28003_004E,B28003_005E,B28003_006E,name,county,county subdivision,state
+6269.0,4951.0,9.0,3916.0,1026.0,1318.0,"Gainesville CCD, Cooke County, Texas",097,91435,48
+3414.0,2338.0,19.0,1671.0,648.0,1076.0,"Raymondville CCD, Willacy County, Texas",489,93205,48
+1796.0,1553.0,6.0,1396.0,151.0,243.0,"Valley View CCD, Cooke County, Texas",097,93995,48
+2890.0,2607.0,0.0,2304.0,303.0,283.0,"Gainesville Southeast CCD, Cooke County, Texas",097,91440,48
+2346.0,2050.0,0.0,1764.0,286.0,296.0,"Callisburg CCD, Cooke County, Texas",097,90580,48
+1884.0,1649.0,9.0,1528.0,112.0,235.0,"Muenster CCD, Cooke County, Texas",097,92680,48
+784.0,609.0,20.0,459.0,130.0,175.0,"Crosbyton CCD, Crosby County, Texas",107,90905,48
+776.0,614.0,6.0,456.0,152.0,162.0,"Ralls CCD, Crosby County, Texas",107,93185,48
+504.0,397.0,5.0,326.0,66.0,107.0,"Lorenzo CCD, Crosby County, Texas",107,92290,48
+105.0,102.0,0.0,71.0,31.0,3.0,"Lamesa Southwest CCD, Dawson County, Texas",115,92125,48
+109.0,92.0,15.0,68.0,9.0,17.0,"Lamesa Northwest CCD, Dawson County, Texas",115,92115,48
+3862.0,2984.0,62.0,2317.0,605.0,878.0,"Lamesa CCD, Dawson County, Texas",115,92105,48
+118.0,97.0,0.0,83.0,14.0,21.0,"Lamesa Southeast CCD, Dawson County, Texas",115,92120,48
+145.0,111.0,1.0,83.0,27.0,34.0,"Lamesa Northeast CCD, Dawson County, Texas",115,92110,48
+751.0,610.0,12.0,530.0,68.0,141.0,"Roby CCD, Fisher County, Texas",151,93275,48
+829.0,607.0,8.0,510.0,89.0,222.0,"Rotan CCD, Fisher County, Texas",151,93340,48
+116.0,99.0,0.0,64.0,35.0,17.0,"McCaulley CCD, Fisher County, Texas",151,92350,48
+401.0,222.0,7.0,185.0,30.0,179.0,"Realitos-Concepcion CCD, Duval County, Texas",131,93215,48
+1042.0,608.0,0.0,555.0,53.0,434.0,"Benavides CCD, Duval County, Texas",131,90260,48
+1418.0,908.0,0.0,749.0,159.0,510.0,"San Diego CCD, Duval County, Texas",131,93420,48
+984.0,758.0,14.0,597.0,147.0,226.0,"Freer CCD, Duval County, Texas",131,91405,48
+1185.0,857.0,0.0,730.0,127.0,328.0,"Old River CCD, Burleson County, Texas",051,92890,48
+1627.0,1241.0,48.0,982.0,211.0,386.0,"Somerville CCD, Burleson County, Texas",051,93610,48
+3197.0,2253.0,37.0,1911.0,305.0,944.0,"Caldwell CCD, Burleson County, Texas",051,90570,48
+556.0,414.0,5.0,345.0,64.0,142.0,"Cooks Point CCD, Burleson County, Texas",051,90825,48
+2171.0,1796.0,11.0,1640.0,145.0,375.0,"Blanco CCD, Blanco County, Texas",031,90330,48
+2059.0,1925.0,63.0,1615.0,247.0,134.0,"Johnson City CCD, Blanco County, Texas",031,91950,48
+3602.0,2888.0,26.0,1986.0,876.0,714.0,"Buna CCD, Jasper County, Texas",241,90520,48
+5761.0,4466.0,102.0,3242.0,1122.0,1295.0,"Jasper CCD, Jasper County, Texas",241,91920,48
+2611.0,1707.0,26.0,948.0,733.0,904.0,"Kirbyville CCD, Jasper County, Texas",241,92040,48
+3967.0,3269.0,60.0,2787.0,422.0,698.0,"Nome-China CCD, Jefferson County, Texas",245,92770,48
+46088.0,35406.0,255.0,29399.0,5752.0,10682.0,"Beaumont CCD, Jefferson County, Texas",245,90230,48
+753.0,610.0,10.0,511.0,89.0,143.0,"Sabine Pass CCD, Jefferson County, Texas",245,93385,48
+1200.0,854.0,0.0,656.0,198.0,346.0,"Brackettville CCD, Kinney County, Texas",271,90400,48
+261.0,247.0,3.0,226.0,18.0,14.0,"Hereford West CCD, Deaf Smith County, Texas",117,91790,48
+5857.0,4588.0,25.0,3930.0,633.0,1269.0,"Hereford East CCD, Deaf Smith County, Texas",117,91785,48
+21185.0,17766.0,43.0,15206.0,2517.0,3419.0,"Galveston CCD, Galveston County, Texas",167,91445,48
+6968.0,5871.0,31.0,5143.0,697.0,1097.0,"Borger CCD, Hutchinson County, Texas",233,90385,48
+831.0,708.0,0.0,606.0,102.0,123.0,"Stinnett CCD, Hutchinson County, Texas",233,93750,48
+1044.0,798.0,6.0,567.0,225.0,246.0,"Dilley CCD, Frio County, Texas",163,91055,48
+1080.0,930.0,7.0,752.0,171.0,150.0,"Crane South CCD, Crane County, Texas",103,90885,48
+399.0,362.0,0.0,264.0,98.0,37.0,"Crane North CCD, Crane County, Texas",103,90880,48
+370.0,271.0,4.0,220.0,47.0,99.0,"Adamsville CCD, Lampasas County, Texas",281,90015,48
+553.0,441.0,9.0,313.0,119.0,112.0,"Lometa CCD, Lampasas County, Texas",281,92255,48
+6825.0,5904.0,107.0,4881.0,916.0,921.0,"Lampasas CCD, Lampasas County, Texas",281,92130,48
+306.0,247.0,8.0,211.0,28.0,59.0,"Rochelle CCD, McCulloch County, Texas",307,93280,48
+288.0,231.0,4.0,187.0,40.0,57.0,"Melvin CCD, McCulloch County, Texas",307,92505,48
+2549.0,2040.0,4.0,1775.0,261.0,509.0,"Brady CCD, McCulloch County, Texas",307,90405,48
+382.0,290.0,11.0,230.0,49.0,92.0,"Mason West CCD, Mason County, Texas",319,92450,48
+898.0,809.0,3.0,673.0,133.0,89.0,"Bolivar Peninsula CCD, Galveston County, Texas",167,90370,48
+86235.0,78032.0,379.0,71266.0,6387.0,8203.0,"Texas City-League City CCD, Galveston County, Texas",167,93880,48
+9137.0,7567.0,43.0,6617.0,907.0,1570.0,"La Marque-Hitchcock CCD, Galveston County, Texas",167,92100,48
+1906.0,1840.0,0.0,1792.0,48.0,66.0,"El Paso North Central CCD, El Paso County, Texas",141,91225,48
+182980.0,144881.0,874.0,123074.0,20933.0,38099.0,"El Paso CCD, El Paso County, Texas",141,91215,48
+50240.0,43807.0,249.0,37984.0,5574.0,6433.0,"El Paso East CCD, El Paso County, Texas",141,91220,48
+28074.0,26140.0,18.0,23233.0,2889.0,1934.0,"El Paso Northwest CCD, El Paso County, Texas",141,91230,48
+2001.0,1335.0,0.0,1068.0,267.0,666.0,"Cotulla CCD, La Salle County, Texas",283,90870,48
+285.0,216.0,0.0,157.0,59.0,69.0,"Encinal CCD, La Salle County, Texas",283,91240,48
+326.0,299.0,0.0,272.0,27.0,27.0,"Miami CCD, Roberts County, Texas",393,92555,48
+307.0,179.0,0.0,122.0,57.0,128.0,"West Terrell CCD, Terrell County, Texas",443,94175,48
+36.0,26.0,0.0,24.0,2.0,10.0,"East Terrell CCD, Terrell County, Texas",443,91140,48
+1147.0,865.0,14.0,707.0,144.0,282.0,"Colmesneil-Chester CCD, Tyler County, Texas",457,90785,48
+1039.0,909.0,0.0,644.0,265.0,130.0,"Warren CCD, Tyler County, Texas",457,94075,48
+3224.0,2519.0,23.0,2041.0,455.0,705.0,"Woodville CCD, Tyler County, Texas",457,94285,48
+1902.0,1426.0,6.0,952.0,468.0,476.0,"Spurger CCD, Tyler County, Texas",457,93710,48
+1099.0,752.0,21.0,646.0,85.0,347.0,"Sabinal CCD, Uvalde County, Texas",463,93375,48
+7525.0,5489.0,79.0,4623.0,787.0,2036.0,"Uvalde CCD, Uvalde County, Texas",463,93980,48
+1139.0,961.0,5.0,725.0,231.0,178.0,"Shamrock CCD, Wheeler County, Texas",483,93545,48
+1148.0,1002.0,31.0,854.0,117.0,146.0,"Wheeler CCD, Wheeler County, Texas",483,94190,48
+961.0,745.0,17.0,568.0,160.0,216.0,"Dalby Springs-Simms CCD, Bowie County, Texas",037,90950,48
+1954.0,1244.0,52.0,1030.0,162.0,710.0,"De Kalb CCD, Bowie County, Texas",037,90980,48
+2107.0,1565.0,0.0,1311.0,254.0,542.0,"Hooks CCD, Bowie County, Texas",037,91830,48
+2932.0,2232.0,34.0,1841.0,357.0,700.0,"New Boston CCD, Bowie County, Texas",037,92725,48
+21496.0,16982.0,169.0,14476.0,2337.0,4514.0,"Texarkana CCD, Bowie County, Texas",037,93875,48
+1282.0,1045.0,1.0,785.0,259.0,237.0,"Archer City CCD, Archer County, Texas",009,90130,48
+2069.0,1811.0,25.0,1538.0,248.0,258.0,"Holliday CCD, Archer County, Texas",009,91815,48
+273.0,210.0,0.0,164.0,46.0,63.0,"Marathon CCD, Brewster County, Texas",043,92390,48
+3659.0,2980.0,22.0,2459.0,499.0,679.0,"Alpine CCD, Brewster County, Texas",043,90040,48
+225.0,173.0,2.0,140.0,31.0,52.0,"Jayton South CCD, Kent County, Texas",263,91930,48
+50.0,32.0,0.0,31.0,1.0,18.0,"Jayton North CCD, Kent County, Texas",263,91925,48
+46236.0,37831.0,283.0,27180.0,10368.0,8405.0,"Mission CCD, Hidalgo County, Texas",215,92600,48
+368.0,296.0,8.0,198.0,90.0,72.0,"Puerto Rico-San Manuel CCD, Hidalgo County, Texas",215,93155,48
+36570.0,27396.0,119.0,21617.0,5660.0,9174.0,"Southeast Hidalgo CCD, Hidalgo County, Texas",215,93650,48
+8968.0,6556.0,30.0,5239.0,1287.0,2412.0,"Edcouch-Elsa CCD, Hidalgo County, Texas",215,91155,48
+83111.0,68405.0,487.0,52590.0,15328.0,14706.0,"McAllen-Pharr CCD, Hidalgo County, Texas",215,92340,48
+9920.0,8137.0,73.0,4627.0,3437.0,1783.0,"Sullivan City CCD, Hidalgo County, Texas",215,93785,48
+46992.0,40073.0,313.0,31556.0,8204.0,6919.0,"Edinburg CCD, Hidalgo County, Texas",215,91170,48
+358.0,238.0,0.0,169.0,69.0,120.0,"Hargill CCD, Hidalgo County, Texas",215,91710,48
+12411.0,11620.0,62.0,10380.0,1178.0,791.0,"Bullard CCD, Smith County, Texas",423,90515,48
+34593.0,29092.0,89.0,25169.0,3834.0,5501.0,"Tyler CCD, Smith County, Texas",423,93970,48
+10025.0,9145.0,26.0,7384.0,1735.0,880.0,"Stephenville CCD, Erath County, Texas",143,93735,48
+1814.0,1487.0,4.0,1064.0,419.0,327.0,"Dublin CCD, Erath County, Texas",143,91085,48
+1250.0,1061.0,15.0,919.0,127.0,189.0,"Morgan Mill-Bluff Dale CCD, Erath County, Texas",143,92645,48
+68704.0,64190.0,304.0,58148.0,5738.0,4514.0,"Alvin-Pearland CCD, Brazoria County, Texas",039,90055,48
+11500.0,9857.0,77.0,8305.0,1475.0,1643.0,"Brazoria-West Columbia CCD, Brazoria County, Texas",039,90410,48
+10352.0,9520.0,58.0,8509.0,953.0,832.0,"Whitehouse CCD, Smith County, Texas",423,94205,48
+3517.0,3022.0,56.0,2367.0,599.0,495.0,"Troup-Arp CCD, Smith County, Texas",423,93950,48
+1950.0,1615.0,0.0,1491.0,124.0,335.0,"Winona CCD, Smith County, Texas",423,94260,48
+6841.0,5864.0,19.0,5222.0,623.0,977.0,"Tyler East CCD, Smith County, Texas",423,93975,48
+8137.0,7191.0,14.0,6427.0,750.0,946.0,"Lindale CCD, Smith County, Texas",423,92210,48
+3234.0,2780.0,6.0,2083.0,691.0,454.0,"Glen Rose CCD, Somervell County, Texas",425,91535,48
+1377.0,1072.0,0.0,878.0,194.0,305.0,"East Crockett CCD, Crockett County, Texas",105,91120,48
+34.0,34.0,0.0,34.0,0.0,0.0,"West Crockett CCD, Crockett County, Texas",105,94160,48
+2063.0,1780.0,0.0,1546.0,234.0,283.0,"Sour Lake CCD, Hardin County, Texas",199,93625,48
+6219.0,5230.0,50.0,4418.0,762.0,989.0,"Silsbee CCD, Hardin County, Texas",199,93570,48
+1222.0,999.0,9.0,837.0,153.0,223.0,"Saratoga-Batson CCD, Hardin County, Texas",199,93460,48
+331.0,242.0,0.0,218.0,24.0,89.0,"Rule CCD, Haskell County, Texas",207,93360,48
+5054.0,4265.0,22.0,3699.0,544.0,789.0,"Kountze CCD, Hardin County, Texas",199,92055,48
+294.0,195.0,2.0,170.0,23.0,99.0,"Rochester CCD, Haskell County, Texas",207,93285,48
+131.0,98.0,0.0,84.0,14.0,33.0,"Sagerton CCD, Haskell County, Texas",207,93390,48
+9344.0,7745.0,57.0,6439.0,1249.0,1599.0,"Big Spring CCD, Howard County, Texas",227,90300,48
+137.0,115.0,0.0,84.0,31.0,22.0,"Weinert CCD, Haskell County, Texas",207,94125,48
+1235.0,859.0,0.0,597.0,262.0,376.0,"Haskell CCD, Haskell County, Texas",207,91735,48
+881.0,657.0,0.0,488.0,169.0,224.0,"Big Spring North CCD, Howard County, Texas",227,90305,48
+807.0,656.0,0.0,563.0,93.0,151.0,"Coahoma CCD, Howard County, Texas",227,90770,48
+2017.0,1670.0,43.0,1495.0,132.0,347.0,"Centerville CCD, Leon County, Texas",289,90680,48
+1170.0,885.0,7.0,721.0,157.0,285.0,"Normangee CCD, Leon County, Texas",289,92775,48
+1757.0,1484.0,0.0,1329.0,155.0,273.0,"Buffalo CCD, Leon County, Texas",289,90510,48
+483.0,375.0,3.0,339.0,33.0,108.0,"Oakwood CCD, Leon County, Texas",289,92870,48
+637.0,493.0,13.0,427.0,53.0,144.0,"Mullin-Priddy CCD, Mills County, Texas",333,92690,48
+1196.0,976.0,8.0,865.0,103.0,220.0,"Goldthwaite CCD, Mills County, Texas",333,91550,48
+1838.0,1461.0,9.0,1172.0,280.0,377.0,"Nocona CCD, Montague County, Texas",337,92765,48
+853.0,701.0,7.0,558.0,136.0,152.0,"Montague-Forestburg CCD, Montague County, Texas",337,92610,48
+4199.0,3551.0,17.0,2798.0,736.0,648.0,"Bowie CCD, Montague County, Texas",337,90390,48
+1154.0,959.0,12.0,734.0,213.0,195.0,"St. Jo CCD, Montague County, Texas",337,93395,48
+23062.0,20327.0,91.0,17435.0,2801.0,2735.0,"Brazosport CCD, Brazoria County, Texas",039,90415,48
+202.0,159.0,0.0,132.0,27.0,43.0,"Hedley CCD, Donley County, Texas",129,91760,48
+1028.0,748.0,10.0,578.0,160.0,280.0,"Clarendon CCD, Donley County, Texas",129,90730,48
+2028.0,1705.0,0.0,1486.0,219.0,323.0,"Jourdanton CCD, Atascosa County, Texas",013,91955,48
+226.0,172.0,19.0,132.0,21.0,54.0,"Campbellton CCD, Atascosa County, Texas",013,90595,48
+6153.0,5287.0,26.0,4622.0,639.0,866.0,"Pleasanton CCD, Atascosa County, Texas",013,93070,48
+6190.0,5190.0,26.0,4573.0,591.0,1000.0,"Poteet CCD, Atascosa County, Texas",013,93120,48
+912.0,638.0,3.0,567.0,68.0,274.0,"Charlotte CCD, Atascosa County, Texas",013,90695,48
+339.0,271.0,13.0,237.0,21.0,68.0,"Talpa CCD, Coleman County, Texas",083,93830,48
+267.0,216.0,2.0,175.0,39.0,51.0,"Novice CCD, Coleman County, Texas",083,92865,48
+796.0,598.0,24.0,488.0,86.0,198.0,"Santa Anna CCD, Coleman County, Texas",083,93450,48
+2068.0,1629.0,27.0,1257.0,345.0,439.0,"Coleman CCD, Coleman County, Texas",083,90780,48
+4476.0,3802.0,6.0,2958.0,838.0,674.0,"Sweetwater CCD, Nolan County, Texas",353,93810,48
+241.0,198.0,0.0,169.0,29.0,43.0,"Blackwell-Nolan CCD, Nolan County, Texas",353,90325,48
+835.0,740.0,0.0,587.0,153.0,95.0,"Roscoe CCD, Nolan County, Texas",353,93325,48
+455.0,266.0,35.0,114.0,117.0,189.0,"Fort Hancock CCD, Hudspeth County, Texas",229,91360,48
+211.0,171.0,0.0,150.0,21.0,40.0,"Sierra Blanca CCD, Hudspeth County, Texas",229,93565,48
+224.0,143.0,0.0,116.0,27.0,81.0,"Dell City CCD, Hudspeth County, Texas",229,90990,48
+594.0,474.0,25.0,371.0,78.0,120.0,"D'Hanis CCD, Medina County, Texas",325,91040,48
+5310.0,4831.0,27.0,4138.0,666.0,479.0,"Castroville-LaCoste CCD, Medina County, Texas",325,90645,48
+3657.0,2916.0,72.0,2605.0,239.0,741.0,"Hondo CCD, Medina County, Texas",325,91820,48
+5593.0,4138.0,98.0,3242.0,798.0,1455.0,"Devine-Natalia CCD, Medina County, Texas",325,91030,48
+187.0,127.0,11.0,104.0,12.0,60.0,"Grandfalls CCD, Ward County, Texas",475,91615,48
+274.0,200.0,0.0,143.0,57.0,74.0,"Barstow-Pyote CCD, Ward County, Texas",475,90205,48
+3493.0,2820.0,19.0,2362.0,439.0,673.0,"Monahans CCD, Ward County, Texas",475,92605,48
+8529.0,6751.0,110.0,5604.0,1037.0,1778.0,"Athens CCD, Henderson County, Texas",213,90155,48
+14488.0,11069.0,192.0,9399.0,1478.0,3419.0,"Cedar Creek Lake CCD, Henderson County, Texas",213,90652,48
+871.0,578.0,0.0,467.0,111.0,293.0,"Call CCD, Newton County, Texas",351,90575,48
+729.0,521.0,52.0,369.0,100.0,208.0,"Burkeville CCD, Newton County, Texas",351,90530,48
+1177.0,878.0,16.0,568.0,294.0,299.0,"Deweyville CCD, Newton County, Texas",351,91035,48
+2004.0,1615.0,56.0,1151.0,408.0,389.0,"Newton CCD, Newton County, Texas",351,92750,48
+4272.0,3263.0,62.0,2893.0,308.0,1009.0,"Carthage CCD, Panola County, Texas",365,90640,48
+1247.0,1020.0,16.0,880.0,124.0,227.0,"Beckville CCD, Panola County, Texas",365,90235,48
+826.0,613.0,13.0,559.0,41.0,213.0,"Gary City CCD, Panola County, Texas",365,91475,48
+1010.0,856.0,18.0,707.0,131.0,154.0,"Long Branch-Dotson CCD, Panola County, Texas",365,92265,48
+1677.0,1117.0,12.0,813.0,292.0,560.0,"De Berry-Deadwood CCD, Panola County, Texas",365,90970,48
+3363.0,2477.0,79.0,1778.0,620.0,886.0,"Pecos CCD, Reeves County, Texas",389,92990,48
+368.0,240.0,3.0,159.0,78.0,128.0,"Balmorhea CCD, Reeves County, Texas",389,90190,48
+929.0,701.0,16.0,600.0,85.0,228.0,"Milam CCD, Sabine County, Texas",403,92580,48
+1197.0,1039.0,24.0,844.0,171.0,158.0,"Pineland CCD, Sabine County, Texas",403,93045,48
+1685.0,1367.0,12.0,1133.0,222.0,318.0,"Hemphill CCD, Sabine County, Texas",403,91765,48
+303.0,267.0,6.0,203.0,58.0,36.0,"Happy CCD, Swisher County, Texas",437,91700,48
+424.0,348.0,4.0,297.0,47.0,76.0,"Kress CCD, Swisher County, Texas",437,92060,48
+1875.0,1458.0,7.0,1323.0,128.0,417.0,"Tulia CCD, Swisher County, Texas",437,93955,48
+1480.0,1209.0,30.0,921.0,258.0,271.0,"Celeste CCD, Hunt County, Texas",231,90660,48
+2980.0,2780.0,12.0,2332.0,436.0,200.0,"Caddo Mills CCD, Hunt County, Texas",231,90565,48
+2036.0,1609.0,29.0,1291.0,289.0,427.0,"Lone Oak CCD, Hunt County, Texas",231,92260,48
+890.0,711.0,0.0,615.0,96.0,179.0,"Wolfe City CCD, Hunt County, Texas",231,94270,48
+13007.0,11384.0,160.0,9575.0,1649.0,1623.0,"Greenville CCD, Hunt County, Texas",231,91640,48
+3787.0,2933.0,1.0,2441.0,491.0,854.0,"Commerce CCD, Hunt County, Texas",231,90820,48
+7601.0,6316.0,119.0,4934.0,1263.0,1285.0,"Quinlan CCD, Hunt County, Texas",231,93170,48
+4076.0,3113.0,39.0,2260.0,814.0,963.0,"Pittsburg CCD, Camp County, Texas",063,93050,48
+654.0,487.0,0.0,385.0,102.0,167.0,"Leesburg-Newsome CCD, Camp County, Texas",063,92170,48
+1307.0,1102.0,0.0,902.0,200.0,205.0,"Spearman CCD, Hansford County, Texas",195,93695,48
+617.0,504.0,0.0,420.0,84.0,113.0,"Gruver CCD, Hansford County, Texas",195,91660,48
+28165.0,26478.0,97.0,24615.0,1766.0,1687.0,"Schertz-Cibolo CCD, Guadalupe County, Texas",187,93470,48
+8535.0,5923.0,36.0,4792.0,1095.0,2612.0,"Marshall CCD, Harrison County, Texas",203,92430,48
+4848.0,3561.0,98.0,2942.0,521.0,1287.0,"Waskom CCD, Harrison County, Texas",203,94085,48
+7446.0,6195.0,32.0,5379.0,784.0,1251.0,"Hallsville CCD, Harrison County, Texas",203,91685,48
+2534.0,1864.0,28.0,1528.0,308.0,670.0,"Harleton CCD, Harrison County, Texas",203,91715,48
+837.0,587.0,8.0,448.0,131.0,250.0,"Menard West CCD, Menard County, Texas",327,92520,48
+127.0,88.0,0.0,82.0,6.0,39.0,"Menard East CCD, Menard County, Texas",327,92515,48
+199.0,166.0,2.0,141.0,23.0,33.0,"Howland CCD, Lamar County, Texas",277,91840,48
+1622.0,1430.0,23.0,1216.0,191.0,192.0,"Powderly CCD, Lamar County, Texas",277,93130,48
+449.0,345.0,5.0,245.0,95.0,104.0,"Biardstown CCD, Lamar County, Texas",277,90285,48
+1696.0,1473.0,23.0,991.0,459.0,223.0,"Sumner CCD, Lamar County, Texas",277,93795,48
+1432.0,1325.0,0.0,1140.0,185.0,107.0,"Blossom CCD, Lamar County, Texas",277,90345,48
+1240.0,931.0,0.0,709.0,222.0,309.0,"Mason East CCD, Mason County, Texas",319,92445,48
+300.0,249.0,2.0,219.0,28.0,51.0,"Dickens CCD, Dickens County, Texas",125,91050,48
+532.0,426.0,5.0,357.0,64.0,106.0,"Spur CCD, Dickens County, Texas",125,93705,48
+3102.0,2609.0,34.0,2125.0,450.0,493.0,"Giddings CCD, Lee County, Texas",287,91505,48
+1143.0,877.0,0.0,711.0,166.0,266.0,"Lincoln-Dime Box CCD, Lee County, Texas",287,92205,48
+1873.0,1612.0,43.0,1419.0,150.0,261.0,"Lexington CCD, Lee County, Texas",287,92190,48
+182831.0,170264.0,1950.0,148729.0,19585.0,12567.0,"Arlington CCD, Tarrant County, Texas",439,90135,48
+300595.0,265818.0,1499.0,227478.0,36841.0,34777.0,"Fort Worth CCD, Tarrant County, Texas",439,91380,48
+206495.0,196524.0,632.0,183621.0,12271.0,9971.0,"Northeast Tarrant CCD, Tarrant County, Texas",439,92805,48
+2800.0,2286.0,5.0,1747.0,534.0,514.0,"Elkhart CCD, Anderson County, Texas",001,91205,48
+276.0,209.0,7.0,191.0,11.0,67.0,"Cayuga CCD, Anderson County, Texas",001,90650,48
+563.0,444.0,0.0,306.0,138.0,119.0,"Roxton CCD, Lamar County, Texas",277,93355,48
+12199.0,9541.0,37.0,7869.0,1635.0,2658.0,"Paris CCD, Lamar County, Texas",277,92970,48
+925.0,682.0,0.0,445.0,237.0,243.0,"Deport CCD, Lamar County, Texas",277,91020,48
+895.0,676.0,27.0,561.0,88.0,219.0,"Round Top CCD, Fayette County, Texas",149,93345,48
+1651.0,1269.0,43.0,1070.0,156.0,382.0,"La Grange West CCD, Fayette County, Texas",149,92085,48
+1873.0,1440.0,58.0,1179.0,203.0,433.0,"Schulenburg CCD, Fayette County, Texas",149,93475,48
+797.0,597.0,12.0,462.0,123.0,200.0,"Fayetteville CCD, Fayette County, Texas",149,91305,48
+2566.0,1819.0,62.0,1473.0,284.0,747.0,"La Grange CCD, Fayette County, Texas",149,92080,48
+1516.0,1083.0,52.0,742.0,289.0,433.0,"Flatonia CCD, Fayette County, Texas",149,91320,48
+20915.0,19167.0,85.0,17672.0,1410.0,1748.0,"Taylor CCD, Williamson County, Texas",491,93845,48
+2791.0,2411.0,1.0,2230.0,180.0,380.0,"Jarrell CCD, Williamson County, Texas",491,91915,48
+1123.0,820.0,5.0,710.0,105.0,303.0,"Granger CCD, Williamson County, Texas",491,91630,48
+6005.0,5508.0,26.0,4960.0,522.0,497.0,"Florence CCD, Williamson County, Texas",491,91325,48
+542.0,391.0,0.0,335.0,56.0,151.0,"Junction Northwest CCD, Kimble County, Texas",267,91960,48
+1399.0,1113.0,6.0,838.0,269.0,286.0,"Junction Southeast CCD, Kimble County, Texas",267,91965,48
+2104.0,1439.0,11.0,1094.0,334.0,665.0,"Corrigan CCD, Polk County, Texas",373,90860,48
+380.0,289.0,5.0,233.0,51.0,91.0,"Austwell-Tivoli CCD, Refugio County, Texas",391,90170,48
+939.0,731.0,21.0,622.0,88.0,208.0,"Woodsboro CCD, Refugio County, Texas",391,94275,48
+1375.0,1051.0,18.0,875.0,158.0,324.0,"Refugio CCD, Refugio County, Texas",391,93220,48
+15998.0,13188.0,83.0,11421.0,1684.0,2810.0,"Seguin CCD, Guadalupe County, Texas",187,93500,48
+658.0,511.0,3.0,408.0,100.0,147.0,"Bellevue-Joy CCD, Clay County, Texas",077,90245,48
+2596.0,2162.0,2.0,1702.0,458.0,434.0,"Henrietta CCD, Clay County, Texas",077,91780,48
+822.0,666.0,5.0,557.0,104.0,156.0,"Byers-Petrolia CCD, Clay County, Texas",077,90560,48
+310.0,241.0,3.0,218.0,20.0,69.0,"Channing CCD, Hartley County, Texas",205,90690,48
+1148.0,836.0,12.0,698.0,126.0,312.0,"Hubbard-Mount Calm CCD, Hill County, Texas",217,91845,48
+1337.0,1091.0,2.0,902.0,187.0,246.0,"Itasca CCD, Hill County, Texas",217,91900,48
+1778.0,1579.0,17.0,1361.0,201.0,199.0,"Blum CCD, Hill County, Texas",217,90355,48
+3396.0,2909.0,38.0,2398.0,473.0,487.0,"Whitney CCD, Hill County, Texas",217,94210,48
+4641.0,3646.0,28.0,3005.0,613.0,995.0,"Hillsboro CCD, Hill County, Texas",217,91810,48
+374.0,315.0,9.0,256.0,50.0,59.0,"Malone-Penelope CCD, Hill County, Texas",217,92380,48
+2062.0,1604.0,18.0,1259.0,327.0,458.0,"Groesbeck CCD, Limestone County, Texas",293,91650,48
+368.0,331.0,2.0,259.0,70.0,37.0,"Kosse CCD, Limestone County, Texas",293,92050,48
+951.0,793.0,2.0,562.0,229.0,158.0,"Thornton CCD, Limestone County, Texas",293,93900,48
+256.0,211.0,3.0,147.0,61.0,45.0,"Prairie Hill CCD, Limestone County, Texas",293,93135,48
+415.0,296.0,0.0,197.0,99.0,119.0,"Coolidge CCD, Limestone County, Texas",293,90835,48
+668.0,485.0,0.0,360.0,125.0,183.0,"Personville CCD, Limestone County, Texas",293,93015,48
+3380.0,2449.0,21.0,1891.0,537.0,931.0,"Mexia CCD, Limestone County, Texas",293,92550,48
+991.0,772.0,12.0,687.0,73.0,219.0,"Garrison CCD, Nacogdoches County, Texas",347,91465,48
+18942.0,16078.0,277.0,13835.0,1966.0,2864.0,"Nacogdoches CCD, Nacogdoches County, Texas",347,92700,48
+1932.0,1555.0,52.0,1286.0,217.0,377.0,"Cushing-Douglass CCD, Nacogdoches County, Texas",347,90935,48
+1960.0,1650.0,8.0,1441.0,201.0,310.0,"Chireno-Martinsville CCD, Nacogdoches County, Texas",347,90720,48
+1731.0,1385.0,11.0,986.0,388.0,346.0,"Farwell-Bovina CCD, Parmer County, Texas",369,91300,48
+1491.0,1102.0,26.0,803.0,273.0,389.0,"Friona CCD, Parmer County, Texas",369,91410,48
+4136.0,3693.0,14.0,3021.0,658.0,443.0,"Weatherford Northwest CCD, Parker County, Texas",367,94100,48
+14474.0,12931.0,73.0,11170.0,1688.0,1543.0,"Weatherford CCD, Parker County, Texas",367,94095,48
+11317.0,10877.0,60.0,10246.0,571.0,440.0,"Weatherford Southeast CCD, Parker County, Texas",367,94105,48
+2926.0,2386.0,63.0,1688.0,635.0,540.0,"Ben Wheeler-Edom CCD, Van Zandt County, Texas",467,90270,48
+4184.0,3464.0,92.0,2592.0,780.0,720.0,"Canton CCD, Van Zandt County, Texas",467,90620,48
+3134.0,2529.0,0.0,1948.0,581.0,605.0,"Wills Point CCD, Van Zandt County, Texas",467,94225,48
+2138.0,1862.0,28.0,1292.0,542.0,276.0,"Van CCD, Van Zandt County, Texas",467,94000,48
+1903.0,1485.0,3.0,1258.0,224.0,418.0,"Edgewood CCD, Van Zandt County, Texas",467,91165,48
+2236.0,1982.0,17.0,1483.0,482.0,254.0,"Cedar Creek Lake CCD, Van Zandt County, Texas",467,90654,48
+2833.0,2194.0,15.0,1567.0,612.0,639.0,"Grand Saline CCD, Van Zandt County, Texas",467,91620,48
+2084.0,1732.0,5.0,1338.0,389.0,352.0,"Martindale CCD, Caldwell County, Texas",055,92440,48
+3145.0,2469.0,12.0,1886.0,571.0,676.0,"Luling CCD, Caldwell County, Texas",055,92330,48
+7665.0,6396.0,119.0,4467.0,1810.0,1269.0,"Lockhart CCD, Caldwell County, Texas",055,92245,48
+249.0,210.0,0.0,194.0,16.0,39.0,"Lockett CCD, Wilbarger County, Texas",487,92240,48
+4512.0,3567.0,5.0,2944.0,618.0,945.0,"Vernon CCD, Wilbarger County, Texas",487,94030,48
+234.0,213.0,0.0,192.0,21.0,21.0,"Fargo-Odell CCD, Wilbarger County, Texas",487,91290,48
+160.0,138.0,0.0,118.0,20.0,22.0,"Harrold-Oklaunion CCD, Wilbarger County, Texas",487,91730,48
+1095.0,939.0,0.0,697.0,242.0,156.0,"Stanton CCD, Martin County, Texas",317,93725,48
+540.0,447.0,9.0,345.0,93.0,93.0,"Tarzan-Lenorah CCD, Martin County, Texas",317,93835,48
+1162.0,919.0,12.0,687.0,220.0,243.0,"Aiken-Neuville CCD, Shelby County, Texas",419,90020,48
+275.0,196.0,10.0,157.0,29.0,79.0,"Manchester CCD, Red River County, Texas",387,92385,48
+1072.0,779.0,15.0,665.0,99.0,293.0,"Annona-Avery CCD, Red River County, Texas",387,90105,48
+2016.0,1408.0,24.0,1031.0,353.0,608.0,"Clarksville CCD, Red River County, Texas",387,90735,48
+834.0,636.0,0.0,496.0,140.0,198.0,"Marfa CCD, Presidio County, Texas",377,92400,48
+1755.0,915.0,0.0,620.0,295.0,840.0,"Presidio CCD, Presidio County, Texas",377,93145,48
+14948.0,11627.0,19.0,10011.0,1597.0,3321.0,"Del Rio CCD, Val Verde County, Texas",465,90995,48
+56.0,37.0,0.0,37.0,0.0,19.0,"Del Rio Northeast CCD, Val Verde County, Texas",465,91000,48
+185.0,146.0,0.0,144.0,2.0,39.0,"Del Rio Northwest CCD, Val Verde County, Texas",465,91005,48
+36.0,36.0,0.0,36.0,0.0,0.0,"Van Horn Rural CCD, Culberson County, Texas",109,94015,48
+699.0,445.0,24.0,305.0,116.0,254.0,"Van Horn CCD, Culberson County, Texas",109,94010,48
+42893.0,37316.0,101.0,34241.0,2974.0,5577.0,"Odessa CCD, Ector County, Texas",135,92875,48
+233.0,205.0,0.0,146.0,59.0,28.0,"Garden City North CCD, Glasscock County, Texas",173,91455,48
+242.0,216.0,2.0,182.0,32.0,26.0,"Garden City South CCD, Glasscock County, Texas",173,91460,48
+3260.0,2798.0,18.0,2407.0,373.0,462.0,"Anderson-Bedias CCD, Grimes County, Texas",185,90080,48
+5720.0,4391.0,50.0,3426.0,915.0,1329.0,"Navasota CCD, Grimes County, Texas",185,92710,48
+339062.0,311499.0,926.0,277729.0,32844.0,27563.0,"Austin CCD, Travis County, Texas",453,90165,48
+3389.0,3130.0,10.0,2751.0,369.0,259.0,"Nevada CCD, Collin County, Texas",085,92720,48
+7520.0,7300.0,18.0,6515.0,767.0,220.0,"Anna CCD, Collin County, Texas",085,90100,48
+202643.0,196968.0,483.0,185251.0,11234.0,5675.0,"Plano CCD, Collin County, Texas",085,93065,48
+3276.0,2769.0,10.0,2167.0,592.0,507.0,"Farmersville CCD, Collin County, Texas",085,91295,48
+87815.0,84744.0,137.0,78603.0,6004.0,3071.0,"McKinney CCD, Collin County, Texas",085,92360,48
+10637.0,10283.0,16.0,9955.0,312.0,354.0,"Celina CCD, Collin County, Texas",085,90665,48
+2198.0,2062.0,18.0,1710.0,334.0,136.0,"Blue Ridge CCD, Collin County, Texas",085,90350,48
+6427.0,5754.0,39.0,4318.0,1397.0,673.0,"Princeton CCD, Collin County, Texas",085,93150,48
+2747.0,2430.0,9.0,2039.0,382.0,317.0,"Diboll CCD, Angelina County, Texas",005,91045,48
+4170.0,3425.0,46.0,3083.0,296.0,745.0,"Huntington CCD, Angelina County, Texas",005,91855,48
+19344.0,16953.0,211.0,14927.0,1815.0,2391.0,"Lufkin CCD, Angelina County, Texas",005,92325,48
+3625.0,3086.0,25.0,2723.0,338.0,539.0,"Pollok CCD, Angelina County, Texas",005,93090,48
+714.0,541.0,5.0,467.0,69.0,173.0,"Detroit CCD, Red River County, Texas",387,91025,48
+1141.0,842.0,13.0,705.0,124.0,299.0,"Bogata CCD, Red River County, Texas",387,90365,48
+237.0,185.0,7.0,156.0,22.0,52.0,"Rowena CCD, Runnels County, Texas",399,93350,48
+398.0,299.0,0.0,265.0,34.0,99.0,"Miles CCD, Runnels County, Texas",399,92585,48
+1412.0,1005.0,13.0,822.0,170.0,407.0,"Winters CCD, Runnels County, Texas",399,94265,48
+1734.0,1398.0,15.0,1145.0,238.0,336.0,"Ballinger CCD, Runnels County, Texas",399,90185,48
+5324.0,4359.0,54.0,3385.0,920.0,965.0,"Shepherd-Evergreen CCD, San Jacinto County, Texas",407,93555,48
+2099.0,1785.0,0.0,1643.0,142.0,314.0,"Coldspring CCD, San Jacinto County, Texas",407,90775,48
+1991.0,1655.0,5.0,1460.0,190.0,336.0,"Point Blank CCD, San Jacinto County, Texas",407,93080,48
+30.0,11.0,0.0,0.0,11.0,19.0,"Sonora Rural CCD, Sutton County, Texas",435,93620,48
+1543.0,1171.0,0.0,869.0,302.0,372.0,"Sonora CCD, Sutton County, Texas",435,93615,48
+1670.0,1386.0,3.0,1218.0,165.0,284.0,"East Tom Green CCD, Tom Green County, Texas",451,91145,48
+10722.0,9664.0,25.0,8826.0,813.0,1058.0,"West Tom Green CCD, Tom Green County, Texas",451,94180,48
+1171.0,998.0,12.0,762.0,224.0,173.0,"Big Lake CCD, Reagan County, Texas",383,90290,48
+669.0,585.0,0.0,509.0,76.0,84.0,"Plains CCD, Yoakum County, Texas",501,93055,48
+1983.0,1616.0,0.0,1259.0,357.0,367.0,"Denver City CCD, Yoakum County, Texas",501,91015,48
+1071.0,835.0,16.0,706.0,113.0,236.0,"Hale Center CCD, Hale County, Texas",189,91675,48
+8624.0,7049.0,51.0,6333.0,665.0,1575.0,"Plainview CCD, Hale County, Texas",189,93060,48
+492.0,404.0,9.0,349.0,46.0,88.0,"Petersburg CCD, Hale County, Texas",189,93020,48
+1030.0,851.0,4.0,747.0,100.0,179.0,"Abernathy CCD, Hale County, Texas",189,90005,48
+1472.0,1073.0,55.0,744.0,274.0,399.0,"Timpson CCD, Shelby County, Texas",419,93925,48
+1224.0,860.0,48.0,704.0,108.0,364.0,"Shelbyville CCD, Shelby County, Texas",419,93550,48
+1802.0,1254.0,22.0,977.0,255.0,548.0,"Tenaha-Joaquin CCD, Shelby County, Texas",419,93860,48
+3558.0,2672.0,82.0,1880.0,710.0,886.0,"Center CCD, Shelby County, Texas",419,90670,48
+4371.0,3653.0,52.0,3258.0,343.0,718.0,"Gilmer CCD, Upshur County, Texas",459,91515,48
+30689.0,25132.0,134.0,21072.0,3926.0,5557.0,"San Angelo CCD, Tom Green County, Texas",451,93405,48
+3002.0,2558.0,15.0,2206.0,337.0,444.0,"Gladewater CCD, Upshur County, Texas",459,91525,48
+1459.0,1133.0,34.0,950.0,149.0,326.0,"Bettie CCD, Upshur County, Texas",459,90280,48
+3170.0,2547.0,89.0,2073.0,385.0,623.0,"Ore City CCD, Upshur County, Texas",459,92920,48
+2059.0,1659.0,58.0,1380.0,221.0,400.0,"Big Sandy CCD, Upshur County, Texas",459,90295,48
+1965.0,1350.0,17.0,854.0,479.0,615.0,"Victoria South CCD, Victoria County, Texas",469,94040,48
+3866.0,3335.0,82.0,2710.0,543.0,531.0,"Victoria West CCD, Victoria County, Texas",469,94045,48
+26903.0,22733.0,112.0,18676.0,3945.0,4170.0,"Victoria CCD, Victoria County, Texas",469,94035,48
+4951.0,3968.0,21.0,3276.0,671.0,983.0,"Brookshire CCD, Waller County, Texas",473,90465,48
+3458.0,2913.0,40.0,2055.0,818.0,545.0,"Hempstead CCD, Waller County, Texas",473,91770,48
+6015.0,4783.0,136.0,3869.0,778.0,1232.0,"El Campo CCD, Wharton County, Texas",481,91180,48
+991.0,828.0,29.0,651.0,148.0,163.0,"Louise CCD, Wharton County, Texas",481,92305,48
+4423.0,3234.0,41.0,2461.0,732.0,1189.0,"Wharton CCD, Wharton County, Texas",481,94185,48
+2874.0,2622.0,9.0,2394.0,219.0,252.0,"Iowa Park CCD, Wichita County, Texas",485,91880,48
+1045.0,832.0,28.0,602.0,202.0,213.0,"Zavalla CCD, Angelina County, Texas",005,94315,48
+78.0,74.0,2.0,68.0,4.0,4.0,"Samnorwood CCD, Collingsworth County, Texas",087,93400,48
+1021.0,817.0,3.0,644.0,170.0,204.0,"Wellington CCD, Collingsworth County, Texas",087,94130,48
+29.0,29.0,0.0,21.0,8.0,0.0,"Paducah South CCD, Cottle County, Texas",101,92935,48
+635.0,443.0,7.0,371.0,65.0,192.0,"Paducah North CCD, Cottle County, Texas",101,92930,48
+28046.0,26315.0,0.0,23476.0,2839.0,1731.0,"Kyle-Buda CCD, Hays County, Texas",209,92065,48
+25267.0,22776.0,176.0,18040.0,4560.0,2491.0,"San Marcos CCD, Hays County, Texas",209,93430,48
+14732.0,14066.0,75.0,13061.0,930.0,666.0,"Dripping Springs-Wimberley CCD, Hays County, Texas",209,91075,48
+853.0,669.0,16.0,487.0,166.0,184.0,"Sudan-Amherst CCD, Lamb County, Texas",279,93775,48
+914.0,664.0,15.0,444.0,205.0,250.0,"Olton CCD, Lamb County, Texas",279,92900,48
+2473.0,2029.0,11.0,1609.0,409.0,444.0,"Littlefield CCD, Lamb County, Texas",279,92220,48
+550.0,435.0,9.0,351.0,75.0,115.0,"Earth CCD, Lamb County, Texas",279,91105,48
+206.0,165.0,0.0,152.0,13.0,41.0,"Follett CCD, Lipscomb County, Texas",295,91345,48
+301.0,254.0,4.0,227.0,23.0,47.0,"Higgins CCD, Lipscomb County, Texas",295,91805,48
+769.0,683.0,4.0,623.0,56.0,86.0,"Booker CCD, Lipscomb County, Texas",295,90380,48
+31.0,29.0,0.0,20.0,9.0,2.0,"Mentone CCD, Loving County, Texas",301,92525,48
+8610.0,6704.0,60.0,5188.0,1456.0,1906.0,"Bay City CCD, Matagorda County, Texas",321,90220,48
+2216.0,1723.0,68.0,1446.0,209.0,493.0,"Palacios CCD, Matagorda County, Texas",321,92940,48
+1519.0,1174.0,0.0,986.0,188.0,345.0,"Tidehaven CCD, Matagorda County, Texas",321,93915,48
+1466.0,1010.0,10.0,637.0,363.0,456.0,"Matagorda-Sargent CCD, Matagorda County, Texas",321,92465,48
+3550.0,2581.0,6.0,2004.0,571.0,969.0,"Fort Stockton CCD, Pecos County, Texas",371,91375,48
+289.0,212.0,3.0,156.0,53.0,77.0,"Imperial CCD, Pecos County, Texas",371,91870,48
+581.0,470.0,4.0,353.0,113.0,111.0,"Iraan CCD, Pecos County, Texas",371,91885,48
+2303.0,1995.0,10.0,1761.0,224.0,308.0,"Franklin CCD, Robertson County, Texas",395,91385,48
+747.0,523.0,2.0,421.0,100.0,224.0,"Bremond CCD, Robertson County, Texas",395,90430,48
+2678.0,2191.0,12.0,1860.0,319.0,487.0,"Hearne CCD, Robertson County, Texas",395,91750,48
+570.0,437.0,2.0,355.0,80.0,133.0,"Calvert CCD, Robertson County, Texas",395,90585,48
+10851.0,10434.0,48.0,9923.0,463.0,417.0,"South Rockwall CCD, Rockwall County, Texas",397,93665,48
+12486.0,11970.0,63.0,11269.0,638.0,516.0,"Northwest Rockwall CCD, Rockwall County, Texas",397,92855,48
+7028.0,6505.0,0.0,5810.0,695.0,523.0,"Northeast Rockwall CCD, Rockwall County, Texas",397,92800,48
+38964.0,33057.0,170.0,27391.0,5496.0,5907.0,"Wichita Falls CCD, Wichita County, Texas",485,94215,48
+4866.0,4243.0,21.0,3680.0,542.0,623.0,"Burkburnett CCD, Wichita County, Texas",485,90525,48
+1824.0,1379.0,15.0,1138.0,226.0,445.0,"Electra CCD, Wichita County, Texas",485,91195,48
+1331.0,1119.0,20.0,970.0,129.0,212.0,"Poth CCD, Wilson County, Texas",493,93125,48
+3882.0,3401.0,49.0,3086.0,266.0,481.0,"La Vernia CCD, Wilson County, Texas",493,92160,48
+8975.0,7911.0,151.0,6967.0,793.0,1064.0,"Floresville CCD, Wilson County, Texas",493,91330,48
+1567.0,1282.0,0.0,1151.0,131.0,285.0,"Stockdale CCD, Wilson County, Texas",493,93755,48
+114.0,107.0,0.0,85.0,22.0,7.0,"Gail North CCD, Borden County, Texas",033,91425,48
+134.0,117.0,0.0,104.0,13.0,17.0,"Gail South CCD, Borden County, Texas",033,91430,48
+513.0,407.0,0.0,345.0,62.0,106.0,"Ropesville CCD, Hockley County, Texas",219,93320,48
+478.0,388.0,6.0,330.0,52.0,90.0,"Sundown CCD, Hockley County, Texas",219,93800,48
+533.0,389.0,1.0,309.0,79.0,144.0,"Anton CCD, Hockley County, Texas",219,90115,48
+6541.0,5392.0,45.0,4675.0,672.0,1149.0,"Levelland CCD, Hockley County, Texas",219,92180,48
+15894.0,11456.0,21.0,8582.0,2853.0,4438.0,"Eagle Pass CCD, Maverick County, Texas",323,91100,48
+522.0,384.0,0.0,254.0,130.0,138.0,"Quemado CCD, Maverick County, Texas",323,93165,48
+49206.0,44491.0,95.0,39905.0,4491.0,4715.0,"Midland CCD, Midland County, Texas",329,92560,48
+34050.0,28647.0,254.0,24145.0,4248.0,5403.0,"East Grayson CCD, Grayson County, Texas",181,91125,48
+3854.0,3380.0,4.0,3035.0,341.0,474.0,"Southwest Grayson CCD, Grayson County, Texas",181,93685,48
+9646.0,8493.0,121.0,7193.0,1179.0,1153.0,"Northwest Grayson CCD, Grayson County, Texas",181,92840,48
+2481.0,1796.0,28.0,1347.0,421.0,685.0,"George West CCD, Live Oak County, Texas",297,91500,48
+1105.0,818.0,9.0,609.0,200.0,287.0,"Three Rivers CCD, Live Oak County, Texas",297,93905,48
+3832.0,3425.0,57.0,3108.0,260.0,407.0,"Llano South CCD, Llano County, Texas",299,92235,48
+4849.0,3909.0,12.0,3109.0,788.0,940.0,"Llano North CCD, Llano County, Texas",299,92230,48
+864.0,652.0,23.0,514.0,115.0,212.0,"Strawn-Gordon CCD, Palo Pinto County, Texas",363,93770,48
+1089.0,926.0,0.0,816.0,110.0,163.0,"Graford CCD, Palo Pinto County, Texas",363,91595,48
+1633.0,1299.0,37.0,1134.0,128.0,334.0,"Palo Pinto-Santo CCD, Palo Pinto County, Texas",363,92950,48
+6855.0,5619.0,38.0,4589.0,992.0,1236.0,"Mineral Wells CCD, Palo Pinto County, Texas",363,92595,48
+6969.0,5508.0,138.0,4150.0,1220.0,1461.0,"Henderson CCD, Rusk County, Texas",401,91775,48
+835.0,718.0,46.0,590.0,82.0,117.0,"Pinehill CCD, Rusk County, Texas",401,93040,48
+1900.0,1417.0,39.0,1090.0,288.0,483.0,"Tatum CCD, Rusk County, Texas",401,93840,48
+1800.0,1420.0,29.0,1039.0,352.0,380.0,"Overton CCD, Rusk County, Texas",401,92925,48
+1007.0,643.0,33.0,444.0,166.0,364.0,"Mount Enterprise CCD, Rusk County, Texas",401,92660,48
+3513.0,3006.0,21.0,2241.0,744.0,507.0,"Kilgore CCD, Rusk County, Texas",401,92025,48
+1093.0,772.0,29.0,604.0,139.0,321.0,"Laneville CCD, Rusk County, Texas",401,92135,48
+44696.0,38957.0,112.0,31762.0,7083.0,5739.0,"Abilene CCD, Taylor County, Texas",441,90010,48
+1965.0,1714.0,35.0,1203.0,476.0,251.0,"Merkel CCD, Taylor County, Texas",441,92535,48
+2782.0,2434.0,28.0,2088.0,318.0,348.0,"Jim Ned CCD, Taylor County, Texas",441,91945,48
+160.0,118.0,3.0,98.0,17.0,42.0,"Woodson CCD, Throckmorton County, Texas",447,94280,48
+552.0,421.0,11.0,303.0,107.0,131.0,"Throckmorton CCD, Throckmorton County, Texas",447,93910,48
+1056.0,873.0,41.0,611.0,221.0,183.0,"Apple Springs CCD, Trinity County, Texas",455,90120,48
+2774.0,2090.0,74.0,1432.0,584.0,684.0,"Trinity CCD, Trinity County, Texas",455,93945,48
+839.0,720.0,0.0,594.0,126.0,119.0,"Glendale CCD, Trinity County, Texas",455,91530,48
+1265.0,884.0,12.0,681.0,191.0,381.0,"Groveton CCD, Trinity County, Texas",455,91655,48
+2207.0,1831.0,22.0,1376.0,433.0,376.0,"New Waverly CCD, Walker County, Texas",471,92755,48
+14790.0,13449.0,67.0,11283.0,2099.0,1341.0,"Huntsville CCD, Walker County, Texas",471,91860,48
+4297.0,3659.0,63.0,3139.0,457.0,638.0,"Riverside CCD, Walker County, Texas",471,93255,48
+3128.0,2748.0,56.0,2468.0,224.0,380.0,"Hawkins CCD, Wood County, Texas",499,91740,48
+3693.0,3090.0,47.0,2792.0,251.0,603.0,"Mineola CCD, Wood County, Texas",499,92590,48
+1955.0,1725.0,58.0,1445.0,222.0,230.0,"Alba CCD, Wood County, Texas",499,90025,48
+2625.0,2008.0,24.0,1711.0,273.0,617.0,"Winnsboro CCD, Wood County, Texas",499,94255,48
+4721.0,3879.0,61.0,3331.0,487.0,842.0,"Quitman CCD, Wood County, Texas",499,93180,48
+1002.0,847.0,25.0,643.0,179.0,155.0,"Medina CCD, Bandera County, Texas",019,92500,48
+7276.0,6181.0,45.0,5216.0,920.0,1095.0,"Bandera CCD, Bandera County, Texas",019,90195,48
+7211.0,6194.0,25.0,5443.0,726.0,1017.0,"Rockport CCD, Aransas County, Texas",007,93295,48
+2318.0,2115.0,72.0,1750.0,293.0,203.0,"Fulton CCD, Aransas County, Texas",007,91420,48
+2272.0,1755.0,11.0,1513.0,231.0,517.0,"Childress CCD, Childress County, Texas",075,90700,48
+821.0,561.0,13.0,437.0,111.0,260.0,"Morton CCD, Cochran County, Texas",079,92650,48
+1079.0,795.0,24.0,613.0,158.0,284.0,"Honey Grove CCD, Fannin County, Texas",147,91825,48
+4217.0,3618.0,53.0,2920.0,645.0,599.0,"Bonham CCD, Fannin County, Texas",147,90375,48
+381.0,248.0,3.0,194.0,51.0,133.0,"Ladonia CCD, Fannin County, Texas",147,92075,48
+1153.0,921.0,11.0,732.0,178.0,232.0,"Ector CCD, Fannin County, Texas",147,91150,48
+702.0,598.0,0.0,504.0,94.0,104.0,"Dodd City CCD, Fannin County, Texas",147,91070,48
+1536.0,1322.0,21.0,1128.0,173.0,214.0,"Ravenna-Telephone CCD, Fannin County, Texas",147,93200,48
+2959.0,2608.0,61.0,2126.0,421.0,351.0,"Leonard CCD, Fannin County, Texas",147,92175,48
+1685.0,1097.0,0.0,900.0,197.0,588.0,"Kenedy CCD, Karnes County, Texas",255,91995,48
+684.0,528.0,27.0,419.0,82.0,156.0,"Falls City CCD, Karnes County, Texas",255,91285,48
+490.0,297.0,9.0,238.0,50.0,193.0,"Runge CCD, Karnes County, Texas",255,93365,48
+277.0,190.0,0.0,164.0,26.0,87.0,"Gillett CCD, Karnes County, Texas",255,91510,48
+1167.0,793.0,9.0,633.0,151.0,374.0,"Karnes City CCD, Karnes County, Texas",255,91980,48
+1722.0,1384.0,27.0,1163.0,194.0,338.0,"Yoakum CCD, DeWitt County, Texas",123,94295,48
+1492.0,997.0,25.0,821.0,151.0,495.0,"Yorktown CCD, DeWitt County, Texas",123,94305,48
+1016.0,747.0,11.0,655.0,81.0,269.0,"Westhoff-Arneckville CCD, DeWitt County, Texas",123,94170,48
+3030.0,2030.0,8.0,1677.0,345.0,1000.0,"Cuero CCD, DeWitt County, Texas",123,90925,48
+5996.0,5255.0,4.0,4682.0,569.0,741.0,"Northeast Brazos CCD, Brazos County, Texas",041,92790,48
+22170.0,21372.0,17.0,18901.0,2454.0,798.0,"South Brazos CCD, Brazos County, Texas",041,93635,48
+5183.0,4789.0,13.0,4110.0,666.0,394.0,"West Brazos CCD, Brazos County, Texas",041,94150,48
+44131.0,39599.0,77.0,32600.0,6922.0,4532.0,"Bryan-College Station CCD, Brazos County, Texas",041,90495,48
+966.0,684.0,18.0,579.0,87.0,282.0,"Baird CCD, Callahan County, Texas",059,90180,48
+954.0,663.0,28.0,526.0,109.0,291.0,"Cross Plains CCD, Callahan County, Texas",059,90910,48
+3371.0,2373.0,105.0,1899.0,369.0,998.0,"Clyde CCD, Callahan County, Texas",059,90765,48
+5489.0,3991.0,119.0,3180.0,692.0,1498.0,"Atlanta CCD, Cass County, Texas",067,90160,48
+2406.0,1755.0,69.0,1253.0,433.0,651.0,"Linden CCD, Cass County, Texas",067,92215,48
+931.0,446.0,2.0,372.0,72.0,485.0,"Marietta-Douglassville CCD, Cass County, Texas",067,92405,48
+1065.0,741.0,45.0,599.0,97.0,324.0,"Bivins-McLeod CCD, Cass County, Texas",067,90320,48
+1920.0,1348.0,22.0,1152.0,174.0,572.0,"Hughes Springs-Avinger CCD, Cass County, Texas",067,91850,48
+1203.0,983.0,1.0,761.0,221.0,220.0,"Seagraves CCD, Gaines County, Texas",165,93485,48
+4513.0,3846.0,45.0,3111.0,690.0,667.0,"Seminole CCD, Gaines County, Texas",165,93520,48
+2882.0,2502.0,66.0,2294.0,142.0,380.0,"Gladewater CCD, Gregg County, Texas",183,91520,48
+2307.0,2207.0,27.0,1984.0,196.0,100.0,"Longview Northwest CCD, Gregg County, Texas",183,92275,48
+179.0,156.0,2.0,124.0,30.0,23.0,"Whiteface CCD, Cochran County, Texas",079,94200,48
+789.0,651.0,0.0,495.0,156.0,138.0,"Robert Lee CCD, Coke County, Texas",081,93265,48
+785.0,674.0,2.0,540.0,132.0,111.0,"Bronte CCD, Coke County, Texas",081,90460,48
+28384.0,25277.0,72.0,23459.0,1746.0,3107.0,"New Braunfels CCD, Comal County, Texas",091,92730,48
+4491.0,3838.0,18.0,3326.0,494.0,653.0,"Gatesville CCD, Coryell County, Texas",099,91480,48
+408.0,319.0,4.0,305.0,10.0,89.0,"Turnersville CCD, Coryell County, Texas",099,93965,48
+448.0,399.0,0.0,344.0,55.0,49.0,"Evant CCD, Coryell County, Texas",099,91270,48
+1960.0,1912.0,0.0,1818.0,94.0,48.0,"Fort Hood CCD, Coryell County, Texas",099,91370,48
+13345.0,12231.0,58.0,11299.0,874.0,1114.0,"Copperas Cove CCD, Coryell County, Texas",099,90845,48
+334.0,281.0,0.0,256.0,25.0,53.0,"Flat CCD, Coryell County, Texas",099,91315,48
+777.0,641.0,3.0,563.0,75.0,136.0,"Oglesby CCD, Coryell County, Texas",099,92885,48
+228.0,217.0,0.0,143.0,74.0,11.0,"Canadian South CCD, Hemphill County, Texas",211,90615,48
+1130.0,1005.0,0.0,831.0,174.0,125.0,"Canadian North CCD, Hemphill County, Texas",211,90605,48
+4124.0,3018.0,58.0,2163.0,797.0,1106.0,"Crockett CCD, Houston County, Texas",225,90900,48
+597.0,398.0,4.0,257.0,137.0,199.0,"Kennard-Ratcliff CCD, Houston County, Texas",225,92000,48
+525.0,366.0,13.0,300.0,53.0,159.0,"Porter Springs CCD, Houston County, Texas",225,93100,48
+2234.0,1675.0,34.0,1185.0,456.0,559.0,"Grapeland CCD, Houston County, Texas",225,91635,48
+848.0,703.0,17.0,522.0,164.0,145.0,"Lovelady CCD, Houston County, Texas",225,92310,48
+5903.0,4963.0,0.0,4300.0,663.0,940.0,"Dumas CCD, Moore County, Texas",341,91090,48
+822.0,684.0,3.0,571.0,110.0,138.0,"Sunray CCD, Moore County, Texas",341,93805,48
+1542.0,1283.0,20.0,1016.0,247.0,259.0,"Blooming Grove CCD, Navarro County, Texas",349,90340,48
+11892.0,9904.0,86.0,8084.0,1734.0,1988.0,"Corsicana CCD, Navarro County, Texas",349,90865,48
+1314.0,1077.0,9.0,828.0,240.0,237.0,"Kerens CCD, Navarro County, Texas",349,92005,48
+1271.0,1015.0,12.0,792.0,211.0,256.0,"Rice CCD, Navarro County, Texas",349,93225,48
+1307.0,1052.0,47.0,761.0,244.0,255.0,"Dawson CCD, Navarro County, Texas",349,90965,48
+41175.0,33469.0,147.0,26832.0,6490.0,7706.0,"Amarillo CCD, Potter County, Texas",375,90065,48
+2278.0,2107.0,1.0,1909.0,197.0,171.0,"Canadian River Breaks CCD, Potter County, Texas",375,90610,48
+1089.0,784.0,8.0,692.0,84.0,305.0,"Broaddus CCD, San Augustine County, Texas",405,90455,48
+2113.0,1347.0,16.0,1085.0,246.0,766.0,"San Augustine CCD, San Augustine County, Texas",405,93415,48
+3823.0,3146.0,92.0,2380.0,674.0,677.0,"Kilgore CCD, Gregg County, Texas",183,92020,48
+31780.0,27082.0,320.0,23037.0,3725.0,4698.0,"Longview CCD, Gregg County, Texas",183,92270,48
+467.0,383.0,0.0,308.0,75.0,84.0,"McLean CCD, Gray County, Texas",179,92365,48
+7071.0,5777.0,37.0,4727.0,1013.0,1294.0,"Pampa CCD, Gray County, Texas",179,92955,48
+393.0,317.0,9.0,244.0,64.0,76.0,"Midway CCD, Madison County, Texas",313,92575,48
+2823.0,2196.0,17.0,1731.0,448.0,627.0,"Madisonville CCD, Madison County, Texas",313,92370,48
+958.0,779.0,8.0,725.0,46.0,179.0,"North Zulch CCD, Madison County, Texas",313,92860,48
+1324.0,1125.0,4.0,974.0,147.0,199.0,"Idalou CCD, Lubbock County, Texas",303,91865,48
+102804.0,91362.0,621.0,76399.0,14342.0,11442.0,"Lubbock CCD, Lubbock County, Texas",303,92315,48
+3927.0,3391.0,45.0,2896.0,450.0,536.0,"Slaton CCD, Lubbock County, Texas",303,93590,48
+2220.0,2069.0,45.0,1652.0,372.0,151.0,"Shallowater CCD, Lubbock County, Texas",303,93540,48
+537.0,406.0,3.0,274.0,129.0,131.0,"Bryson CCD, Jack County, Texas",237,90500,48
+576.0,466.0,0.0,378.0,88.0,110.0,"Perrin CCD, Jack County, Texas",237,92995,48
+1962.0,1683.0,22.0,1319.0,342.0,279.0,"Jacksboro CCD, Jack County, Texas",237,91905,48
+7933.0,6295.0,42.0,4865.0,1388.0,1638.0,"Terrell CCD, Kaufman County, Texas",257,93865,48
+3272.0,3001.0,10.0,2486.0,505.0,271.0,"Crandall CCD, Kaufman County, Texas",257,90875,48
+4220.0,3723.0,26.0,3181.0,516.0,497.0,"Terrell South CCD, Kaufman County, Texas",257,93870,48
+3124.0,2489.0,46.0,1946.0,497.0,635.0,"Cedar Creek Lake CCD, Kaufman County, Texas",257,90653,48
+13195.0,12490.0,39.0,11589.0,862.0,705.0,"Forney CCD, Kaufman County, Texas",257,91350,48
+4781.0,3958.0,45.0,3107.0,806.0,823.0,"Kaufman CCD, Kaufman County, Texas",257,91985,48
+2011.0,1764.0,82.0,1392.0,290.0,247.0,"Comfort CCD, Kendall County, Texas",259,90815,48
+11680.0,11005.0,120.0,9907.0,978.0,675.0,"Boerne CCD, Kendall County, Texas",259,90360,48
+384.0,328.0,14.0,258.0,56.0,56.0,"Iredell CCD, Bosque County, Texas",035,91890,48
+915.0,768.0,5.0,697.0,66.0,147.0,"Valley Mills CCD, Bosque County, Texas",035,93990,48
+2828.0,2365.0,36.0,1884.0,445.0,463.0,"Clifton CCD, Bosque County, Texas",035,90760,48
+2470.0,2017.0,77.0,1548.0,392.0,453.0,"Meridian CCD, Bosque County, Texas",035,92530,48
+430.0,375.0,3.0,316.0,56.0,55.0,"Cranfills Gap CCD, Bosque County, Texas",035,90890,48
+1378.0,1101.0,17.0,923.0,161.0,277.0,"Floydada CCD, Floyd County, Texas",153,91335,48
+942.0,762.0,20.0,697.0,45.0,180.0,"Lockney CCD, Floyd County, Texas",153,92250,48
+312.0,290.0,12.0,254.0,24.0,22.0,"Hermleigh CCD, Scurry County, Texas",415,91795,48
+4981.0,4327.0,25.0,3649.0,653.0,654.0,"Snyder CCD, Scurry County, Texas",415,93605,48
+1037.0,789.0,0.0,687.0,102.0,248.0,"Albany CCD, Shackelford County, Texas",417,90030,48
+220.0,151.0,2.0,124.0,25.0,69.0,"Moran CCD, Shackelford County, Texas",417,92640,48
+5332.0,3652.0,0.0,2411.0,1241.0,1680.0,"Roma-Los Saenz CCD, Starr County, Texas",427,93315,48
+2622.0,1935.0,0.0,1268.0,667.0,687.0,"La Grulla CCD, Starr County, Texas",427,92090,48
+101.0,67.0,0.0,56.0,11.0,34.0,"Aspermont North CCD, Stonewall County, Texas",433,90145,48
+357.0,271.0,6.0,225.0,40.0,86.0,"Aspermont South CCD, Stonewall County, Texas",433,90150,48
+433.0,356.0,0.0,235.0,121.0,77.0,"Rankin CCD, Upton County, Texas",461,93195,48
+875.0,702.0,2.0,418.0,282.0,173.0,"McCamey CCD, Upton County, Texas",461,92345,48
+7716.0,6796.0,77.0,6132.0,587.0,920.0,"Bastrop CCD, Bastrop County, Texas",021,90210,48
+3783.0,2941.0,11.0,2393.0,537.0,842.0,"Smithville CCD, Bastrop County, Texas",021,93600,48
+8914.0,8163.0,17.0,7168.0,978.0,751.0,"Cedar Creek-Red Rock CCD, Bastrop County, Texas",021,90655,48
+5602.0,4765.0,17.0,4185.0,563.0,837.0,"Elgin CCD, Bastrop County, Texas",021,91200,48
+1134.0,900.0,9.0,782.0,109.0,234.0,"Blanket CCD, Brown County, Texas",049,90335,48
+914.0,702.0,13.0,607.0,82.0,212.0,"May CCD, Brown County, Texas",049,92485,48
+9071.0,7230.0,77.0,6268.0,885.0,1841.0,"Brownwood CCD, Brown County, Texas",049,90485,48
+2716.0,2065.0,0.0,1758.0,307.0,651.0,"Bangs CCD, Brown County, Texas",049,90200,48
+956.0,717.0,13.0,543.0,161.0,239.0,"Memphis CCD, Hall County, Texas",191,92510,48
+42.0,29.0,0.0,17.0,12.0,13.0,"Estelline CCD, Hall County, Texas",191,91260,48
+90.0,70.0,0.0,37.0,33.0,20.0,"Lakeview CCD, Hall County, Texas",191,92095,48
+156.0,117.0,1.0,101.0,15.0,39.0,"Turkey CCD, Hall County, Texas",191,93960,48
+557.0,452.0,12.0,296.0,144.0,105.0,"Pettus-Pawnee CCD, Bee County, Texas",025,93025,48
+7163.0,5955.0,13.0,4506.0,1436.0,1208.0,"Beeville CCD, Bee County, Texas",025,90240,48
+811.0,672.0,11.0,489.0,172.0,139.0,"Skidmore CCD, Bee County, Texas",025,93585,48
+1025.0,862.0,11.0,718.0,133.0,163.0,"Winnsboro CCD, Franklin County, Texas",159,94250,48
+2906.0,2385.0,11.0,2055.0,319.0,521.0,"Mount Vernon CCD, Franklin County, Texas",159,92675,48
+3023.0,1993.0,20.0,1650.0,323.0,1030.0,"Pearsall CCD, Frio County, Texas",163,92980,48
+463.0,317.0,0.0,194.0,123.0,146.0,"Moore CCD, Frio County, Texas",163,92635,48
+2105.0,1739.0,37.0,1175.0,527.0,366.0,"Muleshoe CCD, Bailey County, Texas",017,92685,48
+125.0,104.0,6.0,85.0,13.0,21.0,"South Sand Hills CCD, Bailey County, Texas",017,93670,48
+2094.0,1696.0,60.0,1383.0,253.0,398.0,"Winnie-Stowell CCD, Chambers County, Texas",071,94245,48
+2261.0,1504.0,2.0,1398.0,104.0,757.0,"Anahuac CCD, Chambers County, Texas",071,90075,48
+8965.0,8300.0,84.0,7650.0,566.0,665.0,"Mont Belvieu CCD, Chambers County, Texas",071,92620,48
+1312.0,1111.0,0.0,927.0,184.0,201.0,"Seymour CCD, Baylor County, Texas",023,93525,48
+332.0,252.0,0.0,222.0,30.0,80.0,"Seymour Rural CCD, Baylor County, Texas",023,93535,48
+3017.0,2858.0,13.0,2675.0,170.0,159.0,"Southwest Bell CCD, Bell County, Texas",027,93680,48
+2264.0,2154.0,0.0,1985.0,169.0,110.0,"Fort Hood CCD, Bell County, Texas",027,91365,48
+3559.0,3281.0,35.0,2972.0,274.0,278.0,"South Bell CCD, Bell County, Texas",027,93630,48
+8254.0,7326.0,52.0,6309.0,965.0,928.0,"Belton CCD, Bell County, Texas",027,90255,48
+2231.0,2093.0,60.0,1661.0,372.0,138.0,"East Bell CCD, Bell County, Texas",027,91110,48
+63168.0,57756.0,158.0,50677.0,6921.0,5412.0,"Killeen CCD, Bell County, Texas",027,92030,48
+4857.0,4492.0,16.0,4002.0,474.0,365.0,"Northwest Bell CCD, Bell County, Texas",027,92835,48
+27409.0,23477.0,94.0,20181.0,3202.0,3932.0,"Temple CCD, Bell County, Texas",027,93855,48
+1638.0,1355.0,7.0,1085.0,263.0,283.0,"Rogers CCD, Bell County, Texas",027,93310,48
+6834.0,5356.0,3.0,3234.0,2119.0,1478.0,"Los Fresnos-Laureles CCD, Cameron County, Texas",061,92295,48
+45159.0,33003.0,175.0,25824.0,7004.0,12156.0,"Harlingen-San Benito CCD, Cameron County, Texas",061,91720,48
+59733.0,43338.0,209.0,28651.0,14478.0,16395.0,"Brownsville CCD, Cameron County, Texas",061,90480,48
+7426.0,6150.0,27.0,4584.0,1539.0,1276.0,"East Cameron CCD, Cameron County, Texas",061,91115,48
+3036.0,2074.0,6.0,1350.0,718.0,962.0,"Rio Hondo CCD, Cameron County, Texas",061,93245,48
+37797.0,34740.0,137.0,30315.0,4288.0,3057.0,"Denton CCD, Denton County, Texas",121,91010,48
+7488.0,6866.0,51.0,5899.0,916.0,622.0,"Sanger CCD, Denton County, Texas",121,93425,48
+21391.0,20577.0,147.0,19293.0,1137.0,814.0,"Justin-Roanoke CCD, Denton County, Texas",121,91970,48
+35539.0,34506.0,170.0,32256.0,2080.0,1033.0,"Pilot Point-Aubrey CCD, Denton County, Texas",121,93035,48
+3452.0,2622.0,27.0,2322.0,273.0,830.0,"Gonzales CCD, Gonzales County, Texas",177,91565,48
+336.0,243.0,0.0,226.0,17.0,93.0,"Smiley CCD, Gonzales County, Texas",177,93595,48
+633.0,417.0,0.0,329.0,88.0,216.0,"Waelder CCD, Gonzales County, Texas",177,94060,48
+1927.0,1696.0,22.0,1557.0,117.0,231.0,"Harper CCD, Gillespie County, Texas",171,91725,48
+7149.0,6057.0,22.0,5383.0,652.0,1092.0,"Fredericksburg CCD, Gillespie County, Texas",171,91395,48
+1264.0,980.0,13.0,767.0,200.0,284.0,"Nixon CCD, Gonzales County, Texas",177,92760,48
+474.0,414.0,0.0,303.0,111.0,60.0,"Vanderbilt CCD, Jackson County, Texas",239,94005,48
+2764.0,2161.0,17.0,1777.0,367.0,603.0,"Edna-Cordele CCD, Jackson County, Texas",239,91175,48
+1021.0,796.0,0.0,695.0,101.0,225.0,"Ganado CCD, Jackson County, Texas",239,91450,48
+14608.0,12148.0,223.0,10826.0,1099.0,2460.0,"Kerrville CCD, Kerr County, Texas",265,92015,48
+408.0,333.0,0.0,264.0,69.0,75.0,"O'Donnell CCD, Lynn County, Texas",305,92880,48
+1455.0,1165.0,32.0,922.0,211.0,290.0,"Tahoka CCD, Lynn County, Texas",305,93820,48
+284.0,228.0,0.0,186.0,42.0,56.0,"Wilson CCD, Lynn County, Texas",305,94230,48
+194.0,129.0,0.0,102.0,27.0,65.0,"Tilden CCD, McMullen County, Texas",311,93920,48
+1452.0,1217.0,10.0,984.0,223.0,235.0,"Olney CCD, Young County, Texas",503,92895,48
+4965.0,4126.0,34.0,3441.0,651.0,839.0,"Graham CCD, Young County, Texas",503,91600,48
+219.0,196.0,0.0,177.0,19.0,23.0,"Jean-Loving CCD, Young County, Texas",503,91935,48
+430.0,353.0,6.0,232.0,115.0,77.0,"Newcastle CCD, Young County, Texas",503,92735,48
+4210.0,3482.0,32.0,2301.0,1149.0,728.0,"Zapata CCD, Zapata County, Texas",505,94310,48
+247.0,136.0,0.0,88.0,48.0,111.0,"San Ygnacio CCD, Zapata County, Texas",505,93455,48
+1494.0,1345.0,22.0,1230.0,93.0,149.0,"Godley CCD, Johnson County, Texas",251,91540,48
+21382.0,19685.0,174.0,17160.0,2351.0,1697.0,"Burleson-Joshua CCD, Johnson County, Texas",251,90535,48
+16100.0,13787.0,231.0,12007.0,1549.0,2313.0,"Cleburne CCD, Johnson County, Texas",251,90750,48
+14072.0,12848.0,140.0,11313.0,1395.0,1224.0,"Alvarado CCD, Johnson County, Texas",251,90050,48
+2419.0,2241.0,27.0,1986.0,228.0,178.0,"Grandview CCD, Johnson County, Texas",251,91625,48
+3730.0,3183.0,37.0,2728.0,418.0,547.0,"Granbury West CCD, Hood County, Texas",221,91610,48
+17797.0,16130.0,70.0,14650.0,1410.0,1667.0,"Granbury East CCD, Hood County, Texas",221,91605,48
+7617.0,6451.0,82.0,5493.0,876.0,1166.0,"Sulphur Springs CCD, Hopkins County, Texas",223,93790,48
+1709.0,1381.0,19.0,1176.0,186.0,328.0,"Pickton-Pine Forest CCD, Hopkins County, Texas",223,93030,48
+1630.0,1417.0,15.0,1315.0,87.0,213.0,"Cumby CCD, Hopkins County, Texas",223,90930,48
+1131.0,922.0,23.0,734.0,165.0,209.0,"North Hopkins-Sulphur Bluff CCD, Hopkins County, Texas",223,92815,48
+1200.0,1006.0,12.0,807.0,187.0,194.0,"Seymore CCD, Hopkins County, Texas",223,93522,48
+4647.0,4068.0,0.0,3631.0,437.0,579.0,"Corpus Christi West CCD, Nueces County, Texas",355,90855,48
+232.0,206.0,0.0,199.0,7.0,26.0,"Perryton West CCD, Ochiltree County, Texas",357,93010,48
+3317.0,2912.0,27.0,2257.0,628.0,405.0,"Perryton East CCD, Ochiltree County, Texas",357,93005,48
+101.0,93.0,0.0,74.0,19.0,8.0,"Guthrie CCD, King County, Texas",269,91670,48
+751.0,534.0,0.0,430.0,104.0,217.0,"Driscoll CCD, Nueces County, Texas",355,91080,48
+1675.0,1382.0,0.0,1041.0,341.0,293.0,"Eagle Lake CCD, Colorado County, Texas",089,91095,48
+727.0,586.0,0.0,520.0,66.0,141.0,"Garwood CCD, Colorado County, Texas",089,91470,48
+2024.0,1528.0,14.0,1156.0,358.0,496.0,"Weimar CCD, Colorado County, Texas",089,94120,48
+3177.0,2443.0,35.0,1913.0,495.0,734.0,"Columbus CCD, Colorado County, Texas",089,90800,48
+2935.0,2262.0,13.0,1534.0,715.0,673.0,"Mathis CCD, San Patricio County, Texas",409,92470,48
+1576.0,1174.0,0.0,810.0,364.0,402.0,"Taft CCD, San Patricio County, Texas",409,93815,48
+4719.0,3928.0,10.0,2908.0,1010.0,791.0,"Sinton-Odem CCD, San Patricio County, Texas",409,93580,48
+7295.0,6401.0,27.0,5032.0,1342.0,894.0,"Aransas Pass-Ingleside CCD, San Patricio County, Texas",409,90125,48
+1813.0,1504.0,24.0,1133.0,347.0,309.0,"Point CCD, Rains County, Texas",379,93075,48
+2520.0,2011.0,17.0,1769.0,225.0,509.0,"Emory CCD, Rains County, Texas",379,91235,48
+6305.0,5724.0,78.0,5179.0,467.0,581.0,"Canyon CCD, Randall County, Texas",381,90625,48
+42813.0,39411.0,192.0,35629.0,3590.0,3402.0,"Amarillo CCD, Randall County, Texas",381,90070,48
+1123.0,899.0,7.0,668.0,224.0,224.0,"Camp Wood-Leakey CCD, Real County, Texas",385,90600,48
+501.0,389.0,0.0,327.0,62.0,112.0,"Eldorado West CCD, Schleicher County, Texas",413,91190,48
+601.0,502.0,19.0,370.0,113.0,99.0,"Eldorado East CCD, Schleicher County, Texas",413,91185,48
+462.0,393.0,0.0,321.0,72.0,69.0,"Sterling City CCD, Sterling County, Texas",431,93745,48
+300.0,154.0,0.0,102.0,52.0,146.0,"Batesville CCD, Zavala County, Texas",507,90215,48
+2711.0,1794.0,14.0,1240.0,540.0,917.0,"Crystal City CCD, Zavala County, Texas",507,90920,48
+525.0,346.0,9.0,173.0,164.0,179.0,"La Pryor CCD, Zavala County, Texas",507,92140,48
+1348.0,1163.0,7.0,1022.0,134.0,185.0,"Seadrift CCD, Calhoun County, Texas",057,93480,48
+640.0,574.0,0.0,468.0,106.0,66.0,"Point Comfort CCD, Calhoun County, Texas",057,93085,48
+5114.0,4423.0,7.0,3677.0,739.0,691.0,"Port Lavaca CCD, Calhoun County, Texas",057,93105,48
+524.0,382.0,0.0,318.0,64.0,142.0,"Knox City CCD, Knox County, Texas",275,92045,48
+552.0,454.0,3.0,394.0,57.0,98.0,"Munday CCD, Knox County, Texas",275,92695,48
+154.0,133.0,0.0,104.0,29.0,21.0,"Benjamin CCD, Knox County, Texas",275,90265,48
+146.0,119.0,0.0,102.0,17.0,27.0,"Goree CCD, Knox County, Texas",275,91585,48
+3252.0,2962.0,17.0,2526.0,419.0,290.0,"McGregor CCD, McLennan County, Texas",309,92355,48
+1376.0,1152.0,34.0,853.0,265.0,224.0,"Axtell CCD, McLennan County, Texas",309,90175,48
+1884.0,1711.0,33.0,1513.0,165.0,173.0,"China Spring CCD, McLennan County, Texas",309,90715,48
+2252.0,1879.0,39.0,1484.0,356.0,373.0,"Elm Mott CCD, McLennan County, Texas",309,91210,48
+1801.0,1607.0,2.0,1472.0,133.0,194.0,"Crawford CCD, McLennan County, Texas",309,90895,48
+2051.0,1584.0,23.0,1195.0,366.0,467.0,"Mart CCD, McLennan County, Texas",309,92435,48
+2800.0,2365.0,87.0,1787.0,491.0,435.0,"West CCD, McLennan County, Texas",309,94140,48
+68448.0,57564.0,222.0,47078.0,10264.0,10884.0,"Waco CCD, McLennan County, Texas",309,94055,48
+1220.0,991.0,29.0,802.0,160.0,229.0,"Alto CCD, Cherokee County, Texas",073,90045,48
+1542.0,1233.0,15.0,898.0,320.0,309.0,"New Summerfield CCD, Cherokee County, Texas",073,92745,48
+2392.0,2075.0,62.0,1790.0,223.0,317.0,"Mount Selman CCD, Cherokee County, Texas",073,92670,48
+3731.0,3049.0,27.0,2470.0,552.0,682.0,"Rusk CCD, Cherokee County, Texas",073,93370,48
+675.0,531.0,11.0,464.0,56.0,144.0,"Wells CCD, Cherokee County, Texas",073,94135,48
+8325.0,6483.0,36.0,5394.0,1053.0,1842.0,"Jacksonville CCD, Cherokee County, Texas",073,91910,48
+526.0,415.0,2.0,379.0,34.0,111.0,"Eden-Millersview CCD, Concho County, Texas",095,91160,48
+265.0,183.0,0.0,173.0,10.0,82.0,"Eola-Paint Rock CCD, Concho County, Texas",095,91255,48
+613.0,526.0,0.0,406.0,120.0,87.0,"Pecan Gap CCD, Delta County, Texas",119,92985,48
+1422.0,1117.0,24.0,905.0,188.0,305.0,"Cooper CCD, Delta County, Texas",119,90840,48
+159.0,86.0,0.0,67.0,19.0,73.0,"Rocksprings South CCD, Edwards County, Texas",137,93305,48
+475.0,278.0,2.0,211.0,65.0,197.0,"Rocksprings North CCD, Edwards County, Texas",137,93300,48
+933.0,564.0,4.0,443.0,117.0,369.0,"Gorman CCD, Eastland County, Texas",133,91590,48
+1097.0,746.0,32.0,649.0,65.0,351.0,"Ranger CCD, Eastland County, Texas",133,93190,48
+729.0,431.0,7.0,329.0,95.0,298.0,"Rising Star CCD, Eastland County, Texas",133,93250,48
+1805.0,1348.0,52.0,1142.0,154.0,457.0,"Eastland CCD, Eastland County, Texas",133,91135,48
+1873.0,1338.0,15.0,1097.0,226.0,535.0,"Cisco CCD, Eastland County, Texas",133,90725,48
+1433.0,1067.0,51.0,792.0,224.0,366.0,"Stamford CCD, Jones County, Texas",253,93720,48
+1907.0,1724.0,28.0,1336.0,360.0,183.0,"Hawley-Noodle CCD, Jones County, Texas",253,91745,48
+1113.0,958.0,7.0,691.0,260.0,155.0,"Anson CCD, Jones County, Texas",253,90110,48
+937.0,827.0,20.0,682.0,125.0,110.0,"White Deer-Groom CCD, Carson County, Texas",065,94195,48
+1355.0,1155.0,7.0,981.0,167.0,200.0,"Panhandle CCD, Carson County, Texas",065,92965,48
+103.0,97.0,0.0,64.0,33.0,6.0,"Thalia CCD, Foard County, Texas",155,93890,48
+459.0,366.0,3.0,316.0,47.0,93.0,"Crowell CCD, Foard County, Texas",155,90915,48
+2741.0,2186.0,13.0,1937.0,236.0,555.0,"Teague CCD, Freestone County, Texas",161,93850,48
+752.0,529.0,10.0,435.0,84.0,223.0,"Butler CCD, Freestone County, Texas",161,90555,48
+875.0,715.0,2.0,606.0,107.0,160.0,"Wortham CCD, Freestone County, Texas",161,94290,48
+2864.0,2354.0,44.0,1898.0,412.0,510.0,"Fairfield CCD, Freestone County, Texas",161,91275,48
+682.0,552.0,0.0,409.0,143.0,130.0,"Weesatche-Ander CCD, Goliad County, Texas",175,94115,48
+333.0,245.0,44.0,171.0,30.0,88.0,"Goliad South CCD, Goliad County, Texas",175,91560,48
+1740.0,1312.0,0.0,1066.0,246.0,428.0,"Goliad North CCD, Goliad County, Texas",175,91555,48
+1962.0,1629.0,0.0,1240.0,389.0,333.0,"Colorado City CCD, Mitchell County, Texas",335,90795,48
+375.0,271.0,5.0,191.0,75.0,104.0,"Loraine CCD, Mitchell County, Texas",335,92285,48
+302.0,238.0,0.0,189.0,49.0,64.0,"Westbrook CCD, Mitchell County, Texas",335,94155,48
+7231.0,5555.0,63.0,4612.0,880.0,1676.0,"Mount Pleasant CCD, Titus County, Texas",449,92665,48
+709.0,563.0,0.0,515.0,48.0,146.0,"Talco CCD, Titus County, Texas",449,93825,48
+895.0,707.0,37.0,533.0,137.0,188.0,"Winfield CCD, Titus County, Texas",449,94235,48
+1840.0,1487.0,31.0,1190.0,266.0,353.0,"Cookville CCD, Titus County, Texas",449,90830,48
+412.0,309.0,5.0,278.0,26.0,103.0,"Silverton CCD, Briscoe County, Texas",045,93575,48
+252.0,193.0,8.0,177.0,8.0,59.0,"Quitaque CCD, Briscoe County, Texas",045,93175,48
+978.0,778.0,32.0,644.0,102.0,200.0,"Moulton CCD, Lavaca County, Texas",285,92655,48
+1355.0,1024.0,4.0,961.0,59.0,331.0,"Shiner CCD, Lavaca County, Texas",285,93560,48
+2406.0,1788.0,30.0,1599.0,159.0,618.0,"Yoakum CCD, Lavaca County, Texas",285,94300,48
+2945.0,2303.0,42.0,2094.0,167.0,642.0,"Hallettsville CCD, Lavaca County, Texas",285,91680,48
+13340.0,11032.0,81.0,9966.0,985.0,2308.0,"Liberty-Dayton CCD, Liberty County, Texas",291,92195,48
+1194.0,883.0,21.0,736.0,126.0,311.0,"Daisetta CCD, Liberty County, Texas",291,90945,48
+271.0,210.0,2.0,156.0,52.0,61.0,"Lueders CCD, Jones County, Texas",253,92320,48
+911.0,683.0,4.0,569.0,110.0,228.0,"Hamlin CCD, Jones County, Texas",253,91695,48
+58.0,48.0,0.0,41.0,7.0,10.0,"Valentine CCD, Jeff Davis County, Texas",243,93985,48
+949.0,845.0,0.0,622.0,223.0,104.0,"Fort Davis CCD, Jeff Davis County, Texas",243,91355,48
+13.0,0.0,0.0,0.0,0.0,13.0,"South Jim Hogg CCD, Jim Hogg County, Texas",247,93660,48
+1574.0,1012.0,22.0,762.0,228.0,562.0,"North Jim Hogg CCD, Jim Hogg County, Texas",247,92820,48
+2792.0,1661.0,3.0,1358.0,300.0,1131.0,"Orange Grove-Sandia CCD, Jim Wells County, Texas",249,92910,48
+1107.0,677.0,0.0,531.0,146.0,430.0,"Premont CCD, Jim Wells County, Texas",249,93140,48
+9715.0,6394.0,235.0,5270.0,889.0,3321.0,"Alice CCD, Jim Wells County, Texas",249,90035,48
+13188.0,12012.0,49.0,10710.0,1253.0,1176.0,"Willis CCD, Montgomery County, Texas",339,94220,48
+131105.0,121028.0,851.0,110069.0,10108.0,10077.0,"Southeast Montgomery CCD, Montgomery County, Texas",339,93655,48
+19261.0,18154.0,121.0,17034.0,999.0,1107.0,"Magnolia CCD, Montgomery County, Texas",339,92375,48
+23307.0,21765.0,96.0,20381.0,1288.0,1542.0,"Montgomery CCD, Montgomery County, Texas",339,92625,48
+268.0,223.0,0.0,197.0,26.0,45.0,"Texline CCD, Dallam County, Texas",111,93885,48
+2164.0,1802.0,0.0,1440.0,362.0,362.0,"Dalhart CCD, Dallam County, Texas",111,90955,48
+271.0,144.0,0.0,111.0,33.0,127.0,"Big Wells CCD, Dimmit County, Texas",127,90310,48
+2713.0,1951.0,0.0,1675.0,276.0,762.0,"Carrizo Springs CCD, Dimmit County, Texas",127,90635,48
+492.0,247.0,23.0,190.0,34.0,245.0,"Asherton CCD, Dimmit County, Texas",127,90140,48
+44961.0,30415.0,375.0,23315.0,6725.0,14546.0,"Laredo CCD, Webb County, Texas",479,92145,48
+1293.0,891.0,14.0,663.0,214.0,402.0,"Orchard-Kendleton CCD, Fort Bend County, Texas",157,92915,48
+47296.0,45337.0,162.0,42966.0,2209.0,1959.0,"Stafford-Missouri City CCD, Fort Bend County, Texas",157,93715,48
+88692.0,85668.0,397.0,82087.0,3184.0,3024.0,"Sugar Land CCD, Fort Bend County, Texas",157,93780,48
+4662.0,4147.0,86.0,3365.0,696.0,515.0,"Needville CCD, Fort Bend County, Texas",157,92715,48
+31821.0,29114.0,113.0,25906.0,3095.0,2707.0,"Rosenberg-Richmond CCD, Fort Bend County, Texas",157,93337,48
+48567.0,47476.0,18.0,46219.0,1239.0,1091.0,"Fulshear-Simonton CCD, Fort Bend County, Texas",157,91415,48
+9526.0,7810.0,128.0,6697.0,985.0,1716.0,"Cleveland CCD, Liberty County, Texas",291,90755,48
+192.0,169.0,0.0,123.0,46.0,23.0,"Claude North CCD, Armstrong County, Texas",011,90740,48
+510.0,449.0,10.0,384.0,55.0,61.0,"Claude South CCD, Armstrong County, Texas",011,90745,48
+1914.0,1510.0,0.0,1350.0,160.0,404.0,"Hardin-Rye CCD, Liberty County, Texas",291,91705,48
+368.0,286.0,7.0,245.0,34.0,82.0,"Meadow CCD, Terry County, Texas",445,92495,48
+3774.0,3022.0,17.0,2348.0,657.0,752.0,"Brownfield CCD, Terry County, Texas",445,90470,48
+1521.0,1223.0,9.0,1080.0,134.0,298.0,"Center Point CCD, Kerr County, Texas",265,90675,48
+4451.0,3839.0,43.0,3352.0,444.0,612.0,"Ingram CCD, Kerr County, Texas",265,91875,48
+542.0,354.0,10.0,197.0,147.0,188.0,"Burlington CCD, Milam County, Texas",331,90540,48
+1147.0,889.0,26.0,711.0,152.0,258.0,"Thorndale CCD, Milam County, Texas",331,93895,48
+998.0,814.0,4.0,586.0,224.0,184.0,"Gause-Milano CCD, Milam County, Texas",331,91485,48
+2520.0,1821.0,20.0,1543.0,258.0,699.0,"Cameron CCD, Milam County, Texas",331,90590,48
+575.0,456.0,25.0,322.0,109.0,119.0,"Davilla CCD, Milam County, Texas",331,90960,48
+360.0,273.0,0.0,197.0,76.0,87.0,"Buckholts CCD, Milam County, Texas",331,90505,48
+3295.0,2644.0,31.0,2200.0,413.0,651.0,"Rockdale CCD, Milam County, Texas",331,93290,48
+1736.0,1349.0,36.0,1049.0,264.0,387.0,"De Leon CCD, Comanche County, Texas",093,90985,48
+2693.0,2095.0,47.0,1643.0,405.0,598.0,"Comanche CCD, Comanche County, Texas",093,90810,48
+678.0,490.0,25.0,335.0,130.0,188.0,"Gustine CCD, Comanche County, Texas",093,91665,48
+236.0,179.0,0.0,158.0,21.0,57.0,"Reagan CCD, Falls County, Texas",145,93210,48
+2391.0,1515.0,40.0,1134.0,341.0,876.0,"Marlin CCD, Falls County, Texas",145,92425,48
+938.0,690.0,16.0,492.0,182.0,248.0,"Rosebud CCD, Falls County, Texas",145,93330,48
+224.0,153.0,7.0,111.0,35.0,71.0,"Perry CCD, Falls County, Texas",145,93000,48
+899.0,693.0,0.0,531.0,162.0,206.0,"Chilton CCD, Falls County, Texas",145,90710,48
+717.0,593.0,5.0,467.0,121.0,124.0,"Lott CCD, Falls County, Texas",145,92300,48
+118.0,72.0,0.0,50.0,22.0,46.0,"Encino CCD, Brooks County, Texas",047,91245,48
+1904.0,1289.0,5.0,1031.0,253.0,615.0,"Falfurrias CCD, Brooks County, Texas",047,91280,48
+988.0,718.0,6.0,449.0,263.0,270.0,"Wallis CCD, Austin County, Texas",015,94070,48
+4683.0,4087.0,29.0,3295.0,763.0,596.0,"Sealy CCD, Austin County, Texas",015,93490,48
+3931.0,3207.0,73.0,2873.0,261.0,724.0,"Bellville CCD, Austin County, Texas",015,90250,48
+152.0,66.0,0.0,55.0,11.0,86.0,"Sarita CCD, Kenedy County, Texas",261,93465,48
+111069.0,95290.0,252.0,84182.0,10856.0,15779.0,"Corpus Christi CCD, Nueces County, Texas",355,90850,48
+3906.0,2567.0,0.0,1950.0,617.0,1339.0,"Robstown CCD, Nueces County, Texas",355,93270,48
+2101.0,1782.0,0.0,1404.0,378.0,319.0,"Bishop CCD, Nueces County, Texas",355,90315,48
+6383.0,6175.0,20.0,5657.0,498.0,208.0,"Port Aransas CCD, Nueces County, Texas",355,93095,48
+328017.0,277666.0,1372.0,234468.0,41826.0,50351.0,"Southwest Dallas CCD, Dallas County, Texas",113,93682,48
+578162.0,512855.0,1655.0,453362.0,57838.0,65307.0,"Northeast Dallas CCD, Dallas County, Texas",113,92792,48
+818.0,663.0,0.0,531.0,132.0,155.0,"Marquez CCD, Leon County, Texas",289,92427,48
+661.0,525.0,0.0,469.0,56.0,136.0,"Purmela-Levita CCD, Coryell County, Texas",099,93157,48
+8366.0,6562.0,97.0,4206.0,2259.0,1804.0,"Rio Grande City CCD, Starr County, Texas",427,93239,48
+683.0,520.0,33.0,421.0,66.0,163.0,"Hart CCD, Castro County, Texas",069,91732,48
+1779.0,1443.0,19.0,1155.0,269.0,336.0,"Dimmitt CCD, Castro County, Texas",069,91059,48
+2896.0,2411.0,18.0,1698.0,695.0,485.0,"Liberty City CCD, Gregg County, Texas",183,92193,48
+1927.0,1597.0,133.0,1108.0,356.0,330.0,"Lakeport CCD, Gregg County, Texas",183,92093,48
+13822.0,12067.0,46.0,10514.0,1507.0,1755.0,"Angleton CCD, Brazoria County, Texas",039,90094,48
+508.0,433.0,4.0,376.0,53.0,75.0,"Vega CCD, Oldham County, Texas",359,94018,48
+1522.0,1130.0,14.0,969.0,147.0,392.0,"San Saba CCD, San Saba County, Texas",411,93439,48
+613.0,445.0,4.0,354.0,87.0,168.0,"Richland Springs CCD, San Saba County, Texas",411,93231,48
+6721.0,6228.0,10.0,5173.0,1045.0,493.0,"Portland-Gregory CCD, San Patricio County, Texas",409,93103,48
+6289.0,5440.0,118.0,4104.0,1218.0,849.0,"Prairie View-Waller CCD, Waller County, Texas",473,93137,48
+1444.0,1270.0,0.0,1116.0,154.0,174.0,"Dalhart CCD, Hartley County, Texas",205,90956,48
+105433.0,98444.0,456.0,90056.0,7932.0,6989.0,"San Antonio Northwest CCD, Bexar County, Texas",029,93412,48
+224926.0,173451.0,966.0,136785.0,35700.0,51475.0,"San Antonio Central CCD, Bexar County, Texas",029,93407,48
+58944.0,55658.0,70.0,51518.0,4070.0,3286.0,"San Antonio West CCD, Bexar County, Texas",029,93414,48
+10918.0,8849.0,73.0,7217.0,1559.0,2069.0,"San Antonio South CCD, Bexar County, Texas",029,93413,48
+85342.0,77971.0,286.0,67393.0,10292.0,7371.0,"San Antonio Northeast CCD, Bexar County, Texas",029,93411,48
+132155.0,124737.0,341.0,116773.0,7623.0,7418.0,"San Antonio North CCD, Bexar County, Texas",029,93409,48
+10171.0,8823.0,44.0,7284.0,1495.0,1348.0,"San Antonio East CCD, Bexar County, Texas",029,93408,48
+804.0,627.0,0.0,495.0,132.0,177.0,"Post East CCD, Garza County, Texas",169,93108,48
+911.0,738.0,0.0,703.0,35.0,173.0,"Post West CCD, Garza County, Texas",169,93118,48
+1719.0,1390.0,15.0,1243.0,132.0,329.0,"Stonewall CCD, Gillespie County, Texas",171,93757,48
+30116.0,29591.0,69.0,28184.0,1338.0,525.0,"The Colony CCD, Denton County, Texas",121,93892,48
+89913.0,86268.0,173.0,81930.0,4165.0,3645.0,"Lewisville-Flower Mound CCD, Denton County, Texas",121,92186,48
+52920.0,51136.0,70.0,45836.0,5230.0,1784.0,"Carrollton CCD, Denton County, Texas",121,90637,48
+15528.0,12234.0,247.0,9884.0,2103.0,3294.0,"Livingston-Onalaska CCD, Polk County, Texas",373,92226,48
+6181.0,5540.0,22.0,5071.0,447.0,641.0,"Lumberton CCD, Hardin County, Texas",199,92332,48
+482.0,400.0,16.0,363.0,21.0,82.0,"Cost-Wrightsboro CCD, Gonzales County, Texas",177,90868,48
+851.0,714.0,13.0,637.0,64.0,137.0,"Harwood-Ottine CCD, Gonzales County, Texas",177,91733,48
+3135.0,2584.0,43.0,2203.0,338.0,551.0,"Northeast Guadalupe CCD, Guadalupe County, Texas",187,92793,48
+1419.0,1210.0,9.0,1069.0,132.0,209.0,"Industry CCD, Austin County, Texas",015,91873,48
+2137.0,1667.0,20.0,1441.0,206.0,470.0,"East Bernard CCD, Wharton County, Texas",481,91112,48
+1658.0,1364.0,28.0,937.0,399.0,294.0,"Boling-Newgulf CCD, Wharton County, Texas",481,90368,48
+865.0,671.0,9.0,429.0,233.0,194.0,"Price-Turnertown CCD, Rusk County, Texas",401,93148,48
+738.0,623.0,2.0,478.0,143.0,115.0,"Duffau-Clairette CCD, Erath County, Texas",143,91087,48
+4344.0,4013.0,113.0,3335.0,565.0,331.0,"Moody-Lorena CCD, McLennan County, Texas",309,92631,48
+631.0,631.0,0.0,631.0,0.0,0.0,"Kamey-Sixmile CCD, Calhoun County, Texas",057,91975,48
+2459.0,1688.0,43.0,1272.0,373.0,771.0,"Lake O' the Pines CCD, Marion County, Texas",315,92092,48
+1998.0,1466.0,24.0,1203.0,239.0,532.0,"Jefferson CCD, Marion County, Texas",315,91937,48
+42161.0,40796.0,84.0,39092.0,1620.0,1365.0,"Cedar Park-Liberty Hill CCD, Williamson County, Texas",491,90657,48
+97056.0,92670.0,320.0,87180.0,5170.0,4386.0,"Round Rock-Georgetown CCD, Williamson County, Texas",491,93343,48
+2754.0,2208.0,7.0,1932.0,269.0,546.0,"LaRue-Poynor CCD, Henderson County, Texas",213,92150,48
+4688.0,3781.0,29.0,3199.0,553.0,907.0,"Chandler-Brownsboro CCD, Henderson County, Texas",213,90687,48
+2581.0,2114.0,22.0,1804.0,288.0,467.0,"LaBelle CCD, Jefferson County, Texas",245,92070,48
+432.0,356.0,1.0,292.0,63.0,76.0,"Matador CCD, Motley County, Texas",345,92454,48
+37.0,34.0,0.0,31.0,3.0,3.0,"North Motley CCD, Motley County, Texas",345,92822,48
+785.0,679.0,3.0,597.0,79.0,106.0,"Stratford CCD, Sherman County, Texas",421,93759,48
+278.0,227.0,0.0,193.0,34.0,51.0,"Texhoma CCD, Sherman County, Texas",421,93883,48
+372.0,237.0,8.0,180.0,49.0,135.0,"Lasara CCD, Willacy County, Texas",489,92155,48
+18869.0,17747.0,24.0,16642.0,1081.0,1122.0,"Canyon Lake CCD, Comal County, Texas",091,90627,48
+433.0,360.0,2.0,302.0,56.0,73.0,"Lefors CCD, Gray County, Texas",179,92172,48
+8582.0,7339.0,21.0,6461.0,857.0,1243.0,"West Odessa-Goldsmith CCD, Ector County, Texas",135,94173,48
+10648.0,10077.0,26.0,8881.0,1170.0,571.0,"Laredo North-Webb CCD, Webb County, Texas",479,92146,48
+16770.0,12035.0,30.0,8881.0,3124.0,4735.0,"Laredo South-El Cenizo CCD, Webb County, Texas",479,92147,48
+3721.0,2840.0,51.0,2524.0,265.0,881.0,"Maud-Redwater CCD, Bowie County, Texas",037,92476,48
+545.0,479.0,5.0,336.0,138.0,66.0,"Fluvanna-Ira CCD, Scurry County, Texas",415,91339,48
+73.0,61.0,0.0,60.0,1.0,12.0,"Adrian CCD, Oldham County, Texas",359,90017,48
+10.0,10.0,0.0,7.0,3.0,0.0,"North Childress CCD, Childress County, Texas",075,92777,48
+23774.0,23067.0,91.0,22084.0,892.0,707.0,"Southwest Travis CCD, Travis County, Texas",453,93688,48
+42547.0,41244.0,96.0,39378.0,1770.0,1303.0,"Northwest Travis CCD, Travis County, Texas",453,92857,48
+42178.0,40856.0,118.0,38511.0,2227.0,1322.0,"Northeast Travis CCD, Travis County, Texas",453,92807,48
+5839.0,5336.0,0.0,4635.0,701.0,503.0,"Midland South CCD, Midland County, Texas",329,92566,48
+1528.0,1277.0,17.0,923.0,337.0,251.0,"Southeast Guadalupe CCD, Guadalupe County, Texas",187,93643,48
+3164.0,2722.0,10.0,2357.0,355.0,442.0,"Southwest Guadalupe CCD, Guadalupe County, Texas",187,93687,48
+40631.0,31664.0,86.0,26915.0,4663.0,8967.0,"Port Arthur CCD, Jefferson County, Texas",245,93097,48
+14015.0,12582.0,171.0,11025.0,1386.0,1433.0,"Springtown-Reno CCD, Parker County, Texas",367,93701,48
+976.0,824.0,7.0,653.0,164.0,152.0,"Hico CCD, Hamilton County, Texas",193,91800,48
+2181.0,1620.0,25.0,1286.0,309.0,561.0,"Hamilton CCD, Hamilton County, Texas",193,91690,48
+54.0,47.0,0.0,47.0,0.0,7.0,"Goodlett CCD, Hardeman County, Texas",197,91580,48
+368.0,260.0,0.0,209.0,51.0,108.0,"Chillicothe CCD, Hardeman County, Texas",197,90705,48
+1111.0,920.0,4.0,718.0,198.0,191.0,"Quanah CCD, Hardeman County, Texas",197,93160,48
+959.0,788.0,24.0,618.0,146.0,171.0,"Alvord CCD, Wise County, Texas",497,90060,48
+7685.0,6851.0,69.0,5524.0,1258.0,834.0,"Bridgeport CCD, Wise County, Texas",497,90445,48
+5921.0,5284.0,87.0,4323.0,874.0,637.0,"Decatur CCD, Wise County, Texas",497,90975,48
+7126.0,6285.0,70.0,5124.0,1091.0,841.0,"Boyd-Rhome CCD, Wise County, Texas",497,90395,48
+63.0,63.0,0.0,51.0,12.0,0.0,"Mertzon North CCD, Irion County, Texas",235,92540,48
+585.0,508.0,9.0,394.0,105.0,77.0,"Mertzon South CCD, Irion County, Texas",235,92545,48
+647.0,538.0,0.0,395.0,143.0,109.0,"Riviera CCD, Kleberg County, Texas",273,93260,48
+10311.0,8978.0,43.0,7572.0,1363.0,1333.0,"Kingsville CCD, Kleberg County, Texas",273,92035,48
+258.0,178.0,6.0,160.0,12.0,80.0,"San Perlita CCD, Willacy County, Texas",489,93435,48
+693.0,475.0,16.0,300.0,159.0,218.0,"Sebastian CCD, Willacy County, Texas",489,93495,48
+1000.0,672.0,0.0,483.0,189.0,328.0,"Lyford CCD, Willacy County, Texas",489,92335,48
+1878.0,1416.0,15.0,1234.0,167.0,462.0,"Frankston CCD, Anderson County, Texas",001,91390,48
+1556.0,1340.0,7.0,1069.0,264.0,216.0,"Montalba-Tennessee Colony CCD, Anderson County, Texas",001,92615,48
+10057.0,7890.0,71.0,6298.0,1521.0,2167.0,"Palestine CCD, Anderson County, Texas",001,92945,48
+9021.0,7551.0,23.0,6358.0,1170.0,1470.0,"Ennis CCD, Ellis County, Texas",139,91250,48
+4504.0,4081.0,13.0,3346.0,722.0,423.0,"Ferris CCD, Ellis County, Texas",139,91310,48
+2221.0,1926.0,0.0,1723.0,203.0,295.0,"Maypearl CCD, Ellis County, Texas",139,92490,48
+29102.0,26992.0,213.0,24219.0,2560.0,2110.0,"Waxahachie CCD, Ellis County, Texas",139,94090,48
+8380.0,7953.0,38.0,7428.0,487.0,427.0,"Midlothian CCD, Ellis County, Texas",139,92570,48
+1497.0,1300.0,4.0,1039.0,257.0,197.0,"Italy CCD, Ellis County, Texas",139,91895,48
+973.0,868.0,0.0,583.0,285.0,105.0,"La Ward-Lolita CCD, Jackson County, Texas",239,92165,48
+7345.0,5738.0,148.0,4617.0,973.0,1607.0,"Brenham CCD, Washington County, Texas",477,90435,48
+1305.0,1087.0,38.0,670.0,379.0,218.0,"Gay Hill-Independence CCD, Washington County, Texas",477,91490,48
+1843.0,1399.0,0.0,1129.0,270.0,444.0,"Washington-Chappell Hill CCD, Washington County, Texas",477,94080,48
+1712.0,1296.0,34.0,888.0,374.0,416.0,"Burton CCD, Washington County, Texas",477,90550,48
+1752.0,1366.0,0.0,1152.0,214.0,386.0,"Naples CCD, Morris County, Texas",343,92705,48
+3272.0,2577.0,14.0,2411.0,152.0,695.0,"Daingerfield CCD, Morris County, Texas",343,90940,48
+6002.0,5423.0,80.0,4798.0,545.0,579.0,"Bridge City-Orangefield CCD, Orange County, Texas",361,90440,48
+11720.0,9457.0,19.0,8034.0,1404.0,2263.0,"Orange CCD, Orange County, Texas",361,92905,48
+3908.0,3328.0,17.0,3000.0,311.0,580.0,"Mauriceville CCD, Orange County, Texas",361,92480,48
+10642.0,9092.0,4.0,7830.0,1258.0,1550.0,"Vidor CCD, Orange County, Texas",361,94050,48
+2805.0,2177.0,20.0,1724.0,433.0,628.0,"Breckenridge North CCD, Stephens County, Texas",429,90420,48
+556.0,407.0,7.0,371.0,29.0,149.0,"Breckenridge South CCD, Stephens County, Texas",429,90425,48
+2246.0,1809.0,23.0,1473.0,313.0,437.0,"Kermit CCD, Winkler County, Texas",495,92010,48
+278.0,232.0,4.0,208.0,20.0,46.0,"Wink CCD, Winkler County, Texas",495,94240,48
+1175769.0,1021866.0,3851.0,892943.0,125072.0,153903.0,"Houston CCD, Harris County, Texas",201,91835,48
+33756.0,31622.0,128.0,29416.0,2078.0,2134.0,"Southeast Harris CCD, Harris County, Texas",201,93645,48
+26030.0,22171.0,118.0,18251.0,3802.0,3859.0,"Baytown CCD, Harris County, Texas",201,90225,48
+22452.0,20301.0,104.0,17983.0,2214.0,2151.0,"Northeast Harris CCD, Harris County, Texas",201,92795,48
+45921.0,39288.0,215.0,34954.0,4119.0,6633.0,"Pasadena CCD, Harris County, Texas",201,92975,48
+258885.0,244318.0,949.0,221467.0,21902.0,14567.0,"Northwest Harris CCD, Harris County, Texas",201,92845,48
+4496.0,4030.0,11.0,3706.0,313.0,466.0,"Andrews North CCD, Andrews County, Texas",003,90085,48
+917.0,739.0,5.0,665.0,69.0,178.0,"Andrews South CCD, Andrews County, Texas",003,90090,48
+8996.0,7738.0,41.0,6607.0,1090.0,1258.0,"Marble Falls CCD, Burnet County, Texas",053,92395,48
+1423.0,1269.0,2.0,1050.0,217.0,154.0,"Bertram CCD, Burnet County, Texas",053,90275,48
+716.0,645.0,14.0,493.0,138.0,71.0,"Briggs CCD, Burnet County, Texas",053,90450,48
+5410.0,4812.0,28.0,3610.0,1174.0,598.0,"Burnet CCD, Burnet County, Texas",053,90545,48

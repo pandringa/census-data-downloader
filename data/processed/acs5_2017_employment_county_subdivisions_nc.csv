@@ -1,0 +1,1042 @@
+geoid,name,total_population_16over,in_labor_force,civilian,civilian_employed,civilian_unemployed,armed_forces,not_in_labor_force,county,county subdivision,state
+3718792968,"Skinnersville township, Washington County, North Carolina",900.0,478.0,478.0,362.0,116.0,0.0,422.0,187,92968,37
+3718792540,"Plymouth township, Washington County, North Carolina",5536.0,2830.0,2773.0,2441.0,332.0,57.0,2706.0,187,92540,37
+3718792876,"Scuppernong township, Washington County, North Carolina",1428.0,722.0,722.0,710.0,12.0,0.0,706.0,187,92876,37
+3718791768,"Lees Mill township, Washington County, North Carolina",2281.0,1105.0,1105.0,1035.0,70.0,0.0,1176.0,187,91768,37
+3702990784,"Courthouse township, Camden County, North Carolina",3238.0,2065.0,2045.0,1779.0,266.0,20.0,1173.0,029,90784,37
+3702992920,"Shiloh township, Camden County, North Carolina",1893.0,1028.0,1028.0,961.0,67.0,0.0,865.0,029,92920,37
+3702993044,"South Mills township, Camden County, North Carolina",3022.0,1995.0,1897.0,1788.0,109.0,98.0,1027.0,029,93044,37
+3704393192,"Sweetwater township, Clay County, North Carolina",702.0,310.0,310.0,310.0,0.0,0.0,392.0,043,93192,37
+3704392944,"Shooting Creek township, Clay County, North Carolina",1137.0,572.0,572.0,505.0,67.0,0.0,565.0,043,92944,37
+3704393792,"Tusquittee township, Clay County, North Carolina",558.0,203.0,203.0,203.0,0.0,0.0,355.0,043,93792,37
+3704390360,"Brasstown township, Clay County, North Carolina",1817.0,1065.0,1065.0,864.0,201.0,0.0,752.0,043,90360,37
+3704391436,"Hayesville township, Clay County, North Carolina",3105.0,1583.0,1583.0,1523.0,60.0,0.0,1522.0,043,91436,37
+3705190288,"Black River township, Cumberland County, North Carolina",1516.0,909.0,892.0,754.0,138.0,17.0,607.0,051,90288,37
+3705190968,"Eastover township, Cumberland County, North Carolina",10576.0,6557.0,6420.0,5890.0,530.0,137.0,4019.0,051,90968,37
+3705190832,"Cross Creek township, Cumberland County, North Carolina",54215.0,32119.0,29605.0,26741.0,2864.0,2514.0,22096.0,051,90832,37
+3705192724,"Rockfish township, Cumberland County, North Carolina",43514.0,27589.0,25513.0,23209.0,2304.0,2076.0,15925.0,051,92724,37
+3705192892,"Seventy-First township, Cumberland County, North Carolina",75154.0,51480.0,40224.0,35997.0,4227.0,11256.0,23674.0,051,92892,37
+3705191296,"Grays Creek township, Cumberland County, North Carolina",7772.0,4318.0,4210.0,3937.0,273.0,108.0,3454.0,051,91296,37
+3705190192,"Beaver Dam township, Cumberland County, North Carolina",963.0,542.0,542.0,525.0,17.0,0.0,421.0,051,90192,37
+3705192460,"Pearces Mill township, Cumberland County, North Carolina",13316.0,8112.0,7572.0,6726.0,846.0,540.0,5204.0,051,92460,37
+3705190532,"Carvers Creek township, Cumberland County, North Carolina",18448.0,11840.0,10383.0,9385.0,998.0,1457.0,6608.0,051,90532,37
+3705191964,"Manchester township, Cumberland County, North Carolina",22304.0,17879.0,6416.0,5513.0,903.0,11463.0,4425.0,051,91964,37
+3705190572,"Cedar Creek township, Cumberland County, North Carolina",10394.0,6140.0,6010.0,5291.0,719.0,130.0,4254.0,051,90572,37
+3707193048,"South Point township, Gaston County, North Carolina",36083.0,23175.0,23173.0,21788.0,1385.0,2.0,12908.0,071,93048,37
+3707190844,"Crowders Mountain township, Gaston County, North Carolina",13097.0,7431.0,7413.0,6667.0,746.0,18.0,5666.0,071,90844,37
+3707191216,"Gastonia township, Gaston County, North Carolina",67975.0,41929.0,41907.0,37860.0,4047.0,22.0,26046.0,071,91216,37
+3701192090,"Minneapolis township, Avery County, North Carolina",337.0,137.0,137.0,137.0,0.0,0.0,200.0,011,92090,37
+3701190148,"Banner Elk township, Avery County, North Carolina",3305.0,1813.0,1813.0,1659.0,154.0,0.0,1492.0,011,90148,37
+3701190510,"Carey's Flat township, Avery County, North Carolina",70.0,8.0,8.0,8.0,0.0,0.0,62.0,011,90510,37
+3701192708,"Roaring Creek township, Avery County, North Carolina",486.0,275.0,275.0,275.0,0.0,0.0,211.0,011,92708,37
+3701192586,"Pyatte township, Avery County, North Carolina",347.0,183.0,183.0,183.0,0.0,0.0,164.0,011,92586,37
+3701191826,"Linville township, Avery County, North Carolina",381.0,211.0,211.0,184.0,27.0,0.0,170.0,011,91826,37
+3701192502,"Pineola township, Avery County, North Carolina",901.0,399.0,399.0,364.0,35.0,0.0,502.0,011,92502,37
+3701190052,"Altamont township, Avery County, North Carolina",1296.0,793.0,793.0,789.0,4.0,0.0,503.0,011,90052,37
+3701191558,"Hughes township, Avery County, North Carolina",300.0,141.0,141.0,123.0,18.0,0.0,159.0,011,91558,37
+3701191154,"Frank township, Avery County, North Carolina",225.0,131.0,131.0,131.0,0.0,0.0,94.0,011,91154,37
+3701190812,"Cranberry township, Avery County, North Carolina",443.0,232.0,232.0,191.0,41.0,0.0,211.0,011,90812,37
+3701190212,"Beech Mountain township, Avery County, North Carolina",453.0,174.0,174.0,174.0,0.0,0.0,279.0,011,90212,37
+3701191442,"Heaton township, Avery County, North Carolina",128.0,56.0,56.0,39.0,17.0,0.0,72.0,011,91442,37
+3702191932,"Lower Hominy township, Buncombe County, North Carolina",8256.0,5081.0,5081.0,4888.0,193.0,0.0,3175.0,021,91932,37
+3702192648,"Reems Creek township, Buncombe County, North Carolina",10881.0,5686.0,5686.0,5373.0,313.0,0.0,5195.0,021,92648,37
+3702191776,"Leicester township, Buncombe County, North Carolina",16570.0,9837.0,9809.0,9229.0,580.0,28.0,6733.0,021,91776,37
+3702191176,"French Broad township, Buncombe County, North Carolina",6092.0,3188.0,3188.0,3031.0,157.0,0.0,2904.0,021,91176,37
+3702191604,"Ivy township, Buncombe County, North Carolina",2920.0,1584.0,1584.0,1464.0,120.0,0.0,1336.0,021,91604,37
+3702191816,"Limestone township, Buncombe County, North Carolina",12305.0,8160.0,8146.0,7950.0,196.0,14.0,4145.0,021,91816,37
+3702193840,"Upper Hominy township, Buncombe County, North Carolina",13964.0,8297.0,8268.0,7943.0,325.0,29.0,5667.0,021,93840,37
+3702190108,"Avery Creek township, Buncombe County, North Carolina",6189.0,3786.0,3786.0,3615.0,171.0,0.0,2403.0,021,90108,37
+3702190380,"Broad River township, Buncombe County, North Carolina",1264.0,812.0,812.0,793.0,19.0,0.0,452.0,021,90380,37
+3702191056,"Fairview township, Buncombe County, North Carolina",9366.0,6254.0,6254.0,5958.0,296.0,0.0,3112.0,021,91056,37
+3702192832,"Sandy Mush township, Buncombe County, North Carolina",1345.0,624.0,624.0,552.0,72.0,0.0,721.0,021,92832,37
+3705991660,"Jerusalem township, Davie County, North Carolina",4596.0,2661.0,2661.0,2376.0,285.0,0.0,1935.0,059,91660,37
+3705991192,"Fulton township, Davie County, North Carolina",1985.0,1340.0,1340.0,1240.0,100.0,0.0,645.0,059,91192,37
+3705992100,"Mocksville township, Davie County, North Carolina",8318.0,5183.0,5167.0,4815.0,352.0,16.0,3135.0,059,92100,37
+3705990472,"Calahaln township, Davie County, North Carolina",2339.0,1463.0,1463.0,1263.0,200.0,0.0,876.0,059,90472,37
+3705991080,"Farmington township, Davie County, North Carolina",10093.0,5865.0,5865.0,5592.0,273.0,0.0,4228.0,059,91080,37
+3705992896,"Shady Grove township, Davie County, North Carolina",3810.0,2157.0,2157.0,2120.0,37.0,0.0,1653.0,059,92896,37
+3705793796,"Tyro township, Davidson County, North Carolina",7095.0,4399.0,4393.0,4098.0,295.0,6.0,2696.0,057,93796,37
+3714992816,"Saluda township, Polk County, North Carolina",1655.0,815.0,815.0,781.0,34.0,0.0,840.0,149,92816,37
+3714990740,"Columbus township, Polk County, North Carolina",5924.0,3080.0,3060.0,2784.0,276.0,20.0,2844.0,149,90740,37
+3714993980,"White Oak township, Polk County, North Carolina",2126.0,1238.0,1238.0,1139.0,99.0,0.0,888.0,149,93980,37
+3714993776,"Tryon township, Polk County, North Carolina",3556.0,1840.0,1840.0,1730.0,110.0,0.0,1716.0,149,93776,37
+3714990772,"Cooper Gap township, Polk County, North Carolina",1443.0,834.0,834.0,795.0,39.0,0.0,609.0,149,90772,37
+3715191800,"Liberty township, Randolph County, North Carolina",4180.0,2469.0,2469.0,2395.0,74.0,0.0,1711.0,151,91800,37
+3715192532,"Pleasant Grove township, Randolph County, North Carolina",330.0,99.0,99.0,91.0,8.0,0.0,231.0,151,92532,37
+3715190084,"Asheboro township, Randolph County, North Carolina",19331.0,10909.0,10885.0,10084.0,801.0,24.0,8422.0,151,90084,37
+3715193808,"Union township, Randolph County, North Carolina",2348.0,1251.0,1251.0,1147.0,104.0,0.0,1097.0,151,93808,37
+3715190716,"Coleridge township, Randolph County, North Carolina",2196.0,1164.0,1164.0,1080.0,84.0,0.0,1032.0,151,90716,37
+3715192268,"New Market township, Randolph County, North Carolina",5269.0,3033.0,3023.0,2946.0,77.0,10.0,2236.0,151,92268,37
+3715193768,"Trinity township, Randolph County, North Carolina",21374.0,13194.0,13182.0,12431.0,751.0,12.0,8180.0,151,93768,37
+3715190584,"Cedar Grove township, Randolph County, North Carolina",7610.0,4723.0,4723.0,4454.0,269.0,0.0,2887.0,151,90584,37
+3715190748,"Concord township, Randolph County, North Carolina",2341.0,1358.0,1358.0,1231.0,127.0,0.0,983.0,151,90748,37
+3715191172,"Franklinville township, Randolph County, North Carolina",7344.0,4477.0,4477.0,4149.0,328.0,0.0,2867.0,151,91172,37
+3715190388,"Brower township, Randolph County, North Carolina",1216.0,645.0,645.0,549.0,96.0,0.0,571.0,151,90388,37
+3715190732,"Columbia township, Randolph County, North Carolina",5584.0,3286.0,3286.0,3071.0,215.0,0.0,2298.0,151,90732,37
+3715192580,"Providence township, Randolph County, North Carolina",5842.0,3983.0,3983.0,3766.0,217.0,0.0,1859.0,151,92580,37
+3715192668,"Richland township, Randolph County, North Carolina",2833.0,1733.0,1733.0,1642.0,91.0,0.0,1100.0,151,92668,37
+3715190116,"Back Creek township, Randolph County, North Carolina",4210.0,2667.0,2667.0,2466.0,201.0,0.0,1543.0,151,90116,37
+3715191784,"Level Cross township, Randolph County, North Carolina",3190.0,1927.0,1927.0,1776.0,151.0,0.0,1263.0,151,91784,37
+3715192252,"New Hope township, Randolph County, North Carolina",837.0,580.0,580.0,580.0,0.0,0.0,257.0,151,92252,37
+3715191276,"Grant township, Randolph County, North Carolina",5002.0,3338.0,3338.0,3201.0,137.0,0.0,1664.0,151,91276,37
+3715192620,"Randleman township, Randolph County, North Carolina",7614.0,4599.0,4599.0,4289.0,310.0,0.0,3015.0,151,92620,37
+3715193208,"Tabernacle township, Randolph County, North Carolina",4941.0,2976.0,2976.0,2880.0,96.0,0.0,1965.0,151,93208,37
+3715791564,"Huntsville township, Rockingham County, North Carolina",4604.0,2730.0,2730.0,2592.0,138.0,0.0,1874.0,157,91564,37
+3715791752,"Leaksville township, Rockingham County, North Carolina",16190.0,8636.0,8636.0,7639.0,997.0,0.0,7554.0,157,91752,37
+3715792232,"New Bethel township, Rockingham County, North Carolina",5337.0,3193.0,3193.0,3048.0,145.0,0.0,2144.0,157,92232,37
+3715792568,"Price township, Rockingham County, North Carolina",1473.0,888.0,888.0,878.0,10.0,0.0,585.0,157,92568,37
+3715792960,"Simpsonville township, Rockingham County, North Carolina",3232.0,2251.0,2234.0,2089.0,145.0,17.0,981.0,157,92960,37
+3715793936,"Wentworth township, Rockingham County, North Carolina",7753.0,4186.0,4186.0,4004.0,182.0,0.0,3567.0,157,93936,37
+3715792020,"Mayo township, Rockingham County, North Carolina",6023.0,3485.0,3485.0,3256.0,229.0,0.0,2538.0,157,92020,37
+3715792652,"Reidsville township, Rockingham County, North Carolina",15393.0,8944.0,8944.0,8313.0,631.0,0.0,6449.0,157,92652,37
+3715791956,"Madison township, Rockingham County, North Carolina",6896.0,3914.0,3909.0,3596.0,313.0,5.0,2982.0,157,91956,37
+3715794032,"Williamsburg township, Rockingham County, North Carolina",3767.0,1870.0,1870.0,1741.0,129.0,0.0,1897.0,157,94032,37
+3715792772,"Ruffin township, Rockingham County, North Carolina",4129.0,2290.0,2290.0,2138.0,152.0,0.0,1839.0,157,92772,37
+3716990876,"Danbury township, Stokes County, North Carolina",853.0,498.0,498.0,465.0,33.0,0.0,355.0,169,90876,37
+3716994108,"Yadkin township, Stokes County, North Carolina",18152.0,10663.0,10663.0,9933.0,730.0,0.0,7489.0,169,94108,37
+3716990208,"Beaver Island township, Stokes County, North Carolina",2854.0,1711.0,1711.0,1611.0,100.0,0.0,1143.0,169,90208,37
+3716992852,"Sauratown township, Stokes County, North Carolina",4352.0,2362.0,2362.0,2151.0,211.0,0.0,1990.0,169,92852,37
+3716990260,"Big Creek township, Stokes County, North Carolina",1709.0,932.0,932.0,870.0,62.0,0.0,777.0,169,90260,37
+3716992028,"Meadows township, Stokes County, North Carolina",4468.0,2806.0,2806.0,2690.0,116.0,0.0,1662.0,169,92028,37
+3716992588,"Quaker Gap township, Stokes County, North Carolina",2237.0,1234.0,1234.0,1044.0,190.0,0.0,1003.0,169,92588,37
+3716992480,"Peters Creek township, Stokes County, North Carolina",1371.0,840.0,840.0,780.0,60.0,0.0,531.0,169,92480,37
+3716993016,"Snow Creek township, Stokes County, North Carolina",2008.0,1130.0,1130.0,1080.0,50.0,0.0,878.0,169,93016,37
+3716593080,"Spring Hill township, Scotland County, North Carolina",3729.0,1970.0,1970.0,1807.0,163.0,0.0,1759.0,165,93080,37
+3716594036,"Williamson township, Scotland County, North Carolina",5775.0,2773.0,2773.0,2417.0,356.0,0.0,3002.0,165,94036,37
+3716591748,"Laurel Hill township, Scotland County, North Carolina",2413.0,1035.0,1035.0,917.0,118.0,0.0,1378.0,165,91748,37
+3716593132,"Stewartsville township, Scotland County, North Carolina",16329.0,7605.0,7585.0,6519.0,1066.0,20.0,8724.0,165,93132,37
+3718992320,"North Fork township, Watauga County, North Carolina",159.0,57.0,57.0,57.0,0.0,0.0,102.0,189,92320,37
+3707190872,"Dallas township, Gaston County, North Carolina",18132.0,10666.0,10627.0,9797.0,830.0,39.0,7466.0,071,90872,37
+3707192692,"Riverbend township, Gaston County, North Carolina",21903.0,13935.0,13924.0,12870.0,1054.0,11.0,7968.0,071,92692,37
+3707190644,"Cherryville township, Gaston County, North Carolina",13392.0,7897.0,7897.0,7281.0,616.0,0.0,5495.0,071,90644,37
+3708191952,"Madison township, Guilford County, North Carolina",4506.0,2794.0,2794.0,2704.0,90.0,0.0,1712.0,081,91952,37
+3708190672,"Clay township, Guilford County, North Carolina",6243.0,3874.0,3874.0,3479.0,395.0,0.0,2369.0,081,90672,37
+3708190896,"Deep River township, Guilford County, North Carolina",15594.0,10764.0,10694.0,10136.0,558.0,70.0,4830.0,081,90896,37
+3708191304,"Greene township, Guilford County, North Carolina",2860.0,1830.0,1830.0,1812.0,18.0,0.0,1030.0,081,91304,37
+3708191228,"Gilmer township, Guilford County, North Carolina",61123.0,36776.0,36702.0,33281.0,3421.0,74.0,24347.0,081,91228,37
+3708192104,"Monroe township, Guilford County, North Carolina",8740.0,5517.0,5517.0,5100.0,417.0,0.0,3223.0,081,92104,37
+3708191096,"Fentress township, Guilford County, North Carolina",9032.0,4981.0,4981.0,4718.0,263.0,0.0,4051.0,081,91096,37
+3708193176,"Sumner township, Guilford County, North Carolina",7783.0,4569.0,4569.0,4447.0,122.0,0.0,3214.0,081,93176,37
+3708191484,"High Point township, Guilford County, North Carolina",65465.0,39578.0,39578.0,35417.0,4161.0,0.0,25887.0,081,91484,37
+3708192360,"Oak Ridge township, Guilford County, North Carolina",9315.0,6356.0,6337.0,6108.0,229.0,19.0,2959.0,081,92360,37
+3708190396,"Bruce township, Guilford County, North Carolina",8353.0,5613.0,5613.0,5423.0,190.0,0.0,2740.0,081,90396,37
+3708190600,"Center Grove township, Guilford County, North Carolina",6235.0,4257.0,4257.0,4066.0,191.0,0.0,1978.0,081,90600,37
+3708191184,"Friendship township, Guilford County, North Carolina",7484.0,5083.0,5083.0,4914.0,169.0,0.0,2401.0,081,91184,37
+3708192716,"Rock Creek township, Guilford County, North Carolina",10387.0,7064.0,7041.0,6792.0,249.0,23.0,3323.0,081,92716,37
+3708193908,"Washington township, Guilford County, North Carolina",2231.0,1285.0,1285.0,1246.0,39.0,0.0,946.0,081,93908,37
+3708191656,"Jefferson township, Guilford County, North Carolina",9552.0,6531.0,6518.0,6135.0,383.0,13.0,3021.0,081,91656,37
+3708191640,"Jamestown township, Guilford County, North Carolina",10716.0,6409.0,6403.0,6117.0,286.0,6.0,4307.0,081,91640,37
+3708192124,"Morehead township, Guilford County, North Carolina",168794.0,110616.0,110454.0,104250.0,6204.0,162.0,58178.0,081,92124,37
+3709990900,"Dillsboro township, Jackson County, North Carolina",1357.0,740.0,740.0,712.0,28.0,0.0,617.0,099,90900,37
+3709990484,"Canada township, Jackson County, North Carolina",468.0,209.0,209.0,186.0,23.0,0.0,259.0,099,90484,37
+3709990500,"Caney Fork township, Jackson County, North Carolina",652.0,418.0,418.0,418.0,0.0,0.0,234.0,099,90500,37
+3709993204,"Sylva township, Jackson County, North Carolina",5198.0,3210.0,3198.0,3097.0,101.0,12.0,1988.0,099,93204,37
+3709990156,"Barkers Creek township, Jackson County, North Carolina",1616.0,658.0,658.0,645.0,13.0,0.0,958.0,099,90156,37
+3709992868,"Scott Creek township, Jackson County, North Carolina",2101.0,1164.0,1157.0,1137.0,20.0,7.0,937.0,099,92868,37
+3709990540,"Cashiers township, Jackson County, North Carolina",1904.0,828.0,828.0,828.0,0.0,0.0,1076.0,099,90540,37
+3709990848,"Cullowhee township, Jackson County, North Carolina",7968.0,3800.0,3772.0,3616.0,156.0,28.0,4168.0,099,90848,37
+3709992596,"Qualla township, Jackson County, North Carolina",5103.0,2915.0,2915.0,2643.0,272.0,0.0,2188.0,099,92596,37
+3709992684,"River township, Jackson County, North Carolina",1339.0,667.0,667.0,643.0,24.0,0.0,672.0,099,92684,37
+3709991320,"Greens Creek township, Jackson County, North Carolina",1338.0,717.0,717.0,660.0,57.0,0.0,621.0,099,91320,37
+3709992856,"Savannah township, Jackson County, North Carolina",1420.0,895.0,895.0,783.0,112.0,0.0,525.0,099,92856,37
+3709993924,"Webster township, Jackson County, North Carolina",2435.0,1492.0,1492.0,1456.0,36.0,0.0,943.0,099,93924,37
+3709992148,"Mountain township, Jackson County, North Carolina",555.0,197.0,197.0,197.0,0.0,0.0,358.0,099,92148,37
+3709991384,"Hamburg township, Jackson County, North Carolina",1822.0,1162.0,1162.0,1082.0,80.0,0.0,660.0,099,91384,37
+3718990204,"Beaverdam township, Watauga County, North Carolina",1244.0,744.0,744.0,733.0,11.0,0.0,500.0,189,90204,37
+3718990788,"Cove Creek township, Watauga County, North Carolina",2242.0,1269.0,1269.0,1242.0,27.0,0.0,973.0,189,90788,37
+3718991744,"Laurel Creek township, Watauga County, North Carolina",1741.0,986.0,984.0,939.0,45.0,2.0,755.0,189,91744,37
+3718990132,"Bald Mountain township, Watauga County, North Carolina",643.0,463.0,463.0,396.0,67.0,0.0,180.0,189,90132,37
+3718991008,"Elk township, Watauga County, North Carolina",658.0,389.0,389.0,375.0,14.0,0.0,269.0,189,91008,37
+3718992276,"New River township, Watauga County, North Carolina",10631.0,6347.0,6328.0,6109.0,219.0,19.0,4284.0,189,92276,37
+3718990308,"Blue Ridge township, Watauga County, North Carolina",3970.0,2470.0,2470.0,2359.0,111.0,0.0,1500.0,189,90308,37
+3718992032,"Meat Camp township, Watauga County, North Carolina",2787.0,1905.0,1905.0,1760.0,145.0,0.0,882.0,189,92032,37
+3718990404,"Brushy Fork township, Watauga County, North Carolina",4663.0,2485.0,2485.0,2015.0,470.0,0.0,2178.0,189,90404,37
+3718992916,"Shawneehaw township, Watauga County, North Carolina",604.0,262.0,262.0,251.0,11.0,0.0,342.0,189,92916,37
+3718993152,"Stony Fork township, Watauga County, North Carolina",1980.0,1199.0,1191.0,1138.0,53.0,8.0,781.0,189,93152,37
+3718993912,"Watauga township, Watauga County, North Carolina",3795.0,2475.0,2428.0,2304.0,124.0,47.0,1320.0,189,93912,37
+3718990300,"Blowing Rock township, Watauga County, North Carolina",2334.0,1251.0,1251.0,1231.0,20.0,0.0,1083.0,189,90300,37
+3718990332,"Boone township, Watauga County, North Carolina",9922.0,4506.0,4506.0,3655.0,851.0,0.0,5416.0,189,90332,37
+3708391372,"Halifax township, Halifax County, North Carolina",2265.0,627.0,627.0,599.0,28.0,0.0,1638.0,083,91372,37
+3708392432,"Palmyra township, Halifax County, North Carolina",1045.0,458.0,458.0,412.0,46.0,0.0,587.0,083,92432,37
+3708390752,"Conoconnara township, Halifax County, North Carolina",314.0,130.0,130.0,122.0,8.0,0.0,184.0,083,90752,37
+3708391088,"Faucett township, Halifax County, North Carolina",1397.0,579.0,579.0,569.0,10.0,0.0,818.0,083,91088,37
+3708390368,"Brinkleyville township, Halifax County, North Carolina",4406.0,2358.0,2358.0,2048.0,310.0,0.0,2048.0,083,90368,37
+3708390468,"Butterwood township, Halifax County, North Carolina",552.0,173.0,173.0,155.0,18.0,0.0,379.0,083,90468,37
+3708391036,"Enfield township, Halifax County, North Carolina",4771.0,2347.0,2347.0,2017.0,330.0,0.0,2424.0,083,91036,37
+3708391876,"Littleton township, Halifax County, North Carolina",3490.0,1792.0,1792.0,1673.0,119.0,0.0,1698.0,083,91876,37
+3708392704,"Roanoke Rapids township, Halifax County, North Carolina",16587.0,9391.0,9336.0,8527.0,809.0,55.0,7196.0,083,92704,37
+3708392756,"Roseneath township, Halifax County, North Carolina",660.0,312.0,312.0,312.0,0.0,0.0,348.0,083,92756,37
+3708392864,"Scotland Neck township, Halifax County, North Carolina",2224.0,967.0,967.0,844.0,123.0,0.0,1257.0,083,92864,37
+3708393932,"Weldon township, Halifax County, North Carolina",4589.0,2510.0,2510.0,2245.0,265.0,0.0,2079.0,083,93932,37
+3700193520,"Township 6, Graham; Alamance County; North Carolina",18613.0,11619.0,11599.0,10865.0,734.0,20.0,6994.0,001,93520,37
+3700193704,"Township 11, Pleasant Grove; Alamance County; North Carolina",4004.0,2457.0,2453.0,2277.0,176.0,4.0,1547.0,001,93704,37
+3700193292,"Township 1, Patterson; Alamance County; North Carolina",3875.0,2368.0,2368.0,2311.0,57.0,0.0,1507.0,001,93292,37
+3700193556,"Township 7, Albright; Alamance County; North Carolina",3529.0,2230.0,2230.0,2112.0,118.0,0.0,1299.0,001,93556,37
+3700193656,"Township 9, Thompson; Alamance County; North Carolina",7687.0,5202.0,5202.0,4874.0,328.0,0.0,2485.0,001,93656,37
+3700193608,"Township 8, Newlin; Alamance County; North Carolina",5176.0,3422.0,3422.0,3296.0,126.0,0.0,1754.0,001,93608,37
+3700193328,"Township 2, Coble; Alamance County; North Carolina",4060.0,2590.0,2565.0,2513.0,52.0,25.0,1470.0,001,93328,37
+3700193684,"Township 10, Melville; Alamance County; North Carolina",14618.0,9797.0,9780.0,9166.0,614.0,17.0,4821.0,001,93684,37
+3700193444,"Township 4, Morton; Alamance County; North Carolina",4650.0,3013.0,3013.0,2894.0,119.0,0.0,1637.0,001,93444,37
+3700193476,"Township 5, Faucette; Alamance County; North Carolina",2611.0,1476.0,1476.0,1333.0,143.0,0.0,1135.0,001,93476,37
+3712593264,"Township 1, Carthage; Moore County; North Carolina",5577.0,3300.0,3203.0,3018.0,185.0,97.0,2277.0,125,93264,37
+3712593672,"Township 10, Little River; Moore County; North Carolina",3237.0,2167.0,2050.0,1932.0,118.0,117.0,1070.0,125,93672,37
+3712593316,"Township 2, Bensalem; Moore County; North Carolina",3004.0,1708.0,1708.0,1669.0,39.0,0.0,1296.0,125,93316,37
+3712593578,"Township 7, McNeill; Moore County; North Carolina",15805.0,8353.0,7823.0,7149.0,674.0,530.0,7452.0,125,93578,37
+3712593388,"Township 3, Sheffield; Moore County; North Carolina",4985.0,2830.0,2830.0,2503.0,327.0,0.0,2155.0,125,93388,37
+3712593448,"Township 4, Ritter; Moore County; North Carolina",2588.0,1418.0,1418.0,1356.0,62.0,0.0,1170.0,125,93448,37
+3712593468,"Township 5, Deep River; Moore County; North Carolina",410.0,132.0,132.0,132.0,0.0,0.0,278.0,125,93468,37
+3712593648,"Township 9, Mineral Springs; Moore County; North Carolina",22553.0,11802.0,11263.0,10936.0,327.0,539.0,10751.0,125,93648,37
+3712593524,"Township 6, Greenwood; Moore County; North Carolina",2874.0,1790.0,1750.0,1515.0,235.0,40.0,1084.0,125,93524,37
+3713992292,"Nixonton township, Pasquotank County, North Carolina",8049.0,4287.0,3937.0,3514.0,423.0,350.0,3762.0,139,92292,37
+3713992164,"Mount Hermon township, Pasquotank County, North Carolina",5793.0,3758.0,3654.0,3523.0,131.0,104.0,2035.0,139,92164,37
+3713990996,"Elizabeth City township, Pasquotank County, North Carolina",7738.0,4224.0,4162.0,3741.0,421.0,62.0,3514.0,139,90996,37
+3713992260,"Newland township, Pasquotank County, North Carolina",2325.0,1423.0,1413.0,1330.0,83.0,10.0,902.0,139,92260,37
+3713992804,"Salem township, Pasquotank County, North Carolina",1398.0,743.0,726.0,708.0,18.0,17.0,655.0,139,92804,37
+3713992576,"Providence township, Pasquotank County, North Carolina",6355.0,3781.0,3668.0,3517.0,151.0,113.0,2574.0,139,92576,37
+3715592640,"Red Springs township, Robeson County, North Carolina",4337.0,2138.0,2138.0,1924.0,214.0,0.0,2199.0,155,92640,37
+3715591936,"Lumber Bridge township, Robeson County, North Carolina",1658.0,842.0,830.0,745.0,85.0,12.0,816.0,155,91936,37
+3715592472,"Pembroke township, Robeson County, North Carolina",10342.0,4646.0,4630.0,3984.0,646.0,16.0,5696.0,155,92472,37
+3715592984,"Smiths township, Robeson County, North Carolina",5013.0,2698.0,2698.0,2426.0,272.0,0.0,2315.0,155,92984,37
+3715590120,"Back Swamp township, Robeson County, North Carolina",4255.0,1640.0,1633.0,1510.0,123.0,7.0,2615.0,155,90120,37
+3715591052,"Fairmont township, Robeson County, North Carolina",4103.0,1854.0,1854.0,1737.0,117.0,0.0,2249.0,155,91052,37
+3715591940,"Lumberton township, Robeson County, North Carolina",18986.0,10361.0,10353.0,9570.0,783.0,8.0,8625.0,155,91940,37
+3715592016,"Maxton township, Robeson County, North Carolina",4690.0,2164.0,2164.0,1866.0,298.0,0.0,2526.0,155,92016,37
+3715593952,"West Howellsville township, Robeson County, North Carolina",2220.0,1336.0,1336.0,1251.0,85.0,0.0,884.0,155,93952,37
+3715592484,"Philadelphus township, Robeson County, North Carolina",2987.0,1468.0,1468.0,1391.0,77.0,0.0,1519.0,155,92484,37
+3715593120,"Sterlings township, Robeson County, North Carolina",795.0,340.0,340.0,305.0,35.0,0.0,455.0,155,93120,37
+3715593236,"Thompson township, Robeson County, North Carolina",1014.0,528.0,528.0,429.0,99.0,0.0,486.0,155,93236,37
+3715593812,"Union township, Robeson County, North Carolina",2644.0,1488.0,1488.0,1268.0,220.0,0.0,1156.0,155,93812,37
+3715592608,"Raft Swamp township, Robeson County, North Carolina",2654.0,1332.0,1332.0,1239.0,93.0,0.0,1322.0,155,92608,37
+3715592656,"Rennert township, Robeson County, North Carolina",2490.0,1392.0,1392.0,1302.0,90.0,0.0,1098.0,155,92656,37
+3715592780,"Saddletree township, Robeson County, North Carolina",3842.0,2153.0,2153.0,1941.0,212.0,0.0,1689.0,155,92780,37
+3715593004,"Smyrna township, Robeson County, North Carolina",1729.0,872.0,872.0,792.0,80.0,0.0,857.0,155,93004,37
+3715593962,"Whitehouse township, Robeson County, North Carolina",913.0,320.0,320.0,293.0,27.0,0.0,593.0,155,93962,37
+3715592420,"Orrum township, Robeson County, North Carolina",1682.0,754.0,754.0,721.0,33.0,0.0,928.0,155,92420,37
+3700193712,"Township 12, Burlington; Alamance County; North Carolina",29780.0,18659.0,18634.0,17142.0,1492.0,25.0,11121.0,001,93712,37
+3700193368,"Township 3, Boone Station; Alamance County; North Carolina",23196.0,13235.0,13198.0,12556.0,642.0,37.0,9961.0,001,93368,37
+3700193732,"Township 13, Haw River; Alamance County; North Carolina",4351.0,2668.0,2668.0,2567.0,101.0,0.0,1683.0,001,93732,37
+3717790736,"Columbia township, Tyrrell County, North Carolina",2501.0,1079.0,1079.0,974.0,105.0,0.0,1422.0,177,90736,37
+3717793040,"South Fork township, Tyrrell County, North Carolina",52.0,0.0,0.0,0.0,0.0,0.0,52.0,177,93040,37
+3702190088,"Asheville township, Buncombe County, North Carolina",14639.0,9647.0,9647.0,8956.0,691.0,0.0,4992.0,021,90088,37
+3702190086,"Asheville city, Buncombe County, North Carolina",75011.0,48858.0,48672.0,46512.0,2160.0,186.0,26153.0,021,90086,37
+3702190284,"Black Mountain township, Buncombe County, North Carolina",12307.0,6495.0,6489.0,6154.0,335.0,6.0,5812.0,021,90284,37
+3702191116,"Flat Creek township, Buncombe County, North Carolina",5015.0,3212.0,3212.0,3127.0,85.0,0.0,1803.0,021,91116,37
+3702193180,"Swannanoa township, Buncombe County, North Carolina",13070.0,7961.0,7961.0,7545.0,416.0,0.0,5109.0,021,93180,37
+3702391928,"Lower Fork township, Burke County, North Carolina",2876.0,1405.0,1405.0,1337.0,68.0,0.0,1471.0,023,91928,37
+3702390912,"Drexel township, Burke County, North Carolina",5807.0,3219.0,3200.0,3026.0,174.0,19.0,2588.0,023,90912,37
+3702392592,"Quaker Meadows township, Burke County, North Carolina",6309.0,3809.0,3809.0,3508.0,301.0,0.0,2500.0,023,92592,37
+3702391572,"Icard township, Burke County, North Carolina",14217.0,8883.0,8883.0,7714.0,1169.0,0.0,5334.0,023,91572,37
+3702391676,"Jonas Ridge township, Burke County, North Carolina",583.0,212.0,212.0,193.0,19.0,0.0,371.0,023,91676,37
+3702393836,"Upper Fork township, Burke County, North Carolina",786.0,496.0,496.0,488.0,8.0,0.0,290.0,023,93836,37
+3705790756,"Conrad Hill township, Davidson County, North Carolina",7901.0,4448.0,4435.0,4125.0,310.0,13.0,3453.0,057,90756,37
+3705790780,"Cotton Grove township, Davidson County, North Carolina",7327.0,4638.0,4638.0,4378.0,260.0,0.0,2689.0,057,90780,37
+3705793232,"Thomasville township, Davidson County, North Carolina",30678.0,19241.0,19166.0,17450.0,1716.0,75.0,11437.0,057,93232,37
+3705792644,"Reedy Creek township, Davidson County, North Carolina",4212.0,2993.0,2993.0,2772.0,221.0,0.0,1219.0,057,92644,37
+3705791028,"Emmons township, Davidson County, North Carolina",5394.0,3011.0,3011.0,2686.0,325.0,0.0,2383.0,057,91028,37
+3705792956,"Silver Hill township, Davidson County, North Carolina",5002.0,3019.0,3019.0,2723.0,296.0,0.0,1983.0,057,92956,37
+3705794112,"Yadkin College township, Davidson County, North Carolina",674.0,384.0,384.0,361.0,23.0,0.0,290.0,057,94112,37
+3705791796,"Lexington township, Davidson County, North Carolina",24280.0,12846.0,12846.0,11228.0,1618.0,0.0,11434.0,057,91796,37
+3705791628,"Jackson Hill township, Davidson County, North Carolina",1012.0,587.0,587.0,551.0,36.0,0.0,425.0,057,91628,37
+3705791392,"Hampton township, Davidson County, North Carolina",1223.0,828.0,828.0,817.0,11.0,0.0,395.0,057,91392,37
+3705791440,"Healing Spring township, Davidson County, North Carolina",2165.0,1338.0,1338.0,1234.0,104.0,0.0,827.0,057,91440,37
+3705792064,"Midway township, Davidson County, North Carolina",10496.0,6608.0,6608.0,6137.0,471.0,0.0,3888.0,057,92064,37
+3705790008,"Abbotts Creek township, Davidson County, North Carolina",10247.0,6711.0,6706.0,6409.0,297.0,5.0,3536.0,057,90008,37
+3706191060,"Faison township, Duplin County, North Carolina",3337.0,2135.0,2135.0,1985.0,150.0,0.0,1202.0,061,91060,37
+3705790032,"Alleghany township, Davidson County, North Carolina",745.0,541.0,541.0,430.0,111.0,0.0,204.0,057,90032,37
+3705790328,"Boone township, Davidson County, North Carolina",4019.0,2560.0,2560.0,2343.0,217.0,0.0,1459.0,057,90328,37
+3705790076,"Arcadia township, Davidson County, North Carolina",8877.0,5713.0,5713.0,5465.0,248.0,0.0,3164.0,057,90076,37
+3706191600,"Island Creek township, Duplin County, North Carolina",9148.0,5006.0,5006.0,4324.0,682.0,0.0,4142.0,061,91600,37
+3706192728,"Rockfish township, Duplin County, North Carolina",1642.0,886.0,886.0,770.0,116.0,0.0,756.0,061,92728,37
+3706192752,"Rose Hill township, Duplin County, North Carolina",2601.0,1508.0,1508.0,1381.0,127.0,0.0,1093.0,061,92752,37
+3706194092,"Wolfscrape township, Duplin County, North Carolina",2139.0,1526.0,1511.0,1341.0,170.0,15.0,613.0,061,94092,37
+3706191240,"Glisson township, Duplin County, North Carolina",2264.0,1410.0,1410.0,1219.0,191.0,0.0,854.0,061,91240,37
+3706191820,"Limestone township, Duplin County, North Carolina",6170.0,3743.0,3710.0,3454.0,256.0,33.0,2427.0,061,91820,37
+3706192972,"Smith township, Duplin County, North Carolina",1954.0,1170.0,1170.0,1062.0,108.0,0.0,784.0,061,92972,37
+3706191960,"Magnolia township, Duplin County, North Carolina",2250.0,1310.0,1310.0,1149.0,161.0,0.0,940.0,061,91960,37
+3706190864,"Cypress Creek township, Duplin County, North Carolina",2814.0,1660.0,1651.0,1586.0,65.0,9.0,1154.0,061,90864,37
+3706193900,"Warsaw township, Duplin County, North Carolina",4615.0,2621.0,2621.0,2496.0,125.0,0.0,1994.0,061,93900,37
+3706191688,"Kenansville township, Duplin County, North Carolina",4141.0,2158.0,2158.0,2036.0,122.0,0.0,1983.0,061,91688,37
+3706190020,"Albertson township, Duplin County, North Carolina",3152.0,2139.0,2139.0,1875.0,264.0,0.0,1013.0,061,90020,37
+3706391972,"Mangum township, Durham County, North Carolina",8190.0,3129.0,3103.0,2847.0,256.0,26.0,5061.0,063,91972,37
+3706392344,"Oak Grove township, Durham County, North Carolina",36464.0,26965.0,26951.0,25175.0,1776.0,14.0,9499.0,063,92344,37
+3706391760,"Lebanon township, Durham County, North Carolina",15724.0,10310.0,10310.0,9771.0,539.0,0.0,5414.0,063,91760,37
+3706390932,"Durham township, Durham County, North Carolina",91413.0,57355.0,57242.0,53082.0,4160.0,113.0,34058.0,063,90932,37
+3706393764,"Triangle township, Durham County, North Carolina",86860.0,64221.0,64045.0,61330.0,2715.0,176.0,22639.0,063,93764,37
+3706390516,"Carr township, Durham County, North Carolina",3139.0,2228.0,2228.0,2169.0,59.0,0.0,911.0,063,90516,37
+3709191968,"Maneys Neck township, Hertford County, North Carolina",1124.0,595.0,554.0,457.0,97.0,41.0,529.0,091,91968,37
+3709194076,"Winton township, Hertford County, North Carolina",4318.0,1395.0,1393.0,1264.0,129.0,2.0,2923.0,091,94076,37
+3709190016,"Ahoskie township, Hertford County, North Carolina",6640.0,3823.0,3819.0,3429.0,390.0,4.0,2817.0,091,90016,37
+3710593580,"Township 7, Pocket; Lee County; North Carolina",4537.0,2980.0,2948.0,2792.0,156.0,32.0,1557.0,105,93580,37
+3709191412,"Harrellsville township, Hertford County, North Carolina",980.0,538.0,538.0,532.0,6.0,0.0,442.0,091,91412,37
+3709192188,"Murfreesboro township, Hertford County, North Carolina",4560.0,2382.0,2382.0,2085.0,297.0,0.0,2178.0,091,92188,37
+3709192784,"St. Johns township, Hertford County, North Carolina",2505.0,1497.0,1497.0,1396.0,101.0,0.0,1008.0,091,92784,37
+3710593372,"Township 3, Cape Fear; Lee County; North Carolina",3267.0,2115.0,2111.0,1870.0,241.0,4.0,1152.0,105,93372,37
+3710593548,"Township 6, West Sanford; Lee County; North Carolina",14831.0,10243.0,10152.0,9566.0,586.0,91.0,4588.0,105,93548,37
+3710593428,"Township 4, Deep River; Lee County; North Carolina",2027.0,1147.0,1147.0,1099.0,48.0,0.0,880.0,105,93428,37
+3710593472,"Township 5, East Sanford; Lee County; North Carolina",5051.0,2757.0,2757.0,2570.0,187.0,0.0,2294.0,105,93472,37
+3710593280,"Township 1, Greenwood; Lee County; North Carolina",6626.0,4251.0,4114.0,3615.0,499.0,137.0,2375.0,105,93280,37
+3712994044,"Wilmington township, New Hanover County, North Carolina",97265.0,61497.0,61283.0,56681.0,4602.0,214.0,35768.0,129,94044,37
+3710593336,"Township 2, Jonesboro; Lee County; North Carolina",10139.0,5981.0,5899.0,5471.0,428.0,82.0,4158.0,105,93336,37
+3712991404,"Harnett township, New Hanover County, North Carolina",33362.0,22446.0,22207.0,21422.0,785.0,239.0,10916.0,129,91404,37
+3712990508,"Cape Fear township, New Hanover County, North Carolina",16064.0,9434.0,9415.0,8594.0,821.0,19.0,6630.0,129,90508,37
+3712991092,"Federal Point township, New Hanover County, North Carolina",23217.0,14758.0,14721.0,13346.0,1375.0,37.0,8459.0,129,91092,37
+3712992008,"Masonboro township, New Hanover County, North Carolina",12412.0,7807.0,7807.0,7326.0,481.0,0.0,4605.0,129,92008,37
+3714193804,"Union township, Pender County, North Carolina",3841.0,2371.0,2330.0,1946.0,384.0,41.0,1470.0,141,93804,37
+3714190728,"Columbia township, Pender County, North Carolina",2034.0,1329.0,1329.0,1230.0,99.0,0.0,705.0,141,90728,37
+3714190496,"Canetuck township, Pender County, North Carolina",286.0,144.0,144.0,144.0,0.0,0.0,142.0,141,90496,37
+3714191900,"Long Creek township, Pender County, North Carolina",2155.0,1336.0,1336.0,1246.0,90.0,0.0,819.0,141,91900,37
+3714192744,"Rocky Point township, Pender County, North Carolina",5443.0,3702.0,3702.0,3307.0,395.0,0.0,1741.0,141,92744,37
+3714193248,"Topsail township, Pender County, North Carolina",20560.0,12431.0,12021.0,11307.0,714.0,410.0,8129.0,141,93248,37
+3714191272,"Grady township, Pender County, North Carolina",2076.0,1216.0,1216.0,1052.0,164.0,0.0,860.0,141,91272,37
+3714191516,"Holly township, Pender County, North Carolina",2202.0,1261.0,1252.0,1162.0,90.0,9.0,941.0,141,91516,37
+3714190444,"Burgaw township, Pender County, North Carolina",6777.0,3139.0,3139.0,2861.0,278.0,0.0,3638.0,141,90444,37
+3714190548,"Caswell township, Pender County, North Carolina",929.0,540.0,540.0,513.0,27.0,0.0,389.0,141,90548,37
+3719191280,"Grantham township, Wayne County, North Carolina",3863.0,2493.0,2482.0,2358.0,124.0,11.0,1370.0,191,91280,37
+3719190428,"Buck Swamp township, Wayne County, North Carolina",5657.0,3982.0,3790.0,3510.0,280.0,192.0,1675.0,191,90428,37
+3719191576,"Indian Springs township, Wayne County, North Carolina",5658.0,3797.0,3778.0,3330.0,448.0,19.0,1861.0,191,91576,37
+3719192848,"Saulston township, Wayne County, North Carolina",5734.0,3813.0,3625.0,3338.0,287.0,188.0,1921.0,191,92848,37
+3719193138,"Stoney Creek township, Wayne County, North Carolina",13766.0,8388.0,7752.0,7020.0,732.0,636.0,5378.0,191,93138,37
+3719190384,"Brogden township, Wayne County, North Carolina",16726.0,9856.0,9736.0,8719.0,1017.0,120.0,6870.0,191,90384,37
+3719192200,"Nahunta township, Wayne County, North Carolina",2973.0,1812.0,1798.0,1688.0,110.0,14.0,1161.0,191,92200,37
+3719192256,"New Hope township, Wayne County, North Carolina",13375.0,8911.0,7399.0,6848.0,551.0,1512.0,4464.0,191,92256,37
+3719191260,"Goldsboro township, Wayne County, North Carolina",17042.0,9066.0,8861.0,7309.0,1552.0,205.0,7976.0,191,91260,37
+3706792062,"Middle Fork II township, Forsyth County, North Carolina",1947.0,1102.0,1102.0,1013.0,89.0,0.0,845.0,067,92062,37
+3704391466,"Hiawassee township, Clay County, North Carolina",1640.0,870.0,870.0,870.0,0.0,0.0,770.0,043,91466,37
+3706792061,"Middle Fork I township, Forsyth County, North Carolina",1511.0,911.0,911.0,859.0,52.0,0.0,600.0,067,92061,37
+3719191300,"Great Swamp township, Wayne County, North Carolina",1822.0,1135.0,1135.0,1135.0,0.0,0.0,687.0,191,91300,37
+3719191136,"Fork township, Wayne County, North Carolina",8670.0,4755.0,4703.0,4436.0,267.0,52.0,3915.0,191,91136,37
+3719192492,"Pikeville township, Wayne County, North Carolina",2869.0,1806.0,1789.0,1617.0,172.0,17.0,1063.0,191,92492,37
+3703393137,"Stoney Creek township, Caswell County, North Carolina",2892.0,1696.0,1696.0,1648.0,48.0,0.0,1196.0,033,93137,37
+3704793928,"Welches Creek township, Columbus County, North Carolina",1517.0,767.0,767.0,739.0,28.0,0.0,750.0,047,93928,37
+3715591200,"Gaddys township, Robeson County, North Carolina",1019.0,542.0,542.0,478.0,64.0,0.0,477.0,155,91200,37
+3715594080,"Wisharts township, Robeson County, North Carolina",4630.0,2707.0,2694.0,2541.0,153.0,13.0,1923.0,155,94080,37
+3712593616,"Township 8, Sandhills; Moore County; North Carolina",15272.0,9636.0,9089.0,8458.0,631.0,547.0,5636.0,125,93616,37
+3704590686,"Cleveland, Cleveland County, North Carolina",78236.0,45102.0,45060.0,40429.0,4631.0,42.0,33134.0,045,90686,37
+3714991302,"Green Creek township, Polk County, North Carolina",2802.0,1505.0,1505.0,1481.0,24.0,0.0,1297.0,149,91302,37
+3701592096,"Mitchell township, Bertie County, North Carolina",2017.0,967.0,967.0,832.0,135.0,0.0,1050.0,015,92096,37
+3701593008,"Snakebite township, Bertie County, North Carolina",1224.0,684.0,684.0,594.0,90.0,0.0,540.0,015,93008,37
+3711593706,"Township 11, Revere-Rice Cove; Madison County; North Carolina",239.0,137.0,137.0,137.0,0.0,0.0,102.0,115,93706,37
+3711993392,"Township 3, Steele Creek; Mecklenburg County; North Carolina",8074.0,5799.0,5791.0,5484.0,307.0,8.0,2275.0,119,93392,37
+3717791360,"Gum Neck township, Tyrrell County, North Carolina",307.0,205.0,205.0,178.0,27.0,0.0,102.0,177,91360,37
+3717790044,"Alligator township, Tyrrell County, North Carolina",109.0,54.0,54.0,54.0,0.0,0.0,55.0,177,90044,37
+3717792872,"Scuppernong township, Tyrrell County, North Carolina",597.0,361.0,361.0,349.0,12.0,0.0,236.0,177,92872,37
+3707990520,"Carrs township, Greene County, North Carolina",698.0,437.0,437.0,392.0,45.0,0.0,261.0,079,90520,37
+3707992416,"Ormonds township, Greene County, North Carolina",1567.0,979.0,979.0,969.0,10.0,0.0,588.0,079,92416,37
+3707993020,"Snow Hill township, Greene County, North Carolina",2283.0,1265.0,1232.0,1125.0,107.0,33.0,1018.0,079,93020,37
+3707992392,"Olds township, Greene County, North Carolina",3577.0,846.0,846.0,760.0,86.0,0.0,2731.0,079,92392,37
+3707993076,"Speights Bridge township, Greene County, North Carolina",1528.0,880.0,880.0,784.0,96.0,0.0,648.0,079,93076,37
+3707991648,"Jason township, Greene County, North Carolina",1701.0,1106.0,1106.0,946.0,160.0,0.0,595.0,079,91648,37
+3707991532,"Hookerton township, Greene County, North Carolina",3095.0,1859.0,1859.0,1736.0,123.0,0.0,1236.0,079,91532,37
+3707992928,"Shine township, Greene County, North Carolina",1556.0,889.0,889.0,754.0,135.0,0.0,667.0,079,92928,37
+3707990440,"Bull Head township, Greene County, North Carolina",1052.0,747.0,740.0,659.0,81.0,7.0,305.0,079,90440,37
+3708793972,"White Oak township, Haywood County, North Carolina",288.0,158.0,158.0,144.0,14.0,0.0,130.0,087,93972,37
+3708790552,"Cataloochee township, Haywood County, North Carolina",74.0,24.0,24.0,24.0,0.0,0.0,50.0,087,90552,37
+3708790568,"Cecil township, Haywood County, North Carolina",578.0,396.0,396.0,357.0,39.0,0.0,182.0,087,90568,37
+3708790704,"Clyde township, Haywood County, North Carolina",5423.0,2988.0,2988.0,2903.0,85.0,0.0,2435.0,087,90704,37
+3708791104,"Fines Creek township, Haywood County, North Carolina",890.0,397.0,397.0,364.0,33.0,0.0,493.0,087,91104,37
+3708791608,"Ivy Hill township, Haywood County, North Carolina",5314.0,2613.0,2613.0,2533.0,80.0,0.0,2701.0,087,91608,37
+3708792488,"Pigeon township, Haywood County, North Carolina",4588.0,2557.0,2557.0,2400.0,157.0,0.0,2031.0,087,92488,37
+3708790956,"East Fork township, Haywood County, North Carolina",1447.0,679.0,679.0,625.0,54.0,0.0,768.0,087,90956,37
+3708793920,"Waynesville township, Haywood County, North Carolina",16683.0,8412.0,8412.0,7946.0,466.0,0.0,8271.0,087,93920,37
+3708790196,"Beaverdam township, Haywood County, North Carolina",10222.0,6051.0,6051.0,5660.0,391.0,0.0,4171.0,087,90196,37
+3708790800,"Crabtree township, Haywood County, North Carolina",1234.0,719.0,719.0,704.0,15.0,0.0,515.0,087,90800,37
+3708791680,"Jonathan Creek township, Haywood County, North Carolina",2725.0,1370.0,1370.0,1361.0,9.0,0.0,1355.0,087,91680,37
+3708791592,"Iron Duff township, Haywood County, North Carolina",906.0,526.0,526.0,497.0,29.0,0.0,380.0,087,91592,37
+3712190488,"Cane Creek township, Mitchell County, North Carolina",596.0,294.0,294.0,294.0,0.0,0.0,302.0,121,90488,37
+3712191140,"Fork Mountain-Little Rock Creek township, Mitchell County, North Carolina",908.0,458.0,458.0,374.0,84.0,0.0,450.0,121,91140,37
+3712192548,"Poplar township, Mitchell County, North Carolina",237.0,71.0,71.0,68.0,3.0,0.0,166.0,121,92548,37
+3712191285,"Grassy Creek township, Mitchell County, North Carolina",6430.0,3355.0,3355.0,3226.0,129.0,0.0,3075.0,121,91285,37
+3715590372,"Britts township, Robeson County, North Carolina",2356.0,1270.0,1270.0,1196.0,74.0,0.0,1086.0,155,90372,37
+3715590460,"Burnt Swamp township, Robeson County, North Carolina",2453.0,1378.0,1378.0,1148.0,230.0,0.0,1075.0,155,90460,37
+3715592444,"Parkton township, Robeson County, North Carolina",3337.0,1845.0,1843.0,1637.0,206.0,2.0,1492.0,155,92444,37
+3715592760,"Rowland township, Robeson County, North Carolina",2176.0,1009.0,984.0,896.0,88.0,25.0,1167.0,155,92760,37
+3715592796,"St. Pauls township, Robeson County, North Carolina",6824.0,3649.0,3649.0,3199.0,450.0,0.0,3175.0,155,92796,37
+3715590028,"Alfordsville township, Robeson County, North Carolina",1677.0,783.0,783.0,606.0,177.0,0.0,894.0,155,90028,37
+3717392208,"Nantahala township, Swain County, North Carolina",1841.0,1021.0,1021.0,965.0,56.0,0.0,820.0,173,92208,37
+3718390576,"Cedar Fork township, Wake County, North Carolina",38710.0,29458.0,29419.0,28596.0,823.0,39.0,9252.0,183,90576,37
+3718392056,"Middle Creek township, Wake County, North Carolina",38281.0,26551.0,26428.0,24993.0,1435.0,123.0,11730.0,183,92056,37
+3718392612,"Raleigh township, Wake County, North Carolina",108725.0,67306.0,67165.0,63209.0,3956.0,141.0,41419.0,183,92612,37
+3718391992,"Marks Creek township, Wake County, North Carolina",17974.0,12071.0,12071.0,11314.0,757.0,0.0,5903.0,183,91992,37
+3718392264,"New Light township, Wake County, North Carolina",6688.0,4704.0,4704.0,4440.0,264.0,0.0,1984.0,183,92264,37
+3718390164,"Bartons Creek township, Wake County, North Carolina",16746.0,10828.0,10828.0,10330.0,498.0,0.0,5918.0,183,90164,37
+3718390536,"Cary township, Wake County, North Carolina",64727.0,46947.0,46931.0,45049.0,1882.0,16.0,17780.0,183,90536,37
+3718391772,"Leesville township, Wake County, North Carolina",34486.0,26636.0,26611.0,25585.0,1026.0,25.0,7850.0,183,91772,37
+3718392036,"Meredith township, Wake County, North Carolina",13993.0,10206.0,10206.0,10023.0,183.0,0.0,3787.0,183,92036,37
+3718393984,"White Oak township, Wake County, North Carolina",67006.0,49773.0,49715.0,47824.0,1891.0,58.0,17233.0,183,93984,37
+3718391868,"Little River township, Wake County, North Carolina",10792.0,7100.0,7050.0,6538.0,512.0,50.0,3692.0,183,91868,37
+3718392228,"Neuse township, Wake County, North Carolina",61878.0,45915.0,45846.0,43392.0,2454.0,69.0,15963.0,183,92228,37
+3718392440,"Panther Branch township, Wake County, North Carolina",19227.0,13650.0,13650.0,12968.0,682.0,0.0,5577.0,183,92440,37
+3718393200,"Swift Creek township, Wake County, North Carolina",46700.0,33628.0,33487.0,31981.0,1506.0,141.0,13072.0,183,93200,37
+3712190128,"Bakersville township, Mitchell County, North Carolina",1418.0,697.0,689.0,674.0,15.0,8.0,721.0,121,90128,37
+3712193012,"Snow Creek township, Mitchell County, North Carolina",1613.0,909.0,909.0,870.0,39.0,0.0,704.0,121,93012,37
+3712191408,"Harrell township, Mitchell County, North Carolina",1050.0,499.0,499.0,463.0,36.0,0.0,551.0,121,91408,37
+3712192632,"Red Hill township, Mitchell County, North Carolina",147.0,67.0,67.0,67.0,0.0,0.0,80.0,121,92632,37
+3712190352,"Bradshaw township, Mitchell County, North Carolina",308.0,163.0,163.0,163.0,0.0,0.0,145.0,121,90352,37
+3704193400,"Township 3, Upper; Chowan County; North Carolina",1118.0,618.0,618.0,539.0,79.0,0.0,500.0,041,93400,37
+3704193456,"Township 4, Yeopim; Chowan County; North Carolina",1717.0,878.0,878.0,793.0,85.0,0.0,839.0,041,93456,37
+3704193348,"Township 2, Middle; Chowan County; North Carolina",2854.0,1439.0,1439.0,1284.0,155.0,0.0,1415.0,041,93348,37
+3704193276,"Township 1, Edenton; Chowan County; North Carolina",6015.0,3295.0,3242.0,2823.0,419.0,53.0,2720.0,041,93276,37
+3700592508,"Piney Creek township, Alleghany County, North Carolina",922.0,475.0,475.0,447.0,28.0,0.0,447.0,005,92508,37
+3700591204,"Gap Civil township, Alleghany County, North Carolina",3471.0,1740.0,1740.0,1668.0,72.0,0.0,1731.0,005,91204,37
+3700591232,"Glade Creek township, Alleghany County, North Carolina",1626.0,769.0,769.0,690.0,79.0,0.0,857.0,005,91232,37
+3700593960,"Whitehead township, Alleghany County, North Carolina",972.0,550.0,550.0,543.0,7.0,0.0,422.0,005,93960,37
+3702791556,"Hudson township, Caldwell County, North Carolina",9496.0,5098.0,5098.0,4663.0,435.0,0.0,4398.0,027,91556,37
+3700590808,"Cranberry township, Alleghany County, North Carolina",155.0,49.0,49.0,36.0,13.0,0.0,106.0,005,90808,37
+3700590640,"Cherry Lane township, Alleghany County, North Carolina",1467.0,804.0,804.0,755.0,49.0,0.0,663.0,005,90640,37
+3700592564,"Prathers Creek township, Alleghany County, North Carolina",649.0,328.0,328.0,308.0,20.0,0.0,321.0,005,92564,37
+3702791672,"Johns River township, Caldwell County, North Carolina",1465.0,868.0,868.0,805.0,63.0,0.0,597.0,027,91672,37
+3702792304,"North Catawba township, Caldwell County, North Carolina",5411.0,2951.0,2951.0,2772.0,179.0,0.0,2460.0,027,92304,37
+3702791700,"Kings Creek township, Caldwell County, North Carolina",1365.0,804.0,804.0,744.0,60.0,0.0,561.0,027,91700,37
+3702791780,"Lenoir township, Caldwell County, North Carolina",16264.0,9133.0,9133.0,8348.0,785.0,0.0,7131.0,027,91780,37
+3702791244,"Globe township, Caldwell County, North Carolina",351.0,239.0,239.0,215.0,24.0,0.0,112.0,027,91244,37
+3702791852,"Little River township, Caldwell County, North Carolina",3650.0,1982.0,1982.0,1862.0,120.0,0.0,1668.0,027,91852,37
+3702791924,"Lower Creek township, Caldwell County, North Carolina",9698.0,5097.0,5097.0,4645.0,452.0,0.0,4601.0,027,91924,37
+3702794052,"Wilson Creek township, Caldwell County, North Carolina",30.0,11.0,11.0,11.0,0.0,0.0,19.0,027,94052,37
+3702792452,"Patterson township, Caldwell County, North Carolina",1973.0,1227.0,1227.0,1142.0,85.0,0.0,746.0,027,92452,37
+3702792180,"Mulberry township, Caldwell County, North Carolina",939.0,471.0,471.0,435.0,36.0,0.0,468.0,027,92180,37
+3702794116,"Yadkin Valley township, Caldwell County, North Carolina",1187.0,784.0,784.0,707.0,77.0,0.0,403.0,027,94116,37
+3702791916,"Lovelady township, Caldwell County, North Carolina",14839.0,9359.0,9359.0,8662.0,697.0,0.0,5480.0,027,91916,37
+3703592284,"Newton township, Catawba County, North Carolina",25252.0,15234.0,15226.0,14035.0,1191.0,8.0,10018.0,035,92284,37
+3703590476,"Caldwell township, Catawba County, North Carolina",6496.0,4086.0,4086.0,3975.0,111.0,0.0,2410.0,035,90476,37
+3703590556,"Catawba township, Catawba County, North Carolina",6786.0,4126.0,4113.0,3808.0,305.0,13.0,2660.0,035,90556,37
+3703590140,"Bandy's township, Catawba County, North Carolina",4352.0,2611.0,2611.0,2342.0,269.0,0.0,1741.0,035,90140,37
+3703591636,"Jacobs Fork township, Catawba County, North Carolina",3947.0,2741.0,2741.0,2656.0,85.0,0.0,1206.0,035,91636,37
+3718391524,"Holly Springs township, Wake County, North Carolina",29196.0,20675.0,20596.0,19647.0,949.0,79.0,8521.0,183,91524,37
+3718391548,"House Creek township, Wake County, North Carolina",48825.0,35564.0,35527.0,34060.0,1467.0,37.0,13261.0,183,91548,37
+3701391896,"Long Acre township, Beaufort County, North Carolina",6795.0,3741.0,3741.0,3459.0,282.0,0.0,3054.0,013,91896,37
+3701392436,"Pantego township, Beaufort County, North Carolina",5852.0,3482.0,3482.0,3217.0,265.0,0.0,2370.0,013,92436,37
+3704790316,"Bogue township, Columbus County, North Carolina",2177.0,989.0,989.0,911.0,78.0,0.0,1188.0,047,90316,37
+3704790320,"Bolton township, Columbus County, North Carolina",1370.0,682.0,674.0,640.0,34.0,8.0,688.0,047,90320,37
+3704791044,"Fair Bluff township, Columbus County, North Carolina",1184.0,678.0,678.0,655.0,23.0,0.0,506.0,047,91044,37
+3704792624,"Ransom township, Columbus County, North Carolina",3633.0,2078.0,2078.0,1879.0,199.0,0.0,1555.0,047,92624,37
+3704793072,"South Williams township, Columbus County, North Carolina",4003.0,1944.0,1944.0,1872.0,72.0,0.0,2059.0,047,93072,37
+3704793872,"Waccamaw township, Columbus County, North Carolina",1751.0,795.0,795.0,726.0,69.0,0.0,956.0,047,93872,37
+3704794000,"Whiteville township, Columbus County, North Carolina",10348.0,4787.0,4787.0,4552.0,235.0,0.0,5561.0,047,94000,37
+3704790608,"Cerro Gordo township, Columbus County, North Carolina",3271.0,1125.0,1125.0,1062.0,63.0,0.0,2146.0,047,90608,37
+3704793216,"Tatums township, Columbus County, North Carolina",2378.0,1117.0,1117.0,982.0,135.0,0.0,1261.0,047,93216,37
+3704794020,"Williams township, Columbus County, North Carolina",3981.0,1867.0,1867.0,1784.0,83.0,0.0,2114.0,047,94020,37
+3704790436,"Bug Hill township, Columbus County, North Carolina",1830.0,1014.0,1014.0,1006.0,8.0,0.0,816.0,047,90436,37
+3704791764,"Lees township, Columbus County, North Carolina",2910.0,1687.0,1687.0,1556.0,131.0,0.0,1223.0,047,91764,37
+3704790612,"Chadbourn township, Columbus County, North Carolina",4322.0,2084.0,2084.0,1788.0,296.0,0.0,2238.0,047,90612,37
+3704793944,"Western Prong township, Columbus County, North Carolina",906.0,427.0,427.0,344.0,83.0,0.0,479.0,047,93944,37
+3710790760,"Contentnea Neck township, Lenoir County, North Carolina",2865.0,1663.0,1663.0,1355.0,308.0,0.0,1202.0,107,90760,37
+3710792144,"Moseley Hall township, Lenoir County, North Carolina",4679.0,2354.0,2342.0,2177.0,165.0,12.0,2325.0,107,92144,37
+3710792820,"Sand Hill township, Lenoir County, North Carolina",655.0,454.0,442.0,421.0,21.0,12.0,201.0,107,92820,37
+3710793060,"Southwest township, Lenoir County, North Carolina",1018.0,571.0,571.0,537.0,34.0,0.0,447.0,107,93060,37
+3710793760,"Trent township, Lenoir County, North Carolina",3111.0,2103.0,2103.0,1796.0,307.0,0.0,1008.0,107,93760,37
+3710791704,"Kinston township, Lenoir County, North Carolina",16413.0,8886.0,8843.0,7574.0,1269.0,43.0,7527.0,107,91704,37
+3710792520,"Pink Hill township, Lenoir County, North Carolina",2520.0,1606.0,1606.0,1529.0,77.0,0.0,914.0,107,92520,37
+3710791588,"Institute township, Lenoir County, North Carolina",1911.0,1190.0,1190.0,1033.0,157.0,0.0,721.0,107,91588,37
+3710792224,"Neuse township, Lenoir County, North Carolina",3851.0,2523.0,2523.0,2304.0,219.0,0.0,1328.0,107,92224,37
+3710793856,"Vance township, Lenoir County, North Carolina",2843.0,1607.0,1607.0,1380.0,227.0,0.0,1236.0,107,93856,37
+3710794096,"Woodington township, Lenoir County, North Carolina",1515.0,1032.0,1032.0,954.0,78.0,0.0,483.0,107,94096,37
+3710791072,"Falling Creek township, Lenoir County, North Carolina",5044.0,3073.0,3073.0,2813.0,260.0,0.0,1971.0,107,91072,37
+3710990560,"Catawba Springs township, Lincoln County, North Carolina",19135.0,12293.0,12293.0,11737.0,556.0,0.0,6842.0,109,90560,37
+3710991824,"Lincolnton township, Lincoln County, North Carolina",16576.0,9964.0,9964.0,8642.0,1322.0,0.0,6612.0,109,91824,37
+3710991552,"Howards Creek township, Lincoln County, North Carolina",7555.0,4679.0,4679.0,4385.0,294.0,0.0,2876.0,109,91552,37
+3710991596,"Ironton township, Lincoln County, North Carolina",17196.0,10742.0,10742.0,9886.0,856.0,0.0,6454.0,109,91596,37
+3710992300,"North Brook township, Lincoln County, North Carolina",4634.0,2605.0,2605.0,2450.0,155.0,0.0,2029.0,109,92300,37
+3715992584,"Providence township, Rowan County, North Carolina",7717.0,4388.0,4388.0,4132.0,256.0,0.0,3329.0,159,92584,37
+3715992812,"Salisbury township, Rowan County, North Carolina",23001.0,13119.0,13097.0,11126.0,1971.0,22.0,9882.0,159,92812,37
+3715993112,"Steele township, Rowan County, North Carolina",1655.0,1165.0,1165.0,1040.0,125.0,0.0,490.0,159,93112,37
+3715990660,"China Grove township, Rowan County, North Carolina",19982.0,12625.0,12614.0,11769.0,845.0,11.0,7357.0,159,90660,37
+3715991160,"Franklin township, Rowan County, North Carolina",10327.0,6149.0,6149.0,5594.0,555.0,0.0,4178.0,159,91160,37
+3715990692,"Cleveland township, Rowan County, North Carolina",1945.0,1135.0,1135.0,874.0,261.0,0.0,810.0,159,90692,37
+3715993828,"Unity township, Rowan County, North Carolina",1778.0,1307.0,1307.0,1219.0,88.0,0.0,471.0,159,93828,37
+3715990100,"Atwell township, Rowan County, North Carolina",10150.0,6072.0,6072.0,5659.0,413.0,0.0,4078.0,159,90100,37
+3715991880,"Locke township, Rowan County, North Carolina",11026.0,6168.0,6168.0,5503.0,665.0,0.0,4858.0,159,91880,37
+3715992128,"Morgan township, Rowan County, North Carolina",2742.0,1379.0,1379.0,1249.0,130.0,0.0,1363.0,159,92128,37
+3718191452,"Henderson township, Vance County, North Carolina",15488.0,8272.0,8272.0,7004.0,1268.0,0.0,7216.0,181,91452,37
+3718193752,"Townsville township, Vance County, North Carolina",1107.0,364.0,364.0,348.0,16.0,0.0,743.0,181,93752,37
+3718190868,"Dabney township, Vance County, North Carolina",2542.0,1657.0,1657.0,1513.0,144.0,0.0,885.0,181,90868,37
+3718192050,"Middleburg township, Vance County, North Carolina",2896.0,1825.0,1825.0,1702.0,123.0,0.0,1071.0,181,92050,37
+3718194028,"Williamsboro township, Vance County, North Carolina",2844.0,1903.0,1903.0,1661.0,242.0,0.0,941.0,181,94028,37
+3718191712,"Kittrell township, Vance County, North Carolina",4306.0,2530.0,2530.0,2375.0,155.0,0.0,1776.0,181,91712,37
+3718193916,"Watkins township, Vance County, North Carolina",661.0,456.0,456.0,440.0,16.0,0.0,205.0,181,93916,37
+3718192824,"Sandy Creek township, Vance County, North Carolina",5220.0,3367.0,3367.0,3086.0,281.0,0.0,1853.0,181,92824,37
+3703992192,"Murphy township, Cherokee County, North Carolina",9016.0,4315.0,4315.0,4059.0,256.0,0.0,4701.0,039,92192,37
+3703991544,"Hothouse township, Cherokee County, North Carolina",1348.0,577.0,577.0,542.0,35.0,0.0,771.0,039,91544,37
+3703992932,"Shoal Creek township, Cherokee County, North Carolina",2384.0,896.0,896.0,830.0,66.0,0.0,1488.0,039,92932,37
+3703992336,"Notla township, Cherokee County, North Carolina",4272.0,1857.0,1857.0,1721.0,136.0,0.0,2415.0,039,92336,37
+3703990188,"Beaverdam township, Cherokee County, North Carolina",553.0,215.0,215.0,182.0,33.0,0.0,338.0,039,90188,37
+3703993852,"Valleytown township, Cherokee County, North Carolina",5615.0,2892.0,2892.0,2591.0,301.0,0.0,2723.0,039,93852,37
+3705392552,"Poplar Branch township, Currituck County, North Carolina",6959.0,4505.0,4482.0,4268.0,214.0,23.0,2454.0,053,92552,37
+3705390816,"Crawford township, Currituck County, North Carolina",6251.0,3853.0,3753.0,3468.0,285.0,100.0,2398.0,053,90816,37
+3705392176,"Moyock township, Currituck County, North Carolina",5673.0,3762.0,3679.0,3595.0,84.0,83.0,1911.0,053,92176,37
+3705391188,"Fruitville township, Currituck County, North Carolina",1368.0,840.0,831.0,807.0,24.0,9.0,528.0,053,91188,37
+3717993860,"Vance township, Union County, North Carolina",42823.0,30325.0,30300.0,28824.0,1476.0,25.0,12498.0,179,93860,37
+3717992108,"Monroe township, Union County, North Carolina",41980.0,28228.0,28219.0,25835.0,2384.0,9.0,13752.0,179,92108,37
+3717991736,"Lanes Creek township, Union County, North Carolina",2416.0,1561.0,1561.0,1466.0,95.0,0.0,855.0,179,91736,37
+3717992004,"Marshville township, Union County, North Carolina",7460.0,4772.0,4772.0,4248.0,524.0,0.0,2688.0,179,92004,37
+3717992280,"New Salem township, Union County, North Carolina",2653.0,1989.0,1989.0,1934.0,55.0,0.0,664.0,179,92280,37
+3717991624,"Jackson township, Union County, North Carolina",9532.0,6273.0,6216.0,5730.0,486.0,57.0,3259.0,179,91624,37
+3717992836,"Sandy Ridge township, Union County, North Carolina",39609.0,26798.0,26798.0,25661.0,1137.0,0.0,12811.0,179,92836,37
+3712392464,"Pee Dee township, Montgomery County, North Carolina",1457.0,763.0,763.0,763.0,0.0,0.0,694.0,123,92464,37
+3712392412,"Ophir township, Montgomery County, North Carolina",850.0,384.0,374.0,374.0,0.0,10.0,466.0,123,92412,37
+3712393100,"Star township, Montgomery County, North Carolina",2496.0,1608.0,1608.0,1391.0,217.0,0.0,888.0,123,93100,37
+3712392748,"Rocky Springs township, Montgomery County, North Carolina",1247.0,523.0,523.0,402.0,121.0,0.0,724.0,123,92748,37
+3712390272,"Biscoe township, Montgomery County, North Carolina",4318.0,2560.0,2554.0,2438.0,116.0,6.0,1758.0,123,90272,37
+3712392160,"Mount Gilead township, Montgomery County, North Carolina",2649.0,1129.0,1129.0,1056.0,73.0,0.0,1520.0,123,92160,37
+3712391856,"Little River township, Montgomery County, North Carolina",545.0,253.0,253.0,253.0,0.0,0.0,292.0,123,91856,37
+3712393772,"Troy township, Montgomery County, North Carolina",4719.0,2310.0,2310.0,2251.0,59.0,0.0,2409.0,123,93772,37
+3712393848,"Uwharrie township, Montgomery County, North Carolina",1335.0,666.0,666.0,666.0,0.0,0.0,669.0,123,93848,37
+3712390988,"Eldorado township, Montgomery County, North Carolina",1674.0,621.0,621.0,588.0,33.0,0.0,1053.0,123,90988,37
+3712390628,"Cheek Creek township, Montgomery County, North Carolina",562.0,400.0,400.0,359.0,41.0,0.0,162.0,123,90628,37
+3713393976,"White Oak township, Onslow County, North Carolina",15907.0,10777.0,9151.0,8209.0,942.0,1626.0,5130.0,133,93976,37
+3713393160,"Stump Sound township, Onslow County, North Carolina",16719.0,11285.0,8407.0,7499.0,908.0,2878.0,5434.0,133,93160,37
+3713393188,"Swansboro township, Onslow County, North Carolina",15240.0,9797.0,7857.0,7248.0,609.0,1940.0,5443.0,133,93188,37
+3713391502,"Hofmann Forest UT, Onslow County, North Carolina",17.0,7.0,7.0,7.0,0.0,0.0,10.0,133,91502,37
+3713390482,"Camp Lejeune UT, Onslow County, North Carolina",28603.0,26082.0,3171.0,2715.0,456.0,22911.0,2521.0,133,90482,37
+3713392672,"Richlands township, Onslow County, North Carolina",17028.0,11180.0,9053.0,8043.0,1010.0,2127.0,5848.0,133,92672,37
+3713391632,"Jacksonville township, Onslow County, North Carolina",56030.0,38049.0,31604.0,28180.0,3424.0,6445.0,17981.0,133,91632,37
+3713590268,"Bingham township, Orange County, North Carolina",5797.0,3979.0,3979.0,3842.0,137.0,0.0,1818.0,135,90268,37
+3713591040,"Eno township, Orange County, North Carolina",6294.0,3800.0,3800.0,3444.0,356.0,0.0,2494.0,135,91040,37
+3713590580,"Cedar Grove township, Orange County, North Carolina",4352.0,2775.0,2769.0,2609.0,160.0,6.0,1577.0,135,90580,37
+3713590632,"Cheeks township, Orange County, North Carolina",8380.0,5996.0,5979.0,5692.0,287.0,17.0,2384.0,135,90632,37
+3713591496,"Hillsborough township, Orange County, North Carolina",11565.0,7434.0,7434.0,6850.0,584.0,0.0,4131.0,135,91496,37
+3713591860,"Little River township, Orange County, North Carolina",2956.0,1916.0,1916.0,1794.0,122.0,0.0,1040.0,135,91860,37
+3713590620,"Chapel Hill township, Orange County, North Carolina",77610.0,50366.0,50366.0,48024.0,2342.0,0.0,27244.0,135,90620,37
+3715393116,"Steeles township, Richmond County, North Carolina",369.0,202.0,202.0,190.0,12.0,0.0,167.0,153,93116,37
+3715394088,"Wolf Pit township, Richmond County, North Carolina",6635.0,3926.0,3926.0,3465.0,461.0,0.0,2709.0,153,94088,37
+3715390200,"Beaverdam township, Richmond County, North Carolina",3436.0,1750.0,1480.0,1400.0,80.0,270.0,1686.0,153,90200,37
+3715392736,"Rockingham township, Richmond County, North Carolina",11429.0,5944.0,5942.0,5301.0,641.0,2.0,5485.0,153,92736,37
+3715391988,"Marks Creek township, Richmond County, North Carolina",10914.0,6029.0,6017.0,5374.0,643.0,12.0,4885.0,153,91988,37
+3715390280,"Black Jack township, Richmond County, North Carolina",596.0,368.0,368.0,324.0,44.0,0.0,228.0,153,90280,37
+3715392084,"Mineral Springs township, Richmond County, North Carolina",2725.0,1356.0,1356.0,1300.0,56.0,0.0,1369.0,153,92084,37
+3716190480,"Camp Creek township, Rutherford County, North Carolina",1031.0,413.0,413.0,413.0,0.0,0.0,618.0,161,90480,37
+3716191308,"Green Hill township, Rutherford County, North Carolina",2594.0,1650.0,1650.0,1434.0,216.0,0.0,944.0,161,91308,37
+3717990432,"Buford township, Union County, North Carolina",8267.0,5355.0,5355.0,5015.0,340.0,0.0,2912.0,179,90432,37
+3717991264,"Goose Creek township, Union County, North Carolina",12873.0,8617.0,8611.0,8203.0,408.0,6.0,4256.0,179,91264,37
+3719393092,"Stanton township, Wilkes County, North Carolina",503.0,197.0,197.0,197.0,0.0,0.0,306.0,193,93092,37
+3719392720,"Rock Creek township, Wilkes County, North Carolina",4471.0,2538.0,2538.0,2368.0,170.0,0.0,1933.0,193,92720,37
+3719390324,"Boomer township, Wilkes County, North Carolina",1692.0,1068.0,1068.0,989.0,79.0,0.0,624.0,193,90324,37
+3719390408,"Brushy Mountain township, Wilkes County, North Carolina",512.0,272.0,272.0,244.0,28.0,0.0,240.0,193,90408,37
+3719391012,"Elk township, Wilkes County, North Carolina",715.0,378.0,378.0,358.0,20.0,0.0,337.0,193,91012,37
+3719392116,"Moravian Falls township, Wilkes County, North Carolina",2616.0,1243.0,1232.0,1214.0,18.0,11.0,1373.0,193,92116,37
+3719390976,"Edwards township, Wilkes County, North Carolina",6395.0,3746.0,3746.0,3391.0,355.0,0.0,2649.0,193,90976,37
+3719393024,"Somers township, Wilkes County, North Carolina",784.0,399.0,399.0,399.0,0.0,0.0,385.0,193,93024,37
+3719391788,"Lewis Fork township, Wilkes County, North Carolina",1105.0,428.0,428.0,414.0,14.0,0.0,677.0,193,91788,37
+3719392184,"Mulberry township, Wilkes County, North Carolina",5190.0,2903.0,2903.0,2617.0,286.0,0.0,2287.0,193,92184,37
+3719392332,"North Wilkesboro township, Wilkes County, North Carolina",6068.0,3394.0,3394.0,2986.0,408.0,0.0,2674.0,193,92332,37
+3719393820,"Union township, Wilkes County, North Carolina",665.0,259.0,259.0,259.0,0.0,0.0,406.0,193,93820,37
+3719390072,"Antioch township, Wilkes County, North Carolina",870.0,533.0,533.0,497.0,36.0,0.0,337.0,193,90072,37
+3719391664,"Jobs Cabin township, Wilkes County, North Carolina",313.0,224.0,224.0,224.0,0.0,0.0,89.0,193,91664,37
+3719391908,"Lovelace township, Wilkes County, North Carolina",509.0,268.0,268.0,226.0,42.0,0.0,241.0,193,91908,37
+3719394012,"Wilkesboro township, Wilkes County, North Carolina",8768.0,4962.0,4956.0,4679.0,277.0,6.0,3806.0,193,94012,37
+3719390184,"Beaver Creek township, Wilkes County, North Carolina",224.0,179.0,179.0,153.0,26.0,0.0,45.0,193,90184,37
+3719393756,"Traphill township, Wilkes County, North Carolina",2666.0,1018.0,1018.0,974.0,44.0,0.0,1648.0,193,93756,37
+3719393888,"Walnut Grove township, Wilkes County, North Carolina",1250.0,474.0,474.0,466.0,8.0,0.0,776.0,193,93888,37
+3719392236,"New Castle township, Wilkes County, North Carolina",1708.0,982.0,982.0,919.0,63.0,0.0,726.0,193,92236,37
+3719392628,"Reddies River township, Wilkes County, North Carolina",8738.0,5008.0,5008.0,4595.0,413.0,0.0,3730.0,193,92628,37
+3706792388,"Old Richmond township, Forsyth County, North Carolina",4212.0,2424.0,2424.0,2313.0,111.0,0.0,1788.0,067,92388,37
+3706792396,"Old Town township, Forsyth County, North Carolina",109.0,69.0,69.0,69.0,0.0,0.0,40.0,067,92396,37
+3706793864,"Vienna township, Forsyth County, North Carolina",9134.0,5783.0,5743.0,5580.0,163.0,40.0,3351.0,067,93864,37
+3706794068,"Winston township, Forsyth County, North Carolina",188887.0,115670.0,115381.0,105926.0,9455.0,289.0,73217.0,067,94068,37
+3706790236,"Bethania township, Forsyth County, North Carolina",8160.0,5236.0,5236.0,5111.0,125.0,0.0,2924.0,067,90236,37
+3706790684,"Clemmonsville township, Forsyth County, North Carolina",13518.0,8653.0,8653.0,8275.0,378.0,0.0,4865.0,067,90684,37
+3706793036,"South Fork township, Forsyth County, North Carolina",1874.0,1153.0,1138.0,1081.0,57.0,15.0,721.0,067,93036,37
+3706792808,"Salem Chapel township, Forsyth County, North Carolina",5720.0,3338.0,3338.0,2980.0,358.0,0.0,2382.0,067,92808,37
+3706790376,"Broadbay township, Forsyth County, North Carolina",2107.0,1350.0,1346.0,1292.0,54.0,4.0,757.0,067,90376,37
+3706791696,"Kernersville township, Forsyth County, North Carolina",24501.0,15427.0,15384.0,14687.0,697.0,43.0,9074.0,067,91696,37
+3706790012,"Abbotts Creek township, Forsyth County, North Carolina",10057.0,6477.0,6477.0,6154.0,323.0,0.0,3580.0,067,90012,37
+3706791792,"Lewisville township, Forsyth County, North Carolina",14461.0,9206.0,9206.0,8754.0,452.0,0.0,5255.0,067,91792,37
+3716191488,"High Shoals township, Rutherford County, North Carolina",6713.0,3417.0,3417.0,3094.0,323.0,0.0,3296.0,161,91488,37
+3716190656,"Chimney Rock township, Rutherford County, North Carolina",2359.0,978.0,978.0,903.0,75.0,0.0,1381.0,161,90656,37
+3716190768,"Cool Spring township, Rutherford County, North Carolina",10890.0,5532.0,5532.0,4999.0,533.0,0.0,5358.0,161,90768,37
+3716191892,"Logan Store township, Rutherford County, North Carolina",3417.0,1330.0,1330.0,1209.0,121.0,0.0,2087.0,161,91892,37
+3716193816,"Union township, Rutherford County, North Carolina",1575.0,880.0,880.0,859.0,21.0,0.0,695.0,161,93816,37
+3716192132,"Morgan township, Rutherford County, North Carolina",1485.0,746.0,746.0,730.0,16.0,0.0,739.0,161,92132,37
+3716190924,"Duncans Creek township, Rutherford County, North Carolina",510.0,314.0,314.0,296.0,18.0,0.0,196.0,161,90924,37
+3716191224,"Gilkey township, Rutherford County, North Carolina",1434.0,936.0,936.0,883.0,53.0,0.0,498.0,161,91224,37
+3716191252,"Golden Valley township, Rutherford County, North Carolina",1005.0,683.0,683.0,593.0,90.0,0.0,322.0,161,91252,37
+3716192776,"Rutherfordton township, Rutherford County, North Carolina",10265.0,5379.0,5379.0,4843.0,536.0,0.0,4886.0,161,92776,37
+3716193172,"Sulphur Springs township, Rutherford County, North Carolina",4584.0,2557.0,2557.0,2325.0,232.0,0.0,2027.0,161,93172,37
+3716190720,"Colfax township, Rutherford County, North Carolina",6312.0,3698.0,3649.0,3411.0,238.0,49.0,2614.0,161,90720,37
+3716391836,"Lisbon township, Sampson County, North Carolina",1242.0,744.0,744.0,678.0,66.0,0.0,498.0,163,91836,37
+3716392088,"Mingo township, Sampson County, North Carolina",1842.0,1154.0,1154.0,1084.0,70.0,0.0,688.0,163,92088,37
+3716392288,"Newton Grove township, Sampson County, North Carolina",1829.0,1107.0,1080.0,920.0,160.0,27.0,722.0,163,92288,37
+3716393224,"Taylors Bridge township, Sampson County, North Carolina",964.0,560.0,560.0,538.0,22.0,0.0,404.0,163,93224,37
+3716391944,"McDaniels township, Sampson County, North Carolina",902.0,466.0,466.0,418.0,48.0,0.0,436.0,163,91944,37
+3716391460,"Herring township, Sampson County, North Carolina",1685.0,1257.0,1257.0,1159.0,98.0,0.0,428.0,163,91460,37
+3716391528,"Honeycutt township, Sampson County, North Carolina",2294.0,1370.0,1370.0,1277.0,93.0,0.0,924.0,163,91528,37
+3716392524,"Plain View township, Sampson County, North Carolina",3934.0,2769.0,2769.0,2565.0,204.0,0.0,1165.0,163,92524,37
+3716390904,"Dismal township, Sampson County, North Carolina",3563.0,2270.0,2270.0,2041.0,229.0,0.0,1293.0,163,90904,37
+3715590960,"East Howellsville township, Robeson County, North Carolina",2141.0,1112.0,1112.0,1073.0,39.0,0.0,1029.0,155,90960,37
+3715592904,"Shannon township, Robeson County, North Carolina",919.0,591.0,591.0,556.0,35.0,0.0,328.0,155,92904,37
+3716793028,"South Albemarle township, Stanly County, North Carolina",6533.0,3982.0,3972.0,3475.0,497.0,10.0,2551.0,167,93028,37
+3716790048,"Almond township, Stanly County, North Carolina",2709.0,1766.0,1766.0,1658.0,108.0,0.0,943.0,167,90048,37
+3716790264,"Big Lick township, Stanly County, North Carolina",4248.0,2626.0,2623.0,2547.0,76.0,3.0,1622.0,167,90264,37
+3716791032,"Endy township, Stanly County, North Carolina",1671.0,1082.0,1082.0,977.0,105.0,0.0,589.0,167,91032,37
+3716792296,"North Albemarle township, Stanly County, North Carolina",11622.0,6870.0,6856.0,6300.0,556.0,14.0,4752.0,167,92296,37
+3716791196,"Furr township, Stanly County, North Carolina",8124.0,5454.0,5444.0,4940.0,504.0,10.0,2670.0,167,91196,37
+3716791416,"Harris township, Stanly County, North Carolina",5419.0,2843.0,2841.0,2622.0,219.0,2.0,2576.0,167,91416,37
+3716790596,"Center township, Stanly County, North Carolina",4761.0,2980.0,2980.0,2810.0,170.0,0.0,1781.0,167,90596,37
+3716793800,"Tyson township, Stanly County, North Carolina",1856.0,1298.0,1298.0,1239.0,59.0,0.0,558.0,167,93800,37
+3716792680,"Ridenhour township, Stanly County, North Carolina",2309.0,1219.0,1219.0,1121.0,98.0,0.0,1090.0,167,92680,37
+3717391144,"Forneys Creek UT, Swain County, North Carolina",0.0,0.0,0.0,0.0,0.0,0.0,0.0,173,91144,37
+3717390624,"Charleston township, Swain County, North Carolina",9536.0,5004.0,5004.0,4613.0,391.0,0.0,4532.0,173,90624,37
+3718392788,"St. Marys township, Wake County, North Carolina",52401.0,35113.0,35080.0,32291.0,2789.0,33.0,17288.0,183,92788,37
+3718393880,"Wake Forest township, Wake County, North Carolina",60143.0,43140.0,43056.0,40728.0,2328.0,84.0,17003.0,183,93880,37
+3718390420,"Buckhorn township, Wake County, North Carolina",3234.0,2283.0,2283.0,2189.0,94.0,0.0,951.0,183,90420,37
+3718392792,"St. Matthews township, Wake County, North Carolina",58723.0,43510.0,43443.0,41219.0,2224.0,67.0,15213.0,183,92792,37
+3719991312,"Green Mountain township, Yancey County, North Carolina",398.0,202.0,202.0,202.0,0.0,0.0,196.0,199,91312,37
+3719992572,"Price Creek township, Yancey County, North Carolina",951.0,504.0,493.0,478.0,15.0,11.0,447.0,199,92572,37
+3719992476,"Pensacola township, Yancey County, North Carolina",551.0,385.0,385.0,358.0,27.0,0.0,166.0,199,92476,37
+3719993056,"South Toe township, Yancey County, North Carolina",1787.0,1078.0,1068.0,958.0,110.0,10.0,709.0,199,93056,37
+3719990400,"Brush Creek township, Yancey County, North Carolina",399.0,180.0,180.0,180.0,0.0,0.0,219.0,199,90400,37
+3719990980,"Egypt township, Yancey County, North Carolina",538.0,208.0,208.0,201.0,7.0,0.0,330.0,199,90980,37
+3719990456,"Burnsville township, Yancey County, North Carolina",3645.0,1508.0,1499.0,1410.0,89.0,9.0,2137.0,199,90456,37
+3719990804,"Crabtree township, Yancey County, North Carolina",2783.0,1601.0,1591.0,1404.0,187.0,10.0,1182.0,199,90804,37
+3719991612,"Jacks Creek township, Yancey County, North Carolina",1433.0,826.0,826.0,793.0,33.0,0.0,607.0,199,91612,37
+3719990492,"Cane River township, Yancey County, North Carolina",1818.0,1012.0,1012.0,863.0,149.0,0.0,806.0,199,90492,37
+3719992616,"Ramseytown township, Yancey County, North Carolina",373.0,187.0,187.0,166.0,21.0,0.0,186.0,199,92616,37
+3700790452,"Burnsville township, Anson County, North Carolina",1228.0,724.0,724.0,624.0,100.0,0.0,504.0,007,90452,37
+3700790064,"Ansonville township, Anson County, North Carolina",1470.0,876.0,876.0,793.0,83.0,0.0,594.0,007,90064,37
+3700792140,"Morven township, Anson County, North Carolina",1711.0,856.0,856.0,763.0,93.0,0.0,855.0,007,92140,37
+3700793996,"White Store township, Anson County, North Carolina",293.0,213.0,213.0,213.0,0.0,0.0,80.0,007,93996,37
+3700791356,"Gulledge township, Anson County, North Carolina",1839.0,1376.0,1376.0,1301.0,75.0,0.0,463.0,007,91356,37
+3700791732,"Lanesboro township, Anson County, North Carolina",4869.0,2071.0,2071.0,1783.0,288.0,0.0,2798.0,007,91732,37
+3700791808,"Lilesville township, Anson County, North Carolina",2526.0,1349.0,1349.0,1237.0,112.0,0.0,1177.0,007,91808,37
+3700793876,"Wadesboro township, Anson County, North Carolina",7109.0,4262.0,4262.0,3439.0,823.0,0.0,2847.0,007,93876,37
+3703790136,"Baldwin township, Chatham County, North Carolina",7641.0,5300.0,5300.0,5067.0,233.0,0.0,2341.0,037,90136,37
+3703791352,"Gulf township, Chatham County, North Carolina",3031.0,1925.0,1925.0,1745.0,180.0,0.0,1106.0,037,91352,37
+3703790024,"Albright township, Chatham County, North Carolina",1862.0,1248.0,1248.0,1211.0,37.0,0.0,614.0,037,90024,37
+3703791368,"Hadley township, Chatham County, North Carolina",2414.0,1691.0,1691.0,1651.0,40.0,0.0,723.0,037,91368,37
+3703791428,"Haw River township, Chatham County, North Carolina",990.0,556.0,556.0,556.0,0.0,0.0,434.0,037,91428,37
+3703791472,"Hickory Mountain township, Chatham County, North Carolina",2279.0,1389.0,1389.0,1350.0,39.0,0.0,890.0,037,91472,37
+3703790172,"Bear Creek township, Chatham County, North Carolina",2828.0,1749.0,1749.0,1606.0,143.0,0.0,1079.0,037,90172,37
+3703790504,"Cape Fear township, Chatham County, North Carolina",1033.0,580.0,580.0,537.0,43.0,0.0,453.0,037,90504,37
+3703790592,"Center township, Chatham County, North Carolina",6366.0,3782.0,3782.0,3544.0,238.0,0.0,2584.0,037,90592,37
+3703792012,"Matthews township, Chatham County, North Carolina",10379.0,6197.0,6175.0,5611.0,564.0,22.0,4182.0,037,92012,37
+3703590700,"Clines township, Catawba County, North Carolina",19371.0,12636.0,12632.0,11618.0,1014.0,4.0,6735.0,035,90700,37
+3703591468,"Hickory township, Catawba County, North Carolina",50078.0,31311.0,31286.0,28740.0,2546.0,25.0,18767.0,035,91468,37
+3703592152,"Mountain Creek township, Catawba County, North Carolina",8599.0,5354.0,5350.0,5084.0,266.0,4.0,3245.0,035,92152,37
+3704993552,"Township 7, Craven County, North Carolina",12634.0,7654.0,7084.0,6666.0,418.0,570.0,4980.0,049,93552,37
+3704993256,"Township 1, Craven County, North Carolina",6772.0,3390.0,3390.0,3107.0,283.0,0.0,3382.0,049,93256,37
+3704993508,"Township 6, Craven County, North Carolina",18966.0,14471.0,8560.0,7804.0,756.0,5911.0,4495.0,049,93508,37
+3704993628,"Township 9, Craven County, North Carolina",2958.0,1880.0,1868.0,1691.0,177.0,12.0,1078.0,049,93628,37
+3704993360,"Township 3, Craven County, North Carolina",2600.0,1519.0,1519.0,1414.0,105.0,0.0,1081.0,049,93360,37
+3704993308,"Township 2, Craven County, North Carolina",6893.0,3400.0,3349.0,3068.0,281.0,51.0,3493.0,049,93308,37
+3704993592,"Township 8, Craven County, North Carolina",28759.0,16870.0,16434.0,14975.0,1459.0,436.0,11889.0,049,93592,37
+3716392516,"Piney Grove township, Sampson County, North Carolina",2389.0,1303.0,1303.0,1067.0,236.0,0.0,1086.0,163,92516,37
+3716393780,"Turkey township, Sampson County, North Carolina",1625.0,979.0,979.0,888.0,91.0,0.0,646.0,163,93780,37
+3716393939,"Westbrook township, Sampson County, North Carolina",1222.0,523.0,523.0,521.0,2.0,0.0,699.0,163,93939,37
+3716392308,"North Clinton township, Sampson County, North Carolina",9003.0,5222.0,5214.0,4645.0,569.0,8.0,3781.0,163,92308,37
+3716390228,"Belvoir township, Sampson County, North Carolina",1400.0,786.0,786.0,694.0,92.0,0.0,614.0,163,90228,37
+3716391380,"Halls township, Sampson County, North Carolina",2243.0,1230.0,1230.0,1035.0,195.0,0.0,1013.0,163,91380,37
+3716393052,"South River township, Sampson County, North Carolina",1655.0,902.0,892.0,825.0,67.0,10.0,753.0,163,93052,37
+3716391164,"Franklin township, Sampson County, North Carolina",1813.0,1047.0,1047.0,929.0,118.0,0.0,766.0,163,91164,37
+3716391844,"Little Coharie township, Sampson County, North Carolina",4593.0,2789.0,2789.0,2665.0,124.0,0.0,1804.0,163,91844,37
+3716393032,"South Clinton township, Sampson County, North Carolina",5434.0,3167.0,3167.0,2845.0,322.0,0.0,2267.0,163,93032,37
+3717191168,"Franklin township, Surry County, North Carolina",1858.0,935.0,935.0,898.0,37.0,0.0,923.0,171,91168,37
+3717192156,"Mount Airy township, Surry County, North Carolina",19534.0,10352.0,10352.0,9788.0,564.0,0.0,9182.0,171,92156,37
+3717193128,"Stewarts Creek township, Surry County, North Carolina",5989.0,3432.0,3432.0,3303.0,129.0,0.0,2557.0,171,93128,37
+3717192936,"Shoals township, Surry County, North Carolina",1602.0,1036.0,1029.0,946.0,83.0,7.0,566.0,171,92936,37
+3717193948,"Westfield township, Surry County, North Carolina",2054.0,1078.0,1069.0,959.0,110.0,9.0,976.0,171,93948,37
+3706790216,"Belews Creek township, Forsyth County, North Carolina",5369.0,3907.0,3895.0,3686.0,209.0,12.0,1462.0,067,90216,37
+3712792356,"Oak Level township, Nash County, North Carolina",5129.0,3159.0,3159.0,2961.0,198.0,0.0,1970.0,127,92356,37
+3712790776,"Coopers township, Nash County, North Carolina",3120.0,2083.0,2076.0,1959.0,117.0,7.0,1037.0,127,90776,37
+3712791336,"Griffins township, Nash County, North Carolina",2568.0,1576.0,1576.0,1449.0,127.0,0.0,992.0,127,91336,37
+3712790124,"Bailey township, Nash County, North Carolina",3343.0,2254.0,2254.0,2110.0,144.0,0.0,1089.0,127,90124,37
+3712791616,"Jackson township, Nash County, North Carolina",2721.0,1776.0,1776.0,1609.0,167.0,0.0,945.0,127,91616,37
+3712792636,"Red Oak township, Nash County, North Carolina",2952.0,1752.0,1752.0,1619.0,133.0,0.0,1200.0,127,92636,37
+3712791100,"Ferrells township, Nash County, North Carolina",2016.0,1026.0,1026.0,1018.0,8.0,0.0,990.0,127,91100,37
+3712790544,"Castalia township, Nash County, North Carolina",1401.0,746.0,746.0,655.0,91.0,0.0,655.0,127,90544,37
+3712790916,"Dry Wells township, Nash County, North Carolina",2452.0,1467.0,1467.0,1350.0,117.0,0.0,985.0,127,90916,37
+3712792212,"Nashville township, Nash County, North Carolina",8404.0,4663.0,4663.0,4357.0,306.0,0.0,3741.0,127,92212,37
+3712792328,"North Whitakers township, Nash County, North Carolina",1772.0,1211.0,1211.0,1018.0,193.0,0.0,561.0,127,92328,37
+3712793068,"South Whitakers township, Nash County, North Carolina",3020.0,1819.0,1819.0,1715.0,104.0,0.0,1201.0,127,93068,37
+3712793144,"Stony Creek township, Nash County, North Carolina",20529.0,12779.0,12764.0,11902.0,862.0,15.0,7750.0,127,93144,37
+3712792740,"Rocky Mount township, Nash County, North Carolina",11186.0,6932.0,6932.0,5991.0,941.0,0.0,4254.0,127,92740,37
+3712791976,"Mannings township, Nash County, North Carolina",4888.0,2804.0,2804.0,2654.0,150.0,0.0,2084.0,127,91976,37
+3700391364,"Gwaltneys township, Alexander County, North Carolina",1730.0,1102.0,1102.0,1055.0,47.0,0.0,628.0,003,91364,37
+3700393228,"Taylorsville township, Alexander County, North Carolina",9428.0,5119.0,5119.0,4717.0,402.0,0.0,4309.0,003,93228,37
+3700392068,"Millers township, Alexander County, North Carolina",1677.0,1104.0,1104.0,964.0,140.0,0.0,573.0,003,92068,37
+3700391848,"Little River township, Alexander County, North Carolina",1198.0,692.0,692.0,633.0,59.0,0.0,506.0,003,91848,37
+3700391020,"Ellendale township, Alexander County, North Carolina",2736.0,1593.0,1593.0,1509.0,84.0,0.0,1143.0,003,91020,37
+3700393168,"Sugar Loaf township, Alexander County, North Carolina",1079.0,630.0,630.0,584.0,46.0,0.0,449.0,003,93168,37
+3700392908,"Sharpes township, Alexander County, North Carolina",4577.0,2659.0,2659.0,2490.0,169.0,0.0,1918.0,003,92908,37
+3700394086,"Wittenburg township, Alexander County, North Carolina",8138.0,4673.0,4673.0,4441.0,232.0,0.0,3465.0,003,94086,37
+3701790244,"Bethel township, Bladen County, North Carolina",3204.0,1721.0,1721.0,1522.0,199.0,0.0,1483.0,017,90244,37
+3701790604,"Central township, Bladen County, North Carolina",1133.0,800.0,800.0,714.0,86.0,0.0,333.0,017,90604,37
+3704993460,"Township 5, Craven County, North Carolina",2945.0,1820.0,1655.0,1561.0,94.0,165.0,1125.0,049,93460,37
+3706593680,"Township 10, Lower Town Creek; Edgecombe County; North Carolina",2808.0,1448.0,1448.0,1351.0,97.0,0.0,1360.0,065,93680,37
+3706593728,"Township 13, Cokey; Edgecombe County; North Carolina",1504.0,850.0,850.0,801.0,49.0,0.0,654.0,065,93728,37
+3706593744,"Township 14, Upper Town Creek; Edgecombe County; North Carolina",994.0,575.0,575.0,540.0,35.0,0.0,419.0,065,93744,37
+3706593404,"Township 3, Upper Conetoe; Edgecombe County; North Carolina",464.0,223.0,223.0,199.0,24.0,0.0,241.0,065,93404,37
+3706593424,"Township 4, Deep Creek; Edgecombe County; North Carolina",260.0,142.0,142.0,142.0,0.0,0.0,118.0,065,93424,37
+3706593544,"Township 6, Upper Fishing Creek; Edgecombe County; North Carolina",1392.0,761.0,761.0,722.0,39.0,0.0,631.0,065,93544,37
+3706593708,"Township 11, Walnut Creek; Edgecombe County; North Carolina",1592.0,1135.0,1135.0,1046.0,89.0,0.0,457.0,065,93708,37
+3706593344,"Township 2, Lower Conetoe; Edgecombe County; North Carolina",1822.0,1040.0,1040.0,929.0,111.0,0.0,782.0,065,93344,37
+3706593724,"Township 12, Rocky Mount; Edgecombe County; North Carolina",13656.0,7593.0,7593.0,6640.0,953.0,0.0,6063.0,065,93724,37
+3706593620,"Township 8, Sparta; Edgecombe County; North Carolina",1755.0,1050.0,1050.0,957.0,93.0,0.0,705.0,065,93620,37
+3706593300,"Township 1, Tarboro; Edgecombe County; North Carolina",12106.0,6679.0,6679.0,6086.0,593.0,0.0,5427.0,065,93300,37
+3706593484,"Township 5, Lower Fishing Creek; Edgecombe County; North Carolina",764.0,464.0,464.0,383.0,81.0,0.0,300.0,065,93484,37
+3703792240,"New Hope township, Chatham County, North Carolina",2484.0,1473.0,1473.0,1404.0,69.0,0.0,1011.0,037,92240,37
+3703792352,"Oakland township, Chatham County, North Carolina",1033.0,704.0,704.0,686.0,18.0,0.0,329.0,037,92352,37
+3703794016,"Williams township, Chatham County, North Carolina",13556.0,6102.0,6096.0,5864.0,232.0,6.0,7454.0,037,94016,37
+3711192112,"Montford Cove township, McDowell County, North Carolina",2094.0,1053.0,1053.0,949.0,104.0,0.0,1041.0,111,92112,37
+3711191236,"Glenwood township, McDowell County, North Carolina",1855.0,671.0,671.0,625.0,46.0,0.0,1184.0,111,91236,37
+3711191984,"Marion township, McDowell County, North Carolina",16310.0,9096.0,9096.0,8440.0,656.0,0.0,7214.0,111,91984,37
+3711191476,"Higgins township, McDowell County, North Carolina",1693.0,813.0,813.0,756.0,57.0,0.0,880.0,111,91476,37
+3711190828,"Crooked Creek township, McDowell County, North Carolina",3176.0,1547.0,1547.0,1482.0,65.0,0.0,1629.0,111,90828,37
+3711192216,"Nebo township, McDowell County, North Carolina",2963.0,1575.0,1542.0,1394.0,148.0,33.0,1388.0,111,92216,37
+3711192384,"Old Fort township, McDowell County, North Carolina",3239.0,1727.0,1727.0,1571.0,156.0,0.0,1512.0,111,92384,37
+3711190348,"Brackett township, McDowell County, North Carolina",475.0,171.0,171.0,160.0,11.0,0.0,304.0,111,90348,37
+3711192312,"North Cove township, McDowell County, North Carolina",2149.0,1171.0,1171.0,1091.0,80.0,0.0,978.0,111,92312,37
+3711190940,"Dysartsville township, McDowell County, North Carolina",3024.0,1873.0,1860.0,1725.0,135.0,13.0,1151.0,111,90940,37
+3706990866,"Cypress Creek township, Franklin County, North Carolina",3621.0,1887.0,1887.0,1834.0,53.0,0.0,1734.0,069,90866,37
+3706994150,"Youngsville township, Franklin County, North Carolina",13495.0,9298.0,9284.0,8757.0,527.0,14.0,4197.0,069,94150,37
+3706991414,"Harris township, Franklin County, North Carolina",6446.0,4373.0,4373.0,4009.0,364.0,0.0,2073.0,069,91414,37
+3706990926,"Dunn township, Franklin County, North Carolina",6645.0,3884.0,3884.0,3714.0,170.0,0.0,2761.0,069,90926,37
+3706991170,"Franklinton township, Franklin County, North Carolina",6434.0,3759.0,3754.0,3375.0,379.0,5.0,2675.0,069,91170,37
+3706991258,"Gold Mine township, Franklin County, North Carolina",1511.0,909.0,909.0,807.0,102.0,0.0,602.0,069,91258,37
+3706991906,"Louisburg township, Franklin County, North Carolina",6785.0,3194.0,3194.0,2730.0,464.0,0.0,3591.0,069,91906,37
+3706991438,"Hayesville township, Franklin County, North Carolina",1795.0,1014.0,1014.0,969.0,45.0,0.0,781.0,069,91438,37
+3706990590,"Cedar Rock township, Franklin County, North Carolina",1973.0,1002.0,1002.0,941.0,61.0,0.0,971.0,069,90590,37
+3706992822,"Sandy Creek township, Franklin County, North Carolina",2403.0,1067.0,1067.0,1022.0,45.0,0.0,1336.0,069,92822,37
+3710190144,"Banner township, Johnston County, North Carolina",5604.0,2884.0,2884.0,2701.0,183.0,0.0,2720.0,101,90144,37
+3710194056,"Wilson Mills township, Johnston County, North Carolina",4672.0,2691.0,2673.0,2491.0,182.0,18.0,1981.0,101,94056,37
+3710190232,"Bentonville township, Johnston County, North Carolina",1442.0,777.0,777.0,706.0,71.0,0.0,665.0,101,90232,37
+3710190256,"Beulah township, Johnston County, North Carolina",3252.0,1698.0,1695.0,1584.0,111.0,3.0,1554.0,101,90256,37
+3710192024,"Meadow township, Johnston County, North Carolina",3120.0,2048.0,2048.0,1743.0,305.0,0.0,1072.0,101,92024,37
+3710192048,"Micro township, Johnston County, North Carolina",2140.0,1350.0,1350.0,1301.0,49.0,0.0,790.0,101,92048,37
+3710192500,"Pine Level township, Johnston County, North Carolina",3688.0,2309.0,2291.0,2171.0,120.0,18.0,1379.0,101,92500,37
+3710192888,"Selma township, Johnston County, North Carolina",8284.0,4994.0,4994.0,4603.0,391.0,0.0,3290.0,101,92888,37
+3710194008,"Wilders township, Johnston County, North Carolina",15456.0,11097.0,11028.0,10560.0,468.0,69.0,4359.0,101,94008,37
+3710192980,"Smithfield township, Johnston County, North Carolina",15038.0,8559.0,8540.0,7891.0,649.0,19.0,6479.0,101,92980,37
+3710192408,"O'Neals township, Johnston County, North Carolina",6661.0,4040.0,4040.0,3761.0,279.0,0.0,2621.0,101,92408,37
+3710190336,"Boon Hill township, Johnston County, North Carolina",5940.0,3367.0,3361.0,3099.0,262.0,6.0,2573.0,101,90336,37
+3706593652,"Township 9, Otter Creek; Edgecombe County; North Carolina",1607.0,977.0,977.0,865.0,112.0,0.0,630.0,065,93652,37
+3706593588,"Township 7, Swift Creek; Edgecombe County; North Carolina",2260.0,1232.0,1232.0,1032.0,200.0,0.0,1028.0,065,93588,37
+3707790936,"Dutchville township, Granville County, North Carolina",12191.0,5971.0,5971.0,5639.0,332.0,0.0,6220.0,077,90936,37
+3707790356,"Brassfield township, Granville County, North Carolina",10335.0,7014.0,7014.0,6789.0,225.0,0.0,3321.0,077,90356,37
+3707792424,"Oxford township, Granville County, North Carolina",7117.0,3642.0,3642.0,3231.0,411.0,0.0,3475.0,077,92424,37
+3707793884,"Walnut Grove township, Granville County, North Carolina",1811.0,1057.0,1057.0,1000.0,57.0,0.0,754.0,077,93884,37
+3707793212,"Tally Ho township, Granville County, North Carolina",5109.0,3323.0,3323.0,3072.0,251.0,0.0,1786.0,077,93212,37
+3707792800,"Salem township, Granville County, North Carolina",1356.0,746.0,746.0,698.0,48.0,0.0,610.0,077,92800,37
+3707792348,"Oak Hill township, Granville County, North Carolina",1649.0,966.0,966.0,817.0,149.0,0.0,683.0,077,92348,37
+3707791108,"Fishing Creek township, Granville County, North Carolina",6030.0,3426.0,3426.0,3173.0,253.0,0.0,2604.0,077,91108,37
+3707792844,"Sassafras Fork township, Granville County, North Carolina",2161.0,1303.0,1303.0,1231.0,72.0,0.0,858.0,077,92844,37
+3708590104,"Averasboro township, Harnett County, North Carolina",10900.0,6031.0,6018.0,5269.0,749.0,13.0,4869.0,085,90104,37
+3708590152,"Barbecue township, Harnett County, North Carolina",13383.0,9087.0,7555.0,6793.0,762.0,1532.0,4296.0,085,90152,37
+3708590060,"Anderson Creek township, Harnett County, North Carolina",14521.0,9466.0,7681.0,6780.0,901.0,1785.0,5055.0,085,90060,37
+3708590292,"Black River township, Harnett County, North Carolina",8777.0,5684.0,5647.0,5177.0,470.0,37.0,3093.0,085,90292,37
+3708592220,"Neills Creek township, Harnett County, North Carolina",6427.0,3338.0,3318.0,3132.0,186.0,20.0,3089.0,085,92220,37
+3708591444,"Hectors Creek township, Harnett County, North Carolina",3789.0,2562.0,2542.0,2451.0,91.0,20.0,1227.0,085,91444,37
+3708593844,"Upper Little River township, Harnett County, North Carolina",7086.0,4376.0,4293.0,3964.0,329.0,83.0,2710.0,085,93844,37
+3708590920,"Duke township, Harnett County, North Carolina",5210.0,2786.0,2758.0,2536.0,222.0,28.0,2424.0,085,90920,37
+3708591668,"Johnsonville township, Harnett County, North Carolina",9182.0,5451.0,4418.0,3838.0,580.0,1033.0,3731.0,085,91668,37
+3708593124,"Stewarts Creek township, Harnett County, North Carolina",3197.0,1857.0,1825.0,1736.0,89.0,32.0,1340.0,085,93124,37
+3708591812,"Lillington township, Harnett County, North Carolina",4157.0,1704.0,1689.0,1563.0,126.0,15.0,2453.0,085,91812,37
+3708590416,"Buckhorn township, Harnett County, North Carolina",1993.0,1391.0,1391.0,1302.0,89.0,0.0,602.0,085,90416,37
+3708591348,"Grove township, Harnett County, North Carolina",8734.0,5128.0,5116.0,4675.0,441.0,12.0,3606.0,085,91348,37
+3709390036,"Allendale township, Hoke County, North Carolina",590.0,330.0,330.0,254.0,76.0,0.0,260.0,093,90036,37
+3709391148,"Fort Bragg Military Reservation township, Hoke County, North Carolina",0.0,0.0,0.0,0.0,0.0,0.0,0.0,093,91148,37
+3709390312,"Blue Springs township, Hoke County, North Carolina",1099.0,615.0,615.0,485.0,130.0,0.0,484.0,093,90312,37
+3709393136,"Stonewall township, Hoke County, North Carolina",1487.0,864.0,858.0,775.0,83.0,6.0,623.0,093,93136,37
+3709392600,"Quewhiffle township, Hoke County, North Carolina",4004.0,1736.0,1637.0,1517.0,120.0,99.0,2268.0,093,92600,37
+3709392604,"Raeford township, Hoke County, North Carolina",10954.0,6151.0,5683.0,4899.0,784.0,468.0,4803.0,093,92604,37
+3709390068,"Antioch township, Hoke County, North Carolina",3566.0,1927.0,1907.0,1476.0,431.0,20.0,1639.0,093,90068,37
+3709391948,"McLauchlin township, Hoke County, North Carolina",17342.0,11626.0,9421.0,8519.0,902.0,2205.0,5716.0,093,91948,37
+3708990972,"Edneyville township, Henderson County, North Carolina",3585.0,2021.0,2021.0,1918.0,103.0,0.0,1564.0,089,90972,37
+3708990796,"Crab Creek township, Henderson County, North Carolina",3736.0,1817.0,1817.0,1744.0,73.0,0.0,1919.0,089,90796,37
+3710190676,"Clayton township, Johnston County, North Carolina",25318.0,17657.0,17565.0,16268.0,1297.0,92.0,7661.0,101,90676,37
+3710190688,"Cleveland township, Johnston County, North Carolina",17730.0,12290.0,12290.0,11352.0,938.0,0.0,5440.0,101,90688,37
+3710190992,"Elevation township, Johnston County, North Carolina",5604.0,3715.0,3674.0,3587.0,87.0,41.0,1889.0,101,90992,37
+3710192528,"Pleasant Grove township, Johnston County, North Carolina",13291.0,9442.0,9442.0,9022.0,420.0,0.0,3849.0,101,92528,37
+3710191584,"Ingrams township, Johnston County, North Carolina",5475.0,3540.0,3521.0,3349.0,172.0,19.0,1935.0,101,91584,37
+3710393496,"Township 5, Tuckahoe; Jones County; North Carolina",720.0,523.0,523.0,418.0,105.0,0.0,197.0,103,93496,37
+3710393560,"Township 7, Beaver Creek; Jones County; North Carolina",924.0,571.0,571.0,481.0,90.0,0.0,353.0,103,93560,37
+3710393396,"Township 3, Trenton; Jones County; North Carolina",1726.0,871.0,871.0,764.0,107.0,0.0,855.0,103,93396,37
+3710393352,"Township 2, Pollocksville; Jones County; North Carolina",2288.0,1159.0,1140.0,1050.0,90.0,19.0,1129.0,103,93352,37
+3710393420,"Township 4, Cypress Creek; Jones County; North Carolina",589.0,325.0,319.0,296.0,23.0,6.0,264.0,103,93420,37
+3710393512,"Township 6, Chinquapin; Jones County; North Carolina",478.0,231.0,210.0,188.0,22.0,21.0,247.0,103,93512,37
+3710393304,"Township 1, White Oak; Jones County; North Carolina",1447.0,798.0,786.0,715.0,71.0,12.0,649.0,103,93304,37
+3711391024,"Ellijay township, Macon County, North Carolina",2103.0,772.0,772.0,734.0,38.0,0.0,1331.0,113,91024,37
+3711390792,"Cowee township, Macon County, North Carolina",1750.0,772.0,772.0,730.0,42.0,0.0,978.0,113,90792,37
+3711391156,"Franklin township, Macon County, North Carolina",12089.0,6116.0,6105.0,5723.0,382.0,11.0,5973.0,113,91156,37
+3711392974,"Smithbridge township, Macon County, North Carolina",3136.0,2054.0,2054.0,1964.0,90.0,0.0,1082.0,113,92974,37
+3711391480,"Highlands township, Macon County, North Carolina",2880.0,1410.0,1410.0,1379.0,31.0,0.0,1470.0,113,91480,37
+3711390448,"Burningtown township, Macon County, North Carolina",517.0,198.0,198.0,198.0,0.0,0.0,319.0,113,90448,37
+3711391124,"Flats township, Macon County, North Carolina",408.0,198.0,198.0,198.0,0.0,0.0,210.0,113,91124,37
+3711392072,"Millshoal township, Macon County, North Carolina",2420.0,1367.0,1367.0,1320.0,47.0,0.0,1053.0,113,92072,37
+3711390524,"Cartoogechaye township, Macon County, North Carolina",1999.0,811.0,811.0,759.0,52.0,0.0,1188.0,113,90524,37
+3711393164,"Sugarfork township, Macon County, North Carolina",331.0,111.0,111.0,111.0,0.0,0.0,220.0,113,93164,37
+3711392204,"Nantahala township, Macon County, North Carolina",850.0,486.0,486.0,468.0,18.0,0.0,364.0,113,92204,37
+3714592764,"Roxboro township, Person County, North Carolina",11572.0,6509.0,6497.0,5397.0,1100.0,12.0,5063.0,145,92764,37
+3714594100,"Woodsdale township, Person County, North Carolina",1354.0,916.0,916.0,874.0,42.0,0.0,438.0,145,94100,37
+3714590852,"Cunningham township, Person County, North Carolina",1388.0,741.0,741.0,697.0,44.0,0.0,647.0,145,90852,37
+3714591120,"Flat River township, Person County, North Carolina",5933.0,3828.0,3828.0,3331.0,497.0,0.0,2105.0,145,91120,37
+3714592404,"Olive Hill township, Person County, North Carolina",1963.0,1164.0,1135.0,1114.0,21.0,29.0,799.0,145,92404,37
+3714592168,"Mount Tirzah township, Person County, North Carolina",2977.0,2008.0,2008.0,1900.0,108.0,0.0,969.0,145,92168,37
+3714590464,"Bushy Fork township, Person County, North Carolina",2053.0,1148.0,1148.0,1110.0,38.0,0.0,905.0,145,90464,37
+3714590040,"Allensville township, Person County, North Carolina",2402.0,1507.0,1507.0,1422.0,85.0,0.0,895.0,145,90040,37
+3714591512,"Holloway township, Person County, North Carolina",2099.0,1201.0,1201.0,1063.0,138.0,0.0,898.0,145,91512,37
+3701991884,"Lockwoods Folly township, Brunswick County, North Carolina",23215.0,10457.0,10457.0,9527.0,930.0,0.0,12758.0,019,91884,37
+3701992324,"Northwest township, Brunswick County, North Carolina",11325.0,7317.0,7317.0,6657.0,660.0,0.0,4008.0,019,92324,37
+3708991456,"Hendersonville township, Henderson County, North Carolina",41782.0,21636.0,21626.0,20817.0,809.0,10.0,20146.0,089,91456,37
+3708992076,"Mills River township, Henderson County, North Carolina",11904.0,6995.0,6995.0,6735.0,260.0,0.0,4909.0,089,92076,37
+3708991316,"Green River township, Henderson County, North Carolina",3853.0,2164.0,2164.0,2056.0,108.0,0.0,1689.0,089,91316,37
+3708990304,"Blue Ridge township, Henderson County, North Carolina",9608.0,5810.0,5810.0,5719.0,91.0,0.0,3798.0,089,90304,37
+3708991536,"Hoopers Creek township, Henderson County, North Carolina",13083.0,8556.0,8556.0,8304.0,252.0,0.0,4527.0,089,91536,37
+3708990680,"Clear Creek township, Henderson County, North Carolina",5337.0,3030.0,3030.0,2881.0,149.0,0.0,2307.0,089,90680,37
+3709592372,"Ocracoke township, Hyde County, North Carolina",245.0,192.0,192.0,192.0,0.0,0.0,53.0,095,92372,37
+3709590856,"Currituck township, Hyde County, North Carolina",765.0,365.0,365.0,336.0,29.0,0.0,400.0,095,90856,37
+3709593184,"Swan Quarter township, Hyde County, North Carolina",777.0,430.0,430.0,415.0,15.0,0.0,347.0,095,93184,37
+3709591728,"Lake Mattamuskeet UT, Hyde County, North Carolina",0.0,0.0,0.0,0.0,0.0,0.0,0.0,095,91728,37
+3709591048,"Fairfield township, Hyde County, North Carolina",1072.0,278.0,278.0,151.0,127.0,0.0,794.0,095,91048,37
+3709591724,"Lake Landing township, Hyde County, North Carolina",1643.0,1026.0,1026.0,944.0,82.0,0.0,617.0,095,91724,37
+3709791076,"Fallstown township, Iredell County, North Carolina",7394.0,4502.0,4490.0,4163.0,327.0,12.0,2892.0,097,91076,37
+3709792244,"New Hope township, Iredell County, North Carolina",1953.0,1018.0,998.0,911.0,87.0,20.0,935.0,097,92244,37
+3709793104,"Statesville township, Iredell County, North Carolina",21160.0,13385.0,13374.0,12010.0,1364.0,11.0,7775.0,097,93104,37
+3709793788,"Turnersburg township, Iredell County, North Carolina",3074.0,2083.0,2083.0,1932.0,151.0,0.0,991.0,097,93788,37
+3709790240,"Bethany township, Iredell County, North Carolina",6514.0,3988.0,3988.0,3515.0,473.0,0.0,2526.0,097,90240,37
+3709790160,"Barringer township, Iredell County, North Carolina",5856.0,4146.0,4133.0,3870.0,263.0,13.0,1710.0,097,90160,37
+3709790616,"Chambersburg township, Iredell County, North Carolina",9630.0,6187.0,6187.0,5738.0,449.0,0.0,3443.0,097,90616,37
+3709790770,"Cool Springs township, Iredell County, North Carolina",3769.0,2474.0,2474.0,2194.0,280.0,0.0,1295.0,097,90770,37
+3709790744,"Concord township, Iredell County, North Carolina",5819.0,3812.0,3812.0,3514.0,298.0,0.0,2007.0,097,90744,37
+3709790708,"Coddle Creek township, Iredell County, North Carolina",25396.0,16899.0,16891.0,15914.0,977.0,8.0,8497.0,097,90708,37
+3709790884,"Davidson township, Iredell County, North Carolina",28737.0,19358.0,19351.0,18374.0,977.0,7.0,9379.0,097,90884,37
+3709792400,"Olin township, Iredell County, North Carolina",1666.0,1061.0,1061.0,984.0,77.0,0.0,605.0,097,92400,37
+3709792912,"Sharpesburg township, Iredell County, North Carolina",2254.0,1255.0,1255.0,1168.0,87.0,0.0,999.0,097,92912,37
+3709793824,"Union Grove township, Iredell County, North Carolina",1816.0,1060.0,1060.0,1015.0,45.0,0.0,756.0,097,93824,37
+3709790944,"Eagle Mills township, Iredell County, North Carolina",1445.0,842.0,842.0,740.0,102.0,0.0,603.0,097,90944,37
+3709792924,"Shiloh township, Iredell County, North Carolina",7997.0,5040.0,5000.0,4704.0,296.0,40.0,2957.0,097,92924,37
+3711993268,"Township 1, Charlotte; Mecklenburg County; North Carolina",646327.0,465504.0,464942.0,430827.0,34115.0,562.0,180823.0,119,93268,37
+3711993740,"Township 14, Pineville; Mecklenburg County; North Carolina",6746.0,4515.0,4505.0,4258.0,247.0,10.0,2231.0,119,93740,37
+3711993320,"Township 2, Berryhill; Mecklenburg County; North Carolina",3121.0,2116.0,2100.0,2005.0,95.0,16.0,1005.0,119,93320,37
+3711993492,"Township 5, Providence; Mecklenburg County; North Carolina",8901.0,6022.0,6022.0,5845.0,177.0,0.0,2879.0,119,93492,37
+3711993516,"Township 6, Clear Creek; Mecklenburg County; North Carolina",16600.0,11115.0,11102.0,10636.0,466.0,13.0,5485.0,119,93516,37
+3711993748,"Township 15, Huntersville; Mecklenburg County; North Carolina",24032.0,17420.0,17420.0,16657.0,763.0,0.0,6612.0,119,93748,37
+3711993564,"Township 7, Crab Orchard; Mecklenburg County; North Carolina",3287.0,2275.0,2275.0,2157.0,118.0,0.0,1012.0,119,93564,37
+3701992992,"Smithville township, Brunswick County, North Carolina",14372.0,6917.0,6886.0,6510.0,376.0,31.0,7455.0,019,92992,37
+3701992900,"Shallotte township, Brunswick County, North Carolina",25997.0,10622.0,10622.0,9896.0,726.0,0.0,15375.0,019,92900,37
+3701993868,"Waccamaw township, Brunswick County, North Carolina",2892.0,1814.0,1814.0,1630.0,184.0,0.0,1078.0,019,93868,37
+3701993252,"Town Creek township, Brunswick County, North Carolina",26578.0,16066.0,16004.0,14762.0,1242.0,62.0,10512.0,019,93252,37
+3717591248,"Gloucester township, Transylvania County, North Carolina",832.0,437.0,437.0,383.0,54.0,0.0,395.0,175,91248,37
+3717590344,"Boyd township, Transylvania County, North Carolina",3333.0,2002.0,2002.0,1874.0,128.0,0.0,1331.0,175,90344,37
+3717590364,"Brevard township, Transylvania County, North Carolina",9702.0,4709.0,4709.0,4309.0,400.0,0.0,4993.0,175,90364,37
+3717590928,"Dunns Rock township, Transylvania County, North Carolina",4283.0,1826.0,1826.0,1763.0,63.0,0.0,2457.0,175,90928,37
+3717590948,"Eastatoe township, Transylvania County, North Carolina",2372.0,1055.0,1055.0,995.0,60.0,0.0,1317.0,175,90948,37
+3717591864,"Little River township, Transylvania County, North Carolina",2399.0,1200.0,1200.0,1191.0,9.0,0.0,1199.0,175,91864,37
+3717591504,"Hogback township, Transylvania County, North Carolina",1984.0,999.0,999.0,889.0,110.0,0.0,985.0,175,91504,37
+3717590564,"Catheys Creek township, Transylvania County, North Carolina",3538.0,2087.0,2087.0,1938.0,149.0,0.0,1451.0,175,90564,37
+3700991652,"Jefferson township, Ashe County, North Carolina",4019.0,2341.0,2341.0,2181.0,160.0,0.0,1678.0,009,91652,37
+3701793964,"White Oak township, Bladen County, North Carolina",1441.0,751.0,751.0,719.0,32.0,0.0,690.0,017,93964,37
+3701790860,"Cypress Creek township, Bladen County, North Carolina",1014.0,391.0,391.0,338.0,53.0,0.0,623.0,017,90860,37
+3701791180,"Frenches Creek township, Bladen County, North Carolina",577.0,358.0,358.0,319.0,39.0,0.0,219.0,017,91180,37
+3701793784,"Turnbull township, Bladen County, North Carolina",662.0,360.0,360.0,326.0,34.0,0.0,302.0,017,93784,37
+3701790296,"Bladenboro township, Bladen County, North Carolina",5192.0,2588.0,2588.0,2363.0,225.0,0.0,2604.0,017,90296,37
+3701790724,"Colly township, Bladen County, North Carolina",1760.0,1009.0,1009.0,917.0,92.0,0.0,751.0,017,90724,37
+3701791000,"Elizabethtown township, Bladen County, North Carolina",5288.0,2670.0,2670.0,2522.0,148.0,0.0,2618.0,017,91000,37
+3701791720,"Lake Creek township, Bladen County, North Carolina",656.0,359.0,359.0,344.0,15.0,0.0,297.0,017,91720,37
+3701791508,"Hollow township, Bladen County, North Carolina",1556.0,758.0,758.0,694.0,64.0,0.0,798.0,017,91508,37
+3701790528,"Carvers Creek township, Bladen County, North Carolina",1617.0,937.0,937.0,861.0,76.0,0.0,680.0,017,90528,37
+3701790392,"Brown Marsh township, Bladen County, North Carolina",1719.0,759.0,759.0,719.0,40.0,0.0,960.0,017,90392,37
+3701790004,"Abbotts township, Bladen County, North Carolina",681.0,448.0,448.0,417.0,31.0,0.0,233.0,017,90004,37
+3701793992,"Whites Creek township, Bladen County, North Carolina",1084.0,488.0,488.0,488.0,0.0,0.0,596.0,017,93992,37
+3705590964,"East Lake township, Dare County, North Carolina",57.0,24.0,24.0,10.0,14.0,0.0,33.0,055,90964,37
+3705590096,"Atlantic township, Dare County, North Carolina",15418.0,10569.0,10521.0,10006.0,515.0,48.0,4849.0,055,90096,37
+3705591702,"Kinnakeet township, Dare County, North Carolina",1031.0,746.0,746.0,699.0,47.0,0.0,285.0,055,91702,37
+3705591424,"Hatteras township, Dare County, North Carolina",2147.0,1301.0,1276.0,1169.0,107.0,25.0,846.0,055,91424,37
+3705592196,"Nags Head township, Dare County, North Carolina",9644.0,6229.0,6220.0,5903.0,317.0,9.0,3415.0,055,92196,37
+3705590824,"Croatan township, Dare County, North Carolina",942.0,634.0,634.0,624.0,10.0,0.0,308.0,055,90824,37
+3703192000,"Marshallberg township, Carteret County, North Carolina",316.0,155.0,155.0,155.0,0.0,0.0,161.0,031,92000,37
+3703192272,"Newport township, Carteret County, North Carolina",7902.0,4711.0,4646.0,4277.0,369.0,65.0,3191.0,031,92272,37
+3703190180,"Beaufort township, Carteret County, North Carolina",7481.0,4371.0,4336.0,3992.0,344.0,35.0,3110.0,031,90180,37
+3703192560,"Portsmouth township, Carteret County, North Carolina",0.0,0.0,0.0,0.0,0.0,0.0,0.0,031,92560,37
+3703190092,"Atlantic township, Carteret County, North Carolina",563.0,288.0,288.0,254.0,34.0,0.0,275.0,031,90092,37
+3703192120,"Morehead township, Carteret County, North Carolina",22587.0,13452.0,13100.0,12210.0,890.0,352.0,9135.0,031,92120,37
+3703190888,"Davis township, Carteret County, North Carolina",281.0,123.0,123.0,123.0,0.0,0.0,158.0,031,90888,37
+3703193156,"Straits township, Carteret County, North Carolina",2239.0,1323.0,1323.0,1142.0,181.0,0.0,916.0,031,93156,37
+3703193088,"Stacy township, Carteret County, North Carolina",244.0,103.0,103.0,65.0,38.0,0.0,141.0,031,93088,37
+3703191400,"Harlowe township, Carteret County, North Carolina",1164.0,672.0,643.0,599.0,44.0,29.0,492.0,031,91400,37
+3703191396,"Harkers Island township, Carteret County, North Carolina",1255.0,517.0,517.0,494.0,23.0,0.0,738.0,031,91396,37
+3703192040,"Merrimon township, Carteret County, North Carolina",625.0,241.0,241.0,230.0,11.0,0.0,384.0,031,92040,37
+3703190588,"Cedar Island township, Carteret County, North Carolina",335.0,255.0,255.0,255.0,0.0,0.0,80.0,031,90588,37
+3703193000,"Smyrna township, Carteret County, North Carolina",684.0,420.0,420.0,400.0,20.0,0.0,264.0,031,93000,37
+3703193968,"White Oak township, Carteret County, North Carolina",11566.0,6718.0,6341.0,5691.0,650.0,377.0,4848.0,031,93968,37
+3700992364,"Obids township, Ashe County, North Carolina",1109.0,663.0,663.0,637.0,26.0,0.0,446.0,009,92364,37
+3700991540,"Horse Creek township, Ashe County, North Carolina",593.0,318.0,318.0,311.0,7.0,0.0,275.0,009,91540,37
+3700991740,"Laurel township, Ashe County, North Carolina",486.0,297.0,297.0,275.0,22.0,0.0,189.0,009,91740,37
+3700992316,"North Fork township, Ashe County, North Carolina",579.0,275.0,275.0,262.0,13.0,0.0,304.0,009,92316,37
+3700990648,"Chestnut Hill township, Ashe County, North Carolina",647.0,397.0,397.0,348.0,49.0,0.0,250.0,009,90648,37
+3700991282,"Grassy Creek township, Ashe County, North Carolina",598.0,315.0,315.0,306.0,9.0,0.0,283.0,009,91282,37
+3700992504,"Pine Swamp township, Ashe County, North Carolina",2070.0,1385.0,1385.0,1385.0,0.0,0.0,685.0,009,92504,37
+3700993892,"Walnut Hill township, Ashe County, North Carolina",994.0,617.0,617.0,570.0,47.0,0.0,377.0,009,93892,37
+3700990696,"Clifton township, Ashe County, North Carolina",1691.0,1092.0,1083.0,1044.0,39.0,9.0,599.0,009,90696,37
+3700990820,"Creston township, Ashe County, North Carolina",354.0,155.0,155.0,155.0,0.0,0.0,199.0,009,90820,37
+3700992376,"Old Fields township, Ashe County, North Carolina",2018.0,943.0,943.0,882.0,61.0,0.0,1075.0,009,92376,37
+3700992456,"Peak Creek township, Ashe County, North Carolina",734.0,339.0,339.0,339.0,0.0,0.0,395.0,009,92456,37
+3700992544,"Pond Mountain township, Ashe County, North Carolina",296.0,140.0,140.0,140.0,0.0,0.0,156.0,009,92544,37
+3700991004,"Elk township, Ashe County, North Carolina",535.0,332.0,332.0,299.0,33.0,0.0,203.0,009,91004,37
+3700993956,"West Jefferson township, Ashe County, North Carolina",4044.0,2368.0,2368.0,2152.0,216.0,0.0,1676.0,009,93956,37
+3700992512,"Piney Creek township, Ashe County, North Carolina",883.0,497.0,497.0,423.0,74.0,0.0,386.0,009,92512,37
+3700991448,"Helton township, Ashe County, North Carolina",557.0,326.0,326.0,302.0,24.0,0.0,231.0,009,91448,37
+3700991568,"Hurricane township, Ashe County, North Carolina",322.0,195.0,195.0,163.0,32.0,0.0,127.0,009,91568,37
+3701393904,"Washington township, Beaufort County, North Carolina",11680.0,6677.0,6677.0,5852.0,825.0,0.0,5003.0,013,93904,37
+3701390664,"Chocowinity township, Beaufort County, North Carolina",7496.0,3779.0,3779.0,3457.0,322.0,0.0,3717.0,013,90664,37
+3701392664,"Richland township, Beaufort County, North Carolina",2942.0,1154.0,1154.0,1063.0,91.0,0.0,1788.0,013,92664,37
+3701390168,"Bath township, Beaufort County, North Carolina",3905.0,2112.0,2112.0,2003.0,109.0,0.0,1793.0,013,90168,37
+3711993736,"Township 13, Morning Star; Mecklenburg County; North Carolina",31261.0,20112.0,20112.0,19325.0,787.0,0.0,11149.0,119,93736,37
+3711993600,"Township 8, Mallard Creek; Mecklenburg County; North Carolina",4217.0,3038.0,3030.0,2986.0,44.0,8.0,1179.0,119,93600,37
+3711993700,"Township 11, Long Creek; Mecklenburg County; North Carolina",9862.0,7352.0,7342.0,7050.0,292.0,10.0,2510.0,119,93700,37
+3711993720,"Township 12, Paw Creek; Mecklenburg County; North Carolina",4677.0,3269.0,3260.0,2955.0,305.0,9.0,1408.0,119,93720,37
+3711993636,"Township 9, Deweese; Mecklenburg County; North Carolina",19691.0,13403.0,13403.0,12791.0,612.0,0.0,6288.0,119,93636,37
+3711993668,"Township 10, Lemley; Mecklenburg County; North Carolina",22119.0,15565.0,15528.0,14822.0,706.0,37.0,6554.0,119,93668,37
+3713191708,"Kirby township, Northampton County, North Carolina",2393.0,1036.0,1036.0,985.0,51.0,0.0,1357.0,131,91708,37
+3713194004,"Wiccacanee township, Northampton County, North Carolina",1454.0,1011.0,1011.0,906.0,105.0,0.0,443.0,131,94004,37
+3713192536,"Pleasant Hill township, Northampton County, North Carolina",550.0,209.0,209.0,209.0,0.0,0.0,341.0,131,92536,37
+3713192696,"Roanoke township, Northampton County, North Carolina",1800.0,568.0,568.0,527.0,41.0,0.0,1232.0,131,92696,37
+3713192880,"Seaboard township, Northampton County, North Carolina",1042.0,501.0,501.0,467.0,34.0,0.0,541.0,131,92880,37
+3713191212,"Gaston township, Northampton County, North Carolina",4746.0,2165.0,2165.0,1961.0,204.0,0.0,2581.0,131,91212,37
+3713192368,"Oconeechee township, Northampton County, North Carolina",1678.0,813.0,813.0,685.0,128.0,0.0,865.0,131,92368,37
+3713192676,"Rich Square township, Northampton County, North Carolina",2672.0,1324.0,1324.0,1102.0,222.0,0.0,1348.0,131,92676,37
+3713191620,"Jackson township, Northampton County, North Carolina",697.0,263.0,263.0,241.0,22.0,0.0,434.0,131,91620,37
+3714790652,"Chicod township, Pitt County, North Carolina",5739.0,3583.0,3583.0,3399.0,184.0,0.0,2156.0,147,90652,37
+3714790080,"Arthur township, Pitt County, North Carolina",5079.0,3666.0,3666.0,3216.0,450.0,0.0,1413.0,147,90080,37
+3714791344,"Grimesland township, Pitt County, North Carolina",10423.0,7270.0,7258.0,6809.0,449.0,12.0,3153.0,147,91344,37
+3714793196,"Swift Creek township, Pitt County, North Carolina",1458.0,969.0,969.0,931.0,38.0,0.0,489.0,147,93196,37
+3714792428,"Pactolus township, Pitt County, North Carolina",6162.0,3837.0,3837.0,3279.0,558.0,0.0,2325.0,147,92428,37
+3714790224,"Belvoir township, Pitt County, North Carolina",7014.0,4780.0,4739.0,3708.0,1031.0,41.0,2234.0,147,90224,37
+3714791084,"Farmville township, Pitt County, North Carolina",5138.0,3441.0,3441.0,3125.0,316.0,0.0,1697.0,147,91084,37
+3714790252,"Bethel township, Pitt County, North Carolina",2175.0,1001.0,1001.0,855.0,146.0,0.0,1174.0,147,90252,37
+3714791340,"Grifton township, Pitt County, North Carolina",3469.0,1903.0,1903.0,1626.0,277.0,0.0,1566.0,147,91340,37
+3714791152,"Fountain township, Pitt County, North Carolina",1230.0,675.0,675.0,540.0,135.0,0.0,555.0,147,91152,37
+3714790512,"Carolina township, Pitt County, North Carolina",1683.0,1111.0,1111.0,1073.0,38.0,0.0,572.0,147,90512,37
+3714791328,"Greenville township, Pitt County, North Carolina",44338.0,25993.0,25966.0,22443.0,3523.0,27.0,18345.0,147,91328,37
+3714794072,"Winterville township, Pitt County, North Carolina",39214.0,28063.0,28011.0,26580.0,1431.0,52.0,11151.0,147,94072,37
+3714791064,"Falkland township, Pitt County, North Carolina",3116.0,1835.0,1835.0,1702.0,133.0,0.0,1281.0,147,91064,37
+3714790112,"Ayden township, Pitt County, North Carolina",5809.0,3392.0,3353.0,2856.0,497.0,39.0,2417.0,147,90112,37
+3715991840,"Litaker township, Rowan County, North Carolina",9193.0,5334.0,5334.0,5090.0,244.0,0.0,3859.0,159,91840,37
+3715992860,"Scotch Irish township, Rowan County, North Carolina",1549.0,956.0,956.0,903.0,53.0,0.0,593.0,159,92860,37
+3715991256,"Gold Hill township, Rowan County, North Carolina",8860.0,5130.0,5085.0,4681.0,404.0,45.0,3730.0,159,91256,37
+3715992172,"Mount Ulla township, Rowan County, North Carolina",1210.0,711.0,711.0,690.0,21.0,0.0,499.0,159,92172,37
+3717190908,"Dobson township, Surry County, North Carolina",6386.0,3316.0,3309.0,3144.0,165.0,7.0,3070.0,171,90908,37
+3717190984,"Eldora township, Surry County, North Carolina",2968.0,1645.0,1638.0,1561.0,77.0,7.0,1323.0,171,90984,37
+3717192496,"Pilot township, Surry County, North Carolina",3419.0,1977.0,1977.0,1894.0,83.0,0.0,1442.0,171,92496,37
+3717192732,"Rockford township, Surry County, North Carolina",1462.0,921.0,921.0,862.0,59.0,0.0,541.0,171,92732,37
+3717192948,"Siloam township, Surry County, North Carolina",906.0,498.0,498.0,493.0,5.0,0.0,408.0,171,92948,37
+3717193064,"South Westfield township, Surry County, North Carolina",1685.0,882.0,882.0,824.0,58.0,0.0,803.0,171,93064,37
+3717190412,"Bryan township, Surry County, North Carolina",2107.0,1158.0,1158.0,1086.0,72.0,0.0,949.0,171,90412,37
+3717191996,"Marsh township, Surry County, North Carolina",2403.0,1243.0,1243.0,1179.0,64.0,0.0,1160.0,171,91996,37
+3717191016,"Elkin township, Surry County, North Carolina",4992.0,2812.0,2812.0,2687.0,125.0,0.0,2180.0,171,91016,37
+3717191904,"Long Hill township, Surry County, North Carolina",1179.0,735.0,735.0,728.0,7.0,0.0,444.0,171,91904,37
+3719792321,"North Knobs township, Yadkin County, North Carolina",3756.0,1985.0,1985.0,1881.0,104.0,0.0,1771.0,197,92321,37
+3719792322,"North Liberty township, Yadkin County, North Carolina",4905.0,2777.0,2777.0,2538.0,239.0,0.0,2128.0,197,92322,37
+3719792314,"North Fall Creek township, Yadkin County, North Carolina",1391.0,654.0,654.0,606.0,48.0,0.0,737.0,197,92314,37
+3719790892,"Deep Creek township, Yadkin County, North Carolina",2255.0,1450.0,1450.0,1418.0,32.0,0.0,805.0,197,90892,37
+3719791128,"Forbush township, Yadkin County, North Carolina",3529.0,1678.0,1678.0,1612.0,66.0,0.0,1851.0,197,91128,37
+3719792302,"North Buck Shoals township, Yadkin County, North Carolina",1400.0,687.0,687.0,687.0,0.0,0.0,713.0,197,92302,37
+3719793030,"South Buck Shoals township, Yadkin County, North Carolina",1209.0,745.0,745.0,697.0,48.0,0.0,464.0,197,93030,37
+3719793034,"South Fall Creek township, Yadkin County, North Carolina",2053.0,1211.0,1211.0,1168.0,43.0,0.0,842.0,197,93034,37
+3719793042,"South Liberty township, Yadkin County, North Carolina",2404.0,1218.0,1193.0,1091.0,102.0,25.0,1186.0,197,93042,37
+3719790340,"Boonville township, Yadkin County, North Carolina",3354.0,1853.0,1853.0,1752.0,101.0,0.0,1501.0,197,90340,37
+3719790952,"East Bend township, Yadkin County, North Carolina",3102.0,1976.0,1976.0,1816.0,160.0,0.0,1126.0,197,90952,37
+3719793041,"South Knobs township, Yadkin County, North Carolina",1269.0,500.0,500.0,459.0,41.0,0.0,769.0,197,93041,37
+3701191018,"Elk Park township, Avery County, North Carolina",865.0,479.0,479.0,410.0,69.0,0.0,386.0,011,91018,37
+3701191582,"Ingalls township, Avery County, North Carolina",3035.0,581.0,581.0,581.0,0.0,0.0,2454.0,011,91582,37
+3701192110,"Montezuma township, Avery County, North Carolina",267.0,107.0,107.0,107.0,0.0,0.0,160.0,011,92110,37
+3701192262,"Newland No. 1 township, Avery County, North Carolina",1070.0,635.0,627.0,605.0,22.0,8.0,435.0,011,92262,37
+3701192263,"Newland No. 2 township, Avery County, North Carolina",999.0,608.0,608.0,604.0,4.0,0.0,391.0,011,92263,37
+3701192538,"Plumtree township, Avery County, North Carolina",349.0,219.0,219.0,214.0,5.0,0.0,130.0,011,92538,37
+3702391832,"Linville township, Burke County, North Carolina",1578.0,875.0,875.0,835.0,40.0,0.0,703.0,023,91832,37
+3702391920,"Lower Creek township, Burke County, North Carolina",2638.0,1225.0,1225.0,1172.0,53.0,0.0,1413.0,023,91920,37
+3702391912,"Lovelady township, Burke County, North Carolina",6358.0,3321.0,3321.0,2996.0,325.0,0.0,3037.0,023,91912,37
+3702392136,"Morganton township, Burke County, North Carolina",23123.0,11837.0,11837.0,10628.0,1209.0,0.0,11286.0,023,92136,37
+3702392996,"Smoky Creek township, Burke County, North Carolina",519.0,298.0,298.0,233.0,65.0,0.0,221.0,023,92996,37
+3702393832,"Upper Creek township, Burke County, North Carolina",635.0,362.0,362.0,348.0,14.0,0.0,273.0,023,93832,37
+3702392952,"Silver Creek township, Burke County, North Carolina",8227.0,5074.0,5056.0,4671.0,385.0,18.0,3153.0,023,92952,37
+3702593284,"Township 1, Harrisburg; Cabarrus County; North Carolina",21271.0,14305.0,14222.0,13482.0,740.0,83.0,6966.0,025,93284,37
+3702593488,"Township 5, New Gilead; Cabarrus County; North Carolina",3404.0,2135.0,2135.0,1993.0,142.0,0.0,1269.0,025,93488,37
+3702593380,"Township 3, Odell; Cabarrus County; North Carolina",11249.0,7980.0,7971.0,7561.0,410.0,9.0,3269.0,025,93380,37
+3702593688,"Township 10, Midland; Cabarrus County; North Carolina",5867.0,3757.0,3757.0,3697.0,60.0,0.0,2110.0,025,93688,37
+3702593716,"Township 12, Concord; Cabarrus County; North Carolina",14484.0,9089.0,9078.0,8141.0,937.0,11.0,5395.0,025,93716,37
+3702593644,"Township 9, Georgeville; Cabarrus County; North Carolina",3278.0,2165.0,2165.0,1990.0,175.0,0.0,1113.0,025,93644,37
+3702593436,"Township 4, Kannapolis; Cabarrus County; North Carolina",35012.0,24123.0,24052.0,21709.0,2343.0,71.0,10889.0,025,93436,37
+3702593696,"Township 11, Central Cabarrus; Cabarrus County; North Carolina",18418.0,12155.0,12155.0,11472.0,683.0,0.0,6263.0,025,93696,37
+3702593572,"Township 7, Gold Hill; Cabarrus County; North Carolina",1328.0,932.0,932.0,833.0,99.0,0.0,396.0,025,93572,37
+3702593356,"Township 2, Poplar Tent; Cabarrus County; North Carolina",29909.0,21833.0,21826.0,20724.0,1102.0,7.0,8076.0,025,93356,37
+3702593532,"Township 6, Rimertown; Cabarrus County; North Carolina",2314.0,1393.0,1393.0,1325.0,68.0,0.0,921.0,025,93532,37
+3702593604,"Township 8, Mount Pleasant; Cabarrus County; North Carolina",4947.0,3223.0,3223.0,2967.0,256.0,0.0,1724.0,025,93604,37
+3703390880,"Dan River township, Caswell County, North Carolina",2236.0,1216.0,1216.0,1090.0,126.0,0.0,1020.0,033,90880,37
+3703391492,"Hightowers township, Caswell County, North Carolina",1537.0,956.0,956.0,914.0,42.0,0.0,581.0,033,91492,37
+3703394120,"Yanceyville township, Caswell County, North Carolina",2934.0,1035.0,1035.0,828.0,207.0,0.0,1899.0,033,94120,37
+3703390056,"Anderson township, Caswell County, North Carolina",1701.0,1003.0,1003.0,975.0,28.0,0.0,698.0,033,90056,37
+3703392080,"Milton township, Caswell County, North Carolina",1955.0,1180.0,1180.0,1021.0,159.0,0.0,775.0,033,92080,37
+3703392468,"Pelham township, Caswell County, North Carolina",2946.0,1522.0,1522.0,1383.0,139.0,0.0,1424.0,033,92468,37
+3703391756,"Leasburg township, Caswell County, North Carolina",881.0,563.0,563.0,563.0,0.0,0.0,318.0,033,91756,37
+3703391888,"Locust Hill township, Caswell County, North Carolina",1901.0,1217.0,1217.0,1090.0,127.0,0.0,684.0,033,91888,37
+3705990668,"Clarksville township, Davie County, North Carolina",2843.0,1892.0,1892.0,1806.0,86.0,0.0,951.0,059,90668,37
+3703192884,"Sea Level township, Carteret County, North Carolina",377.0,211.0,211.0,211.0,0.0,0.0,166.0,031,92884,37
+3718591432,"Hawtree township, Warren County, North Carolina",885.0,689.0,689.0,689.0,0.0,0.0,196.0,185,91432,37
+3718592940,"Shocco township, Warren County, North Carolina",1146.0,588.0,580.0,483.0,97.0,8.0,558.0,185,92940,37
+3718591132,"Fork township, Warren County, North Carolina",365.0,230.0,230.0,179.0,51.0,0.0,135.0,185,91132,37
+3718591684,"Judkins township, Warren County, North Carolina",437.0,189.0,189.0,177.0,12.0,0.0,248.0,185,91684,37
+3718592688,"River township, Warren County, North Carolina",1114.0,589.0,589.0,583.0,6.0,0.0,525.0,185,92688,37
+3718592828,"Sandy Creek township, Warren County, North Carolina",1479.0,774.0,774.0,722.0,52.0,0.0,705.0,185,92828,37
+3718592964,"Sixpound township, Warren County, North Carolina",871.0,398.0,398.0,344.0,54.0,0.0,473.0,185,92964,37
+3718591112,"Fishing Creek township, Warren County, North Carolina",1735.0,827.0,822.0,683.0,139.0,5.0,908.0,185,91112,37
+3718592700,"Roanoke township, Warren County, North Carolina",933.0,347.0,347.0,337.0,10.0,0.0,586.0,185,92700,37
+3718593896,"Warrenton township, Warren County, North Carolina",3811.0,1734.0,1734.0,1561.0,173.0,0.0,2077.0,185,93896,37
+3718592340,"Nutbush township, Warren County, North Carolina",1954.0,624.0,624.0,599.0,25.0,0.0,1330.0,185,92340,37
+3718592976,"Smith Creek township, Warren County, North Carolina",2095.0,1020.0,1020.0,989.0,31.0,0.0,1075.0,185,92976,37
+3719590276,"Black Creek township, Wilson County, North Carolina",3343.0,1979.0,1979.0,1727.0,252.0,0.0,1364.0,195,90276,37
+3719593096,"Stantonsburg township, Wilson County, North Carolina",1574.0,913.0,909.0,800.0,109.0,4.0,661.0,195,93096,37
+3719594048,"Wilson township, Wilson County, North Carolina",33287.0,18791.0,18749.0,16981.0,1768.0,42.0,14496.0,195,94048,37
+3719592840,"Saratoga township, Wilson County, North Carolina",1370.0,750.0,750.0,672.0,78.0,0.0,620.0,195,92840,37
+3719591208,"Gardners township, Wilson County, North Carolina",2647.0,1424.0,1424.0,1300.0,124.0,0.0,1223.0,195,91208,37
+3719592380,"Old Fields township, Wilson County, North Carolina",4309.0,2978.0,2954.0,2812.0,142.0,24.0,1331.0,195,92380,37
+3719593084,"Springhill township, Wilson County, North Carolina",2940.0,1743.0,1743.0,1693.0,50.0,0.0,1197.0,195,93084,37
+3719593220,"Taylors township, Wilson County, North Carolina",7443.0,5135.0,5097.0,4866.0,231.0,38.0,2308.0,195,93220,37
+3719593244,"Toisnot township, Wilson County, North Carolina",4544.0,2656.0,2656.0,2423.0,233.0,0.0,1888.0,195,93244,37
+3719590840,"Cross Roads township, Wilson County, North Carolina",2840.0,1938.0,1938.0,1841.0,97.0,0.0,902.0,195,90840,37
+3701592044,"Merry Hill township, Bertie County, North Carolina",584.0,268.0,268.0,236.0,32.0,0.0,316.0,015,92044,37
+3701590712,"Colerain township, Bertie County, North Carolina",2864.0,1667.0,1667.0,1576.0,91.0,0.0,1197.0,015,90712,37
+3701593988,"Whites township, Bertie County, North Carolina",1626.0,994.0,994.0,745.0,249.0,0.0,632.0,015,93988,37
+3701594104,"Woodville township, Bertie County, North Carolina",890.0,598.0,598.0,530.0,68.0,0.0,292.0,015,94104,37
+3701591580,"Indian Woods township, Bertie County, North Carolina",294.0,90.0,90.0,77.0,13.0,0.0,204.0,015,91580,37
+3701592768,"Roxobel township, Bertie County, North Carolina",1323.0,788.0,788.0,646.0,142.0,0.0,535.0,015,92768,37
+3701594064,"Windsor township, Bertie County, North Carolina",5847.0,2311.0,2311.0,2071.0,240.0,0.0,3536.0,015,94064,37
+3707392660,"Reynoldson township, Gates County, North Carolina",1587.0,914.0,893.0,759.0,134.0,21.0,673.0,073,92660,37
+3707391520,"Holly Grove township, Gates County, North Carolina",1423.0,852.0,847.0,795.0,52.0,5.0,571.0,073,91520,37
+3707392092,"Mintonsville township, Gates County, North Carolina",887.0,560.0,560.0,485.0,75.0,0.0,327.0,073,92092,37
+3707391376,"Hall township, Gates County, North Carolina",1236.0,753.0,753.0,719.0,34.0,0.0,483.0,073,91376,37
+3707391420,"Haslett township, Gates County, North Carolina",1865.0,1051.0,1051.0,982.0,69.0,0.0,814.0,073,91420,37
+3707391560,"Hunters Mill township, Gates County, North Carolina",1025.0,579.0,579.0,517.0,62.0,0.0,446.0,073,91560,37
+3707391220,"Gatesville township, Gates County, North Carolina",1420.0,813.0,811.0,755.0,56.0,2.0,607.0,073,91220,37
+3707590636,"Cheoah township, Graham County, North Carolina",4886.0,2248.0,2248.0,2063.0,185.0,0.0,2638.0,075,90636,37
+3707594124,"Yellow Creek township, Graham County, North Carolina",549.0,282.0,282.0,226.0,56.0,0.0,267.0,075,94124,37
+3707593108,"Stecoah township, Graham County, North Carolina",1584.0,769.0,769.0,736.0,33.0,0.0,815.0,075,93108,37
+3711791644,"Jamesville township, Martin County, North Carolina",2289.0,1334.0,1334.0,1222.0,112.0,0.0,955.0,117,91644,37
+3711791332,"Griffins township, Martin County, North Carolina",1057.0,596.0,596.0,480.0,116.0,0.0,461.0,117,91332,37
+3711794040,"Williamston township, Martin County, North Carolina",6294.0,3542.0,3542.0,3257.0,285.0,0.0,2752.0,117,94040,37
+3711790836,"Cross Roads township, Martin County, North Carolina",1429.0,755.0,755.0,670.0,85.0,0.0,674.0,117,90836,37
+3711791268,"Goose Nest township, Martin County, North Carolina",890.0,485.0,485.0,428.0,57.0,0.0,405.0,117,91268,37
+3711792712,"Robersonville township, Martin County, North Carolina",2889.0,1484.0,1484.0,1350.0,134.0,0.0,1405.0,117,92712,37
+3711790176,"Beargrass township, Martin County, North Carolina",1966.0,1210.0,1191.0,1121.0,70.0,19.0,756.0,117,90176,37
+3711791388,"Hamilton township, Martin County, North Carolina",1053.0,317.0,317.0,214.0,103.0,0.0,736.0,117,91388,37
+3711794024,"Williams township, Martin County, North Carolina",961.0,520.0,520.0,496.0,24.0,0.0,441.0,117,94024,37
+3711792556,"Poplar Point township, Martin County, North Carolina",173.0,73.0,73.0,73.0,0.0,0.0,100.0,117,92556,37
+3711593624,"Township 8, Spring Creek; Madison County; North Carolina",901.0,345.0,345.0,298.0,47.0,0.0,556.0,115,93624,37
+3711593290,"Township 1, North Marshall; Madison County; North Carolina",1957.0,1017.0,1008.0,987.0,21.0,9.0,940.0,115,93290,37
+3711593500,"Township 5, Walnut; Madison County; North Carolina",1341.0,766.0,766.0,674.0,92.0,0.0,575.0,115,93500,37
+3711593528,"Township 6, Hot Springs; Madison County; North Carolina",898.0,411.0,411.0,371.0,40.0,0.0,487.0,115,93528,37
+3711593298,"Township 1, South Marshall; Madison County; North Carolina",1253.0,810.0,810.0,752.0,58.0,0.0,443.0,115,93298,37
+3711593376,"Township 3, Mars Hill; Madison County; North Carolina",4857.0,2962.0,2962.0,2708.0,254.0,0.0,1895.0,115,93376,37
+3711593654,"Township 9, Sandy Mush; Madison County; North Carolina",182.0,56.0,56.0,56.0,0.0,0.0,126.0,115,93654,37
+3711593340,"Township 2, Laurel; Madison County; North Carolina",860.0,517.0,517.0,517.0,0.0,0.0,343.0,115,93340,37
+3711593660,"Township 10, Grapevine; Madison County; North Carolina",1197.0,695.0,695.0,670.0,25.0,0.0,502.0,115,93660,37
+3711593416,"Township 4, Beech Glenn; Madison County; North Carolina",2944.0,1769.0,1769.0,1680.0,89.0,0.0,1175.0,115,93416,37
+3711593568,"Township 7, Ebbs Chapel; Madison County; North Carolina",1300.0,687.0,687.0,614.0,73.0,0.0,613.0,115,93568,37
+3713793312,"Township 2, Pamlico County, North Carolina",2703.0,1149.0,1149.0,1023.0,126.0,0.0,1554.0,137,93312,37
+3713793364,"Township 3, Pamlico County, North Carolina",2084.0,1082.0,1082.0,993.0,89.0,0.0,1002.0,137,93364,37
+3713793260,"Township 1, Pamlico County, North Carolina",2510.0,1433.0,1433.0,1369.0,64.0,0.0,1077.0,137,93260,37
+3713793412,"Township 4, Pamlico County, North Carolina",1627.0,639.0,634.0,524.0,110.0,5.0,988.0,137,93412,37
+3713793464,"Township 5, Pamlico County, North Carolina",2092.0,1158.0,1158.0,1106.0,52.0,0.0,934.0,137,93464,37
+3714390220,"Belvidere township, Perquimans County, North Carolina",1017.0,646.0,646.0,613.0,33.0,0.0,371.0,143,90220,37
+3714392248,"New Hope township, Perquimans County, North Carolina",2590.0,1446.0,1408.0,1355.0,53.0,38.0,1144.0,143,92248,37
+3714390248,"Bethel township, Perquimans County, North Carolina",3715.0,1610.0,1610.0,1461.0,149.0,0.0,2105.0,143,90248,37
+3714391464,"Hertford township, Perquimans County, North Carolina",2254.0,1188.0,1178.0,981.0,197.0,10.0,1066.0,143,91464,37
+3714392448,"Parkville township, Perquimans County, North Carolina",1602.0,871.0,842.0,799.0,43.0,29.0,731.0,143,92448,37

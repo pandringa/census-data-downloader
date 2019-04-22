@@ -1,0 +1,28 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+1000391924,"Lower Christiana CCD, New Castle County, Delaware",9910.0,7859.0,2051.0,003,91924,10
+1000392960,"Piedmont CCD, New Castle County, Delaware",9426.0,8059.0,1367.0,003,92960,10
+1000393996,"Wilmington CCD, New Castle County, Delaware",10123.0,5851.0,4272.0,003,93996,10
+1000393256,"Red Lion CCD, New Castle County, Delaware",2107.0,1828.0,279.0,003,93256,10
+1000393848,"Upper Christiana CCD, New Castle County, Delaware",5608.0,3785.0,1823.0,003,93848,10
+1000390148,"Brandywine CCD, New Castle County, Delaware",24379.0,19971.0,4408.0,003,90148,10
+1000392072,"Middletown-Odessa CCD, New Castle County, Delaware",13726.0,12342.0,1384.0,003,92072,10
+1000393108,"Pike Creek-Central Kirkwood CCD, New Castle County, Delaware",13443.0,11427.0,2016.0,003,93108,10
+1000591628,"Laurel-Delmar CCD, Sussex County, Delaware",7075.0,5844.0,1231.0,005,91628,10
+1000592664,"Milton CCD, Sussex County, Delaware",6410.0,5577.0,833.0,005,92664,10
+1000392812,"New Castle CCD, New Castle County, Delaware",14292.0,10892.0,3400.0,003,92812,10
+1000590296,"Bridgeville-Greenwood CCD, Sussex County, Delaware",3462.0,2853.0,609.0,005,90296,10
+1000591776,"Lewes CCD, Sussex County, Delaware",14478.0,12362.0,2116.0,005,91776,10
+1000592516,"Millsboro CCD, Sussex County, Delaware",9749.0,8172.0,1577.0,005,92516,10
+1000593404,"Seaford CCD, Sussex County, Delaware",6547.0,5337.0,1210.0,005,93404,10
+1000592368,"Milford South CCD, Sussex County, Delaware",6321.0,5522.0,799.0,005,92368,10
+1000591036,"Georgetown CCD, Sussex County, Delaware",3437.0,2571.0,866.0,005,91036,10
+1000191480,"Kenton CCD, Kent County, Delaware",2156.0,1845.0,311.0,001,91480,10
+1000192220,"Milford North CCD, Kent County, Delaware",3174.0,2326.0,848.0,001,92220,10
+1000191332,"Harrington CCD, Kent County, Delaware",3797.0,3106.0,691.0,001,91332,10
+1000190888,"Felton CCD, Kent County, Delaware",2441.0,1896.0,545.0,001,90888,10
+1000190740,"Dover CCD, Kent County, Delaware",18316.0,12883.0,5433.0,001,90740,10
+1000190444,"Central Kent CCD, Kent County, Delaware",7091.0,5971.0,1120.0,001,90444,10
+1000193700,"Smyrna CCD, Kent County, Delaware",5990.0,4647.0,1343.0,001,93700,10
+1000392738,"Newark CCD, New Castle County, Delaware",16834.0,11596.0,5238.0,003,92738,10
+1000391110,"Glasgow CCD, New Castle County, Delaware",9133.0,7396.0,1737.0,003,91110,10
+1000593552,"Selbyville-Frankford CCD, Sussex County, Delaware",12976.0,10891.0,2085.0,005,93552,10

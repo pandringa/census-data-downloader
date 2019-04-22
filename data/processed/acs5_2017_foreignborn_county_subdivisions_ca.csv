@@ -1,0 +1,398 @@
+geoid,name,total,native,foreign_born,county,county subdivision,state
+0610993080,"Sonora CCD, Tuolumne County, California",18742.0,17590.0,1152.0,109,93080,06
+0610990835,"East Sonora-Phoenix Lake CCD, Tuolumne County, California",13564.0,12925.0,639.0,109,90835,06
+0607790900,"Escalon CCD, San Joaquin County, California",13697.0,11987.0,1710.0,077,90900,06
+0607793340,"Thornton CCD, San Joaquin County, California",14197.0,10450.0,3747.0,077,93340,06
+0607791630,"Linden-Farmington CCD, San Joaquin County, California",6230.0,5060.0,1170.0,077,91630,06
+0607791690,"Lockeford CCD, San Joaquin County, California",11533.0,9595.0,1938.0,077,91690,06
+0607791700,"Lodi CCD, San Joaquin County, California",85025.0,67698.0,17327.0,077,91700,06
+0607793240,"Stockton CCD, San Joaquin County, California",354346.0,263407.0,90939.0,077,93240,06
+0607791870,"Manteca CCD, San Joaquin County, California",106493.0,85645.0,20848.0,077,91870,06
+0607792620,"Ripon CCD, San Joaquin County, California",17394.0,15596.0,1798.0,077,92620,06
+0607793400,"Tracy CCD, San Joaquin County, California",115238.0,86338.0,28900.0,077,93400,06
+0600593300,"Sutter Creek-Plymouth CCD, Amador County, California",8441.0,7948.0,493.0,005,93300,06
+0600591430,"Jackson CCD, Amador County, California",7470.0,7009.0,461.0,005,91430,06
+0600592470,"Pine Grove-Silver Lake CCD, Amador County, California",9838.0,9268.0,570.0,005,92470,06
+0600591410,"Ione CCD, Amador County, California",11557.0,10830.0,727.0,005,91410,06
+0604790720,"Dos Palos CCD, Merced County, California",9576.0,7246.0,2330.0,047,90720,06
+0604792500,"Planada-Le Grand CCD, Merced County, California",7785.0,4855.0,2930.0,047,92500,06
+0604791760,"Los Banos CCD, Merced County, California",42126.0,31427.0,10699.0,047,91760,06
+0604791960,"Merced CCD, Merced County, California",104678.0,81972.0,22706.0,047,91960,06
+0604793050,"Snelling CCD, Merced County, California",984.0,756.0,228.0,047,93050,06
+0604791290,"Hilmar-Irwin CCD, Merced County, California",9758.0,7306.0,2452.0,047,91290,06
+0604791210,"Gustine CCD, Merced County, California",8241.0,6064.0,2177.0,047,91210,06
+0603391540,"Lakeport CCD, Lake County, California",9363.0,8286.0,1077.0,033,91540,06
+0604391880,"Mariposa CCD, Mariposa County, California",12817.0,12072.0,745.0,043,91880,06
+0604390600,"Coulterville CCD, Mariposa County, California",3040.0,2815.0,225.0,043,90600,06
+0604993270,"Surprise Valley CCD, Modoc County, California",1124.0,1052.0,72.0,049,93270,06
+0604790150,"Atwater CCD, Merced County, California",51427.0,38942.0,12485.0,047,90150,06
+0604791670,"Livingston-Delhi CCD, Merced County, California",32815.0,20618.0,12197.0,047,91670,06
+0611593830,"Yuba Foothills CCD, Yuba County, California",4365.0,4180.0,185.0,115,93830,06
+0611591900,"Marysville CCD, Yuba County, California",12725.0,11257.0,1468.0,115,91900,06
+0604990010,"Adin-Lookout CCD, Modoc County, California",650.0,639.0,11.0,049,90010,06
+0604990040,"Alturas CCD, Modoc County, California",6494.0,6092.0,402.0,049,90040,06
+0611592250,"Olivehurst CCD, Yuba County, California",22264.0,19158.0,3106.0,115,92250,06
+0611593720,"Wheatland CCD, Yuba County, California",4508.0,4050.0,458.0,115,93720,06
+0611591610,"Linda CCD, Yuba County, California",18807.0,15723.0,3084.0,115,91610,06
+0601390780,"East Contra Costa CCD, Contra Costa County, California",136046.0,113423.0,22623.0,013,90780,06
+0601393310,"Tassajara CCD, Contra Costa County, California",63571.0,42527.0,21044.0,013,93310,06
+0601393620,"West Contra Costa CCD, Contra Costa County, California",259721.0,172833.0,86888.0,013,93620,06
+0601390440,"Central Contra Costa CCD, Contra Costa County, California",500484.0,397483.0,103001.0,013,90440,06
+0602790650,"Death Valley CCD, Inyo County, California",569.0,538.0,31.0,027,90650,06
+0602791720,"Lone Pine CCD, Inyo County, California",2227.0,1885.0,342.0,027,91720,06
+0602790250,"Bishop CCD, Inyo County, California",13010.0,11782.0,1228.0,027,90250,06
+0602791390,"Independence CCD, Inyo County, California",2389.0,2279.0,110.0,027,91390,06
+0603591820,"Madeline Plains CCD, Lassen County, California",295.0,281.0,14.0,035,91820,06
+0603593280,"Susanville CCD, Lassen County, California",24125.0,22887.0,1238.0,035,93280,06
+0603593710,"Westwood CCD, Lassen County, California",2712.0,2648.0,64.0,035,93710,06
+0603591320,"Honey Lake CCD, Lassen County, California",3209.0,2721.0,488.0,035,91320,06
+0603590240,"Big Valley CCD, Lassen County, California",1129.0,1088.0,41.0,035,90240,06
+0609993580,"Waterford CCD, Stanislaus County, California",14658.0,11857.0,2801.0,099,93580,06
+0609991350,"Hughson CCD, Stanislaus County, California",12318.0,10817.0,1501.0,099,91350,06
+0609993460,"Turlock CCD, Stanislaus County, California",85733.0,66724.0,19009.0,099,93460,06
+0609992210,"Oakdale CCD, Stanislaus County, California",32572.0,29204.0,3368.0,099,92210,06
+0609993650,"Westport CCD, Stanislaus County, California",4195.0,3054.0,1141.0,099,93650,06
+0609992120,"Newman CCD, Stanislaus County, California",13042.0,9711.0,3331.0,099,92120,06
+0609992420,"Patterson CCD, Stanislaus County, California",27633.0,20845.0,6788.0,099,92420,06
+0601390080,"Antioch-Pittsburg CCD, Contra Costa County, California",158725.0,116037.0,42688.0,013,90080,06
+0601390270,"Briones CCD, Contra Costa County, California",5131.0,3779.0,1352.0,013,90270,06
+0609991980,"Modesto CCD, Stanislaus County, California",325278.0,256504.0,68774.0,099,91980,06
+0609992720,"Salida CCD, Stanislaus County, California",20255.0,16239.0,4016.0,099,92720,06
+0608391200,"Guadalupe CCD, Santa Barbara County, California",7581.0,5012.0,2569.0,083,91200,06
+0608392890,"Santa Barbara CCD, Santa Barbara County, California",193787.0,154678.0,39109.0,083,92890,06
+0608390630,"Cuyama CCD, Santa Barbara County, California",941.0,773.0,168.0,083,90630,06
+0609393600,"Weed CCD, Siskiyou County, California",7305.0,6879.0,426.0,093,93600,06
+0609391800,"McCloud-Medicine Lake CCD, Siskiyou County, California",1375.0,1359.0,16.0,093,91800,06
+0609391340,"Hornbrook-Hilt CCD, Siskiyou County, California",580.0,565.0,15.0,093,91340,06
+0609392010,"Montague CCD, Siskiyou County, California",4170.0,3935.0,235.0,093,92010,06
+0609392050,"Mount Shasta CCD, Siskiyou County, California",6697.0,6494.0,203.0,093,92050,06
+0609390290,"Butte Valley CCD, Siskiyou County, California",1753.0,1485.0,268.0,093,90290,06
+0609390740,"Dunsmuir CCD, Siskiyou County, California",1948.0,1845.0,103.0,093,90740,06
+0609393450,"Tulelake CCD, Siskiyou County, California",1202.0,858.0,344.0,093,93450,06
+0609391040,"Fort Jones CCD, Siskiyou County, California",1874.0,1762.0,112.0,093,91040,06
+0609393810,"Yreka CCD, Siskiyou County, California",11469.0,11103.0,366.0,093,93810,06
+0609391240,"Happy Camp CCD, Siskiyou County, California",1816.0,1730.0,86.0,093,91240,06
+0608990450,"Central Shasta CCD, Shasta County, California",11095.0,10837.0,258.0,089,90450,06
+0608993210,"Southwest Shasta CCD, Shasta County, California",3771.0,3662.0,109.0,089,93210,06
+0609590950,"Fairfield-Suisun City CCD, Solano County, California",147108.0,113892.0,33216.0,095,90950,06
+0608990820,"East Shasta CCD, Shasta County, California",7918.0,7479.0,439.0,089,90820,06
+0608992700,"Sacramento Canyon CCD, Shasta County, California",1499.0,1448.0,51.0,089,92700,06
+0609590700,"Dixon CCD, Solano County, California",22541.0,17712.0,4829.0,095,90700,06
+0609592610,"Rio Vista CCD, Solano County, California",10075.0,8618.0,1457.0,095,92610,06
+0609593520,"Vacaville CCD, Solano County, California",104902.0,92722.0,12180.0,095,93520,06
+0609593530,"Vallejo CCD, Solano County, California",150355.0,114668.0,35687.0,095,93530,06
+0601591490,"Klamath CCD, Del Norte County, California",1228.0,1197.0,31.0,015,91490,06
+0601593040,"Smith River-Gasquet CCD, Del Norte County, California",4126.0,3908.0,218.0,015,93040,06
+0601590620,"Crescent City CCD, Del Norte County, California",22088.0,20608.0,1480.0,015,90620,06
+0601190430,"Central Colusa CCD, Colusa County, California",12049.0,8233.0,3816.0,011,90430,06
+0601193610,"West Colusa CCD, Colusa County, California",877.0,870.0,7.0,011,93610,06
+0601190770,"East Colusa CCD, Colusa County, California",8553.0,6846.0,1707.0,011,90770,06
+0602192280,"Orland CCD, Glenn County, California",17567.0,13684.0,3883.0,021,92280,06
+0602193750,"Willows CCD, Glenn County, California",10368.0,8672.0,1696.0,021,93750,06
+0600791180,"Gridley CCD, Butte County, California",11110.0,8764.0,2346.0,007,91180,06
+0600790970,"Feather Falls CCD, Butte County, California",4798.0,4605.0,193.0,007,90970,06
+0600790230,"Biggs CCD, Butte County, California",3736.0,3332.0,404.0,007,90230,06
+0600790470,"Chico CCD, Butte County, California",105397.0,96815.0,8582.0,007,90470,06
+0600792330,"Palermo CCD, Butte County, California",8625.0,7440.0,1185.0,007,92330,06
+0600792380,"Paradise CCD, Butte County, California",46766.0,45539.0,1227.0,007,92380,06
+0600790750,"Durham CCD, Butte County, California",5667.0,5406.0,261.0,007,90750,06
+0600792300,"Oroville CCD, Butte County, California",39108.0,36131.0,2977.0,007,92300,06
+0603190570,"Corcoran CCD, Kings County, California",14989.0,11599.0,3390.0,031,90570,06
+0603191230,"Hanford Northeast CCD, Kings County, California",2973.0,2430.0,543.0,031,91230,06
+0603191590,"Lemoore CCD, Kings County, California",36983.0,32210.0,4773.0,031,91590,06
+0603193250,"Stratford CCD, Kings County, California",13742.0,10852.0,2890.0,031,93250,06
+0603190170,"Avenal CCD, Kings County, California",13149.0,8585.0,4564.0,031,90170,06
+0603191220,"Hanford CCD, Kings County, California",68347.0,56748.0,11599.0,031,91220,06
+0606391135,"Graeagle CCD, Plumas County, California",1423.0,1362.0,61.0,063,91135,06
+0606392540,"Quincy CCD, Plumas County, California",6391.0,6234.0,157.0,063,92540,06
+0606391170,"Greenville CCD, Plumas County, California",2638.0,2586.0,52.0,063,91170,06
+0606390460,"Chester CCD, Plumas County, California",4107.0,3901.0,206.0,063,90460,06
+0606392530,"Portola CCD, Plumas County, California",4124.0,3957.0,167.0,063,92530,06
+0607992410,"Paso Robles CCD, San Luis Obispo County, California",51273.0,43314.0,7959.0,079,92410,06
+0607992860,"San Luis Obispo CCD, San Luis Obispo County, California",65148.0,59659.0,5489.0,079,92860,06
+0607990120,"Arroyo Grande CCD, San Luis Obispo County, California",79839.0,70855.0,8984.0,079,90120,06
+0607992160,"North Coast CCD, San Luis Obispo County, California",37460.0,33746.0,3714.0,079,92160,06
+0607990140,"Atascadero CCD, San Luis Obispo County, California",46399.0,43436.0,2963.0,079,90140,06
+0601990390,"Caruthers-Raisin City CCD, Fresno County, California",10059.0,7075.0,2984.0,019,90390,06
+0601991570,"Laton CCD, Fresno County, California",3379.0,2510.0,869.0,019,91570,06
+0601992800,"Sanger CCD, Fresno County, California",35769.0,28710.0,7059.0,019,92800,06
+0601991000,"Firebaugh CCD, Fresno County, California",9980.0,6351.0,3629.0,019,91000,06
+0601993010,"Sierra CCD, Fresno County, California",19142.0,18140.0,1002.0,019,93010,06
+0601991460,"Kerman CCD, Fresno County, California",24659.0,17044.0,7615.0,019,91460,06
+0601991480,"Kingsburg CCD, Fresno County, California",13140.0,11626.0,1514.0,019,91480,06
+0601992820,"San Joaquin-Tranquillity CCD, Fresno County, California",6635.0,3692.0,2943.0,019,92820,06
+0601991950,"Mendota CCD, Fresno County, California",13057.0,6514.0,6543.0,019,91950,06
+0601992600,"Reedley CCD, Fresno County, California",31100.0,22407.0,8693.0,019,92600,06
+0601992270,"Orange Cove CCD, Fresno County, California",11213.0,7175.0,4038.0,019,92270,06
+0601992990,"Selma CCD, Fresno County, California",30649.0,22939.0,7710.0,019,92990,06
+0601990530,"Coalinga CCD, Fresno County, California",18011.0,14406.0,3605.0,019,90530,06
+0601991060,"Fowler CCD, Fresno County, California",11467.0,9173.0,2294.0,019,91060,06
+0601991080,"Fresno CCD, Fresno County, California",698889.0,568408.0,130481.0,019,91080,06
+0601991360,"Huron CCD, Fresno County, California",8023.0,3902.0,4121.0,019,91360,06
+0602991160,"Greenfield-Panama CCD, Kern County, California",58129.0,43596.0,14533.0,029,91160,06
+0601992630,"Riverdale CCD, Fresno County, California",6765.0,4664.0,2101.0,019,92630,06
+0601992390,"Parlier-Del Rey CCD, Fresno County, California",19679.0,12514.0,7165.0,019,92390,06
+0602990180,"Bakersfield CCD, Kern County, California",412743.0,337349.0,75394.0,029,90180,06
+0602991520,"Lake Isabella CCD, Kern County, California",15673.0,15023.0,650.0,029,91520,06
+0602990130,"Arvin-Lamont CCD, Kern County, California",43273.0,25779.0,17494.0,029,90130,06
+0602993320,"Tehachapi CCD, Kern County, California",35517.0,32976.0,2541.0,029,93320,06
+0602993570,"Wasco CCD, Kern County, California",29648.0,20552.0,9096.0,029,93570,06
+0602993000,"Shafter CCD, Kern County, California",22345.0,15946.0,6399.0,029,93000,06
+0602990800,"East Kern CCD, Kern County, California",81021.0,72519.0,8502.0,029,90800,06
+0602990300,"Buttonwillow CCD, Kern County, California",3630.0,2787.0,843.0,029,90300,06
+0602992650,"Rosedale CCD, Kern County, California",76122.0,67767.0,8355.0,029,92650,06
+0605990050,"Anaheim-Santa Ana-Garden Grove CCD, Orange County, California",1704937.0,1110855.0,594082.0,059,90050,06
+0605992150,"North Coast CCD, Orange County, California",380103.0,280575.0,99528.0,059,92150,06
+0611192020,"Moorpark CCD, Ventura County, California",37633.0,31040.0,6593.0,111,92020,06
+0605990420,"Central Coast CCD, Orange County, California",258239.0,197031.0,61208.0,059,90420,06
+0605993110,"South Coast CCD, Orange County, California",318763.0,253791.0,64972.0,059,93110,06
+0611191770,"Los Padres CCD, Ventura County, California",557.0,526.0,31.0,111,91770,06
+0611193550,"Ventura CCD, Ventura County, California",115218.0,97591.0,17627.0,111,93550,06
+0611191560,"Las Posas CCD, Ventura County, California",3833.0,3023.0,810.0,111,91560,06
+0611190350,"Camarillo CCD, Ventura County, California",70123.0,59547.0,10576.0,111,90350,06
+0611192310,"Oxnard CCD, Ventura County, California",244115.0,160307.0,83808.0,111,92310,06
+0611192930,"Santa Paula CCD, Ventura County, California",33626.0,23657.0,9969.0,111,92930,06
+0611193350,"Thousand Oaks CCD, Ventura County, California",161410.0,133269.0,28141.0,111,93350,06
+0611193020,"Simi Valley CCD, Ventura County, California",131456.0,107321.0,24135.0,111,93020,06
+0600990060,"Angels City CCD, Calaveras County, California",12831.0,12471.0,360.0,009,90060,06
+0600992740,"San Andreas CCD, Calaveras County, California",23828.0,22016.0,1812.0,009,92740,06
+0610191970,"Meridian-Robbins CCD, Sutter County, California",1548.0,1234.0,314.0,101,91970,06
+0610193290,"Sutter CCD, Sutter County, California",3367.0,3219.0,148.0,101,93290,06
+0610193180,"South Sutter CCD, Sutter County, California",2553.0,2215.0,338.0,101,93180,06
+0610191650,"Live Oak CCD, Sutter County, California",10475.0,7780.0,2695.0,101,91650,06
+0610193820,"Yuba City CCD, Sutter County, California",75016.0,57131.0,17885.0,101,93820,06
+0608193170,"South San Francisco CCD, San Mateo County, California",322579.0,194915.0,127664.0,081,93170,06
+0608192870,"San Mateo CCD, San Mateo County, California",409226.0,278296.0,130930.0,081,92870,06
+0610991190,"Groveland CCD, Tuolumne County, California",4352.0,4108.0,244.0,109,91190,06
+0610993470,"Twain Harte-Tuolumne City CCD, Tuolumne County, California",17241.0,16756.0,485.0,109,93470,06
+0609793070,"Sonoma CCD, Sonoma County, California",42009.0,34770.0,7239.0,097,93070,06
+0609791270,"Healdsburg CCD, Sonoma County, California",45904.0,38207.0,7697.0,097,91270,06
+0609790510,"Cloverdale-Geyserville CCD, Sonoma County, California",13723.0,11085.0,2638.0,097,90510,06
+0609792460,"Petaluma CCD, Sonoma County, California",129451.0,109877.0,19574.0,097,92460,06
+0609792940,"Santa Rosa CCD, Sonoma County, California",217322.0,175772.0,41550.0,097,92940,06
+0609792980,"Sebastopol CCD, Sonoma County, California",29944.0,26952.0,2992.0,097,92980,06
+0610390580,"Corning CCD, Tehama County, California",14652.0,12449.0,2203.0,103,90580,06
+0610390840,"East Tehama CCD, Tehama County, California",3813.0,3439.0,374.0,103,90840,06
+0610392560,"Red Bluff CCD, Tehama County, California",39911.0,37173.0,2738.0,103,92560,06
+0610393690,"West Tehama CCD, Tehama County, California",4871.0,4406.0,465.0,103,93690,06
+0602590330,"Calipatria-Westmorland CCD, Imperial County, California",11345.0,8576.0,2769.0,025,90330,06
+0602593630,"West Imperial CCD, Imperial County, California",11129.0,8990.0,2139.0,025,93630,06
+0602590860,"El Centro CCD, Imperial County, California",65822.0,44452.0,21370.0,025,90860,06
+0602590260,"Brawley CCD, Imperial County, California",27182.0,20144.0,7038.0,025,90260,06
+0602591380,"Imperial CCD, Imperial County, California",12986.0,10344.0,2642.0,025,91380,06
+0602591310,"Holtville CCD, Imperial County, California",8543.0,5893.0,2650.0,025,91310,06
+0602593760,"Winterhaven-Bard CCD, Imperial County, California",1917.0,1751.0,166.0,025,93760,06
+0602590320,"Calexico CCD, Imperial County, California",40148.0,22138.0,18010.0,025,90320,06
+0602590790,"East Imperial CCD, Imperial County, California",885.0,672.0,213.0,025,90790,06
+0606992840,"San Juan Bautista CCD, San Benito County, California",6445.0,5323.0,1122.0,069,92840,06
+0606992760,"San Benito-Bitterwater CCD, San Benito County, California",770.0,695.0,75.0,069,92760,06
+0606991300,"Hollister CCD, San Benito County, California",51456.0,40643.0,10813.0,069,91300,06
+0600190020,"Alameda CCD, Alameda County, California",78246.0,57089.0,21157.0,001,90020,06
+0600191260,"Hayward CCD, Alameda County, California",392663.0,256126.0,136537.0,001,91260,06
+0600191660,"Livermore-Pleasanton CCD, Alameda County, California",229149.0,172267.0,56882.0,001,91660,06
+0600190200,"Berkeley CCD, Alameda County, California",139861.0,109267.0,30594.0,001,90200,06
+0600191070,"Fremont CCD, Alameda County, California",349434.0,190812.0,158622.0,001,91070,06
+0600192230,"Oakland CCD, Alameda County, California",440262.0,320238.0,120024.0,001,92230,06
+0606791010,"Folsom CCD, Sacramento County, California",75864.0,63575.0,12289.0,067,91010,06
+0606793030,"Sloughhouse CCD, Sacramento County, California",6991.0,6575.0,416.0,067,93030,06
+0606792690,"Sacramento CCD, Sacramento County, California",1131613.0,896724.0,234889.0,067,92690,06
+0606791090,"Galt CCD, Sacramento County, California",38495.0,32338.0,6157.0,067,91090,06
+0606790870,"Elk Grove CCD, Sacramento County, California",120614.0,90145.0,30469.0,067,90870,06
+0601793160,"South Lake Tahoe CCD, El Dorado County, California",29666.0,25764.0,3902.0,017,93160,06
+0601793150,"South El Dorado CCD, El Dorado County, California",106805.0,96218.0,10587.0,017,93150,06
+0601792490,"Placerville CCD, El Dorado County, California",15903.0,14809.0,1094.0,017,92490,06
+0601792190,"North El Dorado CCD, El Dorado County, California",32641.0,31159.0,1482.0,017,92190,06
+0605590340,"Calistoga CCD, Napa County, California",6646.0,4841.0,1805.0,055,90340,06
+0605592070,"Napa CCD, Napa County, California",118587.0,92373.0,26214.0,055,92070,06
+0605592710,"St. Helena CCD, Napa County, California",8176.0,6504.0,1672.0,055,92710,06
+0605590070,"Angwin CCD, Napa County, California",5852.0,4924.0,928.0,055,90070,06
+0605392320,"Pajaro CCD, Monterey County, California",19515.0,13180.0,6335.0,053,92320,06
+0605391130,"Gonzales CCD, Monterey County, California",20769.0,14842.0,5927.0,053,91130,06
+0605391470,"King City CCD, Monterey County, California",17129.0,9868.0,7261.0,053,91470,06
+0605390400,"Castroville CCD, Monterey County, California",20647.0,14544.0,6103.0,053,90400,06
+0605392730,"Salinas CCD, Monterey County, California",169383.0,107446.0,61937.0,053,92730,06
+0605391150,"Greenfield CCD, Monterey County, California",18212.0,10428.0,7784.0,053,91150,06
+0605393060,"Soledad CCD, Monterey County, California",18020.0,11623.0,6397.0,053,93060,06
+0605390370,"Carmel Valley CCD, Monterey County, California",5703.0,4780.0,923.0,053,90370,06
+0605392970,"Seaside-Monterey CCD, Monterey County, California",112165.0,89199.0,22966.0,053,92970,06
+0605392750,"San Ardo CCD, Monterey County, California",4700.0,4112.0,588.0,053,92750,06
+0607592790,"San Francisco CCD, San Francisco County, California",864263.0,563721.0,300542.0,075,92790,06
+0607390960,"Fallbrook CCD, San Diego County, California",48914.0,39563.0,9351.0,073,90960,06
+0607391510,"Laguna-Pine Valley CCD, San Diego County, California",5784.0,5501.0,283.0,073,91510,06
+0609193680,"West Sierra CCD, Sierra County, California",606.0,606.0,0.0,091,93680,06
+0609190830,"East Sierra CCD, Sierra County, California",2279.0,2204.0,75.0,091,90830,06
+0607392430,"Pauma Valley CCD, San Diego County, California",7368.0,6053.0,1315.0,073,92430,06
+0607391440,"Jamul CCD, San Diego County, California",19743.0,16123.0,3620.0,073,91440,06
+0607392030,"Mountain Empire CCD, San Diego County, California",7434.0,6401.0,1033.0,073,92030,06
+0607392240,"Oceanside-Escondido CCD, San Diego County, California",664341.0,516810.0,147531.0,073,92240,06
+0607392550,"Ramona CCD, San Diego County, California",37442.0,32625.0,4817.0,073,92550,06
+0607393540,"Valley Center CCD, San Diego County, California",23135.0,19877.0,3258.0,073,93540,06
+0607392350,"Palomar-Julian CCD, San Diego County, California",4916.0,4521.0,395.0,073,92350,06
+0607390030,"Alpine CCD, San Diego County, California",15798.0,14734.0,1064.0,073,90030,06
+0607392780,"San Diego CCD, San Diego County, California",2405695.0,1806250.0,599445.0,073,92780,06
+0610793220,"Springville-Johnsondale CCD, Tulare County, California",5645.0,5384.0,261.0,107,93220,06
+0610793330,"Terra Bella CCD, Tulare County, California",6352.0,4414.0,1938.0,107,93330,06
+0610790760,"Earlimart CCD, Tulare County, California",15244.0,8527.0,6717.0,107,90760,06
+0610790940,"Exeter CCD, Tulare County, California",28057.0,22571.0,5486.0,107,90940,06
+0610792520,"Porterville CCD, Tulare County, California",75056.0,57635.0,17421.0,107,92520,06
+0610793780,"Woodlake-Three Rivers CCD, Tulare County, California",13063.0,10233.0,2830.0,107,93780,06
+0610793260,"Strathmore CCD, Tulare County, California",8090.0,6203.0,1887.0,107,93260,06
+0610793560,"Visalia CCD, Tulare County, California",142674.0,121909.0,20765.0,107,93560,06
+0610793430,"Tulare CCD, Tulare County, California",71532.0,56968.0,14564.0,107,93430,06
+0610791420,"Ivanhoe CCD, Tulare County, California",7467.0,5042.0,2425.0,107,91420,06
+0610791640,"Lindsay CCD, Tulare County, California",18190.0,12070.0,6120.0,107,91640,06
+0610792290,"Orosi-Cutler CCD, Tulare County, California",18306.0,11506.0,6800.0,107,92290,06
+0610792480,"Pixley CCD, Tulare County, California",7071.0,4692.0,2379.0,107,92480,06
+0610793360,"Tipton CCD, Tulare County, California",7071.0,4267.0,2804.0,107,93360,06
+0610790690,"Dinuba CCD, Tulare County, California",34991.0,24621.0,10370.0,107,90690,06
+0611390500,"Clarksburg CCD, Yolo County, California",1219.0,1162.0,57.0,113,90500,06
+0611390640,"Davis CCD, Yolo County, California",78076.0,62106.0,15970.0,113,90640,06
+0611391500,"Knights Landing CCD, Yolo County, California",4250.0,3154.0,1096.0,113,91500,06
+0611393770,"Winters CCD, Yolo County, California",8954.0,6734.0,2220.0,113,93770,06
+0611390910,"Esparto CCD, Yolo County, California",5949.0,4201.0,1748.0,113,90910,06
+0606590492,"Chuckwalla Valley CCD, Riverside County, California",7735.0,6083.0,1652.0,065,90492,06
+0610193825,"Yuba City Southwest CCD, Sutter County, California",2624.0,2345.0,279.0,101,93825,06
+0607193482,"Twentynine Palms-Yucca Valley CCD, San Bernardino County, California",70746.0,65861.0,4885.0,071,93482,06
+0607190188,"Barstow CCD, San Bernardino County, California",44020.0,40287.0,3733.0,071,90188,06
+0606192645,"Rocklin CCD, Placer County, California",90510.0,81615.0,8895.0,061,92645,06
+0600990105,"Arnold-West Point CCD, Calaveras County, California",8398.0,8002.0,396.0,009,90105,06
+0609792682,"Russian River-Sonoma Coast CCD, Sonoma County, California",22590.0,21073.0,1517.0,097,92682,06
+0608593175,"South Santa Clara Valley CCD, Santa Clara County, California",113974.0,88951.0,25023.0,085,93175,06
+0608591602,"Lexington Hills CCD, Santa Clara County, California",4506.0,4101.0,405.0,085,91602,06
+0604192205,"Novato CCD, Marin County, California",62637.0,50844.0,11793.0,041,92205,06
+0604190256,"Bolinas CCD, Marin County, California",2598.0,2314.0,284.0,041,90256,06
+0606590253,"Blythe CCD, Riverside County, California",14813.0,12452.0,2361.0,065,90253,06
+0610592202,"Northwest Trinity CCD, Trinity County, California",2126.0,1974.0,152.0,105,92202,06
+0611190988,"Fillmore CCD, Ventura County, California",19713.0,14501.0,5212.0,111,90988,06
+0611192245,"Ojai-Mira Monte CCD, Ventura County, California",28282.0,24791.0,3491.0,111,92245,06
+0611193422,"Triunfo Pass-Point Mugu CCD, Ventura County, California",1868.0,1479.0,389.0,111,93422,06
+0603390503,"Clearlake CCD, Lake County, California",15690.0,14294.0,1396.0,033,90503,06
+0603391775,"Lower Lake CCD, Lake County, California",3315.0,2958.0,357.0,033,91775,06
+0603391975,"Middletown CCD, Lake County, California",6848.0,6357.0,491.0,033,91975,06
+0603390545,"Cobb CCD, Lake County, California",3217.0,2986.0,231.0,033,90545,06
+0603390505,"Clearlake Riviera CCD, Lake County, California",6783.0,6268.0,515.0,033,90505,06
+0603393505,"Upper Lake-Nice CCD, Lake County, California",5804.0,5503.0,301.0,033,93505,06
+0603391455,"Kelseyville CCD, Lake County, California",6069.0,5213.0,856.0,033,91455,06
+0603391795,"Lucerne-Clearlake Oaks CCD, Lake County, California",7006.0,6625.0,381.0,033,91795,06
+0604992105,"Newell CCD, Modoc County, California",749.0,593.0,156.0,049,92105,06
+0605591515,"Lake Berryessa CCD, Napa County, California",1744.0,1485.0,259.0,055,91515,06
+0608191215,"Half Moon Bay CCD, San Mateo County, California",31645.0,25333.0,6312.0,081,91215,06
+0607191513,"Lake Arrowhead CCD, San Bernardino County, California",22000.0,19627.0,2373.0,071,91513,06
+0607193555,"Victorville-Hesperia CCD, San Bernardino County, California",382977.0,325967.0,57010.0,071,93555,06
+0607192102,"Newberry Springs-Baker CCD, San Bernardino County, California",12639.0,11317.0,1322.0,071,92102,06
+0607192955,"Searles Valley CCD, San Bernardino County, California",2003.0,1930.0,73.0,071,92955,06
+0608793665,"West Santa Cruz CCD, Santa Cruz County, California",4407.0,3975.0,432.0,087,93665,06
+0603790015,"Agoura Hills-Malibu CCD, Los Angeles County, California",65049.0,53580.0,11469.0,037,90015,06
+0603792785,"San Fernando Valley CCD, Los Angeles County, California",1856209.0,1121279.0,734930.0,037,92785,06
+0603793155,"South Gate-East Los Angeles CCD, Los Angeles County, California",502562.0,285571.0,216991.0,037,93155,06
+0602990655,"Delano-McFarland CCD, Kern County, California",70650.0,44201.0,26449.0,029,90655,06
+0602993635,"West Kern CCD, Kern County, California",29993.0,24962.0,5031.0,029,93635,06
+0604591938,"Mendocino CCD, Mendocino County, California",10655.0,9082.0,1573.0,045,91938,06
+0603993802,"Yosemite Lakes CCD, Madera County, California",13888.0,13248.0,640.0,039,93802,06
+0604592592,"Redwood Valley-Potter Valley CCD, Mendocino County, California",12621.0,10755.0,1866.0,045,92592,06
+0606791416,"Isleton CCD, Sacramento County, California",4820.0,3875.0,945.0,067,91416,06
+0606792555,"Rancho Cordova CCD, Sacramento County, California",117003.0,92097.0,24906.0,067,92555,06
+0611590855,"East Yuba-Beale AFB CCD, Yuba County, California",4610.0,4221.0,389.0,115,90855,06
+0611591908,"Marysville Northeast CCD, Yuba County, California",7365.0,6968.0,397.0,115,91908,06
+0605991413,"Irvine-Lake Forest CCD, Orange County, California",256956.0,164702.0,92254.0,059,91413,06
+0605991977,"Mission Viejo CCD, Orange County, California",234183.0,191820.0,42363.0,059,91977,06
+0605993015,"Silverado CCD, Orange County, California",2635.0,2333.0,302.0,059,93015,06
+0608793265,"Summit Road CCD, Santa Cruz County, California",3546.0,3041.0,505.0,087,93265,06
+0602393745,"Willow Creek-Hoopa Valley CCD, Humboldt County, California",5737.0,5595.0,142.0,023,93745,06
+0608390378,"Carpinteria CCD, Santa Barbara County, California",17932.0,13771.0,4161.0,083,90378,06
+0608391708,"Lompoc CCD, Santa Barbara County, California",60317.0,49362.0,10955.0,083,91708,06
+0608392908,"Santa Maria CCD, Santa Barbara County, California",140515.0,99226.0,41289.0,083,92908,06
+0608393065,"Solvang-Santa Ynez CCD, Santa Barbara County, California",21923.0,18412.0,3511.0,083,93065,06
+0605192195,"North Mono CCD, Mono County, California",2147.0,1922.0,225.0,051,92195,06
+0605191865,"Mammoth Lakes CCD, Mono County, California",11911.0,9690.0,2221.0,051,91865,06
+0607390258,"Borrego Springs CCD, San Diego County, California",2693.0,2348.0,345.0,073,90258,06
+0606390975,"Feather River Canyon CCD, Plumas County, California",41.0,41.0,0.0,063,90975,06
+0604393804,"Yosemite Valley CCD, Mariposa County, California",1801.0,1563.0,238.0,043,93804,06
+0605390235,"Big Sur CCD, Monterey County, California",1728.0,1451.0,277.0,053,90235,06
+0605390362,"Carmel-by-the-Sea CCD, Monterey County, California",15688.0,14051.0,1637.0,053,90362,06
+0607390355,"Camp Pendleton CCD, San Diego County, California",40402.0,38497.0,1905.0,073,90355,06
+0608992568,"Redding CCD, Shasta County, California",154636.0,146054.0,8582.0,089,92568,06
+0605393372,"Toro Park CCD, Monterey County, California",9509.0,8690.0,819.0,053,93372,06
+0606191605,"Lincoln CCD, Placer County, California",79086.0,67950.0,11136.0,061,91605,06
+0611390850,"East Yolo CCD, Yolo County, California",52420.0,39720.0,12700.0,113,90850,06
+0611393790,"Woodland CCD, Yolo County, California",61737.0,47319.0,14418.0,113,93790,06
+0602390930,"Eureka CCD, Humboldt County, California",48891.0,45634.0,3257.0,023,90930,06
+0602391100,"Garberville CCD, Humboldt County, California",11507.0,11066.0,441.0,023,91100,06
+0602391050,"Fortuna CCD, Humboldt County, California",17739.0,16357.0,1382.0,023,91050,06
+0602392170,"North Coastal CCD, Humboldt County, California",23482.0,22758.0,724.0,023,92170,06
+0602390100,"Arcata CCD, Humboldt County, California",24641.0,23672.0,969.0,023,90100,06
+0602390980,"Ferndale CCD, Humboldt County, California",3493.0,3162.0,331.0,023,90980,06
+0605791140,"Grass Valley CCD, Nevada County, California",66722.0,63624.0,3098.0,057,91140,06
+0605790710,"Donner CCD, Nevada County, California",17023.0,15082.0,1941.0,057,90710,06
+0605792090,"Nevada City CCD, Nevada County, California",15093.0,14163.0,930.0,057,92090,06
+0600391890,"Markleeville CCD, Alpine County, California",1203.0,1180.0,23.0,003,91890,06
+0603990480,"Chowchilla CCD, Madera County, California",23091.0,18619.0,4472.0,039,90480,06
+0603991850,"Madera West CCD, Madera County, California",1484.0,1046.0,438.0,039,91850,06
+0603992220,"Oakhurst-North Fork CCD, Madera County, California",13293.0,12501.0,792.0,039,92220,06
+0603991830,"Madera CCD, Madera County, California",97639.0,71807.0,25832.0,039,91830,06
+0603991840,"Madera Southeast CCD, Madera County, California",5045.0,3990.0,1055.0,039,91840,06
+0604592510,"Point Arena CCD, Mendocino County, California",4097.0,3498.0,599.0,045,92510,06
+0604591030,"Fort Bragg CCD, Mendocino County, California",11845.0,9814.0,2031.0,045,91030,06
+0604591580,"Laytonville-Leggett CCD, Mendocino County, California",3714.0,3577.0,137.0,045,91580,06
+0604591330,"Hopland CCD, Mendocino County, California",2308.0,2107.0,201.0,045,91330,06
+0604593490,"Ukiah CCD, Mendocino County, California",27165.0,23000.0,4165.0,045,93490,06
+0604593740,"Willits CCD, Mendocino County, California",12571.0,11902.0,669.0,045,93740,06
+0604590610,"Covelo CCD, Mendocino County, California",2521.0,2273.0,248.0,045,90610,06
+0608792900,"Santa Cruz CCD, Santa Cruz County, California",162769.0,141638.0,21131.0,087,92900,06
+0608793590,"Watsonville CCD, Santa Cruz County, California",78607.0,53206.0,25401.0,087,93590,06
+0608792850,"San Lorenzo Valley CCD, Santa Cruz County, California",23934.0,22088.0,1846.0,087,92850,06
+0610591250,"Hayfork CCD, Trinity County, California",2982.0,2638.0,344.0,105,91250,06
+0610593595,"Weaverville CCD, Trinity County, California",7027.0,6934.0,93.0,105,93595,06
+0603792360,"Palos Verdes CCD, Los Angeles County, California",92755.0,70200.0,22555.0,037,92360,06
+0606190548,"Colfax-Monumental Ridge CCD, Placer County, California",19895.0,19267.0,628.0,061,90548,06
+0610591860,"Mad River CCD, Trinity County, California",902.0,825.0,77.0,105,91860,06
+0603792110,"Newhall CCD, Los Angeles County, California",260405.0,205507.0,54898.0,037,92110,06
+0603790730,"Downey-Norwalk CCD, Los Angeles County, California",420541.0,269078.0,151463.0,037,90730,06
+0603793730,"Whittier CCD, Los Angeles County, California",326356.0,248912.0,77444.0,037,93730,06
+0603793100,"South Bay Cities CCD, Los Angeles County, California",140327.0,118638.0,21689.0,037,93100,06
+0603792140,"North Antelope Valley CCD, Los Angeles County, California",192636.0,170603.0,22033.0,037,92140,06
+0603793380,"Torrance CCD, Los Angeles County, California",147190.0,103482.0,43708.0,037,93380,06
+0603793200,"Southwest San Gabriel Valley CCD, Los Angeles County, California",325262.0,163225.0,162037.0,037,93200,06
+0603793510,"Upper San Gabriel Valley CCD, Los Angeles County, California",332546.0,188150.0,144396.0,037,93510,06
+0603791730,"Long Beach-Lakewood CCD, Los Angeles County, California",578946.0,430423.0,148523.0,037,91730,06
+0603791750,"Los Angeles CCD, Los Angeles County, California",2593246.0,1649145.0,944101.0,037,91750,06
+0603792400,"Pasadena CCD, Los Angeles County, California",275223.0,196070.0,79153.0,037,92400,06
+0603790560,"Compton CCD, Los Angeles County, California",352471.0,234356.0,118115.0,037,90560,06
+0603790810,"East San Gabriel Valley CCD, Los Angeles County, California",959788.0,627163.0,332625.0,037,90810,06
+0603792920,"Santa Monica CCD, Los Angeles County, California",92495.0,70449.0,22046.0,037,92920,06
+0603793090,"South Antelope Valley CCD, Los Angeles County, California",215973.0,166479.0,49494.0,037,93090,06
+0603791400,"Inglewood CCD, Los Angeles County, California",375742.0,254533.0,121209.0,037,91400,06
+0606590590,"Corona CCD, Riverside County, California",185971.0,136690.0,49281.0,065,90590,06
+0606590520,"Coachella Valley CCD, Riverside County, California",188789.0,131916.0,56873.0,065,90520,06
+0606591370,"Idyllwild CCD, Riverside County, California",12684.0,11643.0,1041.0,065,91370,06
+0606592060,"Murrieta CCD, Riverside County, California",315452.0,269343.0,46109.0,065,92060,06
+0606590410,"Cathedral City-Palm Desert CCD, Riverside County, California",152971.0,118535.0,34436.0,065,90410,06
+0606590670,"Desert Hot Springs CCD, Riverside County, California",51814.0,39322.0,12492.0,065,90670,06
+0606591280,"Hemet-San Jacinto CCD, Riverside County, California",167662.0,139229.0,28433.0,065,91280,06
+0606592640,"Riverside CCD, Riverside County, California",477196.0,368186.0,109010.0,065,92640,06
+0606591530,"Lake Mathews CCD, Riverside County, California",27849.0,22271.0,5578.0,065,91530,06
+0606592810,"San Gorgonio Pass CCD, Riverside County, California",98481.0,83121.0,15360.0,065,92810,06
+0606591450,"Jurupa CCD, Riverside County, California",162198.0,118950.0,43248.0,065,91450,06
+0606592340,"Palm Springs CCD, Riverside County, California",46281.0,36771.0,9510.0,065,92340,06
+0606590880,"Elsinore Valley CCD, Riverside County, California",125450.0,99155.0,26295.0,065,90880,06
+0606592130,"Norco CCD, Riverside County, California",25546.0,22146.0,3400.0,065,92130,06
+0606592450,"Perris Valley CCD, Riverside County, California",294110.0,226672.0,67438.0,065,92450,06
+0607192770,"San Bernardino CCD, San Bernardino County, California",843918.0,637169.0,206749.0,071,92770,06
+0607190220,"Big Bear CCD, San Bernardino County, California",26234.0,24321.0,1913.0,071,90220,06
+0607193850,"Yucaipa CCD, San Bernardino County, California",53415.0,47877.0,5538.0,071,93850,06
+0607192260,"Ontario CCD, San Bernardino County, California",649899.0,490505.0,159394.0,071,92260,06
+0607192040,"Mount Baldy-Wrightwood CCD, San Bernardino County, California",6754.0,6125.0,629.0,071,92040,06
+0607192080,"Needles CCD, San Bernardino County, California",6615.0,6324.0,291.0,071,92080,06
+0608591680,"Llagas-Uvas CCD, Santa Clara County, California",4239.0,3650.0,589.0,085,91680,06
+0608592830,"San Jose CCD, Santa Clara County, California",1779562.0,1070150.0,709412.0,085,92830,06
+0608593660,"West Santa Clara CCD, Santa Clara County, California",7504.0,5146.0,2358.0,085,93660,06
+0608590680,"Diablo Range CCD, Santa Clara County, California",1441.0,1134.0,307.0,085,90680,06
+0604192670,"Ross Valley CCD, Marin County, California",58841.0,51502.0,7339.0,041,92670,06
+0604193140,"Southeast Marin CCD, Marin County, California",54795.0,46146.0,8649.0,041,93140,06
+0604192200,"Northwest Marin CCD, Marin County, California",8622.0,7824.0,798.0,041,92200,06
+0604192880,"San Rafael CCD, Marin County, California",73321.0,55166.0,18155.0,041,92880,06
+0606190160,"Auburn CCD, Placer County, California",47553.0,44074.0,3479.0,061,90160,06
+0606192660,"Roseville CCD, Placer County, California",123477.0,108558.0,14919.0,061,92660,06
+0606191020,"Foresthill-Back Country CCD, Placer County, California",6654.0,6612.0,42.0,061,91020,06
+0606191550,"Lake Tahoe CCD, Placer County, California",7810.0,6386.0,1424.0,061,91550,06
+0609390920,"Etna CCD, Siskiyou County, California",3341.0,3229.0,112.0,093,90920,06

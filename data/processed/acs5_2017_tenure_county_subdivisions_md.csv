@@ -1,0 +1,291 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+2403390064,"District 1, Vansville; Prince George's County; Maryland",9300.0,5475.0,3825.0,033,90064,24
+2403390248,"District 3, Marlboro; Prince George's County; Maryland",7854.0,6317.0,1537.0,033,90248,24
+2403390892,"District 10, Laurel; Prince George's County; Maryland",22106.0,10848.0,11258.0,033,90892,24
+2403391164,"District 13, Kent; Prince George's County; Maryland",27024.0,17447.0,9577.0,033,91164,24
+2403390524,"District 6, Spauldings; Prince George's County; Maryland",35578.0,17642.0,17936.0,033,90524,24
+2403390616,"District 7, Queen Anne; Prince George's County; Maryland",22550.0,18628.0,3922.0,033,90616,24
+2403391440,"District 16, Hyattsville; Prince George's County; Maryland",5346.0,2954.0,2392.0,033,91440,24
+2403391808,"District 20, Lanham; Prince George's County; Maryland",13337.0,9001.0,4336.0,033,91808,24
+2403391900,"District 21, Berwyn; Prince George's County; Maryland",22730.0,11282.0,11448.0,033,91900,24
+2403391072,"District 12, Oxon Hill; Prince George's County; Maryland",25567.0,13331.0,12236.0,033,91072,24
+2403390340,"District 4, Nottingham; Prince George's County; Maryland",1085.0,991.0,94.0,033,90340,24
+2403390432,"District 5, Piscataway; Prince George's County; Maryland",13430.0,11897.0,1533.0,033,90432,24
+2403391256,"District 14, Bowie; Prince George's County; Maryland",12593.0,10226.0,2367.0,033,91256,24
+2403391348,"District 15, Mellwood; Prince George's County; Maryland",9540.0,7963.0,1577.0,033,91348,24
+2403391624,"District 18, Seat Pleasant; Prince George's County; Maryland",12407.0,7899.0,4508.0,033,91624,24
+2403391532,"District 17, Chillum; Prince George's County; Maryland",25285.0,8395.0,16890.0,033,91532,24
+2403391716,"District 19, Riverdale; Prince George's County; Maryland",5406.0,2879.0,2527.0,033,91716,24
+2403390708,"District 8, Aquasco; Prince George's County; Maryland",704.0,565.0,139.0,033,90708,24
+2400390008,"District 1, Anne Arundel County, Maryland",27575.0,19878.0,7697.0,003,90008,24
+2400390284,"District 4, Anne Arundel County, Maryland",33332.0,21427.0,11905.0,003,90284,24
+2400390100,"District 2, Anne Arundel County, Maryland",29699.0,18485.0,11214.0,003,90100,24
+2400390468,"District 6, Anne Arundel County, Maryland",30405.0,18985.0,11420.0,003,90468,24
+2400390192,"District 3, Anne Arundel County, Maryland",28105.0,24380.0,3725.0,003,90192,24
+2400390376,"District 5, Anne Arundel County, Maryland",26753.0,24029.0,2724.0,003,90376,24
+2400390560,"District 7, Anne Arundel County, Maryland",29526.0,25392.0,4134.0,003,90560,24
+2400590196,"District 3, Baltimore County, Maryland",22528.0,15762.0,6766.0,005,90196,24
+2400590288,"District 4, Baltimore County, Maryland",23338.0,14386.0,8952.0,005,90288,24
+2400590748,"District 9, Baltimore County, Maryland",39313.0,23934.0,15379.0,005,90748,24
+2400590932,"District 11, Baltimore County, Maryland",29567.0,22329.0,7238.0,005,90932,24
+2400590564,"District 7, Baltimore County, Maryland",3008.0,2613.0,395.0,005,90564,24
+2400590380,"District 5, Baltimore County, Maryland",1681.0,1428.0,253.0,005,90380,24
+2400590472,"District 6, Baltimore County, Maryland",2065.0,1915.0,150.0,005,90472,24
+2400591112,"District 13, Baltimore County, Maryland",12967.0,7716.0,5251.0,005,91112,24
+2400591204,"District 14, Baltimore County, Maryland",18713.0,12306.0,6407.0,005,91204,24
+2400590656,"District 8, Baltimore County, Maryland",28385.0,19217.0,9168.0,005,90656,24
+2400590840,"District 10, Baltimore County, Maryland",3619.0,3398.0,221.0,005,90840,24
+2400590012,"District 1, Baltimore County, Maryland",28885.0,19551.0,9334.0,005,90012,24
+2400591020,"District 12, Baltimore County, Maryland",19714.0,12593.0,7121.0,005,91020,24
+2400590104,"District 2, Baltimore County, Maryland",39483.0,23114.0,16369.0,005,90104,24
+2400591296,"District 15, Baltimore County, Maryland",39593.0,25700.0,13893.0,005,91296,24
+2402190224,"District 3, Middletown; Frederick County; Maryland",3601.0,3142.0,459.0,021,90224,24
+2402191232,"District 14, Jefferson; Frederick County; Maryland",1738.0,1607.0,131.0,021,91232,24
+2402190776,"District 9, New Market; Frederick County; Maryland",9854.0,8912.0,942.0,021,90776,24
+2402190868,"District 10, Hauvers; Frederick County; Maryland",815.0,666.0,149.0,021,90868,24
+2402191416,"District 16, Jackson; Frederick County; Maryland",1470.0,1390.0,80.0,021,91416,24
+2402190408,"District 5, Emmitsburg; Frederick County; Maryland",2052.0,1599.0,453.0,021,90408,24
+2402191140,"District 13, Mount Pleasant; Frederick County; Maryland",2195.0,1939.0,256.0,021,91140,24
+2402191324,"District 15, Thurmont; Frederick County; Maryland",3631.0,2674.0,957.0,021,91324,24
+2402192060,"District 23, Ballenger; Frederick County; Maryland",2181.0,1572.0,609.0,021,92060,24
+2402191600,"District 18, Woodville; Frederick County; Maryland",3098.0,2874.0,224.0,021,91600,24
+2402190684,"District 8, Liberty; Frederick County; Maryland",1017.0,947.0,70.0,021,90684,24
+2402191784,"District 20, Lewistown; Frederick County; Maryland",1408.0,1082.0,326.0,021,91784,24
+2402191876,"District 21, Tuscarora; Frederick County; Maryland",3846.0,3371.0,475.0,021,91876,24
+2402192152,"District 24, Braddock; Frederick County; Maryland",2292.0,2030.0,262.0,021,92152,24
+2402190500,"District 6, Catoctin; Frederick County; Maryland",805.0,724.0,81.0,021,90500,24
+2402191692,"District 19, Linganore; Frederick County; Maryland",636.0,480.0,156.0,021,91692,24
+2402191968,"District 22, Burkittsville; Frederick County; Maryland",651.0,580.0,71.0,021,91968,24
+2402192336,"District 26, Walkersville; Frederick County; Maryland",3394.0,2698.0,696.0,021,92336,24
+2402191048,"District 12, Petersville; Frederick County; Maryland",1326.0,1125.0,201.0,021,91048,24
+2402190040,"District 1, Buckeystown; Frederick County; Maryland",3918.0,2979.0,939.0,021,90040,24
+2402190592,"District 7, Urbana; Frederick County; Maryland",5567.0,4934.0,633.0,021,90592,24
+2402190956,"District 11, Woodsboro; Frederick County; Maryland",1286.0,1048.0,238.0,021,90956,24
+2402190132,"District 2, Frederick; Frederick County; Maryland",30357.0,16686.0,13671.0,021,90132,24
+2402190316,"District 4, Creagerstown; Frederick County; Maryland",399.0,346.0,53.0,021,90316,24
+2402191508,"District 17, Johnsville; Frederick County; Maryland",786.0,690.0,96.0,021,91508,24
+2402192244,"District 25, Brunswick; Frederick County; Maryland",1699.0,1200.0,499.0,021,92244,24
+2400990016,"District 1, Solomons Island; Calvert County; Maryland",10026.0,8312.0,1714.0,009,90016,24
+2400990200,"District 3, Sunderland; Calvert County; Maryland",10785.0,9051.0,1734.0,009,90200,24
+2400990108,"District 2, Prince Frederick; Calvert County; Maryland",10651.0,8878.0,1773.0,009,90108,24
+2402390412,"District 5, Accident; Garrett County; Maryland",816.0,612.0,204.0,023,90412,24
+2402390596,"District 7, East Oakland; Garrett County; Maryland",990.0,655.0,335.0,023,90596,24
+2402391144,"District 13, Kitzmiller; Garrett County; Maryland",189.0,155.0,34.0,023,91144,24
+2402390228,"District 3, Grantsville; Garrett County; Maryland",1386.0,1053.0,333.0,023,90228,24
+2402390780,"District 9, Finzel; Garrett County; Maryland",501.0,386.0,115.0,023,90780,24
+2402391052,"District 12, Bittinger; Garrett County; Maryland",369.0,347.0,22.0,023,91052,24
+2402391236,"District 14, West Oakland; Garrett County; Maryland",2039.0,1502.0,537.0,023,91236,24
+2402391328,"District 15, Avilton; Garrett County; Maryland",216.0,163.0,53.0,023,91328,24
+2402390320,"District 4, Bloomington; Garrett County; Maryland",317.0,277.0,40.0,023,90320,24
+2402390504,"District 6, Sang Run; Garrett County; Maryland",877.0,754.0,123.0,023,90504,24
+2402390688,"District 8, Red House; Garrett County; Maryland",645.0,567.0,78.0,023,90688,24
+2402390136,"District 2, Friendsville; Garrett County; Maryland",728.0,553.0,175.0,023,90136,24
+2402390960,"District 11, The Elbow; Garrett County; Maryland",45.0,34.0,11.0,023,90960,24
+2402391420,"District 16, Mountain Lake Park; Garrett County; Maryland",1261.0,874.0,387.0,023,91420,24
+2402390872,"District 10, Deer Park; Garrett County; Maryland",803.0,700.0,103.0,023,90872,24
+2402990240,"District 3, Worton (Betterton); Kent County; Maryland",972.0,794.0,178.0,029,90240,24
+2402390044,"District 1, Swanton; Garrett County; Maryland",683.0,567.0,116.0,023,90044,24
+2402990332,"District 4, Chestertown; Kent County; Maryland",2105.0,1040.0,1065.0,029,90332,24
+2402990516,"District 6, Fairlee; Kent County; Maryland",656.0,461.0,195.0,029,90516,24
+2402990424,"District 5, Edesville; Kent County; Maryland",1102.0,807.0,295.0,029,90424,24
+2402990056,"District 1, Massey; Kent County; Maryland",1523.0,1142.0,381.0,029,90056,24
+2402990148,"District 2, Kennedyville; Kent County; Maryland",730.0,662.0,68.0,029,90148,24
+2402990608,"District 7, Pomona; Kent County; Maryland",517.0,426.0,91.0,029,90608,24
+2403190244,"District 3, Montgomery County, Maryland",2185.0,1793.0,392.0,031,90244,24
+2403190888,"District 10, Montgomery County, Maryland",13265.0,11539.0,1726.0,031,90888,24
+2403191068,"District 12, Montgomery County, Maryland",6380.0,5737.0,643.0,031,91068,24
+2403190152,"District 2, Montgomery County, Maryland",18800.0,13553.0,5247.0,031,90152,24
+2403190336,"District 4, Montgomery County, Maryland",49922.0,29458.0,20464.0,031,90336,24
+2403190976,"District 11, Montgomery County, Maryland",799.0,674.0,125.0,031,90976,24
+2403190060,"District 1, Montgomery County, Maryland",7018.0,6382.0,636.0,031,90060,24
+2403190520,"District 6, Montgomery County, Maryland",17040.0,14504.0,2536.0,031,90520,24
+2403190612,"District 7, Montgomery County, Maryland",39879.0,28031.0,11848.0,031,90612,24
+2403190428,"District 5, Montgomery County, Maryland",37768.0,23149.0,14619.0,031,90428,24
+2403191160,"District 13, Montgomery County, Maryland",96302.0,56362.0,39940.0,031,91160,24
+2403190704,"District 8, Montgomery County, Maryland",16280.0,14854.0,1426.0,031,90704,24
+2403190796,"District 9, Montgomery County, Maryland",63604.0,36259.0,27345.0,031,90796,24
+2401391032,"District 12, Union Bridge; Carroll County; Maryland",603.0,371.0,232.0,013,91032,24
+2401390760,"District 9, Franklin; Carroll County; Maryland",2518.0,2235.0,283.0,013,90760,24
+2401390940,"District 11, New Windsor; Carroll County; Maryland",1343.0,1045.0,298.0,013,90940,24
+2401390208,"District 3, Myers; Carroll County; Maryland",1951.0,1689.0,262.0,013,90208,24
+2401390484,"District 6, Manchester; Carroll County; Maryland",4773.0,4141.0,632.0,013,90484,24
+2401390576,"District 7, Westminster; Carroll County; Maryland",13777.0,9211.0,4566.0,013,90576,24
+2401390852,"District 10, Middleburg; Carroll County; Maryland",541.0,441.0,100.0,013,90852,24
+2401390668,"District 8, Hampstead; Carroll County; Maryland",5451.0,4519.0,932.0,013,90668,24
+2401390300,"District 4, Woolerys; Carroll County; Maryland",6265.0,5896.0,369.0,013,90300,24
+2401390392,"District 5, Freedom; Carroll County; Maryland",10225.0,8872.0,1353.0,013,90392,24
+2401391124,"District 13, Mount Airy; Carroll County; Maryland",3392.0,3079.0,313.0,013,91124,24
+2401390024,"District 1, Taneytown; Carroll County; Maryland",3648.0,2729.0,919.0,013,90024,24
+2401391216,"District 14, Berrett; Carroll County; Maryland",4440.0,3864.0,576.0,013,91216,24
+2401390116,"District 2, Uniontown; Carroll County; Maryland",1505.0,1355.0,150.0,013,90116,24
+2403590344,"District 4, Kent Island; Queen Anne's County; Maryland",6980.0,5614.0,1366.0,035,90344,24
+2403590160,"District 2, Church Hill; Queen Anne's County; Maryland",1671.0,1358.0,313.0,035,90160,24
+2403590436,"District 5, Queenstown; Queen Anne's County; Maryland",3311.0,2693.0,618.0,035,90436,24
+2403590068,"District 1, Dixon; Queen Anne's County; Maryland",947.0,684.0,263.0,035,90068,24
+2403590252,"District 3, Centreville; Queen Anne's County; Maryland",3063.0,2544.0,519.0,035,90252,24
+2403590620,"District 7, Crumpton; Queen Anne's County; Maryland",1169.0,967.0,202.0,035,90620,24
+2403590528,"District 6, Ruthsburg; Queen Anne's County; Maryland",854.0,727.0,127.0,035,90528,24
+2403790164,"District 2, Valley Lee; St. Mary's County; Maryland",2718.0,2238.0,480.0,037,90164,24
+2403790808,"District 9, St. George Island; St. Mary's County; Maryland",83.0,51.0,32.0,037,90808,24
+2403790256,"District 3, Leonardtown; St. Mary's County; Maryland",6060.0,4656.0,1404.0,037,90256,24
+2403790440,"District 5, Mechanicsville; St. Mary's County; Maryland",4076.0,3622.0,454.0,037,90440,24
+2403790532,"District 6, Patuxent; St. Mary's County; Maryland",4298.0,3643.0,655.0,037,90532,24
+2403790348,"District 4, Chaptico; St. Mary's County; Maryland",3410.0,2949.0,461.0,037,90348,24
+2403790624,"District 7, Milestown; St. Mary's County; Maryland",1251.0,998.0,253.0,037,90624,24
+2403790716,"District 8, Bay; St. Mary's County; Maryland",15560.0,8635.0,6925.0,037,90716,24
+2403790072,"District 1, St. Inigoes; St. Mary's County; Maryland",1820.0,1465.0,355.0,037,90072,24
+2401790032,"District 1, La Plata; Charles County; Maryland",5069.0,3987.0,1082.0,017,90032,24
+2401790492,"District 6, Waldorf; Charles County; Maryland",30182.0,21692.0,8490.0,017,90492,24
+2401790676,"District 8, Bryantown; Charles County; Maryland",5102.0,4580.0,522.0,017,90676,24
+2401790860,"District 10, Marbury; Charles County; Maryland",1436.0,1140.0,296.0,017,90860,24
+2401790308,"District 4, Allens Fresh; Charles County; Maryland",2018.0,1743.0,275.0,017,90308,24
+2401790124,"District 2, Hill Top; Charles County; Maryland",621.0,513.0,108.0,017,90124,24
+2401790216,"District 3, Nanjemoy; Charles County; Maryland",1203.0,1114.0,89.0,017,90216,24
+2401790400,"District 5, Thompkinsville; Charles County; Maryland",1764.0,1341.0,423.0,017,90400,24
+2401790584,"District 7, Pomonkey; Charles County; Maryland",5317.0,4336.0,981.0,017,90584,24
+2401790768,"District 9, Hughesville; Charles County; Maryland",2276.0,2059.0,217.0,017,90768,24
+2401991412,"District 16, Madison; Dorchester County; Maryland",189.0,163.0,26.0,019,91412,24
+2401990312,"District 4, Taylors Island; Dorchester County; Maryland",103.0,78.0,25.0,019,90312,24
+2401990680,"District 8, Neck; Dorchester County; Maryland",378.0,356.0,22.0,019,90680,24
+2401990220,"District 3, Vienna; Dorchester County; Maryland",438.0,288.0,150.0,019,90220,24
+2401990496,"District 6, Hoopers Island; Dorchester County; Maryland",182.0,182.0,0.0,019,90496,24
+2401990772,"District 9, Church Creek; Dorchester County; Maryland",335.0,287.0,48.0,019,90772,24
+2401991044,"District 12, Williamsburg; Dorchester County; Maryland",345.0,302.0,43.0,019,91044,24
+2401991136,"District 13, Bucktown; Dorchester County; Maryland",177.0,145.0,32.0,019,91136,24
+2401991504,"District 17, Salem; Dorchester County; Maryland",101.0,62.0,39.0,019,91504,24
+2401990128,"District 2, East New Market; Dorchester County; Maryland",945.0,764.0,181.0,019,90128,24
+2401991228,"District 14, Linkwood; Dorchester County; Maryland",983.0,791.0,192.0,019,91228,24
+2401990952,"District 11, Drawbridge; Dorchester County; Maryland",12.0,12.0,0.0,019,90952,24
+2401990036,"District 1, Fork; Dorchester County; Maryland",601.0,524.0,77.0,019,90036,24
+2401990404,"District 5, Lakes; Dorchester County; Maryland",188.0,174.0,14.0,019,90404,24
+2401990864,"District 10, Straits; Dorchester County; Maryland",189.0,184.0,5.0,019,90864,24
+2401991320,"District 15, Hurlock; Dorchester County; Maryland",1683.0,1308.0,375.0,019,91320,24
+2401990588,"District 7, Cambridge; Dorchester County; Maryland",6049.0,2856.0,3193.0,019,90588,24
+2401991596,"District 18, Elliott; Dorchester County; Maryland",42.0,42.0,0.0,019,91596,24
+2404390360,"District 4, Clear Spring; Washington County; Maryland",1160.0,930.0,230.0,043,90360,24
+2404391460,"District 16, Beaver Creek; Washington County; Maryland",1403.0,1241.0,162.0,043,91460,24
+2404391828,"District 20, Downsville; Washington County; Maryland",763.0,700.0,63.0,043,91828,24
+2404390084,"District 1, Sharpsburg; Washington County; Maryland",1250.0,1071.0,179.0,043,90084,24
+2404390820,"District 9, Leitersburg; Washington County; Maryland",1141.0,1018.0,123.0,043,90820,24
+2404392380,"District 26, Halfway; Washington County; Maryland",4668.0,3044.0,1624.0,043,92380,24
+2404390268,"District 3, Hagerstown; Washington County; Maryland",3693.0,1195.0,2498.0,043,90268,24
+2404390452,"District 5, Hancock; Washington County; Maryland",1354.0,969.0,385.0,043,90452,24
+2404390636,"District 7, Smithsburg; Washington County; Maryland",2185.0,1817.0,368.0,043,90636,24
+2404391184,"District 13, Maugansville; Washington County; Maryland",2012.0,1481.0,531.0,043,91184,24
+2404390544,"District 6, Boonsboro; Washington County; Maryland",2514.0,1924.0,590.0,043,90544,24
+2404390912,"District 10, Funkstown; Washington County; Maryland",4325.0,3199.0,1126.0,043,90912,24
+2404391276,"District 14, Ringgold; Washington County; Maryland",824.0,636.0,188.0,043,91276,24
+2404391000,"District 11, Sandy Hook; Washington County; Maryland",816.0,732.0,84.0,043,91000,24
+2404391644,"District 18, Chewsville; Washington County; Maryland",4574.0,2537.0,2037.0,043,91644,24
+2404392012,"District 22, Hagerstown; Washington County; Maryland",2781.0,848.0,1933.0,043,92012,24
+2404392104,"District 23, Wilsons; Washington County; Maryland",1881.0,1503.0,378.0,043,92104,24
+2404391920,"District 21, Hagerstown; Washington County; Maryland",3373.0,1879.0,1494.0,043,91920,24
+2404391092,"District 12, Fairplay; Washington County; Maryland",1012.0,889.0,123.0,043,91092,24
+2404392472,"District 27, Fountain Head; Washington County; Maryland",2972.0,2281.0,691.0,043,92472,24
+2404391368,"District 15, Indian Spring; Washington County; Maryland",816.0,658.0,158.0,043,91368,24
+2404391552,"District 17, Hagerstown; Washington County; Maryland",3072.0,937.0,2135.0,043,91552,24
+2404391736,"District 19, Keedysville; Washington County; Maryland",846.0,728.0,118.0,043,91736,24
+2404392288,"District 25, Hagerstown; Washington County; Maryland",3322.0,1553.0,1769.0,043,92288,24
+2404390728,"District 8, Rohrersville; Washington County; Maryland",931.0,908.0,23.0,043,90728,24
+2404390176,"District 2, Williamsport; Washington County; Maryland",1955.0,1115.0,840.0,043,90176,24
+2404392196,"District 24, Cedar Lawn; Washington County; Maryland",356.0,324.0,32.0,043,92196,24
+2404590640,"District 7, Trappe; Wicomico County; Maryland",883.0,796.0,87.0,045,90640,24
+2404591004,"District 11, Delmar; Wicomico County; Maryland",1752.0,1195.0,557.0,045,91004,24
+2404590088,"District 1, Barren Creek; Wicomico County; Maryland",1026.0,804.0,222.0,045,90088,24
+2404590824,"District 9, Salisbury; Wicomico County; Maryland",6393.0,3535.0,2858.0,045,90824,24
+2404591372,"District 15, Hebron; Wicomico County; Maryland",1205.0,1022.0,183.0,045,91372,24
+2404591280,"District 14, Willards; Wicomico County; Maryland",751.0,533.0,218.0,045,91280,24
+2404591464,"District 16, Fruitland; Wicomico County; Maryland",3034.0,2213.0,821.0,045,91464,24
+2404590548,"District 6, Dennis; Wicomico County; Maryland",337.0,265.0,72.0,045,90548,24
+2404591188,"District 13, Camden; Wicomico County; Maryland",5313.0,1618.0,3695.0,045,91188,24
+2404590364,"District 4, Pittsburg; Wicomico County; Maryland",1446.0,1194.0,252.0,045,90364,24
+2404590732,"District 8, Nutters; Wicomico County; Maryland",3716.0,2744.0,972.0,045,90732,24
+2404590916,"District 10, Sharptown; Wicomico County; Maryland",503.0,390.0,113.0,045,90916,24
+2404590180,"District 2, Quantico; Wicomico County; Maryland",985.0,911.0,74.0,045,90180,24
+2404590456,"District 5, Parsons; Wicomico County; Maryland",9507.0,5101.0,4406.0,045,90456,24
+2401590120,"District 2, Chesapeake City; Cecil County; Maryland",2052.0,1576.0,476.0,015,90120,24
+2401590212,"District 3, Elkton; Cecil County; Maryland",9542.0,5835.0,3707.0,015,90212,24
+2401590580,"District 7, Port Deposit; Cecil County; Maryland",4173.0,2968.0,1205.0,015,90580,24
+2401590304,"District 4, Fair Hill; Cecil County; Maryland",3212.0,2344.0,868.0,015,90304,24
+2401590488,"District 6, Rising Sun; Cecil County; Maryland",3762.0,2908.0,854.0,015,90488,24
+2401590672,"District 8, Oakwood; Cecil County; Maryland",1361.0,1226.0,135.0,015,90672,24
+2401590028,"District 1, Cecilton; Cecil County; Maryland",1957.0,1572.0,385.0,015,90028,24
+2401590396,"District 5, North East; Cecil County; Maryland",9329.0,7177.0,2152.0,015,90396,24
+2401590764,"District 9, Calvert; Cecil County; Maryland",1688.0,1504.0,184.0,015,90764,24
+2401190112,"District 2, Greensboro; Caroline County; Maryland",1944.0,1364.0,580.0,011,90112,24
+2401190296,"District 4, Preston; Caroline County; Maryland",1647.0,1286.0,361.0,011,90296,24
+2401190664,"District 8, American Corner; Caroline County; Maryland",800.0,706.0,94.0,011,90664,24
+2401190020,"District 1, Henderson; Caroline County; Maryland",1113.0,896.0,217.0,011,90020,24
+2401190480,"District 6, Hillsboro; Caroline County; Maryland",791.0,612.0,179.0,011,90480,24
+2401190572,"District 7, Ridgely; Caroline County; Maryland",1350.0,939.0,411.0,011,90572,24
+2401190204,"District 3, Denton; Caroline County; Maryland",2675.0,1838.0,837.0,011,90204,24
+2401190388,"District 5, Federalsburg; Caroline County; Maryland",1676.0,899.0,777.0,011,90388,24
+2403990352,"District 4, Dublin; Somerset County; Maryland",402.0,328.0,74.0,039,90352,24
+2403990536,"District 6, Fairmount; Somerset County; Maryland",195.0,145.0,50.0,039,90536,24
+2403991176,"District 13, Westover; Somerset County; Maryland",336.0,238.0,98.0,039,91176,24
+2403990168,"District 2, St. Peters; Somerset County; Maryland",182.0,151.0,31.0,039,90168,24
+2403990812,"District 9, Tangier; Somerset County; Maryland",143.0,122.0,21.0,039,90812,24
+2403991268,"District 14, Deal Island; Somerset County; Maryland",240.0,228.0,12.0,039,91268,24
+2403990260,"District 3, Brinkleys; Somerset County; Maryland",544.0,456.0,88.0,039,90260,24
+2403990720,"District 8, Lawsons; Somerset County; Maryland",811.0,747.0,64.0,039,90720,24
+2403990076,"District 1, West Princess Anne; Somerset County; Maryland",1876.0,1161.0,715.0,039,90076,24
+2403990628,"District 7, Crisfield; Somerset County; Maryland",1057.0,483.0,574.0,039,90628,24
+2403991084,"District 12, Asbury; Somerset County; Maryland",390.0,285.0,105.0,039,91084,24
+2403990904,"District 10, Smith Island; Somerset County; Maryland",78.0,73.0,5.0,039,90904,24
+2403990992,"District 11, Dames Quarter; Somerset County; Maryland",77.0,69.0,8.0,039,90992,24
+2403991360,"District 15, East Princess Anne; Somerset County; Maryland",1647.0,591.0,1056.0,039,91360,24
+2403990444,"District 5, Mount Vernon; Somerset County; Maryland",384.0,328.0,56.0,039,90444,24
+2404190448,"District 5, Bay Hundred; Talbot County; Maryland",833.0,717.0,116.0,041,90448,24
+2404190172,"District 2, St. Michaels; Talbot County; Maryland",2310.0,1825.0,485.0,041,90172,24
+2404190356,"District 4, Chapel; Talbot County; Maryland",1634.0,1390.0,244.0,041,90356,24
+2404190264,"District 3, Trappe; Talbot County; Maryland",1906.0,1403.0,503.0,041,90264,24
+2404190080,"District 1, Easton; Talbot County; Maryland",9815.0,6264.0,3551.0,041,90080,24
+2402590416,"District 5, Dublin; Harford County; Maryland",4327.0,3815.0,512.0,025,90416,24
+2402590048,"District 1, Abingdon; Harford County; Maryland",33294.0,25593.0,7701.0,025,90048,24
+2402590324,"District 4, Marshall; Harford County; Maryland",7459.0,6789.0,670.0,025,90324,24
+2402590140,"District 2, Halls Cross Roads; Harford County; Maryland",10466.0,6191.0,4275.0,025,90140,24
+2402590508,"District 6, Havre de Grace; Harford County; Maryland",6379.0,4335.0,2044.0,025,90508,24
+2402590232,"District 3, Bel Air; Harford County; Maryland",30970.0,26304.0,4666.0,025,90232,24
+2400192300,"District 26, Frostburg; Allegany County; Maryland",1467.0,587.0,880.0,001,92300,24
+2400190463,"District 6, Cumberland; Allegany County; Maryland",2589.0,1640.0,949.0,001,90463,24
+2400191197,"District 14, Cumberland; Allegany County; Maryland",591.0,97.0,494.0,001,91197,24
+2400191380,"District 16, North Branch; Allegany County; Maryland",726.0,609.0,117.0,001,91380,24
+2400190096,"District 2, Oldtown; Allegany County; Maryland",520.0,445.0,75.0,001,90096,24
+2400190372,"District 5, Wills Creek; Allegany County; Maryland",969.0,745.0,224.0,001,90372,24
+2400190555,"District 7, Cresaptown/Bel Air; Allegany County; Maryland",1826.0,1487.0,339.0,001,90555,24
+2400190740,"District 9, Barton; Allegany County; Maryland",541.0,408.0,133.0,001,90740,24
+2400191747,"District 20, Corriganville/Ellerslie; Allegany County; Maryland",766.0,670.0,96.0,001,91747,24
+2400191840,"District 21, Gross; Allegany County; Maryland",520.0,375.0,145.0,001,91840,24
+2400192764,"District 31, McCoole; Allegany County; Maryland",636.0,583.0,53.0,001,92764,24
+2400190188,"District 3, Flintstone; Allegany County; Maryland",439.0,394.0,45.0,001,90188,24
+2400191012,"District 12, East Frostburg; Allegany County; Maryland",1526.0,757.0,769.0,001,91012,24
+2400192856,"District 34, Bedford Road; Allegany County; Maryland",651.0,554.0,97.0,001,92856,24
+2400190281,"District 4, Cumberland; Allegany County; Maryland",3496.0,1890.0,1606.0,001,90281,24
+2400190832,"District 10, Lonaconing; Allegany County; Maryland",760.0,556.0,204.0,001,90832,24
+2400191595,"District 18, Midland/Shaft; Allegany County; Maryland",1004.0,832.0,172.0,001,91595,24
+2400192116,"District 24, Eckhart; Allegany County; Maryland",806.0,571.0,235.0,001,92116,24
+2400192580,"District 29, La Vale; Allegany County; Maryland",2579.0,2203.0,376.0,001,92580,24
+2400190647,"District 8, Westernport/Luke; Allegany County; Maryland",1397.0,1046.0,351.0,001,90647,24
+2400191104,"District 13, Mount Savage; Allegany County; Maryland",941.0,799.0,142.0,001,91104,24
+2400192024,"District 23, Decatur; Allegany County; Maryland",1188.0,643.0,545.0,001,92024,24
+2400190004,"District 1, Orleans; Allegany County; Maryland",283.0,250.0,33.0,001,90004,24
+2400190926,"District 11, West Frostburg; Allegany County; Maryland",480.0,368.0,112.0,001,90926,24
+2400191928,"District 22, Cumberland; Allegany County; Maryland",1058.0,601.0,457.0,001,91928,24
+2402790052,"District 1, Elkridge; Howard County; Maryland",15885.0,11864.0,4021.0,027,90052,24
+2402790236,"District 3, West Friendship; Howard County; Maryland",5869.0,5492.0,377.0,027,90236,24
+2402790420,"District 5, Clarksville; Howard County; Maryland",25787.0,18115.0,7672.0,027,90420,24
+2402790512,"District 6, Savage; Howard County; Maryland",35602.0,24843.0,10759.0,027,90512,24
+2402790328,"District 4, Lisbon; Howard County; Maryland",4693.0,4410.0,283.0,027,90328,24
+2402790144,"District 2, Ellicott City; Howard County; Maryland",23501.0,17358.0,6143.0,027,90144,24
+2403390156,"District 2, Bladensburg; Prince George's County; Maryland",13932.0,7545.0,6387.0,033,90156,24
+2403390800,"District 9, Surratts; Prince George's County; Maryland",15021.0,12784.0,2237.0,033,90800,24
+2403390980,"District 11, Brandywine; Prince George's County; Maryland",5899.0,5444.0,455.0,033,90980,24
+2404790092,"District 1, Southern; Worcester County; Maryland",2478.0,1378.0,1100.0,047,90092,24
+2404790184,"District 2, Central; Worcester County; Maryland",2675.0,1618.0,1057.0,047,90184,24
+2451090000,"Baltimore city, Baltimore city, Maryland",239791.0,113558.0,126233.0,510,90000,24
+2404591555,"District 17, Westside; Wicomico County; Maryland",564.0,388.0,176.0,045,91555,24
+2404790276,"District 3, Sinepuxent; Worcester County; Maryland",3717.0,2736.0,981.0,047,90276,24
+2404790368,"District 4, Western; Worcester County; Maryland",2260.0,1687.0,573.0,047,90368,24
+2404790460,"District 5, Ocean Pines; Worcester County; Maryland",3573.0,3034.0,539.0,047,90460,24
+2404790644,"District 7, Ocean City; Worcester County; Maryland",3458.0,2598.0,860.0,047,90644,24
+2404790551,"District 6, Northern; Worcester County; Maryland",3029.0,2723.0,306.0,047,90551,24

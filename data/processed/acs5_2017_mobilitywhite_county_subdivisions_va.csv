@@ -1,0 +1,552 @@
+geoid,name,total,same_house,moved_within_county,moved_from_different_county_in_same_state,moved_from_different_state,moved_from_abroad,county,county subdivision,state
+5103196087,"Timberlake district, Campbell County, Virginia",6804.0,6079.0,188.0,383.0,126.0,28.0,031,96087,51
+5103190968,"Concord district, Campbell County, Virginia",6578.0,6044.0,115.0,373.0,46.0,0.0,031,90968,51
+5103195623,"Seneca district, Campbell County, Virginia",6198.0,5062.0,793.0,271.0,61.0,11.0,031,95623,51
+5103190504,"Brookneal district, Campbell County, Virginia",4894.0,4530.0,177.0,95.0,74.0,18.0,031,90504,51
+5103195503,"Rustburg district, Campbell County, Virginia",6736.0,6288.0,146.0,185.0,117.0,0.0,031,95503,51
+5108796119,"Tuckahoe district, Henrico County, Virginia",48386.0,42154.0,3260.0,2118.0,787.0,67.0,087,96119,51
+5108793511,"Fairfield district, Henrico County, Virginia",17225.0,14793.0,1467.0,758.0,166.0,41.0,087,93511,51
+5108796079,"Three Chopt district, Henrico County, Virginia",43478.0,37356.0,2725.0,2027.0,1079.0,291.0,087,96079,51
+5108993975,"Iriswood district, Henry County, Virginia",4962.0,4558.0,218.0,177.0,9.0,0.0,089,93975,51
+5108790496,"Brookland district, Henrico County, Virginia",40819.0,34919.0,3006.0,2242.0,560.0,92.0,087,90496,51
+5108796175,"Varina district, Henrico County, Virginia",23954.0,21723.0,1156.0,971.0,104.0,0.0,087,96175,51
+5108990944,"Collinsville district, Henry County, Virginia",6494.0,5793.0,529.0,90.0,82.0,0.0,089,90944,51
+5108995263,"Reed Creek district, Henry County, Virginia",6274.0,5520.0,393.0,258.0,103.0,0.0,089,95263,51
+5108990288,"Blackberry district, Henry County, Virginia",6514.0,5717.0,423.0,304.0,70.0,0.0,089,90288,51
+5108995295,"Ridgeway district, Henry County, Virginia",6841.0,6414.0,247.0,95.0,85.0,0.0,089,95295,51
+5108993919,"Horsepasture district, Henry County, Virginia",5173.0,4851.0,106.0,176.0,40.0,0.0,089,93919,51
+5109991080,"Dahlgren district, King George County, Virginia",3271.0,2714.0,187.0,143.0,187.0,40.0,099,91080,51
+5109994039,"James Monroe district, King George County, Virginia",7065.0,6364.0,252.0,168.0,276.0,5.0,099,94039,51
+5109995687,"Shiloh district, King George County, Virginia",3557.0,3240.0,133.0,27.0,133.0,24.0,099,95687,51
+5109994031,"James Madison district, King George County, Virginia",4751.0,4080.0,122.0,356.0,193.0,0.0,099,94031,51
+5110196327,"West Point district, King William County, Virginia",4085.0,3805.0,78.0,175.0,27.0,0.0,101,96327,51
+5110190016,"Acquinton district, King William County, Virginia",5635.0,5034.0,90.0,445.0,66.0,0.0,101,90016,51
+5110194479,"Mangohick district, King William County, Virginia",2556.0,2357.0,52.0,56.0,91.0,0.0,101,94479,51
+5110994759,"Mountain Road district, Louisa County, Virginia",2646.0,2590.0,0.0,18.0,38.0,0.0,109,94759,51
+5110995015,"Patrick Henry district, Louisa County, Virginia",3200.0,2975.0,118.0,70.0,29.0,8.0,109,95015,51
+5110994375,"Louisa district, Louisa County, Virginia",3993.0,3362.0,333.0,136.0,162.0,0.0,109,94375,51
+5110994711,"Mineral district, Louisa County, Virginia",3439.0,3056.0,201.0,162.0,20.0,0.0,109,94711,51
+5110991040,"Cuckoo district, Louisa County, Virginia",3021.0,2628.0,148.0,174.0,71.0,0.0,109,91040,51
+5110993767,"Green Spring district, Louisa County, Virginia",5847.0,4743.0,453.0,523.0,128.0,0.0,109,93767,51
+5110993999,"Jackson district, Louisa County, Virginia",4581.0,3836.0,245.0,469.0,31.0,0.0,109,93999,51
+5111590808,"Chesapeake district, Mathews County, Virginia",1488.0,1276.0,102.0,62.0,48.0,0.0,115,90808,51
+5111596335,"Westville district, Mathews County, Virginia",2750.0,2431.0,158.0,159.0,2.0,0.0,115,96335,51
+5111595055,"Piankatank district, Mathews County, Virginia",3233.0,2966.0,57.0,203.0,7.0,0.0,115,95055,51
+5111994023,"Jamaica district, Middlesex County, Virginia",1616.0,1520.0,38.0,27.0,31.0,0.0,119,94023,51
+5111995079,"Pine Top district, Middlesex County, Virginia",3683.0,3350.0,117.0,186.0,30.0,0.0,119,95079,51
+5111995559,"Saluda district, Middlesex County, Virginia",2970.0,2678.0,56.0,168.0,68.0,0.0,119,95559,51
+5114792593,"District 501, Prince Edward County, Virginia",1757.0,1693.0,32.0,32.0,0.0,0.0,147,92593,51
+5114792613,"District 701, Prince Edward County, Virginia",1192.0,1034.0,56.0,48.0,44.0,10.0,147,92613,51
+5114792583,"District 401, Prince Edward County, Virginia",2265.0,1895.0,34.0,240.0,84.0,12.0,147,92583,51
+5114792563,"District 201, Prince Edward County, Virginia",1332.0,1193.0,36.0,103.0,0.0,0.0,147,92563,51
+5114792623,"District 801, Prince Edward County, Virginia",1256.0,999.0,26.0,210.0,12.0,9.0,147,92623,51
+5114792603,"District 601, Prince Edward County, Virginia",900.0,900.0,0.0,0.0,0.0,0.0,147,92603,51
+5114792573,"District 301, Prince Edward County, Virginia",2030.0,1895.0,0.0,39.0,81.0,15.0,147,92573,51
+5114792553,"District 101, Prince Edward County, Virginia",3312.0,2289.0,225.0,723.0,75.0,0.0,147,92553,51
+5114990352,"Bland district, Prince George County, Virginia",9085.0,7173.0,222.0,718.0,885.0,87.0,149,90352,51
+5114990328,"Blackwater district, Prince George County, Virginia",2645.0,2463.0,29.0,123.0,30.0,0.0,149,90328,51
+5114990472,"Brandon district, Prince George County, Virginia",1062.0,887.0,0.0,175.0,0.0,0.0,149,90472,51
+5114995343,"Rives district, Prince George County, Virginia",4687.0,4114.0,73.0,179.0,321.0,0.0,149,95343,51
+5114996063,"Templeton district, Prince George County, Virginia",3264.0,3067.0,80.0,96.0,21.0,0.0,149,96063,51
+5115991271,"District 1, Richmond County, Virginia",460.0,460.0,0.0,0.0,0.0,0.0,159,91271,51
+5115991571,"District 3, Richmond County, Virginia",1543.0,1369.0,34.0,133.0,7.0,0.0,159,91571,51
+5115991421,"District 2, Richmond County, Virginia",1184.0,935.0,32.0,209.0,8.0,0.0,159,91421,51
+5115991721,"District 4, Richmond County, Virginia",998.0,938.0,0.0,0.0,41.0,19.0,159,91721,51
+5115991871,"District 5, Richmond County, Virginia",1163.0,1110.0,0.0,53.0,0.0,0.0,159,91871,51
+5116590736,"Central district, Rockingham County, Virginia",11790.0,10306.0,803.0,582.0,84.0,15.0,165,90736,51
+5116595095,"Plains district, Rockingham County, Virginia",13549.0,11831.0,1070.0,484.0,139.0,25.0,165,95095,51
+5116595951,"Stonewall district, Rockingham County, Virginia",17219.0,15366.0,992.0,567.0,278.0,16.0,165,95951,51
+5116590080,"Ashby district, Rockingham County, Virginia",19477.0,17751.0,840.0,692.0,157.0,37.0,165,90080,51
+5116594287,"Linville district, Rockingham County, Virginia",7695.0,6878.0,509.0,209.0,80.0,19.0,165,94287,51
+5116992026,"District 6, Scott County, Virginia",4224.0,3477.0,324.0,302.0,121.0,0.0,169,92026,51
+5116991276,"District 1, Scott County, Virginia",3699.0,3296.0,203.0,87.0,113.0,0.0,169,91276,51
+5116991576,"District 3, Scott County, Virginia",3377.0,3023.0,306.0,7.0,41.0,0.0,169,91576,51
+5116991726,"District 4, Scott County, Virginia",3702.0,3171.0,304.0,115.0,112.0,0.0,169,91726,51
+5116991426,"District 2, Scott County, Virginia",3291.0,3178.0,62.0,36.0,15.0,0.0,169,91426,51
+5116991876,"District 5, Scott County, Virginia",3210.0,2887.0,170.0,71.0,76.0,6.0,169,91876,51
+5117790760,"Chancellor district, Spotsylvania County, Virginia",13220.0,12071.0,339.0,616.0,183.0,11.0,177,90760,51
+5117794311,"Livingston district, Spotsylvania County, Virginia",14935.0,13450.0,673.0,611.0,156.0,45.0,177,94311,51
+5117794231,"Lee Hill district, Spotsylvania County, Virginia",11319.0,9973.0,436.0,446.0,432.0,32.0,177,94231,51
+5117790168,"Battlefield district, Spotsylvania County, Virginia",12799.0,11149.0,514.0,736.0,261.0,139.0,177,90168,51
+5117791008,"Courtland district, Spotsylvania County, Virginia",12746.0,10982.0,598.0,849.0,317.0,0.0,177,91008,51
+5117790232,"Berkeley district, Spotsylvania County, Virginia",13454.0,11761.0,883.0,559.0,244.0,7.0,177,90232,51
+5117795543,"Salem district, Spotsylvania County, Virginia",10926.0,9874.0,459.0,415.0,178.0,0.0,177,95543,51
+5118190136,"Bacons Castle district, Surry County, Virginia",501.0,479.0,0.0,22.0,0.0,0.0,181,90136,51
+5118190624,"Carsley district, Surry County, Virginia",612.0,570.0,32.0,0.0,10.0,0.0,181,90624,51
+5118190848,"Claremont district, Surry County, Virginia",465.0,438.0,20.0,7.0,0.0,0.0,181,90848,51
+5118191136,"Dendron district, Surry County, Virginia",815.0,700.0,18.0,96.0,1.0,0.0,181,91136,51
+5118196023,"Surry district, Surry County, Virginia",1048.0,970.0,25.0,19.0,34.0,0.0,181,96023,51
+5104395495,"Russell district, Clarke County, Virginia",2142.0,2035.0,22.0,36.0,49.0,0.0,043,95495,51
+5104396367,"White Post district, Clarke County, Virginia",2373.0,1941.0,57.0,365.0,10.0,0.0,043,96367,51
+5104390256,"Berryville district, Clarke County, Virginia",2757.0,2582.0,47.0,85.0,43.0,0.0,043,90256,51
+5104390544,"Buckmarsh district, Clarke County, Virginia",2676.0,2520.0,1.0,109.0,46.0,0.0,043,90544,51
+5104394703,"Millwood district, Clarke County, Virginia",2387.0,2210.0,44.0,124.0,0.0,9.0,043,94703,51
+5106790320,"Blackwater district, Franklin County, Virginia",6852.0,6310.0,293.0,82.0,167.0,0.0,067,90320,51
+5106795743,"Snow Creek district, Franklin County, Virginia",6731.0,5855.0,416.0,328.0,132.0,0.0,067,95743,51
+5106790392,"Blue Ridge district, Franklin County, Virginia",6358.0,5580.0,520.0,162.0,96.0,0.0,067,90392,51
+5106793703,"Gills Creek district, Franklin County, Virginia",7970.0,7394.0,195.0,364.0,17.0,0.0,067,93703,51
+5106796151,"Union Hall district, Franklin County, Virginia",7001.0,6133.0,479.0,239.0,150.0,0.0,067,96151,51
+5106790432,"Boone district, Franklin County, Virginia",7773.0,7202.0,300.0,236.0,35.0,0.0,067,90432,51
+5106795431,"Rocky Mount district, Franklin County, Virginia",5839.0,5212.0,346.0,198.0,83.0,0.0,067,95431,51
+5109790552,"Buena Vista district, King and Queen County, Virginia",856.0,815.0,0.0,29.0,12.0,0.0,097,90552,51
+5109795903,"Stevensville district, King and Queen County, Virginia",882.0,854.0,0.0,28.0,0.0,0.0,097,95903,51
+5109795631,"Shanghai district, King and Queen County, Virginia",1317.0,1215.0,0.0,92.0,10.0,0.0,097,95631,51
+5109794863,"Newtown district, King and Queen County, Virginia",614.0,609.0,5.0,0.0,0.0,0.0,097,94863,51
+5109795527,"St. Stephens Church district, King and Queen County, Virginia",973.0,930.0,0.0,43.0,0.0,0.0,097,95527,51
+5111791853,"District 5, Mecklenburg County, Virginia",2104.0,1918.0,116.0,11.0,59.0,0.0,117,91853,51
+5111791253,"District 1, Mecklenburg County, Virginia",1347.0,1141.0,81.0,16.0,109.0,0.0,117,91253,51
+5111791553,"District 3, Mecklenburg County, Virginia",3366.0,3209.0,80.0,33.0,31.0,13.0,117,91553,51
+5111792153,"District 7, Mecklenburg County, Virginia",1495.0,1450.0,33.0,0.0,9.0,3.0,117,92153,51
+5111792453,"District 9, Mecklenburg County, Virginia",2786.0,2608.0,44.0,76.0,58.0,0.0,117,92453,51
+5111791703,"District 4, Mecklenburg County, Virginia",1525.0,1323.0,67.0,57.0,78.0,0.0,117,91703,51
+5111792003,"District 6, Mecklenburg County, Virginia",2436.0,2184.0,111.0,74.0,67.0,0.0,117,92003,51
+5111792303,"District 8, Mecklenburg County, Virginia",2328.0,2196.0,96.0,12.0,24.0,0.0,117,92303,51
+5111791403,"District 2, Mecklenburg County, Virginia",1027.0,973.0,39.0,12.0,3.0,0.0,117,91403,51
+5112791407,"District 2, New Kent County, Virginia",2958.0,2640.0,19.0,268.0,31.0,0.0,127,91407,51
+5112791707,"District 4, New Kent County, Virginia",3336.0,2999.0,31.0,108.0,198.0,0.0,127,91707,51
+5112791257,"District 1, New Kent County, Virginia",3376.0,2975.0,29.0,372.0,0.0,0.0,127,91257,51
+5112791557,"District 3, New Kent County, Virginia",2463.0,1987.0,9.0,445.0,22.0,0.0,127,91557,51
+5112791857,"District 5, New Kent County, Virginia",4140.0,3640.0,56.0,321.0,123.0,0.0,127,91857,51
+5101594999,"Pastures district, Augusta County, Virginia",8129.0,7544.0,241.0,179.0,165.0,0.0,015,94999,51
+5101596271,"Wayne district, Augusta County, Virginia",10605.0,9418.0,286.0,697.0,204.0,0.0,015,96271,51
+5101590272,"Beverley Manor district, Augusta County, Virginia",8270.0,6663.0,947.0,586.0,36.0,38.0,015,90272,51
+5101595791,"South River district, Augusta County, Virginia",10300.0,9276.0,668.0,191.0,165.0,0.0,015,95791,51
+5101595335,"Riverheads district, Augusta County, Virginia",9755.0,8490.0,868.0,262.0,135.0,0.0,015,95335,51
+5101594911,"North River district, Augusta County, Virginia",10518.0,9587.0,328.0,448.0,121.0,34.0,015,94911,51
+5101594671,"Middle River district, Augusta County, Virginia",9861.0,9006.0,513.0,342.0,0.0,0.0,015,94671,51
+5104991220,"District 1, Cumberland County, Virginia",1196.0,1166.0,30.0,0.0,0.0,0.0,049,91220,51
+5104991370,"District 2, Cumberland County, Virginia",1768.0,1737.0,20.0,11.0,0.0,0.0,049,91370,51
+5104991520,"District 3, Cumberland County, Virginia",465.0,449.0,0.0,16.0,0.0,0.0,049,91520,51
+5104991670,"District 4, Cumberland County, Virginia",1238.0,1169.0,28.0,16.0,25.0,0.0,049,91670,51
+5104991820,"District 5, Cumberland County, Virginia",1486.0,1300.0,7.0,116.0,17.0,46.0,049,91820,51
+5105190880,"Clintwood district, Dickenson County, Virginia",2959.0,2885.0,71.0,0.0,3.0,0.0,051,90880,51
+5105195575,"Sand Lick district, Dickenson County, Virginia",3068.0,2768.0,127.0,132.0,41.0,0.0,051,95575,51
+5105193495,"Ervinton district, Dickenson County, Virginia",2573.0,2377.0,139.0,37.0,20.0,0.0,051,93495,51
+5105194135,"Kenady district, Dickenson County, Virginia",3195.0,3133.0,53.0,9.0,0.0,0.0,051,94135,51
+5105196407,"Willis district, Dickenson County, Virginia",2855.0,2739.0,89.0,22.0,5.0,0.0,051,96407,51
+5107591532,"District 3, Goochland County, Virginia",3136.0,2830.0,0.0,273.0,24.0,9.0,075,91532,51
+5107591832,"District 5, Goochland County, Virginia",4396.0,3999.0,72.0,281.0,35.0,9.0,075,91832,51
+5107591682,"District 4, Goochland County, Virginia",4227.0,3916.0,48.0,263.0,0.0,0.0,075,91682,51
+5107591382,"District 2, Goochland County, Virginia",2344.0,2153.0,95.0,86.0,10.0,0.0,075,91382,51
+5107591232,"District 1, Goochland County, Virginia",2986.0,2666.0,15.0,296.0,9.0,0.0,075,91232,51
+5108391986,"District 6, Halifax County, Virginia",2845.0,2543.0,78.0,74.0,150.0,0.0,083,91986,51
+5108391836,"District 5, Halifax County, Virginia",3344.0,3159.0,130.0,23.0,32.0,0.0,083,91836,51
+5108391386,"District 2, Halifax County, Virginia",2818.0,2469.0,124.0,154.0,51.0,20.0,083,91386,51
+5108391236,"District 1, Halifax County, Virginia",2679.0,2569.0,25.0,67.0,18.0,0.0,083,91236,51
+5108392286,"District 8, Halifax County, Virginia",2130.0,2000.0,85.0,31.0,14.0,0.0,083,92286,51
+5108391536,"District 3, Halifax County, Virginia",2290.0,2168.0,55.0,22.0,45.0,0.0,083,91536,51
+5108391686,"District 4, Halifax County, Virginia",1181.0,947.0,100.0,53.0,79.0,2.0,083,91686,51
+5108392136,"District 7, Halifax County, Virginia",3497.0,3391.0,36.0,33.0,29.0,8.0,083,92136,51
+5110790656,"Catoctin district, Loudoun County, Virginia",32946.0,29892.0,1648.0,583.0,752.0,71.0,107,90656,51
+5110790400,"Blue Ridge district, Loudoun County, Virginia",37744.0,32966.0,2418.0,1142.0,1049.0,169.0,107,90400,51
+5110794247,"Leesburg district, Loudoun County, Virginia",28900.0,24688.0,2298.0,946.0,759.0,209.0,107,94247,51
+5110795887,"Sterling district, Loudoun County, Virginia",15795.0,13652.0,927.0,719.0,374.0,123.0,107,95887,51
+5110790488,"Broad Run district, Loudoun County, Virginia",24080.0,20533.0,1193.0,1033.0,931.0,390.0,107,90488,51
+5110793415,"Dulles district, Loudoun County, Virginia",23029.0,20510.0,969.0,882.0,376.0,292.0,107,93415,51
+5111395383,"Robertson district, Madison County, Virginia",4384.0,3846.0,228.0,262.0,41.0,7.0,113,95383,51
+5111395223,"Rapidan district, Madison County, Virginia",2420.0,2007.0,301.0,96.0,16.0,0.0,113,95223,51
+5111394335,"Locust Dale district, Madison County, Virginia",4215.0,3659.0,197.0,286.0,73.0,0.0,113,94335,51
+5115396455,"Woodbridge district, Prince William County, Virginia",17604.0,14655.0,967.0,1305.0,486.0,191.0,153,96455,51
+5115390928,"Coles district, Prince William County, Virginia",34441.0,31437.0,972.0,1033.0,901.0,98.0,153,90928,51
+5115393671,"Gainesville district, Prince William County, Virginia",34259.0,29699.0,1640.0,1603.0,1241.0,76.0,153,93671,51
+5115394943,"Occoquan district, Prince William County, Virginia",29418.0,25987.0,1446.0,967.0,764.0,254.0,153,94943,51
+5115390480,"Brentsville district, Prince William County, Virginia",39840.0,34909.0,1918.0,1610.0,1132.0,271.0,153,90480,51
+5115394807,"Neabsco district, Prince William County, Virginia",18679.0,16460.0,1164.0,477.0,550.0,28.0,153,94807,51
+5116196183,"Vinton district, Roanoke County, Virginia",15963.0,13608.0,859.0,1123.0,326.0,47.0,161,96183,51
+5116190648,"Catawba district, Roanoke County, Virginia",16509.0,15024.0,524.0,784.0,177.0,0.0,161,90648,51
+5116190664,"Cave Spring district, Roanoke County, Virginia",14828.0,12650.0,828.0,776.0,318.0,256.0,161,90664,51
+5116196439,"Windsor Hills district, Roanoke County, Virginia",16649.0,14640.0,827.0,892.0,232.0,58.0,161,96439,51
+5116193911,"Hollins district, Roanoke County, Virginia",16288.0,14484.0,379.0,738.0,680.0,7.0,161,93911,51
+5117590240,"Berlin and Ivor district, Southampton County, Virginia",1917.0,1817.0,40.0,39.0,21.0,0.0,175,90240,51
+5117594103,"Jerusalem district, Southampton County, Virginia",2195.0,2009.0,67.0,107.0,12.0,0.0,175,94103,51
+5117593407,"Drewryville district, Southampton County, Virginia",704.0,553.0,13.0,138.0,0.0,0.0,175,93407,51
+5117590608,"Capron district, Southampton County, Virginia",1569.0,1462.0,103.0,2.0,2.0,0.0,175,90608,51
+5117594855,"Newsoms district, Southampton County, Virginia",1344.0,1246.0,92.0,6.0,0.0,0.0,175,94855,51
+5117593639,"Franklin district, Southampton County, Virginia",1910.0,1601.0,241.0,30.0,38.0,0.0,175,93639,51
+5109190368,"Blue Grass district, Highland County, Virginia",430.0,430.0,0.0,0.0,0.0,0.0,091,90368,51
+5109194743,"Monterey district, Highland County, Virginia",1196.0,1160.0,14.0,17.0,5.0,0.0,091,94743,51
+5109195935,"Stonewall district, Highland County, Virginia",545.0,523.0,11.0,11.0,0.0,0.0,091,95935,51
+5102595255,"Red Oak district, Brunswick County, Virginia",1363.0,1292.0,13.0,36.0,21.0,1.0,025,95255,51
+5102595983,"Sturgeon district, Brunswick County, Virginia",1314.0,1211.0,3.0,96.0,4.0,0.0,025,95983,51
+5102594639,"Meherrin district, Brunswick County, Virginia",1974.0,1821.0,73.0,11.0,69.0,0.0,025,94639,51
+5102596103,"Totaro district, Brunswick County, Virginia",1147.0,923.0,114.0,52.0,58.0,0.0,025,96103,51
+5102595151,"Powellton district, Brunswick County, Virginia",938.0,729.0,165.0,18.0,16.0,10.0,025,95151,51
+5103394583,"Mattaponi district, Caroline County, Virginia",2753.0,2663.0,6.0,50.0,34.0,0.0,033,94583,51
+5103395271,"Reedy Church district, Caroline County, Virginia",2053.0,1772.0,29.0,234.0,18.0,0.0,033,95271,51
+5103394423,"Madison district, Caroline County, Virginia",6816.0,5643.0,512.0,575.0,86.0,0.0,033,94423,51
+5103395119,"Port Royal district, Caroline County, Virginia",3949.0,3177.0,112.0,256.0,404.0,0.0,033,95119,51
+5103390440,"Bowling Green district, Caroline County, Virginia",3246.0,2994.0,157.0,95.0,0.0,0.0,033,90440,51
+5107393735,"Gloucester Point district, Gloucester County, Virginia",6227.0,5565.0,239.0,271.0,152.0,0.0,073,93735,51
+5107396471,"York district, Gloucester County, Virginia",6664.0,5906.0,387.0,272.0,67.0,32.0,073,96471,51
+5107395047,"Petsworth district, Gloucester County, Virginia",6039.0,5825.0,152.0,62.0,0.0,0.0,073,95047,51
+5107396231,"Ware district, Gloucester County, Virginia",5776.0,5220.0,302.0,167.0,82.0,5.0,073,96231,51
+5107390008,"Abingdon district, Gloucester County, Virginia",6529.0,6139.0,65.0,83.0,229.0,13.0,073,90008,51
+5113191258,"District 1, Northampton County, Virginia",1004.0,883.0,14.0,88.0,19.0,0.0,131,91258,51
+5113191558,"District 3, Northampton County, Virginia",654.0,632.0,0.0,22.0,0.0,0.0,131,91558,51
+5113191408,"District 2, Northampton County, Virginia",1004.0,926.0,27.0,37.0,10.0,4.0,131,91408,51
+5113192008,"District 6, Northampton County, Virginia",827.0,795.0,20.0,10.0,2.0,0.0,131,92008,51
+5113191708,"District 4, Northampton County, Virginia",1524.0,1456.0,26.0,23.0,19.0,0.0,131,91708,51
+5113191858,"District 5, Northampton County, Virginia",1383.0,1292.0,72.0,19.0,0.0,0.0,131,91858,51
+5114191096,"Dan River district, Patrick County, Virginia",3434.0,2718.0,397.0,283.0,36.0,0.0,141,91096,51
+5114194591,"Mayo River district, Patrick County, Virginia",3304.0,2797.0,165.0,252.0,86.0,4.0,141,94591,51
+5114190408,"Blue Ridge district, Patrick County, Virginia",2808.0,2257.0,273.0,257.0,21.0,0.0,141,90408,51
+5114195039,"Peters Creek district, Patrick County, Virginia",3506.0,3179.0,228.0,14.0,85.0,0.0,141,95039,51
+5114195735,"Smith River district, Patrick County, Virginia",3026.0,2761.0,81.0,153.0,31.0,0.0,141,95735,51
+5114591415,"District 2, Powhatan County, Virginia",4948.0,4805.0,14.0,91.0,26.0,12.0,145,91415,51
+5114591265,"District 1, Powhatan County, Virginia",5793.0,5115.0,155.0,403.0,120.0,0.0,145,91265,51
+5114591565,"District 3, Powhatan County, Virginia",4978.0,4667.0,13.0,242.0,16.0,40.0,145,91565,51
+5114591715,"District 4, Powhatan County, Virginia",3958.0,3615.0,190.0,127.0,26.0,0.0,145,91715,51
+5114591865,"District 5, Powhatan County, Virginia",4012.0,3588.0,32.0,375.0,17.0,0.0,145,91865,51
+5116395799,"South River district, Rockbridge County, Virginia",5098.0,4331.0,444.0,198.0,125.0,0.0,163,95799,51
+5116394799,"Natural Bridge district, Rockbridge County, Virginia",2762.0,2494.0,191.0,52.0,4.0,21.0,163,94799,51
+5116396215,"Walkers Creek district, Rockbridge County, Virginia",4595.0,4121.0,166.0,184.0,111.0,13.0,163,96215,51
+5116394143,"Kerrs Creek district, Rockbridge County, Virginia",4336.0,3793.0,102.0,289.0,152.0,0.0,163,94143,51
+5116390568,"Buffalo district, Rockbridge County, Virginia",3886.0,3532.0,92.0,246.0,16.0,0.0,163,90568,51
+5117191277,"District 1, Shenandoah County, Virginia",5810.0,5074.0,375.0,216.0,145.0,0.0,171,91277,51
+5117191877,"District 5, Shenandoah County, Virginia",6697.0,5956.0,360.0,266.0,115.0,0.0,171,91877,51
+5117191727,"District 4, Shenandoah County, Virginia",6461.0,4985.0,446.0,555.0,475.0,0.0,171,91727,51
+5117191427,"District 2, Shenandoah County, Virginia",5452.0,4944.0,359.0,104.0,41.0,4.0,171,91427,51
+5117191577,"District 3, Shenandoah County, Virginia",5867.0,5517.0,241.0,61.0,45.0,3.0,171,91577,51
+5117192027,"District 6, Shenandoah County, Virginia",7298.0,5536.0,787.0,791.0,184.0,0.0,171,92027,51
+5106190688,"Cedar Run district, Fauquier County, Virginia",10735.0,9739.0,357.0,466.0,154.0,19.0,061,90688,51
+5106195599,"Scott district, Fauquier County, Virginia",11318.0,10232.0,239.0,707.0,114.0,26.0,061,95599,51
+5106194215,"Lee district, Fauquier County, Virginia",9678.0,8730.0,446.0,435.0,52.0,15.0,061,94215,51
+5106194511,"Marshall district, Fauquier County, Virginia",10893.0,9864.0,221.0,453.0,350.0,5.0,061,94511,51
+5106190704,"Center district, Fauquier County, Virginia",12262.0,11150.0,427.0,397.0,263.0,25.0,061,90704,51
+5104793447,"East Fairfax district, Culpeper County, Virginia",3150.0,2807.0,191.0,73.0,79.0,0.0,047,93447,51
+5104795535,"Salem district, Culpeper County, Virginia",5772.0,5400.0,294.0,21.0,57.0,0.0,047,95535,51
+5104796303,"West Fairfax district, Culpeper County, Virginia",4964.0,4302.0,209.0,351.0,102.0,0.0,047,96303,51
+5104795895,"Stevensburg district, Culpeper County, Virginia",5521.0,4873.0,295.0,261.0,92.0,0.0,047,95895,51
+5104794079,"Jefferson district, Culpeper County, Virginia",5816.0,5239.0,149.0,317.0,111.0,0.0,047,94079,51
+5104790640,"Catalpa district, Culpeper County, Virginia",5295.0,4712.0,193.0,264.0,126.0,0.0,047,90640,51
+5104790680,"Cedar Mountain district, Culpeper County, Virginia",4599.0,3784.0,386.0,323.0,92.0,14.0,047,90680,51
+5105391222,"District 1, Dinwiddie County, Virginia",4154.0,3939.0,58.0,157.0,0.0,0.0,053,91222,51
+5105391672,"District 4, Dinwiddie County, Virginia",3507.0,2904.0,413.0,155.0,0.0,35.0,053,91672,51
+5105391372,"District 2, Dinwiddie County, Virginia",3334.0,2937.0,120.0,277.0,0.0,0.0,053,91372,51
+5105391822,"District 5, Dinwiddie County, Virginia",3894.0,3572.0,229.0,65.0,26.0,2.0,053,91822,51
+5105391522,"District 3, Dinwiddie County, Virginia",2356.0,1966.0,145.0,204.0,35.0,6.0,053,91522,51
+5107994719,"Monroe district, Greene County, Virginia",5208.0,4928.0,23.0,226.0,0.0,31.0,079,94719,51
+5107995863,"Stanardsville district, Greene County, Virginia",5165.0,4826.0,38.0,234.0,66.0,1.0,079,95863,51
+5107995487,"Ruckersville district, Greene County, Virginia",5514.0,5194.0,87.0,157.0,76.0,0.0,079,95487,51
+5108590096,"Ashland district, Hanover County, Virginia",11096.0,9697.0,322.0,760.0,309.0,8.0,085,90096,51
+5108590824,"Chickahominy district, Hanover County, Virginia",13237.0,11676.0,629.0,650.0,123.0,159.0,085,90824,51
+5108590200,"Beaverdam district, Hanover County, Virginia",12387.0,10968.0,700.0,499.0,215.0,5.0,085,90200,51
+5108590920,"Cold Harbor district, Hanover County, Virginia",13552.0,12383.0,732.0,252.0,160.0,25.0,085,90920,51
+5108595759,"South Anna district, Hanover County, Virginia",11796.0,11111.0,74.0,251.0,276.0,84.0,085,95759,51
+5108593887,"Henry district, Hanover County, Virginia",13010.0,11919.0,612.0,324.0,155.0,0.0,085,93887,51
+5108594631,"Mechanicsville district, Hanover County, Virginia",11377.0,10145.0,590.0,509.0,107.0,26.0,085,94631,51
+5111195111,"Plymouth district, Lunenburg County, Virginia",856.0,783.0,53.0,4.0,3.0,13.0,111,95111,51
+5111195279,"Rehoboth district, Lunenburg County, Virginia",1356.0,1350.0,0.0,6.0,0.0,0.0,111,95279,51
+5111194647,"Meherrin River district, Lunenburg County, Virginia",1585.0,1506.0,4.0,57.0,12.0,6.0,111,94647,51
+5111193927,"Hounds Creek district, Lunenburg County, Virginia",800.0,733.0,15.0,52.0,0.0,0.0,111,93927,51
+5111190192,"Beaver Creek district, Lunenburg County, Virginia",1010.0,991.0,19.0,0.0,0.0,0.0,111,90192,51
+5111190512,"Browns Store district, Lunenburg County, Virginia",1224.0,1023.0,163.0,38.0,0.0,0.0,111,90512,51
+5111194383,"Loves Mill district, Lunenburg County, Virginia",524.0,514.0,10.0,0.0,0.0,0.0,111,94383,51
+5113791261,"District 1, Orange County, Virginia",3992.0,3445.0,172.0,340.0,35.0,0.0,137,91261,51
+5113791861,"District 5, Orange County, Virginia",6820.0,6313.0,23.0,308.0,176.0,0.0,137,91861,51
+5113791561,"District 3, Orange County, Virginia",4323.0,3466.0,398.0,344.0,115.0,0.0,137,91561,51
+5113791411,"District 2, Orange County, Virginia",4011.0,3766.0,36.0,185.0,24.0,0.0,137,91411,51
+5113791711,"District 4, Orange County, Virginia",8539.0,7765.0,239.0,381.0,141.0,13.0,137,91711,51
+5159593491,"Emporia city, Emporia city, Virginia",1617.0,1351.0,74.0,153.0,39.0,0.0,595,93491,51
+5119790304,"Black Lick district, Wythe County, Virginia",5569.0,5058.0,388.0,86.0,37.0,0.0,197,90304,51
+5119795823,"Speedwell district, Wythe County, Virginia",4373.0,4080.0,213.0,64.0,9.0,7.0,197,95823,51
+5119793471,"East Wytheville district, Wythe County, Virginia",4414.0,3870.0,181.0,290.0,73.0,0.0,197,93471,51
+5119793615,"Fort Chiswell district, Wythe County, Virginia",4686.0,4368.0,275.0,43.0,0.0,0.0,197,93615,51
+5119794183,"Lead Mines district, Wythe County, Virginia",4136.0,3767.0,198.0,139.0,32.0,0.0,197,94183,51
+5119796343,"West Wytheville district, Wythe County, Virginia",3929.0,3639.0,73.0,110.0,107.0,0.0,197,96343,51
+5155090812,"Chesapeake city, Chesapeake city, Virginia",135628.0,119084.0,5347.0,6085.0,4628.0,484.0,550,90812,51
+5157090948,"Colonial Heights city, Colonial Heights city, Virginia",12960.0,11186.0,453.0,944.0,367.0,10.0,570,90948,51
+5166093859,"Harrisonburg city, Harrisonburg city, Virginia",35458.0,23140.0,3806.0,6143.0,1933.0,436.0,660,93859,51
+5100395319,"Rivanna district, Albemarle County, Virginia",14646.0,12733.0,922.0,585.0,395.0,11.0,003,95319,51
+5100395567,"Samuel Miller district, Albemarle County, Virginia",12847.0,10395.0,836.0,1032.0,513.0,71.0,003,95567,51
+5100395311,"Rio district, Albemarle County, Virginia",12254.0,10033.0,1112.0,664.0,390.0,55.0,003,95311,51
+5100395607,"Scottsville district, Albemarle County, Virginia",14473.0,12450.0,706.0,797.0,372.0,148.0,003,95607,51
+5100396359,"White Hall district, Albemarle County, Virginia",15967.0,14607.0,409.0,644.0,280.0,27.0,003,96359,51
+5100393983,"Jack Jouett district, Albemarle County, Virginia",10095.0,6627.0,1161.0,1423.0,721.0,163.0,003,93983,51
+5102390528,"Buchanan district, Botetourt County, Virginia",6171.0,5720.0,93.0,165.0,193.0,0.0,023,90528,51
+5102393575,"Fincastle district, Botetourt County, Virginia",6104.0,5489.0,481.0,114.0,1.0,19.0,023,93575,51
+5102390048,"Amsterdam district, Botetourt County, Virginia",5716.0,4982.0,421.0,122.0,191.0,0.0,023,90048,51
+5102396159,"Valley district, Botetourt County, Virginia",6214.0,5608.0,204.0,382.0,20.0,0.0,023,96159,51
+5102390384,"Blue Ridge district, Botetourt County, Virginia",6519.0,5788.0,405.0,283.0,39.0,4.0,023,90384,51
+5168094403,"Lynchburg city, Lynchburg city, Virginia",49112.0,37058.0,4191.0,3987.0,3456.0,420.0,680,94403,51
+5119991440,"District 2, York County, Virginia",8020.0,6681.0,199.0,261.0,664.0,215.0,199,91440,51
+5119991890,"District 5, York County, Virginia",9966.0,8224.0,299.0,781.0,539.0,123.0,199,91890,51
+5119991590,"District 3, York County, Virginia",9729.0,8350.0,329.0,626.0,272.0,152.0,199,91590,51
+5119991740,"District 4, York County, Virginia",9866.0,8417.0,509.0,584.0,302.0,54.0,199,91740,51
+5119991290,"District 1, York County, Virginia",10429.0,8633.0,114.0,673.0,942.0,67.0,199,91290,51
+5176095291,"Richmond city, Richmond city, Virginia",87476.0,64776.0,9722.0,8559.0,3891.0,528.0,760,95291,51
+5169094537,"Martinsville city, Martinsville city, Virginia",5949.0,5107.0,273.0,361.0,208.0,0.0,690,94537,51
+5105795751,"South district, Essex County, Virginia",2146.0,2040.0,14.0,84.0,8.0,0.0,057,95751,51
+5105794879,"North district, Essex County, Virginia",1003.0,941.0,8.0,54.0,0.0,0.0,057,94879,51
+5105790720,"Central district, Essex County, Virginia",1738.0,1647.0,45.0,20.0,26.0,0.0,057,90720,51
+5114395879,"Staunton River district, Pittsylvania County, Virginia",6675.0,5952.0,365.0,186.0,157.0,15.0,143,95879,51
+5114396319,"Westover district, Pittsylvania County, Virginia",6614.0,5899.0,540.0,108.0,67.0,0.0,143,96319,51
+5114390152,"Banister district, Pittsylvania County, Virginia",3707.0,3350.0,261.0,83.0,13.0,0.0,143,90152,51
+5114391104,"Dan River district, Pittsylvania County, Virginia",7529.0,6562.0,843.0,75.0,47.0,2.0,143,91104,51
+5114390800,"Chatham-Blairs district, Pittsylvania County, Virginia",7679.0,7073.0,366.0,212.0,28.0,0.0,143,90800,51
+5114390592,"Callands-Gretna district, Pittsylvania County, Virginia",7057.0,6359.0,449.0,174.0,75.0,0.0,143,90592,51
+5114396127,"Tunstall district, Pittsylvania County, Virginia",6439.0,5822.0,450.0,54.0,113.0,0.0,143,96127,51
+5172094931,"Norton city, Norton city, Virginia",3588.0,2869.0,86.0,535.0,98.0,0.0,720,94931,51
+5179095875,"Staunton city, Staunton city, Virginia",19562.0,16501.0,853.0,1751.0,457.0,0.0,790,95875,51
+5106594983,"Palmyra district, Fluvanna County, Virginia",4880.0,4213.0,131.0,505.0,31.0,0.0,065,94983,51
+5106593607,"Fork Union district, Fluvanna County, Virginia",2745.0,2295.0,268.0,182.0,0.0,0.0,065,93607,51
+5106590952,"Columbia district, Fluvanna County, Virginia",3256.0,2850.0,40.0,264.0,102.0,0.0,065,90952,51
+5106595327,"Rivanna district, Fluvanna County, Virginia",5111.0,4516.0,69.0,411.0,101.0,14.0,065,95327,51
+5106591056,"Cunningham district, Fluvanna County, Virginia",4320.0,3910.0,246.0,78.0,86.0,0.0,065,91056,51
+5100791349,"District 2, Amelia County, Virginia",1749.0,1716.0,0.0,33.0,0.0,0.0,007,91349,51
+5100791649,"District 4, Amelia County, Virginia",1738.0,1386.0,234.0,118.0,0.0,0.0,007,91649,51
+5100791199,"District 1, Amelia County, Virginia",1997.0,1975.0,0.0,13.0,0.0,9.0,007,91199,51
+5100791499,"District 3, Amelia County, Virginia",2307.0,2207.0,39.0,44.0,0.0,17.0,007,91499,51
+5100791799,"District 5, Amelia County, Virginia",1381.0,1235.0,56.0,70.0,20.0,0.0,007,91799,51
+5175095211,"Radford city, Radford city, Virginia",14372.0,10576.0,886.0,2596.0,299.0,15.0,750,95211,51
+5184096427,"Winchester city, Winchester city, Virginia",18225.0,15149.0,951.0,1485.0,605.0,35.0,840,96427,51
+5100191646,"District 4, Accomack County, Virginia",2643.0,2517.0,55.0,8.0,59.0,4.0,001,91646,51
+5100192096,"District 7, Accomack County, Virginia",2249.0,2099.0,63.0,18.0,57.0,12.0,001,92096,51
+5100192396,"District 9, Accomack County, Virginia",1664.0,1602.0,45.0,3.0,14.0,0.0,001,92396,51
+5100191496,"District 3, Accomack County, Virginia",1384.0,1336.0,34.0,14.0,0.0,0.0,001,91496,51
+5100191196,"District 1, Accomack County, Virginia",2611.0,2293.0,148.0,21.0,149.0,0.0,001,91196,51
+5100191946,"District 6, Accomack County, Virginia",1914.0,1872.0,26.0,6.0,10.0,0.0,001,91946,51
+5100191796,"District 5, Accomack County, Virginia",865.0,786.0,40.0,6.0,33.0,0.0,001,91796,51
+5100192246,"District 8, Accomack County, Virginia",3080.0,2835.0,228.0,14.0,3.0,0.0,001,92246,51
+5100191346,"District 2, Accomack County, Virginia",3293.0,3051.0,11.0,11.0,220.0,0.0,001,91346,51
+5104591032,"Craig Creek district, Craig County, Virginia",1302.0,1226.0,44.0,0.0,32.0,0.0,045,91032,51
+5104595703,"Simmonsville district, Craig County, Virginia",1282.0,1175.0,26.0,40.0,41.0,0.0,045,95703,51
+5104595135,"Potts Mountain district, Craig County, Virginia",541.0,397.0,127.0,6.0,11.0,0.0,045,95135,51
+5104594823,"New Castle district, Craig County, Virginia",850.0,713.0,11.0,126.0,0.0,0.0,045,94823,51
+5104591024,"Craig City district, Craig County, Virginia",1033.0,953.0,80.0,0.0,0.0,0.0,045,91024,51
+5106390992,"Court House district, Floyd County, Virginia",2850.0,2772.0,16.0,57.0,5.0,0.0,063,90992,51
+5106390576,"Burks Fork district, Floyd County, Virginia",2849.0,2753.0,13.0,60.0,23.0,0.0,063,90576,51
+5106393959,"Indian Valley district, Floyd County, Virginia",2732.0,2566.0,62.0,104.0,0.0,0.0,063,93959,51
+5106394343,"Locust Grove district, Floyd County, Virginia",2607.0,2432.0,82.0,32.0,36.0,25.0,063,94343,51
+5106394303,"Little River district, Floyd County, Virginia",3274.0,2822.0,64.0,273.0,107.0,8.0,063,94303,51
+5107190728,"Central district, Giles County, Virginia",4832.0,4276.0,366.0,20.0,142.0,28.0,071,90728,51
+5107196287,"Western district, Giles County, Virginia",5620.0,4770.0,621.0,106.0,123.0,0.0,071,96287,51
+5107193431,"Eastern district, Giles County, Virginia",5413.0,4906.0,149.0,238.0,115.0,5.0,071,93431,51
+5107793479,"Elk Creek district, Grayson County, Virginia",3908.0,3603.0,168.0,106.0,29.0,2.0,077,93479,51
+5107796423,"Wilson Creek district, Grayson County, Virginia",2953.0,2622.0,221.0,36.0,72.0,2.0,077,96423,51
+5107794959,"Old Town district, Grayson County, Virginia",3938.0,3516.0,233.0,131.0,58.0,0.0,077,94959,51
+5107795199,"Providence district, Grayson County, Virginia",3370.0,3242.0,58.0,58.0,12.0,0.0,077,95199,51
+5113591260,"District 1, Nottoway County, Virginia",2372.0,2174.0,76.0,115.0,7.0,0.0,135,91260,51
+5113591410,"District 2, Nottoway County, Virginia",2499.0,2170.0,147.0,135.0,23.0,24.0,135,91410,51
+5113591560,"District 3, Nottoway County, Virginia",1225.0,1013.0,19.0,172.0,21.0,0.0,135,91560,51
+5113591860,"District 5, Nottoway County, Virginia",1593.0,1411.0,134.0,48.0,0.0,0.0,135,91860,51
+5113591710,"District 4, Nottoway County, Virginia",652.0,652.0,0.0,0.0,0.0,0.0,135,91710,51
+5115795063,"Piedmont district, Rappahannock County, Virginia",1133.0,929.0,95.0,109.0,0.0,0.0,157,95063,51
+5115793823,"Hampton district, Rappahannock County, Virginia",876.0,829.0,38.0,9.0,0.0,0.0,157,93823,51
+5115794007,"Jackson district, Rappahannock County, Virginia",1485.0,1426.0,14.0,45.0,0.0,0.0,157,94007,51
+5115796199,"Wakefield district, Rappahannock County, Virginia",1757.0,1709.0,0.0,18.0,30.0,0.0,157,96199,51
+5115795967,"Stonewall-Hawthorne district, Rappahannock County, Virginia",1294.0,1166.0,101.0,27.0,0.0,0.0,157,95967,51
+5101190985,"Courthouse district, Appomattox County, Virginia",2188.0,2057.0,33.0,38.0,60.0,0.0,011,90985,51
+5115395133,"Potomac district, Prince William County, Virginia",24615.0,20859.0,1177.0,507.0,1736.0,336.0,153,95133,51
+5110790022,"Algonkian district, Loudoun County, Virginia",25306.0,22174.0,1320.0,981.0,793.0,38.0,107,90022,51
+5110790076,"Ashburn district, Loudoun County, Virginia",25693.0,22815.0,1269.0,709.0,493.0,407.0,107,90076,51
+5113991262,"District 1, West Luray; Page County; Virginia",4313.0,3700.0,469.0,109.0,35.0,0.0,139,91262,51
+5113991412,"District 2, East Luray; Page County; Virginia",4196.0,3808.0,239.0,84.0,37.0,28.0,139,91412,51
+5113991562,"District 3, Marksville; Page County; Virginia",5012.0,4452.0,443.0,91.0,26.0,0.0,139,91562,51
+5113991712,"District 4, Newport; Page County; Virginia",4165.0,3481.0,390.0,272.0,22.0,0.0,139,91712,51
+5113991862,"District 5, Shenandoah; Page County; Virginia",4441.0,3834.0,316.0,259.0,32.0,0.0,139,91862,51
+5117993683,"Garrisonville district, Stafford County, Virginia",10874.0,9168.0,505.0,437.0,695.0,69.0,179,93683,51
+5106995250,"Red Bud district, Frederick County, Virginia",11220.0,9969.0,509.0,667.0,67.0,8.0,069,95250,51
+5108191234,"District 1, Greensville County, Virginia",575.0,431.0,78.0,11.0,55.0,0.0,081,91234,51
+5108191384,"District 2, Greensville County, Virginia",907.0,868.0,0.0,39.0,0.0,0.0,081,91384,51
+5108191534,"District 3, Greensville County, Virginia",855.0,687.0,71.0,91.0,6.0,0.0,081,91534,51
+5108191684,"District 4, Greensville County, Virginia",1955.0,1533.0,32.0,388.0,2.0,0.0,081,91684,51
+5112192713,"District A-01, Montgomery County, Virginia",11487.0,8279.0,1827.0,776.0,434.0,171.0,121,92713,51
+5112192813,"District B-01, Montgomery County, Virginia",14557.0,12108.0,1118.0,673.0,583.0,75.0,121,92813,51
+5112192913,"District C-01, Montgomery County, Virginia",11977.0,10827.0,525.0,228.0,381.0,16.0,121,92913,51
+5102992106,"District 7, Buckingham County, Virginia",1186.0,994.0,69.0,123.0,0.0,0.0,029,92106,51
+5112193013,"District D-01, Montgomery County, Virginia",12579.0,10957.0,1039.0,292.0,275.0,16.0,121,93013,51
+5112193113,"District E-01, Montgomery County, Virginia",10901.0,8300.0,554.0,1323.0,719.0,5.0,121,93113,51
+5102991665,"District 4, Buckingham County, Virginia",1219.0,967.0,174.0,61.0,17.0,0.0,029,91665,51
+5102991810,"District 5, Buckingham County, Virginia",1797.0,1690.0,99.0,8.0,0.0,0.0,029,91810,51
+5102991956,"District 6, Buckingham County, Virginia",2019.0,1831.0,62.0,76.0,50.0,0.0,029,91956,51
+5103691515,"District 3, Charles City County, Virginia",1004.0,922.0,0.0,72.0,10.0,0.0,036,91515,51
+5101195083,"Piney Mountain district, Appomattox County, Virginia",2102.0,2002.0,79.0,21.0,0.0,0.0,011,95083,51
+5101196459,"Wreck Island district, Appomattox County, Virginia",2270.0,2223.0,14.0,19.0,14.0,0.0,011,96459,51
+5102191210,"District 1, Bland County, Virginia",1562.0,1545.0,0.0,8.0,9.0,0.0,021,91210,51
+5102191360,"District 2, Bland County, Virginia",1367.0,1313.0,0.0,34.0,20.0,0.0,021,91360,51
+5112590732,"Central district, Nelson County, Virginia",2973.0,2695.0,74.0,158.0,46.0,0.0,125,90732,51
+5102191510,"District 3, Bland County, Virginia",1799.0,1418.0,0.0,329.0,52.0,0.0,021,91510,51
+5102191660,"District 4, Bland County, Virginia",1386.0,1200.0,44.0,130.0,12.0,0.0,021,91660,51
+5112594883,"North district, Nelson County, Virginia",2189.0,2013.0,44.0,101.0,17.0,14.0,125,94883,51
+5112593427,"East district, Nelson County, Virginia",2020.0,1942.0,48.0,7.0,23.0,0.0,125,93427,51
+5112596283,"West district, Nelson County, Virginia",2734.0,2552.0,100.0,73.0,0.0,9.0,125,96283,51
+5112595755,"South district, Nelson County, Virginia",2056.0,1870.0,82.0,37.0,67.0,0.0,125,95755,51
+5112193213,"District F-01, Montgomery County, Virginia",9124.0,5403.0,1389.0,1289.0,942.0,101.0,121,93213,51
+5101991209,"District 1, Bedford County, Virginia",9506.0,8676.0,229.0,517.0,78.0,6.0,019,91209,51
+5101991359,"District 2, Bedford County, Virginia",10272.0,9430.0,332.0,364.0,97.0,49.0,019,91359,51
+5101991509,"District 3, Bedford County, Virginia",10139.0,9292.0,139.0,471.0,209.0,28.0,019,91509,51
+5101991659,"District 4, Bedford County, Virginia",9497.0,8344.0,373.0,448.0,200.0,132.0,019,91659,51
+5101991805,"District 5, Bedford County, Virginia",9798.0,9044.0,318.0,309.0,126.0,1.0,019,91805,51
+5101991950,"District 6, Bedford County, Virginia",9163.0,7576.0,1030.0,427.0,91.0,39.0,019,91950,51
+5112193313,"District G-01, Montgomery County, Virginia",10405.0,5512.0,2833.0,1503.0,454.0,103.0,121,93313,51
+5103190032,"Altavista district, Campbell County, Virginia",5815.0,5370.0,202.0,243.0,0.0,0.0,031,90032,51
+5100590424,"Boiling Springs district, Alleghany County, Virginia",2227.0,2140.0,62.0,14.0,11.0,0.0,005,90424,51
+5100590877,"Clifton Forge East district, Alleghany County, Virginia",1976.0,1697.0,151.0,80.0,48.0,0.0,005,90877,51
+5100590878,"Clifton Forge West district, Alleghany County, Virginia",1375.0,1244.0,105.0,13.0,13.0,0.0,005,90878,51
+5100595635,"Sharon district, Alleghany County, Virginia",2002.0,1831.0,51.0,111.0,9.0,0.0,005,95635,51
+5110391241,"District 1, Lancaster County, Virginia",1455.0,1285.0,77.0,44.0,49.0,0.0,103,91241,51
+5110391391,"District 2, Lancaster County, Virginia",841.0,824.0,0.0,17.0,0.0,0.0,103,91391,51
+5110391541,"District 3, Lancaster County, Virginia",1947.0,1819.0,54.0,59.0,15.0,0.0,103,91541,51
+5110391691,"District 4, Lancaster County, Virginia",931.0,825.0,21.0,41.0,44.0,0.0,103,91691,51
+5110391841,"District 5, Lancaster County, Virginia",2222.0,2022.0,10.0,177.0,12.0,1.0,103,91841,51
+5117590458,"Boykins and Branchville district, Southampton County, Virginia",1256.0,1187.0,35.0,23.0,11.0,0.0,175,90458,51
+5103691215,"District 1, Charles City County, Virginia",1192.0,1076.0,14.0,75.0,25.0,2.0,036,91215,51
+5103691365,"District 2, Charles City County, Virginia",683.0,610.0,6.0,44.0,23.0,0.0,036,91365,51
+5101190054,"Appomattox River district, Appomattox County, Virginia",2604.0,2483.0,69.0,27.0,25.0,0.0,011,90054,51
+5101193524,"Falling River district, Appomattox County, Virginia",2590.0,2484.0,0.0,0.0,106.0,0.0,011,93524,51
+5102991512,"District 3, Buckingham County, Virginia",1715.0,1627.0,21.0,24.0,39.0,4.0,029,91512,51
+5102991212,"District 1, Buckingham County, Virginia",1510.0,1363.0,113.0,34.0,0.0,0.0,029,91212,51
+5102991362,"District 2, Buckingham County, Virginia",889.0,715.0,32.0,142.0,0.0,0.0,029,91362,51
+5105796027,"Tappahannock district, Essex County, Virginia",1156.0,1025.0,5.0,108.0,18.0,0.0,057,96027,51
+5110591247,"District 1, Lee County, Virginia",4421.0,4252.0,85.0,0.0,84.0,0.0,105,91247,51
+5110591397,"District 2, Lee County, Virginia",5237.0,4415.0,705.0,64.0,53.0,0.0,105,91397,51
+5110591547,"District 3, Lee County, Virginia",5084.0,4414.0,535.0,47.0,84.0,4.0,105,91547,51
+5110591697,"District 4, Lee County, Virginia",4755.0,4400.0,135.0,105.0,115.0,0.0,105,91697,51
+5110591847,"District 5, Lee County, Virginia",2958.0,2552.0,251.0,108.0,47.0,0.0,105,91847,51
+5101992102,"District 7, Bedford County, Virginia",9161.0,7516.0,776.0,639.0,230.0,0.0,019,92102,51
+5119591438,"District 2, Wise County, Virginia",7926.0,6835.0,691.0,260.0,140.0,0.0,195,91438,51
+5119591738,"District 4, Wise County, Virginia",9892.0,8563.0,739.0,442.0,102.0,46.0,195,91738,51
+5119591288,"District 1, Wise County, Virginia",9336.0,8335.0,671.0,146.0,184.0,0.0,195,91288,51
+5119591588,"District 3, Wise County, Virginia",8728.0,8076.0,492.0,95.0,65.0,0.0,195,91588,51
+5152090484,"Bristol city, Bristol city, Virginia",14856.0,11901.0,1011.0,1103.0,841.0,0.0,520,90484,51
+5158091020,"Covington city, Covington city, Virginia",4584.0,4128.0,113.0,287.0,56.0,0.0,580,91020,51
+5174095123,"Portsmouth city, Portsmouth city, Virginia",36026.0,30147.0,1780.0,2481.0,1446.0,172.0,740,95123,51
+5183096395,"Williamsburg city, Williamsburg city, Virginia",9992.0,6271.0,1249.0,1480.0,880.0,112.0,830,96395,51
+5181096187,"Virginia Beach city, Virginia Beach city, Virginia",278035.0,231827.0,22847.0,8953.0,12735.0,1673.0,810,96187,51
+5100593527,"Falling Spring district, Alleghany County, Virginia",2358.0,2223.0,62.0,22.0,51.0,0.0,005,93527,51
+5100591016,"Covington district, Alleghany County, Virginia",1961.0,1779.0,57.0,11.0,104.0,10.0,005,91016,51
+5100594015,"Jackson River district, Alleghany County, Virginia",2178.0,1761.0,177.0,32.0,208.0,0.0,005,94015,51
+5103595087,"Piper Gap district, Carroll County, Virginia",7065.0,6571.0,273.0,154.0,67.0,0.0,035,95087,51
+5103595071,"Pine Creek district, Carroll County, Virginia",3327.0,2939.0,267.0,104.0,17.0,0.0,035,95071,51
+5103596007,"Sulphur Springs district, Carroll County, Virginia",7633.0,6980.0,167.0,361.0,125.0,0.0,035,96007,51
+5103593551,"Fancy Gap district, Carroll County, Virginia",4759.0,4366.0,179.0,13.0,181.0,20.0,035,93551,51
+5103594175,"Laurel Fork district, Carroll County, Virginia",5297.0,4882.0,215.0,172.0,28.0,0.0,035,94175,51
+5164093675,"Galax city, Galax city, Virginia",5142.0,4656.0,94.0,303.0,89.0,0.0,640,93675,51
+5119193855,"Harrison district, Washington County, Virginia",7560.0,5891.0,666.0,708.0,295.0,0.0,191,93855,51
+5119194087,"Jefferson district, Washington County, Virginia",8190.0,7572.0,254.0,238.0,126.0,0.0,191,94087,51
+5119194727,"Monroe district, Washington County, Virginia",7075.0,6171.0,371.0,247.0,263.0,23.0,191,94727,51
+5119194463,"Madison district, Washington County, Virginia",7080.0,6212.0,450.0,273.0,145.0,0.0,191,94463,51
+5119196415,"Wilson district, Washington County, Virginia",7039.0,6222.0,156.0,332.0,329.0,0.0,191,96415,51
+5119196047,"Taylor district, Washington County, Virginia",7922.0,6878.0,525.0,309.0,202.0,8.0,191,96047,51
+5119196143,"Tyler district, Washington County, Virginia",6689.0,6289.0,255.0,51.0,94.0,0.0,191,96143,51
+5119394751,"Montross district, Westmoreland County, Virginia",2367.0,2125.0,1.0,216.0,25.0,0.0,193,94751,51
+5119390976,"Cople district, Westmoreland County, Virginia",2346.0,2236.0,17.0,93.0,0.0,0.0,193,90976,51
+5119396255,"Washington district, Westmoreland County, Virginia",6423.0,5607.0,233.0,316.0,263.0,4.0,193,96255,51
+5113391709,"District 4, Northumberland County, Virginia",1867.0,1763.0,5.0,99.0,0.0,0.0,133,91709,51
+5113391559,"District 3, Northumberland County, Virginia",977.0,941.0,5.0,31.0,0.0,0.0,133,91559,51
+5113391259,"District 1, Northumberland County, Virginia",1974.0,1796.0,6.0,165.0,7.0,0.0,133,91259,51
+5113391409,"District 2, Northumberland County, Virginia",1771.0,1744.0,10.0,13.0,4.0,0.0,133,91409,51
+5113391859,"District 5, Northumberland County, Virginia",1946.0,1727.0,97.0,89.0,33.0,0.0,133,91859,51
+5115595391,"Robinson district, Pulaski County, Virginia",5943.0,5324.0,405.0,171.0,43.0,0.0,155,95391,51
+5115593967,"Ingles district, Pulaski County, Virginia",6480.0,5542.0,225.0,539.0,164.0,10.0,155,93967,51
+5115594551,"Massie district, Pulaski County, Virginia",6186.0,5137.0,688.0,294.0,24.0,43.0,155,94551,51
+5115590904,"Cloyd district, Pulaski County, Virginia",6289.0,5762.0,92.0,333.0,102.0,0.0,155,90904,51
+5115593399,"Draper district, Pulaski County, Virginia",6053.0,5260.0,645.0,90.0,58.0,0.0,155,93399,51
+5118795663,"Shenandoah district, Warren County, Virginia",8287.0,7463.0,372.0,262.0,170.0,20.0,187,95663,51
+5118793599,"Fork district, Warren County, Virginia",6206.0,5762.0,217.0,196.0,31.0,0.0,187,93599,51
+5118795807,"South River district, Warren County, Virginia",5066.0,4215.0,435.0,367.0,49.0,0.0,187,95807,51
+5118793831,"Happy Creek district, Warren County, Virginia",8246.0,7229.0,357.0,622.0,34.0,4.0,187,93831,51
+5118794919,"North River district, Warren County, Virginia",5941.0,5441.0,286.0,185.0,20.0,9.0,187,94919,51
+5151090020,"Alexandria city, Alexandria city, Virginia",78689.0,61097.0,4546.0,5318.0,6444.0,1284.0,510,90020,51
+5159091108,"Danville city, Danville city, Virginia",18189.0,16073.0,1062.0,591.0,428.0,35.0,590,91108,51
+5163093651,"Fredericksburg city, Fredericksburg city, Virginia",16676.0,12383.0,1164.0,2313.0,619.0,197.0,630,93651,51
+5165093827,"Hampton city, Hampton city, Virginia",52896.0,44564.0,2899.0,3270.0,2001.0,162.0,650,93827,51
+5100991800,"District 5, Amherst County, Virginia",3732.0,3332.0,78.0,253.0,65.0,4.0,009,91800,51
+5100991500,"District 3, Amherst County, Virginia",4985.0,4625.0,102.0,178.0,57.0,23.0,009,91500,51
+5100991350,"District 2, Amherst County, Virginia",4377.0,3756.0,116.0,235.0,262.0,8.0,009,91350,51
+5100991200,"District 1, Amherst County, Virginia",5111.0,4616.0,124.0,357.0,0.0,14.0,009,91200,51
+5100991650,"District 4, Amherst County, Virginia",5624.0,5203.0,136.0,243.0,36.0,6.0,009,91650,51
+5101390072,"Arlington, Arlington County, Virginia",141491.0,111409.0,10775.0,5793.0,11151.0,2363.0,013,90072,51
+5101796239,"Warm Springs district, Bath County, Virginia",557.0,509.0,48.0,0.0,0.0,0.0,017,96239,51
+5101796399,"Williamsville district, Bath County, Virginia",939.0,939.0,0.0,0.0,0.0,0.0,017,96399,51
+5101790672,"Cedar Creek district, Bath County, Virginia",631.0,519.0,15.0,73.0,24.0,0.0,017,90672,51
+5101796167,"Valley Springs district, Bath County, Virginia",878.0,624.0,110.0,7.0,137.0,0.0,017,96167,51
+5101794695,"Millboro district, Bath County, Virginia",757.0,757.0,0.0,0.0,0.0,0.0,017,94695,51
+5167093915,"Hopewell city, Hopewell city, Virginia",10799.0,9199.0,438.0,617.0,545.0,0.0,670,93915,51
+5102794903,"North Grundy district, Buchanan County, Virginia",2983.0,2639.0,307.0,37.0,0.0,0.0,027,94903,51
+5102793951,"Hurricane district, Buchanan County, Virginia",3318.0,3213.0,13.0,44.0,48.0,0.0,027,93951,51
+5102794151,"Knox district, Buchanan County, Virginia",3589.0,3373.0,191.0,25.0,0.0,0.0,027,94151,51
+5102795415,"Rock Lick district, Buchanan County, Virginia",3026.0,2871.0,45.0,0.0,110.0,0.0,027,95415,51
+5102795775,"South Grundy district, Buchanan County, Virginia",2521.0,2300.0,119.0,61.0,41.0,0.0,027,95775,51
+5102795167,"Prater district, Buchanan County, Virginia",2724.0,2492.0,196.0,0.0,36.0,0.0,027,95167,51
+5102793679,"Garden district, Buchanan County, Virginia",3262.0,3106.0,140.0,16.0,0.0,0.0,027,93679,51
+5170094851,"Newport News city, Newport News city, Virginia",78753.0,63177.0,5734.0,5050.0,4340.0,452.0,700,94851,51
+5106995647,"Shawnee district, Frederick County, Virginia",11648.0,10328.0,756.0,427.0,137.0,0.0,069,95647,51
+5106995927,"Stonewall district, Frederick County, Virginia",11926.0,10208.0,630.0,625.0,424.0,39.0,069,95927,51
+5106990120,"Back Creek district, Frederick County, Virginia",12015.0,10835.0,580.0,422.0,152.0,26.0,069,90120,51
+5106993663,"Gainesboro district, Frederick County, Virginia",12373.0,11215.0,672.0,279.0,207.0,0.0,069,93663,51
+5106994967,"Opequon district, Frederick County, Virginia",10840.0,9730.0,463.0,473.0,129.0,45.0,069,94967,51
+5117993535,"Falmouth district, Stafford County, Virginia",14041.0,12541.0,510.0,499.0,458.0,33.0,179,93535,51
+5117993863,"Hartwood district, Stafford County, Virginia",14955.0,12755.0,659.0,990.0,429.0,122.0,179,93863,51
+5117993687,"George Washington district, Stafford County, Virginia",13217.0,11375.0,447.0,641.0,469.0,285.0,179,93687,51
+5117990064,"Aquia district, Stafford County, Virginia",11031.0,9283.0,435.0,593.0,681.0,39.0,179,90064,51
+5117995407,"Rock Hill district, Stafford County, Virginia",13757.0,11859.0,640.0,455.0,519.0,284.0,179,95407,51
+5117993783,"Griffis-Widewater district, Stafford County, Virginia",11222.0,9016.0,180.0,745.0,1208.0,73.0,179,93783,51
+5118594887,"Northern district, Tazewell County, Virginia",8034.0,7431.0,265.0,202.0,136.0,0.0,185,94887,51
+5118596295,"Western district, Tazewell County, Virginia",8527.0,7795.0,470.0,146.0,105.0,11.0,185,96295,51
+5118594927,"Northwestern district, Tazewell County, Virginia",7533.0,6699.0,626.0,110.0,98.0,0.0,185,94927,51
+5118595767,"Southern district, Tazewell County, Virginia",7804.0,6773.0,833.0,25.0,173.0,0.0,185,95767,51
+5118593439,"Eastern district, Tazewell County, Virginia",7790.0,7253.0,147.0,86.0,304.0,0.0,185,93439,51
+5153090556,"Buena Vista city, Buena Vista city, Virginia",5629.0,4730.0,446.0,141.0,299.0,13.0,530,90556,51
+5161093531,"Falls Church city, Falls Church city, Virginia",9873.0,8473.0,183.0,442.0,346.0,429.0,610,93531,51
+5168594476,"Manassas Park city, Manassas Park city, Virginia",5800.0,5234.0,45.0,359.0,162.0,0.0,685,94476,51
+5173095035,"Petersburg city, Petersburg city, Virginia",4794.0,3333.0,425.0,690.0,313.0,33.0,730,95035,51
+5173595115,"Poquoson city, Poquoson city, Virginia",11024.0,9650.0,288.0,803.0,265.0,18.0,735,95115,51
+5118391000,"Courthouse district, Sussex County, Virginia",455.0,451.0,0.0,4.0,0.0,0.0,183,91000,51
+5118393895,"Henry district, Sussex County, Virginia",139.0,122.0,0.0,17.0,0.0,0.0,183,93895,51
+5118394871,"Newville district, Sussex County, Virginia",1402.0,946.0,29.0,427.0,0.0,0.0,183,94871,51
+5118395975,"Stony Creek district, Sussex County, Virginia",594.0,457.0,104.0,12.0,21.0,0.0,183,95975,51
+5118396207,"Wakefield district, Sussex County, Virginia",945.0,789.0,23.0,96.0,37.0,0.0,183,96207,51
+5118396263,"Waverly district, Sussex County, Virginia",846.0,764.0,4.0,77.0,1.0,0.0,183,96263,51
+5160093507,"Fairfax city, Fairfax city, Virginia",13428.0,11675.0,191.0,1149.0,324.0,89.0,600,93507,51
+5182096275,"Waynesboro city, Waynesboro city, Virginia",16438.0,13505.0,747.0,2013.0,173.0,0.0,820,96275,51
+5168394474,"Manassas city, Manassas city, Virginia",17464.0,15251.0,561.0,1238.0,405.0,9.0,683,94474,51
+5177095363,"Roanoke city, Roanoke city, Virginia",58711.0,47788.0,5559.0,3779.0,1461.0,124.0,770,95363,51
+5177595547,"Salem city, Salem city, Virginia",21671.0,18002.0,1276.0,1921.0,452.0,20.0,775,95547,51
+5180095987,"Suffolk city, Suffolk city, Virginia",43194.0,38497.0,1145.0,2264.0,1044.0,244.0,800,95987,51
+5171094875,"Norfolk city, Norfolk city, Virginia",105806.0,78935.0,9425.0,7385.0,8967.0,1094.0,710,94875,51
+5103794431,"Madison district, Charlotte County, Virginia",1301.0,1233.0,49.0,19.0,0.0,0.0,037,94431,51
+5103790128,"Bacon district, Charlotte County, Virginia",1539.0,1453.0,21.0,33.0,32.0,0.0,037,90128,51
+5103790712,"Central district, Charlotte County, Virginia",1569.0,1190.0,279.0,78.0,22.0,0.0,037,90712,51
+5103796223,"Walton district, Charlotte County, Virginia",2026.0,1884.0,64.0,30.0,48.0,0.0,037,96223,51
+5103795351,"Roanoke district, Charlotte County, Virginia",1382.0,1322.0,33.0,23.0,4.0,0.0,037,95351,51
+5103794687,"Midway district, Charlotte County, Virginia",334.0,322.0,7.0,5.0,0.0,0.0,037,94687,51
+5104191088,"Dale district, Chesterfield County, Virginia",28867.0,25594.0,1346.0,1247.0,540.0,140.0,041,91088,51
+5104190248,"Bermuda district, Chesterfield County, Virginia",40919.0,36295.0,2430.0,1207.0,952.0,35.0,041,90248,51
+5104190896,"Clover Hill district, Chesterfield County, Virginia",44716.0,39329.0,2495.0,1857.0,937.0,98.0,041,90896,51
+5104194575,"Matoaca district, Chesterfield County, Virginia",48007.0,42944.0,2721.0,1251.0,930.0,161.0,041,94575,51
+5104194679,"Midlothian district, Chesterfield County, Virginia",46045.0,40811.0,2103.0,2118.0,855.0,158.0,041,94679,51
+5105995847,"Springfield district, Fairfax County, Virginia",74929.0,65385.0,4484.0,1906.0,2201.0,953.0,059,95847,51
+5105994543,"Mason district, Fairfax County, Virginia",45416.0,40004.0,2256.0,1385.0,1251.0,520.0,059,94543,51
+5105993943,"Hunter Mill district, Fairfax County, Virginia",77560.0,66151.0,5494.0,2473.0,2779.0,663.0,059,93943,51
+5105994783,"Mount Vernon district, Fairfax County, Virginia",66760.0,56636.0,3568.0,1876.0,4110.0,570.0,059,94783,51
+5105993391,"Dranesville district, Fairfax County, Virginia",70433.0,62203.0,3034.0,1575.0,2765.0,856.0,059,93391,51
+5105990464,"Braddock district, Fairfax County, Virginia",67540.0,59208.0,3902.0,1541.0,2080.0,809.0,059,90464,51
+5105994207,"Lee district, Fairfax County, Virginia",51861.0,44629.0,2684.0,1506.0,2402.0,640.0,059,94207,51
+5105995999,"Sully district, Fairfax County, Virginia",63127.0,57078.0,2838.0,1561.0,1174.0,476.0,059,95999,51
+5105995191,"Providence district, Fairfax County, Virginia",66575.0,53623.0,5067.0,2726.0,3494.0,1665.0,059,95191,51
+5109396431,"Windsor district, Isle of Wight County, Virginia",4816.0,4313.0,195.0,263.0,34.0,11.0,093,96431,51
+5109393839,"Hardy district, Isle of Wight County, Virginia",3212.0,2796.0,90.0,224.0,37.0,65.0,093,93839,51
+5109395727,"Smithfield district, Isle of Wight County, Virginia",5687.0,5266.0,159.0,193.0,69.0,0.0,093,95727,51
+5109394839,"Newport district, Isle of Wight County, Virginia",6327.0,5431.0,328.0,405.0,116.0,47.0,093,94839,51
+5109390616,"Carrsville district, Isle of Wight County, Virginia",5359.0,4736.0,346.0,223.0,34.0,20.0,093,90616,51
+5109595911,"Stonehouse district, James City County, Virginia",10741.0,9431.0,314.0,574.0,392.0,30.0,095,95911,51
+5109594063,"Jamestown district, James City County, Virginia",11024.0,9018.0,611.0,1004.0,350.0,41.0,095,94063,51
+5109595375,"Roberts district, James City County, Virginia",9860.0,8505.0,471.0,408.0,334.0,142.0,095,95375,51
+5109590224,"Berkeley district, James City County, Virginia",12658.0,11101.0,666.0,396.0,495.0,0.0,095,90224,51
+5109595159,"Powhatan district, James City County, Virginia",10757.0,9222.0,607.0,409.0,446.0,73.0,095,95159,51
+5116794191,"Lebanon district, Russell County, Virginia",13451.0,12557.0,412.0,325.0,157.0,0.0,167,94191,51
+5116794831,"New Garden district, Russell County, Virginia",7165.0,6513.0,297.0,274.0,81.0,0.0,167,94831,51
+5116790632,"Castlewood district, Russell County, Virginia",6003.0,5535.0,244.0,104.0,120.0,0.0,167,90632,51
+5162093643,"Franklin city, Franklin city, Virginia",3081.0,2858.0,65.0,62.0,96.0,0.0,620,93643,51
+5117395479,"Royal Oak district, Smyth County, Virginia",3968.0,3651.0,127.0,104.0,86.0,0.0,173,95479,51
+5117395551,"Saltville district, Smyth County, Virginia",4217.0,4026.0,46.0,71.0,74.0,0.0,173,95551,51
+5117390832,"Chilhowie district, Smyth County, Virginia",4428.0,3718.0,549.0,125.0,3.0,33.0,173,90832,51
+5117394895,"North Fork district, Smyth County, Virginia",3765.0,3535.0,154.0,65.0,11.0,0.0,173,94895,51
+5117395511,"Rye Valley district, Smyth County, Virginia",4703.0,4254.0,239.0,48.0,162.0,0.0,173,95511,51
+5117394991,"Park district, Smyth County, Virginia",3671.0,3082.0,304.0,262.0,0.0,23.0,173,94991,51
+5117390104,"Atkins district, Smyth County, Virginia",4370.0,3878.0,345.0,73.0,74.0,0.0,173,90104,51
+5154090780,"Charlottesville city, Charlottesville city, Virginia",30178.0,22201.0,2991.0,3015.0,1685.0,286.0,540,90780,51
+5167894275,"Lexington city, Lexington city, Virginia",5668.0,4522.0,100.0,412.0,626.0,8.0,678,94275,51
+5103196015,"Sunburst district, Campbell County, Virginia",6878.0,5738.0,412.0,600.0,128.0,0.0,031,96015,51

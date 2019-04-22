@@ -1,0 +1,195 @@
+B25003H_001E,B25003H_002E,B25003H_003E,name,county,county subdivision,state
+421.0,299.0,122.0,"Sunburst CCD, Toole County, Montana",101,93402,30
+3.0,3.0,0.0,"Glacier National Park CCD, Glacier County, Montana",035,91460,30
+15.0,4.0,11.0,"Fort Peck Reservation CCD, Daniels County, Montana",019,91218,30
+182.0,134.0,48.0,"Lavina CCD, Golden Valley County, Montana",037,92016,30
+1013.0,702.0,311.0,"Cut Bank CCD, Glacier County, Montana",035,90777,30
+975.0,642.0,333.0,"Baker CCD, Fallon County, Montana",025,90168,30
+208.0,162.0,46.0,"Plevna CCD, Fallon County, Montana",025,92730,30
+136.0,95.0,41.0,"Ryegate CCD, Golden Valley County, Montana",037,92940,30
+382.0,256.0,126.0,"Stanford CCD, Judith Basin County, Montana",045,93318,30
+200.0,138.0,62.0,"Geyser CCD, Judith Basin County, Montana",045,91407,30
+297.0,231.0,66.0,"Hobson CCD, Judith Basin County, Montana",045,91785,30
+13869.0,9362.0,4507.0,"Butte CCD, Silver Bow County, Montana",093,90483,30
+829.0,649.0,180.0,"Park City CCD, Stillwater County, Montana",095,92604,30
+1532.0,1216.0,316.0,"Columbus CCD, Stillwater County, Montana",095,90693,30
+977.0,757.0,220.0,"Absarokee CCD, Stillwater County, Montana",095,90021,30
+307.0,220.0,87.0,"North Stillwater CCD, Stillwater County, Montana",095,92510,30
+3237.0,2339.0,898.0,"Anaconda CCD, Deer Lodge County, Montana",023,90063,30
+2739.0,2429.0,310.0,"Boulder CCD, Jefferson County, Montana",043,90399,30
+1525.0,1236.0,289.0,"Whitehall CCD, Jefferson County, Montana",043,93822,30
+573.0,416.0,157.0,"Drummond CCD, Granite County, Montana",039,90945,30
+716.0,523.0,193.0,"Philipsburg CCD, Granite County, Montana",039,92625,30
+469.0,370.0,99.0,"Circle CCD, McCone County, Montana",055,90630,30
+242.0,205.0,37.0,"North McCone CCD, McCone County, Montana",055,92487,30
+610.0,351.0,259.0,"Harlowton CCD, Wheatland County, Montana",107,91659,30
+195.0,167.0,28.0,"Judith Gap-Shawmut CCD, Wheatland County, Montana",107,91869,30
+636.0,470.0,166.0,"Twin Bridges CCD, Madison County, Montana",057,93633,30
+126.0,98.0,28.0,"Virginia City CCD, Madison County, Montana",057,93717,30
+413.0,321.0,92.0,"Harrison CCD, Madison County, Montana",057,91680,30
+709.0,588.0,121.0,"Sheridan CCD, Madison County, Montana",057,93045,30
+1401.0,1065.0,336.0,"Madison Valley CCD, Madison County, Montana",057,92184,30
+927.0,848.0,79.0,"Rosebud CCD, Rosebud County, Montana",087,92856,30
+136.0,74.0,62.0,"Ashland CCD, Rosebud County, Montana",087,90084,30
+861.0,641.0,220.0,"Forsyth CCD, Rosebud County, Montana",087,91155,30
+227.0,200.0,27.0,"North of the Yellowstone CCD, Rosebud County, Montana",087,92491,30
+49.0,30.0,19.0,"Fort Peck Reservation CCD, Sheridan County, Montana",091,91260,30
+1073.0,841.0,232.0,"Plentywood CCD, Sheridan County, Montana",091,92709,30
+136.0,86.0,50.0,"Westby CCD, Sheridan County, Montana",091,93738,30
+286.0,224.0,62.0,"Medicine Lake CCD, Sheridan County, Montana",091,92268,30
+368.0,312.0,56.0,"Ekalaka CCD, Carter County, Montana",011,91050,30
+3530.0,2458.0,1072.0,"Glendive CCD, Dawson County, Montana",021,91491,30
+1205.0,827.0,378.0,"Hardin CCD, Big Horn County, Montana",003,91617,30
+460.0,315.0,145.0,"Crow Reservation CCD, Big Horn County, Montana",003,90756,30
+1415.0,1163.0,252.0,"Townsend East CCD, Broadwater County, Montana",007,93570,30
+926.0,813.0,113.0,"Townsend West CCD, Broadwater County, Montana",007,93591,30
+992.0,890.0,102.0,"Wolf Creek CCD, Lewis and Clark County, Montana",049,93990,30
+298.0,192.0,106.0,"Augusta CCD, Lewis and Clark County, Montana",049,90105,30
+2319.0,2001.0,318.0,"Lincoln CCD, Lewis and Clark County, Montana",049,92100,30
+22146.0,14967.0,7179.0,"Helena CCD, Lewis and Clark County, Montana",049,91722,30
+404.0,324.0,80.0,"Valier-Dupuyer CCD, Pondera County, Montana",073,93675,30
+1534.0,1135.0,399.0,"Conrad CCD, Pondera County, Montana",073,90714,30
+1515.0,1144.0,371.0,"Huntley Project CCD, Yellowstone County, Montana",111,91806,30
+2659.0,2377.0,282.0,"South Yellowstone CCD, Yellowstone County, Montana",111,93297,30
+7444.0,5211.0,2233.0,"Laurel CCD, Yellowstone County, Montana",111,91995,30
+42147.0,28045.0,14102.0,"Billings CCD, Yellowstone County, Montana",111,90315,30
+2895.0,2658.0,237.0,"Northwest Yellowstone CCD, Yellowstone County, Montana",111,92541,30
+1627.0,1404.0,223.0,"Shepherd CCD, Yellowstone County, Montana",111,93024,30
+34403.0,18780.0,15623.0,"Missoula CCD, Missoula County, Montana",063,92331,30
+5679.0,4208.0,1471.0,"Lolo CCD, Missoula County, Montana",063,92142,30
+1454.0,1242.0,212.0,"Seeley Lake-Blackfoot Valley CCD, Missoula County, Montana",063,93003,30
+772.0,590.0,182.0,"Darby CCD, Ravalli County, Montana",081,90819,30
+1177.0,946.0,231.0,"Victor CCD, Ravalli County, Montana",081,93696,30
+5608.0,4545.0,1063.0,"Stevensville CCD, Ravalli County, Montana",081,93339,30
+8132.0,5605.0,2527.0,"Hamilton CCD, Ravalli County, Montana",081,91575,30
+2139.0,1561.0,578.0,"Glasgow CCD, Valley County, Montana",105,91470,30
+303.0,244.0,59.0,"Hinsdale CCD, Valley County, Montana",105,91764,30
+216.0,192.0,24.0,"South Valley CCD, Valley County, Montana",105,93276,30
+143.0,102.0,41.0,"Opheim CCD, Valley County, Montana",105,92562,30
+173.0,136.0,37.0,"Fort Peck Reservation CCD, Valley County, Montana",105,91281,30
+1433.0,1173.0,260.0,"Great Falls North CCD, Cascade County, Montana",013,91554,30
+707.0,553.0,154.0,"Belt CCD, Cascade County, Montana",013,90231,30
+993.0,838.0,155.0,"Sun River Valley CCD, Cascade County, Montana",013,93423,30
+717.0,545.0,172.0,"Cascade CCD, Cascade County, Montana",013,90525,30
+93.0,82.0,11.0,"Monarch-Neihart CCD, Cascade County, Montana",013,92373,30
+26150.0,17566.0,8584.0,"Great Falls CCD, Cascade County, Montana",013,91533,30
+602.0,463.0,139.0,"Eden-Stockett CCD, Cascade County, Montana",013,91029,30
+464.0,359.0,105.0,"Sula CCD, Ravalli County, Montana",081,93380,30
+379.0,319.0,60.0,"Richey CCD, Dawson County, Montana",021,92782,30
+6.0,3.0,3.0,"Flathead Reservation CCD, Flathead County, Montana",029,91118,30
+2160.0,1671.0,489.0,"Lakeside-Somers CCD, Flathead County, Montana",029,91964,30
+834.0,649.0,185.0,"Scobey CCD, Daniels County, Montana",019,92992,30
+14.0,5.0,9.0,"Blackfeet Reservation East CCD, Pondera County, Montana",073,90357,30
+22.0,4.0,18.0,"Blackfeet Reservation West CCD, Pondera County, Montana",073,90378,30
+5662.0,4030.0,1632.0,"Livingston CCD, Park County, Montana",067,92131,30
+0.0,0.0,0.0,"Yellowstone National Park CCD, Park County, Montana",067,94019,30
+655.0,464.0,191.0,"Flathead Reservation CCD, Sanders County, Montana",089,91134,30
+406.0,288.0,118.0,"Blackfeet Reservation CCD, Glacier County, Montana",035,90336,30
+188.0,180.0,8.0,"Northeast Yellowstone CCD, Yellowstone County, Montana",111,92426,30
+1.0,1.0,0.0,"Fort Belknap Reservation CCD, Phillips County, Montana",071,91186,30
+99.0,55.0,44.0,"South Phillips CCD, Phillips County, Montana",071,93223,30
+192.0,152.0,40.0,"Alzada-Boyes CCD, Carter County, Montana",011,90052,30
+331.0,300.0,31.0,"Butte-Silver Bow Northwest CCD, Silver Bow County, Montana",093,90485,30
+125.0,112.0,13.0,"Butte-Silver Bow South CCD, Silver Bow County, Montana",093,90487,30
+266.0,193.0,73.0,"Flathead Reservation CCD, Missoula County, Montana",063,91128,30
+196.0,168.0,28.0,"Hanover CCD, Fergus County, Montana",027,91596,30
+219.0,171.0,48.0,"Denton CCD, Fergus County, Montana",027,90903,30
+3844.0,2706.0,1138.0,"Lewistown CCD, Fergus County, Montana",027,92037,30
+127.0,91.0,36.0,"Roy CCD, Fergus County, Montana",027,92898,30
+206.0,159.0,47.0,"Grass Range CCD, Fergus County, Montana",027,91512,30
+134.0,98.0,36.0,"Winifred CCD, Fergus County, Montana",027,93927,30
+362.0,302.0,60.0,"North Garfield CCD, Garfield County, Montana",033,92478,30
+415.0,292.0,123.0,"Alberton CCD, Mineral County, Montana",061,90042,30
+2635.0,2359.0,276.0,"Frenchtown-Wye CCD, Missoula County, Montana",063,91304,30
+347.0,281.0,66.0,"East Carbon CCD, Carbon County, Montana",009,90976,30
+89.0,63.0,26.0,"South Garfield CCD, Garfield County, Montana",033,93192,30
+786.0,579.0,207.0,"Superior CCD, Mineral County, Montana",061,93444,30
+462.0,299.0,163.0,"West End CCD, Mineral County, Montana",061,93759,30
+44.0,29.0,15.0,"Winnett North CCD, Petroleum County, Montana",069,93948,30
+155.0,98.0,57.0,"Winnett South CCD, Petroleum County, Montana",069,93969,30
+387.0,302.0,85.0,"Avon-Elliston CCD, Powell County, Montana",077,90126,30
+1757.0,1193.0,564.0,"Deer Lodge CCD, Powell County, Montana",077,90861,30
+189.0,132.0,57.0,"Helmville CCD, Powell County, Montana",077,91743,30
+2599.0,1975.0,624.0,"Thompson Falls-West End CCD, Sanders County, Montana",089,93507,30
+1331.0,951.0,380.0,"Three Forks CCD, Gallatin County, Montana",031,93528,30
+1367.0,1069.0,298.0,"Plains CCD, Sanders County, Montana",089,92688,30
+381.0,287.0,94.0,"Wibaux CCD, Wibaux County, Montana",109,93885,30
+1993.0,1552.0,441.0,"Gallatin Gateway CCD, Gallatin County, Montana",031,91344,30
+21926.0,11940.0,9986.0,"Bozeman CCD, Gallatin County, Montana",031,90420,30
+1898.0,1467.0,431.0,"Manhattan CCD, Gallatin County, Montana",031,92226,30
+824.0,435.0,389.0,"West Yellowstone CCD, Gallatin County, Montana",031,93780,30
+9344.0,7174.0,2170.0,"Belgrade CCD, Gallatin County, Montana",031,90189,30
+128.0,93.0,35.0,"Martinsdale-Ringling CCD, Meagher County, Montana",059,92247,30
+618.0,449.0,169.0,"White Sulphur Springs CCD, Meagher County, Montana",059,93843,30
+511.0,426.0,85.0,"Roberts CCD, Carbon County, Montana",009,92793,30
+952.0,795.0,157.0,"Joliet CCD, Carbon County, Montana",009,91827,30
+1797.0,1370.0,427.0,"Red Lodge CCD, Carbon County, Montana",009,92772,30
+796.0,615.0,181.0,"Fromberg-Bridger CCD, Carbon County, Montana",009,91323,30
+299.0,207.0,92.0,"Big Hole Basin CCD, Beaverhead County, Montana",001,90273,30
+106.0,72.0,34.0,"Clark Canyon-Horse Prairie CCD, Beaverhead County, Montana",001,90651,30
+3228.0,2152.0,1076.0,"Dillon CCD, Beaverhead County, Montana",001,90924,30
+131.0,100.0,31.0,"Lima-Centennial Valley CCD, Beaverhead County, Montana",001,92079,30
+1207.0,985.0,222.0,"Kalispell Southwest CCD, Flathead County, Montana",029,91932,30
+3964.0,2811.0,1153.0,"Columbia Falls CCD, Flathead County, Montana",029,90672,30
+3392.0,2796.0,596.0,"Creston-Bigfork CCD, Flathead County, Montana",029,90735,30
+1628.0,1475.0,153.0,"Kalispell Northwest CCD, Flathead County, Montana",029,91911,30
+17.0,2.0,15.0,"Glacier National Park CCD, Flathead County, Montana",029,91449,30
+1916.0,1622.0,294.0,"Bad Rock-Columbia Heights CCD, Flathead County, Montana",029,90147,30
+15066.0,10119.0,4947.0,"Kalispell CCD, Flathead County, Montana",029,91890,30
+5832.0,3955.0,1877.0,"Whitefish CCD, Flathead County, Montana",029,93801,30
+788.0,657.0,131.0,"South Fork CCD, Flathead County, Montana",029,93171,30
+207.0,169.0,38.0,"Melstone CCD, Musselshell County, Montana",065,92289,30
+1111.0,691.0,420.0,"Roundup CCD, Musselshell County, Montana",065,92877,30
+603.0,489.0,114.0,"Klein CCD, Musselshell County, Montana",065,91953,30
+1331.0,995.0,336.0,"Malta CCD, Phillips County, Montana",071,92205,30
+120.0,75.0,45.0,"Whitewater CCD, Phillips County, Montana",071,93864,30
+115.0,87.0,28.0,"Shirley-Ismay CCD, Custer County, Montana",017,93087,30
+4210.0,2981.0,1229.0,"Miles City CCD, Custer County, Montana",017,92310,30
+148.0,136.0,12.0,"North Custer CCD, Custer County, Montana",017,92415,30
+4176.0,2807.0,1369.0,"Havre CCD, Hill County, Montana",041,91701,30
+82.0,53.0,29.0,"Rocky Boy's CCD, Hill County, Montana",041,92814,30
+171.0,118.0,53.0,"Wild Horse Lake CCD, Hill County, Montana",041,93906,30
+203.0,167.0,36.0,"Rudyard CCD, Hill County, Montana",041,92919,30
+324.0,234.0,90.0,"Gildford CCD, Hill County, Montana",041,91428,30
+546.0,391.0,155.0,"Big Sandy CCD, Chouteau County, Montana",015,90294,30
+968.0,656.0,312.0,"Fort Benton CCD, Chouteau County, Montana",015,91197,30
+403.0,301.0,102.0,"Geraldine CCD, Chouteau County, Montana",015,91386,30
+199.0,114.0,85.0,"East Powder River CCD, Powder River County, Montana",075,90987,30
+110.0,71.0,39.0,"Otter CCD, Powder River County, Montana",075,92583,30
+3954.0,2998.0,956.0,"Libby CCD, Lincoln County, Montana",053,92058,30
+2489.0,2100.0,389.0,"Eureka CCD, Lincoln County, Montana",053,91071,30
+1494.0,1252.0,242.0,"Troy CCD, Lincoln County, Montana",053,93612,30
+726.0,446.0,280.0,"Gardiner-Cooke City CCD, Park County, Montana",067,91365,30
+809.0,646.0,163.0,"Shields Valley CCD, Park County, Montana",067,93066,30
+571.0,441.0,130.0,"East Roosevelt CCD, Roosevelt County, Montana",085,91008,30
+1000.0,689.0,311.0,"Fort Peck Reservation CCD, Roosevelt County, Montana",085,91239,30
+242.0,171.0,71.0,"South Treasure CCD, Treasure County, Montana",103,93255,30
+109.0,68.0,41.0,"North Treasure CCD, Treasure County, Montana",103,92520,30
+354.0,269.0,85.0,"Harlem CCD, Blaine County, Montana",005,91638,30
+48.0,11.0,37.0,"Fort Belknap CCD, Blaine County, Montana",005,91176,30
+896.0,636.0,260.0,"Chinook CCD, Blaine County, Montana",005,90588,30
+126.0,100.0,26.0,"Joplin CCD, Liberty County, Montana",051,91848,30
+723.0,419.0,304.0,"Chester CCD, Liberty County, Montana",051,90567,30
+325.0,252.0,73.0,"North of the Yellowstone CCD, Sweet Grass County, Montana",097,92499,30
+1146.0,847.0,299.0,"South of the Yellowstone CCD, Sweet Grass County, Montana",097,93213,30
+597.0,400.0,197.0,"Fairview CCD, Richland County, Montana",083,91113,30
+161.0,107.0,54.0,"Lambert CCD, Richland County, Montana",083,91974,30
+2893.0,1845.0,1048.0,"Sidney CCD, Richland County, Montana",083,93108,30
+426.0,325.0,101.0,"Savage-Crane CCD, Richland County, Montana",083,92982,30
+466.0,357.0,109.0,"Dutton-Power CCD, Teton County, Montana",099,90966,30
+1119.0,713.0,406.0,"Choteau CCD, Teton County, Montana",099,90609,30
+751.0,554.0,197.0,"Fairfield CCD, Teton County, Montana",099,91092,30
+462.0,407.0,55.0,"Terry South CCD, Prairie County, Montana",079,93486,30
+85.0,78.0,7.0,"Terry North CCD, Prairie County, Montana",079,93465,30
+1271.0,686.0,585.0,"Shelby CCD, Toole County, Montana",101,93014,30
+1431.0,1206.0,225.0,"Woods Bay-Rollins CCD, Lake County, Montana",047,94000,30
+7212.0,5466.0,1746.0,"Flathead Reservation CCD, Lake County, Montana",047,91123,30
+954.0,608.0,346.0,"Big Sky CCD, Gallatin County, Montana",031,90305,30
+5.0,0.0,5.0,"Yellowstone National Park CCD, Gallatin County, Montana",031,94017,30
+463.0,396.0,67.0,"Warm Springs CCD, Deer Lodge County, Montana",023,93728,30
+146.0,93.0,53.0,"South Custer CCD, Custer County, Montana",017,93160,30
+102.0,93.0,9.0,"Pine Hill-St. Phillips CCD, Wibaux County, Montana",109,92667,30
+88.0,19.0,69.0,"Northern Cheyenne Reservation CCD, Rosebud County, Montana",087,92457,30
+7.0,0.0,7.0,"Northern Cheyenne Reservation CCD, Big Horn County, Montana",003,92436,30
+57.0,37.0,20.0,"Decker CCD, Big Horn County, Montana",003,90850,30
+412.0,274.0,138.0,"Broadus CCD, Powder River County, Montana",075,90441,30

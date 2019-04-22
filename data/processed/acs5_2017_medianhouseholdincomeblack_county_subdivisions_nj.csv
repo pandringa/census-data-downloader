@@ -1,0 +1,571 @@
+geoid,name,median,county,county subdivision,state
+3402180240,"West Windsor township, Mercer County, New Jersey",71604.0,021,80240,34
+3402119780,"East Windsor township, Mercer County, New Jersey",86974.0,021,19780,34
+3402133150,"Hopewell borough, Mercer County, New Jersey",-666666666.0,021,33150,34
+3402131620,"Hightstown borough, Mercer County, New Jersey",58427.0,021,31620,34
+3402133180,"Hopewell township, Mercer County, New Jersey",-666666666.0,021,33180,34
+3402122185,"Ewing township, Mercer County, New Jersey",59505.0,021,22185,34
+3402129310,"Hamilton township, Mercer County, New Jersey",49583.0,021,29310,34
+3402157600,"Pennington borough, Mercer County, New Jersey",93750.0,021,57600,34
+3402139510,"Lawrence township, Mercer County, New Jersey",58184.0,021,39510,34
+3402174000,"Trenton city, Mercer County, New Jersey",34751.0,021,74000,34
+3403724810,"Frankford township, Sussex County, New Jersey",-666666666.0,037,24810,34
+3403729490,"Hampton township, Sussex County, New Jersey",-666666666.0,037,29490,34
+3403771670,"Sussex borough, Sussex County, New Jersey",-666666666.0,037,71670,34
+340371330,"Andover borough, Sussex County, New Jersey",-666666666.0,037,1330,34
+3403770890,"Stillwater township, Sussex County, New Jersey",-666666666.0,037,70890,34
+3403729850,"Hardyston township, Sussex County, New Jersey",89643.0,037,29850,34
+3403751930,"Newton town, Sussex County, New Jersey",-666666666.0,037,51930,34
+3403747430,"Montague township, Sussex County, New Jersey",-666666666.0,037,47430,34
+3403776640,"Walpack township, Sussex County, New Jersey",-666666666.0,037,76640,34
+3403725140,"Fredon township, Sussex County, New Jersey",-666666666.0,037,25140,34
+3403732910,"Hopatcong borough, Sussex County, New Jersey",56750.0,037,32910,34
+3403765700,"Sandyston township, Sussex County, New Jersey",-666666666.0,037,65700,34
+3403769690,"Sparta township, Sussex County, New Jersey",-666666666.0,037,69690,34
+340371360,"Andover township, Sussex County, New Jersey",-666666666.0,037,1360,34
+3403724930,"Franklin borough, Sussex County, New Jersey",-666666666.0,037,24930,34
+3403729220,"Hamburg borough, Sussex County, New Jersey",-666666666.0,037,29220,34
+3403737440,"Lafayette township, Sussex County, New Jersey",-666666666.0,037,37440,34
+3403776790,"Wantage township, Sussex County, New Jersey",-666666666.0,037,76790,34
+340379160,"Byram township, Sussex County, New Jersey",-666666666.0,037,9160,34
+3403770380,"Stanhope borough, Sussex County, New Jersey",123618.0,037,70380,34
+3403754660,"Ogdensburg borough, Sussex County, New Jersey",-666666666.0,037,54660,34
+3403727420,"Green township, Sussex County, New Jersey",-666666666.0,037,27420,34
+3403775740,"Vernon township, Sussex County, New Jersey",109432.0,037,75740,34
+340377300,"Branchville borough, Sussex County, New Jersey",-666666666.0,037,7300,34
+3401122350,"Fairfield township, Cumberland County, New Jersey",49457.0,011,22350,34
+3401144580,"Maurice River township, Cumberland County, New Jersey",-666666666.0,011,44580,34
+3401174870,"Upper Deerfield township, Cumberland County, New Jersey",-666666666.0,011,74870,34
+3401171160,"Stow Creek township, Cumberland County, New Jersey",69063.0,011,71160,34
+3401118220,"Downe township, Cumberland County, New Jersey",-666666666.0,011,18220,34
+3403543620,"Manville borough, Somerset County, New Jersey",-666666666.0,035,43620,34
+3403553280,"North Plainfield borough, Somerset County, New Jersey",71695.0,035,53280,34
+3403557300,"Peapack and Gladstone borough, Somerset County, New Jersey",-666666666.0,035,57300,34
+3403576940,"Warren township, Somerset County, New Jersey",-666666666.0,035,76940,34
+340355590,"Bernardsville borough, Somerset County, New Jersey",-666666666.0,035,5590,34
+3401313045,"City of Orange township, Essex County, New Jersey",40023.0,013,13045,34
+3401340890,"Livingston township, Essex County, New Jersey",80250.0,013,40890,34
+3401375815,"Verona township, Essex County, New Jersey",-666666666.0,013,75815,34
+340134695,"Belleville township, Essex County, New Jersey",51379.0,013,4695,34
+340136260,"Bloomfield township, Essex County, New Jersey",61980.0,013,6260,34
+3401322385,"Fairfield township, Essex County, New Jersey",-666666666.0,013,22385,34
+3401326610,"Glen Ridge borough, Essex County, New Jersey",120865.0,013,26610,34
+3401353680,"Nutley township, Essex County, New Jersey",72708.0,013,53680,34
+3401311200,"Cedar Grove township, Essex County, New Jersey",-666666666.0,013,11200,34
+3401321840,"Essex Fells borough, Essex County, New Jersey",-666666666.0,013,21840,34
+3401364590,"Roseland borough, Essex County, New Jersey",-666666666.0,013,64590,34
+3401369274,"South Orange Village township, Essex County, New Jersey",94237.0,013,69274,34
+3401343800,"Maplewood township, Essex County, New Jersey",84677.0,013,43800,34
+3401346380,"Millburn township, Essex County, New Jersey",73446.0,013,46380,34
+3401378510,"West Caldwell township, Essex County, New Jersey",-666666666.0,013,78510,34
+3401334450,"Irvington township, Essex County, New Jersey",40544.0,013,34450,34
+3401379800,"West Orange township, Essex County, New Jersey",95114.0,013,79800,34
+3401347500,"Montclair township, Essex County, New Jersey",60873.0,013,47500,34
+3401352620,"North Caldwell borough, Essex County, New Jersey",-666666666.0,013,52620,34
+3401351000,"Newark city, Essex County, New Jersey",31872.0,013,51000,34
+3401319390,"East Orange city, Essex County, New Jersey",42223.0,013,19390,34
+340294180,"Beachwood borough, Ocean County, New Jersey",60625.0,029,4180,34
+3402937770,"Lakehurst borough, Ocean County, New Jersey",-666666666.0,029,37770,34
+3402958590,"Pine Beach borough, Ocean County, New Jersey",-666666666.0,029,58590,34
+340290,"County subdivisions not defined, Ocean County, New Jersey",-666666666.0,029,0,34
+340293050,"Barnegat township, Ocean County, New Jersey",82782.0,029,3050,34
+3402967110,"Ship Bottom borough, Ocean County, New Jersey",-666666666.0,029,67110,34
+340293940,"Beach Haven borough, Ocean County, New Jersey",-666666666.0,029,3940,34
+3402934530,"Island Heights borough, Ocean County, New Jersey",-666666666.0,029,34530,34
+3402943140,"Manchester township, Ocean County, New Jersey",52381.0,029,43140,34
+3402943380,"Mantoloking borough, Ocean County, New Jersey",-666666666.0,029,43380,34
+3402954300,"Ocean township, Ocean County, New Jersey",-666666666.0,029,54300,34
+3402954450,"Ocean Gate borough, Ocean County, New Jersey",-666666666.0,029,54450,34
+3402959790,"Plumsted township, Ocean County, New Jersey",-666666666.0,029,59790,34
+3402959910,"Point Pleasant Beach borough, Ocean County, New Jersey",-666666666.0,029,59910,34
+340297420,"Brick township, Ocean County, New Jersey",62147.0,029,7420,34
+3402930390,"Harvey Cedars borough, Ocean County, New Jersey",-666666666.0,029,30390,34
+3402966480,"Seaside Park borough, Ocean County, New Jersey",-666666666.0,029,66480,34
+3402970320,"Stafford township, Ocean County, New Jersey",2499.0,029,70320,34
+3402918670,"Eagleswood township, Ocean County, New Jersey",-666666666.0,029,18670,34
+3402939390,"Lavallette borough, Ocean County, New Jersey",-666666666.0,029,39390,34
+3402940560,"Little Egg Harbor township, Ocean County, New Jersey",64327.0,029,40560,34
+3402959880,"Point Pleasant borough, Ocean County, New Jersey",-666666666.0,029,59880,34
+3402937380,"Lacey township, Ocean County, New Jersey",-666666666.0,029,37380,34
+340295305,"Berkeley township, Ocean County, New Jersey",53158.0,029,5305,34
+340293130,"Barnegat Light borough, Ocean County, New Jersey",-666666666.0,029,3130,34
+3402938550,"Lakewood township, Ocean County, New Jersey",33742.0,029,38550,34
+340293520,"Bay Head borough, Ocean County, New Jersey",-666666666.0,029,3520,34
+3402941250,"Long Beach township, Ocean County, New Jersey",-666666666.0,029,41250,34
+3402966450,"Seaside Heights borough, Ocean County, New Jersey",-666666666.0,029,66450,34
+3402969510,"South Toms River borough, Ocean County, New Jersey",-666666666.0,029,69510,34
+3402971640,"Surf City borough, Ocean County, New Jersey",-666666666.0,029,71640,34
+3402934680,"Jackson township, Ocean County, New Jersey",66991.0,029,34680,34
+3402974210,"Tuckerton borough, Ocean County, New Jersey",-666666666.0,029,74210,34
+34001100,"Absecon city, Atlantic County, New Jersey",50000.0,001,100,34
+340018710,"Buena Vista township, Atlantic County, New Jersey",54460.0,001,8710,34
+3400160600,"Port Republic city, Atlantic County, New Jersey",-666666666.0,001,60600,34
+340010,"County subdivisions not defined, Atlantic County, New Jersey",-666666666.0,001,0,34
+3400121870,"Estell Manor city, Atlantic County, New Jersey",-666666666.0,001,21870,34
+3400115160,"Corbin City city, Atlantic County, New Jersey",-666666666.0,001,15160,34
+3400149410,"Mullica township, Atlantic County, New Jersey",-666666666.0,001,49410,34
+3400168430,"Somers Point city, Atlantic County, New Jersey",26607.0,001,68430,34
+3400123940,"Folsom borough, Atlantic County, New Jersey",68000.0,001,23940,34
+3400143890,"Margate City city, Atlantic County, New Jersey",-666666666.0,001,43890,34
+3400159640,"Pleasantville city, Atlantic County, New Jersey",38506.0,001,59640,34
+340017810,"Brigantine city, Atlantic County, New Jersey",-666666666.0,001,7810,34
+3400120350,"Egg Harbor City city, Atlantic County, New Jersey",60283.0,001,20350,34
+3400140530,"Linwood city, Atlantic County, New Jersey",-666666666.0,001,40530,34
+340018680,"Buena borough, Atlantic County, New Jersey",20313.0,001,8680,34
+3400120290,"Egg Harbor township, Atlantic County, New Jersey",33295.0,001,20290,34
+3400125560,"Galloway township, Atlantic County, New Jersey",47114.0,001,25560,34
+3400129280,"Hamilton township, Atlantic County, New Jersey",54744.0,001,29280,34
+3400175620,"Ventnor City city, Atlantic County, New Jersey",-666666666.0,001,75620,34
+3400180330,"Weymouth township, Atlantic County, New Jersey",-666666666.0,001,80330,34
+3400129430,"Hammonton town, Atlantic County, New Jersey",42744.0,001,29430,34
+3400141370,"Longport borough, Atlantic County, New Jersey",-666666666.0,001,41370,34
+3400152950,"Northfield city, Atlantic County, New Jersey",-666666666.0,001,52950,34
+340012080,"Atlantic City city, Atlantic County, New Jersey",19958.0,001,2080,34
+3401571850,"Swedesboro borough, Gloucester County, New Jersey",52708.0,015,71850,34
+3401582120,"Woodbury city, Gloucester County, New Jersey",28232.0,015,82120,34
+3401513360,"Clayton borough, Gloucester County, New Jersey",45000.0,015,13360,34
+3401582840,"Woolwich township, Gloucester County, New Jersey",81875.0,015,82840,34
+3401569030,"South Harrison township, Gloucester County, New Jersey",156750.0,015,69030,34
+3401530180,"Harrison township, Gloucester County, New Jersey",139125.0,015,30180,34
+3401577180,"Washington township, Gloucester County, New Jersey",63299.0,015,77180,34
+3401580120,"Westville borough, Gloucester County, New Jersey",25556.0,015,80120,34
+3401543440,"Mantua township, Gloucester County, New Jersey",84007.0,015,43440,34
+3401551390,"Newfield borough, Gloucester County, New Jersey",-666666666.0,015,51390,34
+3401559070,"Pitman borough, Gloucester County, New Jersey",-666666666.0,015,59070,34
+3401547250,"Monroe township, Gloucester County, New Jersey",73060.0,015,47250,34
+3401578110,"Wenonah borough, Gloucester County, New Jersey",-666666666.0,015,78110,34
+3401517710,"Deptford township, Gloucester County, New Jersey",67250.0,015,17710,34
+3401519180,"East Greenwich township, Gloucester County, New Jersey",213250.0,015,19180,34
+3401578800,"West Deptford township, Gloucester County, New Jersey",45489.0,015,78800,34
+3401524840,"Franklin township, Gloucester County, New Jersey",77154.0,015,24840,34
+3401582180,"Woodbury Heights borough, Gloucester County, New Jersey",-666666666.0,015,82180,34
+3401521060,"Elk township, Gloucester County, New Jersey",-666666666.0,015,21060,34
+3401526340,"Glassboro borough, Gloucester County, New Jersey",42159.0,015,26340,34
+3401541160,"Logan township, Gloucester County, New Jersey",116964.0,015,41160,34
+3401528185,"Greenwich township, Gloucester County, New Jersey",-666666666.0,015,28185,34
+3401549680,"National Park borough, Gloucester County, New Jersey",-666666666.0,015,49680,34
+3401557150,"Paulsboro borough, Gloucester County, New Jersey",32344.0,015,57150,34
+3402346620,"Milltown borough, Middlesex County, New Jersey",-666666666.0,023,46620,34
+3402352560,"North Brunswick township, Middlesex County, New Jersey",71563.0,023,52560,34
+3402365790,"Sayreville borough, Middlesex County, New Jersey",73859.0,023,65790,34
+3402369420,"South River borough, Middlesex County, New Jersey",57936.0,023,69420,34
+3402382000,"Woodbridge township, Middlesex County, New Jersey",75929.0,023,82000,34
+3402369810,"Spotswood borough, Middlesex County, New Jersey",-666666666.0,023,69810,34
+3402319000,"East Brunswick township, Middlesex County, New Jersey",76719.0,023,19000,34
+3402345900,"Middlesex borough, Middlesex County, New Jersey",80708.0,023,45900,34
+3402368550,"South Amboy city, Middlesex County, New Jersey",-666666666.0,023,68550,34
+3402310750,"Carteret borough, Middlesex County, New Jersey",75347.0,023,10750,34
+3402330840,"Helmetta borough, Middlesex County, New Jersey",-666666666.0,023,30840,34
+3402331470,"Highland Park borough, Middlesex County, New Jersey",49000.0,023,31470,34
+3402315550,"Cranbury township, Middlesex County, New Jersey",76635.0,023,15550,34
+3402358200,"Perth Amboy city, Middlesex County, New Jersey",56612.0,023,58200,34
+3402368790,"South Brunswick township, Middlesex County, New Jersey",86507.0,023,68790,34
+3402369390,"South Plainfield borough, Middlesex County, New Jersey",113493.0,023,69390,34
+3402318490,"Dunellen borough, Middlesex County, New Jersey",94362.0,023,18490,34
+3402345690,"Metuchen borough, Middlesex County, New Jersey",93250.0,023,45690,34
+3402359010,"Piscataway township, Middlesex County, New Jersey",84441.0,023,59010,34
+3402359280,"Plainsboro township, Middlesex County, New Jersey",67261.0,023,59280,34
+3402334890,"Jamesburg borough, Middlesex County, New Jersey",-666666666.0,023,34890,34
+3402347280,"Monroe township, Middlesex County, New Jersey",83571.0,023,47280,34
+3402354705,"Old Bridge township, Middlesex County, New Jersey",81591.0,023,54705,34
+3402320230,"Edison township, Middlesex County, New Jersey",67686.0,023,20230,34
+3402351210,"New Brunswick city, Middlesex County, New Jersey",30558.0,023,51210,34
+3403359130,"Pittsgrove township, Salem County, New Jersey",-666666666.0,033,59130,34
+3403361470,"Quinton township, Salem County, New Jersey",67708.0,033,61470,34
+3403321330,"Elsinboro township, Salem County, New Jersey",-666666666.0,033,21330,34
+3403375110,"Upper Pittsgrove township, Salem County, New Jersey",-666666666.0,033,75110,34
+3403341640,"Lower Alloways Creek township, Salem County, New Jersey",36417.0,033,41640,34
+3403343200,"Mannington township, Salem County, New Jersey",85455.0,033,43200,34
+3403321240,"Elmer borough, Salem County, New Jersey",-666666666.0,033,21240,34
+3403354810,"Oldmans township, Salem County, New Jersey",16328.0,033,54810,34
+3403358530,"Pilesgrove township, Salem County, New Jersey",-666666666.0,033,58530,34
+34033880,"Alloway township, Salem County, New Jersey",-666666666.0,033,880,34
+3403310610,"Carneys Point township, Salem County, New Jersey",52244.0,033,10610,34
+3403365490,"Salem city, Salem County, New Jersey",20093.0,033,65490,34
+3403382720,"Woodstown borough, Salem County, New Jersey",33125.0,033,82720,34
+3403357750,"Penns Grove borough, Salem County, New Jersey",30000.0,033,57750,34
+3403357870,"Pennsville township, Salem County, New Jersey",50347.0,033,57870,34
+3400941610,"Lower township, Cape May County, New Jersey",74773.0,009,41610,34
+3400980210,"West Wildwood borough, Cape May County, New Jersey",-666666666.0,009,80210,34
+3400981200,"Wildwood Crest borough, Cape May County, New Jersey",-666666666.0,009,81200,34
+3400917560,"Dennis township, Cape May County, New Jersey",-666666666.0,009,17560,34
+340072230,"Audubon Park borough, Camden County, New Jersey",-666666666.0,007,2230,34
+340073250,"Barrington borough, Camden County, New Jersey",-666666666.0,007,3250,34
+3400728770,"Haddonfield borough, Camden County, New Jersey",148846.0,007,28770,34
+3400765160,"Runnemede borough, Camden County, New Jersey",67250.0,007,65160,34
+3400776220,"Voorhees township, Camden County, New Jersey",69362.0,007,76220,34
+3400728800,"Haddon Heights borough, Camden County, New Jersey",78173.0,007,28800,34
+3400757660,"Pennsauken township, Camden County, New Jersey",67454.0,007,57660,34
+3400772240,"Tavistock borough, Camden County, New Jersey",-666666666.0,007,72240,34
+3400753880,"Oaklyn borough, Camden County, New Jersey",55677.0,007,53880,34
+3400758770,"Pine Hill borough, Camden County, New Jersey",41344.0,007,58770,34
+3400777630,"Waterford township, Camden County, New Jersey",133368.0,007,77630,34
+3400739420,"Lawnside borough, Camden County, New Jersey",66912.0,007,39420,34
+3400742630,"Magnolia borough, Camden County, New Jersey",47604.0,007,42630,34
+3400748750,"Mount Ephraim borough, Camden County, New Jersey",-666666666.0,007,48750,34
+3400710000,"Camden city, Camden County, New Jersey",23047.0,007,10000,34
+3400726760,"Gloucester township, Camden County, New Jersey",60368.0,007,26760,34
+3400732220,"Hi-Nella borough, Camden County, New Jersey",45804.0,007,32220,34
+3400714260,"Collingswood borough, Camden County, New Jersey",36298.0,007,14260,34
+3400726820,"Gloucester City city, Camden County, New Jersey",34278.0,007,26820,34
+3400771220,"Stratford borough, Camden County, New Jersey",62917.0,007,71220,34
+3403130570,"Hawthorne borough, Passaic County, New Jersey",85485.0,031,30570,34
+3403153040,"North Haledon borough, Passaic County, New Jersey",-666666666.0,031,53040,34
+3403163150,"Ringwood borough, Passaic County, New Jersey",113125.0,031,63150,34
+340316340,"Bloomingdale borough, Passaic County, New Jersey",-666666666.0,031,6340,34
+3403140620,"Little Falls township, Passaic County, New Jersey",-666666666.0,031,40620,34
+3403156550,"Passaic city, Passaic County, New Jersey",27431.0,031,56550,34
+3403157000,"Paterson city, Passaic County, New Jersey",35527.0,031,57000,34
+3403177840,"Wayne township, Passaic County, New Jersey",95156.0,031,77840,34
+3403179460,"West Milford township, Passaic County, New Jersey",63224.0,031,79460,34
+3403160090,"Pompton Lakes borough, Passaic County, New Jersey",-666666666.0,031,60090,34
+3403173140,"Totowa borough, Passaic County, New Jersey",-666666666.0,031,73140,34
+3403113690,"Clifton city, Passaic County, New Jersey",93125.0,031,13690,34
+3403176730,"Wanaque borough, Passaic County, New Jersey",74300.0,031,76730,34
+3403129070,"Haledon borough, Passaic County, New Jersey",61875.0,031,29070,34
+3403161170,"Prospect Park borough, Passaic County, New Jersey",45500.0,031,61170,34
+3400978530,"West Cape May borough, Cape May County, New Jersey",-666666666.0,009,78530,34
+3400981890,"Woodbine borough, Cape May County, New Jersey",43929.0,009,81890,34
+3400910270,"Cape May city, Cape May County, New Jersey",-666666666.0,009,10270,34
+3400954360,"Ocean City city, Cape May County, New Jersey",-666666666.0,009,54360,34
+3400974810,"Upper township, Cape May County, New Jersey",-666666666.0,009,74810,34
+340092320,"Avalon borough, Cape May County, New Jersey",-666666666.0,009,2320,34
+340090,"County subdivisions not defined, Cape May County, New Jersey",-666666666.0,009,0,34
+3400966390,"Sea Isle City city, Cape May County, New Jersey",-666666666.0,009,66390,34
+3400971010,"Stone Harbor borough, Cape May County, New Jersey",-666666666.0,009,71010,34
+3400981170,"Wildwood city, Cape May County, New Jersey",26972.0,009,81170,34
+3400910330,"Cape May Point borough, Cape May County, New Jersey",-666666666.0,009,10330,34
+3400953490,"North Wildwood city, Cape May County, New Jersey",-666666666.0,009,53490,34
+3400945810,"Middle township, Cape May County, New Jersey",39636.0,009,45810,34
+340078170,"Brooklawn borough, Camden County, New Jersey",60500.0,007,8170,34
+3400712280,"Cherry Hill township, Camden County, New Jersey",84024.0,007,12280,34
+3400758920,"Pine Valley borough, Camden County, New Jersey",-666666666.0,007,58920,34
+340074750,"Bellmawr borough, Camden County, New Jersey",31528.0,007,4750,34
+340075440,"Berlin borough, Camden County, New Jersey",-666666666.0,007,5440,34
+3400713420,"Clementon borough, Camden County, New Jersey",35833.0,007,13420,34
+3400726070,"Gibbsboro borough, Camden County, New Jersey",127500.0,007,26070,34
+3400728740,"Haddon township, Camden County, New Jersey",85324.0,007,28740,34
+3400739210,"Laurel Springs borough, Camden County, New Jersey",-666666666.0,007,39210,34
+3400740440,"Lindenwold borough, Camden County, New Jersey",34474.0,007,40440,34
+3400781740,"Winslow township, Camden County, New Jersey",77595.0,007,81740,34
+3400782450,"Woodlynne borough, Camden County, New Jersey",40461.0,007,82450,34
+340072200,"Audubon borough, Camden County, New Jersey",32228.0,007,2200,34
+340075470,"Berlin township, Camden County, New Jersey",47132.0,007,5470,34
+3400745510,"Merchantville borough, Camden County, New Jersey",84301.0,007,45510,34
+3400712550,"Chesilhurst borough, Camden County, New Jersey",60263.0,007,12550,34
+3400768340,"Somerdale borough, Camden County, New Jersey",55313.0,007,68340,34
+3400365400,"Saddle River borough, Bergen County, New Jersey",250001.0,003,65400,34
+3400320020,"Edgewater borough, Bergen County, New Jersey",87396.0,003,20020,34
+3400321450,"Emerson borough, Bergen County, New Jersey",-666666666.0,003,21450,34
+3400324990,"Franklin Lakes borough, Bergen County, New Jersey",-666666666.0,003,24990,34
+3400330420,"Hasbrouck Heights borough, Bergen County, New Jersey",-666666666.0,003,30420,34
+3400340680,"Little Ferry borough, Bergen County, New Jersey",59524.0,003,40680,34
+3400344880,"Maywood borough, Bergen County, New Jersey",-666666666.0,003,44880,34
+3400352320,"North Arlington borough, Bergen County, New Jersey",97813.0,003,52320,34
+3400353430,"Northvale borough, Bergen County, New Jersey",50203.0,003,53430,34
+3400354990,"Oradell borough, Bergen County, New Jersey",120000.0,003,54990,34
+3400362910,"Ridgefield borough, Bergen County, New Jersey",82734.0,003,62910,34
+3400372360,"Teaneck township, Bergen County, New Jersey",98058.0,003,72360,34
+3400375140,"Upper Saddle River borough, Bergen County, New Jersey",146849.0,003,75140,34
+3400383050,"Wyckoff township, Bergen County, New Jersey",-666666666.0,003,83050,34
+3400313810,"Closter borough, Bergen County, New Jersey",-666666666.0,003,13810,34
+3400321300,"Elmwood Park borough, Bergen County, New Jersey",89219.0,003,21300,34
+3400332310,"Ho-Ho-Kus borough, Bergen County, New Jersey",-666666666.0,003,32310,34
+3400362940,"Ridgefield Park village, Bergen County, New Jersey",72500.0,003,62940,34
+3400363000,"Ridgewood village, Bergen County, New Jersey",-666666666.0,003,63000,34
+34003700,"Allendale borough, Bergen County, New Jersey",-666666666.0,003,700,34
+3400313570,"Cliffside Park borough, Bergen County, New Jersey",105094.0,003,13570,34
+3400319510,"East Rutherford borough, Bergen County, New Jersey",87887.0,003,19510,34
+3400363990,"Rochelle Park township, Bergen County, New Jersey",-666666666.0,003,63990,34
+3400376400,"Waldwick borough, Bergen County, New Jersey",114306.0,003,76400,34
+3400324420,"Fort Lee borough, Bergen County, New Jersey",64297.0,003,24420,34
+3400322560,"Fairview borough, Bergen County, New Jersey",75405.0,003,22560,34
+3400318400,"Dumont borough, Bergen County, New Jersey",64549.0,003,18400,34
+3400321480,"Englewood city, Bergen County, New Jersey",63778.0,003,21480,34
+3400322470,"Fair Lawn borough, Bergen County, New Jersey",-666666666.0,003,22470,34
+3400330540,"Haworth borough, Bergen County, New Jersey",-666666666.0,003,30540,34
+340035170,"Bergenfield borough, Bergen County, New Jersey",74556.0,003,5170,34
+3400315820,"Cresskill borough, Bergen County, New Jersey",-666666666.0,003,15820,34
+3400326640,"Glen Rock borough, Bergen County, New Jersey",93750.0,003,26640,34
+3400342090,"Lyndhurst township, Bergen County, New Jersey",-666666666.0,003,42090,34
+3400347700,"Moonachie borough, Bergen County, New Jersey",-666666666.0,003,47700,34
+3400355950,"Paramus borough, Bergen County, New Jersey",101136.0,003,55950,34
+3400356130,"Park Ridge borough, Bergen County, New Jersey",-666666666.0,003,56130,34
+3400363360,"River Edge borough, Bergen County, New Jersey",-666666666.0,003,63360,34
+3400365280,"Rutherford borough, Bergen County, New Jersey",152679.0,003,65280,34
+3400372420,"Tenafly borough, Bergen County, New Jersey",-666666666.0,003,72420,34
+3400342750,"Mahwah township, Bergen County, New Jersey",105283.0,003,42750,34
+3400353850,"Oakland borough, Bergen County, New Jersey",-666666666.0,003,53850,34
+3400368970,"South Hackensack township, Bergen County, New Jersey",69779.0,003,68970,34
+3400372480,"Teterboro borough, Bergen County, New Jersey",-666666666.0,003,72480,34
+3400380270,"Westwood borough, Bergen County, New Jersey",72204.0,003,80270,34
+3400382300,"Woodcliff Lake borough, Bergen County, New Jersey",-666666666.0,003,82300,34
+340031090,"Alpine borough, Bergen County, New Jersey",-666666666.0,003,1090,34
+3400317530,"Demarest borough, Bergen County, New Jersey",-666666666.0,003,17530,34
+3400328680,"Hackensack city, Bergen County, New Jersey",60673.0,003,28680,34
+3400330150,"Harrington Park borough, Bergen County, New Jersey",-666666666.0,003,30150,34
+3400331920,"Hillsdale borough, Bergen County, New Jersey",172969.0,003,31920,34
+3400340020,"Leonia borough, Bergen County, New Jersey",-666666666.0,003,40020,34
+3400341100,"Lodi borough, Bergen County, New Jersey",37845.0,003,41100,34
+3400353610,"Norwood borough, Bergen County, New Jersey",-666666666.0,003,53610,34
+3400354870,"Old Tappan borough, Bergen County, New Jersey",-666666666.0,003,54870,34
+3400355770,"Palisades Park borough, Bergen County, New Jersey",104821.0,003,55770,34
+3400361680,"Ramsey borough, Bergen County, New Jersey",-666666666.0,003,61680,34
+3400364170,"Rockleigh borough, Bergen County, New Jersey",-666666666.0,003,64170,34
+340036490,"Bogota borough, Bergen County, New Jersey",-666666666.0,003,6490,34
+3400376490,"Wallington borough, Bergen County, New Jersey",62180.0,003,76490,34
+3400377135,"Washington township, Bergen County, New Jersey",-666666666.0,003,77135,34
+3400365340,"Saddle Brook township, Bergen County, New Jersey",97212.0,003,65340,34
+3400382570,"Wood-Ridge borough, Bergen County, New Jersey",-666666666.0,003,82570,34
+3400325770,"Garfield city, Bergen County, New Jersey",47727.0,003,25770,34
+3400347610,"Montvale borough, Bergen County, New Jersey",-666666666.0,003,47610,34
+3400351660,"New Milford borough, Bergen County, New Jersey",56850.0,003,51660,34
+3400321510,"Englewood Cliffs borough, Bergen County, New Jersey",95156.0,003,21510,34
+3400346110,"Midland Park borough, Bergen County, New Jersey",-666666666.0,003,46110,34
+3400363690,"River Vale township, Bergen County, New Jersey",-666666666.0,003,63690,34
+3400310480,"Carlstadt borough, Bergen County, New Jersey",-666666666.0,003,10480,34
+3403915640,"Cranford township, Union County, New Jersey",51118.0,039,15640,34
+3403936690,"Kenilworth borough, Union County, New Jersey",-666666666.0,039,36690,34
+3403951810,"New Providence borough, Union County, New Jersey",99327.0,039,51810,34
+3403931980,"Hillside township, Union County, New Jersey",66720.0,039,31980,34
+3403961530,"Rahway city, Union County, New Jersey",49652.0,039,61530,34
+3403913150,"Clark township, Union County, New Jersey",-666666666.0,039,13150,34
+3403940350,"Linden city, Union County, New Jersey",65517.0,039,40350,34
+3403948510,"Mountainside borough, Union County, New Jersey",-666666666.0,039,48510,34
+3403966060,"Scotch Plains township, Union County, New Jersey",73889.0,039,66060,34
+3403974480,"Union township, Union County, New Jersey",72685.0,039,74480,34
+3403981650,"Winfield township, Union County, New Jersey",-666666666.0,039,81650,34
+340395320,"Berkeley Heights township, Union County, New Jersey",-666666666.0,039,5320,34
+3403921000,"Elizabeth city, Union County, New Jersey",39007.0,039,21000,34
+3403922860,"Fanwood borough, Union County, New Jersey",-666666666.0,039,22860,34
+3403959190,"Plainfield city, Union County, New Jersey",55034.0,039,59190,34
+3403970020,"Springfield township, Union County, New Jersey",118718.0,039,70020,34
+3403979040,"Westfield town, Union County, New Jersey",67321.0,039,79040,34
+3403925800,"Garwood borough, Union County, New Jersey",-666666666.0,039,25800,34
+3403964650,"Roselle Park borough, Union County, New Jersey",38393.0,039,64650,34
+3403971430,"Summit city, Union County, New Jersey",59583.0,039,71430,34
+3403964620,"Roselle borough, Union County, New Jersey",47340.0,039,64620,34
+3404177270,"Washington borough, Warren County, New Jersey",60156.0,041,77270,34
+34041670,"Allamuchy township, Warren County, New Jersey",-666666666.0,041,670,34
+340411030,"Alpha borough, Warren County, New Jersey",-666666666.0,041,1030,34
+3404137320,"Knowlton township, Warren County, New Jersey",-666666666.0,041,37320,34
+3404125320,"Frelinghuysen township, Warren County, New Jersey",-666666666.0,041,25320,34
+3404128260,"Greenwich township, Warren County, New Jersey",207500.0,041,28260,34
+3404130090,"Harmony township, Warren County, New Jersey",-666666666.0,041,30090,34
+3400569990,"Springfield township, Burlington County, New Jersey",175833.0,005,69990,34
+340056700,"Bordentown township, Burlington County, New Jersey",83587.0,005,6700,34
+3400520050,"Edgewater Park township, Burlington County, New Jersey",55541.0,005,20050,34
+3400529010,"Hainesport township, Burlington County, New Jersey",96667.0,005,29010,34
+3400543740,"Maple Shade township, Burlington County, New Jersey",48189.0,005,43740,34
+3400549020,"Mount Laurel township, Burlington County, New Jersey",71250.0,005,49020,34
+340055740,"Beverly city, Burlington County, New Jersey",35781.0,005,5740,34
+340058920,"Burlington city, Burlington County, New Jersey",39677.0,005,8920,34
+3400551510,"New Hanover township, Burlington County, New Jersey",84125.0,005,51510,34
+3400563660,"Riverton borough, Burlington County, New Jersey",26000.0,005,63660,34
+3400566810,"Shamong township, Burlington County, New Jersey",-666666666.0,005,66810,34
+340058950,"Burlington township, Burlington County, New Jersey",73511.0,005,8950,34
+3400512670,"Chesterfield township, Burlington County, New Jersey",-666666666.0,005,12670,34
+3400512940,"Cinnaminson township, Burlington County, New Jersey",66953.0,005,12940,34
+3400518790,"Eastampton township, Burlington County, New Jersey",108958.0,005,18790,34
+3400522110,"Evesham township, Burlington County, New Jersey",88417.0,005,22110,34
+3400523250,"Fieldsboro borough, Burlington County, New Jersey",27083.0,005,23250,34
+3400543290,"Mansfield township, Burlington County, New Jersey",123348.0,005,43290,34
+3400547880,"Moorestown township, Burlington County, New Jersey",67000.0,005,47880,34
+3400572060,"Tabernacle township, Burlington County, New Jersey",-666666666.0,005,72060,34
+3400577150,"Washington township, Burlington County, New Jersey",-666666666.0,005,77150,34
+3400542060,"Lumberton township, Burlington County, New Jersey",92135.0,005,42060,34
+3400545210,"Medford Lakes borough, Burlington County, New Jersey",-666666666.0,005,45210,34
+3400557480,"Pemberton borough, Burlington County, New Jersey",53309.0,005,57480,34
+3400523850,"Florence township, Burlington County, New Jersey",72241.0,005,23850,34
+3400517440,"Delran township, Burlington County, New Jersey",71750.0,005,17440,34
+3400545120,"Medford township, Burlington County, New Jersey",56219.0,005,45120,34
+3400548900,"Mount Holly township, Burlington County, New Jersey",88306.0,005,48900,34
+3400563510,"Riverside township, Burlington County, New Jersey",61354.0,005,63510,34
+3400568610,"Southampton township, Burlington County, New Jersey",45938.0,005,68610,34
+3400581440,"Willingboro township, Burlington County, New Jersey",73615.0,005,81440,34
+3400582420,"Woodland township, Burlington County, New Jersey",-666666666.0,005,82420,34
+3400553070,"North Hanover township, Burlington County, New Jersey",46579.0,005,53070,34
+340053370,"Bass River township, Burlington County, New Jersey",-666666666.0,005,3370,34
+340056670,"Bordentown city, Burlington County, New Jersey",57554.0,005,6670,34
+3400557510,"Pemberton township, Burlington County, New Jersey",70083.0,005,57510,34
+3400578200,"Westampton township, Burlington County, New Jersey",84985.0,005,78200,34
+3400555800,"Palmyra borough, Burlington County, New Jersey",49500.0,005,55800,34
+3400582960,"Wrightstown borough, Burlington County, New Jersey",28000.0,005,82960,34
+3402718070,"Dover town, Morris County, New Jersey",54500.0,027,18070,34
+3402712130,"Chatham township, Morris County, New Jersey",-666666666.0,027,12130,34
+3402717650,"Denville township, Morris County, New Jersey",190119.0,027,17650,34
+3402719210,"East Hanover township, Morris County, New Jersey",-666666666.0,027,19210,34
+3402729550,"Hanover township, Morris County, New Jersey",-666666666.0,027,29550,34
+3402737110,"Kinnelon borough, Morris County, New Jersey",-666666666.0,027,37110,34
+3402740290,"Lincoln Park borough, Morris County, New Jersey",-666666666.0,027,40290,34
+340279040,"Butler borough, Morris County, New Jersey",-666666666.0,027,9040,34
+3402712580,"Chester borough, Morris County, New Jersey",-666666666.0,027,12580,34
+3402748300,"Morristown town, Morris County, New Jersey",39375.0,027,48300,34
+3402764080,"Rockaway township, Morris County, New Jersey",95962.0,027,64080,34
+3402747670,"Montville township, Morris County, New Jersey",93523.0,027,47670,34
+3402748090,"Morris township, Morris County, New Jersey",60286.0,027,48090,34
+3402775890,"Victory Gardens borough, Morris County, New Jersey",59688.0,027,75890,34
+340276610,"Boonton town, Morris County, New Jersey",112875.0,027,6610,34
+3402712610,"Chester township, Morris County, New Jersey",-666666666.0,027,12610,34
+3402729700,"Harding township, Morris County, New Jersey",-666666666.0,027,29700,34
+3402761890,"Randolph township, Morris County, New Jersey",-666666666.0,027,61890,34
+3402763300,"Riverdale borough, Morris County, New Jersey",-666666666.0,027,63300,34
+3402712100,"Chatham borough, Morris County, New Jersey",250001.0,027,12100,34
+3402745360,"Mendham township, Morris County, New Jersey",-666666666.0,027,45360,34
+3402741362,"Long Hill township, Morris County, New Jersey",-666666666.0,027,41362,34
+3402745330,"Mendham borough, Morris County, New Jersey",-666666666.0,027,45330,34
+3402746860,"Mine Hill township, Morris County, New Jersey",184000.0,027,46860,34
+3402748480,"Mountain Lakes borough, Morris County, New Jersey",-666666666.0,027,48480,34
+3404128710,"Hackettstown town, Warren County, New Jersey",85893.0,041,28710,34
+3404133930,"Independence township, Warren County, New Jersey",-666666666.0,041,33930,34
+3404143320,"Mansfield township, Warren County, New Jersey",-666666666.0,041,43320,34
+3404159820,"Pohatcong township, Warren County, New Jersey",46538.0,041,59820,34
+3404155530,"Oxford township, Warren County, New Jersey",156250.0,041,55530,34
+3404158350,"Phillipsburg town, Warren County, New Jersey",47917.0,041,58350,34
+3404177300,"Washington township, Warren County, New Jersey",-666666666.0,041,77300,34
+3404124960,"Franklin township, Warren County, New Jersey",-666666666.0,041,24960,34
+340414990,"Belvidere town, Warren County, New Jersey",-666666666.0,041,4990,34
+340416160,"Blairstown township, Warren County, New Jersey",-666666666.0,041,6160,34
+3404140110,"Liberty township, Warren County, New Jersey",-666666666.0,041,40110,34
+3404141490,"Lopatcong township, Warren County, New Jersey",113566.0,041,41490,34
+3404129820,"Hardwick township, Warren County, New Jersey",-666666666.0,041,29820,34
+3404133060,"Hope township, Warren County, New Jersey",-666666666.0,041,33060,34
+3404180570,"White township, Warren County, New Jersey",-666666666.0,041,80570,34
+340173580,"Bayonne city, Hudson County, New Jersey",41958.0,017,3580,34
+3401719360,"East Newark borough, Hudson County, New Jersey",-666666666.0,017,19360,34
+3401779610,"West New York town, Hudson County, New Jersey",53110.0,017,79610,34
+3401766570,"Secaucus town, Hudson County, New Jersey",140294.0,017,66570,34
+3401774630,"Union City city, Hudson County, New Jersey",49100.0,017,74630,34
+3401732250,"Hoboken city, Hudson County, New Jersey",42250.0,017,32250,34
+3401736000,"Jersey City city, Hudson County, New Jersey",41715.0,017,36000,34
+3401728650,"Guttenberg town, Hudson County, New Jersey",-666666666.0,017,28650,34
+3401730210,"Harrison town, Hudson County, New Jersey",55987.0,017,30210,34
+3401736510,"Kearny town, Hudson County, New Jersey",73375.0,017,36510,34
+3401752470,"North Bergen township, Hudson County, New Jersey",61996.0,017,52470,34
+3401777930,"Weehawken township, Hudson County, New Jersey",71713.0,017,77930,34
+3401917170,"Delaware township, Hunterdon County, New Jersey",-666666666.0,019,17170,34
+3401913720,"Clinton town, Hunterdon County, New Jersey",-666666666.0,019,13720,34
+3401937065,"Kingwood township, Hunterdon County, New Jersey",-666666666.0,019,37065,34
+3401924870,"Franklin township, Hunterdon County, New Jersey",-666666666.0,019,24870,34
+3401978230,"West Amwell township, Hunterdon County, New Jersey",-666666666.0,019,78230,34
+3401938610,"Lambertville city, Hunterdon County, New Jersey",-666666666.0,019,38610,34
+3401972510,"Tewksbury township, Hunterdon County, New Jersey",-666666666.0,019,72510,34
+34019550,"Alexandria township, Hunterdon County, New Jersey",-666666666.0,019,550,34
+3401925350,"Frenchtown borough, Hunterdon County, New Jersey",-666666666.0,019,25350,34
+3401931320,"High Bridge borough, Hunterdon County, New Jersey",-666666666.0,019,31320,34
+3401932460,"Holland township, Hunterdon County, New Jersey",-666666666.0,019,32460,34
+3401939660,"Lebanon township, Hunterdon County, New Jersey",-666666666.0,019,39660,34
+340195650,"Bethlehem township, Hunterdon County, New Jersey",-666666666.0,019,5650,34
+3401974420,"Union township, Hunterdon County, New Jersey",-666666666.0,019,74420,34
+340199280,"Califon borough, Hunterdon County, New Jersey",-666666666.0,019,9280,34
+3401918820,"East Amwell township, Hunterdon County, New Jersey",-666666666.0,019,18820,34
+3401961920,"Raritan township, Hunterdon County, New Jersey",97400.0,019,61920,34
+3401923700,"Flemington borough, Hunterdon County, New Jersey",-666666666.0,019,23700,34
+3401939630,"Lebanon borough, Hunterdon County, New Jersey",-666666666.0,019,39630,34
+3401946260,"Milford borough, Hunterdon County, New Jersey",-666666666.0,019,46260,34
+3401962250,"Readington township, Hunterdon County, New Jersey",-666666666.0,019,62250,34
+3401926550,"Glen Gardner borough, Hunterdon County, New Jersey",-666666666.0,019,26550,34
+3401929460,"Hampton borough, Hunterdon County, New Jersey",-666666666.0,019,29460,34
+3401913750,"Clinton township, Hunterdon County, New Jersey",64044.0,019,13750,34
+3401970980,"Stockton borough, Hunterdon County, New Jersey",-666666666.0,019,70980,34
+340196370,"Bloomsbury borough, Hunterdon County, New Jersey",30000.0,019,6370,34
+3400517080,"Delanco township, Burlington County, New Jersey",99688.0,005,17080,34
+3403182423,"Woodland Park borough, Passaic County, New Jersey",53900.0,031,82423,34
+3402163850,"Robbinsville township, Mercer County, New Jersey",106786.0,021,63850,34
+3402160900,"Princeton, Mercer County, New Jersey",95500.0,021,60900,34
+3402537560,"Lake Como borough, Monmouth County, New Jersey",49375.0,025,37560,34
+3402973125,"Toms River township, Ocean County, New Jersey",43668.0,029,73125,34
+340139250,"Caldwell borough, Essex County, New Jersey",33182.0,013,9250,34
+3402749080,"Mount Olive township, Morris County, New Jersey",83472.0,027,49080,34
+3402750130,"Netcong borough, Morris County, New Jersey",25536.0,027,50130,34
+3402756460,"Parsippany-Troy Hills township, Morris County, New Jersey",77644.0,027,56460,34
+3402764050,"Rockaway borough, Morris County, New Jersey",-666666666.0,027,64050,34
+3402764980,"Roxbury township, Morris County, New Jersey",149464.0,027,64980,34
+3402748690,"Mount Arlington borough, Morris County, New Jersey",-666666666.0,027,48690,34
+3402758110,"Pequannock township, Morris County, New Jersey",-666666666.0,027,58110,34
+3402748210,"Morris Plains borough, Morris County, New Jersey",-666666666.0,027,48210,34
+3402723910,"Florham Park borough, Morris County, New Jersey",-666666666.0,027,23910,34
+3402734980,"Jefferson township, Morris County, New Jersey",162438.0,027,34980,34
+3402777240,"Washington township, Morris County, New Jersey",193563.0,027,77240,34
+3402780390,"Wharton borough, Morris County, New Jersey",-666666666.0,027,80390,34
+3402573020,"Tinton Falls borough, Monmouth County, New Jersey",56426.0,025,73020,34
+340256970,"Bradley Beach borough, Monmouth County, New Jersey",38787.0,025,6970,34
+3402522440,"Fair Haven borough, Monmouth County, New Jersey",116307.0,025,22440,34
+3402522950,"Farmingdale borough, Monmouth County, New Jersey",-666666666.0,025,22950,34
+3402536810,"Keyport borough, Monmouth County, New Jersey",-666666666.0,025,36810,34
+3402540770,"Little Silver borough, Monmouth County, New Jersey",-666666666.0,025,40770,34
+3402742510,"Madison borough, Morris County, New Jersey",-666666666.0,027,42510,34
+340276640,"Boonton township, Morris County, New Jersey",-666666666.0,027,6640,34
+3402541010,"Loch Arbour village, Monmouth County, New Jersey",-666666666.0,025,41010,34
+3402570,"Aberdeen township, Monmouth County, New Jersey",73214.0,025,70,34
+3402570140,"Spring Lake Heights borough, Monmouth County, New Jersey",-666666666.0,025,70140,34
+3402543050,"Manasquan borough, Monmouth County, New Jersey",-666666666.0,025,43050,34
+3402565130,"Rumson borough, Monmouth County, New Jersey",-666666666.0,025,65130,34
+3402566330,"Sea Girt borough, Monmouth County, New Jersey",-666666666.0,025,66330,34
+3402574900,"Upper Freehold township, Monmouth County, New Jersey",-666666666.0,025,74900,34
+3402542990,"Manalapan township, Monmouth County, New Jersey",-666666666.0,025,42990,34
+34025760,"Allentown borough, Monmouth County, New Jersey",71250.0,025,760,34
+340251960,"Asbury Park city, Monmouth County, New Jersey",29706.0,025,1960,34
+3402521570,"Englishtown borough, Monmouth County, New Jersey",-666666666.0,025,21570,34
+3402549920,"Neptune City borough, Monmouth County, New Jersey",45964.0,025,49920,34
+3402562430,"Red Bank borough, Monmouth County, New Jersey",36857.0,025,62430,34
+3402579310,"West Long Branch borough, Monmouth County, New Jersey",-666666666.0,025,79310,34
+3402514560,"Colts Neck township, Monmouth County, New Jersey",-666666666.0,025,14560,34
+3402516660,"Deal borough, Monmouth County, New Jersey",-666666666.0,025,16660,34
+340252440,"Avon-by-the-Sea borough, Monmouth County, New Jersey",-666666666.0,025,2440,34
+3402525230,"Freehold township, Monmouth County, New Jersey",78943.0,025,25230,34
+3402530690,"Hazlet township, Monmouth County, New Jersey",100114.0,025,30690,34
+3402532640,"Holmdel township, Monmouth County, New Jersey",250001.0,025,32640,34
+3402549890,"Neptune township, Monmouth County, New Jersey",52074.0,025,49890,34
+3402567350,"Shrewsbury borough, Monmouth County, New Jersey",-666666666.0,025,67350,34
+3402576460,"Wall township, Monmouth County, New Jersey",27222.0,025,76460,34
+3402554570,"Oceanport borough, Monmouth County, New Jersey",-666666666.0,025,54570,34
+3402564410,"Roosevelt borough, Monmouth County, New Jersey",91875.0,025,64410,34
+3402566240,"Sea Bright borough, Monmouth County, New Jersey",-666666666.0,025,66240,34
+340254930,"Belmar borough, Monmouth County, New Jersey",125208.0,025,4930,34
+3402546560,"Millstone township, Monmouth County, New Jersey",-666666666.0,025,46560,34
+3402547130,"Monmouth Beach borough, Monmouth County, New Jersey",-666666666.0,025,47130,34
+3402554270,"Ocean township, Monmouth County, New Jersey",47995.0,025,54270,34
+3402545990,"Middletown township, Monmouth County, New Jersey",-666666666.0,025,45990,34
+34025730,"Allenhurst borough, Monmouth County, New Jersey",-666666666.0,025,730,34
+340257750,"Brielle borough, Monmouth County, New Jersey",-666666666.0,025,7750,34
+3402525200,"Freehold borough, Monmouth County, New Jersey",45069.0,025,25200,34
+3402531500,"Highlands borough, Monmouth County, New Jersey",-666666666.0,025,31500,34
+3402533300,"Howell township, Monmouth County, New Jersey",66477.0,025,33300,34
+3402536480,"Keansburg borough, Monmouth County, New Jersey",28870.0,025,36480,34
+3402544070,"Marlboro township, Monmouth County, New Jersey",116393.0,025,44070,34
+3402544520,"Matawan borough, Monmouth County, New Jersey",63594.0,025,44520,34
+3402570110,"Spring Lake borough, Monmouth County, New Jersey",-666666666.0,025,70110,34
+3402574540,"Union Beach borough, Monmouth County, New Jersey",-666666666.0,025,74540,34
+340250,"County subdivisions not defined, Monmouth County, New Jersey",-666666666.0,025,0,34
+340252110,"Atlantic Highlands borough, Monmouth County, New Jersey",-666666666.0,025,2110,34
+3402534200,"Interlaken borough, Monmouth County, New Jersey",-666666666.0,025,34200,34
+3402541310,"Long Branch city, Monmouth County, New Jersey",33795.0,025,41310,34
+3402567365,"Shrewsbury township, Monmouth County, New Jersey",56250.0,025,67365,34
+3402519840,"Eatontown borough, Monmouth County, New Jersey",42983.0,025,19840,34
+3401146680,"Millville city, Cumberland County, New Jersey",25933.0,011,46680,34
+3401176070,"Vineland city, Cumberland County, New Jersey",44896.0,011,76070,34
+3401139450,"Lawrence township, Cumberland County, New Jersey",41023.0,011,39450,34
+340117600,"Bridgeton city, Cumberland County, New Jersey",31418.0,011,7600,34
+3401128170,"Greenwich township, Cumberland County, New Jersey",-666666666.0,011,28170,34
+3401167020,"Shiloh borough, Cumberland County, New Jersey",-666666666.0,011,67020,34
+3401114710,"Commercial township, Cumberland County, New Jersey",21275.0,011,14710,34
+340110,"County subdivisions not defined, Cumberland County, New Jersey",-666666666.0,011,0,34
+3401116900,"Deerfield township, Cumberland County, New Jersey",72500.0,011,16900,34
+3401133120,"Hopewell township, Cumberland County, New Jersey",88571.0,011,33120,34
+3403564320,"Rocky Hill borough, Somerset County, New Jersey",-666666666.0,035,64320,34
+3403568730,"South Bound Brook borough, Somerset County, New Jersey",69625.0,035,68730,34
+3403527510,"Green Brook township, Somerset County, New Jersey",-666666666.0,035,27510,34
+3403531890,"Hillsborough township, Somerset County, New Jersey",84243.0,035,31890,34
+3403546590,"Millstone borough, Somerset County, New Jersey",-666666666.0,035,46590,34
+3403547580,"Montgomery township, Somerset County, New Jersey",76833.0,035,47580,34
+3403561980,"Raritan borough, Somerset County, New Jersey",83750.0,035,61980,34
+3403577600,"Watchung borough, Somerset County, New Jersey",-666666666.0,035,77600,34
+340354450,"Bedminster township, Somerset County, New Jersey",-666666666.0,035,4450,34
+340355560,"Bernards township, Somerset County, New Jersey",118750.0,035,5560,34
+3403524900,"Franklin township, Somerset County, New Jersey",82510.0,035,24900,34
+3403568460,"Somerville borough, Somerset County, New Jersey",29917.0,035,68460,34
+340356790,"Bound Brook borough, Somerset County, New Jersey",40381.0,035,6790,34
+340357180,"Branchburg township, Somerset County, New Jersey",-666666666.0,035,7180,34
+3403522890,"Far Hills borough, Somerset County, New Jersey",-666666666.0,035,22890,34
+340357720,"Bridgewater township, Somerset County, New Jersey",105801.0,035,7720,34

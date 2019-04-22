@@ -1,0 +1,1013 @@
+geoid,name,total_population_16over,in_labor_force,civilian,civilian_employed,civilian_unemployed,armed_forces,not_in_labor_force,county,county subdivision,state
+1800931630,"Harrison township, Blackford County, Indiana",2062.0,1301.0,1301.0,1198.0,103.0,0.0,761.0,009,31630,18
+1816359166,"Perry township, Vanderburgh County, Indiana",21262.0,12991.0,12991.0,12557.0,434.0,0.0,8271.0,163,59166,18
+1816377696,"Union township, Vanderburgh County, Indiana",272.0,127.0,127.0,127.0,0.0,0.0,145.0,163,77696,18
+1816368472,"Scott township, Vanderburgh County, Indiana",6673.0,4680.0,4680.0,4523.0,157.0,0.0,1993.0,163,68472,18
+1816327486,"German township, Vanderburgh County, Indiana",6328.0,3833.0,3833.0,3727.0,106.0,0.0,2495.0,163,27486,18
+1816340212,"Knight township, Vanderburgh County, Indiana",54804.0,34354.0,34340.0,32425.0,1915.0,14.0,20450.0,163,40212,18
+1816359670,"Pigeon township, Vanderburgh County, Indiana",23434.0,13799.0,13799.0,12505.0,1294.0,0.0,9635.0,163,59670,18
+1800943650,"Licking township, Blackford County, Indiana",6082.0,3509.0,3509.0,3256.0,253.0,0.0,2573.0,009,43650,18
+1800936774,"Jackson township, Blackford County, Indiana",1066.0,412.0,412.0,408.0,4.0,0.0,654.0,009,36774,18
+1800980360,"Washington township, Blackford County, Indiana",703.0,413.0,413.0,389.0,24.0,0.0,290.0,009,80360,18
+1801537872,"Jefferson township, Carroll County, Indiana",1694.0,880.0,880.0,848.0,32.0,0.0,814.0,015,37872,18
+1801536828,"Jackson township, Carroll County, Indiana",886.0,591.0,591.0,545.0,46.0,0.0,295.0,015,36828,18
+1801550256,"Monroe township, Carroll County, Indiana",2183.0,1424.0,1424.0,1320.0,104.0,0.0,759.0,015,50256,18
+1801565268,"Rock Creek township, Carroll County, Indiana",485.0,292.0,292.0,277.0,15.0,0.0,193.0,015,65268,18
+1801517686,"Democrat township, Carroll County, Indiana",696.0,464.0,464.0,451.0,13.0,0.0,232.0,015,17686,18
+1801545900,"Madison township, Carroll County, Indiana",368.0,239.0,239.0,228.0,11.0,0.0,129.0,015,45900,18
+18015316,"Adams township, Carroll County, Indiana",554.0,340.0,340.0,340.0,0.0,0.0,214.0,015,316,18
+1801543200,"Liberty township, Carroll County, Indiana",490.0,371.0,371.0,371.0,0.0,0.0,119.0,015,43200,18
+1801517236,"Deer Creek township, Carroll County, Indiana",3700.0,2235.0,2235.0,2112.0,123.0,0.0,1465.0,015,17236,18
+180159262,"Burlington township, Carroll County, Indiana",1262.0,797.0,797.0,739.0,58.0,0.0,465.0,015,9262,18
+1801575824,"Tippecanoe township, Carroll County, Indiana",1976.0,1261.0,1261.0,1155.0,106.0,0.0,715.0,015,75824,18
+1801580414,"Washington township, Carroll County, Indiana",358.0,234.0,234.0,223.0,11.0,0.0,124.0,015,80414,18
+1814343164,"Lexington township, Scott County, Indiana",2774.0,1701.0,1701.0,1613.0,88.0,0.0,1073.0,143,43164,18
+1814323224,"Finley township, Scott County, Indiana",1197.0,734.0,734.0,701.0,33.0,0.0,463.0,143,23224,18
+1814338448,"Jennings township, Scott County, Indiana",5049.0,2830.0,2830.0,2563.0,267.0,0.0,2219.0,143,38448,18
+1814379100,"Vienna township, Scott County, Indiana",7830.0,4440.0,4404.0,4244.0,160.0,36.0,3390.0,143,79100,18
+1806182106,"Webster township, Harrison County, Indiana",1367.0,844.0,844.0,832.0,12.0,0.0,523.0,061,82106,18
+180616058,"Blue River township, Harrison County, Indiana",1976.0,974.0,974.0,887.0,87.0,0.0,1002.0,061,6058,18
+1806125396,"Franklin township, Harrison County, Indiana",3313.0,2127.0,2127.0,2025.0,102.0,0.0,1186.0,061,25396,18
+1817781944,"Wayne township, Wayne County, Indiana",32588.0,18049.0,18042.0,16708.0,1334.0,7.0,14539.0,177,81944,18
+1809759742,"Pike township, Marion County, Indiana",62369.0,44571.0,44562.0,41368.0,3194.0,9.0,17798.0,097,59742,18
+1809711512,"Center township, Marion County, Indiana",120351.0,72484.0,72437.0,63890.0,8547.0,47.0,47867.0,097,11512,18
+1809717092,"Decatur township, Marion County, Indiana",25460.0,17526.0,17513.0,15953.0,1560.0,13.0,7934.0,097,17092,18
+1802136864,"Jackson township, Clay County, Indiana",2066.0,1329.0,1329.0,1292.0,37.0,0.0,737.0,021,36864,18
+1809781800,"Wayne township, Marion County, Indiana",106242.0,69921.0,69890.0,64529.0,5361.0,31.0,36321.0,097,81800,18
+1809780144,"Warren township, Marion County, Indiana",79856.0,52353.0,52340.0,46716.0,5624.0,13.0,27503.0,097,80144,18
+1801510540,"Carrollton township, Carroll County, Indiana",488.0,242.0,242.0,242.0,0.0,0.0,246.0,015,10540,18
+1801512988,"Clay township, Carroll County, Indiana",868.0,641.0,641.0,641.0,0.0,0.0,227.0,015,12988,18
+1814338772,"Johnson township, Scott County, Indiana",2013.0,1210.0,1210.0,1148.0,62.0,0.0,803.0,143,38772,18
+1806171936,"Spencer township, Harrison County, Indiana",1507.0,752.0,752.0,697.0,55.0,0.0,755.0,061,71936,18
+1806131810,"Harrison township, Harrison County, Indiana",10085.0,6462.0,6462.0,6088.0,374.0,0.0,3623.0,061,31810,18
+1806137080,"Jackson township, Harrison County, Indiana",4673.0,2733.0,2733.0,2611.0,122.0,0.0,1940.0,061,37080,18
+1806151030,"Morgan township, Harrison County, Indiana",3419.0,1994.0,1994.0,1708.0,286.0,0.0,1425.0,061,51030,18
+1817738286,"Jefferson township, Wayne County, Indiana",2687.0,1671.0,1671.0,1585.0,86.0,0.0,1016.0,177,38286,18
+1817716714,"Dalton township, Wayne County, Indiana",320.0,189.0,189.0,189.0,0.0,0.0,131.0,177,16714,18
+1802158986,"Perry township, Clay County, Indiana",574.0,323.0,323.0,316.0,7.0,0.0,251.0,021,58986,18
+1802173988,"Sugar Ridge township, Clay County, Indiana",922.0,595.0,595.0,585.0,10.0,0.0,327.0,021,73988,18
+1802180468,"Washington township, Clay County, Indiana",464.0,316.0,316.0,293.0,23.0,0.0,148.0,021,80468,18
+1802178416,"Van Buren township, Clay County, Indiana",2824.0,1645.0,1645.0,1610.0,35.0,0.0,1179.0,021,78416,18
+1802131684,"Harrison township, Clay County, Indiana",1737.0,1029.0,1029.0,970.0,59.0,0.0,708.0,021,31684,18
+1806311386,"Center township, Hendricks County, Indiana",9801.0,6851.0,6837.0,6442.0,395.0,14.0,2950.0,063,11386,18
+1806377318,"Union township, Hendricks County, Indiana",1721.0,1256.0,1256.0,1182.0,74.0,0.0,465.0,063,77318,18
+180638308,"Brown township, Hendricks County, Indiana",9015.0,6696.0,6696.0,6458.0,238.0,0.0,2319.0,063,8308,18
+1806380702,"Washington township, Hendricks County, Indiana",37653.0,27004.0,26983.0,25713.0,1270.0,21.0,10649.0,063,80702,18
+1806343290,"Liberty township, Hendricks County, Indiana",4749.0,3189.0,3164.0,2990.0,174.0,25.0,1560.0,063,43290,18
+1806346926,"Marion township, Hendricks County, Indiana",1051.0,615.0,615.0,527.0,88.0,0.0,436.0,063,46926,18
+1806325414,"Franklin township, Hendricks County, Indiana",1031.0,656.0,656.0,640.0,16.0,0.0,375.0,063,25414,18
+1806330204,"Guilford township, Hendricks County, Indiana",24388.0,15552.0,15544.0,14755.0,789.0,8.0,8836.0,063,30204,18
+1806320530,"Eel River township, Hendricks County, Indiana",1415.0,920.0,904.0,856.0,48.0,16.0,495.0,063,20530,18
+1806161344,"Posey township, Harrison County, Indiana",2215.0,1405.0,1389.0,1302.0,87.0,16.0,810.0,061,61344,18
+1806175014,"Taylor township, Harrison County, Indiana",483.0,157.0,157.0,157.0,0.0,0.0,326.0,061,75014,18
+1806133268,"Heth township, Harrison County, Indiana",1082.0,693.0,693.0,637.0,56.0,0.0,389.0,061,33268,18
+1806180684,"Washington township, Harrison County, Indiana",381.0,231.0,231.0,212.0,19.0,0.0,150.0,061,80684,18
+180616544,"Boone township, Harrison County, Indiana",1081.0,662.0,662.0,613.0,49.0,0.0,419.0,061,6544,18
+1806916678,"Dallas township, Huntington County, Indiana",1704.0,1009.0,1009.0,946.0,63.0,0.0,695.0,069,16678,18
+1806980126,"Warren township, Huntington County, Indiana",622.0,420.0,420.0,388.0,32.0,0.0,202.0,069,80126,18
+1806935311,"Huntington township, Huntington County, Indiana",16558.0,10593.0,10593.0,10117.0,476.0,0.0,5965.0,069,35311,18
+1806967320,"Salamonie township, Huntington County, Indiana",1620.0,932.0,932.0,911.0,21.0,0.0,688.0,069,67320,18
+1806938016,"Jefferson township, Huntington County, Indiana",524.0,330.0,330.0,311.0,19.0,0.0,194.0,069,38016,18
+1806913384,"Clear Creek township, Huntington County, Indiana",1481.0,1068.0,1068.0,1068.0,0.0,0.0,413.0,069,13384,18
+1806941904,"Lancaster township, Huntington County, Indiana",877.0,615.0,615.0,566.0,49.0,0.0,262.0,069,41904,18
+1806965304,"Rock Creek township, Huntington County, Indiana",1156.0,729.0,729.0,719.0,10.0,0.0,427.0,069,65304,18
+1806937116,"Jackson township, Huntington County, Indiana",3048.0,2146.0,2142.0,2085.0,57.0,4.0,902.0,069,37116,18
+1809110720,"Cass township, LaPorte County, Indiana",1520.0,972.0,972.0,934.0,38.0,0.0,548.0,091,10720,18
+1806960948,"Polk township, Huntington County, Indiana",378.0,283.0,283.0,274.0,9.0,0.0,95.0,069,60948,18
+1806977354,"Union township, Huntington County, Indiana",920.0,582.0,582.0,572.0,10.0,0.0,338.0,069,77354,18
+1806981746,"Wayne township, Huntington County, Indiana",537.0,299.0,299.0,299.0,0.0,0.0,238.0,069,81746,18
+1809138736,"Johnson township, LaPorte County, Indiana",373.0,325.0,325.0,304.0,21.0,0.0,48.0,091,38736,18
+1809160408,"Pleasant township, LaPorte County, Indiana",2458.0,1338.0,1338.0,1286.0,52.0,0.0,1120.0,091,60408,18
+1809161596,"Prairie township, LaPorte County, Indiana",189.0,119.0,119.0,119.0,0.0,0.0,70.0,091,61596,18
+1809168346,"Scipio township, LaPorte County, Indiana",3820.0,2202.0,2202.0,2160.0,42.0,0.0,1618.0,091,68346,18
+1809180774,"Washington township, LaPorte County, Indiana",805.0,593.0,593.0,557.0,36.0,0.0,212.0,091,80774,18
+1809172170,"Springfield township, LaPorte County, Indiana",3361.0,1818.0,1818.0,1722.0,96.0,0.0,1543.0,091,72170,18
+1809115040,"Coolspring township, LaPorte County, Indiana",11853.0,7367.0,7367.0,6735.0,632.0,0.0,4486.0,091,15040,18
+1809154090,"Noble township, LaPorte County, Indiana",1018.0,646.0,646.0,629.0,17.0,0.0,372.0,091,54090,18
+1809184554,"Wills township, LaPorte County, Indiana",1636.0,1153.0,1153.0,1093.0,60.0,0.0,483.0,091,84554,18
+1809126224,"Galena township, LaPorte County, Indiana",1460.0,915.0,915.0,882.0,33.0,0.0,545.0,091,26224,18
+1809131198,"Hanna township, LaPorte County, Indiana",594.0,405.0,405.0,396.0,9.0,0.0,189.0,091,31198,18
+1809148780,"Michigan township, LaPorte County, Indiana",21983.0,12283.0,12283.0,10916.0,1367.0,0.0,9700.0,091,48780,18
+1809177408,"Union township, LaPorte County, Indiana",1590.0,930.0,927.0,849.0,78.0,3.0,660.0,091,77408,18
+1809152830,"New Durham township, LaPorte County, Indiana",7810.0,2231.0,2231.0,2112.0,119.0,0.0,5579.0,091,52830,18
+1809117974,"Dewey township, LaPorte County, Indiana",752.0,429.0,429.0,391.0,38.0,0.0,323.0,091,17974,18
+1809111494,"Center township, LaPorte County, Indiana",19742.0,12210.0,12199.0,11241.0,958.0,11.0,7532.0,091,11494,18
+1809135068,"Hudson township, LaPorte County, Indiana",1475.0,755.0,755.0,646.0,109.0,0.0,720.0,091,35068,18
+1809113744,"Clinton township, LaPorte County, Indiana",1539.0,1012.0,1012.0,988.0,24.0,0.0,527.0,091,13744,18
+1809143812,"Lincoln township, LaPorte County, Indiana",2022.0,1226.0,1226.0,1123.0,103.0,0.0,796.0,091,43812,18
+1806343794,"Lincoln township, Hendricks County, Indiana",24484.0,18091.0,18091.0,17476.0,615.0,0.0,6393.0,063,43794,18
+1806348852,"Middle township, Hendricks County, Indiana",4981.0,3316.0,3316.0,3211.0,105.0,0.0,1665.0,063,48852,18
+1806313078,"Clay township, Hendricks County, Indiana",1909.0,1201.0,1201.0,1158.0,43.0,0.0,708.0,063,13078,18
+1803710684,"Cass township, Dubois County, Indiana",1798.0,1369.0,1369.0,1349.0,20.0,0.0,429.0,037,10684,18
+180373124,"Bainbridge township, Dubois County, Indiana",13030.0,8590.0,8570.0,8241.0,329.0,20.0,4440.0,037,3124,18
+1803730456,"Hall township, Dubois County, Indiana",1113.0,924.0,924.0,899.0,25.0,0.0,189.0,037,30456,18
+1803714608,"Columbia township, Dubois County, Indiana",697.0,385.0,385.0,385.0,0.0,0.0,312.0,037,14608,18
+1803731324,"Harbison township, Dubois County, Indiana",1115.0,774.0,774.0,757.0,17.0,0.0,341.0,037,31324,18
+1803736954,"Jackson township, Dubois County, Indiana",1897.0,1439.0,1439.0,1422.0,17.0,0.0,458.0,037,36954,18
+1803746890,"Marion township, Dubois County, Indiana",962.0,751.0,751.0,733.0,18.0,0.0,211.0,037,46890,18
+1803737926,"Jefferson township, Dubois County, Indiana",1350.0,799.0,799.0,780.0,19.0,0.0,551.0,037,37926,18
+1803745954,"Madison township, Dubois County, Indiana",2034.0,1605.0,1605.0,1581.0,24.0,0.0,429.0,037,45954,18
+180376526,"Boone township, Dubois County, Indiana",596.0,324.0,324.0,324.0,0.0,0.0,272.0,037,6526,18
+1804761326,"Posey township, Franklin County, Indiana",686.0,456.0,456.0,418.0,38.0,0.0,230.0,047,61326,18
+180479568,"Butler township, Franklin County, Indiana",731.0,459.0,459.0,450.0,9.0,0.0,272.0,047,9568,18
+1804742390,"Laurel township, Franklin County, Indiana",1106.0,661.0,661.0,591.0,70.0,0.0,445.0,047,42390,18
+1804748564,"Metamora township, Franklin County, Indiana",988.0,638.0,638.0,602.0,36.0,0.0,350.0,047,48564,18
+1804784068,"Whitewater township, Franklin County, Indiana",2140.0,1222.0,1222.0,1191.0,31.0,0.0,918.0,047,84068,18
+1804763126,"Ray township, Franklin County, Indiana",3141.0,2061.0,2056.0,1974.0,82.0,5.0,1080.0,047,63126,18
+1809139186,"Kankakee township, LaPorte County, Indiana",3517.0,2391.0,2391.0,2139.0,252.0,0.0,1126.0,091,39186,18
+1803758302,"Patoka township, Dubois County, Indiana",5483.0,3626.0,3626.0,3514.0,112.0,0.0,1857.0,037,58302,18
+1803723008,"Ferdinand township, Dubois County, Indiana",3092.0,2011.0,2011.0,1943.0,68.0,0.0,1081.0,037,23008,18
+1804772134,"Springfield township, Franklin County, Indiana",1057.0,763.0,763.0,755.0,8.0,0.0,294.0,047,72134,18
+1804733448,"Highland township, Franklin County, Indiana",1250.0,944.0,944.0,869.0,75.0,0.0,306.0,047,33448,18
+180473700,"Bath township, Franklin County, Indiana",267.0,108.0,108.0,108.0,0.0,0.0,159.0,047,3700,18
+180475824,"Blooming Grove township, Franklin County, Indiana",866.0,592.0,592.0,560.0,32.0,0.0,274.0,047,5824,18
+1804722306,"Fairfield township, Franklin County, Indiana",303.0,241.0,241.0,241.0,0.0,0.0,62.0,047,22306,18
+1804767554,"Salt Creek township, Franklin County, Indiana",892.0,562.0,562.0,534.0,28.0,0.0,330.0,047,67554,18
+180478200,"Brookville township, Franklin County, Indiana",4580.0,2925.0,2925.0,2719.0,206.0,0.0,1655.0,047,8200,18
+1805322441,"Fairmount township, Grant County, Indiana",3175.0,1909.0,1909.0,1786.0,123.0,0.0,1266.0,053,22441,18
+1805329124,"Green township, Grant County, Indiana",370.0,227.0,227.0,214.0,13.0,0.0,143.0,053,29124,18
+1805343272,"Liberty township, Grant County, Indiana",774.0,414.0,414.0,406.0,8.0,0.0,360.0,053,43272,18
+1805364062,"Richland township, Grant County, Indiana",934.0,509.0,509.0,476.0,33.0,0.0,425.0,053,64062,18
+1805378479,"Van Buren township, Grant County, Indiana",1566.0,983.0,983.0,957.0,26.0,0.0,583.0,053,78479,18
+1805380630,"Washington township, Grant County, Indiana",2864.0,1749.0,1749.0,1613.0,136.0,0.0,1115.0,053,80630,18
+1805369912,"Sims township, Grant County, Indiana",1172.0,666.0,666.0,656.0,10.0,0.0,506.0,053,69912,18
+1805311332,"Center township, Grant County, Indiana",18681.0,10382.0,10382.0,9393.0,989.0,0.0,8299.0,053,11332,18
+1805325378,"Franklin township, Grant County, Indiana",5513.0,3137.0,3137.0,2803.0,334.0,0.0,2376.0,053,25378,18
+1816979982,"Waltz township, Wabash County, Indiana",1019.0,660.0,660.0,611.0,49.0,0.0,359.0,169,79982,18
+1816954162,"Noble township, Wabash County, Indiana",11336.0,7306.0,7306.0,6916.0,390.0,0.0,4030.0,169,54162,18
+1816943470,"Liberty township, Wabash County, Indiana",2027.0,1235.0,1235.0,1150.0,85.0,0.0,792.0,169,43470,18
+1816940914,"Lagro township, Wabash County, Indiana",2314.0,1384.0,1384.0,1326.0,58.0,0.0,930.0,169,40914,18
+1816912322,"Chester township, Wabash County, Indiana",6360.0,3638.0,3608.0,3387.0,221.0,30.0,2722.0,169,12322,18
+1816958482,"Paw Paw township, Wabash County, Indiana",1184.0,721.0,721.0,692.0,29.0,0.0,463.0,169,58482,18
+1816960498,"Pleasant township, Wabash County, Indiana",1772.0,1048.0,1048.0,997.0,51.0,0.0,724.0,169,60498,18
+1818150166,"Monon township, White County, Indiana",2503.0,1412.0,1412.0,1304.0,108.0,0.0,1091.0,181,50166,18
+1818177732,"Union township, White County, Indiana",7742.0,4674.0,4625.0,4459.0,166.0,49.0,3068.0,181,77732,18
+1818143524,"Liberty township, White County, Indiana",2004.0,1103.0,1103.0,1012.0,91.0,0.0,901.0,181,43524,18
+1818137566,"Jackson township, White County, Indiana",467.0,315.0,315.0,296.0,19.0,0.0,152.0,181,37566,18
+1818143866,"Lincoln township, White County, Indiana",535.0,307.0,307.0,287.0,20.0,0.0,228.0,181,43866,18
+1818110810,"Cass township, White County, Indiana",404.0,276.0,276.0,266.0,10.0,0.0,128.0,181,10810,18
+1818134564,"Honey Creek township, White County, Indiana",938.0,638.0,638.0,622.0,16.0,0.0,300.0,181,34564,18
+181815194,"Big Creek township, White County, Indiana",547.0,371.0,371.0,369.0,2.0,0.0,176.0,181,5194,18
+1818162064,"Princeton township, White County, Indiana",1236.0,880.0,880.0,847.0,33.0,0.0,356.0,181,62064,18
+1818166186,"Round Grove township, White County, Indiana",188.0,104.0,104.0,104.0,0.0,0.0,84.0,181,66186,18
+1818161650,"Prairie township, White County, Indiana",2442.0,1762.0,1762.0,1720.0,42.0,0.0,680.0,181,61650,18
+1818183258,"West Point township, White County, Indiana",271.0,159.0,159.0,142.0,17.0,0.0,112.0,181,83258,18
+1807310396,"Carpenter township, Jasper County, Indiana",1469.0,938.0,938.0,908.0,30.0,0.0,531.0,073,10396,18
+1807339222,"Keener township, Jasper County, Indiana",8069.0,4663.0,4658.0,4351.0,307.0,5.0,3406.0,073,39222,18
+180733412,"Barkley township, Jasper County, Indiana",864.0,499.0,499.0,474.0,25.0,0.0,365.0,073,3412,18
+1807339168,"Kankakee township, Jasper County, Indiana",811.0,420.0,420.0,420.0,0.0,0.0,391.0,073,39168,18
+1807349788,"Milroy township, Jasper County, Indiana",245.0,202.0,202.0,202.0,0.0,0.0,43.0,073,49788,18
+1807338970,"Jordan township, Jasper County, Indiana",146.0,71.0,71.0,71.0,0.0,0.0,75.0,073,38970,18
+1807377372,"Union township, Jasper County, Indiana",1112.0,564.0,564.0,470.0,94.0,0.0,548.0,073,77372,18
+1807327684,"Gillam township, Jasper County, Indiana",573.0,273.0,273.0,243.0,30.0,0.0,300.0,073,27684,18
+1807379640,"Walker township, Jasper County, Indiana",2947.0,1783.0,1783.0,1737.0,46.0,0.0,1164.0,073,79640,18
+1807331144,"Hanging Grove township, Jasper County, Indiana",183.0,117.0,117.0,117.0,0.0,0.0,66.0,073,31144,18
+1807383546,"Wheatfield township, Jasper County, Indiana",3322.0,2251.0,2251.0,2086.0,165.0,0.0,1071.0,073,83546,18
+1807346944,"Marion township, Jasper County, Indiana",5916.0,3812.0,3812.0,3667.0,145.0,0.0,2104.0,073,46944,18
+1807353622,"Newton township, Jasper County, Indiana",730.0,569.0,569.0,569.0,0.0,0.0,161.0,073,53622,18
+1807540356,"Knox township, Jay County, Indiana",298.0,152.0,152.0,152.0,0.0,0.0,146.0,075,40356,18
+1807558680,"Penn township, Jay County, Indiana",978.0,586.0,586.0,573.0,13.0,0.0,392.0,075,58680,18
+1807579316,"Wabash township, Jay County, Indiana",463.0,314.0,314.0,314.0,0.0,0.0,149.0,075,79316,18
+1807554072,"Noble township, Jay County, Indiana",588.0,412.0,412.0,395.0,17.0,0.0,176.0,075,54072,18
+1805337962,"Jefferson township, Grant County, Indiana",4952.0,3048.0,3039.0,2859.0,180.0,9.0,1904.0,053,37962,18
+1805349374,"Mill township, Grant County, Indiana",8177.0,4893.0,4893.0,4528.0,365.0,0.0,3284.0,053,49374,18
+1805360372,"Pleasant township, Grant County, Indiana",5517.0,3236.0,3236.0,3081.0,155.0,0.0,2281.0,053,60372,18
+1805350310,"Monroe township, Grant County, Indiana",1385.0,710.0,710.0,664.0,46.0,0.0,675.0,053,50310,18
+180597084,"Brandywine township, Hancock County, Indiana",1923.0,1158.0,1158.0,1143.0,15.0,0.0,765.0,059,7084,18
+180598290,"Brown township, Hancock County, Indiana",1960.0,1277.0,1277.0,1257.0,20.0,0.0,683.0,059,8290,18
+1805973880,"Sugar Creek township, Hancock County, Indiana",12242.0,8216.0,8216.0,8019.0,197.0,0.0,4026.0,059,73880,18
+180596040,"Blue River township, Hancock County, Indiana",986.0,717.0,717.0,645.0,72.0,0.0,269.0,059,6040,18
+1805911368,"Center township, Hancock County, Indiana",21230.0,13627.0,13627.0,12914.0,713.0,0.0,7603.0,059,11368,18
+180598794,"Buck Creek township, Hancock County, Indiana",6804.0,4715.0,4715.0,4596.0,119.0,0.0,2089.0,059,8794,18
+1805929142,"Green township, Hancock County, Indiana",1195.0,756.0,756.0,722.0,34.0,0.0,439.0,059,29142,18
+1805937062,"Jackson township, Hancock County, Indiana",1743.0,1317.0,1317.0,1274.0,43.0,0.0,426.0,059,37062,18
+1805978866,"Vernon township, Hancock County, Indiana",9455.0,7167.0,7167.0,6804.0,363.0,0.0,2288.0,059,78866,18
+1807129016,"Grassy Fork township, Jackson County, Indiana",475.0,283.0,283.0,269.0,14.0,0.0,192.0,071,29016,18
+1807137134,"Jackson township, Jackson County, Indiana",16577.0,10631.0,10631.0,9965.0,666.0,0.0,5946.0,071,37134,18
+1807118712,"Driftwood township, Jackson County, Indiana",599.0,404.0,404.0,395.0,9.0,0.0,195.0,071,18712,18
+1807157474,"Owen township, Jackson County, Indiana",1068.0,542.0,542.0,542.0,0.0,0.0,526.0,071,57474,18
+1807163414,"Redding township, Jackson County, Indiana",3278.0,2386.0,2386.0,2282.0,104.0,0.0,892.0,071,63414,18
+1807180720,"Washington township, Jackson County, Indiana",1008.0,688.0,688.0,688.0,0.0,0.0,320.0,071,80720,18
+1807167572,"Salt Creek township, Jackson County, Indiana",389.0,236.0,236.0,143.0,93.0,0.0,153.0,071,67572,18
+180718488,"Brownstown township, Jackson County, Indiana",4497.0,2650.0,2650.0,2485.0,165.0,0.0,1847.0,071,8488,18
+1807110450,"Carr township, Jackson County, Indiana",1210.0,709.0,709.0,613.0,96.0,0.0,501.0,071,10450,18
+1807178884,"Vernon township, Jackson County, Indiana",2816.0,1622.0,1622.0,1539.0,83.0,0.0,1194.0,071,78884,18
+1807130618,"Hamilton township, Jackson County, Indiana",1292.0,833.0,833.0,813.0,20.0,0.0,459.0,071,30618,18
+1807159274,"Pershing township, Jackson County, Indiana",1035.0,462.0,462.0,391.0,71.0,0.0,573.0,071,59274,18
+1806731846,"Harrison township, Howard County, Indiana",7511.0,4614.0,4614.0,4426.0,188.0,0.0,2897.0,067,31846,18
+1806743326,"Liberty township, Howard County, Indiana",3962.0,2458.0,2458.0,2357.0,101.0,0.0,1504.0,067,43326,18
+1806713096,"Clay township, Howard County, Indiana",2899.0,1942.0,1942.0,1844.0,98.0,0.0,957.0,067,13096,18
+1806711422,"Center township, Howard County, Indiana",36464.0,20892.0,20832.0,19204.0,1628.0,60.0,15572.0,067,11422,18
+1806721430,"Ervin township, Howard County, Indiana",1634.0,1094.0,1094.0,1010.0,84.0,0.0,540.0,067,21430,18
+1806734528,"Honey Creek township, Howard County, Indiana",1727.0,1223.0,1223.0,1167.0,56.0,0.0,504.0,067,34528,18
+1806737098,"Jackson township, Howard County, Indiana",263.0,151.0,151.0,151.0,0.0,0.0,112.0,067,37098,18
+1806777336,"Union township, Howard County, Indiana",1027.0,681.0,681.0,664.0,17.0,0.0,346.0,067,77336,18
+1806775032,"Taylor township, Howard County, Indiana",7270.0,4451.0,4451.0,4216.0,235.0,0.0,2819.0,067,75032,18
+1806734906,"Howard township, Howard County, Indiana",2109.0,1149.0,1149.0,1021.0,128.0,0.0,960.0,067,34906,18
+1806750328,"Monroe township, Howard County, Indiana",1114.0,721.0,721.0,714.0,7.0,0.0,393.0,067,50328,18
+1805754198,"Noblesville township, Hamilton County, Indiana",42676.0,30624.0,30612.0,29589.0,1023.0,12.0,12052.0,057,54198,18
+1805781710,"Wayne township, Hamilton County, Indiana",6101.0,4762.0,4762.0,4603.0,159.0,0.0,1339.0,057,81710,18
+1817329970,"Greer township, Warrick County, Indiana",1598.0,1043.0,1043.0,977.0,66.0,0.0,555.0,173,29970,18
+18057388,"Adams township, Hamilton County, Indiana",4201.0,2908.0,2908.0,2762.0,146.0,0.0,1293.0,057,388,18
+1805722612,"Fall Creek township, Hamilton County, Indiana",41162.0,31300.0,31260.0,30053.0,1207.0,40.0,9862.0,057,22612,18
+1805717488,"Delaware township, Hamilton County, Indiana",27254.0,21181.0,21128.0,20486.0,642.0,53.0,6073.0,057,17488,18
+1805783906,"White River township, Hamilton County, Indiana",1747.0,1340.0,1340.0,1306.0,34.0,0.0,407.0,057,83906,18
+1805713060,"Clay township, Hamilton County, Indiana",70943.0,50219.0,50198.0,48605.0,1593.0,21.0,20724.0,057,13060,18
+1805780666,"Washington township, Hamilton County, Indiana",28824.0,21466.0,21451.0,20880.0,571.0,15.0,7358.0,057,80666,18
+1805737044,"Jackson township, Hamilton County, Indiana",8604.0,5931.0,5931.0,5715.0,216.0,0.0,2673.0,057,37044,18
+1803364008,"Richland township, DeKalb County, Indiana",1082.0,712.0,712.0,657.0,55.0,0.0,370.0,033,64008,18
+1803370200,"Smithfield township, DeKalb County, Indiana",1354.0,910.0,910.0,841.0,69.0,0.0,444.0,033,70200,18
+1803371918,"Spencer township, DeKalb County, Indiana",921.0,529.0,529.0,518.0,11.0,0.0,392.0,033,71918,18
+1803376598,"Troy township, DeKalb County, Indiana",216.0,137.0,137.0,137.0,0.0,0.0,79.0,033,76598,18
+1803377228,"Union township, DeKalb County, Indiana",10818.0,7157.0,7157.0,6882.0,275.0,0.0,3661.0,033,77228,18
+1803328836,"Grant township, DeKalb County, Indiana",2323.0,1636.0,1636.0,1529.0,107.0,0.0,687.0,033,28836,18
+1803353784,"Newville township, DeKalb County, Indiana",414.0,280.0,280.0,280.0,0.0,0.0,134.0,033,53784,18
+1803372512,"Stafford township, DeKalb County, Indiana",223.0,181.0,181.0,181.0,0.0,0.0,42.0,033,72512,18
+180339550,"Butler township, DeKalb County, Indiana",1383.0,853.0,853.0,833.0,20.0,0.0,530.0,033,9550,18
+1803314824,"Concord township, DeKalb County, Indiana",916.0,666.0,666.0,616.0,50.0,0.0,250.0,033,14824,18
+1803336936,"Jackson township, DeKalb County, Indiana",2333.0,1720.0,1720.0,1688.0,32.0,0.0,613.0,033,36936,18
+1803384590,"Wilmington township, DeKalb County, Indiana",3313.0,2191.0,2191.0,2048.0,143.0,0.0,1122.0,033,84590,18
+1803325342,"Franklin township, DeKalb County, Indiana",1009.0,724.0,724.0,711.0,13.0,0.0,285.0,033,25342,18
+1803339636,"Keyser township, DeKalb County, Indiana",5913.0,3605.0,3605.0,3373.0,232.0,0.0,2308.0,033,39636,18
+1803322288,"Fairfield township, DeKalb County, Indiana",1062.0,779.0,779.0,760.0,19.0,0.0,283.0,033,22288,18
+1808752686,"Newbury township, LaGrange County, Indiana",3457.0,2192.0,2192.0,2136.0,56.0,0.0,1265.0,087,52686,18
+1808778506,"Van Buren township, LaGrange County, Indiana",2689.0,1559.0,1559.0,1544.0,15.0,0.0,1130.0,087,78506,18
+1808749338,"Milford township, LaGrange County, Indiana",2347.0,1300.0,1300.0,1212.0,88.0,0.0,1047.0,087,49338,18
+180875752,"Bloomfield township, LaGrange County, Indiana",3988.0,2575.0,2575.0,2470.0,105.0,0.0,1413.0,087,5752,18
+1808738718,"Johnson township, LaGrange County, Indiana",2809.0,1811.0,1811.0,1691.0,120.0,0.0,998.0,087,38718,18
+1808720206,"Eden township, LaGrange County, Indiana",2570.0,1644.0,1631.0,1613.0,18.0,13.0,926.0,087,20206,18
+1808713132,"Clay township, LaGrange County, Indiana",2347.0,1586.0,1586.0,1565.0,21.0,0.0,761.0,087,13132,18
+1808772152,"Springfield township, LaGrange County, Indiana",829.0,563.0,563.0,563.0,0.0,0.0,266.0,087,72152,18
+1808713456,"Clearspring township, LaGrange County, Indiana",2801.0,1775.0,1775.0,1744.0,31.0,0.0,1026.0,087,13456,18
+1808729538,"Greenfield township, LaGrange County, Indiana",1179.0,719.0,719.0,719.0,0.0,0.0,460.0,087,29538,18
+1808743722,"Lima township, LaGrange County, Indiana",2199.0,1266.0,1266.0,1222.0,44.0,0.0,933.0,087,43722,18
+1800567716,"Sand Creek township, Bartholomew County, Indiana",1999.0,1287.0,1287.0,1156.0,131.0,0.0,712.0,005,67716,18
+1800513618,"Clifty township, Bartholomew County, Indiana",849.0,585.0,585.0,554.0,31.0,0.0,264.0,005,13618,18
+1800531612,"Harrison township, Bartholomew County, Indiana",3092.0,2055.0,2055.0,2035.0,20.0,0.0,1037.0,005,31612,18
+1800532530,"Haw Creek township, Bartholomew County, Indiana",3098.0,1980.0,1980.0,1867.0,113.0,0.0,1118.0,005,32530,18
+1800556124,"Ohio township, Bartholomew County, Indiana",1698.0,920.0,920.0,910.0,10.0,0.0,778.0,005,56124,18
+1800512970,"Clay township, Bartholomew County, Indiana",2854.0,1869.0,1869.0,1779.0,90.0,0.0,985.0,005,12970,18
+1800536756,"Jackson township, Bartholomew County, Indiana",602.0,339.0,339.0,339.0,0.0,0.0,263.0,005,36756,18
+1800565250,"Rock Creek township, Bartholomew County, Indiana",1484.0,967.0,967.0,943.0,24.0,0.0,517.0,005,65250,18
+1800581656,"Wayne township, Bartholomew County, Indiana",3133.0,2103.0,2103.0,2049.0,54.0,0.0,1030.0,005,81656,18
+1800523548,"Flat Rock township, Bartholomew County, Indiana",1385.0,1025.0,1025.0,973.0,52.0,0.0,360.0,005,23548,18
+180059937,"Camp Atterbury UT, Bartholomew County, Indiana",88.0,58.0,0.0,0.0,0.0,58.0,30.0,005,9937,18
+1800527432,"German township, Bartholomew County, Indiana",5490.0,3764.0,3764.0,3657.0,107.0,0.0,1726.0,005,27432,18
+1800514752,"Columbus township, Bartholomew County, Indiana",37899.0,24917.0,24906.0,23460.0,1446.0,11.0,12982.0,005,14752,18
+1813961362,"Posey township, Rush County, Indiana",843.0,591.0,591.0,518.0,73.0,0.0,252.0,139,61362,18
+1813966456,"Rushville township, Rush County, Indiana",6240.0,3677.0,3677.0,3575.0,102.0,0.0,2563.0,139,66456,18
+1813964656,"Ripley township, Rush County, Indiana",1489.0,882.0,882.0,841.0,41.0,0.0,607.0,139,64656,18
+1813911620,"Center township, Rush County, Indiana",746.0,459.0,459.0,432.0,27.0,0.0,287.0,139,11620,18
+1813977606,"Union township, Rush County, Indiana",425.0,280.0,280.0,275.0,5.0,0.0,145.0,139,77606,18
+1813954126,"Noble township, Rush County, Indiana",440.0,254.0,254.0,245.0,9.0,0.0,186.0,139,54126,18
+1813956772,"Orange township, Rush County, Indiana",609.0,209.0,209.0,200.0,9.0,0.0,400.0,139,56772,18
+1813937386,"Jackson township, Rush County, Indiana",208.0,126.0,126.0,126.0,0.0,0.0,82.0,139,37386,18
+1813981026,"Washington township, Rush County, Indiana",410.0,199.0,199.0,199.0,0.0,0.0,211.0,139,81026,18
+181391522,"Anderson township, Rush County, Indiana",981.0,509.0,509.0,483.0,26.0,0.0,472.0,139,1522,18
+1813979658,"Walker township, Rush County, Indiana",625.0,429.0,429.0,353.0,76.0,0.0,196.0,139,79658,18
+1813964188,"Richland township, Rush County, Indiana",342.0,156.0,156.0,156.0,0.0,0.0,186.0,139,64188,18
+1801113672,"Clinton township, Boone County, Indiana",792.0,553.0,553.0,545.0,8.0,0.0,239.0,011,13672,18
+1801111242,"Center township, Boone County, Indiana",14741.0,10102.0,10091.0,9856.0,235.0,11.0,4639.0,011,11242,18
+1801158968,"Perry township, Boone County, Indiana",881.0,621.0,621.0,621.0,0.0,0.0,260.0,011,58968,18
+1801137854,"Jefferson township, Boone County, Indiana",1463.0,971.0,971.0,919.0,52.0,0.0,492.0,011,37854,18
+1801146854,"Marion township, Boone County, Indiana",1030.0,767.0,767.0,735.0,32.0,0.0,263.0,011,46854,18
+1801185580,"Worth township, Boone County, Indiana",1924.0,1519.0,1519.0,1470.0,49.0,0.0,405.0,011,85580,18
+1801131648,"Harrison township, Boone County, Indiana",658.0,438.0,438.0,403.0,35.0,0.0,220.0,011,31648,18
+1801173844,"Sugar Creek township, Boone County, Indiana",1681.0,1132.0,1129.0,1034.0,95.0,3.0,549.0,011,73844,18
+1801136792,"Jackson township, Boone County, Indiana",2205.0,1483.0,1483.0,1418.0,65.0,0.0,722.0,011,36792,18
+1801180378,"Washington township, Boone County, Indiana",974.0,582.0,582.0,567.0,15.0,0.0,392.0,011,80378,18
+1804965232,"Rochester township, Fulton County, Indiana",8151.0,5110.0,5110.0,5002.0,108.0,0.0,3041.0,049,65232,18
+1804943254,"Liberty township, Fulton County, Indiana",1202.0,776.0,776.0,734.0,42.0,0.0,426.0,049,43254,18
+180492656,"Aubbeenaubbee township, Fulton County, Indiana",1021.0,595.0,595.0,562.0,33.0,0.0,426.0,049,2656,18
+1804933106,"Henry township, Fulton County, Indiana",2175.0,1535.0,1535.0,1422.0,113.0,0.0,640.0,049,33106,18
+1804964044,"Richland township, Fulton County, Indiana",612.0,383.0,383.0,358.0,25.0,0.0,229.0,049,64044,18
+1804977282,"Union township, Fulton County, Indiana",1065.0,564.0,564.0,542.0,22.0,0.0,501.0,049,77282,18
+1804981692,"Wayne township, Fulton County, Indiana",508.0,286.0,286.0,261.0,25.0,0.0,222.0,049,81692,18
+1804952722,"Newcastle township, Fulton County, Indiana",1275.0,708.0,708.0,694.0,14.0,0.0,567.0,049,52722,18
+1808984896,"Winfield township, Lake County, Indiana",8276.0,5706.0,5706.0,5446.0,260.0,0.0,2570.0,089,84896,18
+1808931252,"Hanover township, Lake County, Indiana",10152.0,6553.0,6553.0,6075.0,478.0,0.0,3599.0,089,31252,18
+1808966870,"St. John township, Lake County, Indiana",54779.0,36372.0,36354.0,34280.0,2074.0,18.0,18407.0,089,66870,18
+1808911026,"Cedar Creek township, Lake County, Indiana",9444.0,6114.0,6114.0,5841.0,273.0,0.0,3330.0,089,11026,18
+1808982574,"West Creek township, Lake County, Indiana",5388.0,3519.0,3519.0,3333.0,186.0,0.0,1869.0,089,82574,18
+1808919306,"Eagle Creek township, Lake County, Indiana",1377.0,835.0,835.0,740.0,95.0,0.0,542.0,089,19306,18
+1808954414,"North township, Lake County, Indiana",122332.0,74680.0,74670.0,68093.0,6577.0,10.0,47652.0,089,54414,18
+180890,"County subdivisions not defined, Lake County, Indiana",0.0,0.0,0.0,0.0,0.0,0.0,0.0,089,0,18
+180899820,"Calumet township, Lake County, Indiana",78973.0,42853.0,42834.0,36863.0,5971.0,19.0,36120.0,089,9820,18
+1808934132,"Hobart township, Lake County, Indiana",29772.0,18746.0,18746.0,17244.0,1502.0,0.0,11026.0,089,34132,18
+1808911476,"Center township, Lake County, Indiana",25794.0,16558.0,16518.0,15575.0,943.0,40.0,9236.0,089,11476,18
+1808966096,"Ross township, Lake County, Indiana",38590.0,24658.0,24652.0,22847.0,1805.0,6.0,13932.0,089,66096,18
+1810768436,"Scott township, Montgomery County, Indiana",562.0,387.0,387.0,357.0,30.0,0.0,175.0,107,68436,18
+1810773898,"Sugar Creek township, Montgomery County, Indiana",295.0,184.0,184.0,176.0,8.0,0.0,111.0,107,73898,18
+1810712790,"Clark township, Montgomery County, Indiana",1400.0,967.0,967.0,919.0,48.0,0.0,433.0,107,12790,18
+1810779838,"Walnut township, Montgomery County, Indiana",1196.0,768.0,768.0,746.0,22.0,0.0,428.0,107,79838,18
+1810781818,"Wayne township, Montgomery County, Indiana",1213.0,889.0,889.0,857.0,32.0,0.0,324.0,107,81818,18
+1810725522,"Franklin township, Montgomery County, Indiana",1669.0,1117.0,1117.0,1060.0,57.0,0.0,552.0,107,25522,18
+1810746026,"Madison township, Montgomery County, Indiana",786.0,551.0,551.0,526.0,25.0,0.0,235.0,107,46026,18
+1810714014,"Coal Creek township, Montgomery County, Indiana",1111.0,710.0,710.0,682.0,28.0,0.0,401.0,107,14014,18
+1810777480,"Union township, Montgomery County, Indiana",20018.0,12803.0,12803.0,12277.0,526.0,0.0,7215.0,107,77480,18
+181078326,"Brown township, Montgomery County, Indiana",1435.0,857.0,857.0,799.0,58.0,0.0,578.0,107,8326,18
+1810764620,"Ripley township, Montgomery County, Indiana",716.0,425.0,425.0,403.0,22.0,0.0,291.0,107,64620,18
+1811371756,"Sparta township, Noble County, Indiana",1992.0,1499.0,1499.0,1429.0,70.0,0.0,493.0,113,71756,18
+1811356754,"Orange township, Noble County, Indiana",3196.0,2053.0,2053.0,1939.0,114.0,0.0,1143.0,113,56754,18
+1811381836,"Wayne township, Noble County, Indiana",7984.0,5217.0,5217.0,4905.0,312.0,0.0,2767.0,113,81836,18
+1811354108,"Noble township, Noble County, Indiana",2542.0,1534.0,1534.0,1411.0,123.0,0.0,1008.0,113,54108,18
+1811385994,"York township, Noble County, Indiana",1191.0,834.0,834.0,812.0,22.0,0.0,357.0,113,85994,18
+181131036,"Allen township, Noble County, Indiana",5702.0,3465.0,3404.0,3260.0,144.0,61.0,2237.0,113,1036,18
+1811320764,"Elkhart township, Noble County, Indiana",1618.0,948.0,948.0,905.0,43.0,0.0,670.0,113,20764,18
+1811380882,"Washington township, Noble County, Indiana",770.0,530.0,530.0,495.0,35.0,0.0,240.0,113,80882,18
+1811374474,"Swan township, Noble County, Indiana",2042.0,1321.0,1321.0,1243.0,78.0,0.0,721.0,113,74474,18
+1811329214,"Green township, Noble County, Indiana",1650.0,938.0,929.0,897.0,32.0,9.0,712.0,113,29214,18
+18113838,"Albion township, Noble County, Indiana",2041.0,1328.0,1328.0,1220.0,108.0,0.0,713.0,113,838,18
+1811359130,"Perry township, Noble County, Indiana",4934.0,3519.0,3519.0,3270.0,249.0,0.0,1415.0,113,59130,18
+1811338124,"Jefferson township, Noble County, Indiana",1161.0,843.0,843.0,807.0,36.0,0.0,318.0,113,38124,18
+1800177120,"Union township, Adams County, Indiana",831.0,488.0,488.0,470.0,18.0,0.0,343.0,001,77120,18
+1800179262,"Wabash township, Adams County, Indiana",4602.0,2500.0,2500.0,2314.0,186.0,0.0,2102.0,001,79262,18
+180015914,"Blue Creek township, Adams County, Indiana",789.0,526.0,526.0,468.0,58.0,0.0,263.0,001,5914,18
+1800125900,"French township, Adams County, Indiana",690.0,448.0,448.0,448.0,0.0,0.0,242.0,001,25900,18
+1814713240,"Clay township, Spencer County, Indiana",2131.0,1364.0,1364.0,1307.0,57.0,0.0,767.0,147,13240,18
+1814710576,"Carter township, Spencer County, Indiana",2567.0,1685.0,1685.0,1629.0,56.0,0.0,882.0,147,10576,18
+1815327666,"Gill township, Sullivan County, Indiana",742.0,529.0,529.0,490.0,39.0,0.0,213.0,153,27666,18
+1815337476,"Jackson township, Sullivan County, Indiana",1364.0,716.0,716.0,693.0,23.0,0.0,648.0,153,37476,18
+1815316390,"Curry township, Sullivan County, Indiana",2566.0,1497.0,1497.0,1424.0,73.0,0.0,1069.0,153,16390,18
+1815330348,"Haddon township, Sullivan County, Indiana",3473.0,867.0,867.0,806.0,61.0,0.0,2606.0,153,30348,18
+1815310792,"Cass township, Sullivan County, Indiana",1586.0,1000.0,1000.0,942.0,58.0,0.0,586.0,153,10792,18
+1815376814,"Turman township, Sullivan County, Indiana",995.0,685.0,685.0,650.0,35.0,0.0,310.0,153,76814,18
+1815322162,"Fairbanks township, Sullivan County, Indiana",615.0,417.0,417.0,395.0,22.0,0.0,198.0,153,22162,18
+1815338214,"Jefferson township, Sullivan County, Indiana",236.0,136.0,136.0,114.0,22.0,0.0,100.0,153,38214,18
+1815330672,"Hamilton township, Sullivan County, Indiana",5598.0,2745.0,2745.0,2573.0,172.0,0.0,2853.0,153,30672,18
+1815946116,"Madison township, Tipton County, Indiana",1074.0,595.0,595.0,595.0,0.0,0.0,479.0,159,46116,18
+1815961614,"Prairie township, Tipton County, Indiana",917.0,476.0,476.0,470.0,6.0,0.0,441.0,159,61614,18
+1815938250,"Jefferson township, Tipton County, Indiana",1235.0,707.0,707.0,668.0,39.0,0.0,528.0,159,38250,18
+1813550472,"Monroe township, Randolph County, Indiana",2987.0,1838.0,1838.0,1779.0,59.0,0.0,1149.0,135,50472,18
+1813529232,"Green township, Randolph County, Indiana",770.0,448.0,448.0,421.0,27.0,0.0,322.0,135,29232,18
+1813580990,"Washington township, Randolph County, Indiana",1739.0,1052.0,1047.0,1009.0,38.0,5.0,687.0,135,80990,18
+1813529736,"Greensfork township, Randolph County, Indiana",711.0,506.0,506.0,477.0,29.0,0.0,205.0,135,29736,18
+1818321520,"Etna-Troy township, Whitley County, Indiana",1167.0,734.0,734.0,714.0,20.0,0.0,433.0,183,21520,18
+1818375590,"Thorncreek township, Whitley County, Indiana",3213.0,2273.0,2273.0,2254.0,19.0,0.0,940.0,183,75590,18
+1818313564,"Cleveland township, Whitley County, Indiana",2706.0,1818.0,1818.0,1715.0,103.0,0.0,888.0,183,13564,18
+1818314698,"Columbia township, Whitley County, Indiana",9057.0,5468.0,5468.0,5188.0,280.0,0.0,3589.0,183,14698,18
+1818370182,"Smith township, Whitley County, Indiana",4382.0,3104.0,3104.0,2985.0,119.0,0.0,1278.0,183,70182,18
+1818381152,"Washington township, Whitley County, Indiana",735.0,458.0,458.0,458.0,0.0,0.0,277.0,183,81152,18
+1818364242,"Richland township, Whitley County, Indiana",1502.0,812.0,798.0,751.0,47.0,14.0,690.0,183,64242,18
+1818377750,"Union township, Whitley County, Indiana",1976.0,1249.0,1249.0,1220.0,29.0,0.0,727.0,183,77750,18
+1818338322,"Jefferson township, Whitley County, Indiana",1861.0,1236.0,1236.0,1228.0,8.0,0.0,625.0,183,38322,18
+1800711224,"Center township, Benton County, Indiana",2145.0,1313.0,1313.0,1272.0,41.0,0.0,832.0,007,11224,18
+1800727630,"Gilboa township, Benton County, Indiana",289.0,215.0,215.0,197.0,18.0,0.0,74.0,007,27630,18
+1800728818,"Grant township, Benton County, Indiana",853.0,535.0,535.0,515.0,20.0,0.0,318.0,007,28818,18
+1800785940,"York township, Benton County, Indiana",170.0,107.0,107.0,107.0,0.0,0.0,63.0,007,85940,18
+1800755620,"Oak Grove township, Benton County, Indiana",1277.0,819.0,819.0,795.0,24.0,0.0,458.0,007,55620,18
+1800733358,"Hickory Grove township, Benton County, Indiana",365.0,232.0,232.0,219.0,13.0,0.0,133.0,007,33358,18
+1800759886,"Pine township, Benton County, Indiana",222.0,162.0,162.0,162.0,0.0,0.0,60.0,007,59886,18
+1800763990,"Richland township, Benton County, Indiana",489.0,267.0,267.0,248.0,19.0,0.0,222.0,007,63990,18
+1800777138,"Union township, Benton County, Indiana",142.0,102.0,102.0,102.0,0.0,0.0,40.0,007,77138,18
+1800757942,"Parish Grove township, Benton County, Indiana",113.0,86.0,86.0,86.0,0.0,0.0,27.0,007,57942,18
+180076328,"Bolivar township, Benton County, Indiana",699.0,469.0,469.0,423.0,46.0,0.0,230.0,007,6328,18
+1801330528,"Hamblen township, Brown County, Indiana",3626.0,1829.0,1829.0,1609.0,220.0,0.0,1797.0,013,30528,18
+1801380396,"Washington township, Brown County, Indiana",4176.0,2509.0,2509.0,2413.0,96.0,0.0,1667.0,013,80396,18
+1801378398,"Van Buren township, Brown County, Indiana",1628.0,972.0,972.0,972.0,0.0,0.0,656.0,013,78398,18
+1801336810,"Jackson township, Brown County, Indiana",3215.0,1867.0,1867.0,1760.0,107.0,0.0,1348.0,013,36810,18
+1800132206,"Hartford township, Adams County, Indiana",626.0,394.0,385.0,363.0,22.0,9.0,232.0,001,32206,18
+1800150220,"Monroe township, Adams County, Indiana",3441.0,2459.0,2459.0,2399.0,60.0,0.0,982.0,001,50220,18
+1800139924,"Kirkland township, Adams County, Indiana",648.0,427.0,427.0,408.0,19.0,0.0,221.0,001,39924,18
+1800167068,"St. Marys township, Adams County, Indiana",927.0,664.0,664.0,656.0,8.0,0.0,263.0,001,67068,18
+1800137818,"Jefferson township, Adams County, Indiana",546.0,331.0,331.0,287.0,44.0,0.0,215.0,001,37818,18
+1800165862,"Root township, Adams County, Indiana",3540.0,2293.0,2293.0,2204.0,89.0,0.0,1247.0,001,65862,18
+1800180324,"Washington township, Adams County, Indiana",7795.0,4808.0,4808.0,4532.0,276.0,0.0,2987.0,001,80324,18
+1800161884,"Preble township, Adams County, Indiana",705.0,442.0,442.0,405.0,37.0,0.0,263.0,001,61884,18
+1801957438,"Owen township, Clark County, Indiana",918.0,555.0,555.0,530.0,25.0,0.0,363.0,019,57438,18
+1801980450,"Washington township, Clark County, Indiana",1171.0,655.0,655.0,629.0,26.0,0.0,516.0,019,80450,18
+1801938367,"Jeffersonville township, Clark County, Indiana",49343.0,31501.0,31490.0,29536.0,1954.0,11.0,17842.0,019,38367,18
+1801956898,"Oregon township, Clark County, Indiana",1453.0,828.0,828.0,775.0,53.0,0.0,625.0,019,56898,18
+1801985166,"Wood township, Clark County, Indiana",2264.0,1575.0,1575.0,1524.0,51.0,0.0,689.0,019,85166,18
+180195122,"Bethlehem township, Clark County, Indiana",450.0,251.0,251.0,226.0,25.0,0.0,199.0,019,5122,18
+1801910432,"Carr township, Clark County, Indiana",2946.0,2287.0,2287.0,2148.0,139.0,0.0,659.0,019,10432,18
+1801912142,"Charlestown township, Clark County, Indiana",11108.0,7042.0,7042.0,6676.0,366.0,0.0,4066.0,019,12142,18
+1801950274,"Monroe township, Clark County, Indiana",4779.0,2874.0,2866.0,2753.0,113.0,8.0,1905.0,019,50274,18
+1801969696,"Silver Creek township, Clark County, Indiana",9657.0,6679.0,6666.0,6295.0,371.0,13.0,2978.0,019,69696,18
+1801977174,"Union township, Clark County, Indiana",2901.0,2049.0,2049.0,1924.0,125.0,0.0,852.0,019,77174,18
+1802339960,"Kirklin township, Clinton County, Indiana",1176.0,799.0,799.0,774.0,25.0,0.0,377.0,023,39960,18
+1802348762,"Michigan township, Clinton County, Indiana",1229.0,932.0,932.0,909.0,23.0,0.0,297.0,023,48762,18
+1802323944,"Forest township, Clinton County, Indiana",490.0,283.0,283.0,261.0,22.0,0.0,207.0,023,23944,18
+1802373862,"Sugar Creek township, Clinton County, Indiana",506.0,425.0,425.0,353.0,72.0,0.0,81.0,023,73862,18
+1802377192,"Union township, Clinton County, Indiana",1021.0,731.0,708.0,667.0,41.0,23.0,290.0,023,77192,18
+1802380090,"Warren township, Clinton County, Indiana",446.0,252.0,252.0,252.0,0.0,0.0,194.0,023,80090,18
+1802380486,"Washington township, Clinton County, Indiana",859.0,562.0,562.0,552.0,10.0,0.0,297.0,023,80486,18
+1802345918,"Madison township, Clinton County, Indiana",1672.0,1013.0,1013.0,969.0,44.0,0.0,659.0,023,45918,18
+1815912646,"Cicero township, Tipton County, Indiana",6320.0,4123.0,4123.0,3991.0,132.0,0.0,2197.0,159,12646,18
+1815984194,"Wildcat township, Tipton County, Indiana",1215.0,664.0,664.0,631.0,33.0,0.0,551.0,159,84194,18
+1815943416,"Liberty township, Tipton County, Indiana",1787.0,1160.0,1160.0,1075.0,85.0,0.0,627.0,159,43416,18
+1815722342,"Fairfield township, Tippecanoe County, Indiana",42706.0,29203.0,29170.0,27008.0,2162.0,33.0,13503.0,157,22342,18
+1815742354,"Lauramie township, Tippecanoe County, Indiana",2295.0,1749.0,1749.0,1693.0,56.0,0.0,546.0,157,42354,18
+1815762964,"Randolph township, Tippecanoe County, Indiana",630.0,422.0,422.0,414.0,8.0,0.0,208.0,157,62964,18
+1815781926,"Wayne township, Tippecanoe County, Indiana",1327.0,1051.0,1051.0,940.0,111.0,0.0,276.0,157,81926,18
+1815777660,"Union township, Tippecanoe County, Indiana",1623.0,980.0,980.0,931.0,49.0,0.0,643.0,157,77660,18
+1815782070,"Wea township, Tippecanoe County, Indiana",25429.0,19146.0,19116.0,18207.0,909.0,30.0,6283.0,157,82070,18
+1815769300,"Shelby township, Tippecanoe County, Indiana",2051.0,1347.0,1347.0,1297.0,50.0,0.0,704.0,157,69300,18
+1815737494,"Jackson township, Tippecanoe County, Indiana",447.0,307.0,307.0,307.0,0.0,0.0,140.0,157,37494,18
+1815759148,"Perry township, Tippecanoe County, Indiana",5913.0,4260.0,4251.0,4105.0,146.0,9.0,1653.0,157,59148,18
+1815775914,"Tippecanoe township, Tippecanoe County, Indiana",6151.0,4079.0,4079.0,3973.0,106.0,0.0,2072.0,157,75914,18
+1815779352,"Wabash township, Tippecanoe County, Indiana",57300.0,30792.0,30721.0,29344.0,1377.0,71.0,26508.0,157,79352,18
+1815781080,"Washington township, Tippecanoe County, Indiana",2275.0,1429.0,1429.0,1429.0,0.0,0.0,846.0,157,81080,18
+1815769174,"Sheffield township, Tippecanoe County, Indiana",3396.0,2288.0,2288.0,2221.0,67.0,0.0,1108.0,157,69174,18
+1816732026,"Harrison township, Vigo County, Indiana",41476.0,24490.0,24478.0,22022.0,2456.0,12.0,16986.0,167,32026,18
+1816761704,"Prairie Creek township, Vigo County, Indiana",1078.0,744.0,744.0,734.0,10.0,0.0,334.0,167,61704,18
+1816764530,"Riley township, Vigo County, Indiana",2688.0,1667.0,1667.0,1497.0,170.0,0.0,1021.0,167,64530,18
+1816722882,"Fayette township, Vigo County, Indiana",2112.0,1243.0,1243.0,1120.0,123.0,0.0,869.0,167,22882,18
+1816734546,"Honey Creek township, Vigo County, Indiana",14444.0,6906.0,6876.0,6631.0,245.0,30.0,7538.0,167,34546,18
+1816752308,"Nevins township, Vigo County, Indiana",1423.0,848.0,848.0,769.0,79.0,0.0,575.0,167,52308,18
+1816757294,"Otter Creek township, Vigo County, Indiana",7055.0,4392.0,4392.0,4163.0,229.0,0.0,2663.0,167,57294,18
+1816744208,"Linton township, Vigo County, Indiana",988.0,686.0,675.0,647.0,28.0,11.0,302.0,167,44208,18
+1816759652,"Pierson township, Vigo County, Indiana",1096.0,504.0,504.0,484.0,20.0,0.0,592.0,167,59652,18
+1816773970,"Sugar Creek township, Vigo County, Indiana",5794.0,3536.0,3536.0,3233.0,303.0,0.0,2258.0,167,73970,18
+1816745018,"Lost Creek township, Vigo County, Indiana",8786.0,5786.0,5780.0,5514.0,266.0,6.0,3000.0,167,45018,18
+1816761776,"Prairieton township, Vigo County, Indiana",1099.0,880.0,880.0,745.0,135.0,0.0,219.0,167,61776,18
+1817332188,"Hart township, Warrick County, Indiana",1241.0,787.0,787.0,740.0,47.0,0.0,454.0,173,32188,18
+1817357492,"Owen township, Warrick County, Indiana",403.0,284.0,284.0,275.0,9.0,0.0,119.0,173,57492,18
+1817370002,"Skelton township, Warrick County, Indiana",1522.0,966.0,966.0,913.0,53.0,0.0,556.0,173,70002,18
+181731540,"Anderson township, Warrick County, Indiana",1046.0,636.0,636.0,588.0,48.0,0.0,410.0,173,1540,18
+1817356178,"Ohio township, Warrick County, Indiana",30384.0,20854.0,20854.0,20245.0,609.0,0.0,9530.0,173,56178,18
+181739964,"Campbell township, Warrick County, Indiana",684.0,442.0,442.0,430.0,12.0,0.0,242.0,173,9964,18
+1817342012,"Lane township, Warrick County, Indiana",113.0,47.0,47.0,47.0,0.0,0.0,66.0,173,42012,18
+181736472,"Boon township, Warrick County, Indiana",10402.0,6503.0,6503.0,6247.0,256.0,0.0,3899.0,173,6472,18
+1817359688,"Pigeon township, Warrick County, Indiana",865.0,541.0,541.0,541.0,0.0,0.0,324.0,173,59688,18
+1802336882,"Jackson township, Clinton County, Indiana",957.0,700.0,700.0,690.0,10.0,0.0,257.0,023,36882,18
+1802338628,"Johnson township, Clinton County, Indiana",223.0,179.0,179.0,179.0,0.0,0.0,44.0,023,38628,18
+1802359004,"Perry township, Clinton County, Indiana",966.0,633.0,633.0,593.0,40.0,0.0,333.0,023,59004,18
+1802357456,"Owen township, Clinton County, Indiana",545.0,341.0,341.0,326.0,15.0,0.0,204.0,023,57456,18
+1802311260,"Center township, Clinton County, Indiana",12553.0,7836.0,7830.0,7324.0,506.0,6.0,4717.0,023,11260,18
+1802366078,"Ross township, Clinton County, Indiana",2220.0,1414.0,1414.0,1379.0,35.0,0.0,806.0,023,66078,18
+1813323782,"Floyd township, Putnam County, Indiana",3277.0,2231.0,2231.0,2098.0,133.0,0.0,1046.0,133,23782,18
+1813347034,"Marion township, Putnam County, Indiana",1661.0,1117.0,1117.0,1012.0,105.0,0.0,544.0,133,47034,18
+1813329376,"Greencastle township, Putnam County, Indiana",11071.0,6257.0,6257.0,5993.0,264.0,0.0,4814.0,133,29376,18
+1813338196,"Jefferson township, Putnam County, Indiana",975.0,575.0,575.0,555.0,20.0,0.0,400.0,133,38196,18
+1813380162,"Warren township, Putnam County, Indiana",3384.0,447.0,447.0,436.0,11.0,0.0,2937.0,133,80162,18
+1813325576,"Franklin township, Putnam County, Indiana",1275.0,819.0,819.0,760.0,59.0,0.0,456.0,133,25576,18
+1813313870,"Cloverdale township, Putnam County, Indiana",2919.0,1856.0,1856.0,1723.0,133.0,0.0,1063.0,133,13870,18
+1813350454,"Monroe township, Putnam County, Indiana",1244.0,788.0,785.0,730.0,55.0,3.0,456.0,133,50454,18
+1813313762,"Clinton township, Putnam County, Indiana",1180.0,569.0,569.0,532.0,37.0,0.0,611.0,133,13762,18
+1813337332,"Jackson township, Putnam County, Indiana",622.0,369.0,369.0,346.0,23.0,0.0,253.0,133,37332,18
+1813346080,"Madison township, Putnam County, Indiana",893.0,583.0,583.0,576.0,7.0,0.0,310.0,133,46080,18
+1813366474,"Russell township, Putnam County, Indiana",651.0,357.0,357.0,352.0,5.0,0.0,294.0,133,66474,18
+1813380972,"Washington township, Putnam County, Indiana",1909.0,1192.0,1192.0,1170.0,22.0,0.0,717.0,133,80972,18
+181618542,"Brownsville township, Union County, Indiana",597.0,408.0,408.0,402.0,6.0,0.0,189.0,161,8542,18
+1816131522,"Harmony township, Union County, Indiana",447.0,312.0,312.0,307.0,5.0,0.0,135.0,161,31522,18
+1816143452,"Liberty township, Union County, Indiana",950.0,596.0,596.0,527.0,69.0,0.0,354.0,161,43452,18
+1816111656,"Center township, Union County, Indiana",2159.0,1238.0,1238.0,1190.0,48.0,0.0,921.0,161,11656,18
+1816132008,"Harrison township, Union County, Indiana",369.0,192.0,192.0,192.0,0.0,0.0,177.0,161,32008,18
+1816177678,"Union township, Union County, Indiana",1325.0,823.0,823.0,811.0,12.0,0.0,502.0,161,77678,18
+1817559580,"Pierce township, Washington County, Indiana",2239.0,1234.0,1234.0,1142.0,92.0,0.0,1005.0,175,59580,18
+1817527594,"Gibson township, Washington County, Indiana",1075.0,581.0,570.0,518.0,52.0,11.0,494.0,175,27594,18
+1817561002,"Polk township, Washington County, Indiana",2141.0,1425.0,1425.0,1237.0,188.0,0.0,716.0,175,61002,18
+1817578956,"Vernon township, Washington County, Indiana",299.0,213.0,213.0,202.0,11.0,0.0,86.0,175,78956,18
+1817550508,"Monroe township, Washington County, Indiana",522.0,316.0,316.0,308.0,8.0,0.0,206.0,175,50508,18
+1817561398,"Posey township, Washington County, Indiana",1338.0,831.0,831.0,765.0,66.0,0.0,507.0,175,61398,18
+1817581116,"Washington township, Washington County, Indiana",8138.0,4690.0,4690.0,4383.0,307.0,0.0,3448.0,175,81116,18
+1817537512,"Jackson township, Washington County, Indiana",1316.0,680.0,680.0,657.0,23.0,0.0,636.0,175,37512,18
+1817538268,"Jefferson township, Washington County, Indiana",665.0,355.0,355.0,339.0,16.0,0.0,310.0,175,38268,18
+181758380,"Brown township, Washington County, Indiana",861.0,513.0,513.0,467.0,46.0,0.0,348.0,175,8380,18
+1817534960,"Howard township, Washington County, Indiana",966.0,446.0,446.0,432.0,14.0,0.0,520.0,175,34960,18
+1817546134,"Madison township, Washington County, Indiana",677.0,436.0,436.0,421.0,15.0,0.0,241.0,175,46134,18
+1817525630,"Franklin township, Washington County, Indiana",1727.0,1149.0,1149.0,1081.0,68.0,0.0,578.0,175,25630,18
+1802780522,"Washington township, Daviess County, Indiana",12341.0,7627.0,7623.0,7026.0,597.0,4.0,4714.0,027,80522,18
+1802720962,"Elmore township, Daviess County, Indiana",901.0,531.0,531.0,521.0,10.0,0.0,370.0,027,20962,18
+1802772890,"Steele township, Daviess County, Indiana",740.0,477.0,477.0,468.0,9.0,0.0,263.0,027,72890,18
+1807537152,"Jackson township, Jay County, Indiana",572.0,428.0,428.0,418.0,10.0,0.0,144.0,075,37152,18
+1807529466,"Greene township, Jay County, Indiana",954.0,604.0,604.0,553.0,51.0,0.0,350.0,075,29466,18
+1807559724,"Pike township, Jay County, Indiana",584.0,352.0,352.0,343.0,9.0,0.0,232.0,075,59724,18
+1802731702,"Harrison township, Daviess County, Indiana",539.0,352.0,352.0,352.0,0.0,0.0,187.0,027,31702,18
+1802745936,"Madison township, Daviess County, Indiana",2239.0,1164.0,1164.0,1111.0,53.0,0.0,1075.0,027,45936,18
+1802763702,"Reeve township, Daviess County, Indiana",512.0,418.0,418.0,386.0,32.0,0.0,94.0,027,63702,18
+1802778722,"Veale township, Daviess County, Indiana",815.0,567.0,567.0,538.0,29.0,0.0,248.0,027,78722,18
+180276274,"Bogard township, Daviess County, Indiana",1008.0,487.0,487.0,487.0,0.0,0.0,521.0,027,6274,18
+1802778434,"Van Buren township, Daviess County, Indiana",1678.0,1003.0,1003.0,981.0,22.0,0.0,675.0,027,78434,18
+180273484,"Barr township, Daviess County, Indiana",3440.0,2390.0,2390.0,2330.0,60.0,0.0,1050.0,027,3484,18
+1802934222,"Hogan township, Dearborn County, Indiana",928.0,666.0,666.0,611.0,55.0,0.0,262.0,029,34222,18
+1802939330,"Kelso township, Dearborn County, Indiana",1760.0,1181.0,1181.0,1147.0,34.0,0.0,579.0,029,39330,18
+1802942480,"Lawrenceburg township, Dearborn County, Indiana",8888.0,5530.0,5530.0,5237.0,293.0,0.0,3358.0,029,42480,18
+1802980540,"Washington township, Dearborn County, Indiana",1146.0,584.0,563.0,444.0,119.0,21.0,562.0,029,80540,18
+180299730,"Caesar Creek township, Dearborn County, Indiana",277.0,204.0,204.0,188.0,16.0,0.0,73.0,029,9730,18
+1802913024,"Clay township, Dearborn County, Indiana",2300.0,1477.0,1477.0,1390.0,87.0,0.0,823.0,029,13024,18
+1802936900,"Jackson township, Dearborn County, Indiana",1357.0,943.0,943.0,943.0,0.0,0.0,414.0,029,36900,18
+1802949464,"Miller township, Dearborn County, Indiana",7431.0,4991.0,4991.0,4728.0,263.0,0.0,2440.0,029,49464,18
+1802985958,"York township, Dearborn County, Indiana",811.0,485.0,485.0,459.0,26.0,0.0,326.0,029,85958,18
+1802971738,"Sparta township, Dearborn County, Indiana",2216.0,1479.0,1479.0,1345.0,134.0,0.0,737.0,029,71738,18
+1802911278,"Center township, Dearborn County, Indiana",4086.0,2769.0,2759.0,2483.0,276.0,10.0,1317.0,029,11278,18
+1802944604,"Logan township, Dearborn County, Indiana",2723.0,1951.0,1951.0,1803.0,148.0,0.0,772.0,029,44604,18
+1802946368,"Manchester township, Dearborn County, Indiana",2826.0,2047.0,2047.0,2025.0,22.0,0.0,779.0,029,46368,18
+1802931720,"Harrison township, Dearborn County, Indiana",2703.0,1835.0,1835.0,1794.0,41.0,0.0,868.0,029,31720,18
+1806537998,"Jefferson township, Henry County, Indiana",1126.0,628.0,628.0,594.0,34.0,0.0,498.0,065,37998,18
+1806522630,"Fall Creek township, Henry County, Indiana",3710.0,2430.0,2430.0,2320.0,110.0,0.0,1280.0,065,22630,18
+1806518838,"Dudley township, Henry County, Indiana",741.0,532.0,532.0,505.0,27.0,0.0,209.0,065,18838,18
+1806573472,"Stoney Creek township, Henry County, Indiana",766.0,386.0,386.0,371.0,15.0,0.0,380.0,065,73472,18
+1806561560,"Prairie township, Henry County, Indiana",5392.0,1583.0,1583.0,1504.0,79.0,0.0,3809.0,065,61560,18
+1806581728,"Wayne township, Henry County, Indiana",3209.0,2063.0,2063.0,1913.0,150.0,0.0,1146.0,065,81728,18
+1806529700,"Greensboro township, Henry County, Indiana",1308.0,647.0,647.0,576.0,71.0,0.0,661.0,065,29700,18
+180656076,"Blue River township, Henry County, Indiana",830.0,480.0,480.0,466.0,14.0,0.0,350.0,065,6076,18
+1806525432,"Franklin township, Henry County, Indiana",786.0,394.0,394.0,386.0,8.0,0.0,392.0,065,25432,18
+1806543308,"Liberty township, Henry County, Indiana",1171.0,787.0,774.0,704.0,70.0,13.0,384.0,065,43308,18
+1812377534,"Union township, Perry County, Indiana",478.0,214.0,214.0,196.0,18.0,0.0,264.0,123,77534,18
+1812312808,"Clark township, Perry County, Indiana",1009.0,594.0,594.0,584.0,10.0,0.0,415.0,123,12808,18
+1812342894,"Leopold township, Perry County, Indiana",618.0,449.0,449.0,440.0,9.0,0.0,169.0,123,42894,18
+1812376040,"Tobin township, Perry County, Indiana",570.0,274.0,274.0,270.0,4.0,0.0,296.0,123,76040,18
+181231504,"Anderson township, Perry County, Indiana",1300.0,934.0,934.0,934.0,0.0,0.0,366.0,123,1504,18
+1812356214,"Oil township, Perry County, Indiana",2260.0,536.0,536.0,508.0,28.0,0.0,1724.0,123,56214,18
+1812546062,"Madison township, Pike County, Indiana",512.0,315.0,303.0,291.0,12.0,12.0,197.0,125,46062,18
+1812558356,"Patoka township, Pike County, Indiana",2238.0,1428.0,1428.0,1339.0,89.0,0.0,810.0,125,58356,18
+1812544640,"Logan township, Pike County, Indiana",401.0,272.0,272.0,262.0,10.0,0.0,129.0,125,44640,18
+1812580936,"Washington township, Pike County, Indiana",3507.0,2098.0,2098.0,2010.0,88.0,0.0,1409.0,125,80936,18
+1812513204,"Clay township, Pike County, Indiana",192.0,47.0,47.0,47.0,0.0,0.0,145.0,125,13204,18
+1812547016,"Marion township, Pike County, Indiana",471.0,298.0,298.0,277.0,21.0,0.0,173.0,125,47016,18
+1812550418,"Monroe township, Pike County, Indiana",559.0,368.0,368.0,356.0,12.0,0.0,191.0,125,50418,18
+1812538160,"Jefferson township, Pike County, Indiana",1535.0,933.0,933.0,933.0,0.0,0.0,602.0,125,38160,18
+1812544532,"Lockhart township, Pike County, Indiana",586.0,407.0,407.0,407.0,0.0,0.0,179.0,125,44532,18
+1813125558,"Franklin township, Pulaski County, Indiana",466.0,226.0,226.0,216.0,10.0,0.0,240.0,131,25558,18
+1813131972,"Harrison township, Pulaski County, Indiana",445.0,243.0,243.0,215.0,28.0,0.0,202.0,131,31972,18
+181313988,"Beaver township, Pulaski County, Indiana",366.0,234.0,234.0,234.0,0.0,0.0,132.0,131,3988,18
+1813138178,"Jefferson township, Pulaski County, Indiana",437.0,210.0,210.0,197.0,13.0,0.0,227.0,131,38178,18
+1813167392,"Salem township, Pulaski County, Indiana",1301.0,822.0,822.0,771.0,51.0,0.0,479.0,131,67392,18
+1813183852,"White Post township, Pulaski County, Indiana",671.0,345.0,345.0,289.0,56.0,0.0,326.0,131,83852,18
+1813175896,"Tippecanoe township, Pulaski County, Indiana",862.0,492.0,492.0,452.0,40.0,0.0,370.0,131,75896,18
+1813110756,"Cass township, Pulaski County, Indiana",600.0,400.0,400.0,317.0,83.0,0.0,200.0,131,10756,18
+1813150436,"Monroe township, Pulaski County, Indiana",3169.0,1784.0,1784.0,1697.0,87.0,0.0,1385.0,131,50436,18
+1813178560,"Van Buren township, Pulaski County, Indiana",783.0,594.0,594.0,575.0,19.0,0.0,189.0,131,78560,18
+1813163972,"Rich Grove township, Pulaski County, Indiana",669.0,430.0,430.0,397.0,33.0,0.0,239.0,131,63972,18
+1813136090,"Indian Creek township, Pulaski County, Indiana",466.0,294.0,294.0,294.0,0.0,0.0,172.0,131,36090,18
+181295428,"Black township, Posey County, Indiana",7721.0,4479.0,4479.0,4233.0,246.0,0.0,3242.0,129,5428,18
+1812945450,"Lynn township, Posey County, Indiana",816.0,587.0,587.0,579.0,8.0,0.0,229.0,129,45450,18
+181295014,"Bethel township, Posey County, Indiana",187.0,90.0,90.0,82.0,8.0,0.0,97.0,129,5014,18
+1812911584,"Center township, Posey County, Indiana",1141.0,716.0,716.0,716.0,0.0,0.0,425.0,129,11584,18
+1812965052,"Robb township, Posey County, Indiana",1641.0,942.0,942.0,889.0,53.0,0.0,699.0,129,65052,18
+1812931504,"Harmony township, Posey County, Indiana",1080.0,596.0,596.0,575.0,21.0,0.0,484.0,129,31504,18
+1812970164,"Smith township, Posey County, Indiana",791.0,555.0,555.0,512.0,43.0,0.0,236.0,129,70164,18
+1812947250,"Marrs township, Posey County, Indiana",4052.0,2703.0,2703.0,2690.0,13.0,0.0,1349.0,129,47250,18
+1812965124,"Robinson township, Posey County, Indiana",2996.0,2082.0,2082.0,2029.0,53.0,0.0,914.0,129,65124,18
+1812960858,"Point township, Posey County, Indiana",200.0,149.0,149.0,149.0,0.0,0.0,51.0,129,60858,18
+1815137746,"Jamestown township, Steuben County, Indiana",2740.0,1699.0,1699.0,1655.0,44.0,0.0,1041.0,151,37746,18
+1815149644,"Millgrove township, Steuben County, Indiana",1467.0,924.0,924.0,865.0,59.0,0.0,543.0,151,49644,18
+1815157240,"Otsego township, Steuben County, Indiana",2189.0,1450.0,1450.0,1376.0,74.0,0.0,739.0,151,57240,18
+1815125891,"Fremont township, Steuben County, Indiana",2557.0,1805.0,1805.0,1712.0,93.0,0.0,752.0,151,25891,18
+1815167428,"Salem township, Steuben County, Indiana",1788.0,1118.0,1118.0,1075.0,43.0,0.0,670.0,151,67428,18
+1815168454,"Scott township, Steuben County, Indiana",1031.0,736.0,736.0,726.0,10.0,0.0,295.0,151,68454,18
+1815160444,"Pleasant township, Steuben County, Indiana",11112.0,6953.0,6944.0,6527.0,417.0,9.0,4159.0,151,60444,18
+1815186030,"York township, Steuben County, Indiana",605.0,348.0,348.0,309.0,39.0,0.0,257.0,151,86030,18
+1815113447,"Clear Lake township, Steuben County, Indiana",831.0,473.0,473.0,467.0,6.0,0.0,358.0,151,13447,18
+1815137458,"Jackson township, Steuben County, Indiana",1380.0,827.0,827.0,806.0,21.0,0.0,553.0,151,37458,18
+1815173070,"Steuben township, Steuben County, Indiana",2127.0,1448.0,1448.0,1403.0,45.0,0.0,679.0,151,73070,18
+1815164224,"Richland township, Steuben County, Indiana",362.0,265.0,265.0,233.0,32.0,0.0,97.0,151,64224,18
+1807581764,"Wayne township, Jay County, Indiana",6218.0,3599.0,3599.0,3338.0,261.0,0.0,2619.0,075,81764,18
+1807538034,"Jefferson township, Jay County, Indiana",464.0,330.0,330.0,317.0,13.0,0.0,134.0,075,38034,18
+1807545972,"Madison township, Jay County, Indiana",642.0,456.0,456.0,431.0,25.0,0.0,186.0,075,45972,18
+1807564098,"Richland township, Jay County, Indiana",3536.0,1983.0,1983.0,1811.0,172.0,0.0,1553.0,075,64098,18
+180753844,"Bearcreek township, Jay County, Indiana",1004.0,703.0,703.0,670.0,33.0,0.0,301.0,075,3844,18
+1810111548,"Center township, Martin County, Indiana",1198.0,641.0,641.0,636.0,5.0,0.0,557.0,101,11548,18
+1810159076,"Perry township, Martin County, Indiana",3956.0,2728.0,2618.0,2509.0,109.0,110.0,1228.0,101,59076,18
+1810149995,"Mitcheltree township, Martin County, Indiana",413.0,247.0,247.0,233.0,14.0,0.0,166.0,101,49995,18
+1810130420,"Halbert township, Martin County, Indiana",1430.0,836.0,836.0,801.0,35.0,0.0,594.0,101,30420,18
+1810166582,"Rutherford township, Martin County, Indiana",653.0,391.0,391.0,359.0,32.0,0.0,262.0,101,66582,18
+1810145036,"Lost River township, Martin County, Indiana",526.0,283.0,283.0,266.0,17.0,0.0,243.0,101,45036,18
+1812760426,"Pleasant township, Porter County, Indiana",3528.0,2146.0,2146.0,2072.0,74.0,0.0,1382.0,127,60426,18
+1812777570,"Union township, Porter County, Indiana",7219.0,4460.0,4460.0,4186.0,274.0,0.0,2759.0,127,77570,18
+1812737314,"Jackson township, Porter County, Indiana",4565.0,2891.0,2891.0,2768.0,123.0,0.0,1674.0,127,37314,18
+1812780954,"Washington township, Porter County, Indiana",3893.0,2248.0,2232.0,2157.0,75.0,16.0,1645.0,127,80954,18
+1812711566,"Center township, Porter County, Indiana",35987.0,22574.0,22574.0,21241.0,1333.0,0.0,13413.0,127,11566,18
+181270,"County subdivisions not defined, Porter County, Indiana",0.0,0.0,0.0,0.0,0.0,0.0,0.0,127,0,18
+181276580,"Boone township, Porter County, Indiana",4686.0,2980.0,2980.0,2803.0,177.0,0.0,1706.0,127,6580,18
+1812743362,"Liberty township, Porter County, Indiana",7517.0,4823.0,4823.0,4619.0,204.0,0.0,2694.0,127,43362,18
+1812761110,"Portage township, Porter County, Indiana",37768.0,23608.0,23602.0,22069.0,1533.0,6.0,14160.0,127,61110,18
+1812761182,"Porter township, Porter County, Indiana",7792.0,4757.0,4757.0,4494.0,263.0,0.0,3035.0,127,61182,18
+1812782484,"Westchester township, Porter County, Indiana",15892.0,10853.0,10834.0,10153.0,681.0,19.0,5039.0,127,82484,18
+1812751066,"Morgan township, Porter County, Indiana",3079.0,1901.0,1901.0,1834.0,67.0,0.0,1178.0,127,51066,18
+1812759922,"Pine township, Porter County, Indiana",2337.0,1179.0,1179.0,1140.0,39.0,0.0,1158.0,127,59922,18
+1814537404,"Jackson township, Shelby County, Indiana",1474.0,937.0,931.0,907.0,24.0,6.0,537.0,145,37404,18
+1814543398,"Liberty township, Shelby County, Indiana",1158.0,718.0,708.0,696.0,12.0,10.0,440.0,145,43398,18
+1814550994,"Moral township, Shelby County, Indiana",3818.0,2337.0,2337.0,2262.0,75.0,0.0,1481.0,145,50994,18
+18145568,"Addison township, Shelby County, Indiana",15896.0,10535.0,10535.0,10023.0,512.0,0.0,5361.0,145,568,18
+1814577642,"Union township, Shelby County, Indiana",885.0,656.0,656.0,619.0,37.0,0.0,229.0,145,77642,18
+1814578578,"Van Buren township, Shelby County, Indiana",1296.0,1024.0,1024.0,958.0,66.0,0.0,272.0,145,78578,18
+181457102,"Brandywine township, Shelby County, Indiana",1514.0,873.0,873.0,824.0,49.0,0.0,641.0,145,7102,18
+1814547052,"Marion township, Shelby County, Indiana",1475.0,899.0,899.0,859.0,40.0,0.0,576.0,145,47052,18
+1814569282,"Shelby township, Shelby County, Indiana",1610.0,1135.0,1135.0,1077.0,58.0,0.0,475.0,145,69282,18
+1814533070,"Hendricks township, Shelby County, Indiana",976.0,549.0,549.0,535.0,14.0,0.0,427.0,145,33070,18
+1806572026,"Spiceland township, Henry County, Indiana",2047.0,1325.0,1325.0,1231.0,94.0,0.0,722.0,065,72026,18
+1806533124,"Henry township, Henry County, Indiana",17762.0,9582.0,9582.0,8750.0,832.0,0.0,8180.0,065,33124,18
+1806531828,"Harrison township, Henry County, Indiana",1064.0,743.0,733.0,724.0,9.0,10.0,321.0,065,31828,18
+180839514,"Busseron township, Knox County, Indiana",1148.0,773.0,773.0,741.0,32.0,0.0,375.0,083,9514,18
+1808317128,"Decker township, Knox County, Indiana",104.0,71.0,71.0,71.0,0.0,0.0,33.0,083,17128,18
+1808384158,"Widner township, Knox County, Indiana",939.0,528.0,528.0,517.0,11.0,0.0,411.0,083,84158,18
+1808380738,"Washington township, Knox County, Indiana",1761.0,1102.0,1102.0,1072.0,30.0,0.0,659.0,083,80738,18
+1808338700,"Johnson township, Knox County, Indiana",1255.0,843.0,843.0,830.0,13.0,0.0,412.0,083,38700,18
+1808331864,"Harrison township, Knox County, Indiana",1624.0,1206.0,1206.0,1187.0,19.0,0.0,418.0,083,31864,18
+1808372908,"Steen township, Knox County, Indiana",565.0,374.0,374.0,348.0,26.0,0.0,191.0,083,72908,18
+1808379217,"Vincennes township, Knox County, Indiana",19337.0,11781.0,11781.0,11016.0,765.0,0.0,7556.0,083,79217,18
+1808357744,"Palmyra township, Knox County, Indiana",1025.0,734.0,734.0,734.0,0.0,0.0,291.0,083,57744,18
+1808379118,"Vigo township, Knox County, Indiana",3045.0,1983.0,1983.0,1822.0,161.0,0.0,1062.0,083,79118,18
+1809347304,"Marshall township, Lawrence County, Indiana",3671.0,2451.0,2451.0,2305.0,146.0,0.0,1220.0,093,47304,18
+1809330258,"Guthrie township, Lawrence County, Indiana",939.0,591.0,591.0,554.0,37.0,0.0,348.0,093,30258,18
+1809346980,"Marion township, Lawrence County, Indiana",7460.0,4418.0,4400.0,4108.0,292.0,18.0,3042.0,093,46980,18
+1809372044,"Spice Valley township, Lawrence County, Indiana",2463.0,1567.0,1567.0,1481.0,86.0,0.0,896.0,093,72044,18
+1809336054,"Indian Creek township, Lawrence County, Indiana",2073.0,1164.0,1164.0,1091.0,73.0,0.0,909.0,093,36054,18
+1809359040,"Perry township, Lawrence County, Indiana",1817.0,1241.0,1241.0,1189.0,52.0,0.0,576.0,093,59040,18
+1809369102,"Shawswick township, Lawrence County, Indiana",16406.0,9378.0,9378.0,8956.0,422.0,0.0,7028.0,093,69102,18
+180936436,"Bono township, Lawrence County, Indiana",636.0,318.0,318.0,318.0,0.0,0.0,318.0,093,6436,18
+1809360624,"Pleasant Run township, Lawrence County, Indiana",1292.0,592.0,592.0,575.0,17.0,0.0,700.0,093,60624,18
+1809550382,"Monroe township, Madison County, Indiana",6880.0,4116.0,4115.0,3803.0,312.0,1.0,2764.0,095,50382,18
+1809518820,"Duck Creek township, Madison County, Indiana",515.0,230.0,230.0,201.0,29.0,0.0,285.0,095,18820,18
+1809522648,"Fall Creek township, Madison County, Indiana",11998.0,5652.0,5652.0,5360.0,292.0,0.0,6346.0,095,22648,18
+1809540752,"Lafayette township, Madison County, Indiana",4363.0,2773.0,2770.0,2565.0,205.0,3.0,1590.0,095,40752,18
+1809577426,"Union township, Madison County, Indiana",7506.0,4414.0,4414.0,4201.0,213.0,0.0,3092.0,095,77426,18
+180951486,"Anderson township, Madison County, Indiana",44383.0,24877.0,24854.0,22636.0,2218.0,23.0,19506.0,095,1486,18
+1809560156,"Pipe Creek township, Madison County, Indiana",10061.0,5795.0,5795.0,5422.0,373.0,0.0,4266.0,095,60156,18
+1809564116,"Richland township, Madison County, Indiana",3997.0,2306.0,2306.0,2214.0,92.0,0.0,1691.0,095,64116,18
+1809578524,"Van Buren township, Madison County, Indiana",1450.0,875.0,875.0,824.0,51.0,0.0,575.0,095,78524,18
+1809529160,"Green township, Madison County, Indiana",5283.0,3744.0,3728.0,3624.0,104.0,16.0,1539.0,095,29160,18
+180956562,"Boone township, Madison County, Indiana",398.0,268.0,268.0,249.0,19.0,0.0,130.0,095,6562,18
+1809537188,"Jackson township, Madison County, Indiana",1538.0,1004.0,1004.0,974.0,30.0,0.0,534.0,095,37188,18
+1809573556,"Stony Creek township, Madison County, Indiana",3000.0,1962.0,1962.0,1866.0,96.0,0.0,1038.0,095,73556,18
+18095406,"Adams township, Madison County, Indiana",3065.0,1950.0,1938.0,1880.0,58.0,12.0,1115.0,095,406,18
+1812376652,"Troy township, Perry County, Indiana",9327.0,5528.0,5528.0,5267.0,261.0,0.0,3799.0,123,76652,18
+1804549392,"Millcreek township, Fountain County, Indiana",1156.0,590.0,590.0,525.0,65.0,0.0,566.0,045,49392,18
+1804578452,"Van Buren township, Fountain County, Indiana",2288.0,1310.0,1310.0,1242.0,68.0,0.0,978.0,045,78452,18
+1804516912,"Davis township, Fountain County, Indiana",566.0,403.0,403.0,390.0,13.0,0.0,163.0,045,16912,18
+1804544622,"Logan township, Fountain County, Indiana",2883.0,1698.0,1698.0,1582.0,116.0,0.0,1185.0,045,44622,18
+1804564026,"Richland township, Fountain County, Indiana",726.0,464.0,464.0,437.0,27.0,0.0,262.0,045,64026,18
+1804576616,"Troy township, Fountain County, Indiana",2925.0,1643.0,1643.0,1535.0,108.0,0.0,1282.0,045,76616,18
+180459748,"Cain township, Fountain County, Indiana",842.0,540.0,540.0,511.0,29.0,0.0,302.0,045,9748,18
+1805114662,"Columbia township, Gibson County, Indiana",3235.0,1845.0,1845.0,1753.0,92.0,0.0,1390.0,051,14662,18
+1805179298,"Wabash township, Gibson County, Indiana",0.0,0.0,0.0,0.0,0.0,0.0,0.0,051,79298,18
+1805180612,"Washington township, Gibson County, Indiana",483.0,252.0,252.0,233.0,19.0,0.0,231.0,051,80612,18
+1805183888,"White River township, Gibson County, Indiana",1674.0,1125.0,1125.0,1089.0,36.0,0.0,549.0,051,83888,18
+1805138682,"Johnson township, Gibson County, Indiana",3079.0,2115.0,2111.0,2039.0,72.0,4.0,964.0,051,38682,18
+1811114302,"Colfax township, Newton County, Indiana",152.0,107.0,107.0,107.0,0.0,0.0,45.0,111,14302,18
+1811138106,"Jefferson township, Newton County, Indiana",1775.0,1120.0,1120.0,1046.0,74.0,0.0,655.0,111,38106,18
+1811145594,"McClellan township, Newton County, Indiana",221.0,169.0,169.0,169.0,0.0,0.0,52.0,111,45594,18
+1811128872,"Grant township, Newton County, Indiana",945.0,601.0,601.0,560.0,41.0,0.0,344.0,111,28872,18
+1811180864,"Washington township, Newton County, Indiana",263.0,158.0,158.0,153.0,5.0,0.0,105.0,111,80864,18
+1811136522,"Iroquois township, Newton County, Indiana",1028.0,587.0,587.0,544.0,43.0,0.0,441.0,111,36522,18
+1811137242,"Jackson township, Newton County, Indiana",361.0,224.0,224.0,219.0,5.0,0.0,137.0,111,37242,18
+1811140968,"Lake township, Newton County, Indiana",1912.0,1208.0,1208.0,1162.0,46.0,0.0,704.0,111,40968,18
+1811143830,"Lincoln township, Newton County, Indiana",3508.0,1988.0,1988.0,1788.0,200.0,0.0,1520.0,111,43830,18
+181113970,"Beaver township, Newton County, Indiana",1250.0,631.0,629.0,563.0,66.0,2.0,619.0,111,3970,18
+1811772548,"Stampers Creek township, Orange County, Indiana",509.0,274.0,274.0,274.0,0.0,0.0,235.0,117,72548,18
+1811737260,"Jackson township, Orange County, Indiana",739.0,456.0,456.0,434.0,22.0,0.0,283.0,117,37260,18
+1811754648,"Northeast township, Orange County, Indiana",454.0,295.0,295.0,295.0,0.0,0.0,159.0,117,54648,18
+1811725990,"French Lick township, Orange County, Indiana",3646.0,2137.0,2137.0,2045.0,92.0,0.0,1509.0,117,25990,18
+1811729556,"Greenfield township, Orange County, Indiana",537.0,324.0,324.0,293.0,31.0,0.0,213.0,117,29556,18
+1811757798,"Paoli township, Orange County, Indiana",4761.0,2752.0,2752.0,2649.0,103.0,0.0,2009.0,117,57798,18
+1811755152,"Northwest township, Orange County, Indiana",283.0,44.0,44.0,44.0,0.0,0.0,239.0,117,55152,18
+1811756826,"Orangeville township, Orange County, Indiana",729.0,364.0,364.0,352.0,12.0,0.0,365.0,117,56826,18
+1811757042,"Orleans township, Orange County, Indiana",2641.0,1586.0,1586.0,1478.0,108.0,0.0,1055.0,117,57042,18
+1811771090,"Southeast township, Orange County, Indiana",1275.0,612.0,612.0,574.0,38.0,0.0,663.0,117,71090,18
+1814156556,"Olive township, St. Joseph County, Indiana",3809.0,2377.0,2377.0,2279.0,98.0,0.0,1432.0,141,56556,18
+1814127468,"German township, St. Joseph County, Indiana",7507.0,5096.0,5086.0,4799.0,287.0,10.0,2411.0,141,27468,18
+1814180180,"Warren township, St. Joseph County, Indiana",6180.0,3909.0,3899.0,3820.0,79.0,10.0,2271.0,141,80180,18
+1814113222,"Clay township, St. Joseph County, Indiana",27623.0,16235.0,16228.0,15480.0,748.0,7.0,11388.0,141,13222,18
+1814131558,"Harris township, St. Joseph County, Indiana",17785.0,12200.0,12174.0,11770.0,404.0,26.0,5585.0,141,31558,18
+1814158734,"Penn township, St. Joseph County, Indiana",52886.0,34800.0,34740.0,32826.0,1914.0,60.0,18086.0,141,58734,18
+1814161128,"Portage township, St. Joseph County, Indiana",71243.0,44590.0,44568.0,40188.0,4380.0,22.0,26653.0,141,61128,18
+1814177624,"Union township, St. Joseph County, Indiana",3080.0,1878.0,1878.0,1810.0,68.0,0.0,1202.0,141,77624,18
+1814111890,"Centre township, St. Joseph County, Indiana",11812.0,7301.0,7295.0,6908.0,387.0,6.0,4511.0,141,11890,18
+1814129502,"Greene township, St. Joseph County, Indiana",2576.0,1644.0,1644.0,1612.0,32.0,0.0,932.0,141,29502,18
+1814143380,"Liberty township, St. Joseph County, Indiana",2903.0,1775.0,1749.0,1703.0,46.0,26.0,1128.0,141,43380,18
+1814143848,"Lincoln township, St. Joseph County, Indiana",2400.0,1632.0,1632.0,1494.0,138.0,0.0,768.0,141,43848,18
+1804526134,"Fulton township, Fountain County, Indiana",548.0,268.0,268.0,253.0,15.0,0.0,280.0,045,26134,18
+1804569084,"Shawnee township, Fountain County, Indiana",414.0,318.0,318.0,298.0,20.0,0.0,96.0,045,69084,18
+1804537008,"Jackson township, Fountain County, Indiana",465.0,297.0,297.0,271.0,26.0,0.0,168.0,045,37008,18
+1804579280,"Wabash township, Fountain County, Indiana",479.0,304.0,297.0,291.0,6.0,7.0,175.0,045,79280,18
+1803931774,"Harrison township, Elkhart County, Indiana",2334.0,1656.0,1656.0,1560.0,96.0,0.0,678.0,039,31774,18
+180393754,"Baugo township, Elkhart County, Indiana",7498.0,4984.0,4984.0,4735.0,249.0,0.0,2514.0,039,3754,18
+180394798,"Benton township, Elkhart County, Indiana",2103.0,1502.0,1502.0,1382.0,120.0,0.0,601.0,039,4798,18
+1803914842,"Concord township, Elkhart County, Indiana",41637.0,26535.0,26535.0,24234.0,2301.0,0.0,15102.0,039,14842,18
+1803977264,"Union township, Elkhart County, Indiana",4598.0,2880.0,2880.0,2807.0,73.0,0.0,1718.0,039,77264,18
+1803913528,"Cleveland township, Elkhart County, Indiana",8645.0,5702.0,5702.0,5536.0,166.0,0.0,2943.0,039,13528,18
+1803948942,"Middlebury township, Elkhart County, Indiana",6306.0,4191.0,4191.0,4141.0,50.0,0.0,2115.0,039,48942,18
+1803936972,"Jackson township, Elkhart County, Indiana",3240.0,2343.0,2343.0,2297.0,46.0,0.0,897.0,039,36972,18
+1803913726,"Clinton township, Elkhart County, Indiana",3142.0,2338.0,2338.0,2309.0,29.0,0.0,804.0,039,13726,18
+1803957150,"Osolo township, Elkhart County, Indiana",23333.0,15257.0,15257.0,14520.0,737.0,0.0,8076.0,039,57150,18
+1803920746,"Elkhart township, Elkhart County, Indiana",28396.0,18398.0,18398.0,17330.0,1068.0,0.0,9998.0,039,20746,18
+1803944514,"Locke township, Elkhart County, Indiana",2941.0,2079.0,2079.0,2024.0,55.0,0.0,862.0,039,44514,18
+1803956520,"Olive township, Elkhart County, Indiana",2571.0,1677.0,1677.0,1624.0,53.0,0.0,894.0,039,56520,18
+1803985976,"York township, Elkhart County, Indiana",2971.0,2010.0,2010.0,1906.0,104.0,0.0,961.0,039,85976,18
+1803937944,"Jefferson township, Elkhart County, Indiana",7204.0,4847.0,4847.0,4659.0,188.0,0.0,2357.0,039,37944,18
+1803980594,"Washington township, Elkhart County, Indiana",5415.0,3742.0,3742.0,3452.0,290.0,0.0,1673.0,039,80594,18
+1814916948,"Davis township, Starke County, Indiana",868.0,626.0,626.0,595.0,31.0,0.0,242.0,149,16948,18
+1814911638,"Center township, Starke County, Indiana",4982.0,2711.0,2711.0,2485.0,226.0,0.0,2271.0,149,11638,18
+1814937440,"Jackson township, Starke County, Indiana",295.0,176.0,176.0,166.0,10.0,0.0,119.0,149,37440,18
+1814956916,"Oregon township, Starke County, Indiana",2847.0,1688.0,1688.0,1595.0,93.0,0.0,1159.0,149,56916,18
+1814962748,"Railroad township, Starke County, Indiana",882.0,492.0,492.0,477.0,15.0,0.0,390.0,149,62748,18
+1814981062,"Washington township, Starke County, Indiana",2128.0,1437.0,1437.0,1281.0,156.0,0.0,691.0,149,81062,18
+181499802,"California township, Starke County, Indiana",1664.0,920.0,920.0,878.0,42.0,0.0,744.0,149,9802,18
+1814954504,"North Bend township, Starke County, Indiana",1149.0,621.0,610.0,541.0,69.0,11.0,528.0,149,54504,18
+1814981908,"Wayne township, Starke County, Indiana",3482.0,1864.0,1864.0,1711.0,153.0,0.0,1618.0,149,81908,18
+1802573016,"Sterling township, Crawford County, Indiana",1432.0,628.0,628.0,594.0,34.0,0.0,804.0,025,73016,18
+1802538394,"Jennings township, Crawford County, Indiana",1173.0,553.0,553.0,522.0,31.0,0.0,620.0,025,38394,18
+1802538646,"Johnson township, Crawford County, Indiana",343.0,179.0,179.0,179.0,0.0,0.0,164.0,025,38646,18
+180256508,"Boone township, Crawford County, Indiana",192.0,137.0,137.0,137.0,0.0,0.0,55.0,025,6508,18
+1802556142,"Ohio township, Crawford County, Indiana",552.0,171.0,171.0,163.0,8.0,0.0,381.0,025,56142,18
+1802577210,"Union township, Crawford County, Indiana",398.0,206.0,206.0,192.0,14.0,0.0,192.0,025,77210,18
+1802558284,"Patoka township, Crawford County, Indiana",1371.0,751.0,751.0,734.0,17.0,0.0,620.0,025,58284,18
+1802583690,"Whiskey Run township, Crawford County, Indiana",1493.0,895.0,888.0,853.0,35.0,7.0,598.0,025,83690,18
+1814146098,"Madison township, St. Joseph County, Indiana",1554.0,1013.0,1008.0,956.0,52.0,5.0,541.0,141,46098,18
+1808540950,"Lake township, Kosciusko County, Indiana",1364.0,866.0,866.0,816.0,50.0,0.0,498.0,085,40950,18
+1808578488,"Van Buren township, Kosciusko County, Indiana",3353.0,2072.0,2072.0,1991.0,81.0,0.0,1281.0,085,78488,18
+1808568400,"Scott township, Kosciusko County, Indiana",1185.0,836.0,836.0,836.0,0.0,0.0,349.0,085,68400,18
+1808568796,"Seward township, Kosciusko County, Indiana",2088.0,1303.0,1303.0,1279.0,24.0,0.0,785.0,085,68796,18
+1808513114,"Clay township, Kosciusko County, Indiana",1303.0,798.0,798.0,743.0,55.0,0.0,505.0,085,13114,18
+1808521466,"Etna township, Kosciusko County, Indiana",938.0,579.0,579.0,550.0,29.0,0.0,359.0,085,21466,18
+1808525486,"Franklin township, Kosciusko County, Indiana",883.0,613.0,613.0,596.0,17.0,0.0,270.0,085,25486,18
+1808561578,"Prairie township, Kosciusko County, Indiana",1625.0,1010.0,1010.0,983.0,27.0,0.0,615.0,085,61578,18
+1808575842,"Tippecanoe township, Kosciusko County, Indiana",5516.0,3089.0,3089.0,3008.0,81.0,0.0,2427.0,085,75842,18
+1808580756,"Washington township, Kosciusko County, Indiana",2386.0,1389.0,1389.0,1245.0,144.0,0.0,997.0,085,80756,18
+1808531882,"Harrison township, Kosciusko County, Indiana",2843.0,1781.0,1781.0,1657.0,124.0,0.0,1062.0,085,31882,18
+1808538052,"Jefferson township, Kosciusko County, Indiana",1058.0,681.0,681.0,656.0,25.0,0.0,377.0,085,38052,18
+1808537170,"Jackson township, Kosciusko County, Indiana",1052.0,657.0,657.0,656.0,1.0,0.0,395.0,085,37170,18
+1808550364,"Monroe township, Kosciusko County, Indiana",938.0,722.0,722.0,712.0,10.0,0.0,216.0,085,50364,18
+1808560228,"Plain township, Kosciusko County, Indiana",6049.0,4259.0,4259.0,4089.0,170.0,0.0,1790.0,085,60228,18
+1808581782,"Wayne township, Kosciusko County, Indiana",22593.0,15033.0,15033.0,14268.0,765.0,0.0,7560.0,085,81782,18
+1808576760,"Turkey Creek township, Kosciusko County, Indiana",6475.0,4424.0,4424.0,4180.0,244.0,0.0,2051.0,085,76760,18
+1809929178,"Green township, Marshall County, Indiana",678.0,401.0,401.0,401.0,0.0,0.0,277.0,099,29178,18
+1809979820,"Walnut township, Marshall County, Indiana",2058.0,1426.0,1426.0,1303.0,123.0,0.0,632.0,099,79820,18
+180996778,"Bourbon township, Marshall County, Indiana",2409.0,1505.0,1505.0,1456.0,49.0,0.0,904.0,099,6778,18
+1809977444,"Union township, Marshall County, Indiana",2611.0,1520.0,1520.0,1340.0,180.0,0.0,1091.0,099,77444,18
+1809960966,"Polk township, Marshall County, Indiana",2328.0,1537.0,1537.0,1438.0,99.0,0.0,791.0,099,60966,18
+1809982304,"West township, Marshall County, Indiana",3295.0,2114.0,2114.0,2027.0,87.0,0.0,1181.0,099,82304,18
+1809954432,"North township, Marshall County, Indiana",3382.0,2154.0,2154.0,1987.0,167.0,0.0,1228.0,099,54432,18
+1809927450,"German township, Marshall County, Indiana",6402.0,4163.0,4163.0,3843.0,320.0,0.0,2239.0,099,27450,18
+1809911530,"Center township, Marshall County, Indiana",11965.0,7374.0,7361.0,6838.0,523.0,13.0,4591.0,099,11530,18
+1809975878,"Tippecanoe township, Marshall County, Indiana",1036.0,720.0,720.0,720.0,0.0,0.0,316.0,099,75878,18
+1815560480,"Pleasant township, Switzerland County, Indiana",928.0,507.0,507.0,507.0,0.0,0.0,421.0,155,60480,18
+1815586048,"York township, Switzerland County, Indiana",842.0,505.0,505.0,481.0,24.0,0.0,337.0,155,86048,18
+1815515580,"Craig township, Switzerland County, Indiana",965.0,627.0,627.0,545.0,82.0,0.0,338.0,155,15580,18
+1815561380,"Posey township, Switzerland County, Indiana",1463.0,786.0,786.0,717.0,69.0,0.0,677.0,155,61380,18
+1815515328,"Cotton township, Switzerland County, Indiana",1426.0,765.0,765.0,717.0,48.0,0.0,661.0,155,15328,18
+1815538232,"Jefferson township, Switzerland County, Indiana",2617.0,1499.0,1499.0,1411.0,88.0,0.0,1118.0,155,38232,18
+181632188,"Armstrong township, Vanderburgh County, Indiana",1461.0,958.0,958.0,944.0,14.0,0.0,503.0,163,2188,18
+1816311674,"Center township, Vanderburgh County, Indiana",32019.0,20704.0,20704.0,19911.0,793.0,0.0,11315.0,163,11674,18
+1802543218,"Liberty township, Crawford County, Indiana",1605.0,919.0,919.0,867.0,52.0,0.0,686.0,025,43218,18
+18017334,"Adams township, Cass County, Indiana",840.0,530.0,530.0,489.0,41.0,0.0,310.0,017,334,18
+180176490,"Boone township, Cass County, Indiana",1264.0,741.0,741.0,702.0,39.0,0.0,523.0,017,6490,18
+1801713006,"Clay township, Cass County, Indiana",2464.0,1320.0,1320.0,1288.0,32.0,0.0,1144.0,017,13006,18
+1801736846,"Jackson township, Cass County, Indiana",2213.0,1335.0,1335.0,1284.0,51.0,0.0,878.0,017,36846,18
+1801748654,"Miami township, Cass County, Indiana",1130.0,707.0,707.0,684.0,23.0,0.0,423.0,017,48654,18
+1801775968,"Tipton township, Cass County, Indiana",1996.0,1270.0,1270.0,1153.0,117.0,0.0,726.0,017,75968,18
+1801720494,"Eel township, Cass County, Indiana",14107.0,8490.0,8490.0,7834.0,656.0,0.0,5617.0,017,20494,18
+1801717254,"Deer Creek township, Cass County, Indiana",762.0,511.0,511.0,494.0,17.0,0.0,251.0,017,17254,18
+1801713690,"Clinton township, Cass County, Indiana",672.0,213.0,213.0,204.0,9.0,0.0,459.0,017,13690,18
+1801737890,"Jefferson township, Cass County, Indiana",1093.0,650.0,650.0,604.0,46.0,0.0,443.0,017,37890,18
+1801780432,"Washington township, Cass County, Indiana",981.0,655.0,655.0,635.0,20.0,0.0,326.0,017,80432,18
+1801754054,"Noble township, Cass County, Indiana",1642.0,1105.0,1105.0,1020.0,85.0,0.0,537.0,017,54054,18
+180175086,"Bethlehem township, Cass County, Indiana",681.0,481.0,481.0,449.0,32.0,0.0,200.0,017,5086,18
+1801731666,"Harrison township, Cass County, Indiana",630.0,308.0,308.0,297.0,11.0,0.0,322.0,017,31666,18
+1805522486,"Fairplay township, Greene County, Indiana",439.0,216.0,216.0,189.0,27.0,0.0,223.0,055,22486,18
+1805574996,"Taylor township, Greene County, Indiana",1131.0,546.0,531.0,500.0,31.0,15.0,585.0,055,74996,18
+1805580648,"Washington township, Greene County, Indiana",890.0,495.0,495.0,429.0,66.0,0.0,395.0,055,80648,18
+1805533457,"Highland township, Greene County, Indiana",536.0,322.0,322.0,302.0,20.0,0.0,214.0,055,33457,18
+1805570128,"Smith township, Greene County, Indiana",302.0,255.0,255.0,242.0,13.0,0.0,47.0,055,70128,18
+1805585634,"Wright township, Greene County, Indiana",2990.0,1565.0,1558.0,1481.0,77.0,7.0,1425.0,055,85634,18
+1805564080,"Richland township, Greene County, Indiana",3969.0,2169.0,2169.0,2055.0,114.0,0.0,1800.0,055,64080,18
+1805573304,"Stockton township, Greene County, Indiana",6621.0,3768.0,3768.0,3513.0,255.0,0.0,2853.0,055,73304,18
+1805528854,"Grant township, Greene County, Indiana",590.0,423.0,423.0,420.0,3.0,0.0,167.0,055,28854,18
+1805537026,"Jackson township, Greene County, Indiana",1546.0,930.0,923.0,840.0,83.0,7.0,616.0,055,37026,18
+1805537980,"Jefferson township, Greene County, Indiana",1637.0,972.0,972.0,914.0,58.0,0.0,665.0,055,37980,18
+180554186,"Beech Creek township, Greene County, Indiana",2026.0,1212.0,1212.0,1099.0,113.0,0.0,814.0,055,4186,18
+1805572530,"Stafford township, Greene County, Indiana",575.0,441.0,441.0,402.0,39.0,0.0,134.0,055,72530,18
+1805510702,"Cass township, Greene County, Indiana",235.0,148.0,148.0,143.0,5.0,0.0,87.0,055,10702,18
+1805511350,"Center township, Greene County, Indiana",2609.0,1759.0,1759.0,1719.0,40.0,0.0,850.0,055,11350,18
+1809742444,"Lawrence township, Marion County, Indiana",94906.0,66492.0,66446.0,60472.0,5974.0,46.0,28414.0,097,42444,18
+1809759058,"Perry township, Marion County, Indiana",88112.0,57701.0,57701.0,54577.0,3124.0,0.0,30411.0,097,59058,18
+1809780792,"Washington township, Marion County, Indiana",111323.0,79796.0,79722.0,75043.0,4679.0,74.0,31527.0,097,80792,18
+1809725504,"Franklin township, Marion County, Indiana",41546.0,29433.0,29433.0,28250.0,1183.0,0.0,12113.0,097,25504,18
+1801978128,"Utica township, Clark County, Indiana",4612.0,3235.0,3235.0,3071.0,164.0,0.0,1377.0,019,78128,18
+1804156736,"Orange township, Fayette County, Indiana",486.0,307.0,307.0,287.0,20.0,0.0,179.0,041,56736,18
+1804138412,"Jennings township, Fayette County, Indiana",512.0,362.0,362.0,329.0,33.0,0.0,150.0,041,38412,18
+1804122522,"Fairview township, Fayette County, Indiana",259.0,160.0,160.0,141.0,19.0,0.0,99.0,041,22522,18
+1804114950,"Connersville township, Fayette County, Indiana",9683.0,5404.0,5404.0,4946.0,458.0,0.0,4279.0,041,14950,18
+1804131792,"Harrison township, Fayette County, Indiana",5072.0,2513.0,2513.0,2284.0,229.0,0.0,2559.0,041,31792,18
+1804136990,"Jackson township, Fayette County, Indiana",1205.0,817.0,817.0,816.0,1.0,0.0,388.0,041,36990,18
+1804114644,"Columbia township, Fayette County, Indiana",798.0,425.0,425.0,418.0,7.0,0.0,373.0,041,14644,18
+1804161308,"Posey township, Fayette County, Indiana",481.0,310.0,310.0,302.0,8.0,0.0,171.0,041,61308,18
+1804181314,"Waterloo township, Fayette County, Indiana",384.0,189.0,189.0,173.0,16.0,0.0,195.0,041,81314,18
+1803167734,"Sandcreek township, Decatur County, Indiana",2492.0,1428.0,1428.0,1290.0,138.0,0.0,1064.0,031,67734,18
+1801184014,"Whitestown town, Boone County, Indiana",2605.0,2134.0,2134.0,2031.0,103.0,0.0,471.0,011,84014,18
+1803551876,"Muncie city, Delaware County, Indiana",2510.0,1678.0,1678.0,1574.0,104.0,0.0,832.0,035,51876,18
+1803586084,"Yorktown town, Delaware County, Indiana",8792.0,5712.0,5700.0,5388.0,312.0,12.0,3080.0,035,86084,18
+1803167536,"Saltcreek township, Decatur County, Indiana",1022.0,645.0,645.0,642.0,3.0,0.0,377.0,031,67536,18
+1817729250,"Green township, Wayne County, Indiana",980.0,627.0,627.0,592.0,35.0,0.0,353.0,177,29250,18
+1801186372,"Zionsville town, Boone County, Indiana",19004.0,13529.0,13508.0,13091.0,417.0,21.0,5475.0,011,86372,18
+1817781134,"Washington township, Wayne County, Indiana",985.0,467.0,467.0,446.0,21.0,0.0,518.0,177,81134,18
+1817782160,"Webster township, Wayne County, Indiana",1097.0,689.0,689.0,675.0,14.0,0.0,408.0,177,82160,18
+1817713258,"Clay township, Wayne County, Indiana",799.0,492.0,492.0,472.0,20.0,0.0,307.0,177,13258,18
+181776670,"Boston township, Wayne County, Indiana",774.0,488.0,488.0,481.0,7.0,0.0,286.0,177,6670,18
+18177172,"Abington township, Wayne County, Indiana",701.0,535.0,535.0,506.0,29.0,0.0,166.0,177,172,18
+1817737530,"Jackson township, Wayne County, Indiana",3768.0,2155.0,2155.0,1978.0,177.0,0.0,1613.0,177,37530,18
+1817725666,"Franklin township, Wayne County, Indiana",1205.0,693.0,693.0,670.0,23.0,0.0,512.0,177,25666,18
+1817752938,"New Garden township, Wayne County, Indiana",1218.0,762.0,762.0,745.0,17.0,0.0,456.0,177,52938,18
+1817759184,"Perry township, Wayne County, Indiana",678.0,417.0,417.0,399.0,18.0,0.0,261.0,177,59184,18
+1817732044,"Harrison township, Wayne County, Indiana",256.0,167.0,167.0,153.0,14.0,0.0,89.0,177,32044,18
+1817711710,"Center township, Wayne County, Indiana",5842.0,3724.0,3717.0,3479.0,238.0,7.0,2118.0,177,11710,18
+1802118118,"Dick Johnson township, Clay County, Indiana",1194.0,847.0,847.0,782.0,65.0,0.0,347.0,021,18118,18
+1802110666,"Cass township, Clay County, Indiana",201.0,135.0,135.0,124.0,11.0,0.0,66.0,021,10666,18
+180217192,"Brazil township, Clay County, Indiana",6625.0,3812.0,3794.0,3542.0,252.0,18.0,2813.0,021,7192,18
+1802143002,"Lewis township, Clay County, Indiana",1008.0,646.0,646.0,628.0,18.0,0.0,362.0,021,43002,18
+1802161290,"Posey township, Clay County, Indiana",3288.0,2245.0,2228.0,2110.0,118.0,17.0,1043.0,021,61290,18
+1817173088,"Steuben township, Warren County, Indiana",493.0,350.0,350.0,343.0,7.0,0.0,143.0,171,73088,18
+1817181098,"Washington township, Warren County, Indiana",1809.0,1051.0,1051.0,992.0,59.0,0.0,758.0,171,81098,18
+1817143488,"Liberty township, Warren County, Indiana",604.0,388.0,388.0,388.0,0.0,0.0,216.0,171,43488,18
+1817159778,"Pike township, Warren County, Indiana",871.0,564.0,564.0,506.0,58.0,0.0,307.0,171,59778,18
+1817139024,"Jordan township, Warren County, Indiana",162.0,139.0,139.0,139.0,0.0,0.0,23.0,171,39024,18
+1817139528,"Kent township, Warren County, Indiana",407.0,352.0,352.0,344.0,8.0,0.0,55.0,171,39528,18
+1817180198,"Warren township, Warren County, Indiana",622.0,322.0,322.0,295.0,27.0,0.0,300.0,171,80198,18
+1817151264,"Mound township, Warren County, Indiana",380.0,208.0,208.0,197.0,11.0,0.0,172.0,171,51264,18
+1817161632,"Prairie township, Warren County, Indiana",123.0,41.0,41.0,31.0,10.0,0.0,82.0,171,61632,18
+1817148222,"Medina township, Warren County, Indiana",413.0,271.0,271.0,271.0,0.0,0.0,142.0,171,48222,18
+1817159958,"Pine township, Warren County, Indiana",295.0,203.0,203.0,203.0,0.0,0.0,92.0,171,59958,18
+18171496,"Adams township, Warren County, Indiana",470.0,322.0,322.0,303.0,19.0,0.0,148.0,171,496,18
+1816521556,"Eugene township, Vermillion County, Indiana",1595.0,985.0,985.0,902.0,83.0,0.0,610.0,165,21556,18
+1816532962,"Helt township, Vermillion County, Indiana",1920.0,1094.0,1094.0,1061.0,33.0,0.0,826.0,165,32962,18
+1816533520,"Highland township, Vermillion County, Indiana",1252.0,749.0,740.0,685.0,55.0,9.0,503.0,165,33520,18
+1816513798,"Clinton township, Vermillion County, Indiana",7224.0,3616.0,3616.0,3465.0,151.0,0.0,3608.0,165,13798,18
+1816578794,"Vermillion township, Vermillion County, Indiana",668.0,350.0,350.0,327.0,23.0,0.0,318.0,165,78794,18
+1817941958,"Lancaster township, Wells County, Indiana",4650.0,2716.0,2716.0,2623.0,93.0,0.0,1934.0,179,41958,18
+1817943506,"Liberty township, Wells County, Indiana",1013.0,725.0,725.0,707.0,18.0,0.0,288.0,179,43506,18
+1811559760,"Pike township, Ohio County, Indiana",358.0,278.0,278.0,278.0,0.0,0.0,80.0,115,59760,18
+1811510738,"Cass township, Ohio County, Indiana",675.0,470.0,470.0,449.0,21.0,0.0,205.0,115,10738,18
+1811577498,"Union township, Ohio County, Indiana",420.0,310.0,310.0,288.0,22.0,0.0,110.0,115,77498,18
+1811562928,"Randolph township, Ohio County, Indiana",3422.0,2088.0,2088.0,2026.0,62.0,0.0,1334.0,115,62928,18
+1811913186,"Clay township, Owen County, Indiana",2131.0,1424.0,1424.0,1285.0,139.0,0.0,707.0,119,13186,18
+1811950742,"Montgomery township, Owen County, Indiana",932.0,627.0,627.0,599.0,28.0,0.0,305.0,119,50742,18
+1811938430,"Jennings township, Owen County, Indiana",517.0,284.0,284.0,284.0,0.0,0.0,233.0,119,38430,18
+1811938142,"Jefferson township, Owen County, Indiana",683.0,336.0,336.0,336.0,0.0,0.0,347.0,119,38142,18
+1811937278,"Jackson township, Owen County, Indiana",1351.0,584.0,584.0,523.0,61.0,0.0,767.0,119,37278,18
+1811940770,"Lafayette township, Owen County, Indiana",979.0,544.0,544.0,491.0,53.0,0.0,435.0,119,40770,18
+1811980900,"Washington township, Owen County, Indiana",4805.0,2974.0,2974.0,2868.0,106.0,0.0,1831.0,119,80900,18
+1811981872,"Wayne township, Owen County, Indiana",1538.0,914.0,914.0,803.0,111.0,0.0,624.0,119,81872,18
+1811946998,"Marion township, Owen County, Indiana",639.0,381.0,381.0,350.0,31.0,0.0,258.0,119,46998,18
+1811925540,"Franklin township, Owen County, Indiana",808.0,445.0,445.0,433.0,12.0,0.0,363.0,119,25540,18
+1811931954,"Harrison township, Owen County, Indiana",236.0,137.0,137.0,131.0,6.0,0.0,99.0,119,31954,18
+1811951048,"Morgan township, Owen County, Indiana",1443.0,836.0,836.0,754.0,82.0,0.0,607.0,119,51048,18
+1811975050,"Taylor township, Owen County, Indiana",909.0,605.0,605.0,598.0,7.0,0.0,304.0,119,75050,18
+1812134942,"Howard township, Parke County, Indiana",283.0,193.0,193.0,193.0,0.0,0.0,90.0,121,34942,18
+1812137296,"Jackson township, Parke County, Indiana",417.0,220.0,220.0,157.0,63.0,0.0,197.0,121,37296,18
+1812158698,"Penn township, Parke County, Indiana",568.0,375.0,375.0,367.0,8.0,0.0,193.0,121,58698,18
+1812163846,"Reserve township, Parke County, Indiana",986.0,536.0,536.0,507.0,29.0,0.0,450.0,121,63846,18
+1812123764,"Florida township, Parke County, Indiana",2280.0,1377.0,1377.0,1310.0,67.0,0.0,903.0,121,23764,18
+1812177516,"Union township, Parke County, Indiana",1053.0,722.0,722.0,613.0,109.0,0.0,331.0,121,77516,18
+1812179334,"Wabash township, Parke County, Indiana",753.0,305.0,305.0,225.0,80.0,0.0,448.0,121,79334,18
+18121460,"Adams township, Parke County, Indiana",4767.0,1895.0,1895.0,1857.0,38.0,0.0,2872.0,121,460,18
+1812162622,"Raccoon township, Parke County, Indiana",425.0,347.0,347.0,336.0,11.0,0.0,78.0,121,62622,18
+1812143344,"Liberty township, Parke County, Indiana",604.0,344.0,344.0,344.0,0.0,0.0,260.0,121,43344,18
+1812173916,"Sugar Creek township, Parke County, Indiana",281.0,170.0,170.0,170.0,0.0,0.0,111.0,121,73916,18
+1812129484,"Greene township, Parke County, Indiana",367.0,145.0,145.0,112.0,33.0,0.0,222.0,121,29484,18
+1812180918,"Washington township, Parke County, Indiana",1003.0,556.0,556.0,543.0,13.0,0.0,447.0,121,80918,18
+1813577588,"Union township, Randolph County, Indiana",1703.0,966.0,966.0,879.0,87.0,0.0,737.0,135,77588,18
+1813583942,"White River township, Randolph County, Indiana",5857.0,3541.0,3541.0,3400.0,141.0,0.0,2316.0,135,83942,18
+1813525594,"Franklin township, Randolph County, Indiana",916.0,612.0,612.0,594.0,18.0,0.0,304.0,135,25594,18
+1813573478,"Stoney Creek township, Randolph County, Indiana",872.0,513.0,513.0,477.0,36.0,0.0,359.0,135,73478,18
+1813581890,"Wayne township, Randolph County, Indiana",3362.0,1924.0,1924.0,1698.0,226.0,0.0,1438.0,135,81890,18
+1813537350,"Jackson township, Randolph County, Indiana",411.0,228.0,228.0,228.0,0.0,0.0,183.0,135,37350,18
+1813580072,"Ward township, Randolph County, Indiana",748.0,497.0,497.0,474.0,23.0,0.0,251.0,135,80072,18
+1814573952,"Sugar Creek township, Shelby County, Indiana",706.0,568.0,568.0,490.0,78.0,0.0,138.0,145,73952,18
+1814581044,"Washington township, Shelby County, Indiana",1118.0,741.0,741.0,617.0,124.0,0.0,377.0,145,81044,18
+1814531270,"Hanover township, Shelby County, Indiana",1982.0,1352.0,1352.0,1315.0,37.0,0.0,630.0,145,31270,18
+1814554144,"Noble township, Shelby County, Indiana",1302.0,885.0,885.0,863.0,22.0,0.0,417.0,145,54144,18
+1813738754,"Johnson township, Ripley County, Indiana",2902.0,1839.0,1839.0,1751.0,88.0,0.0,1063.0,137,38754,18
+1813757276,"Otter Creek township, Ripley County, Indiana",1056.0,619.0,601.0,575.0,26.0,18.0,437.0,137,57276,18
+1813769264,"Shelby township, Ripley County, Indiana",965.0,570.0,570.0,475.0,95.0,0.0,395.0,137,69264,18
+1813781008,"Washington township, Ripley County, Indiana",2147.0,1424.0,1424.0,1361.0,63.0,0.0,723.0,137,81008,18
+18137478,"Adams township, Ripley County, Indiana",3986.0,2577.0,2577.0,2497.0,80.0,0.0,1409.0,137,478,18
+1813711602,"Center township, Ripley County, Indiana",2013.0,1265.0,1265.0,1207.0,58.0,0.0,748.0,137,11602,18
+1813725612,"Franklin township, Ripley County, Indiana",2969.0,2014.0,2014.0,1913.0,101.0,0.0,955.0,137,25612,18
+1813737368,"Jackson township, Ripley County, Indiana",793.0,515.0,515.0,463.0,52.0,0.0,278.0,137,37368,18
+1813717524,"Delaware township, Ripley County, Indiana",1049.0,653.0,653.0,525.0,128.0,0.0,396.0,137,17524,18
+1813742336,"Laughery township, Ripley County, Indiana",3658.0,2325.0,2325.0,2208.0,117.0,0.0,1333.0,137,42336,18
+181378362,"Brown township, Ripley County, Indiana",953.0,692.0,692.0,671.0,21.0,0.0,261.0,137,8362,18
+1814728944,"Grass township, Spencer County, Indiana",1044.0,720.0,720.0,689.0,31.0,0.0,324.0,147,28944,18
+1814737422,"Jackson township, Spencer County, Indiana",744.0,478.0,478.0,458.0,20.0,0.0,266.0,147,37422,18
+1814745216,"Luce township, Spencer County, Indiana",2006.0,1177.0,1177.0,1144.0,33.0,0.0,829.0,147,45216,18
+1814731990,"Harrison township, Spencer County, Indiana",1535.0,1113.0,1113.0,1057.0,56.0,0.0,422.0,147,31990,18
+1814731018,"Hammond township, Spencer County, Indiana",1514.0,1024.0,1024.0,861.0,163.0,0.0,490.0,147,31018,18
+1814735140,"Huff township, Spencer County, Indiana",810.0,570.0,570.0,557.0,13.0,0.0,240.0,147,35140,18
+1814756160,"Ohio township, Spencer County, Indiana",4187.0,2319.0,2319.0,2157.0,162.0,0.0,1868.0,147,56160,18
+1817912358,"Chester township, Wells County, Indiana",751.0,473.0,473.0,460.0,13.0,0.0,278.0,179,12358,18
+1817937548,"Jackson township, Wells County, Indiana",748.0,516.0,516.0,516.0,0.0,0.0,232.0,179,37548,18
+1817965322,"Rockcreek township, Wells County, Indiana",1307.0,803.0,803.0,797.0,6.0,0.0,504.0,179,65322,18
+1817977714,"Union township, Wells County, Indiana",1786.0,1293.0,1289.0,1208.0,81.0,4.0,493.0,179,77714,18
+1817932062,"Harrison township, Wells County, Indiana",6463.0,4246.0,4237.0,4122.0,115.0,9.0,2217.0,179,32062,18
+1817938304,"Jefferson township, Wells County, Indiana",4422.0,3088.0,3010.0,2931.0,79.0,78.0,1334.0,179,38304,18
+1817955422,"Nottingham township, Wells County, Indiana",584.0,358.0,358.0,339.0,19.0,0.0,226.0,179,55422,18
+1800360354,"Pleasant township, Allen County, Indiana",2830.0,1869.0,1860.0,1793.0,67.0,9.0,961.0,003,60354,18
+1800380342,"Washington township, Allen County, Indiana",30156.0,20799.0,20769.0,19573.0,1196.0,30.0,9357.0,003,80342,18
+1800320512,"Eel River township, Allen County, Indiana",2882.0,2066.0,2066.0,2023.0,43.0,0.0,816.0,003,20512,18
+1800310990,"Cedar Creek township, Allen County, Indiana",9926.0,6848.0,6848.0,6670.0,178.0,0.0,3078.0,003,10990,18
+18003208,"Aboite township, Allen County, Indiana",28825.0,19093.0,19061.0,18189.0,872.0,32.0,9732.0,003,208,18
+1800336738,"Jackson township, Allen County, Indiana",266.0,153.0,153.0,138.0,15.0,0.0,113.0,003,36738,18
+1800337836,"Jefferson township, Allen County, Indiana",1927.0,1234.0,1234.0,1080.0,154.0,0.0,693.0,003,37836,18
+1800347646,"Maumee township, Allen County, Indiana",2095.0,1543.0,1543.0,1435.0,108.0,0.0,552.0,003,47646,18
+1800349248,"Milan township, Allen County, Indiana",2575.0,1872.0,1872.0,1837.0,35.0,0.0,703.0,003,49248,18
+1800368292,"Scipio township, Allen County, Indiana",449.0,228.0,228.0,220.0,8.0,0.0,221.0,003,68292,18
+18003298,"Adams township, Allen County, Indiana",24729.0,15379.0,15379.0,13809.0,1570.0,0.0,9350.0,003,298,18
+1800340932,"Lake township, Allen County, Indiana",2132.0,1466.0,1466.0,1435.0,31.0,0.0,666.0,003,40932,18
+1800345882,"Madison township, Allen County, Indiana",1301.0,918.0,918.0,869.0,49.0,0.0,383.0,003,45882,18
+1800346836,"Marion township, Allen County, Indiana",3357.0,2115.0,2115.0,2025.0,90.0,0.0,1242.0,003,46836,18
+1800350238,"Monroe township, Allen County, Indiana",1460.0,901.0,901.0,880.0,21.0,0.0,559.0,003,50238,18
+1800358950,"Perry township, Allen County, Indiana",22418.0,15435.0,15435.0,15003.0,432.0,0.0,6983.0,003,58950,18
+1800366924,"St. Joseph township, Allen County, Indiana",58591.0,39870.0,39833.0,37726.0,2107.0,37.0,18721.0,003,66924,18
+1800381620,"Wayne township, Allen County, Indiana",80577.0,52863.0,52858.0,48026.0,4832.0,5.0,27714.0,003,81620,18
+1800372116,"Springfield township, Allen County, Indiana",3034.0,1839.0,1839.0,1785.0,54.0,0.0,1195.0,003,72116,18
+1800340716,"Lafayette township, Allen County, Indiana",2712.0,1865.0,1859.0,1849.0,10.0,6.0,847.0,003,40716,18
+1803136918,"Jackson township, Decatur County, Indiana",903.0,528.0,528.0,474.0,54.0,0.0,375.0,031,36918,18
+1803113042,"Clay township, Decatur County, Indiana",970.0,630.0,630.0,599.0,31.0,0.0,340.0,031,13042,18
+1803126098,"Fugit township, Decatur County, Indiana",1358.0,998.0,998.0,946.0,52.0,0.0,360.0,031,26098,18
+1803180558,"Washington township, Decatur County, Indiana",10761.0,7330.0,7330.0,6999.0,331.0,0.0,3431.0,031,80558,18
+18031370,"Adams township, Decatur County, Indiana",1644.0,1036.0,1036.0,1022.0,14.0,0.0,608.0,031,370,18
+1803113708,"Clinton township, Decatur County, Indiana",346.0,154.0,154.0,154.0,0.0,0.0,192.0,031,13708,18
+1803146872,"Marion township, Decatur County, Indiana",1279.0,901.0,901.0,870.0,31.0,0.0,378.0,031,46872,18
+1803559022,"Perry township, Delaware County, Indiana",1354.0,867.0,867.0,818.0,49.0,0.0,487.0,035,59022,18
+1803567356,"Salem township, Delaware County, Indiana",3273.0,2140.0,2140.0,2016.0,124.0,0.0,1133.0,035,67356,18
+1803577246,"Union township, Delaware County, Indiana",2205.0,1258.0,1252.0,1157.0,95.0,6.0,947.0,035,77246,18
+1803517470,"Delaware township, Delaware County, Indiana",2928.0,1839.0,1832.0,1560.0,272.0,7.0,1089.0,035,17470,18
+1803511296,"Center township, Delaware County, Indiana",57885.0,34155.0,34155.0,30850.0,3305.0,0.0,23730.0,035,11296,18
+1803543236,"Liberty township, Delaware County, Indiana",3807.0,1932.0,1932.0,1858.0,74.0,0.0,1875.0,035,43236,18
+1803550292,"Monroe township, Delaware County, Indiana",3001.0,1950.0,1950.0,1915.0,35.0,0.0,1051.0,035,50292,18
+1803530600,"Hamilton township, Delaware County, Indiana",5905.0,3364.0,3364.0,3214.0,150.0,0.0,2541.0,035,30600,18
+1803553928,"Niles township, Delaware County, Indiana",845.0,487.0,487.0,459.0,28.0,0.0,358.0,035,53928,18
+1803580576,"Washington township, Delaware County, Indiana",1675.0,1066.0,1066.0,1055.0,11.0,0.0,609.0,035,80576,18
+1803531756,"Harrison township, Delaware County, Indiana",2527.0,1303.0,1303.0,1288.0,15.0,0.0,1224.0,035,31756,18
+1804325360,"Franklin township, Floyd County, Indiana",1277.0,835.0,835.0,806.0,29.0,0.0,442.0,043,25360,18
+1804352344,"New Albany township, Floyd County, Indiana",40225.0,26253.0,26234.0,24718.0,1516.0,19.0,13972.0,043,52344,18
+1804340734,"Lafayette township, Floyd County, Indiana",6215.0,3991.0,3991.0,3883.0,108.0,0.0,2224.0,043,40734,18
+1804327342,"Georgetown township, Floyd County, Indiana",7771.0,5463.0,5463.0,5219.0,244.0,0.0,2308.0,043,27342,18
+1804329862,"Greenville township, Floyd County, Indiana",5302.0,3680.0,3680.0,3511.0,169.0,0.0,1622.0,043,29862,18
+1807741940,"Lancaster township, Jefferson County, Indiana",1374.0,836.0,836.0,789.0,47.0,0.0,538.0,077,41940,18
+1807746008,"Madison township, Jefferson County, Indiana",14425.0,8105.0,8105.0,7494.0,611.0,0.0,6320.0,077,46008,18
+1807770398,"Smyrna township, Jefferson County, Indiana",824.0,614.0,614.0,552.0,62.0,0.0,210.0,077,70398,18
+1807749824,"Milton township, Jefferson County, Indiana",808.0,550.0,550.0,503.0,47.0,0.0,258.0,077,49824,18
+1807763828,"Republican township, Jefferson County, Indiana",1575.0,1024.0,1024.0,967.0,57.0,0.0,551.0,077,63828,18
+1807750346,"Monroe township, Jefferson County, Indiana",266.0,202.0,202.0,184.0,18.0,0.0,64.0,077,50346,18
+1807731234,"Hanover township, Jefferson County, Indiana",4448.0,2475.0,2475.0,2311.0,164.0,0.0,1973.0,077,31234,18
+1807769228,"Shelby township, Jefferson County, Indiana",886.0,619.0,619.0,619.0,0.0,0.0,267.0,077,69228,18
+1807728566,"Graham township, Jefferson County, Indiana",904.0,513.0,513.0,470.0,43.0,0.0,391.0,077,28566,18
+1807767662,"Saluda township, Jefferson County, Indiana",1087.0,606.0,606.0,576.0,30.0,0.0,481.0,077,67662,18
+1807927234,"Geneva township, Jennings County, Indiana",5852.0,3600.0,3600.0,3251.0,349.0,0.0,2252.0,079,27234,18
+180795212,"Bigger township, Jennings County, Indiana",494.0,286.0,286.0,286.0,0.0,0.0,208.0,079,5212,18
+1807971954,"Spencer township, Jennings County, Indiana",1922.0,1088.0,1088.0,1045.0,43.0,0.0,834.0,079,71954,18
+1807950724,"Montgomery township, Jennings County, Indiana",810.0,521.0,521.0,501.0,20.0,0.0,289.0,079,50724,18
+1807945108,"Lovett township, Jennings County, Indiana",886.0,532.0,532.0,532.0,0.0,0.0,354.0,079,45108,18
+1807978920,"Vernon township, Jennings County, Indiana",2403.0,1470.0,1470.0,1391.0,79.0,0.0,933.0,079,78920,18
+1807911458,"Center township, Jennings County, Indiana",6844.0,4364.0,4364.0,4141.0,223.0,0.0,2480.0,079,11458,18
+180799946,"Campbell township, Jennings County, Indiana",794.0,508.0,508.0,477.0,31.0,0.0,286.0,079,9946,18
+1807914680,"Columbia township, Jennings County, Indiana",568.0,382.0,382.0,360.0,22.0,0.0,186.0,079,14680,18
+1807946962,"Marion township, Jennings County, Indiana",780.0,573.0,573.0,519.0,54.0,0.0,207.0,079,46962,18
+1807967752,"Sand Creek township, Jennings County, Indiana",803.0,535.0,535.0,525.0,10.0,0.0,268.0,079,67752,18
+1808133160,"Hensley township, Johnson County, Indiana",2719.0,1842.0,1842.0,1771.0,71.0,0.0,877.0,081,33160,18
+1808112781,"Clark township, Johnson County, Indiana",2012.0,1549.0,1549.0,1507.0,42.0,0.0,463.0,081,12781,18
+1808177390,"Union township, Johnson County, Indiana",2126.0,1354.0,1354.0,1324.0,30.0,0.0,772.0,081,77390,18
+180816094,"Blue River township, Johnson County, Indiana",4098.0,2762.0,2762.0,2649.0,113.0,0.0,1336.0,081,6094,18
+1808160390,"Pleasant township, Johnson County, Indiana",44076.0,29946.0,29808.0,28266.0,1542.0,138.0,14130.0,081,60390,18
+1808154000,"Nineveh township, Johnson County, Indiana",3780.0,2293.0,2278.0,2089.0,189.0,15.0,1487.0,081,54000,18
+1808125468,"Franklin township, Johnson County, Indiana",17092.0,10929.0,10822.0,10220.0,602.0,107.0,6163.0,081,25468,18
+1808183924,"White River township, Johnson County, Indiana",34843.0,24274.0,24059.0,23217.0,842.0,215.0,10569.0,081,83924,18
+1808152164,"Needham township, Johnson County, Indiana",5146.0,3337.0,3337.0,3204.0,133.0,0.0,1809.0,081,52164,18
+181039586,"Butler township, Miami County, Indiana",515.0,256.0,256.0,231.0,25.0,0.0,259.0,103,9586,18
+1810313150,"Clay township, Miami County, Indiana",817.0,429.0,429.0,429.0,0.0,0.0,388.0,103,13150,18
+1810359346,"Peru township, Miami County, Indiana",8921.0,5151.0,5151.0,4524.0,627.0,0.0,3770.0,103,59346,18
+1810360174,"Pipe Creek township, Miami County, Indiana",5135.0,2309.0,2286.0,2101.0,185.0,23.0,2826.0,103,60174,18
+181031018,"Allen township, Miami County, Indiana",598.0,345.0,345.0,333.0,12.0,0.0,253.0,103,1018,18
+1810321412,"Erie township, Miami County, Indiana",619.0,427.0,427.0,410.0,17.0,0.0,192.0,103,21412,18
+1810359094,"Perry township, Miami County, Indiana",503.0,354.0,354.0,345.0,9.0,0.0,149.0,103,59094,18
+1810337206,"Jackson township, Miami County, Indiana",1411.0,863.0,863.0,831.0,32.0,0.0,548.0,103,37206,18
+1810338070,"Jefferson township, Miami County, Indiana",2007.0,1290.0,1290.0,1247.0,43.0,0.0,717.0,103,38070,18
+1810364134,"Richland township, Miami County, Indiana",1168.0,723.0,723.0,709.0,14.0,0.0,445.0,103,64134,18
+1810331918,"Harrison township, Miami County, Indiana",540.0,299.0,299.0,299.0,0.0,0.0,241.0,103,31918,18
+1810317272,"Deer Creek township, Miami County, Indiana",3872.0,2172.0,2172.0,2053.0,119.0,0.0,1700.0,103,17272,18
+1810377462,"Union township, Miami County, Indiana",549.0,334.0,334.0,326.0,8.0,0.0,215.0,103,77462,18
+1810380810,"Washington township, Miami County, Indiana",2546.0,1717.0,1703.0,1499.0,204.0,14.0,829.0,103,80810,18
+181098344,"Brown township, Morgan County, Indiana",10637.0,6891.0,6891.0,6396.0,495.0,0.0,3746.0,109,8344,18
+1810931936,"Harrison township, Morgan County, Indiana",1012.0,647.0,647.0,647.0,0.0,0.0,365.0,109,31936,18
+1810929988,"Gregg township, Morgan County, Indiana",2320.0,1379.0,1379.0,1333.0,46.0,0.0,941.0,109,29988,18
+1810913168,"Clay township, Morgan County, Indiana",3611.0,2311.0,2308.0,2136.0,172.0,3.0,1300.0,109,13168,18
+1810950400,"Monroe township, Morgan County, Indiana",3943.0,2525.0,2525.0,2406.0,119.0,0.0,1418.0,109,50400,18
+1810963144,"Ray township, Morgan County, Indiana",1365.0,1055.0,1013.0,994.0,19.0,42.0,310.0,109,63144,18
+1810929196,"Green township, Morgan County, Indiana",2783.0,1858.0,1858.0,1721.0,137.0,0.0,925.0,109,29196,18
+1810938088,"Jefferson township, Morgan County, Indiana",2563.0,1603.0,1603.0,1563.0,40.0,0.0,960.0,109,38088,18
+1810946044,"Madison township, Morgan County, Indiana",7871.0,5347.0,5298.0,5111.0,187.0,49.0,2524.0,109,46044,18
+1810980846,"Washington township, Morgan County, Indiana",13566.0,7844.0,7844.0,7345.0,499.0,0.0,5722.0,109,80846,18
+18109442,"Adams township, Morgan County, Indiana",962.0,662.0,662.0,623.0,39.0,0.0,300.0,109,442,18
+181093178,"Baker township, Morgan County, Indiana",757.0,632.0,632.0,571.0,61.0,0.0,125.0,109,3178,18
+181092440,"Ashland township, Morgan County, Indiana",1345.0,875.0,875.0,836.0,39.0,0.0,470.0,109,2440,18
+1810937224,"Jackson township, Morgan County, Indiana",2667.0,1811.0,1811.0,1648.0,163.0,0.0,856.0,109,37224,18
+1805150706,"Montgomery township, Gibson County, Indiana",3130.0,1980.0,1980.0,1922.0,58.0,0.0,1150.0,051,50706,18
+1805158338,"Patoka township, Gibson County, Indiana",9338.0,5591.0,5591.0,5356.0,235.0,0.0,3747.0,051,58338,18
+1805111314,"Center township, Gibson County, Indiana",1161.0,757.0,757.0,739.0,18.0,0.0,404.0,051,11314,18
+1805177300,"Union township, Gibson County, Indiana",3409.0,2385.0,2385.0,2333.0,52.0,0.0,1024.0,051,77300,18
+180513556,"Barton township, Gibson County, Indiana",1150.0,760.0,760.0,746.0,14.0,0.0,390.0,051,3556,18
+181055878,"Bloomington township, Monroe County, Indiana",41991.0,21483.0,21474.0,19511.0,1963.0,9.0,20508.0,105,5878,18
+181054816,"Benton township, Monroe County, Indiana",2998.0,1669.0,1669.0,1633.0,36.0,0.0,1329.0,105,4816,18
+1810513420,"Clear Creek township, Monroe County, Indiana",4301.0,2975.0,2975.0,2797.0,178.0,0.0,1326.0,105,13420,18
+1810580828,"Washington township, Monroe County, Indiana",1691.0,1110.0,1110.0,1074.0,36.0,0.0,581.0,105,80828,18
+1810536072,"Indian Creek township, Monroe County, Indiana",1320.0,864.0,864.0,854.0,10.0,0.0,456.0,105,36072,18
+1810564152,"Richland township, Monroe County, Indiana",11896.0,8464.0,8432.0,8101.0,331.0,32.0,3432.0,105,64152,18
+1810567590,"Salt Creek township, Monroe County, Indiana",1535.0,1154.0,1154.0,1125.0,29.0,0.0,381.0,105,67590,18
+1810560984,"Polk township, Monroe County, Indiana",304.0,169.0,169.0,169.0,0.0,0.0,135.0,105,60984,18
+181053808,"Bean Blossom township, Monroe County, Indiana",2588.0,1767.0,1767.0,1755.0,12.0,0.0,821.0,105,3808,18
+1810559112,"Perry township, Monroe County, Indiana",45605.0,30636.0,30636.0,28768.0,1868.0,0.0,14969.0,105,59112,18
+1810578542,"Van Buren township, Monroe County, Indiana",9881.0,6431.0,6399.0,6052.0,347.0,32.0,3450.0,105,78542,18

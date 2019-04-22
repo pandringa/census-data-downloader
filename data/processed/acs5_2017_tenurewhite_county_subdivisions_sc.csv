@@ -1,0 +1,300 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+4506592262,"Mount Carmel CCD, McCormick County, South Carolina",781.0,711.0,70.0,065,92262,45
+4505990663,"Clinton CCD, Laurens County, South Carolina",3532.0,2570.0,962.0,059,90663,45
+4505991924,"Laurens CCD, Laurens County, South Carolina",5214.0,3827.0,1387.0,059,91924,45
+4505991690,"Joanna CCD, Laurens County, South Carolina",749.0,619.0,130.0,059,91690,45
+4506592561,"Parksville CCD, McCormick County, South Carolina",587.0,509.0,78.0,065,92561,45
+4506592119,"McCormick CCD, McCormick County, South Carolina",949.0,803.0,146.0,065,92119,45
+4507790533,"Central CCD, Pickens County, South Carolina",3544.0,1594.0,1950.0,077,90533,45
+4507790936,"Easley CCD, Pickens County, South Carolina",13215.0,9085.0,4130.0,077,90936,45
+4507792639,"Pickens CCD, Pickens County, South Carolina",5721.0,4459.0,1262.0,077,92639,45
+4507790949,"Easley East CCD, Pickens County, South Carolina",3664.0,3106.0,558.0,077,90949,45
+4507793146,"Six Mile CCD, Pickens County, South Carolina",4165.0,3708.0,457.0,077,93146,45
+4507790650,"Clemson CCD, Pickens County, South Carolina",4935.0,2218.0,2717.0,077,90650,45
+4507791950,"Liberty CCD, Pickens County, South Carolina",4460.0,3679.0,781.0,077,91950,45
+4508791742,"Jonesville CCD, Union County, South Carolina",1080.0,832.0,248.0,087,91742,45
+4508790507,"Carlisle CCD, Union County, South Carolina",254.0,227.0,27.0,087,90507,45
+4508790832,"Cross Keys CCD, Union County, South Carolina",272.0,251.0,21.0,087,90832,45
+4508793679,"West Springs CCD, Union County, South Carolina",704.0,643.0,61.0,087,93679,45
+4508791989,"Lockhart CCD, Union County, South Carolina",896.0,625.0,271.0,087,91989,45
+4508793497,"Union CCD, Union County, South Carolina",4402.0,3269.0,1133.0,087,93497,45
+4508991495,"Hemingway CCD, Williamsburg County, South Carolina",754.0,655.0,99.0,089,91495,45
+4508993458,"Trio CCD, Williamsburg County, South Carolina",490.0,461.0,29.0,089,93458,45
+4508991339,"Greeleyville CCD, Williamsburg County, South Carolina",277.0,221.0,56.0,089,91339,45
+4508991768,"Kingstree CCD, Williamsburg County, South Carolina",1475.0,1216.0,259.0,089,91768,45
+4508992353,"Nesmith CCD, Williamsburg County, South Carolina",443.0,381.0,62.0,089,92353,45
+4508991898,"Lane CCD, Williamsburg County, South Carolina",133.0,59.0,74.0,089,91898,45
+4500390026,"Aiken CCD, Aiken County, South Carolina",17944.0,13759.0,4185.0,003,90026,45
+4500391651,"Jackson CCD, Aiken County, South Carolina",978.0,822.0,156.0,003,91651,45
+4500390208,"Beech Island CCD, Aiken County, South Carolina",2129.0,1826.0,303.0,003,90208,45
+4500392379,"New Ellenton CCD, Aiken County, South Carolina",3573.0,3073.0,500.0,003,92379,45
+4500392418,"North Augusta CCD, Aiken County, South Carolina",15864.0,12210.0,3654.0,003,92418,45
+4500392977,"Salley CCD, Aiken County, South Carolina",554.0,473.0,81.0,003,92977,45
+4500393562,"Wagener CCD, Aiken County, South Carolina",1157.0,984.0,173.0,003,93562,45
+4500392223,"Monetta CCD, Aiken County, South Carolina",1367.0,1074.0,293.0,003,92223,45
+4500393744,"Windsor CCD, Aiken County, South Carolina",1639.0,1423.0,216.0,003,93744,45
+4500591092,"Fairfax CCD, Allendale County, South Carolina",228.0,209.0,19.0,005,91092,45
+4500592197,"Millett CCD, Allendale County, South Carolina",66.0,66.0,0.0,005,92197,45
+4500590052,"Allendale CCD, Allendale County, South Carolina",410.0,392.0,18.0,005,90052,45
+4500593367,"Sycamore CCD, Allendale County, South Carolina",166.0,145.0,21.0,005,93367,45
+4507193705,"Whitmire CCD, Newberry County, South Carolina",995.0,804.0,191.0,071,93705,45
+4507192366,"Newberry CCD, Newberry County, South Carolina",3376.0,2503.0,873.0,071,92366,45
+4507192704,"Pomaria CCD, Newberry County, South Carolina",1107.0,1032.0,75.0,071,92704,45
+4501190143,"Barnwell CCD, Barnwell County, South Carolina",2183.0,1792.0,391.0,011,90143,45
+4507392249,"Mountain Rest CCD, Oconee County, South Carolina",910.0,743.0,167.0,073,92249,45
+4507393575,"Walhalla CCD, Oconee County, South Carolina",7199.0,5672.0,1527.0,073,93575,45
+4507392964,"Salem CCD, Oconee County, South Carolina",2702.0,2369.0,333.0,073,92964,45
+4507392457,"Oakway CCD, Oconee County, South Carolina",3934.0,3274.0,660.0,073,92457,45
+4508990442,"Cades CCD, Williamsburg County, South Carolina",542.0,487.0,55.0,089,90442,45
+4501190286,"Blackville CCD, Barnwell County, South Carolina",320.0,218.0,102.0,011,90286,45
+4501193731,"Williston CCD, Barnwell County, South Carolina",1213.0,963.0,250.0,011,93731,45
+4501191794,"Kline-Snelling CCD, Barnwell County, South Carolina",779.0,602.0,177.0,011,91794,45
+4501591274,"Goose Creek-Hanahan CCD, Berkeley County, South Carolina",31851.0,22881.0,8970.0,015,91274,45
+4501990988,"Edisto Island CCD, Charleston County, South Carolina",373.0,306.0,67.0,019,90988,45
+4501991664,"James Island CCD, Charleston County, South Carolina",14527.0,10331.0,4196.0,019,91664,45
+4501991703,"Johns Island CCD, Charleston County, South Carolina",5158.0,4128.0,1030.0,019,91703,45
+4501992301,"Mount Pleasant CCD, Charleston County, South Carolina",33364.0,24215.0,9149.0,019,92301,45
+4501992080,"McClellanville CCD, Charleston County, South Carolina",845.0,723.0,122.0,019,92080,45
+4501993549,"Wadmalaw Island CCD, Charleston County, South Carolina",502.0,485.0,17.0,019,93549,45
+4503191820,"Lake Swamp CCD, Darlington County, South Carolina",987.0,825.0,162.0,031,91820,45
+4503190858,"Darlington CCD, Darlington County, South Carolina",5542.0,4206.0,1336.0,031,90858,45
+4503191846,"Lamar CCD, Darlington County, South Carolina",811.0,613.0,198.0,031,91846,45
+4503192431,"North Hartsville CCD, Darlington County, South Carolina",3269.0,2712.0,557.0,031,92431,45
+4503193185,"Society Hill CCD, Darlington County, South Carolina",488.0,383.0,105.0,031,93185,45
+4503191469,"Hartsville CCD, Darlington County, South Carolina",4356.0,3311.0,1045.0,031,91469,45
+4504390078,"Andrews CCD, Georgetown County, South Carolina",1702.0,1433.0,269.0,043,90078,45
+4504392665,"Plantersville CCD, Georgetown County, South Carolina",310.0,269.0,41.0,043,92665,45
+4504392678,"Pleasant Hill-Folly Grove CCD, Georgetown County, South Carolina",728.0,664.0,64.0,043,92678,45
+4506990234,"Bennettsville CCD, Marlboro County, South Carolina",1770.0,1332.0,438.0,069,90234,45
+4506993588,"Wallace CCD, Marlboro County, South Carolina",699.0,578.0,121.0,069,93588,45
+4504391248,"Georgetown CCD, Georgetown County, South Carolina",3842.0,3013.0,829.0,043,91248,45
+4506992093,"McColl CCD, Marlboro County, South Carolina",994.0,745.0,249.0,069,92093,45
+4506990676,"Clio CCD, Marlboro County, South Carolina",282.0,238.0,44.0,069,90676,45
+4506990299,"Blenheim CCD, Marlboro County, South Carolina",517.0,417.0,100.0,069,90299,45
+4509191183,"Fort Mill CCD, York County, South Carolina",18852.0,15299.0,3553.0,091,91183,45
+4509192106,"McConnells CCD, York County, South Carolina",1317.0,1105.0,212.0,091,92106,45
+4509193822,"York CCD, York County, South Carolina",7279.0,5918.0,1361.0,091,93822,45
+4509190689,"Clover CCD, York County, South Carolina",12116.0,9792.0,2324.0,091,90689,45
+4509191521,"Hickory Grove CCD, York County, South Carolina",1629.0,1347.0,282.0,091,91521,45
+4509192886,"Rock Hill CCD, York County, South Carolina",30147.0,21930.0,8217.0,091,92886,45
+4500791638,"Iva CCD, Anderson County, South Carolina",1874.0,1569.0,305.0,007,91638,45
+4500793718,"Williamston-Pelzer CCD, Anderson County, South Carolina",7932.0,6172.0,1760.0,007,93718,45
+4500791560,"Honea Path CCD, Anderson County, South Carolina",2877.0,2268.0,609.0,007,91560,45
+4500790065,"Anderson CCD, Anderson County, South Carolina",24159.0,17508.0,6651.0,007,90065,45
+4500790221,"Belton CCD, Anderson County, South Carolina",4700.0,3549.0,1151.0,007,90221,45
+4500793224,"Starr CCD, Anderson County, South Carolina",1697.0,1205.0,492.0,007,93224,45
+4500792626,"Pendleton CCD, Anderson County, South Carolina",6128.0,4855.0,1273.0,007,92626,45
+4507192756,"Prosperity CCD, Newberry County, South Carolina",3743.0,3166.0,577.0,071,92756,45
+4507190559,"Chappells CCD, Newberry County, South Carolina",377.0,268.0,109.0,071,90559,45
+4503793445,"Trenton CCD, Edgefield County, South Carolina",599.0,544.0,55.0,037,93445,45
+4503792691,"Pleasant Lane CCD, Edgefield County, South Carolina",195.0,190.0,5.0,037,92691,45
+4503790975,"Edgefield CCD, Edgefield County, South Carolina",1361.0,1153.0,208.0,037,90975,45
+4503791729,"Johnston CCD, Edgefield County, South Carolina",788.0,684.0,104.0,037,91729,45
+4502390637,"Chester West CCD, Chester County, South Carolina",706.0,618.0,88.0,023,90637,45
+4502391326,"Great Falls CCD, Chester County, South Carolina",1232.0,1006.0,226.0,023,91326,45
+4502392821,"Richburg CCD, Chester County, South Carolina",525.0,423.0,102.0,023,92821,45
+4502390611,"Chester CCD, Chester County, South Carolina",3541.0,2947.0,594.0,023,90611,45
+4502793263,"Summerton CCD, Clarendon County, South Carolina",1245.0,1056.0,189.0,027,93263,45
+4502790039,"Alcolu CCD, Clarendon County, South Carolina",355.0,284.0,71.0,027,90039,45
+4502793055,"Sardinia CCD, Clarendon County, South Carolina",355.0,313.0,42.0,027,93055,45
+4502792158,"Manning East CCD, Clarendon County, South Carolina",398.0,366.0,32.0,027,92158,45
+4502793484,"Turbeville CCD, Clarendon County, South Carolina",1060.0,875.0,185.0,027,93484,45
+4502792600,"Paxville CCD, Clarendon County, South Carolina",448.0,385.0,63.0,027,92600,45
+4502792145,"Manning CCD, Clarendon County, South Carolina",3089.0,2703.0,386.0,027,92145,45
+4502991352,"Green Pond CCD, Colleton County, South Carolina",561.0,482.0,79.0,029,91352,45
+4502991508,"Hendersonville CCD, Colleton County, South Carolina",1227.0,917.0,310.0,029,91508,45
+4502993172,"Smoaks CCD, Colleton County, South Carolina",259.0,231.0,28.0,029,93172,45
+4502990767,"Cottageville CCD, Colleton County, South Carolina",1610.0,1391.0,219.0,029,90767,45
+4502992002,"Lodge CCD, Colleton County, South Carolina",426.0,360.0,66.0,029,92002,45
+4502993601,"Walterboro CCD, Colleton County, South Carolina",4863.0,3630.0,1233.0,029,93601,45
+4506792171,"Marion CCD, Marion County, South Carolina",2535.0,2041.0,494.0,067,92171,45
+4506792314,"Mullins CCD, Marion County, South Carolina",1753.0,1525.0,228.0,067,92314,45
+4506790403,"Brittons Neck CCD, Marion County, South Carolina",351.0,260.0,91.0,067,90403,45
+4506790520,"Centenary CCD, Marion County, South Carolina",244.0,210.0,34.0,067,90520,45
+4508593302,"Sumter North CCD, Sumter County, South Carolina",973.0,748.0,225.0,085,93302,45
+4508592743,"Privateer CCD, Sumter County, South Carolina",3074.0,2410.0,664.0,085,92743,45
+4508592808,"Rembert CCD, Sumter County, South Carolina",181.0,134.0,47.0,085,92808,45
+4508593315,"Sumter Northeast CCD, Sumter County, South Carolina",551.0,468.0,83.0,085,93315,45
+4508593120,"Shiloh CCD, Sumter County, South Carolina",345.0,307.0,38.0,085,93120,45
+4508593328,"Sumter Southeast CCD, Sumter County, South Carolina",872.0,751.0,121.0,085,93328,45
+4508593341,"Sumter Southwest CCD, Sumter County, South Carolina",975.0,754.0,221.0,085,93341,45
+4508593289,"Sumter CCD, Sumter County, South Carolina",8713.0,6464.0,2249.0,085,93289,45
+4506390546,"Chapin CCD, Lexington County, South Carolina",5978.0,5547.0,431.0,063,90546,45
+4506391261,"Gilbert CCD, Lexington County, South Carolina",7153.0,6041.0,1112.0,063,91261,45
+4506391937,"Lexington CCD, Lexington County, South Carolina",29912.0,24769.0,5143.0,063,91937,45
+4506392613,"Pelion CCD, Lexington County, South Carolina",7865.0,6518.0,1347.0,063,92613,45
+4506393653,"West Columbia-Cayce CCD, Lexington County, South Carolina",19183.0,12796.0,6387.0,063,93653,45
+4501590754,"Cordesville CCD, Berkeley County, South Carolina",1018.0,886.0,132.0,015,90754,45
+4501592951,"St. Stephen CCD, Berkeley County, South Carolina",801.0,619.0,182.0,015,92951,45
+4501592210,"Moncks Corner CCD, Berkeley County, South Carolina",6517.0,5293.0,1224.0,015,92210,45
+4501590351,"Bonneau CCD, Berkeley County, South Carolina",2836.0,2246.0,590.0,015,90351,45
+4501590806,"Cross CCD, Berkeley County, South Carolina",1371.0,1021.0,350.0,015,90806,45
+4501593614,"Wando CCD, Berkeley County, South Carolina",4710.0,3284.0,1426.0,015,93614,45
+4502191235,"Gaffney CCD, Cherokee County, South Carolina",8627.0,6741.0,1886.0,021,91235,45
+4502193042,"Saratt CCD, Cherokee County, South Carolina",1115.0,948.0,167.0,021,93042,45
+4502192132,"Macedonia CCD, Cherokee County, South Carolina",2540.0,2037.0,503.0,021,92132,45
+4502190273,"Blacksburg CCD, Cherokee County, South Carolina",3049.0,2176.0,873.0,021,90273,45
+4502590624,"Chesterfield CCD, Chesterfield County, South Carolina",2204.0,1926.0,278.0,025,90624,45
+4502592275,"Mount Croghan CCD, Chesterfield County, South Carolina",717.0,643.0,74.0,025,92275,45
+4502592067,"McBee CCD, Chesterfield County, South Carolina",646.0,531.0,115.0,025,92067,45
+4502590585,"Cheraw CCD, Chesterfield County, South Carolina",2688.0,2073.0,615.0,025,90585,45
+4502591677,"Jefferson CCD, Chesterfield County, South Carolina",1226.0,976.0,250.0,025,91677,45
+4502592535,"Pageland CCD, Chesterfield County, South Carolina",2315.0,1754.0,561.0,025,92535,45
+4502592574,"Patrick CCD, Chesterfield County, South Carolina",1773.0,1395.0,378.0,025,92574,45
+4504791781,"Kirksey CCD, Greenwood County, South Carolina",639.0,484.0,155.0,047,91781,45
+4504792392,"Ninety Six CCD, Greenwood County, South Carolina",2197.0,1760.0,437.0,047,92392,45
+4504793627,"Ware Shoals-Hodges CCD, Greenwood County, South Carolina",2231.0,1786.0,445.0,047,93627,45
+4504793471,"Troy CCD, Greenwood County, South Carolina",480.0,437.0,43.0,047,93471,45
+4504791378,"Greenwood CCD, Greenwood County, South Carolina",11567.0,8864.0,2703.0,047,91378,45
+4505391313,"Grays-Tillman CCD, Jasper County, South Carolina",907.0,779.0,128.0,053,91313,45
+4505391443,"Hardeeville CCD, Jasper County, South Carolina",908.0,671.0,237.0,053,91443,45
+4505392834,"Ridgeland CCD, Jasper County, South Carolina",2872.0,2056.0,816.0,053,92834,45
+4505192327,"Myrtle Beach CCD, Horry County, South Carolina",40635.0,29141.0,11494.0,051,92327,45
+4505190117,"Aynor CCD, Horry County, South Carolina",3639.0,2799.0,840.0,051,90117,45
+4505190715,"Conway CCD, Horry County, South Carolina",12004.0,9609.0,2395.0,051,90715,45
+4505192041,"Loris CCD, Horry County, South Carolina",4374.0,3608.0,766.0,051,92041,45
+4505590468,"Camden CCD, Kershaw County, South Carolina",4368.0,3556.0,812.0,055,90468,45
+4505191963,"Little River CCD, Horry County, South Carolina",14809.0,11143.0,3666.0,051,91963,45
+4505190728,"Conway East CCD, Horry County, South Carolina",24544.0,17561.0,6983.0,051,90728,45
+4505192028,"Longs CCD, Horry County, South Carolina",2019.0,1766.0,253.0,051,92028,45
+4505590472,"Camden Northeast CCD, Kershaw County, South Carolina",1357.0,1102.0,255.0,055,90472,45
+4505592288,"Mount Pisgah CCD, Kershaw County, South Carolina",1005.0,904.0,101.0,055,92288,45
+4505593692,"Westville CCD, Kershaw County, South Carolina",669.0,602.0,67.0,055,93692,45
+4505590377,"Boykin CCD, Kershaw County, South Carolina",778.0,593.0,185.0,055,90377,45
+4505590247,"Bethune CCD, Kershaw County, South Carolina",585.0,499.0,86.0,055,90247,45
+4505591027,"Elgin CCD, Kershaw County, South Carolina",8950.0,8032.0,918.0,055,91027,45
+4506192899,"St. Charles CCD, Lee County, South Carolina",188.0,180.0,8.0,061,92899,45
+4506190260,"Bishopville CCD, Lee County, South Carolina",1082.0,901.0,181.0,061,90260,45
+4506190104,"Ashwood CCD, Lee County, South Carolina",653.0,611.0,42.0,061,90104,45
+4506192054,"Lynchburg CCD, Lee County, South Carolina",87.0,79.0,8.0,061,92054,45
+4507591040,"Elloree CCD, Orangeburg County, South Carolina",585.0,462.0,123.0,075,91040,45
+4507592509,"Orangeburg West CCD, Orangeburg County, South Carolina",1839.0,1449.0,390.0,075,92509,45
+4507591079,"Eutawville CCD, Orangeburg County, South Carolina",830.0,770.0,60.0,075,91079,45
+4507593211,"Springfield CCD, Orangeburg County, South Carolina",391.0,346.0,45.0,075,93211,45
+4507590364,"Bowman CCD, Orangeburg County, South Carolina",505.0,433.0,72.0,075,90364,45
+4507590390,"Branchville CCD, Orangeburg County, South Carolina",523.0,472.0,51.0,075,90390,45
+4507592444,"Norway CCD, Orangeburg County, South Carolina",460.0,402.0,58.0,075,92444,45
+4507590741,"Cope CCD, Orangeburg County, South Carolina",650.0,594.0,56.0,075,90741,45
+4507591547,"Holly Hill CCD, Orangeburg County, South Carolina",618.0,478.0,140.0,075,91547,45
+4507592496,"Orangeburg CCD, Orangeburg County, South Carolina",3530.0,2835.0,695.0,075,92496,45
+4507592340,"Neeses CCD, Orangeburg County, South Carolina",963.0,769.0,194.0,075,92340,45
+4507592405,"North CCD, Orangeburg County, South Carolina",731.0,619.0,112.0,075,92405,45
+4508391872,"Landrum CCD, Spartanburg County, South Carolina",2721.0,2156.0,565.0,083,91872,45
+4508392587,"Pauline CCD, Spartanburg County, South Carolina",3251.0,2757.0,494.0,083,92587,45
+4508390338,"Boiling Springs CCD, Spartanburg County, South Carolina",8217.0,6854.0,1363.0,083,90338,45
+4508391105,"Fairmont Mills CCD, Spartanburg County, South Carolina",3808.0,3143.0,665.0,083,91105,45
+4508391612,"Inman CCD, Spartanburg County, South Carolina",5918.0,4741.0,1177.0,083,91612,45
+4508393640,"Wellford CCD, Spartanburg County, South Carolina",6490.0,5019.0,1471.0,083,93640,45
+4508391053,"Enoree CCD, Spartanburg County, South Carolina",1546.0,1268.0,278.0,083,91053,45
+4508391287,"Gramling CCD, Spartanburg County, South Carolina",2417.0,2181.0,236.0,083,91287,45
+4508392795,"Reidville CCD, Spartanburg County, South Carolina",3865.0,3330.0,535.0,083,92795,45
+4508393198,"Spartanburg CCD, Spartanburg County, South Carolina",27982.0,19272.0,8710.0,083,93198,45
+4508393783,"Woodruff CCD, Spartanburg County, South Carolina",3296.0,2474.0,822.0,083,93783,45
+4508391404,"Greer CCD, Spartanburg County, South Carolina",3627.0,2818.0,809.0,083,91404,45
+4508392522,"Pacolet CCD, Spartanburg County, South Carolina",1438.0,1115.0,323.0,083,92522,45
+4508390598,"Chesnee CCD, Spartanburg County, South Carolina",1945.0,1472.0,473.0,083,90598,45
+4508390793,"Cowpens CCD, Spartanburg County, South Carolina",1300.0,961.0,339.0,083,90793,45
+4508392184,"Mayo CCD, Spartanburg County, South Carolina",1741.0,1316.0,425.0,083,92184,45
+4508391118,"Fingerville CCD, Spartanburg County, South Carolina",2142.0,1901.0,241.0,083,91118,45
+4500190455,"Calhoun Falls CCD, Abbeville County, South Carolina",631.0,424.0,207.0,001,90455,45
+4500190897,"Donalds CCD, Abbeville County, South Carolina",976.0,771.0,205.0,001,90897,45
+4500190013,"Abbeville CCD, Abbeville County, South Carolina",2777.0,2308.0,469.0,001,90013,45
+4500190091,"Antreville-Lowndesville CCD, Abbeville County, South Carolina",1233.0,1073.0,160.0,001,90091,45
+4500190910,"Due West CCD, Abbeville County, South Carolina",969.0,826.0,143.0,001,90910,45
+4500990130,"Bamberg CCD, Bamberg County, South Carolina",1027.0,927.0,100.0,009,90130,45
+4500990871,"Denmark CCD, Bamberg County, South Carolina",366.0,339.0,27.0,009,90871,45
+4500991014,"Ehrhardt CCD, Bamberg County, South Carolina",409.0,353.0,56.0,009,91014,45
+4500992483,"Olar CCD, Bamberg County, South Carolina",332.0,309.0,23.0,009,92483,45
+4501390312,"Bluffton CCD, Beaufort County, South Carolina",20239.0,16386.0,3853.0,013,90312,45
+4501393107,"Sheldon CCD, Beaufort County, South Carolina",499.0,453.0,46.0,013,93107,45
+4501390195,"Beaufort-Port Royal CCD, Beaufort County, South Carolina",9973.0,5746.0,4227.0,013,90195,45
+4501791196,"Fort Motte-Lone Star CCD, Calhoun County, South Carolina",162.0,124.0,38.0,017,91196,45
+4501391540,"Hilton Head Island CCD, Beaufort County, South Carolina",14850.0,12169.0,2681.0,013,91540,45
+4501792938,"St. Matthews CCD, Calhoun County, South Carolina",1204.0,1053.0,151.0,017,92938,45
+4501790481,"Cameron CCD, Calhoun County, South Carolina",583.0,522.0,61.0,017,90481,45
+4503391833,"Lake View CCD, Dillon County, South Carolina",1036.0,808.0,228.0,033,91833,45
+4503391417,"Hamer CCD, Dillon County, South Carolina",1088.0,777.0,311.0,033,91417,45
+4503391911,"Latta CCD, Dillon County, South Carolina",1537.0,1234.0,303.0,033,91911,45
+4503390884,"Dillon CCD, Dillon County, South Carolina",1558.0,1027.0,531.0,033,90884,45
+4503391976,"Little Rock CCD, Dillon County, South Carolina",427.0,378.0,49.0,033,91976,45
+4508192847,"Ridge Spring CCD, Saluda County, South Carolina",740.0,569.0,171.0,081,92847,45
+4508192990,"Saluda CCD, Saluda County, South Carolina",1482.0,1279.0,203.0,081,92990,45
+4507990494,"Camp Ground CCD, Richland County, South Carolina",1079.0,990.0,89.0,079,90494,45
+4507991586,"Horrell Hill CCD, Richland County, South Carolina",1573.0,1311.0,262.0,079,91586,45
+4507990325,"Blythewood CCD, Richland County, South Carolina",4896.0,4047.0,849.0,079,90325,45
+4507990702,"Columbia CCD, Richland County, South Carolina",31775.0,20411.0,11364.0,079,90702,45
+4507990962,"Eastover CCD, Richland County, South Carolina",670.0,594.0,76.0,079,90962,45
+4507991573,"Hopkins CCD, Richland County, South Carolina",372.0,244.0,128.0,079,91573,45
+4507992717,"Pontiac CCD, Richland County, South Carolina",12502.0,9767.0,2735.0,079,92717,45
+4507990923,"Dutch Fork CCD, Richland County, South Carolina",16457.0,12218.0,4239.0,079,90923,45
+4503992873,"Ridgeway CCD, Fairfield County, South Carolina",1208.0,1016.0,192.0,039,92873,45
+4503993770,"Winnsboro South CCD, Fairfield County, South Carolina",1888.0,1482.0,406.0,039,93770,45
+4503993757,"Winnsboro North CCD, Fairfield County, South Carolina",678.0,595.0,83.0,039,93757,45
+4504993809,"Yemassee CCD, Hampton County, South Carolina",312.0,244.0,68.0,049,93809,45
+4504991066,"Estill CCD, Hampton County, South Carolina",650.0,563.0,87.0,049,91066,45
+4506391625,"Irmo CCD, Lexington County, South Carolina",10105.0,8261.0,1844.0,063,91625,45
+4506390169,"Batesburg-Leesville CCD, Lexington County, South Carolina",2396.0,1924.0,472.0,063,90169,45
+4506393354,"Swansea CCD, Lexington County, South Carolina",4432.0,3297.0,1135.0,063,93354,45
+4507392015,"Long Creek CCD, Oconee County, South Carolina",979.0,827.0,152.0,073,92015,45
+4507393666,"Westminster CCD, Oconee County, South Carolina",3330.0,2265.0,1065.0,073,93666,45
+4507393081,"Seneca CCD, Oconee County, South Carolina",8570.0,5904.0,2666.0,073,93081,45
+4500793412,"Townville CCD, Anderson County, South Carolina",1612.0,1430.0,182.0,007,93412,45
+4507593035,"Santee-Vance CCD, Orangeburg County, South Carolina",908.0,786.0,122.0,075,93035,45
+4508190170,"Batesburg-Leesville CCD, Saluda County, South Carolina",1659.0,1459.0,200.0,081,90170,45
+4500792723,"Powdersville-Piedmont CCD, Anderson County, South Carolina",9458.0,8017.0,1441.0,007,92723,45
+4507991175,"Fort Jackson CCD, Richland County, South Carolina",382.0,0.0,382.0,079,91175,45
+4507792435,"North Pickens CCD, Pickens County, South Carolina",1288.0,1217.0,71.0,077,92435,45
+4504393014,"Sampit-North Santee CCD, Georgetown County, South Carolina",498.0,437.0,61.0,043,93014,45
+4504393538,"Waccamaw Neck CCD, Georgetown County, South Carolina",9803.0,8020.0,1783.0,043,93538,45
+4503793191,"Southeast Edgefield CCD, Edgefield County, South Carolina",2601.0,2200.0,401.0,037,93191,45
+4505191146,"Floyds Crossroads CCD, Horry County, South Carolina",1056.0,813.0,243.0,051,91146,45
+4508192440,"North Saluda CCD, Saluda County, South Carolina",655.0,543.0,112.0,081,92440,45
+4508593095,"Shaw AFB-Horatio CCD, Sumter County, South Carolina",4635.0,2913.0,1722.0,085,93095,45
+4504593160,"Slater-Marietta CCD, Greenville County, South Carolina",1549.0,1207.0,342.0,045,93160,45
+4508991601,"Indiantown CCD, Williamsburg County, South Carolina",119.0,108.0,11.0,089,91601,45
+4501992771,"Ravenel-Hollywood CCD, Charleston County, South Carolina",3303.0,2779.0,524.0,019,92771,45
+4503992237,"Monticello-Salem Crossroads CCD, Fairfield County, South Carolina",122.0,103.0,19.0,039,92237,45
+4501392927,"St. Helena Island CCD, Beaufort County, South Carolina",5839.0,4885.0,954.0,013,92927,45
+4506193251,"Stokes Bridge-Cypress Crossroads CCD, Lee County, South Carolina",414.0,308.0,106.0,061,93251,45
+4501990570,"Charleston Central CCD, Charleston County, South Carolina",7664.0,3476.0,4188.0,019,90570,45
+4501991761,"Kiawah Island-Seabrook Island CCD, Charleston County, South Carolina",1634.0,1579.0,55.0,019,91761,45
+4501993646,"West Ashley CCD, Charleston County, South Carolina",23752.0,15055.0,8697.0,019,93646,45
+4501992424,"North Charleston CCD, Charleston County, South Carolina",14453.0,8008.0,6445.0,019,92424,45
+4501793030,"Sandy Run-Staley Crossroads CCD, Calhoun County, South Carolina",1572.0,1244.0,328.0,017,93030,45
+4502391179,"Fort Lawn CCD, Chester County, South Carolina",1465.0,1274.0,191.0,023,91179,45
+4500390028,"Aiken Northeast CCD, Aiken County, South Carolina",1514.0,1300.0,214.0,003,90028,45
+4504991430,"Hampton-Varnville CCD, Hampton County, South Carolina",1820.0,1527.0,293.0,049,91430,45
+4504990416,"Brunson CCD, Hampton County, South Carolina",270.0,232.0,38.0,049,90416,45
+4504991222,"Furman-Scotia CCD, Hampton County, South Carolina",155.0,119.0,36.0,049,91222,45
+4504592652,"Piedmont CCD, Greenville County, South Carolina",4491.0,3632.0,859.0,045,92652,45
+4504591534,"Highland CCD, Greenville County, South Carolina",5671.0,4759.0,912.0,045,91534,45
+4504591209,"Fountain Inn CCD, Greenville County, South Carolina",3369.0,2899.0,470.0,045,91209,45
+4504593393,"Tigerville CCD, Greenville County, South Carolina",2595.0,2203.0,392.0,045,93393,45
+4504593796,"Woodville CCD, Greenville County, South Carolina",2494.0,2239.0,255.0,045,93796,45
+4504591391,"Greer CCD, Greenville County, South Carolina",7171.0,5154.0,2017.0,045,91391,45
+4504593133,"Simpsonville CCD, Greenville County, South Carolina",16055.0,13903.0,2152.0,045,93133,45
+4504593432,"Travelers Rest CCD, Greenville County, South Carolina",4893.0,3698.0,1195.0,045,93432,45
+4504593380,"Taylors CCD, Greenville County, South Carolina",11905.0,9420.0,2485.0,045,93380,45
+4504591365,"Greenville CCD, Greenville County, South Carolina",75128.0,52335.0,22793.0,045,91365,45
+4505793523,"Van Wyck CCD, Lancaster County, South Carolina",9732.0,8906.0,826.0,057,93523,45
+4505791755,"Kershaw CCD, Lancaster County, South Carolina",2094.0,1632.0,462.0,057,91755,45
+4505791482,"Heath Springs CCD, Lancaster County, South Carolina",1471.0,1240.0,231.0,057,91482,45
+4505793419,"Tradesville CCD, Lancaster County, South Carolina",1180.0,1091.0,89.0,057,93419,45
+4503592860,"Ridgeville CCD, Dorchester County, South Carolina",917.0,709.0,208.0,035,92860,45
+4503591456,"Harleyville CCD, Dorchester County, South Carolina",1312.0,1010.0,302.0,035,91456,45
+4503593276,"Summerville CCD, Dorchester County, South Carolina",33742.0,25416.0,8326.0,035,93276,45
+4503592912,"St. George CCD, Dorchester County, South Carolina",766.0,663.0,103.0,035,92912,45
+4503592782,"Reevesville CCD, Dorchester County, South Carolina",569.0,548.0,21.0,035,92782,45
+4504190845,"Danwood CCD, Florence County, South Carolina",3598.0,3156.0,442.0,041,90845,45
+4504192470,"Olanta CCD, Florence County, South Carolina",881.0,702.0,179.0,041,92470,45
+4504192548,"Pamplico CCD, Florence County, South Carolina",3494.0,3042.0,452.0,041,92548,45
+4504190780,"Coward CCD, Florence County, South Carolina",1228.0,991.0,237.0,041,90780,45
+4504191716,"Johnsonville CCD, Florence County, South Carolina",1408.0,1173.0,235.0,041,91716,45
+4504191807,"Lake City-Scranton CCD, Florence County, South Carolina",1845.0,1423.0,422.0,041,91807,45
+4504191131,"Florence CCD, Florence County, South Carolina",15810.0,11790.0,4020.0,041,91131,45
+4504193068,"Sardis CCD, Florence County, South Carolina",681.0,561.0,120.0,041,93068,45
+4504193406,"Timmonsville CCD, Florence County, South Carolina",424.0,284.0,140.0,041,93406,45
+4505991300,"Gray Court CCD, Laurens County, South Carolina",4725.0,3504.0,1221.0,059,91300,45
+4505992730,"Princeton CCD, Laurens County, South Carolina",2311.0,1946.0,365.0,059,92730,45
+4505990819,"Cross Hill CCD, Laurens County, South Carolina",1690.0,1476.0,214.0,059,90819,45
+4505791859,"Lancaster CCD, Lancaster County, South Carolina",9201.0,7344.0,1857.0,057,91859,45

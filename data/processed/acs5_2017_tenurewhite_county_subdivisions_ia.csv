@@ -1,0 +1,1663 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+1914992484,"Liberty township, Plymouth County, Iowa",133.0,124.0,9.0,149,92484,19
+1914993925,"Sioux City city, Plymouth County, Iowa",0.0,0.0,0.0,149,93925,19
+1914994254,"Union township, Plymouth County, Iowa",60.0,47.0,13.0,149,94254,19
+1914991908,"Henry township, Plymouth County, Iowa",55.0,55.0,0.0,149,91908,19
+1914993507,"Preston township, Plymouth County, Iowa",82.0,58.0,24.0,149,93507,19
+1914993564,"Remsen township, Plymouth County, Iowa",715.0,572.0,143.0,149,93564,19
+1914992274,"Johnson township, Plymouth County, Iowa",108.0,108.0,0.0,149,92274,19
+1914992865,"Marion township, Plymouth County, Iowa",219.0,199.0,20.0,149,92865,19
+1914994545,"Washington township, Plymouth County, Iowa",132.0,130.0,2.0,149,94545,19
+1914992589,"Lincoln township, Plymouth County, Iowa",74.0,56.0,18.0,149,92589,19
+1914993921,"Sioux township, Plymouth County, Iowa",143.0,143.0,0.0,149,93921,19
+1914993462,"Portland township, Plymouth County, Iowa",731.0,552.0,179.0,149,93462,19
+1901990384,"Buffalo township, Buchanan County, Iowa",121.0,108.0,13.0,019,90384,19
+1901991461,"Fremont township, Buchanan County, Iowa",85.0,78.0,7.0,019,91461,19
+1901994458,"Washington township, Buchanan County, Iowa",1927.0,1365.0,562.0,019,94458,19
+1901994047,"Sumner township, Buchanan County, Iowa",1208.0,1012.0,196.0,019,94047,19
+1901991977,"Homer township, Buchanan County, Iowa",277.0,227.0,50.0,019,91977,19
+1901992751,"Madison township, Buchanan County, Iowa",325.0,272.0,53.0,019,92751,19
+1914394678,"West Holman township, Osceola County, Iowa",686.0,434.0,252.0,143,94678,19
+1901391252,"Evansdale city, Black Hawk County, Iowa",1900.0,1277.0,623.0,013,91252,19
+1906192285,"Julien township, Dubuque County, Iowa",0.0,0.0,0.0,061,92285,19
+1914391111,"East Holman township, Osceola County, Iowa",532.0,477.0,55.0,143,91111,19
+1907394746,"Willow township, Greene County, Iowa",63.0,58.0,5.0,073,94746,19
+1907390342,"Bristol township, Greene County, Iowa",56.0,48.0,8.0,073,90342,19
+1907390537,"Cedar township, Greene County, Iowa",81.0,61.0,20.0,073,90537,19
+1907391932,"Highland township, Greene County, Iowa",235.0,184.0,51.0,073,91932,19
+1907391830,"Hardin township, Greene County, Iowa",44.0,44.0,0.0,073,91830,19
+1907394497,"Washington township, Greene County, Iowa",170.0,131.0,39.0,073,94497,19
+1907391404,"Franklin township, Greene County, Iowa",50.0,41.0,9.0,073,91404,19
+1907390897,"Dawson township, Greene County, Iowa",71.0,46.0,25.0,073,90897,19
+1907391746,"Greenbrier township, Greene County, Iowa",41.0,18.0,23.0,073,91746,19
+1907392221,"Jefferson city, Greene County, Iowa",1757.0,1231.0,526.0,073,92221,19
+1907393804,"Scranton township, Greene County, Iowa",299.0,232.0,67.0,073,93804,19
+1907391653,"Grant township, Greene County, Iowa",127.0,107.0,20.0,073,91653,19
+1907392115,"Jackson township, Greene County, Iowa",54.0,54.0,0.0,073,92115,19
+1907392304,"Kendrick township, Greene County, Iowa",72.0,66.0,6.0,073,92304,19
+1908390372,"Buckeye township, Hardin County, Iowa",108.0,78.0,30.0,083,90372,19
+1908391158,"Eldora township, Hardin County, Iowa",104.0,97.0,7.0,083,91158,19
+1908391245,"Etna township, Hardin County, Iowa",722.0,551.0,171.0,083,91245,19
+1908390804,"Concord township, Hardin County, Iowa",153.0,144.0,9.0,083,90804,19
+1908393363,"Pleasant township, Hardin County, Iowa",125.0,116.0,9.0,083,93363,19
+1908390036,"Alden township, Hardin County, Iowa",485.0,352.0,133.0,083,90036,19
+1908591863,"Harrison township, Harrison County, Iowa",625.0,466.0,159.0,085,91863,19
+1908391206,"Ellis township, Hardin County, Iowa",100.0,91.0,9.0,083,91206,19
+1908391157,"Eldora city, Hardin County, Iowa",1006.0,719.0,287.0,083,91157,19
+1908392121,"Jackson township, Hardin County, Iowa",97.0,95.0,2.0,083,92121,19
+1908393516,"Providence township, Hardin County, Iowa",153.0,113.0,40.0,083,93516,19
+1908390678,"Clay township, Hardin County, Iowa",251.0,197.0,54.0,083,90678,19
+1908590039,"Allen township, Harrison County, Iowa",69.0,58.0,11.0,085,90039,19
+1908590444,"Calhoun township, Harrison County, Iowa",152.0,152.0,0.0,085,90444,19
+1908590507,"Cass township, Harrison County, Iowa",94.0,76.0,18.0,085,90507,19
+1908594503,"Washington township, Harrison County, Iowa",246.0,171.0,75.0,085,94503,19
+1908593012,"Morgan township, Harrison County, Iowa",180.0,138.0,42.0,085,93012,19
+1908593534,"Raglan township, Harrison County, Iowa",93.0,86.0,7.0,085,93534,19
+1908590666,"Cincinnati township, Harrison County, Iowa",88.0,80.0,8.0,085,90666,19
+1908592223,"Jefferson township, Harrison County, Iowa",790.0,645.0,145.0,085,92223,19
+1908591038,"Douglas township, Harrison County, Iowa",69.0,54.0,15.0,085,91038,19
+1910991866,"Harrison township, Kossuth County, Iowa",298.0,239.0,59.0,109,91866,19
+1910990037,"Algona city, Kossuth County, Iowa",2514.0,1853.0,661.0,109,90037,19
+1910992565,"Lincoln township, Kossuth County, Iowa",68.0,54.0,14.0,109,92565,19
+1910993426,"Plum Creek township, Kossuth County, Iowa",116.0,89.0,27.0,109,93426,19
+1910993492,"Prairie township, Kossuth County, Iowa",66.0,61.0,5.0,109,93492,19
+1910993537,"Ramsey township, Kossuth County, Iowa",72.0,72.0,0.0,109,93537,19
+1910993636,"Riverdale township, Kossuth County, Iowa",76.0,61.0,15.0,109,93636,19
+1910991095,"Eagle township, Kossuth County, Iowa",45.0,45.0,0.0,109,91095,19
+1910992082,"Irvington township, Kossuth County, Iowa",87.0,54.0,33.0,109,92082,19
+1910993981,"Springfield township, Kossuth County, Iowa",62.0,62.0,0.0,109,93981,19
+1910994227,"Union township, Kossuth County, Iowa",97.0,97.0,0.0,109,94227,19
+1910991905,"Hebron township, Kossuth County, Iowa",54.0,27.0,27.0,109,91905,19
+1910991332,"Fenton township, Kossuth County, Iowa",222.0,184.0,38.0,109,91332,19
+1910992394,"Ledyard township, Kossuth County, Iowa",203.0,177.0,26.0,109,92394,19
+1910993864,"Sherman township, Kossuth County, Iowa",77.0,67.0,10.0,109,93864,19
+1910994071,"Swea township, Kossuth County, Iowa",58.0,47.0,11.0,109,94071,19
+1910990855,"Cresco township, Kossuth County, Iowa",391.0,379.0,12.0,109,90855,19
+1910991563,"German township, Kossuth County, Iowa",100.0,100.0,0.0,109,91563,19
+1910991767,"Greenwood township, Kossuth County, Iowa",318.0,253.0,65.0,109,91767,19
+1910990387,"Buffalo township, Kossuth County, Iowa",261.0,221.0,40.0,109,90387,19
+1910991521,"Garfield township, Kossuth County, Iowa",108.0,62.0,46.0,109,91521,19
+1910993810,"Seneca township, Kossuth County, Iowa",61.0,61.0,0.0,109,93810,19
+1910994644,"Wesley township, Kossuth County, Iowa",212.0,173.0,39.0,109,94644,19
+1910991668,"Grant township, Kossuth County, Iowa",32.0,28.0,4.0,109,91668,19
+1910992721,"Lotts Creek township, Kossuth County, Iowa",79.0,69.0,10.0,109,92721,19
+1910992730,"Lu Verne township, Kossuth County, Iowa",140.0,108.0,32.0,109,92730,19
+1910993459,"Portland township, Kossuth County, Iowa",63.0,63.0,0.0,109,93459,19
+1910994731,"Whittemore township, Kossuth County, Iowa",288.0,256.0,32.0,109,94731,19
+1910990417,"Burt township, Kossuth County, Iowa",279.0,244.0,35.0,109,90417,19
+1908391833,"Hardin township, Hardin County, Iowa",2455.0,1832.0,623.0,083,91833,19
+1908393858,"Sherman township, Hardin County, Iowa",287.0,226.0,61.0,083,93858,19
+1908394125,"Tipton township, Hardin County, Iowa",401.0,322.0,79.0,083,94125,19
+1908391662,"Grant township, Hardin County, Iowa",108.0,96.0,12.0,083,91662,19
+1908394215,"Union township, Hardin County, Iowa",376.0,318.0,58.0,083,94215,19
+1911593018,"Morning Sun township, Louisa County, Iowa",442.0,364.0,78.0,115,93018,19
+1911592874,"Marshall township, Louisa County, Iowa",65.0,54.0,11.0,115,92874,19
+1911590792,"Columbus City township, Louisa County, Iowa",678.0,564.0,114.0,115,90792,19
+1911591218,"Elm Grove township, Louisa County, Iowa",80.0,69.0,11.0,115,91218,19
+1911592235,"Jefferson township, Louisa County, Iowa",107.0,64.0,43.0,115,92235,19
+1911591620,"Grandview township, Louisa County, Iowa",536.0,476.0,60.0,115,91620,19
+1911593465,"Port Louisa township, Louisa County, Iowa",259.0,203.0,56.0,115,93465,19
+1911594416,"Wapello township, Louisa County, Iowa",953.0,786.0,167.0,115,94416,19
+1911590807,"Concord township, Louisa County, Iowa",195.0,175.0,20.0,115,90807,19
+1911593159,"Oakland township, Louisa County, Iowa",92.0,75.0,17.0,115,93159,19
+1911591170,"Eliot township, Louisa County, Iowa",137.0,122.0,15.0,115,91170,19
+1911594230,"Union township, Louisa County, Iowa",53.0,45.0,8.0,115,94230,19
+1911790216,"Benton township, Lucas County, Iowa",89.0,89.0,0.0,117,90216,19
+1911790549,"Cedar township, Lucas County, Iowa",119.0,99.0,20.0,117,90549,19
+1911792145,"Jackson township, Lucas County, Iowa",127.0,108.0,19.0,117,92145,19
+1911791230,"English township, Lucas County, Iowa",227.0,220.0,7.0,117,91230,19
+1911792568,"Lincoln township, Lucas County, Iowa",136.0,130.0,6.0,117,92568,19
+1911794713,"Whitebreast township, Lucas County, Iowa",188.0,178.0,10.0,117,94713,19
+1911794431,"Warren township, Lucas County, Iowa",93.0,87.0,6.0,117,94431,19
+1911790643,"Chariton city, Lucas County, Iowa",2005.0,1313.0,692.0,117,90643,19
+1911793240,"Otter Creek township, Lucas County, Iowa",72.0,69.0,3.0,117,93240,19
+1911794530,"Washington township, Lucas County, Iowa",284.0,240.0,44.0,117,94530,19
+1911794233,"Union township, Lucas County, Iowa",100.0,88.0,12.0,117,94233,19
+1911793366,"Pleasant township, Lucas County, Iowa",106.0,106.0,0.0,117,93366,19
+1911792469,"Liberty township, Lucas County, Iowa",124.0,110.0,14.0,117,92469,19
+1911990873,"Dale township, Lyon County, Iowa",94.0,61.0,33.0,119,90873,19
+1911991014,"Doon township, Lyon County, Iowa",465.0,425.0,40.0,119,91014,19
+1911991674,"Grant township, Lyon County, Iowa",86.0,72.0,14.0,119,91674,19
+1911993606,"Richland township, Lyon County, Iowa",452.0,357.0,95.0,119,93606,19
+1911993642,"Riverside township, Lyon County, Iowa",137.0,125.0,12.0,119,93642,19
+1911993915,"Sioux township, Lyon County, Iowa",139.0,139.0,0.0,119,93915,19
+1911992697,"Logan township, Lyon County, Iowa",87.0,87.0,0.0,119,92697,19
+1912992031,"Indian Creek township, Mills County, Iowa",343.0,234.0,109.0,129,92031,19
+1912992809,"Malvern city, Mills County, Iowa",406.0,338.0,68.0,129,92809,19
+1912993147,"Oak township, Mills County, Iowa",838.0,777.0,61.0,129,93147,19
+1912993897,"Silver Creek township, Mills County, Iowa",69.0,69.0,0.0,129,93897,19
+1912994719,"White Cloud township, Mills County, Iowa",75.0,57.0,18.0,129,94719,19
+1912990072,"Anderson township, Mills County, Iowa",177.0,146.0,31.0,129,90072,19
+1912990933,"Deer Creek township, Mills County, Iowa",71.0,33.0,38.0,129,90933,19
+1912992745,"Lyons township, Mills County, Iowa",77.0,69.0,8.0,129,92745,19
+1912991575,"Glenwood township, Mills County, Iowa",2255.0,1590.0,665.0,129,91575,19
+1912993741,"St. Marys township, Mills County, Iowa",46.0,37.0,9.0,129,93741,19
+1912990612,"Center township, Mills County, Iowa",281.0,268.0,13.0,129,90612,19
+1912993354,"Plattville township, Mills County, Iowa",382.0,359.0,23.0,129,93354,19
+1912992043,"Ingraham township, Mills County, Iowa",187.0,156.0,31.0,129,92043,19
+1912993540,"Rawles township, Mills County, Iowa",209.0,164.0,45.0,129,93540,19
+1913394671,"West Fork township, Monona County, Iowa",144.0,114.0,30.0,133,94671,19
+1913390084,"Ashton township, Monona County, Iowa",264.0,228.0,36.0,133,90084,19
+1913392355,"Lake township, Monona County, Iowa",57.0,33.0,24.0,133,92355,19
+1913393867,"Sherman township, Monona County, Iowa",133.0,112.0,21.0,133,93867,19
+1913393939,"Soldier township, Monona County, Iowa",140.0,94.0,46.0,133,93939,19
+1913390192,"Belvidere township, Monona County, Iowa",108.0,90.0,18.0,133,90192,19
+1913391416,"Franklin township, Monona County, Iowa",131.0,131.0,0.0,133,91416,19
+1913392817,"Maple township, Monona County, Iowa",451.0,344.0,107.0,133,92817,19
+1913393175,"Onawa city, Monona County, Iowa",1130.0,628.0,502.0,133,93175,19
+1913390828,"Cooper township, Monona County, Iowa",322.0,272.0,50.0,133,90828,19
+1913393735,"St. Clair township, Monona County, Iowa",291.0,219.0,72.0,133,93735,19
+1913393996,"Spring Valley township, Monona County, Iowa",154.0,137.0,17.0,133,93996,19
+1913391299,"Fairview township, Monona County, Iowa",56.0,56.0,0.0,133,91299,19
+1913392577,"Lincoln township, Monona County, Iowa",94.0,63.0,31.0,133,92577,19
+1913392283,"Jordan township, Monona County, Iowa",72.0,67.0,5.0,133,92283,19
+1913393918,"Sioux township, Monona County, Iowa",17.0,11.0,6.0,133,93918,19
+1913392307,"Kennebec township, Monona County, Iowa",113.0,99.0,14.0,133,92307,19
+1913390615,"Center township, Monona County, Iowa",35.0,28.0,7.0,133,90615,19
+1913391677,"Grant township, Monona County, Iowa",66.0,59.0,7.0,133,91677,19
+1913394749,"Willow township, Monona County, Iowa",28.0,17.0,11.0,133,94749,19
+1913991491,"Fruitland township, Muscatine County, Iowa",751.0,711.0,40.0,139,91491,19
+1913993027,"Moscow township, Muscatine County, Iowa",237.0,212.0,25.0,139,93027,19
+1913993204,"Orono township, Muscatine County, Iowa",91.0,70.0,21.0,139,93204,19
+1911994707,"Wheeler township, Lyon County, Iowa",472.0,417.0,55.0,119,94707,19
+1911990735,"Cleveland township, Lyon County, Iowa",33.0,33.0,0.0,119,90735,19
+1911990579,"Centennial township, Lyon County, Iowa",62.0,49.0,13.0,119,90579,19
+1911992385,"Larchwood township, Lyon County, Iowa",524.0,484.0,40.0,119,92385,19
+1911993660,"Rock township, Lyon County, Iowa",1032.0,856.0,176.0,119,93660,19
+1911991524,"Garfield township, Lyon County, Iowa",144.0,135.0,9.0,119,91524,19
+1911992742,"Lyon township, Lyon County, Iowa",150.0,121.0,29.0,119,92742,19
+1911992925,"Midland township, Lyon County, Iowa",17.0,17.0,0.0,119,92925,19
+1911991164,"Elgin township, Lyon County, Iowa",314.0,230.0,84.0,119,91164,19
+1911992436,"Liberal township, Lyon County, Iowa",137.0,124.0,13.0,119,92436,19
+1911990051,"Allison township, Lyon County, Iowa",52.0,44.0,8.0,119,90051,19
+1918992706,"Logan township, Winnebago County, Iowa",105.0,101.0,4.0,189,92706,19
+1918990636,"Center township, Winnebago County, Iowa",1050.0,685.0,365.0,189,90636,19
+1918991365,"Forest township, Winnebago County, Iowa",1634.0,1172.0,462.0,189,91365,19
+1918993141,"Norway township, Winnebago County, Iowa",127.0,99.0,28.0,189,93141,19
+1918991716,"Grant township, Winnebago County, Iowa",48.0,41.0,7.0,189,91716,19
+1918993105,"Newton township, Winnebago County, Iowa",56.0,56.0,0.0,189,93105,19
+1918992628,"Lincoln township, Winnebago County, Iowa",138.0,98.0,40.0,189,92628,19
+1918992640,"Linden township, Winnebago County, Iowa",91.0,91.0,0.0,189,92640,19
+1918993038,"Mount Valley township, Winnebago County, Iowa",284.0,284.0,0.0,189,93038,19
+1918991152,"Eden township, Winnebago County, Iowa",38.0,38.0,0.0,189,91152,19
+1918990396,"Buffalo township, Winnebago County, Iowa",431.0,392.0,39.0,189,90396,19
+1918992316,"King township, Winnebago County, Iowa",259.0,225.0,34.0,189,92316,19
+1914794407,"Walnut township, Palo Alto County, Iowa",456.0,344.0,112.0,147,94407,19
+1914791941,"Highland township, Palo Alto County, Iowa",360.0,277.0,83.0,147,91941,19
+1914793714,"Rush Lake township, Palo Alto County, Iowa",188.0,144.0,44.0,147,93714,19
+1914794650,"West Bend township, Palo Alto County, Iowa",399.0,310.0,89.0,147,94650,19
+1914794338,"Vernon township, Palo Alto County, Iowa",19.0,19.0,0.0,147,94338,19
+1914790309,"Booth township, Palo Alto County, Iowa",51.0,44.0,7.0,147,90309,19
+1914793060,"Nevada township, Palo Alto County, Iowa",34.0,28.0,6.0,147,93060,19
+1914791203,"Ellington township, Palo Alto County, Iowa",26.0,26.0,0.0,147,91203,19
+1914791335,"Fern Valley township, Palo Alto County, Iowa",72.0,57.0,15.0,147,91335,19
+1914792025,"Independence township, Palo Alto County, Iowa",86.0,57.0,29.0,147,92025,19
+1903790942,"Deerfield township, Chickasaw County, Iowa",108.0,102.0,6.0,037,90942,19
+1903791437,"Fredericksburg township, Chickasaw County, Iowa",451.0,355.0,96.0,037,91437,19
+1903790909,"Dayton township, Chickasaw County, Iowa",705.0,513.0,192.0,037,90909,19
+1903793576,"Richland township, Chickasaw County, Iowa",136.0,136.0,0.0,037,93576,19
+1903794008,"Stapleton township, Chickasaw County, Iowa",275.0,243.0,32.0,037,94008,19
+1903790663,"Chickasaw township, Chickasaw County, Iowa",315.0,250.0,65.0,037,90663,19
+1903792184,"Jacksonville township, Chickasaw County, Iowa",148.0,130.0,18.0,037,92184,19
+1903791083,"Dresden township, Chickasaw County, Iowa",379.0,283.0,96.0,037,91083,19
+1903794473,"Washington township, Chickasaw County, Iowa",343.0,288.0,55.0,037,94473,19
+1903793081,"New Hampton township, Chickasaw County, Iowa",1271.0,920.0,351.0,037,93081,19
+1903794299,"Utica township, Chickasaw County, Iowa",181.0,148.0,33.0,037,94299,19
+1903790324,"Bradford township, Chickasaw County, Iowa",889.0,742.0,147.0,037,90324,19
+1903994422,"Ward township, Clarke County, Iowa",115.0,100.0,15.0,039,94422,19
+1903993213,"Osceola township, Clarke County, Iowa",136.0,103.0,33.0,039,93213,19
+1903992322,"Knox township, Clarke County, Iowa",109.0,88.0,21.0,039,92322,19
+1903992445,"Liberty township, Clarke County, Iowa",126.0,119.0,7.0,039,92445,19
+1903991077,"Doyle township, Clarke County, Iowa",123.0,111.0,12.0,039,91077,19
+1903991395,"Franklin township, Clarke County, Iowa",72.0,36.0,36.0,039,91395,19
+1903994476,"Washington township, Clarke County, Iowa",80.0,74.0,6.0,039,94476,19
+1903994134,"Troy township, Clarke County, Iowa",389.0,304.0,85.0,039,94134,19
+1903993212,"Osceola city, Clarke County, Iowa",1689.0,995.0,694.0,039,93212,19
+1903991470,"Fremont township, Clarke County, Iowa",209.0,170.0,39.0,039,91470,19
+1903991740,"Green Bay township, Clarke County, Iowa",79.0,79.0,0.0,039,91740,19
+1903992757,"Madison township, Clarke County, Iowa",71.0,66.0,5.0,039,92757,19
+1903992106,"Jackson township, Clarke County, Iowa",229.0,178.0,51.0,039,92106,19
+1905190732,"Cleveland township, Davis County, Iowa",252.0,240.0,12.0,051,90732,19
+1905194197,"Union township, Davis County, Iowa",130.0,130.0,0.0,051,94197,19
+1905191263,"Fabius township, Davis County, Iowa",93.0,79.0,14.0,051,91263,19
+1905193747,"Salt Creek township, Davis County, Iowa",95.0,95.0,0.0,051,93747,19
+1905193933,"Soap Creek township, Davis County, Iowa",198.0,181.0,17.0,051,93933,19
+1905194677,"West Grove township, Davis County, Iowa",141.0,133.0,8.0,051,94677,19
+1905191782,"Grove township, Davis County, Iowa",48.0,48.0,0.0,051,91782,19
+1905194791,"Wyacondah township, Davis County, Iowa",177.0,177.0,0.0,051,94791,19
+1905191377,"Fox River township, Davis County, Iowa",163.0,118.0,45.0,051,91377,19
+1905193693,"Roscoe township, Davis County, Iowa",27.0,9.0,18.0,051,93693,19
+1905193297,"Perry township, Davis County, Iowa",104.0,104.0,0.0,051,93297,19
+1905193480,"Prairie township, Davis County, Iowa",166.0,140.0,26.0,051,93480,19
+1905190268,"Bloomfield city, Davis County, Iowa",1081.0,703.0,378.0,051,90268,19
+1905192502,"Lick Creek township, Davis County, Iowa",329.0,271.0,58.0,051,92502,19
+1905990999,"Diamond Lake township, Dickinson County, Iowa",147.0,133.0,14.0,059,90999,19
+1905191080,"Drakesville township, Davis County, Iowa",129.0,98.0,31.0,051,91080,19
+1905192844,"Marion township, Davis County, Iowa",87.0,87.0,0.0,051,92844,19
+1905992931,"Milford township, Dickinson County, Iowa",454.0,329.0,125.0,059,92931,19
+1905993168,"Okoboji township, Dickinson County, Iowa",920.0,734.0,186.0,059,93168,19
+1905992379,"Lakeville township, Dickinson County, Iowa",737.0,620.0,117.0,059,92379,19
+1905990639,"Center Grove township, Dickinson County, Iowa",3959.0,2765.0,1194.0,059,90639,19
+1905993960,"Spirit Lake township, Dickinson County, Iowa",619.0,576.0,43.0,059,93960,19
+1905994062,"Superior township, Dickinson County, Iowa",116.0,100.0,16.0,059,94062,19
+1905993903,"Silver Lake township, Dickinson County, Iowa",516.0,434.0,82.0,059,93903,19
+1905994698,"Westport township, Dickinson County, Iowa",48.0,44.0,4.0,059,94698,19
+1905992673,"Lloyd township, Dickinson County, Iowa",274.0,194.0,80.0,059,92673,19
+1905993585,"Richland township, Dickinson County, Iowa",93.0,79.0,14.0,059,93585,19
+1905991257,"Excelsior township, Dickinson County, Iowa",38.0,30.0,8.0,059,91257,19
+1909390258,"Blaine township, Ida County, Iowa",219.0,181.0,38.0,093,90258,19
+1909390837,"Corwin township, Ida County, Iowa",1041.0,695.0,346.0,093,90837,19
+1909391770,"Griggs township, Ida County, Iowa",605.0,492.0,113.0,093,91770,19
+1909390138,"Battle township, Ida County, Iowa",61.0,44.0,17.0,093,90138,19
+1909391041,"Douglas township, Ida County, Iowa",119.0,110.0,9.0,093,91041,19
+1909392694,"Logan township, Ida County, Iowa",118.0,89.0,29.0,093,92694,19
+1909391665,"Grant township, Ida County, Iowa",49.0,43.0,6.0,093,91665,19
+1909392814,"Maple township, Ida County, Iowa",368.0,297.0,71.0,093,92814,19
+1909391500,"Galva township, Ida County, Iowa",208.0,185.0,23.0,093,91500,19
+1909391518,"Garfield township, Ida County, Iowa",40.0,26.0,14.0,093,91518,19
+1909391893,"Hayes township, Ida County, Iowa",80.0,41.0,39.0,093,91893,19
+1909393894,"Silver Creek township, Ida County, Iowa",23.0,20.0,3.0,093,93894,19
+1910392229,"Jefferson township, Johnson County, Iowa",1591.0,1525.0,66.0,103,92229,19
+1910390543,"Cedar township, Johnson County, Iowa",187.0,187.0,0.0,103,90543,19
+1910390714,"Clear Creek township, Johnson County, Iowa",1822.0,1046.0,776.0,103,90714,19
+1917190864,"Crystal township, Tama County, Iowa",56.0,48.0,8.0,171,90864,19
+1917190669,"Clark township, Tama County, Iowa",631.0,563.0,68.0,171,90669,19
+1917194812,"York township, Tama County, Iowa",180.0,168.0,12.0,171,94812,19
+1917190474,"Carlton township, Tama County, Iowa",328.0,293.0,35.0,171,90474,19
+1917191995,"Howard township, Tama County, Iowa",161.0,109.0,52.0,171,91995,19
+1917193243,"Otter Creek township, Tama County, Iowa",138.0,138.0,0.0,171,93243,19
+1917193972,"Spring Creek township, Tama County, Iowa",570.0,452.0,118.0,171,93972,19
+1917193618,"Richland township, Tama County, Iowa",70.0,58.0,12.0,171,93618,19
+1917191554,"Geneseo township, Tama County, Iowa",168.0,152.0,16.0,171,91554,19
+1917194083,"Tama township, Tama County, Iowa",853.0,643.0,210.0,171,94083,19
+1917994575,"Washington township, Wapello County, Iowa",595.0,468.0,127.0,179,94575,19
+1917993381,"Pleasant township, Wapello County, Iowa",69.0,69.0,0.0,179,93381,19
+1917990027,"Agency township, Wapello County, Iowa",566.0,469.0,97.0,179,90027,19
+1901591503,"Garden township, Boone County, Iowa",396.0,338.0,58.0,015,91503,19
+1901593291,"Peoples township, Boone County, Iowa",108.0,78.0,30.0,015,93291,19
+1901591860,"Harrison township, Boone County, Iowa",166.0,126.0,40.0,015,91860,19
+1901590057,"Amaqua township, Boone County, Iowa",118.0,105.0,13.0,015,90057,19
+1901591029,"Douglas township, Boone County, Iowa",999.0,769.0,230.0,015,91029,19
+1901591629,"Grant township, Boone County, Iowa",158.0,85.0,73.0,015,91629,19
+1901592094,"Jackson township, Boone County, Iowa",343.0,319.0,24.0,015,92094,19
+1914791287,"Fairfield township, Palo Alto County, Iowa",101.0,77.0,24.0,147,91287,19
+1914792718,"Lost Island township, Palo Alto County, Iowa",90.0,69.0,21.0,147,92718,19
+1914791725,"Great Oak township, Palo Alto County, Iowa",44.0,44.0,0.0,147,91725,19
+1914793906,"Silver Lake township, Palo Alto County, Iowa",133.0,94.0,39.0,147,93906,19
+1914791224,"Emmetsburg township, Palo Alto County, Iowa",1092.0,788.0,304.0,147,91224,19
+1913991590,"Goshen township, Muscatine County, Iowa",177.0,152.0,25.0,139,91590,19
+1913994419,"Wapsinonoc township, Muscatine County, Iowa",1025.0,733.0,292.0,139,94419,19
+1913990279,"Bloomington township, Muscatine County, Iowa",7780.0,5706.0,2074.0,139,90279,19
+1913992997,"Montpelier township, Muscatine County, Iowa",303.0,292.0,11.0,139,92997,19
+1913993816,"Seventy-Six township, Muscatine County, Iowa",160.0,141.0,19.0,139,93816,19
+1913994074,"Sweetland township, Muscatine County, Iowa",960.0,753.0,207.0,139,94074,19
+1913993318,"Pike township, Muscatine County, Iowa",360.0,325.0,35.0,139,93318,19
+1913994758,"Wilton township, Muscatine County, Iowa",1408.0,993.0,415.0,139,94758,19
+1913992358,"Lake township, Muscatine County, Iowa",236.0,175.0,61.0,139,92358,19
+1913991494,"Fulton township, Muscatine County, Iowa",299.0,251.0,48.0,139,91494,19
+1913990561,"Cedar township, Muscatine County, Iowa",104.0,104.0,0.0,139,90561,19
+1914390111,"Baker township, Osceola County, Iowa",163.0,149.0,14.0,143,90111,19
+1914391302,"Fairview township, Osceola County, Iowa",110.0,69.0,41.0,143,91302,19
+1914391572,"Gilman township, Osceola County, Iowa",267.0,203.0,64.0,143,91572,19
+1914391875,"Harrison township, Osceola County, Iowa",72.0,59.0,13.0,143,91875,19
+1914391986,"Horton township, Osceola County, Iowa",63.0,15.0,48.0,143,91986,19
+1914393162,"Ocheyedan township, Osceola County, Iowa",294.0,274.0,20.0,143,93162,19
+1914391584,"Goewey township, Osceola County, Iowa",121.0,101.0,20.0,143,91584,19
+1914390054,"Allison township, Osceola County, Iowa",26.0,24.0,2.0,143,90054,19
+1914394755,"Wilson township, Osceola County, Iowa",55.0,55.0,0.0,143,94755,19
+1914394365,"Viola township, Osceola County, Iowa",83.0,55.0,28.0,143,94365,19
+1915390951,"Delaware township, Polk County, Iowa",3382.0,2902.0,480.0,153,90951,19
+1915392247,"Jefferson township, Polk County, Iowa",3819.0,3478.0,341.0,153,92247,19
+1915391056,"Douglas township, Polk County, Iowa",2507.0,2085.0,422.0,153,91056,19
+1915392409,"Lee township, Polk County, Iowa",16378.0,10800.0,5578.0,153,92409,19
+1915394257,"Union township, Polk County, Iowa",198.0,187.0,11.0,153,94257,19
+1915393759,"Saylor township, Polk County, Iowa",1947.0,1529.0,418.0,153,93759,19
+1915394629,"Webster township, Polk County, Iowa",21140.0,15781.0,5359.0,153,94629,19
+1915390987,"Des Moines township, Polk County, Iowa",32940.0,21224.0,11716.0,153,90987,19
+1915390270,"Bloomfield township, Polk County, Iowa",10124.0,6718.0,3406.0,153,90270,19
+1915390456,"Camp township, Polk County, Iowa",810.0,696.0,114.0,153,90456,19
+1915391371,"Four Mile township, Polk County, Iowa",3349.0,2585.0,764.0,153,91371,19
+1915390168,"Beaver township, Polk County, Iowa",978.0,698.0,280.0,153,90168,19
+1915390042,"Allen township, Polk County, Iowa",526.0,510.0,16.0,153,90042,19
+1915390690,"Clay township, Polk County, Iowa",6492.0,5025.0,1467.0,153,90690,19
+1915390858,"Crocker township, Polk County, Iowa",19166.0,14523.0,4643.0,153,90858,19
+1915391185,"Elkhart township, Polk County, Iowa",648.0,519.0,129.0,153,91185,19
+1916592160,"Jackson township, Shelby County, Iowa",100.0,82.0,18.0,165,92160,19
+1916592256,"Jefferson township, Shelby County, Iowa",264.0,204.0,60.0,165,92256,19
+1914791449,"Freedom township, Palo Alto County, Iowa",502.0,397.0,105.0,147,91449,19
+1916590627,"Center township, Shelby County, Iowa",153.0,117.0,36.0,165,90627,19
+1916593447,"Polk township, Shelby County, Iowa",80.0,61.0,19.0,165,93447,19
+1916593834,"Shelby township, Shelby County, Iowa",396.0,294.0,102.0,165,93834,19
+1916594266,"Union township, Shelby County, Iowa",243.0,204.0,39.0,165,94266,19
+1901594797,"Yell township, Boone County, Iowa",948.0,776.0,172.0,015,94797,19
+1901594176,"Union township, Boone County, Iowa",145.0,117.0,28.0,015,94176,19
+1901590969,"Des Moines township, Boone County, Iowa",5454.0,3948.0,1506.0,015,90969,19
+1916592610,"Lincoln township, Shelby County, Iowa",111.0,92.0,19.0,165,92610,19
+1916592991,"Monroe township, Shelby County, Iowa",57.0,50.0,7.0,165,92991,19
+1916594560,"Washington township, Shelby County, Iowa",188.0,176.0,12.0,165,94560,19
+1916591062,"Douglas township, Shelby County, Iowa",157.0,113.0,44.0,165,91062,19
+1916591305,"Fairview township, Shelby County, Iowa",148.0,140.0,8.0,165,91305,19
+1916591731,"Greeley township, Shelby County, Iowa",106.0,86.0,20.0,165,91731,19
+1916591849,"Harlan city, Shelby County, Iowa",2066.0,1645.0,421.0,165,91849,19
+1916590513,"Cass township, Shelby County, Iowa",180.0,139.0,41.0,165,90513,19
+1916594689,"Westphalia township, Shelby County, Iowa",272.0,204.0,68.0,165,94689,19
+1916590693,"Clay township, Shelby County, Iowa",324.0,249.0,75.0,165,90693,19
+1916591791,"Grove township, Shelby County, Iowa",20.0,20.0,0.0,165,91791,19
+1900794449,"Washington township, Appanoose County, Iowa",339.0,254.0,85.0,007,94449,19
+1900790435,"Caldwell township, Appanoose County, Iowa",172.0,161.0,11.0,007,90435,19
+1900793822,"Sharon township, Appanoose County, Iowa",41.0,41.0,0.0,007,93822,19
+1900794638,"Wells township, Appanoose County, Iowa",84.0,69.0,15.0,007,94638,19
+1900790642,"Chariton township, Appanoose County, Iowa",97.0,83.0,14.0,007,90642,19
+1900794092,"Taylor township, Appanoose County, Iowa",385.0,305.0,80.0,007,94092,19
+1900790177,"Bellair township, Appanoose County, Iowa",238.0,206.0,32.0,007,90177,19
+1900792271,"Johns township, Appanoose County, Iowa",111.0,94.0,17.0,007,92271,19
+1900790640,"Centerville city, Appanoose County, Iowa",2344.0,1584.0,760.0,007,90640,19
+1900791386,"Franklin township, Appanoose County, Iowa",60.0,49.0,11.0,007,91386,19
+1900793357,"Pleasant township, Appanoose County, Iowa",302.0,277.0,25.0,007,93357,19
+1900794167,"Union township, Appanoose County, Iowa",88.0,79.0,9.0,007,94167,19
+1900794329,"Vermillion township, Appanoose County, Iowa",302.0,225.0,77.0,007,94329,19
+1900792016,"Independence township, Appanoose County, Iowa",104.0,92.0,12.0,007,92016,19
+1900794155,"Udell township, Appanoose County, Iowa",134.0,113.0,21.0,007,94155,19
+1900792520,"Lincoln township, Appanoose County, Iowa",58.0,58.0,0.0,007,92520,19
+1900794392,"Walnut township, Appanoose County, Iowa",314.0,277.0,37.0,007,94392,19
+1900791023,"Douglas township, Appanoose County, Iowa",51.0,43.0,8.0,007,91023,19
+1908790114,"Baltimore township, Henry County, Iowa",326.0,310.0,16.0,087,90114,19
+1915391425,"Franklin township, Polk County, Iowa",1683.0,1423.0,260.0,153,91425,19
+1915392595,"Lincoln township, Polk County, Iowa",362.0,341.0,21.0,153,92595,19
+1915392781,"Madison township, Polk County, Iowa",1321.0,1090.0,231.0,153,92781,19
+1915393762,"Saylorville Reservoir UT, Polk County, Iowa",14.0,14.0,0.0,153,93762,19
+1915394548,"Washington township, Polk County, Iowa",150.0,137.0,13.0,153,94548,19
+1915394410,"Walnut township, Polk County, Iowa",24603.0,16936.0,7667.0,153,94410,19
+1918790936,"Deer Creek township, Webster County, Iowa",124.0,117.0,7.0,187,90936,19
+1918790771,"Colfax township, Webster County, Iowa",71.0,55.0,16.0,187,90771,19
+1918790831,"Cooper township, Webster County, Iowa",177.0,130.0,47.0,187,90831,19
+1918791596,"Gowrie township, Webster County, Iowa",457.0,374.0,83.0,187,91596,19
+1918793069,"Newark township, Webster County, Iowa",118.0,89.0,29.0,187,93069,19
+1918793423,"Pleasant Valley township, Webster County, Iowa",304.0,243.0,61.0,187,93423,19
+1918793684,"Roland township, Webster County, Iowa",271.0,195.0,76.0,187,93684,19
+1918790102,"Badger township, Webster County, Iowa",448.0,410.0,38.0,187,90102,19
+1918790702,"Clay township, Webster County, Iowa",59.0,59.0,0.0,187,90702,19
+1918792277,"Johnson township, Webster County, Iowa",200.0,143.0,57.0,187,92277,19
+1918792715,"Lost Grove township, Webster County, Iowa",251.0,193.0,58.0,187,92715,19
+1918794584,"Washington township, Webster County, Iowa",293.0,213.0,80.0,187,94584,19
+1918794632,"Webster township, Webster County, Iowa",119.0,77.0,42.0,187,94632,19
+1918791068,"Douglas township, Webster County, Iowa",409.0,365.0,44.0,187,91068,19
+1918790405,"Burnside township, Webster County, Iowa",133.0,82.0,51.0,187,90405,19
+1918790915,"Dayton township, Webster County, Iowa",450.0,337.0,113.0,187,90915,19
+1918792178,"Jackson township, Webster County, Iowa",141.0,117.0,24.0,187,92178,19
+1918791370,"Fort Dodge city, Webster County, Iowa",9019.0,5669.0,3350.0,187,91370,19
+1918791497,"Fulton township, Webster County, Iowa",148.0,143.0,5.0,187,91497,19
+1918793220,"Otho township, Webster County, Iowa",398.0,323.0,75.0,187,93220,19
+1918794800,"Yell township, Webster County, Iowa",26.0,24.0,2.0,187,94800,19
+1918791842,"Hardin township, Webster County, Iowa",56.0,50.0,6.0,187,91842,19
+1918794053,"Sumner township, Webster County, Iowa",149.0,130.0,19.0,187,94053,19
+1918791191,"Elkhorn township, Webster County, Iowa",293.0,268.0,25.0,187,91191,19
+1916991992,"Howard township, Story County, Iowa",911.0,717.0,194.0,169,91992,19
+1916993066,"New Albany township, Story County, Iowa",452.0,373.0,79.0,169,93066,19
+1916991428,"Franklin township, Story County, Iowa",8419.0,5667.0,2752.0,169,91428,19
+1916992034,"Indian Creek township, Story County, Iowa",531.0,449.0,82.0,169,92034,19
+1916992340,"Lafayette township, Story County, Iowa",1287.0,876.0,411.0,169,92340,19
+1916994269,"Union township, Story County, Iowa",414.0,356.0,58.0,169,94269,19
+1916992616,"Lincoln township, Story County, Iowa",279.0,240.0,39.0,169,92616,19
+1916992934,"Milford township, Story County, Iowa",275.0,165.0,110.0,169,92934,19
+1908793036,"Mount Pleasant city, Henry County, Iowa",2720.0,1786.0,934.0,087,93036,19
+1908794131,"Trenton township, Henry County, Iowa",199.0,188.0,11.0,087,94131,19
+1908792853,"Marion township, Henry County, Iowa",94.0,85.0,9.0,087,92853,19
+1908793087,"New London township, Henry County, Iowa",955.0,715.0,240.0,087,93087,19
+1908794609,"Wayne township, Henry County, Iowa",237.0,184.0,53.0,087,94609,19
+1908792226,"Jefferson township, Henry County, Iowa",547.0,399.0,148.0,087,92226,19
+1908794122,"Tippecanoe township, Henry County, Iowa",337.0,303.0,34.0,087,94122,19
+1908790459,"Canaan township, Henry County, Iowa",151.0,112.0,39.0,087,90459,19
+1908790606,"Center township, Henry County, Iowa",449.0,284.0,165.0,087,90606,19
+1908792127,"Jackson township, Henry County, Iowa",173.0,153.0,20.0,087,92127,19
+1908793786,"Scott township, Henry County, Iowa",491.0,384.0,107.0,087,93786,19
+1915992487,"Liberty township, Ringgold County, Iowa",38.0,23.0,15.0,159,92487,19
+1915992604,"Lincoln township, Ringgold County, Iowa",62.0,52.0,10.0,159,92604,19
+1915992922,"Middle Fork township, Ringgold County, Iowa",16.0,16.0,0.0,159,92922,19
+1915994263,"Union township, Ringgold County, Iowa",181.0,161.0,20.0,159,94263,19
+1915991698,"Grant township, Ringgold County, Iowa",71.0,58.0,13.0,159,91698,19
+1915992253,"Jefferson township, Ringgold County, Iowa",52.0,45.0,7.0,159,92253,19
+1915994119,"Tingley township, Ringgold County, Iowa",129.0,80.0,49.0,159,94119,19
+1915994557,"Washington township, Ringgold County, Iowa",191.0,154.0,37.0,159,94557,19
+1915990219,"Benton township, Ringgold County, Iowa",22.0,21.0,1.0,159,90219,19
+1915993034,"Mount Ayr city, Ringgold County, Iowa",835.0,610.0,225.0,159,93034,19
+1900390780,"Colony township, Adams County, Iowa",69.0,50.0,19.0,003,90780,19
+1900393120,"Nodaway township, Adams County, Iowa",96.0,84.0,12.0,003,93120,19
+1900392193,"Jasper township, Adams County, Iowa",175.0,155.0,20.0,003,92193,19
+1900392517,"Lincoln township, Adams County, Iowa",24.0,24.0,0.0,003,92517,19
+1900391020,"Douglas township, Adams County, Iowa",73.0,59.0,14.0,003,91020,19
+1900393504,"Prescott township, Adams County, Iowa",174.0,144.0,30.0,003,93504,19
+1900392916,"Mercer township, Adams County, Iowa",55.0,9.0,46.0,003,92916,19
+1900390471,"Carl township, Adams County, Iowa",48.0,43.0,5.0,003,90471,19
+1900391626,"Grant township, Adams County, Iowa",54.0,50.0,4.0,003,91626,19
+1900393531,"Quincy township, Adams County, Iowa",730.0,570.0,160.0,003,93531,19
+1900394446,"Washington township, Adams County, Iowa",61.0,37.0,24.0,003,94446,19
+1900394164,"Union township, Adams County, Iowa",64.0,41.0,23.0,003,94164,19
+1900192199,"Jefferson township, Adair County, Iowa",45.0,45.0,0.0,001,92199,19
+1900193570,"Richland township, Adair County, Iowa",65.0,56.0,9.0,001,93570,19
+1900194443,"Washington township, Adair County, Iowa",75.0,39.0,36.0,001,94443,19
+1900191608,"Grand River township, Adair County, Iowa",53.0,33.0,20.0,001,91608,19
+1900194032,"Summerset township, Adair County, Iowa",427.0,335.0,92.0,001,94032,19
+1900194161,"Union township, Adair County, Iowa",45.0,37.0,8.0,001,94161,19
+1900194389,"Walnut township, Adair County, Iowa",63.0,62.0,1.0,001,94389,19
+1900191854,"Harrison township, Adair County, Iowa",81.0,53.0,28.0,001,91854,19
+1900192397,"Lee township, Adair County, Iowa",49.0,49.0,0.0,001,92397,19
+1900192514,"Lincoln township, Adair County, Iowa",353.0,268.0,85.0,001,92514,19
+1900193519,"Prussia township, Adair County, Iowa",57.0,31.0,26.0,001,93519,19
+1900194035,"Summit township, Adair County, Iowa",436.0,312.0,124.0,001,94035,19
+1900191776,"Grove township, Adair County, Iowa",39.0,39.0,0.0,001,91776,19
+1900193198,"Orient township, Adair County, Iowa",256.0,227.0,29.0,001,93198,19
+1900191755,"Greenfield township, Adair County, Iowa",919.0,661.0,258.0,001,91755,19
+1900192088,"Jackson township, Adair County, Iowa",114.0,111.0,3.0,001,92088,19
+1900191248,"Eureka township, Adair County, Iowa",60.0,50.0,10.0,001,91248,19
+1900992910,"Melville township, Audubon County, Iowa",69.0,54.0,15.0,009,92910,19
+1900994362,"Viola township, Audubon County, Iowa",32.0,11.0,21.0,009,94362,19
+1900990453,"Cameron township, Audubon County, Iowa",52.0,39.0,13.0,009,90453,19
+1900992523,"Lincoln township, Audubon County, Iowa",167.0,145.0,22.0,009,92523,19
+1900993825,"Sharon township, Audubon County, Iowa",263.0,183.0,80.0,009,93825,19
+1900991026,"Douglas township, Audubon County, Iowa",70.0,62.0,8.0,009,91026,19
+1900992418,"Leroy township, Audubon County, Iowa",1024.0,801.0,223.0,009,92418,19
+1900991728,"Greeley township, Audubon County, Iowa",47.0,38.0,9.0,009,91728,19
+1900993153,"Oakfield township, Audubon County, Iowa",125.0,101.0,24.0,009,93153,19
+1900990093,"Audubon township, Audubon County, Iowa",77.0,71.0,6.0,009,90093,19
+1900991815,"Hamlin township, Audubon County, Iowa",90.0,77.0,13.0,009,91815,19
+1900991260,"Exira township, Audubon County, Iowa",582.0,455.0,127.0,009,91260,19
+1908992001,"Howard Center township, Howard County, Iowa",65.0,60.0,5.0,089,92001,19
+1908993273,"Paris township, Howard County, Iowa",148.0,148.0,0.0,089,93273,19
+1908994347,"Vernon Springs township, Howard County, Iowa",1852.0,1391.0,461.0,089,94347,19
+1908991368,"Forest City township, Howard County, Iowa",341.0,313.0,28.0,089,91368,19
+1908993150,"Oak Dale township, Howard County, Iowa",81.0,72.0,9.0,089,93150,19
+1906391926,"High Lake township, Emmet County, Iowa",151.0,148.0,3.0,063,91926,19
+1906392547,"Lincoln township, Emmet County, Iowa",86.0,67.0,19.0,063,92547,19
+1906390081,"Armstrong Grove township, Emmet County, Iowa",554.0,428.0,126.0,063,90081,19
+1906392079,"Iowa Lake township, Emmet County, Iowa",104.0,79.0,25.0,063,92079,19
+1906392085,"Jack Creek township, Emmet County, Iowa",58.0,34.0,24.0,063,92085,19
+1906391209,"Ellsworth township, Emmet County, Iowa",42.0,32.0,10.0,063,91209,19
+1906394065,"Swan Lake township, Emmet County, Iowa",50.0,26.0,24.0,063,94065,19
+1906391242,"Estherville township, Emmet County, Iowa",2283.0,1726.0,557.0,063,91242,19
+1906390963,"Denmark township, Emmet County, Iowa",242.0,170.0,72.0,063,90963,19
+1906390600,"Center township, Emmet County, Iowa",150.0,128.0,22.0,063,90600,19
+1906394146,"Twelve Mile Lake township, Emmet County, Iowa",95.0,95.0,0.0,063,94146,19
+1906391221,"Emmet township, Emmet County, Iowa",78.0,78.0,0.0,063,91221,19
+1907790105,"Baker township, Guthrie County, Iowa",99.0,96.0,3.0,077,90105,19
+1907791008,"Dodge township, Guthrie County, Iowa",226.0,189.0,37.0,077,91008,19
+1907794353,"Victory township, Guthrie County, Iowa",231.0,222.0,9.0,077,94353,19
+1907792118,"Jackson township, Guthrie County, Iowa",128.0,119.0,9.0,077,92118,19
+1907794020,"Stuart township, Guthrie County, Iowa",462.0,377.0,85.0,077,94020,19
+1907793279,"Penn township, Guthrie County, Iowa",184.0,184.0,0.0,077,93279,19
+1907790147,"Bear Grove township, Guthrie County, Iowa",29.0,19.0,10.0,077,90147,19
+1907790162,"Beaver township, Guthrie County, Iowa",256.0,200.0,56.0,077,90162,19
+1907793591,"Richland township, Guthrie County, Iowa",237.0,173.0,64.0,077,93591,19
+1907790501,"Cass township, Guthrie County, Iowa",928.0,753.0,175.0,077,90501,19
+1907791659,"Grant township, Guthrie County, Iowa",77.0,61.0,16.0,077,91659,19
+1907793192,"Orange township, Guthrie County, Iowa",81.0,64.0,17.0,077,93192,19
+1907791935,"Highland township, Guthrie County, Iowa",246.0,220.0,26.0,077,91935,19
+1907794110,"Thompson township, Guthrie County, Iowa",236.0,196.0,40.0,077,94110,19
+1907794302,"Valley township, Guthrie County, Iowa",730.0,495.0,235.0,077,94302,19
+1907793807,"Seely township, Guthrie County, Iowa",102.0,88.0,14.0,077,93807,19
+1907794212,"Union township, Guthrie County, Iowa",56.0,31.0,25.0,077,94212,19
+1908190303,"Boone township, Hancock County, Iowa",61.0,45.0,16.0,081,90303,19
+1908190801,"Concord township, Hancock County, Iowa",1375.0,1057.0,318.0,081,90801,19
+1908192457,"Liberty township, Hancock County, Iowa",125.0,93.0,32.0,081,92457,19
+1901993096,"Newton township, Buchanan County, Iowa",115.0,85.0,30.0,019,93096,19
+1901990432,"Byron township, Buchanan County, Iowa",402.0,343.0,59.0,019,90432,19
+1901991266,"Fairbank township, Buchanan County, Iowa",558.0,470.0,88.0,019,91266,19
+1901992919,"Middlefield township, Buchanan County, Iowa",120.0,80.0,40.0,019,92919,19
+1901991902,"Hazleton township, Buchanan County, Iowa",529.0,354.0,175.0,019,91902,19
+1901992208,"Jefferson township, Buchanan County, Iowa",276.0,226.0,50.0,019,92208,19
+1901994656,"Westburg township, Buchanan County, Iowa",188.0,156.0,32.0,019,94656,19
+1901993294,"Perry township, Buchanan County, Iowa",1349.0,1167.0,182.0,019,93294,19
+1901992439,"Liberty township, Buchanan County, Iowa",476.0,420.0,56.0,019,92439,19
+1901990816,"Cono township, Buchanan County, Iowa",132.0,110.0,22.0,019,90816,19
+1904193912,"Sioux township, Clay County, Iowa",85.0,73.0,12.0,041,93912,19
+1904192691,"Logan township, Clay County, Iowa",50.0,33.0,17.0,041,92691,19
+1904192709,"Lone Tree township, Clay County, Iowa",375.0,293.0,82.0,041,92709,19
+1904193955,"Spencer city, Clay County, Iowa",4724.0,3087.0,1637.0,041,93955,19
+1904194038,"Summit township, Clay County, Iowa",160.0,135.0,25.0,041,94038,19
+1904190672,"Clay township, Clay County, Iowa",224.0,181.0,43.0,041,90672,19
+1904192541,"Lincoln township, Clay County, Iowa",123.0,95.0,28.0,041,92541,19
+1904193312,"Peterson township, Clay County, Iowa",223.0,192.0,31.0,041,93312,19
+1904191569,"Gillett Grove township, Clay County, Iowa",190.0,119.0,71.0,041,91569,19
+1904192349,"Lake township, Clay County, Iowa",106.0,58.0,48.0,041,92349,19
+1904191035,"Douglas township, Clay County, Iowa",94.0,94.0,0.0,041,91035,19
+1904191512,"Garfield township, Clay County, Iowa",107.0,105.0,2.0,041,91512,19
+1904192901,"Meadow township, Clay County, Iowa",140.0,134.0,6.0,041,92901,19
+1904191452,"Freeman township, Clay County, Iowa",152.0,137.0,15.0,041,91452,19
+1904191914,"Herdland township, Clay County, Iowa",66.0,53.0,13.0,041,91914,19
+1904193645,"Riverton township, Clay County, Iowa",98.0,98.0,0.0,041,93645,19
+1904194590,"Waterford township, Clay County, Iowa",79.0,68.0,11.0,041,94590,19
+1904590354,"Brookfield township, Clinton County, Iowa",128.0,93.0,35.0,045,90354,19
+1904590450,"Camanche township, Clinton County, Iowa",2020.0,1682.0,338.0,045,90450,19
+1904590591,"Center township, Clinton County, Iowa",197.0,178.0,19.0,045,90591,19
+1904591137,"Eden township, Clinton County, Iowa",349.0,307.0,42.0,045,91137,19
+1904591644,"Grant township, Clinton County, Iowa",72.0,68.0,4.0,045,91644,19
+1904593189,"Orange township, Clinton County, Iowa",409.0,297.0,112.0,045,93189,19
+1904593990,"Spring Rock township, Clinton County, Iowa",393.0,314.0,79.0,045,93990,19
+1904590927,"Deep Creek township, Clinton County, Iowa",280.0,250.0,30.0,045,90927,19
+1904591194,"Elk River township, Clinton County, Iowa",298.0,250.0,48.0,045,91194,19
+1904594479,"Washington township, Clinton County, Iowa",171.0,133.0,38.0,045,94479,19
+1904594593,"Waterford township, Clinton County, Iowa",217.0,178.0,39.0,045,94593,19
+1908191200,"Ellington township, Hancock County, Iowa",197.0,185.0,12.0,081,91200,19
+1908191239,"Erin township, Hancock County, Iowa",69.0,60.0,9.0,081,91239,19
+1908192793,"Magor township, Hancock County, Iowa",161.0,136.0,25.0,081,92793,19
+1908190861,"Crystal township, Hancock County, Iowa",208.0,165.0,43.0,081,90861,19
+1908191515,"Garfield township, Hancock County, Iowa",115.0,101.0,14.0,081,91515,19
+1908192763,"Madison township, Hancock County, Iowa",299.0,269.0,30.0,081,92763,19
+1908190069,"Amsterdam township, Hancock County, Iowa",378.0,285.0,93.0,081,90069,19
+1908194149,"Twin Lake township, Hancock County, Iowa",63.0,44.0,19.0,081,94149,19
+1908190348,"Britt township, Hancock County, Iowa",956.0,765.0,191.0,081,90348,19
+1908190096,"Avery township, Hancock County, Iowa",90.0,82.0,8.0,081,90096,19
+1908190243,"Bingham township, Hancock County, Iowa",182.0,151.0,31.0,081,90243,19
+1908191197,"Ell township, Hancock County, Iowa",283.0,190.0,93.0,081,91197,19
+1908193207,"Orthel township, Hancock County, Iowa",57.0,57.0,0.0,081,93207,19
+1909194335,"Vernon township, Humboldt County, Iowa",194.0,149.0,45.0,091,94335,19
+1909190099,"Avery township, Humboldt County, Iowa",92.0,79.0,13.0,091,90099,19
+1909190165,"Beaver township, Humboldt County, Iowa",100.0,74.0,26.0,091,90165,19
+1909191785,"Grove township, Humboldt County, Iowa",108.0,103.0,5.0,091,91785,19
+1909193138,"Norway township, Humboldt County, Iowa",162.0,145.0,17.0,091,93138,19
+1909193717,"Rutland township, Humboldt County, Iowa",205.0,168.0,37.0,091,93717,19
+1909194377,"Wacousta township, Humboldt County, Iowa",53.0,45.0,8.0,091,94377,19
+1909190872,"Dakota City city, Humboldt County, Iowa",342.0,284.0,58.0,091,90872,19
+1909190945,"Delana township, Humboldt County, Iowa",216.0,171.0,45.0,091,90945,19
+1909192003,"Humboldt city, Humboldt County, Iowa",1897.0,1264.0,633.0,091,92003,19
+1909192352,"Lake township, Humboldt County, Iowa",88.0,74.0,14.0,091,92352,19
+1909194620,"Weaver township, Humboldt County, Iowa",169.0,117.0,52.0,091,94620,19
+1909190834,"Corinth township, Humboldt County, Iowa",177.0,177.0,0.0,091,90834,19
+1909192004,"Humboldt township, Humboldt County, Iowa",270.0,224.0,46.0,091,92004,19
+1912191044,"Douglas township, Madison County, Iowa",230.0,188.0,42.0,121,91044,19
+1912193288,"Penn township, Madison County, Iowa",304.0,254.0,50.0,121,93288,19
+1912193792,"Scott township, Madison County, Iowa",255.0,255.0,0.0,121,93792,19
+1912193942,"South township, Madison County, Iowa",676.0,515.0,161.0,121,93942,19
+1912192571,"Lincoln township, Madison County, Iowa",302.0,214.0,88.0,121,92571,19
+1912192775,"Madison township, Madison County, Iowa",514.0,441.0,73.0,121,92775,19
+1912192979,"Monroe township, Madison County, Iowa",110.0,110.0,0.0,121,92979,19
+1912193165,"Ohio township, Madison County, Iowa",379.0,302.0,77.0,121,93165,19
+1912194626,"Webster township, Madison County, Iowa",61.0,61.0,0.0,121,94626,19
+1912191614,"Grand River township, Madison County, Iowa",157.0,112.0,45.0,121,91614,19
+1912194236,"Union township, Madison County, Iowa",304.0,288.0,16.0,121,94236,19
+1904590736,"Clinton city, Clinton County, Iowa",10142.0,7289.0,2853.0,045,90736,19
+1904590993,"De Witt township, Clinton County, Iowa",2518.0,1920.0,598.0,045,90993,19
+1904593171,"Olive township, Clinton County, Iowa",329.0,283.0,46.0,045,93171,19
+1904594641,"Welton township, Clinton County, Iowa",195.0,178.0,17.0,045,94641,19
+1904590267,"Bloomfield township, Clinton County, Iowa",305.0,279.0,26.0,045,90267,19
+1904591818,"Hampshire township, Clinton County, Iowa",245.0,234.0,11.0,045,91818,19
+1904592448,"Liberty township, Clinton County, Iowa",134.0,114.0,20.0,045,92448,19
+1904593828,"Sharon township, Clinton County, Iowa",320.0,232.0,88.0,045,93828,19
+1905390276,"Bloomington township, Decatur County, Iowa",75.0,55.0,20.0,053,90276,19
+1905391959,"High Point township, Decatur County, Iowa",42.0,38.0,4.0,053,91959,19
+1905390594,"Center township, Decatur County, Iowa",108.0,108.0,0.0,053,90594,19
+1905391323,"Fayette township, Decatur County, Iowa",57.0,40.0,17.0,053,91323,19
+1905392712,"Long Creek township, Decatur County, Iowa",115.0,108.0,7.0,053,92712,19
+1905390408,"Burrell township, Decatur County, Iowa",140.0,79.0,61.0,053,90408,19
+1905391611,"Grand River township, Decatur County, Iowa",19.0,19.0,0.0,053,91611,19
+1905392416,"Leon city, Decatur County, Iowa",781.0,418.0,363.0,053,92416,19
+1905394776,"Woodland township, Decatur County, Iowa",26.0,26.0,0.0,053,94776,19
+1905393006,"Morgan township, Decatur County, Iowa",54.0,54.0,0.0,053,93006,19
+1905393072,"New Buda township, Decatur County, Iowa",137.0,92.0,45.0,053,93072,19
+1905391506,"Garden Grove township, Decatur County, Iowa",125.0,104.0,21.0,053,91506,19
+1905392380,"Lamoni city, Decatur County, Iowa",799.0,445.0,354.0,053,92380,19
+1905393579,"Richland township, Decatur County, Iowa",168.0,111.0,57.0,053,93579,19
+1905391806,"Hamilton township, Decatur County, Iowa",43.0,43.0,0.0,053,91806,19
+1905390921,"Decatur township, Decatur County, Iowa",82.0,58.0,24.0,053,90921,19
+1905391140,"Eden township, Decatur County, Iowa",114.0,114.0,0.0,053,91140,19
+1905391398,"Franklin township, Decatur County, Iowa",162.0,153.0,9.0,053,91398,19
+1912192238,"Jefferson township, Madison County, Iowa",116.0,107.0,9.0,121,92238,19
+1912192148,"Jackson township, Madison County, Iowa",35.0,31.0,4.0,121,92148,19
+1912194765,"Winterset city, Madison County, Iowa",2129.0,1362.0,767.0,121,94765,19
+1912192406,"Lee township, Madison County, Iowa",222.0,186.0,36.0,121,92406,19
+1912194404,"Walnut township, Madison County, Iowa",142.0,137.0,5.0,121,94404,19
+1912190846,"Crawford township, Madison County, Iowa",266.0,247.0,19.0,121,90846,19
+1912592328,"Knoxville township, Marion County, Iowa",4183.0,2938.0,1245.0,125,92328,19
+1912594242,"Union township, Marion County, Iowa",124.0,86.0,38.0,125,94242,19
+1912592376,"Lake Prairie township, Marion County, Iowa",4347.0,2813.0,1534.0,125,92376,19
+1912594041,"Summit township, Marion County, Iowa",591.0,497.0,94.0,125,94041,19
+1912592028,"Indiana township, Marion County, Iowa",297.0,240.0,57.0,125,92028,19
+1912593399,"Pleasant Grove township, Marion County, Iowa",1045.0,787.0,258.0,125,93399,19
+1912591413,"Franklin township, Marion County, Iowa",97.0,86.0,11.0,125,91413,19
+1912592472,"Liberty township, Marion County, Iowa",433.0,356.0,77.0,125,92472,19
+1912593558,"Red Rock township, Marion County, Iowa",224.0,224.0,0.0,125,93558,19
+1912590687,"Clay township, Marion County, Iowa",382.0,270.0,112.0,125,90687,19
+1912590882,"Dallas township, Marion County, Iowa",657.0,481.0,176.0,125,90882,19
+1912594533,"Washington township, Marion County, Iowa",255.0,218.0,37.0,125,94533,19
+1918391236,"English River township, Washington County, Iowa",1564.0,1209.0,355.0,183,91236,19
+1918391089,"Dutch Creek township, Washington County, Iowa",78.0,74.0,4.0,183,91089,19
+1918392511,"Lime Creek township, Washington County, Iowa",760.0,632.0,128.0,183,92511,19
+1918392868,"Marion township, Washington County, Iowa",179.0,163.0,16.0,183,92868,19
+1918390573,"Cedar township, Washington County, Iowa",58.0,43.0,15.0,183,90573,19
+1918394578,"Washington township, Washington County, Iowa",3046.0,1983.0,1063.0,183,94578,19
+1918391953,"Highland township, Washington County, Iowa",192.0,177.0,15.0,183,91953,19
+1918391431,"Franklin township, Washington County, Iowa",137.0,96.0,41.0,183,91431,19
+1918392073,"Iowa township, Washington County, Iowa",926.0,787.0,139.0,183,92073,19
+1918390339,"Brighton township, Washington County, Iowa",307.0,213.0,94.0,183,90339,19
+1918390696,"Clay township, Washington County, Iowa",93.0,70.0,23.0,183,90696,19
+1918390849,"Crawford township, Washington County, Iowa",250.0,183.0,67.0,183,90849,19
+1918393195,"Oregon township, Washington County, Iowa",344.0,293.0,51.0,183,93195,19
+1918392172,"Jackson township, Washington County, Iowa",122.0,106.0,16.0,183,92172,19
+1918393819,"Seventy-Six township, Washington County, Iowa",108.0,51.0,57.0,183,93819,19
+1919793144,"Norway township, Wright County, Iowa",37.0,37.0,0.0,197,93144,19
+1919790306,"Boone township, Wright County, Iowa",77.0,66.0,11.0,197,90306,19
+1919792367,"Lake township, Wright County, Iowa",73.0,69.0,4.0,197,92367,19
+1919792637,"Lincoln township, Wright County, Iowa",509.0,283.0,226.0,197,92637,19
+1916793345,"Plato township, Sioux County, Iowa",153.0,137.0,16.0,167,93345,19
+1916793813,"Settlers township, Sioux County, Iowa",52.0,39.0,13.0,167,93813,19
+1916791098,"Eagle township, Sioux County, Iowa",61.0,61.0,0.0,167,91098,19
+1916791965,"Holland township, Sioux County, Iowa",1935.0,1551.0,384.0,167,91965,19
+1916793852,"Sheridan township, Sioux County, Iowa",417.0,380.0,37.0,167,93852,19
+1916793876,"Sherman township, Sioux County, Iowa",187.0,169.0,18.0,167,93876,19
+1916790468,"Capel township, Sioux County, Iowa",157.0,157.0,0.0,167,90468,19
+1916791122,"East Orange township, Sioux County, Iowa",198.0,143.0,55.0,167,91122,19
+1916790399,"Buncombe township, Sioux County, Iowa",631.0,539.0,92.0,167,90399,19
+1916792733,"Lynn township, Sioux County, Iowa",98.0,98.0,0.0,167,92733,19
+1916793666,"Rock township, Sioux County, Iowa",1344.0,1046.0,298.0,167,93666,19
+1916794563,"Washington township, Sioux County, Iowa",76.0,66.0,10.0,167,94563,19
+1916791539,"Garfield township, Sioux County, Iowa",152.0,112.0,40.0,167,91539,19
+1916791701,"Grant township, Sioux County, Iowa",170.0,136.0,34.0,167,91701,19
+1916792703,"Logan township, Sioux County, Iowa",264.0,208.0,56.0,167,92703,19
+1916793549,"Reading township, Sioux County, Iowa",382.0,313.0,69.0,167,93549,19
+1916793924,"Sioux township, Sioux County, Iowa",128.0,102.0,26.0,167,93924,19
+1916790630,"Center township, Sioux County, Iowa",74.0,74.0,0.0,167,90630,19
+1916791359,"Floyd township, Sioux County, Iowa",409.0,375.0,34.0,167,91359,19
+1916793051,"Nassau township, Sioux County, Iowa",735.0,661.0,74.0,167,93051,19
+1916794653,"West Branch township, Sioux County, Iowa",1988.0,1682.0,306.0,167,94653,19
+1916794635,"Welcome township, Sioux County, Iowa",567.0,422.0,145.0,167,94635,19
+1916792613,"Lincoln township, Sioux County, Iowa",850.0,755.0,95.0,167,92613,19
+1906993588,"Richland township, Franklin County, Iowa",85.0,85.0,0.0,069,93588,19
+1906994767,"Wisner township, Franklin County, Iowa",57.0,47.0,10.0,069,94767,19
+1906992847,"Marion township, Franklin County, Iowa",339.0,260.0,79.0,069,92847,19
+1906991650,"Grant township, Franklin County, Iowa",108.0,99.0,9.0,069,91650,19
+1906994668,"West Fork township, Franklin County, Iowa",51.0,51.0,0.0,069,94668,19
+1906991809,"Hamilton township, Franklin County, Iowa",62.0,45.0,17.0,069,91809,19
+1906993216,"Osceola township, Franklin County, Iowa",115.0,102.0,13.0,069,93216,19
+1906992403,"Lee township, Franklin County, Iowa",37.0,29.0,8.0,069,92403,19
+1906993030,"Mott township, Franklin County, Iowa",223.0,186.0,37.0,069,93030,19
+1906993561,"Reeve township, Franklin County, Iowa",103.0,85.0,18.0,069,93561,19
+1906993009,"Morgan township, Franklin County, Iowa",139.0,130.0,9.0,069,93009,19
+1906993156,"Oakland township, Franklin County, Iowa",70.0,54.0,16.0,069,93156,19
+1906993702,"Ross township, Franklin County, Iowa",95.0,70.0,25.0,069,93702,19
+1906993777,"Scott township, Franklin County, Iowa",138.0,105.0,33.0,069,93777,19
+1906991557,"Geneva township, Franklin County, Iowa",173.0,119.0,54.0,069,91557,19
+1919794344,"Vernon township, Wright County, Iowa",61.0,49.0,12.0,197,94344,19
+1919793387,"Pleasant township, Wright County, Iowa",1128.0,816.0,312.0,197,93387,19
+1919790261,"Blaine township, Wright County, Iowa",267.0,228.0,39.0,197,90261,19
+1919791722,"Grant township, Wright County, Iowa",542.0,468.0,74.0,197,91722,19
+1919792076,"Iowa township, Wright County, Iowa",159.0,111.0,48.0,197,92076,19
+1919790918,"Dayton township, Wright County, Iowa",157.0,138.0,19.0,197,90918,19
+1919791101,"Eagle Grove township, Wright County, Iowa",1463.0,1044.0,419.0,197,91101,19
+1919794386,"Wall Lake township, Wright County, Iowa",30.0,25.0,5.0,197,94386,19
+1919794779,"Woolstock township, Wright County, Iowa",130.0,95.0,35.0,197,94779,19
+1919790186,"Belmond township, Wright County, Iowa",169.0,169.0,0.0,197,90186,19
+1919794143,"Troy township, Wright County, Iowa",79.0,53.0,26.0,197,94143,19
+1919792499,"Liberty township, Wright County, Iowa",303.0,254.0,49.0,197,92499,19
+1902990336,"Brighton township, Cass County, Iowa",130.0,105.0,25.0,029,90336,19
+1902994350,"Victoria township, Cass County, Iowa",55.0,55.0,0.0,029,94350,19
+1902991392,"Franklin township, Cass County, Iowa",83.0,82.0,1.0,029,91392,19
+1902991638,"Grant township, Cass County, Iowa",507.0,383.0,124.0,029,91638,19
+1902993117,"Noble township, Cass County, Iowa",135.0,86.0,49.0,029,93117,19
+1902993528,"Pymosa township, Cass County, Iowa",171.0,143.0,28.0,029,93528,19
+1902990492,"Cass township, Cass County, Iowa",251.0,207.0,44.0,029,90492,19
+1902992535,"Lincoln township, Cass County, Iowa",60.0,10.0,50.0,029,92535,19
+1902992892,"Massena township, Cass County, Iowa",239.0,159.0,80.0,029,92892,19
+1902990144,"Bear Grove township, Cass County, Iowa",97.0,79.0,18.0,029,90144,19
+1902991155,"Edna township, Cass County, Iowa",58.0,45.0,13.0,029,91155,19
+1902994470,"Washington township, Cass County, Iowa",89.0,69.0,20.0,029,94470,19
+1902993360,"Pleasant township, Cass County, Iowa",557.0,460.0,97.0,029,93360,19
+1902990204,"Benton township, Cass County, Iowa",33.0,33.0,0.0,029,90204,19
+1902994185,"Union township, Cass County, Iowa",155.0,107.0,48.0,029,94185,19
+1902991779,"Grove township, Cass County, Iowa",3246.0,2127.0,1119.0,029,91779,19
+1903593321,"Pilot township, Cherokee County, Iowa",88.0,69.0,19.0,035,93321,19
+1903593336,"Pitcher township, Cherokee County, Iowa",472.0,393.0,79.0,035,93336,19
+1903593657,"Rock township, Cherokee County, Iowa",53.0,53.0,0.0,035,93657,19
+1903593843,"Sheridan township, Cherokee County, Iowa",250.0,215.0,35.0,035,93843,19
+1903594113,"Tilden township, Cherokee County, Iowa",52.0,52.0,0.0,035,94113,19
+1903592442,"Liberty township, Cherokee County, Iowa",118.0,78.0,40.0,035,92442,19
+1903592829,"Marcus township, Cherokee County, Iowa",283.0,256.0,27.0,035,92829,19
+1903590021,"Afton township, Cherokee County, Iowa",125.0,118.0,7.0,035,90021,19
+1903590654,"Cherokee township, Cherokee County, Iowa",2374.0,1608.0,766.0,035,90654,19
+1903590996,"Diamond township, Cherokee County, Iowa",62.0,47.0,15.0,035,90996,19
+1906993833,"Sheffield city, Franklin County, Iowa",466.0,370.0,96.0,069,93833,19
+1902590585,"Center township, Calhoun County, Iowa",379.0,269.0,110.0,025,90585,19
+1906991819,"Hampton city, Franklin County, Iowa",1387.0,990.0,397.0,069,91819,19
+1906992040,"Ingham township, Franklin County, Iowa",139.0,96.0,43.0,069,92040,19
+1902594152,"Twin Lakes township, Calhoun County, Iowa",514.0,391.0,123.0,025,94152,19
+1902591215,"Elm Grove township, Calhoun County, Iowa",40.0,32.0,8.0,025,91215,19
+1902593855,"Sherman township, Calhoun County, Iowa",197.0,185.0,12.0,025,93855,19
+1902592532,"Lincoln township, Calhoun County, Iowa",883.0,629.0,254.0,025,92532,19
+1902591509,"Garfield township, Calhoun County, Iowa",64.0,60.0,4.0,025,91509,19
+1902594179,"Union township, Calhoun County, Iowa",154.0,142.0,12.0,025,94179,19
+1902593546,"Reading township, Calhoun County, Iowa",261.0,211.0,50.0,025,93546,19
+1902590528,"Cedar township, Calhoun County, Iowa",123.0,103.0,20.0,025,90528,19
+1902591758,"Greenfield township, Calhoun County, Iowa",84.0,79.0,5.0,025,91758,19
+1902592370,"Lake Creek township, Calhoun County, Iowa",47.0,47.0,0.0,025,92370,19
+1902590441,"Calhoun township, Calhoun County, Iowa",45.0,37.0,8.0,025,90441,19
+1902592103,"Jackson township, Calhoun County, Iowa",71.0,31.0,40.0,025,92103,19
+1902592688,"Logan township, Calhoun County, Iowa",42.0,35.0,7.0,025,92688,19
+1902590423,"Butler township, Calhoun County, Iowa",399.0,299.0,100.0,025,90423,19
+1902592368,"Lake City city, Calhoun County, Iowa",762.0,587.0,175.0,025,92368,19
+1902594734,"Williams township, Calhoun County, Iowa",47.0,47.0,0.0,025,94734,19
+1902793699,"Roselle township, Carroll County, Iowa",215.0,186.0,29.0,027,93699,19
+1902793840,"Sheridan township, Carroll County, Iowa",100.0,92.0,8.0,027,93840,19
+1902794182,"Union township, Carroll County, Iowa",606.0,453.0,153.0,027,94182,19
+1902793099,"Newton township, Carroll County, Iowa",157.0,145.0,12.0,027,93099,19
+1902793405,"Pleasant Valley township, Carroll County, Iowa",153.0,116.0,37.0,027,93405,19
+1902790475,"Carroll city, Carroll County, Iowa",4265.0,3044.0,1221.0,027,90475,19
+1902791635,"Grant township, Carroll County, Iowa",141.0,121.0,20.0,027,91635,19
+1902792820,"Maple River township, Carroll County, Iowa",192.0,186.0,6.0,027,92820,19
+1902794704,"Wheatland township, Carroll County, Iowa",272.0,234.0,38.0,027,94704,19
+1902790075,"Arcadia township, Carroll County, Iowa",258.0,241.0,17.0,027,90075,19
+1902791134,"Eden township, Carroll County, Iowa",228.0,188.0,40.0,027,91134,19
+1902791581,"Glidden township, Carroll County, Iowa",600.0,479.0,121.0,027,91581,19
+1902792196,"Jasper township, Carroll County, Iowa",133.0,125.0,8.0,027,92196,19
+1902792811,"Manning city, Carroll County, Iowa",643.0,453.0,190.0,027,92811,19
+1902792319,"Kniest township, Carroll County, Iowa",164.0,151.0,13.0,027,92319,19
+1902793573,"Richland township, Carroll County, Iowa",73.0,56.0,17.0,027,93573,19
+1902794467,"Washington township, Carroll County, Iowa",101.0,80.0,21.0,027,94467,19
+1902791254,"Ewoldt township, Carroll County, Iowa",96.0,92.0,4.0,027,91254,19
+1903590063,"Amherst township, Cherokee County, Iowa",336.0,246.0,90.0,035,90063,19
+1903590531,"Cedar township, Cherokee County, Iowa",212.0,197.0,15.0,035,90531,19
+1903593891,"Silver township, Cherokee County, Iowa",84.0,79.0,5.0,035,93891,19
+1903594740,"Willow township, Cherokee County, Iowa",317.0,279.0,38.0,035,94740,19
+1904791890,"Hayes township, Crawford County, Iowa",123.0,98.0,25.0,047,91890,19
+1903591602,"Grand Meadow township, Cherokee County, Iowa",156.0,80.0,76.0,035,91602,19
+1903593963,"Spring township, Cherokee County, Iowa",63.0,53.0,10.0,035,93963,19
+1904791107,"East Boyer township, Crawford County, Iowa",151.0,144.0,7.0,047,91107,19
+1904794743,"Willow township, Crawford County, Iowa",60.0,26.0,34.0,047,94743,19
+1904791587,"Goodrich township, Crawford County, Iowa",121.0,121.0,0.0,047,91587,19
+1904792109,"Jackson township, Crawford County, Iowa",74.0,45.0,29.0,047,92109,19
+1904794017,"Stockholm township, Crawford County, Iowa",36.0,31.0,5.0,047,94017,19
+1904792928,"Milford township, Crawford County, Iowa",205.0,175.0,30.0,047,92928,19
+1910391599,"Graham township, Johnson County, Iowa",180.0,168.0,12.0,103,91599,19
+1910392562,"Lincoln township, Johnson County, Iowa",99.0,49.0,50.0,103,92562,19
+1910392973,"Monroe township, Johnson County, Iowa",187.0,170.0,17.0,103,92973,19
+1910393285,"Penn township, Johnson County, Iowa",9174.0,7229.0,1945.0,103,93285,19
+1910394515,"Washington township, Johnson County, Iowa",309.0,309.0,0.0,103,94515,19
+1910392463,"Liberty township, Johnson County, Iowa",421.0,297.0,124.0,103,92463,19
+1910393417,"Pleasant Valley township, Johnson County, Iowa",86.0,59.0,27.0,103,93417,19
+1910393831,"Sharon township, Johnson County, Iowa",470.0,305.0,165.0,103,93831,19
+1910390240,"Big Grove township, Johnson County, Iowa",1527.0,1292.0,235.0,103,90240,19
+1910392077,"Iowa City city, Johnson County, Iowa",23929.0,12438.0,11491.0,103,92077,19
+1910391836,"Hardin township, Johnson County, Iowa",243.0,232.0,11.0,103,91836,19
+1910391119,"East Lucas township, Johnson County, Iowa",296.0,198.0,98.0,103,91119,19
+1910393249,"Oxford township, Johnson County, Iowa",782.0,720.0,62.0,103,93249,19
+1910391479,"Fremont township, Johnson County, Iowa",797.0,589.0,208.0,103,91479,19
+1910394686,"West Lucas township, Johnson County, Iowa",2899.0,1544.0,1355.0,103,94686,19
+1910392766,"Madison township, Johnson County, Iowa",1563.0,959.0,604.0,103,92766,19
+1910393789,"Scott township, Johnson County, Iowa",642.0,592.0,50.0,103,93789,19
+1910393093,"Newport township, Johnson County, Iowa",822.0,781.0,41.0,103,93093,19
+1910394224,"Union township, Johnson County, Iowa",253.0,233.0,20.0,103,94224,19
+1910793603,"Richland township, Keokuk County, Iowa",352.0,298.0,54.0,107,93603,19
+1910794014,"Steady Run township, Keokuk County, Iowa",151.0,72.0,79.0,107,94014,19
+1904793003,"Morgan township, Crawford County, Iowa",49.0,45.0,4.0,047,93003,19
+1904793114,"Nishnabotny township, Crawford County, Iowa",436.0,332.0,104.0,047,93114,19
+1904793270,"Paradise township, Crawford County, Iowa",94.0,88.0,6.0,047,93270,19
+1904793936,"Soldier township, Crawford County, Iowa",110.0,78.0,32.0,047,93936,19
+1904794701,"West Side township, Crawford County, Iowa",396.0,354.0,42.0,047,94701,19
+1904791827,"Hanover township, Crawford County, Iowa",94.0,84.0,10.0,047,91827,19
+1904794482,"Washington township, Crawford County, Iowa",71.0,61.0,10.0,047,94482,19
+1904790648,"Charter Oak township, Crawford County, Iowa",312.0,247.0,65.0,047,90648,19
+1904792058,"Iowa township, Crawford County, Iowa",65.0,61.0,4.0,047,92058,19
+1904793231,"Otter Creek township, Crawford County, Iowa",545.0,447.0,98.0,047,93231,19
+1904794191,"Union township, Crawford County, Iowa",325.0,236.0,89.0,047,94191,19
+1904790315,"Boyer township, Crawford County, Iowa",75.0,39.0,36.0,047,90315,19
+1904790960,"Denison township, Crawford County, Iowa",1701.0,1290.0,411.0,047,90960,19
+1905792010,"Huron township, Des Moines County, Iowa",146.0,110.0,36.0,057,92010,19
+1905792924,"Middletown city, Des Moines County, Iowa",130.0,111.0,19.0,057,92924,19
+1905792112,"Jackson township, Des Moines County, Iowa",26.0,26.0,0.0,057,92112,19
+1905794658,"West Burlington city, Des Moines County, Iowa",1165.0,791.0,374.0,057,94658,19
+1905794803,"Yellow Springs township, Des Moines County, Iowa",218.0,174.0,44.0,057,94803,19
+1905790813,"Concordia township, Des Moines County, Iowa",207.0,193.0,14.0,057,90813,19
+1905794488,"Washington township, Des Moines County, Iowa",69.0,62.0,7.0,057,94488,19
+1905790207,"Benton township, Des Moines County, Iowa",280.0,225.0,55.0,057,90207,19
+1905791401,"Franklin township, Des Moines County, Iowa",267.0,248.0,19.0,057,91401,19
+1905791347,"Flint River township, Des Moines County, Iowa",927.0,820.0,107.0,057,91347,19
+1905794203,"Union township, Des Moines County, Iowa",295.0,268.0,27.0,057,94203,19
+1905790888,"Danville township, Des Moines County, Iowa",251.0,225.0,26.0,057,90888,19
+1903192895,"Massillon township, Cedar County, Iowa",142.0,126.0,16.0,031,92895,19
+1903194023,"Sugar Creek township, Cedar County, Iowa",287.0,278.0,9.0,031,94023,19
+1903190495,"Cass township, Cedar County, Iowa",136.0,117.0,19.0,031,90495,19
+1903190906,"Dayton township, Cedar County, Iowa",496.0,364.0,132.0,031,90906,19
+1910790009,"Adams township, Keokuk County, Iowa",198.0,168.0,30.0,107,90009,19
+1910790213,"Benton township, Keokuk County, Iowa",324.0,208.0,116.0,107,90213,19
+1910790717,"Clear Creek township, Keokuk County, Iowa",68.0,63.0,5.0,107,90717,19
+1910791113,"East Lancaster township, Keokuk County, Iowa",30.0,25.0,5.0,107,91113,19
+1910792337,"Lafayette township, Keokuk County, Iowa",559.0,447.0,112.0,107,92337,19
+1910794680,"West Lancaster township, Keokuk County, Iowa",70.0,64.0,6.0,107,94680,19
+1910791233,"English River township, Keokuk County, Iowa",270.0,237.0,33.0,107,91233,19
+1910794317,"Van Buren township, Keokuk County, Iowa",90.0,83.0,7.0,107,94317,19
+1910792136,"Jackson township, Keokuk County, Iowa",250.0,204.0,46.0,107,92136,19
+1910792466,"Liberty township, Keokuk County, Iowa",135.0,104.0,31.0,107,92466,19
+1910793342,"Plank township, Keokuk County, Iowa",169.0,131.0,38.0,107,93342,19
+1910794521,"Washington township, Keokuk County, Iowa",405.0,294.0,111.0,107,94521,19
+1910793489,"Prairie township, Keokuk County, Iowa",122.0,99.0,23.0,107,93489,19
+1910793888,"Sigourney township, Keokuk County, Iowa",959.0,771.0,188.0,107,93888,19
+1910794428,"Warren township, Keokuk County, Iowa",163.0,114.0,49.0,107,94428,19
+1913590285,"Bluff Creek township, Monroe County, Iowa",102.0,102.0,0.0,135,90285,19
+1913591419,"Franklin township, Monroe County, Iowa",25.0,25.0,0.0,135,91419,19
+1913592151,"Jackson township, Monroe County, Iowa",202.0,182.0,20.0,135,92151,19
+1913591800,"Guilford township, Monroe County, Iowa",109.0,95.0,14.0,135,91800,19
+1913590558,"Cedar township, Monroe County, Iowa",61.0,61.0,0.0,135,90558,19
+1913592812,"Mantua township, Monroe County, Iowa",212.0,212.0,0.0,135,92812,19
+1913593369,"Pleasant township, Monroe County, Iowa",154.0,141.0,13.0,135,93369,19
+1913594617,"Wayne township, Monroe County, Iowa",48.0,48.0,0.0,135,94617,19
+1913594140,"Troy township, Monroe County, Iowa",1632.0,1089.0,543.0,135,94140,19
+1913594248,"Union township, Monroe County, Iowa",360.0,307.0,53.0,135,94248,19
+1913592985,"Monroe township, Monroe County, Iowa",192.0,167.0,25.0,135,92985,19
+1913594296,"Urbana township, Monroe County, Iowa",72.0,72.0,0.0,135,94296,19
+1917190786,"Columbia township, Tama County, Iowa",99.0,88.0,11.0,171,90786,19
+1917191707,"Grant township, Tama County, Iowa",116.0,108.0,8.0,171,91707,19
+1917192619,"Lincoln township, Tama County, Iowa",144.0,139.0,5.0,171,92619,19
+1917193750,"Salt Creek township, Tama County, Iowa",172.0,147.0,25.0,171,93750,19
+1917193180,"Oneida township, Tama County, Iowa",177.0,145.0,32.0,171,93180,19
+1917193306,"Perry township, Tama County, Iowa",785.0,543.0,242.0,171,93306,19
+1917190375,"Buckingham township, Tama County, Iowa",85.0,80.0,5.0,171,90375,19
+1917190480,"Carroll township, Tama County, Iowa",82.0,73.0,9.0,171,90480,19
+1917191944,"Highland township, Tama County, Iowa",77.0,68.0,9.0,171,91944,19
+1917192037,"Indian Village township, Tama County, Iowa",201.0,194.0,7.0,171,92037,19
+1917194128,"Toledo township, Tama County, Iowa",864.0,653.0,211.0,171,94128,19
+1917990870,"Dahlonega township, Wapello County, Iowa",204.0,204.0,0.0,179,90870,19
+1917990015,"Adams township, Wapello County, Iowa",360.0,255.0,105.0,179,90015,19
+1917990789,"Columbia township, Wapello County, Iowa",457.0,361.0,96.0,179,90789,19
+1917993621,"Richland township, Wapello County, Iowa",241.0,188.0,53.0,179,93621,19
+1917993453,"Polk township, Wapello County, Iowa",206.0,206.0,0.0,179,93453,19
+1917990516,"Cass township, Wapello County, Iowa",72.0,54.0,18.0,179,90516,19
+1917990633,"Center township, Wapello County, Iowa",9398.0,6671.0,2727.0,179,90633,19
+1917990795,"Competine township, Wapello County, Iowa",99.0,59.0,40.0,179,90795,19
+1917991950,"Highland township, Wapello County, Iowa",125.0,110.0,15.0,179,91950,19
+1917992313,"Keokuk township, Wapello County, Iowa",397.0,341.0,56.0,179,92313,19
+1917991737,"Green township, Wapello County, Iowa",294.0,267.0,27.0,179,91737,19
+1905593582,"Richland township, Delaware County, Iowa",260.0,210.0,50.0,055,93582,19
+1905590330,"Bremen township, Delaware County, Iowa",267.0,254.0,13.0,055,90330,19
+1905591179,"Elk township, Delaware County, Iowa",232.0,201.0,31.0,055,91179,19
+1905593132,"North Fork township, Delaware County, Iowa",103.0,103.0,0.0,055,93132,19
+1905590948,"Delaware township, Delaware County, Iowa",2502.0,1992.0,510.0,055,90948,19
+1905590783,"Colony township, Delaware County, Iowa",325.0,283.0,42.0,055,90783,19
+1905594200,"Union township, Delaware County, Iowa",185.0,120.0,65.0,055,94200,19
+1905590957,"Delhi township, Delaware County, Iowa",358.0,318.0,40.0,055,90957,19
+1905591899,"Hazel Green township, Delaware County, Iowa",87.0,87.0,0.0,055,91899,19
+1905592946,"Milo township, Delaware County, Iowa",414.0,353.0,61.0,055,92946,19
+1905591980,"Honey Creek township, Delaware County, Iowa",361.0,284.0,77.0,055,91980,19
+1905593177,"Oneida township, Delaware County, Iowa",619.0,567.0,52.0,055,93177,19
+1905593483,"Prairie township, Delaware County, Iowa",127.0,79.0,48.0,055,93483,19
+1910194401,"Walnut township, Jefferson County, Iowa",138.0,95.0,43.0,101,94401,19
+1905590006,"Adams township, Delaware County, Iowa",312.0,261.0,51.0,055,90006,19
+1905593945,"South Fork township, Delaware County, Iowa",409.0,350.0,59.0,055,93945,19
+1905590750,"Coffins Grove township, Delaware County, Iowa",209.0,165.0,44.0,055,90750,19
+1910190978,"Des Moines township, Jefferson County, Iowa",221.0,154.0,67.0,101,90978,19
+1910192676,"Lockridge township, Jefferson County, Iowa",299.0,230.0,69.0,101,92676,19
+1910190540,"Cedar township, Jefferson County, Iowa",237.0,237.0,0.0,101,90540,19
+1910193444,"Polk township, Jefferson County, Iowa",215.0,194.0,21.0,101,93444,19
+1910190609,"Center township, Jefferson County, Iowa",480.0,322.0,158.0,101,90609,19
+1910192460,"Liberty township, Jefferson County, Iowa",252.0,218.0,34.0,101,92460,19
+1910193282,"Penn township, Jefferson County, Iowa",112.0,94.0,18.0,101,93282,19
+1910192682,"Locust Grove township, Jefferson County, Iowa",444.0,351.0,93.0,101,92682,19
+1910190252,"Black Hawk township, Jefferson County, Iowa",145.0,114.0,31.0,101,90252,19
+1910190366,"Buchanan township, Jefferson County, Iowa",277.0,242.0,35.0,101,90366,19
+1910191285,"Fairfield city, Jefferson County, Iowa",3310.0,2122.0,1188.0,101,91285,19
+1910193708,"Round Prairie township, Jefferson County, Iowa",117.0,117.0,0.0,101,93708,19
+1918590225,"Benton township, Wayne County, Iowa",78.0,53.0,25.0,185,90225,19
+1918592265,"Jefferson township, Wayne County, Iowa",61.0,61.0,0.0,185,92265,19
+1918593951,"South Fork township, Wayne County, Iowa",85.0,78.0,7.0,185,93951,19
+1918590747,"Clinton township, Wayne County, Iowa",30.0,30.0,0.0,185,90747,19
+1918594413,"Walnut township, Wayne County, Iowa",355.0,262.0,93.0,185,94413,19
+1918594788,"Wright township, Wayne County, Iowa",99.0,82.0,17.0,185,94788,19
+1918593627,"Richman township, Wayne County, Iowa",250.0,169.0,81.0,185,93627,19
+1918590699,"Clay township, Wayne County, Iowa",72.0,66.0,6.0,185,90699,19
+1918590840,"Corydon township, Wayne County, Iowa",744.0,608.0,136.0,185,90840,19
+1918591617,"Grand River township, Wayne County, Iowa",156.0,127.0,29.0,185,91617,19
+1918592175,"Jackson township, Wayne County, Iowa",103.0,90.0,13.0,185,92175,19
+1918591998,"Howard township, Wayne County, Iowa",35.0,35.0,0.0,185,91998,19
+1918594581,"Washington township, Wayne County, Iowa",67.0,60.0,7.0,185,94581,19
+1918594281,"Union township, Wayne County, Iowa",117.0,102.0,15.0,185,94281,19
+1918594440,"Warren township, Wayne County, Iowa",300.0,224.0,76.0,185,94440,19
+1918592994,"Monroe township, Wayne County, Iowa",26.0,26.0,0.0,185,92994,19
+1900591290,"Fairview township, Allamakee County, Iowa",71.0,65.0,6.0,005,91290,19
+1900591488,"French Creek township, Allamakee County, Iowa",86.0,45.0,41.0,005,91488,19
+1900594089,"Taylor township, Allamakee County, Iowa",319.0,298.0,21.0,005,94089,19
+1900591383,"Franklin township, Allamakee County, Iowa",187.0,180.0,7.0,005,91383,19
+1900592382,"Lansing township, Allamakee County, Iowa",573.0,409.0,164.0,005,92382,19
+1900594290,"Union City township, Allamakee County, Iowa",48.0,40.0,8.0,005,94290,19
+1900594293,"Union Prairie township, Allamakee County, Iowa",314.0,280.0,34.0,005,94293,19
+1900590582,"Center township, Allamakee County, Iowa",124.0,104.0,20.0,005,90582,19
+1900593468,"Post township, Allamakee County, Iowa",587.0,445.0,142.0,005,93468,19
+1900594596,"Waterloo township, Allamakee County, Iowa",195.0,179.0,16.0,005,94596,19
+1900591824,"Hanover township, Allamakee County, Iowa",96.0,87.0,9.0,005,91824,19
+1900592202,"Jefferson township, Allamakee County, Iowa",206.0,181.0,25.0,005,92202,19
+1900592331,"Lafayette township, Allamakee County, Iowa",155.0,148.0,7.0,005,92331,19
+1900592049,"Iowa township, Allamakee County, Iowa",395.0,299.0,96.0,005,92049,19
+1900592655,"Linton township, Allamakee County, Iowa",100.0,100.0,0.0,005,92655,19
+1900592727,"Ludlow township, Allamakee County, Iowa",246.0,203.0,43.0,005,92727,19
+1900593255,"Paint Creek township, Allamakee County, Iowa",193.0,158.0,35.0,005,93255,19
+1900592799,"Makee township, Allamakee County, Iowa",1784.0,1310.0,474.0,005,92799,19
+1911393237,"Otter Creek township, Linn County, Iowa",443.0,374.0,69.0,113,93237,19
+1911394527,"Washington township, Linn County, Iowa",1208.0,1035.0,173.0,113,94527,19
+1911390774,"College township, Linn County, Iowa",288.0,236.0,52.0,113,90774,19
+1911392142,"Jackson township, Linn County, Iowa",623.0,537.0,86.0,113,92142,19
+1911391269,"Fairfax township, Linn County, Iowa",1503.0,1436.0,67.0,113,91269,19
+1911391410,"Franklin township, Linn County, Iowa",2224.0,1901.0,323.0,113,91410,19
+1911392796,"Maine township, Linn County, Iowa",786.0,650.0,136.0,113,92796,19
+1911393525,"Putnam township, Linn County, Iowa",1119.0,994.0,125.0,113,93525,19
+1911393987,"Spring Grove township, Linn County, Iowa",328.0,261.0,67.0,113,93987,19
+1911392976,"Monroe township, Linn County, Iowa",4813.0,3960.0,853.0,113,92976,19
+1911390228,"Bertram township, Linn County, Iowa",1003.0,948.0,55.0,113,90228,19
+1911390390,"Buffalo township, Linn County, Iowa",266.0,236.0,30.0,113,90390,19
+1911390739,"Clinton township, Linn County, Iowa",316.0,302.0,14.0,113,90739,19
+1911391326,"Fayette township, Linn County, Iowa",468.0,404.0,64.0,113,91326,19
+1911391671,"Grant township, Linn County, Iowa",462.0,417.0,45.0,113,91671,19
+1911392649,"Linn township, Linn County, Iowa",291.0,235.0,56.0,113,92649,19
+1911390360,"Brown township, Linn County, Iowa",880.0,760.0,120.0,113,90360,19
+1911390577,"Cedar Rapids city, Linn County, Iowa",47937.0,35332.0,12605.0,113,90577,19
+1911392859,"Marion township, Linn County, Iowa",15398.0,12334.0,3064.0,113,92859,19
+1911390312,"Boulder township, Linn County, Iowa",223.0,138.0,85.0,113,90312,19
+1916390393,"Buffalo township, Scott County, Iowa",2157.0,2054.0,103.0,163,90393,19
+1916390893,"Davenport city, Scott County, Iowa",32625.0,21959.0,10666.0,163,90893,19
+1916390282,"Blue Grass township, Scott County, Iowa",1399.0,1216.0,183.0,163,90282,19
+1916392490,"Liberty township, Scott County, Iowa",275.0,220.0,55.0,163,92490,19
+1916391923,"Hickory Grove township, Scott County, Iowa",267.0,207.0,60.0,163,91923,19
+1916390726,"Cleona township, Scott County, Iowa",182.0,135.0,47.0,163,90726,19
+1916392607,"Lincoln township, Scott County, Iowa",256.0,208.0,48.0,163,92607,19
+1916392391,"Le Claire township, Scott County, Iowa",2074.0,1701.0,373.0,163,92391,19
+1916390429,"Butler township, Scott County, Iowa",1044.0,863.0,181.0,163,90429,19
+1916393420,"Pleasant Valley township, Scott County, Iowa",12933.0,10290.0,2643.0,163,93420,19
+1916393849,"Sheridan township, Scott County, Iowa",2345.0,1830.0,515.0,163,93849,19
+1916393510,"Princeton township, Scott County, Iowa",570.0,485.0,85.0,163,93510,19
+1916390048,"Allens Grove township, Scott County, Iowa",368.0,285.0,83.0,163,90048,19
+1916394764,"Winfield township, Scott County, Iowa",731.0,643.0,88.0,163,94764,19
+1904990759,"Colfax township, Dallas County, Iowa",105.0,98.0,7.0,049,90759,19
+1904994395,"Walnut township, Dallas County, Iowa",9303.0,7810.0,1493.0,049,94395,19
+1904990972,"Des Moines township, Dallas County, Iowa",665.0,483.0,182.0,049,90972,19
+1904993993,"Spring Valley township, Dallas County, Iowa",2188.0,1368.0,820.0,049,93993,19
+1904994029,"Sugar Grove township, Dallas County, Iowa",289.0,211.0,78.0,049,94029,19
+1904994194,"Union township, Dallas County, Iowa",775.0,646.0,129.0,049,94194,19
+1904994485,"Washington township, Dallas County, Iowa",90.0,73.0,17.0,049,94485,19
+1904990018,"Adel township, Dallas County, Iowa",2636.0,2127.0,509.0,049,90018,19
+1904990156,"Beaver township, Dallas County, Iowa",164.0,143.0,21.0,049,90156,19
+1901591002,"Dodge township, Boone County, Iowa",169.0,162.0,7.0,015,91002,19
+1901590489,"Cass township, Boone County, Iowa",188.0,166.0,22.0,015,90489,19
+1901590756,"Colfax township, Boone County, Iowa",320.0,219.0,101.0,015,90756,19
+1901590150,"Beaver township, Boone County, Iowa",22.0,22.0,0.0,015,90150,19
+1901592832,"Marcy township, Boone County, Iowa",547.0,464.0,83.0,015,92832,19
+1901594782,"Worth township, Boone County, Iowa",318.0,305.0,13.0,015,94782,19
+1901593330,"Pilot Mound township, Boone County, Iowa",185.0,149.0,36.0,015,93330,19
+1901791389,"Franklin township, Bremer County, Iowa",122.0,116.0,6.0,017,91389,19
+1901790900,"Dayton township, Bremer County, Iowa",106.0,106.0,0.0,017,90900,19
+1901791032,"Douglas township, Bremer County, Iowa",151.0,109.0,42.0,017,91032,19
+1918193624,"Richland township, Warren County, Iowa",442.0,418.0,24.0,181,93624,19
+1918193999,"Squaw township, Warren County, Iowa",190.0,176.0,14.0,181,93999,19
+1918194371,"Virginia township, Warren County, Iowa",417.0,369.0,48.0,181,94371,19
+1918192625,"Lincoln township, Warren County, Iowa",835.0,824.0,11.0,181,92625,19
+1918192169,"Jackson township, Warren County, Iowa",397.0,342.0,55.0,181,92169,19
+1918190045,"Allen township, Warren County, Iowa",1696.0,1358.0,338.0,181,90045,19
+1918190189,"Belmont township, Warren County, Iowa",393.0,322.0,71.0,181,90189,19
+1918192493,"Liberty township, Warren County, Iowa",228.0,217.0,11.0,181,92493,19
+1918194278,"Union township, Warren County, Iowa",108.0,84.0,24.0,181,94278,19
+1918192262,"Jefferson township, Warren County, Iowa",623.0,563.0,60.0,181,92262,19
+1916190567,"Cedar township, Sac County, Iowa",164.0,106.0,58.0,161,90567,19
+1916191251,"Eureka township, Sac County, Iowa",359.0,319.0,40.0,161,91251,19
+1916190954,"Delaware township, Sac County, Iowa",121.0,101.0,20.0,161,90954,19
+1916194368,"Viola township, Sac County, Iowa",255.0,245.0,10.0,161,94368,19
+1916194383,"Wall Lake township, Sac County, Iowa",599.0,463.0,136.0,161,94383,19
+1916194710,"Wheeler township, Sac County, Iowa",63.0,56.0,7.0,161,94710,19
+1916190819,"Cook township, Sac County, Iowa",80.0,75.0,5.0,161,90819,19
+1916191149,"Eden township, Sac County, Iowa",76.0,25.0,51.0,161,91149,19
+1916192430,"Levey township, Sac County, Iowa",283.0,226.0,57.0,161,92430,19
+1916192157,"Jackson township, Sac County, Iowa",1068.0,804.0,264.0,161,92157,19
+1916190825,"Coon Valley township, Sac County, Iowa",80.0,69.0,11.0,161,90825,19
+1916190321,"Boyer Valley township, Sac County, Iowa",343.0,221.0,122.0,161,90321,19
+1916193723,"Sac township, Sac County, Iowa",174.0,139.0,35.0,161,93723,19
+1916190744,"Clinton township, Sac County, Iowa",53.0,33.0,20.0,161,90744,19
+1916193612,"Richland township, Sac County, Iowa",511.0,435.0,76.0,161,93612,19
+1916191059,"Douglas township, Sac County, Iowa",32.0,28.0,4.0,161,91059,19
+1912393495,"Prairie township, Mahaska County, Iowa",638.0,518.0,120.0,123,93495,19
+1912393396,"Pleasant Grove township, Mahaska County, Iowa",103.0,79.0,24.0,123,93396,19
+1912392982,"Monroe township, Mahaska County, Iowa",80.0,65.0,15.0,123,92982,19
+1912394722,"White Oak township, Mahaska County, Iowa",190.0,151.0,39.0,123,94722,19
+1912390255,"Black Oak township, Mahaska County, Iowa",238.0,224.0,14.0,123,90255,19
+1912393218,"Oskaloosa city, Mahaska County, Iowa",4570.0,2844.0,1726.0,123,93218,19
+1912393969,"Spring Creek township, Mahaska County, Iowa",647.0,556.0,91.0,123,93969,19
+1912391110,"East Des Moines township, Mahaska County, Iowa",73.0,66.0,7.0,123,91110,19
+1912392241,"Jefferson township, Mahaska County, Iowa",150.0,121.0,29.0,123,92241,19
+1912392778,"Madison township, Mahaska County, Iowa",133.0,117.0,16.0,123,92778,19
+1912394659,"West Des Moines township, Mahaska County, Iowa",49.0,49.0,0.0,123,94659,19
+1912390012,"Adams township, Mahaska County, Iowa",51.0,41.0,10.0,123,90012,19
+1901792334,"Lafayette township, Bremer County, Iowa",271.0,232.0,39.0,017,92334,19
+1901792898,"Maxfield township, Bremer County, Iowa",525.0,469.0,56.0,017,92898,19
+1901793441,"Polk township, Bremer County, Iowa",425.0,352.0,73.0,017,93441,19
+1901791440,"Frederika township, Bremer County, Iowa",166.0,154.0,12.0,017,91440,19
+1901792205,"Jefferson township, Bremer County, Iowa",1272.0,1068.0,204.0,017,92205,19
+1901794455,"Washington township, Bremer County, Iowa",186.0,140.0,46.0,017,94455,19
+1901794045,"Sumner city, Bremer County, Iowa",885.0,727.0,158.0,017,94045,19
+1901794059,"Sumner No. 2 township, Bremer County, Iowa",144.0,115.0,29.0,017,94059,19
+1901794425,"Warren township, Bremer County, Iowa",222.0,206.0,16.0,017,94425,19
+1901794607,"Waverly city, Bremer County, Iowa",3449.0,2640.0,809.0,017,94607,19
+1901792424,"Le Roy township, Bremer County, Iowa",75.0,75.0,0.0,017,92424,19
+1901791458,"Fremont township, Bremer County, Iowa",667.0,544.0,123.0,017,91458,19
+1901792097,"Jackson township, Bremer County, Iowa",607.0,501.0,106.0,017,92097,19
+1902190129,"Barnes township, Buena Vista County, Iowa",196.0,154.0,42.0,021,90129,19
+1909594137,"Troy township, Iowa County, Iowa",1413.0,984.0,429.0,095,94137,19
+1908793744,"Salem township, Henry County, Iowa",449.0,364.0,85.0,087,93744,19
+1909591752,"Greene township, Iowa County, Iowa",225.0,196.0,29.0,095,91752,19
+1909592835,"Marengo township, Iowa County, Iowa",1007.0,673.0,334.0,095,92835,19
+1909591227,"English township, Iowa County, Iowa",692.0,553.0,139.0,095,91227,19
+1909591341,"Fillmore township, Iowa County, Iowa",307.0,277.0,30.0,095,91341,19
+1909592559,"Lincoln township, Iowa County, Iowa",66.0,55.0,11.0,095,92559,19
+1909590912,"Dayton township, Iowa County, Iowa",95.0,83.0,12.0,095,90912,19
+1909594806,"York township, Iowa County, Iowa",191.0,116.0,75.0,095,94806,19
+1909594050,"Sumner township, Iowa County, Iowa",103.0,103.0,0.0,095,94050,19
+1909593324,"Pilot township, Iowa County, Iowa",89.0,89.0,0.0,095,93324,19
+1909591962,"Hilton township, Iowa County, Iowa",302.0,282.0,20.0,095,91962,19
+1909592415,"Lenox township, Iowa County, Iowa",647.0,629.0,18.0,095,92415,19
+1909591878,"Hartford township, Iowa County, Iowa",588.0,423.0,165.0,095,91878,19
+1909591983,"Honey Creek township, Iowa County, Iowa",133.0,133.0,0.0,095,91983,19
+1909592064,"Iowa township, Iowa County, Iowa",274.0,263.0,11.0,095,92064,19
+1909594506,"Washington township, Iowa County, Iowa",445.0,307.0,138.0,095,94506,19
+1909994512,"Washington township, Jasper County, Iowa",957.0,790.0,167.0,099,94512,19
+1909992301,"Kellogg township, Jasper County, Iowa",506.0,415.0,91.0,099,92301,19
+1909992802,"Malaka township, Jasper County, Iowa",91.0,82.0,9.0,099,92802,19
+1909990711,"Clear Creek township, Jasper County, Iowa",185.0,147.0,38.0,099,90711,19
+1909993861,"Sherman township, Jasper County, Iowa",163.0,101.0,62.0,099,93861,19
+1909990975,"Des Moines township, Jasper County, Iowa",985.0,787.0,198.0,099,90975,19
+1909993471,"Poweshiek township, Jasper County, Iowa",369.0,349.0,20.0,099,93471,19
+1909992871,"Mariposa township, Jasper County, Iowa",81.0,72.0,9.0,099,92871,19
+1909990381,"Buena Vista township, Jasper County, Iowa",236.0,204.0,32.0,099,90381,19
+1909993033,"Mound Prairie township, Jasper County, Iowa",257.0,210.0,47.0,099,93033,19
+1916991704,"Grant township, Story County, Iowa",536.0,394.0,142.0,169,91704,19
+1916993261,"Palestine township, Story County, Iowa",2259.0,1821.0,438.0,169,93261,19
+1916993879,"Sherman township, Story County, Iowa",57.0,30.0,27.0,169,93879,19
+1916994566,"Washington township, Story County, Iowa",13570.0,4525.0,9045.0,169,94566,19
+1916990777,"Collins township, Story County, Iowa",262.0,214.0,48.0,169,90777,19
+1916993615,"Richland township, Story County, Iowa",119.0,97.0,22.0,169,93615,19
+1916994437,"Warren township, Story County, Iowa",190.0,159.0,31.0,169,94437,19
+1916993063,"Nevada township, Story County, Iowa",2740.0,2030.0,710.0,169,93063,19
+1904992646,"Linn township, Dallas County, Iowa",247.0,237.0,10.0,049,92646,19
+1904990003,"Adams township, Dallas County, Iowa",471.0,374.0,97.0,049,90003,19
+1904992544,"Lincoln township, Dallas County, Iowa",69.0,52.0,17.0,049,92544,19
+1904991647,"Grant township, Dallas County, Iowa",888.0,762.0,126.0,049,91647,19
+1904990300,"Boone township, Dallas County, Iowa",8777.0,5964.0,2813.0,049,90300,19
+1904990879,"Dallas township, Dallas County, Iowa",111.0,105.0,6.0,049,90879,19
+1904994326,"Van Meter township, Dallas County, Iowa",1294.0,1125.0,169.0,049,94326,19
+1914190477,"Carroll township, O'Brien County, Iowa",148.0,122.0,26.0,141,90477,19
+1914191884,"Hartley township, O'Brien County, Iowa",829.0,639.0,190.0,141,91884,19
+1914192583,"Lincoln township, O'Brien County, Iowa",64.0,64.0,0.0,141,92583,19
+1914191356,"Floyd township, O'Brien County, Iowa",2185.0,1315.0,870.0,141,91356,19
+1914191683,"Grant township, O'Brien County, Iowa",49.0,49.0,0.0,141,91683,19
+1914193174,"Omega township, O'Brien County, Iowa",47.0,37.0,10.0,141,93174,19
+1914194251,"Union township, O'Brien County, Iowa",600.0,527.0,73.0,141,94251,19
+1914190438,"Caledonia township, O'Brien County, Iowa",110.0,66.0,44.0,141,90438,19
+1914190876,"Dale township, O'Brien County, Iowa",180.0,137.0,43.0,141,90876,19
+1914194044,"Summit township, O'Brien County, Iowa",260.0,181.0,79.0,141,94044,19
+1914190618,"Center township, O'Brien County, Iowa",130.0,112.0,18.0,141,90618,19
+1914190108,"Baker township, O'Brien County, Iowa",89.0,73.0,16.0,141,90108,19
+1914194599,"Waterman township, O'Brien County, Iowa",315.0,229.0,86.0,141,94599,19
+1914191938,"Highland township, O'Brien County, Iowa",72.0,47.0,25.0,141,91938,19
+1901190201,"Benton township, Benton County, Iowa",332.0,322.0,10.0,011,90201,19
+1914191422,"Franklin township, O'Brien County, Iowa",705.0,559.0,146.0,141,91422,19
+1914192481,"Liberty township, O'Brien County, Iowa",129.0,105.0,24.0,141,92481,19
+1901192289,"Kane township, Benton County, Iowa",351.0,280.0,71.0,011,92289,19
+1901190522,"Cedar township, Benton County, Iowa",176.0,146.0,30.0,011,90522,19
+1901191857,"Harrison township, Benton County, Iowa",116.0,116.0,0.0,011,91857,19
+1901192052,"Iowa township, Benton County, Iowa",182.0,173.0,9.0,011,92052,19
+1901194170,"Union township, Benton County, Iowa",412.0,303.0,109.0,011,94170,19
+1901191350,"Florence township, Benton County, Iowa",723.0,649.0,74.0,011,91350,19
+1901192091,"Jackson township, Benton County, Iowa",272.0,219.0,53.0,011,92091,19
+1901194095,"Taylor township, Benton County, Iowa",310.0,310.0,0.0,011,94095,19
+1901192421,"Leroy township, Benton County, Iowa",449.0,391.0,58.0,011,92421,19
+1901190178,"Belle Plaine city, Benton County, Iowa",1068.0,778.0,290.0,011,90178,19
+1901190363,"Bruce township, Benton County, Iowa",100.0,78.0,22.0,011,90363,19
+1901193732,"St. Clair township, Benton County, Iowa",142.0,110.0,32.0,011,93732,19
+1901191974,"Homer township, Benton County, Iowa",107.0,33.0,74.0,011,91974,19
+1901190465,"Canton township, Benton County, Iowa",294.0,266.0,28.0,011,90465,19
+1901191131,"Eden township, Benton County, Iowa",79.0,79.0,0.0,011,91131,19
+1901194360,"Vinton city, Benton County, Iowa",2140.0,1613.0,527.0,011,94360,19
+1901191161,"Eldorado township, Benton County, Iowa",510.0,403.0,107.0,011,91161,19
+1901191455,"Fremont township, Benton County, Iowa",913.0,819.0,94.0,011,91455,19
+1901192964,"Monroe township, Benton County, Iowa",62.0,49.0,13.0,011,92964,19
+1901193438,"Polk township, Benton County, Iowa",769.0,653.0,116.0,011,93438,19
+1901193838,"Shellsburg city, Benton County, Iowa",387.0,289.0,98.0,011,93838,19
+1901190237,"Big Grove township, Benton County, Iowa",87.0,78.0,9.0,011,90237,19
+1902390903,"Dayton township, Butler County, Iowa",111.0,93.0,18.0,023,90903,19
+1902392100,"Jackson township, Butler County, Iowa",248.0,198.0,50.0,023,92100,19
+1902392754,"Madison township, Butler County, Iowa",102.0,92.0,10.0,023,92754,19
+1902390153,"Beaver township, Butler County, Iowa",509.0,426.0,83.0,023,90153,19
+1902390195,"Bennezette township, Butler County, Iowa",116.0,80.0,36.0,023,90195,19
+1902393633,"Ripley township, Butler County, Iowa",100.0,87.0,13.0,023,93633,19
+1902393837,"Shell Rock township, Butler County, Iowa",709.0,541.0,168.0,023,93837,19
+1902394464,"Washington township, Butler County, Iowa",177.0,173.0,4.0,023,94464,19
+1902390030,"Albion township, Butler County, Iowa",867.0,653.0,214.0,023,90030,19
+1902391464,"Fremont township, Butler County, Iowa",132.0,127.0,5.0,023,91464,19
+1902390420,"Butler township, Butler County, Iowa",704.0,491.0,213.0,023,90420,19
+1902390753,"Coldwater township, Butler County, Iowa",614.0,505.0,109.0,023,90753,19
+1902393339,"Pittsford township, Butler County, Iowa",345.0,277.0,68.0,023,93339,19
+1902392967,"Monroe township, Butler County, Iowa",674.0,556.0,118.0,023,92967,19
+1906192451,"Liberty township, Dubuque County, Iowa",227.0,202.0,25.0,061,92451,19
+1906193309,"Peru township, Dubuque County, Iowa",540.0,499.0,41.0,061,93309,19
+1906194491,"Washington township, Dubuque County, Iowa",242.0,197.0,45.0,061,94491,19
+1906190798,"Concord township, Dubuque County, Iowa",281.0,241.0,40.0,061,90798,19
+1906191005,"Dodge township, Dubuque County, Iowa",612.0,581.0,31.0,061,91005,19
+1906192217,"Jefferson township, Dubuque County, Iowa",454.0,414.0,40.0,061,92217,19
+1906194098,"Taylor township, Dubuque County, Iowa",1401.0,1161.0,240.0,061,94098,19
+1906191085,"Dubuque city, Dubuque County, Iowa",22000.0,14842.0,7158.0,061,91085,19
+1919392661,"Liston township, Woodbury County, Iowa",246.0,192.0,54.0,193,92661,19
+1919393925,"Sioux City city, Woodbury County, Iowa",24369.0,16673.0,7696.0,193,93925,19
+1919394752,"Willow township, Woodbury County, Iowa",179.0,156.0,23.0,193,94752,19
+1919391719,"Grant township, Woodbury County, Iowa",53.0,32.0,21.0,193,91719,19
+1919392667,"Little Sioux township, Woodbury County, Iowa",125.0,106.0,19.0,193,92667,19
+1919393045,"Moville township, Woodbury County, Iowa",99.0,74.0,25.0,193,93045,19
+1919394773,"Woodbury township, Woodbury County, Iowa",1970.0,1557.0,413.0,193,94773,19
+1919390078,"Arlington township, Woodbury County, Iowa",806.0,606.0,200.0,193,90078,19
+1919391623,"Grange township, Woodbury County, Iowa",50.0,41.0,9.0,193,91623,19
+1919392295,"Kedron township, Woodbury County, Iowa",312.0,254.0,58.0,193,92295,19
+1919393669,"Rock township, Woodbury County, Iowa",234.0,217.0,17.0,193,93669,19
+1919392373,"Lakeport township, Woodbury County, Iowa",88.0,70.0,18.0,193,92373,19
+1919393222,"Oto township, Woodbury County, Iowa",120.0,105.0,15.0,193,93222,19
+1919393929,"Sloan township, Woodbury County, Iowa",502.0,388.0,114.0,193,93929,19
+1919391362,"Floyd township, Woodbury County, Iowa",327.0,270.0,57.0,193,91362,19
+1919393720,"Rutland township, Woodbury County, Iowa",255.0,210.0,45.0,193,93720,19
+1919390123,"Banner township, Woodbury County, Iowa",436.0,404.0,32.0,193,90123,19
+1919390810,"Concord township, Woodbury County, Iowa",460.0,460.0,0.0,193,90810,19
+1919392496,"Liberty township, Woodbury County, Iowa",395.0,293.0,102.0,193,92496,19
+1919393015,"Morgan township, Woodbury County, Iowa",24.0,24.0,0.0,193,93015,19
+1919394284,"Union township, Woodbury County, Iowa",303.0,285.0,18.0,193,94284,19
+1919394674,"West Fork township, Woodbury County, Iowa",130.0,111.0,19.0,193,94674,19
+1919394770,"Wolf Creek township, Woodbury County, Iowa",67.0,63.0,4.0,193,94770,19
+1919392940,"Miller township, Woodbury County, Iowa",97.0,90.0,7.0,193,92940,19
+1901390126,"Barclay township, Black Hawk County, Iowa",170.0,164.0,6.0,013,90126,19
+1901390198,"Bennington township, Black Hawk County, Iowa",193.0,174.0,19.0,013,90198,19
+1901390575,"Cedar Falls city, Black Hawk County, Iowa",13825.0,8910.0,4915.0,013,90575,19
+1901392427,"Lester township, Black Hawk County, Iowa",589.0,484.0,105.0,013,92427,19
+1901394452,"Washington township, Black Hawk County, Iowa",327.0,280.0,47.0,013,94452,19
+1901391092,"Eagle township, Black Hawk County, Iowa",170.0,137.0,33.0,013,91092,19
+1909991293,"Fairview township, Jasper County, Iowa",950.0,764.0,186.0,099,91293,19
+1909991920,"Hickory Grove township, Jasper County, Iowa",110.0,76.0,34.0,099,91920,19
+1909992736,"Lynn Grove township, Jasper County, Iowa",663.0,520.0,143.0,099,92736,19
+1909993267,"Palo Alto township, Jasper County, Iowa",1032.0,780.0,252.0,099,93267,19
+1909993672,"Rock Creek township, Jasper County, Iowa",350.0,313.0,37.0,099,93672,19
+1909993597,"Richland township, Jasper County, Iowa",171.0,125.0,46.0,099,93597,19
+1909991182,"Elk Creek township, Jasper County, Iowa",153.0,126.0,27.0,099,91182,19
+1909993102,"Newton township, Jasper County, Iowa",6084.0,4167.0,1917.0,099,93102,19
+1909992022,"Independence township, Jasper County, Iowa",609.0,469.0,140.0,099,92022,19
+1914591053,"Douglas township, Page County, Iowa",69.0,55.0,14.0,145,91053,19
+1914594305,"Valley township, Page County, Iowa",99.0,75.0,24.0,145,94305,19
+1914594542,"Washington township, Page County, Iowa",73.0,72.0,1.0,145,94542,19
+1914590066,"Amity township, Page County, Iowa",166.0,146.0,20.0,145,90066,19
+1914594086,"Tarkio township, Page County, Iowa",81.0,70.0,11.0,145,94086,19
+1914593054,"Nebraska township, Page County, Iowa",20.0,20.0,0.0,145,93054,19
+1914590765,"Colfax township, Page County, Iowa",98.0,76.0,22.0,145,90765,19
+1914591482,"Fremont township, Page County, Iowa",89.0,77.0,12.0,145,91482,19
+1914593123,"Nodaway township, Page County, Iowa",2223.0,1548.0,675.0,145,93123,19
+1914593315,"Pierce township, Page County, Iowa",435.0,361.0,74.0,145,93315,19
+1914591125,"East River township, Page County, Iowa",96.0,96.0,0.0,145,91125,19
+1914590369,"Buchanan township, Page County, Iowa",107.0,77.0,30.0,145,90369,19
+1914591848,"Harlan township, Page County, Iowa",129.0,103.0,26.0,145,91848,19
+1914592586,"Lincoln township, Page County, Iowa",102.0,80.0,22.0,145,92586,19
+1914593021,"Morton township, Page County, Iowa",62.0,55.0,7.0,145,93021,19
+1914591686,"Grant township, Page County, Iowa",2189.0,1552.0,637.0,145,91686,19
+1919190414,"Burr Oak township, Winneshiek County, Iowa",182.0,148.0,34.0,191,90414,19
+1919191434,"Frankville township, Winneshiek County, Iowa",168.0,168.0,0.0,191,91434,19
+1919193384,"Pleasant township, Winneshiek County, Iowa",206.0,196.0,10.0,191,93384,19
+1919194056,"Sumner township, Winneshiek County, Iowa",110.0,73.0,37.0,191,94056,19
+1919191917,"Hesper township, Winneshiek County, Iowa",174.0,154.0,20.0,191,91917,19
+1919192937,"Military township, Winneshiek County, Iowa",615.0,541.0,74.0,191,92937,19
+1919192181,"Jackson township, Winneshiek County, Iowa",109.0,84.0,25.0,191,92181,19
+1902394692,"West Point township, Butler County, Iowa",581.0,469.0,112.0,023,94692,19
+1902392211,"Jefferson township, Butler County, Iowa",119.0,101.0,18.0,023,92211,19
+1919190462,"Canoe township, Winneshiek County, Iowa",214.0,193.0,21.0,191,90462,19
+1919193984,"Springfield township, Winneshiek County, Iowa",151.0,94.0,57.0,191,93984,19
+1919194587,"Washington township, Winneshiek County, Iowa",402.0,369.0,33.0,191,94587,19
+1919190447,"Calmar township, Winneshiek County, Iowa",888.0,636.0,252.0,191,90447,19
+1919190288,"Bluffton township, Winneshiek County, Iowa",164.0,143.0,21.0,191,90288,19
+1919190924,"Decorah township, Winneshiek County, Iowa",3448.0,2492.0,956.0,191,90924,19
+1901393039,"Mount Vernon township, Black Hawk County, Iowa",358.0,344.0,14.0,013,93039,19
+1901393966,"Spring Creek township, Black Hawk County, Iowa",120.0,101.0,19.0,013,93966,19
+1901390525,"Cedar township, Black Hawk County, Iowa",627.0,577.0,50.0,013,90525,19
+1901390576,"Cedar Falls township, Black Hawk County, Iowa",122.0,76.0,46.0,013,90576,19
+1901393477,"Poyner township, Black Hawk County, Iowa",1153.0,945.0,208.0,013,93477,19
+1901394173,"Union township, Black Hawk County, Iowa",388.0,374.0,14.0,013,94173,19
+1901390234,"Big Creek township, Black Hawk County, Iowa",1069.0,876.0,193.0,013,90234,19
+1901390246,"Black Hawk township, Black Hawk County, Iowa",1028.0,910.0,118.0,013,90246,19
+1901391374,"Fox township, Black Hawk County, Iowa",241.0,201.0,40.0,013,91374,19
+1901393186,"Orange township, Black Hawk County, Iowa",198.0,112.0,86.0,013,93186,19
+1901391128,"East Waterloo township, Black Hawk County, Iowa",559.0,483.0,76.0,013,91128,19
+1901392526,"Lincoln township, Black Hawk County, Iowa",96.0,67.0,29.0,013,92526,19
+1901394597,"Waterloo city, Black Hawk County, Iowa",22303.0,15294.0,7009.0,013,94597,19
+1907593882,"Shiloh township, Grundy County, Iowa",463.0,415.0,48.0,075,93882,19
+1907590159,"Beaver township, Grundy County, Iowa",159.0,132.0,27.0,075,90159,19
+1907591656,"Grant township, Grundy County, Iowa",709.0,616.0,93.0,075,91656,19
+1907593258,"Palermo township, Grundy County, Iowa",1261.0,983.0,278.0,075,93258,19
+1907590675,"Clay township, Grundy County, Iowa",616.0,473.0,143.0,075,90675,19
+1907590762,"Colfax township, Grundy County, Iowa",178.0,163.0,15.0,075,90762,19
+1907591329,"Felix township, Grundy County, Iowa",93.0,69.0,24.0,075,91329,19
+1907592550,"Lincoln township, Grundy County, Iowa",154.0,134.0,20.0,075,92550,19
+1907591281,"Fairfield township, Grundy County, Iowa",189.0,154.0,35.0,075,91281,19
+1907592907,"Melrose township, Grundy County, Iowa",85.0,47.0,38.0,075,92907,19
+1907591560,"German township, Grundy County, Iowa",79.0,46.0,33.0,075,91560,19
+1907593414,"Pleasant Valley township, Grundy County, Iowa",152.0,97.0,55.0,075,93414,19
+1907590249,"Black Hawk township, Grundy County, Iowa",815.0,630.0,185.0,075,90249,19
+1907594500,"Washington township, Grundy County, Iowa",144.0,139.0,5.0,075,94500,19
+1909792826,"Maquoketa township, Jackson County, Iowa",1254.0,927.0,327.0,097,92826,19
+1909792958,"Monmouth township, Jackson County, Iowa",259.0,228.0,31.0,097,92958,19
+1909794221,"Union township, Jackson County, Iowa",296.0,249.0,47.0,097,94221,19
+1909794314,"Van Buren township, Jackson County, Iowa",619.0,467.0,152.0,097,94314,19
+1909792067,"Iowa township, Jackson County, Iowa",286.0,218.0,68.0,097,92067,19
+1909793234,"Otter Creek township, Jackson County, Iowa",257.0,217.0,40.0,097,93234,19
+1909793594,"Richland township, Jackson County, Iowa",126.0,110.0,16.0,097,93594,19
+1909794509,"Washington township, Jackson County, Iowa",132.0,99.0,33.0,097,94509,19
+1909792130,"Jackson township, Jackson County, Iowa",152.0,131.0,21.0,097,92130,19
+1909794107,"Tete Des Morts township, Jackson County, Iowa",359.0,339.0,20.0,097,94107,19
+1909790426,"Butler township, Jackson County, Iowa",115.0,115.0,0.0,097,90426,19
+1919190273,"Bloomfield township, Winneshiek County, Iowa",291.0,251.0,40.0,191,90273,19
+1919191578,"Glenwood township, Winneshiek County, Iowa",163.0,163.0,0.0,191,91578,19
+1919193201,"Orleans township, Winneshiek County, Iowa",153.0,138.0,15.0,191,93201,19
+1919191956,"Highland township, Winneshiek County, Iowa",113.0,95.0,18.0,191,91956,19
+1919192631,"Lincoln township, Winneshiek County, Iowa",197.0,142.0,55.0,191,92631,19
+1919191485,"Fremont township, Winneshiek County, Iowa",80.0,70.0,10.0,191,91485,19
+1919192787,"Madison township, Winneshiek County, Iowa",151.0,140.0,11.0,191,92787,19
+1915790141,"Bear Creek township, Poweshiek County, Iowa",788.0,557.0,231.0,157,90141,19
+1915792601,"Lincoln township, Poweshiek County, Iowa",138.0,125.0,13.0,157,92601,19
+1915793801,"Scott township, Poweshiek County, Iowa",81.0,52.0,29.0,157,93801,19
+1915790930,"Deep River township, Poweshiek County, Iowa",160.0,135.0,25.0,157,90930,19
+1915791774,"Grinnell city, Poweshiek County, Iowa",3342.0,2097.0,1245.0,157,91774,19
+1915792784,"Madison township, Poweshiek County, Iowa",312.0,267.0,45.0,157,92784,19
+1915793375,"Pleasant township, Poweshiek County, Iowa",175.0,154.0,21.0,157,93375,19
+1915794434,"Warren township, Poweshiek County, Iowa",137.0,100.0,37.0,157,94434,19
+1915792805,"Malcom township, Poweshiek County, Iowa",189.0,141.0,48.0,157,92805,19
+1915793846,"Sheridan township, Poweshiek County, Iowa",118.0,75.0,43.0,157,93846,19
+1915791695,"Grant township, Poweshiek County, Iowa",225.0,209.0,16.0,157,91695,19
+1915790660,"Chester township, Poweshiek County, Iowa",99.0,85.0,14.0,157,90660,19
+1915794026,"Sugar Creek township, Poweshiek County, Iowa",178.0,127.0,51.0,157,94026,19
+1915792250,"Jefferson township, Poweshiek County, Iowa",143.0,118.0,25.0,157,92250,19
+1915794554,"Washington township, Poweshiek County, Iowa",180.0,141.0,39.0,157,94554,19
+1915794260,"Union township, Poweshiek County, Iowa",320.0,314.0,6.0,157,94260,19
+1915792154,"Jackson township, Poweshiek County, Iowa",693.0,485.0,208.0,157,92154,19
+1915590852,"Crescent township, Pottawattamie County, Iowa",376.0,361.0,15.0,155,90852,19
+1915592298,"Keg Creek township, Pottawattamie County, Iowa",298.0,268.0,30.0,155,92298,19
+1915592364,"Lake township, Pottawattamie County, Iowa",481.0,450.0,31.0,155,92364,19
+1915593057,"Neola township, Pottawattamie County, Iowa",491.0,374.0,117.0,155,93057,19
+1915590483,"Carson township, Pottawattamie County, Iowa",335.0,256.0,79.0,155,90483,19
+1915590297,"Boomer township, Pottawattamie County, Iowa",240.0,211.0,29.0,155,90297,19
+1915592748,"Macedonia township, Pottawattamie County, Iowa",176.0,139.0,37.0,155,92748,19
+1915593900,"Silver Creek township, Pottawattamie County, Iowa",381.0,314.0,67.0,155,93900,19
+1915594785,"Wright township, Pottawattamie County, Iowa",105.0,71.0,34.0,155,94785,19
+1915591896,"Hazel Dell township, Pottawattamie County, Iowa",561.0,547.0,14.0,155,91896,19
+1915592433,"Lewis township, Pottawattamie County, Iowa",4758.0,3761.0,997.0,155,92433,19
+1915591839,"Hardin township, Pottawattamie County, Iowa",376.0,359.0,17.0,155,91839,19
+1915591788,"Grove township, Pottawattamie County, Iowa",59.0,59.0,0.0,155,91788,19
+1909793948,"South Fork township, Jackson County, Iowa",2073.0,1499.0,574.0,097,93948,19
+1909790327,"Brandon township, Jackson County, Iowa",125.0,115.0,10.0,097,90327,19
+1909791314,"Farmers Creek township, Jackson County, Iowa",171.0,162.0,9.0,097,91314,19
+1909793300,"Perry township, Jackson County, Iowa",293.0,237.0,56.0,097,93300,19
+1909793501,"Prairie Springs township, Jackson County, Iowa",273.0,217.0,56.0,097,93501,19
+1909791284,"Fairfield township, Jackson County, Iowa",152.0,131.0,21.0,097,91284,19
+1909790180,"Bellevue township, Jackson County, Iowa",1296.0,982.0,314.0,097,90180,19
+1910590510,"Cass township, Jones County, Iowa",294.0,237.0,57.0,105,90510,19
+1910594518,"Washington township, Jones County, Iowa",131.0,131.0,0.0,105,94518,19
+1910590684,"Clay township, Jones County, Iowa",117.0,75.0,42.0,105,90684,19
+1910591761,"Greenfield township, Jones County, Iowa",229.0,197.0,32.0,105,91761,19
+1910593252,"Oxford township, Jones County, Iowa",346.0,263.0,83.0,105,93252,19
+1910592725,"Lovell township, Jones County, Iowa",2096.0,1596.0,500.0,105,92725,19
+1910593765,"Scotch Grove township, Jones County, Iowa",152.0,107.0,45.0,105,93765,19
+1910594611,"Wayne township, Jones County, Iowa",172.0,172.0,0.0,105,94611,19
+1910592769,"Madison township, Jones County, Iowa",238.0,170.0,68.0,105,92769,19
+1910591803,"Hale township, Jones County, Iowa",136.0,101.0,35.0,105,91803,19
+1910592133,"Jackson township, Jones County, Iowa",149.0,135.0,14.0,105,92133,19
+1910593687,"Rome township, Jones County, Iowa",478.0,356.0,122.0,105,93687,19
+1910590519,"Castle Grove township, Jones County, Iowa",140.0,135.0,5.0,105,90519,19
+1910594794,"Wyoming township, Jones County, Iowa",339.0,273.0,66.0,105,94794,19
+1910593600,"Richland township, Jones County, Iowa",330.0,238.0,92.0,105,93600,19
+1910591296,"Fairview township, Jones County, Iowa",2709.0,1952.0,757.0,105,91296,19
+1911190966,"Denmark township, Lee County, Iowa",384.0,355.0,29.0,111,90966,19
+1911191869,"Harrison township, Lee County, Iowa",108.0,108.0,0.0,111,91869,19
+1911192232,"Jefferson township, Lee County, Iowa",556.0,432.0,124.0,111,92232,19
+1911192772,"Madison township, Lee County, Iowa",4017.0,2940.0,1077.0,111,92772,19
+1911193402,"Pleasant Ridge township, Lee County, Iowa",160.0,152.0,8.0,111,93402,19
+1911190981,"Des Moines township, Lee County, Iowa",245.0,212.0,33.0,111,90981,19
+1911190647,"Charleston township, Lee County, Iowa",274.0,189.0,85.0,111,90647,19
+1911192856,"Marion township, Lee County, Iowa",116.0,99.0,17.0,111,92856,19
+1911193000,"Montrose township, Lee County, Iowa",656.0,523.0,133.0,111,93000,19
+1911194524,"Washington township, Lee County, Iowa",575.0,509.0,66.0,111,94524,19
+1911190546,"Cedar township, Lee County, Iowa",185.0,137.0,48.0,111,90546,19
+1911191743,"Green Bay township, Lee County, Iowa",179.0,175.0,4.0,111,91743,19
+1911192311,"Keokuk city, Lee County, Iowa",3837.0,2498.0,1339.0,111,92311,19
+1915592388,"Layton township, Pottawattamie County, Iowa",378.0,255.0,123.0,155,92388,19
+1915593372,"Pleasant township, Pottawattamie County, Iowa",73.0,59.0,14.0,155,93372,19
+1915594311,"Valley township, Pottawattamie County, Iowa",149.0,117.0,32.0,155,94311,19
+1915594605,"Waveland township, Pottawattamie County, Iowa",93.0,79.0,14.0,155,94605,19
+1911194320,"Van Buren township, Lee County, Iowa",141.0,141.0,0.0,111,94320,19
+1911194695,"West Point township, Lee County, Iowa",710.0,584.0,126.0,111,94695,19
+1915593135,"Norwalk township, Pottawattamie County, Iowa",515.0,400.0,115.0,155,93135,19
+1915593678,"Rockford township, Pottawattamie County, Iowa",213.0,157.0,56.0,155,93678,19
+1915592187,"James township, Pottawattamie County, Iowa",83.0,66.0,17.0,155,92187,19
+1915590174,"Belknap township, Pottawattamie County, Iowa",573.0,448.0,125.0,155,90174,19
+1915591545,"Garner township, Pottawattamie County, Iowa",2821.0,2061.0,760.0,155,91545,19
+1915592292,"Kane township, Pottawattamie County, Iowa",18996.0,11677.0,7319.0,155,92292,19
+1915592325,"Knox township, Pottawattamie County, Iowa",708.0,524.0,184.0,155,92325,19
+1915592598,"Lincoln township, Pottawattamie County, Iowa",88.0,80.0,8.0,155,92598,19
+1915592949,"Minden township, Pottawattamie County, Iowa",366.0,302.0,64.0,155,92949,19
+1915594551,"Washington township, Pottawattamie County, Iowa",159.0,120.0,39.0,155,94551,19
+1915590624,"Center township, Pottawattamie County, Iowa",101.0,81.0,20.0,155,90624,19
+1915594809,"York township, Pottawattamie County, Iowa",79.0,54.0,25.0,155,94809,19
+1912794536,"Washington township, Marshall County, Iowa",144.0,101.0,43.0,127,94536,19
+1912791749,"Greencastle township, Marshall County, Iowa",424.0,336.0,88.0,127,91749,19
+1912792700,"Logan township, Marshall County, Iowa",449.0,367.0,82.0,127,92700,19
+1912792952,"Minerva township, Marshall County, Iowa",139.0,134.0,5.0,127,92952,19
+1912792658,"Liscomb township, Marshall County, Iowa",107.0,98.0,9.0,127,92658,19
+1912792838,"Marietta township, Marshall County, Iowa",149.0,108.0,41.0,127,92838,19
+1912794116,"Timber Creek township, Marshall County, Iowa",3484.0,2530.0,954.0,127,94116,19
+1912791146,"Eden township, Marshall County, Iowa",250.0,228.0,22.0,127,91146,19
+1912792412,"Le Grand township, Marshall County, Iowa",664.0,541.0,123.0,127,92412,19
+1912792475,"Liberty township, Marshall County, Iowa",118.0,78.0,40.0,127,92475,19
+1912792862,"Marion township, Marshall County, Iowa",353.0,315.0,38.0,127,92862,19
+1912794011,"State Center township, Marshall County, Iowa",723.0,594.0,129.0,127,94011,19
+1912790117,"Bangor township, Marshall County, Iowa",275.0,226.0,49.0,127,90117,19
+1912794104,"Taylor township, Marshall County, Iowa",5126.0,3492.0,1634.0,127,94104,19
+1912794356,"Vienna township, Marshall County, Iowa",102.0,71.0,31.0,127,94356,19
+1912792244,"Jefferson township, Marshall County, Iowa",317.0,236.0,81.0,127,92244,19
+1904392808,"Mallory township, Clayton County, Iowa",213.0,170.0,43.0,043,92808,19
+1904391176,"Elk township, Clayton County, Iowa",120.0,105.0,15.0,043,91176,19
+1904391566,"Giard township, Clayton County, Iowa",118.0,118.0,0.0,043,91566,19
+1904391605,"Grand Meadow township, Clayton County, Iowa",130.0,95.0,35.0,043,91605,19
+1911191407,"Franklin township, Lee County, Iowa",584.0,468.0,116.0,111,91407,19
+1911192139,"Jackson township, Lee County, Iowa",684.0,615.0,69.0,111,92139,19
+1913194683,"West Lincoln township, Mitchell County, Iowa",85.0,72.0,13.0,131,94683,19
+1913190555,"Cedar township, Mitchell County, Iowa",197.0,197.0,0.0,131,90555,19
+1913191047,"Douglas township, Mitchell County, Iowa",81.0,71.0,10.0,131,91047,19
+1913190411,"Burr Oak township, Mitchell County, Iowa",67.0,59.0,8.0,131,90411,19
+1913192268,"Jenkins township, Mitchell County, Iowa",337.0,299.0,38.0,131,92268,19
+1913192478,"Liberty township, Mitchell County, Iowa",60.0,60.0,0.0,131,92478,19
+1913194002,"Stacyville township, Mitchell County, Iowa",297.0,235.0,62.0,131,94002,19
+1913193075,"Newburg township, Mitchell County, Iowa",126.0,121.0,5.0,131,93075,19
+1913193663,"Rock township, Mitchell County, Iowa",166.0,166.0,0.0,131,93663,19
+1913193726,"St. Ansgar township, Mitchell County, Iowa",592.0,533.0,59.0,131,93726,19
+1913191116,"East Lincoln township, Mitchell County, Iowa",59.0,45.0,14.0,131,91116,19
+1913192955,"Mitchell township, Mitchell County, Iowa",100.0,78.0,22.0,131,92955,19
+1913193210,"Osage township, Mitchell County, Iowa",1704.0,1336.0,368.0,131,93210,19
+1913194614,"Wayne township, Mitchell County, Iowa",137.0,128.0,9.0,131,94614,19
+1913194245,"Union township, Mitchell County, Iowa",112.0,72.0,40.0,131,94245,19
+1913193225,"Otranto township, Mitchell County, Iowa",112.0,95.0,17.0,131,93225,19
+1913792580,"Lincoln township, Montgomery County, Iowa",53.0,42.0,11.0,137,92580,19
+1913791104,"East township, Montgomery County, Iowa",648.0,487.0,161.0,137,91104,19
+1913791380,"Frankfort township, Montgomery County, Iowa",100.0,78.0,22.0,137,91380,19
+1913793555,"Red Oak township, Montgomery County, Iowa",2564.0,1593.0,971.0,137,93555,19
+1913793798,"Scott township, Montgomery County, Iowa",348.0,270.0,78.0,137,93798,19
+1913791530,"Garfield township, Montgomery County, Iowa",90.0,63.0,27.0,137,91530,19
+1913793870,"Sherman township, Montgomery County, Iowa",225.0,171.0,54.0,137,93870,19
+1913791680,"Grant township, Montgomery County, Iowa",109.0,81.0,28.0,137,91680,19
+1913793327,"Pilot Grove township, Montgomery County, Iowa",79.0,50.0,29.0,137,93327,19
+1913794539,"Washington township, Montgomery County, Iowa",66.0,54.0,12.0,137,94539,19
+1918193228,"Otter township, Warren County, Iowa",360.0,315.0,45.0,181,93228,19
+1913794647,"West township, Montgomery County, Iowa",31.0,23.0,8.0,137,94647,19
+1913791050,"Douglas township, Montgomery County, Iowa",110.0,100.0,10.0,137,91050,19
+1918192652,"Linn township, Warren County, Iowa",3177.0,2467.0,710.0,181,92652,19
+1918191764,"Greenfield township, Warren County, Iowa",2293.0,1758.0,535.0,181,91764,19
+1918192036,"Indianola city, Warren County, Iowa",5830.0,3970.0,1860.0,181,92036,19
+1918194716,"White Breast township, Warren County, Iowa",309.0,248.0,61.0,181,94716,19
+1918194725,"White Oak township, Warren County, Iowa",358.0,333.0,25.0,181,94725,19
+1918193264,"Palmyra township, Warren County, Iowa",284.0,250.0,34.0,181,93264,19
+1904390705,"Clayton township, Clayton County, Iowa",145.0,107.0,38.0,043,90705,19
+1904390378,"Buena Vista township, Clayton County, Iowa",136.0,125.0,11.0,043,90378,19
+1904393957,"Sperry township, Clayton County, Iowa",192.0,141.0,51.0,043,93957,19
+1904391542,"Garnavillo township, Clayton County, Iowa",449.0,343.0,106.0,043,91542,19
+1904392961,"Monona township, Clayton County, Iowa",1030.0,819.0,211.0,043,92961,19
+1904390498,"Cass township, Clayton County, Iowa",674.0,492.0,182.0,043,90498,19
+1904392913,"Mendon township, Clayton County, Iowa",836.0,627.0,209.0,043,92913,19
+1904394380,"Wagner township, Clayton County, Iowa",156.0,127.0,29.0,043,94380,19
+1904390291,"Boardman township, Clayton County, Iowa",810.0,591.0,219.0,043,90291,19
+1904392214,"Jefferson township, Clayton County, Iowa",1101.0,804.0,297.0,043,92214,19
+1904392841,"Marion township, Clayton County, Iowa",119.0,109.0,10.0,043,92841,19
+1904394374,"Volga township, Clayton County, Iowa",183.0,139.0,44.0,043,94374,19
+1904390843,"Cox Creek township, Clayton County, Iowa",112.0,89.0,23.0,043,90843,19
+1904391929,"Highland township, Clayton County, Iowa",100.0,83.0,17.0,043,91929,19
+1904392685,"Lodomillo township, Clayton County, Iowa",276.0,207.0,69.0,043,92685,19
+1904393543,"Read township, Clayton County, Iowa",95.0,84.0,11.0,043,93543,19
+1906194728,"Whitewater township, Dubuque County, Iowa",481.0,393.0,88.0,061,94728,19
+1906190597,"Center township, Dubuque County, Iowa",946.0,935.0,11.0,061,90597,19
+1906193024,"Mosalem township, Dubuque County, Iowa",651.0,621.0,30.0,061,93024,19
+1906194332,"Vernon township, Dubuque County, Iowa",1115.0,1025.0,90.0,061,94332,19
+1904391311,"Farmersburg township, Clayton County, Iowa",224.0,174.0,50.0,043,91311,19
+1904392943,"Millville township, Clayton County, Iowa",183.0,162.0,21.0,043,92943,19
+1906193108,"New Wine township, Dubuque County, Iowa",2037.0,1631.0,406.0,061,93108,19
+1906191086,"Dubuque township, Dubuque County, Iowa",2480.0,2243.0,237.0,061,91086,19
+1906192061,"Iowa township, Dubuque County, Iowa",144.0,131.0,13.0,061,92061,19
+1906193498,"Prairie Creek township, Dubuque County, Iowa",248.0,241.0,7.0,061,93498,19
+1906190486,"Cascade township, Dubuque County, Iowa",409.0,278.0,131.0,061,90486,19
+1906194077,"Table Mound township, Dubuque County, Iowa",1435.0,1335.0,100.0,061,94077,19
+1907191734,"Green township, Fremont County, Iowa",133.0,113.0,20.0,071,91734,19
+1907194078,"Tabor city, Fremont County, Iowa",413.0,273.0,140.0,071,94078,19
+1907194494,"Washington township, Fremont County, Iowa",107.0,93.0,14.0,071,94494,19
+1907194398,"Walnut township, Fremont County, Iowa",47.0,32.0,15.0,071,94398,19
+1907190210,"Benton township, Fremont County, Iowa",84.0,70.0,14.0,071,90210,19
+1907191344,"Fisher township, Fremont County, Iowa",342.0,236.0,106.0,071,91344,19
+1907192970,"Monroe township, Fremont County, Iowa",95.0,86.0,9.0,071,92970,19
+1907193651,"Riverton township, Fremont County, Iowa",147.0,132.0,15.0,071,93651,19
+1907192760,"Madison township, Fremont County, Iowa",53.0,44.0,9.0,071,92760,19
+1907193486,"Prairie township, Fremont County, Iowa",62.0,35.0,27.0,071,93486,19
+1907193780,"Scott township, Fremont County, Iowa",125.0,95.0,30.0,071,93780,19
+1907191804,"Hamburg city, Fremont County, Iowa",473.0,313.0,160.0,071,91804,19
+1907193885,"Sidney township, Fremont County, Iowa",612.0,493.0,119.0,071,93885,19
+1907193639,"Riverside township, Fremont County, Iowa",113.0,99.0,14.0,071,93639,19
+1907192679,"Locust Grove township, Fremont County, Iowa",67.0,57.0,10.0,071,92679,19
+1907992019,"Independence township, Hamilton County, Iowa",203.0,167.0,36.0,079,92019,19
+1907993696,"Rose Grove township, Hamilton County, Iowa",68.0,50.0,18.0,079,93696,19
+1907990722,"Clear Lake township, Hamilton County, Iowa",277.0,198.0,79.0,079,90722,19
+1907992739,"Lyon township, Hamilton County, Iowa",573.0,469.0,104.0,079,92739,19
+1907994633,"Webster City city, Hamilton County, Iowa",2941.0,2049.0,892.0,079,94633,19
+1907991476,"Fremont township, Hamilton County, Iowa",69.0,37.0,32.0,079,91476,19
+1907993783,"Scott township, Hamilton County, Iowa",89.0,64.0,25.0,079,93783,19
+1907990504,"Cass township, Hamilton County, Iowa",165.0,136.0,29.0,079,90504,19
+1907994623,"Webster township, Hamilton County, Iowa",99.0,84.0,15.0,079,94623,19
+1907990264,"Blairsburg township, Hamilton County, Iowa",108.0,71.0,37.0,079,90264,19
+1907991446,"Freedom township, Hamilton County, Iowa",145.0,141.0,4.0,079,91446,19
+1907992553,"Lincoln township, Hamilton County, Iowa",219.0,161.0,58.0,079,92553,19
+1907991812,"Hamilton township, Hamilton County, Iowa",70.0,54.0,16.0,079,91812,19
+1907991212,"Ellsworth township, Hamilton County, Iowa",212.0,201.0,11.0,079,91212,19
+1907992454,"Liberty township, Hamilton County, Iowa",79.0,58.0,21.0,079,92454,19
+1907992850,"Marion township, Hamilton County, Iowa",361.0,266.0,95.0,079,92850,19
+1915192670,"Lizard township, Pocahontas County, Iowa",78.0,70.0,8.0,151,92670,19
+1907994737,"Williams township, Hamilton County, Iowa",195.0,140.0,55.0,079,94737,19
+1915190984,"Des Moines township, Pocahontas County, Iowa",45.0,21.0,24.0,151,90984,19
+1915190621,"Center township, Pocahontas County, Iowa",830.0,640.0,190.0,151,90621,19
+1915193685,"Rolfe city, Pocahontas County, Iowa",233.0,135.0,98.0,151,93685,19
+1915190768,"Colfax township, Pocahontas County, Iowa",97.0,76.0,21.0,151,90768,19
+1915190867,"Cummins township, Pocahontas County, Iowa",122.0,92.0,30.0,151,90867,19
+1915194068,"Swan Lake township, Pocahontas County, Iowa",613.0,472.0,141.0,151,94068,19
+1915192592,"Lincoln township, Pocahontas County, Iowa",42.0,32.0,10.0,151,92592,19
+1915190183,"Bellville township, Pocahontas County, Iowa",177.0,136.0,41.0,151,90183,19
+1915191536,"Garfield township, Pocahontas County, Iowa",79.0,50.0,29.0,151,91536,19
+1915193690,"Roosevelt township, Pocahontas County, Iowa",70.0,70.0,0.0,151,93690,19
+1915190564,"Cedar township, Pocahontas County, Iowa",237.0,211.0,26.0,151,90564,19
+1915192361,"Lake township, Pocahontas County, Iowa",117.0,84.0,33.0,151,92361,19
+1915191074,"Dover township, Pocahontas County, Iowa",69.0,68.0,1.0,151,91074,19
+1915191692,"Grant township, Pocahontas County, Iowa",53.0,48.0,5.0,151,91692,19
+1915192880,"Marshall township, Pocahontas County, Iowa",55.0,48.0,7.0,151,92880,19
+1915193474,"Powhatan township, Pocahontas County, Iowa",79.0,67.0,12.0,151,93474,19
+1917393705,"Ross township, Taylor County, Iowa",66.0,53.0,13.0,173,93705,19
+1915193873,"Sherman township, Pocahontas County, Iowa",33.0,33.0,0.0,151,93873,19
+1917394569,"Washington township, Taylor County, Iowa",155.0,124.0,31.0,173,94569,19
+1917392163,"Jackson township, Taylor County, Iowa",23.0,23.0,0.0,173,92163,19
+1917393450,"Polk township, Taylor County, Iowa",22.0,22.0,0.0,173,93450,19
+1917390885,"Dallas township, Taylor County, Iowa",295.0,243.0,52.0,173,90885,19
+1917391971,"Holt township, Taylor County, Iowa",42.0,37.0,5.0,173,91971,19
+1917392259,"Jefferson township, Taylor County, Iowa",114.0,94.0,20.0,173,92259,19
+1917393126,"Nodaway township, Taylor County, Iowa",68.0,68.0,0.0,173,93126,19
+1917393348,"Platte township, Taylor County, Iowa",542.0,356.0,186.0,173,93348,19
+1917391710,"Grant township, Taylor County, Iowa",198.0,162.0,36.0,173,91710,19
+1917392883,"Marshall township, Taylor County, Iowa",69.0,57.0,12.0,173,92883,19
+1917390171,"Bedford township, Taylor County, Iowa",656.0,508.0,148.0,173,90171,19
+1917391794,"Grove township, Taylor County, Iowa",60.0,47.0,13.0,173,91794,19
+1917391548,"Gay township, Taylor County, Iowa",22.0,14.0,8.0,173,91548,19
+1917390708,"Clayton township, Taylor County, Iowa",41.0,37.0,4.0,173,90708,19
+1917390222,"Benton township, Taylor County, Iowa",54.0,54.0,0.0,173,90222,19
+1917392889,"Mason township, Taylor County, Iowa",68.0,58.0,10.0,173,92889,19
+1917591065,"Douglas township, Union County, Iowa",293.0,282.0,11.0,175,91065,19
+1917591947,"Highland township, Union County, Iowa",75.0,68.0,7.0,175,91947,19
+1917592622,"Lincoln township, Union County, Iowa",137.0,132.0,5.0,175,92622,19
+1917591713,"Grant township, Union County, Iowa",99.0,85.0,14.0,175,91713,19
+1917593084,"New Hope township, Union County, Iowa",273.0,213.0,60.0,175,93084,19
+1917594272,"Union township, Union County, Iowa",511.0,396.0,115.0,175,94272,19
+1917592280,"Jones township, Union County, Iowa",103.0,98.0,5.0,175,92280,19
+1917593351,"Platte township, Union County, Iowa",107.0,87.0,20.0,175,93351,19
+1917593378,"Pleasant township, Union County, Iowa",60.0,55.0,5.0,175,93378,19
+1917593753,"Sand Creek township, Union County, Iowa",100.0,86.0,14.0,175,93753,19
+1917590856,"Creston city, Union County, Iowa",3246.0,2079.0,1167.0,175,90856,19
+1917591011,"Dodge township, Union County, Iowa",66.0,34.0,32.0,175,91011,19
+1917593954,"Spaulding township, Union County, Iowa",95.0,82.0,13.0,175,93954,19
+1917790990,"Des Moines township, Van Buren County, Iowa",79.0,79.0,0.0,177,90990,19
+1917791851,"Harrisburg township, Van Buren County, Iowa",82.0,82.0,0.0,177,91851,19
+1917794275,"Union township, Van Buren County, Iowa",339.0,305.0,34.0,177,94275,19
+1917794359,"Village township, Van Buren County, Iowa",146.0,146.0,0.0,177,94359,19
+1917790651,"Chequest township, Van Buren County, Iowa",45.0,45.0,0.0,177,90651,19
+1917794341,"Vernon township, Van Buren County, Iowa",57.0,57.0,0.0,177,94341,19
+1917790294,"Bonaparte township, Van Buren County, Iowa",268.0,206.0,62.0,177,90294,19
+1917790570,"Cedar township, Van Buren County, Iowa",153.0,111.0,42.0,177,90570,19
+1917791320,"Farmington township, Van Buren County, Iowa",443.0,351.0,92.0,177,91320,19
+1917791911,"Henry township, Van Buren County, Iowa",27.0,27.0,0.0,177,91911,19
+1917794572,"Washington township, Van Buren County, Iowa",52.0,39.0,13.0,177,94572,19
+1917792505,"Lick Creek township, Van Buren County, Iowa",216.0,182.0,34.0,177,92505,19
+1919590891,"Danville township, Worth County, Iowa",112.0,103.0,9.0,195,90891,19
+1917794323,"Van Buren township, Van Buren County, Iowa",557.0,419.0,138.0,177,94323,19
+1917792166,"Jackson township, Van Buren County, Iowa",383.0,350.0,33.0,177,92166,19
+1919591881,"Hartland township, Worth County, Iowa",114.0,109.0,5.0,195,91881,19
+1919592634,"Lincoln township, Worth County, Iowa",640.0,480.0,160.0,195,92634,19
+1919591797,"Grove township, Worth County, Iowa",921.0,743.0,178.0,195,91797,19
+1919593909,"Silver Lake township, Worth County, Iowa",56.0,50.0,6.0,195,93909,19
+1919592310,"Kensett township, Worth County, Iowa",232.0,206.0,26.0,195,92310,19
+1919590132,"Barton township, Worth County, Iowa",41.0,26.0,15.0,195,90132,19
+1919590357,"Brookfield township, Worth County, Iowa",111.0,105.0,6.0,195,90357,19
+1919591338,"Fertile township, Worth County, Iowa",325.0,279.0,46.0,195,91338,19
+1919594287,"Union township, Worth County, Iowa",277.0,223.0,54.0,195,94287,19
+1919590939,"Deer Creek township, Worth County, Iowa",58.0,50.0,8.0,195,90939,19
+1919590345,"Bristol township, Worth County, Iowa",185.0,138.0,47.0,195,90345,19
+1915990741,"Clinton township, Ringgold County, Iowa",45.0,30.0,15.0,159,90741,19
+1915992724,"Lotts Creek township, Ringgold County, Iowa",43.0,43.0,0.0,159,92724,19
+1915994602,"Waubonsie township, Ringgold County, Iowa",46.0,34.0,12.0,159,94602,19
+1915992988,"Monroe township, Ringgold County, Iowa",38.0,31.0,7.0,159,92988,19
+1915993567,"Rice township, Ringgold County, Iowa",47.0,39.0,8.0,159,93567,19
+1915993432,"Poe township, Ringgold County, Iowa",41.0,15.0,26.0,159,93432,19
+1915993630,"Riley township, Ringgold County, Iowa",9.0,0.0,9.0,159,93630,19
+1915990087,"Athens township, Ringgold County, Iowa",153.0,109.0,44.0,159,90087,19
+1902191887,"Hayes township, Buena Vista County, Iowa",410.0,360.0,50.0,021,91887,19
+1902192529,"Lincoln township, Buena Vista County, Iowa",50.0,37.0,13.0,021,92529,19
+1902192823,"Maple Valley township, Buena Vista County, Iowa",67.0,46.0,21.0,021,92823,19
+1902190822,"Coon township, Buena Vista County, Iowa",90.0,70.0,20.0,021,90822,19
+1902191173,"Elk township, Buena Vista County, Iowa",96.0,52.0,44.0,021,91173,19
+1902190351,"Brooke township, Buena Vista County, Iowa",59.0,53.0,6.0,021,90351,19
+1902194018,"Storm Lake city, Buena Vista County, Iowa",1732.0,1145.0,587.0,021,94018,19
+1902191632,"Grant township, Buena Vista County, Iowa",93.0,90.0,3.0,021,91632,19
+1902194461,"Washington township, Buena Vista County, Iowa",230.0,174.0,56.0,021,94461,19
+1902191272,"Fairfield township, Buena Vista County, Iowa",354.0,267.0,87.0,021,91272,19
+1902193513,"Providence township, Buena Vista County, Iowa",68.0,52.0,16.0,021,93513,19
+1902193768,"Scott township, Buena Vista County, Iowa",97.0,68.0,29.0,021,93768,19
+1902193927,"Sioux Rapids city, Buena Vista County, Iowa",294.0,228.0,66.0,021,93927,19
+1902193435,"Poland township, Buena Vista County, Iowa",155.0,123.0,32.0,021,93435,19
+1902193129,"Nokomis township, Buena Vista County, Iowa",839.0,646.0,193.0,021,93129,19
+1902192400,"Lee township, Buena Vista County, Iowa",94.0,83.0,11.0,021,92400,19
+1903193552,"Red Oak township, Cedar County, Iowa",93.0,43.0,50.0,031,93552,19
+1903190588,"Center township, Cedar County, Iowa",1609.0,1243.0,366.0,031,90588,19
+1903193978,"Springfield township, Cedar County, Iowa",495.0,367.0,128.0,031,93978,19
+1903192055,"Iowa township, Cedar County, Iowa",170.0,123.0,47.0,031,92055,19
+1903191275,"Fairfield township, Cedar County, Iowa",97.0,56.0,41.0,031,91275,19
+1903191317,"Farmington township, Cedar County, Iowa",810.0,663.0,147.0,031,91317,19
+1903191467,"Fremont township, Cedar County, Iowa",431.0,334.0,97.0,031,91467,19
+1903193654,"Rochester township, Cedar County, Iowa",210.0,168.0,42.0,031,93654,19
+1903193975,"Springdale township, Cedar County, Iowa",1180.0,987.0,193.0,031,93975,19
+1903191593,"Gower township, Cedar County, Iowa",165.0,165.0,0.0,031,91593,19
+1903192046,"Inland township, Cedar County, Iowa",294.0,257.0,37.0,031,92046,19
+1903192643,"Linn township, Cedar County, Iowa",91.0,91.0,0.0,031,92643,19
+1903193333,"Pioneer township, Cedar County, Iowa",597.0,513.0,84.0,031,93333,19
+1903391308,"Falls township, Cerro Gordo County, Iowa",475.0,413.0,62.0,033,91308,19
+1903391641,"Grant township, Cerro Gordo County, Iowa",153.0,123.0,30.0,033,91641,19
+1903392346,"Lake township, Cerro Gordo County, Iowa",79.0,62.0,17.0,033,92346,19
+1903392508,"Lime Creek township, Cerro Gordo County, Iowa",195.0,171.0,24.0,033,92508,19
+1903391017,"Dougherty township, Cerro Gordo County, Iowa",94.0,88.0,6.0,033,91017,19
+1903393042,"Mount Vernon township, Cerro Gordo County, Iowa",59.0,55.0,4.0,033,93042,19
+1903393456,"Portland township, Cerro Gordo County, Iowa",106.0,91.0,15.0,033,93456,19
+1903390135,"Bath township, Cerro Gordo County, Iowa",98.0,86.0,12.0,033,90135,19
+1903394188,"Union township, Cerro Gordo County, Iowa",48.0,36.0,12.0,033,94188,19
+1903391773,"Grimes township, Cerro Gordo County, Iowa",330.0,266.0,64.0,033,91773,19
+1903392538,"Lincoln township, Cerro Gordo County, Iowa",133.0,110.0,23.0,033,92538,19
+1903392890,"Mason City city, Cerro Gordo County, Iowa",11443.0,7375.0,4068.0,033,92890,19
+1903391551,"Geneseo township, Cerro Gordo County, Iowa",510.0,439.0,71.0,033,91551,19
+1903390720,"Clear Lake city, Cerro Gordo County, Iowa",3160.0,2369.0,791.0,033,90720,19
+1903393408,"Pleasant Valley township, Cerro Gordo County, Iowa",155.0,148.0,7.0,033,93408,19
+1903393246,"Owen township, Cerro Gordo County, Iowa",112.0,112.0,0.0,033,93246,19
+1903390721,"Clear Lake township, Cerro Gordo County, Iowa",697.0,560.0,137.0,033,90721,19
+1903392886,"Mason township, Cerro Gordo County, Iowa",96.0,91.0,5.0,033,92886,19
+1906793675,"Rockford township, Floyd County, Iowa",561.0,468.0,93.0,067,93675,19
+1906791353,"Floyd township, Floyd County, Iowa",373.0,343.0,30.0,067,91353,19
+1905790401,"Burlington city, Des Moines County, Iowa",9713.0,7063.0,2650.0,057,90401,19
+1905790887,"Danville city, Des Moines County, Iowa",401.0,342.0,59.0,057,90887,19
+1905792906,"Mediapolis city, Des Moines County, Iowa",590.0,461.0,129.0,057,92906,19
+1905794080,"Tama township, Des Moines County, Iowa",445.0,364.0,81.0,057,94080,19
+1905793390,"Pleasant Grove township, Des Moines County, Iowa",215.0,179.0,36.0,057,93390,19
+1906590729,"Clermont township, Fayette County, Iowa",340.0,302.0,38.0,065,90729,19
+1906594045,"Sumner city, Fayette County, Iowa",8.0,8.0,0.0,065,94045,19
+1906591071,"Dover township, Fayette County, Iowa",175.0,165.0,10.0,065,91071,19
+1906592013,"Illyria township, Fayette County, Iowa",158.0,134.0,24.0,065,92013,19
+1906590120,"Banks township, Fayette County, Iowa",118.0,105.0,13.0,065,90120,19
+1906590231,"Bethel township, Fayette County, Iowa",95.0,86.0,9.0,065,90231,19
+1906590603,"Center township, Fayette County, Iowa",148.0,134.0,14.0,065,90603,19
+1906591143,"Eden township, Fayette County, Iowa",222.0,183.0,39.0,065,91143,19
+1906593522,"Putnam township, Fayette County, Iowa",149.0,112.0,37.0,065,93522,19
+1906590090,"Auburn township, Fayette County, Iowa",270.0,180.0,90.0,065,90090,19
+1906593771,"Scott township, Fayette County, Iowa",72.0,65.0,7.0,065,93771,19
+1906591473,"Fremont township, Fayette County, Iowa",233.0,208.0,25.0,065,91473,19
+1906592220,"Jefferson township, Fayette County, Iowa",2658.0,1825.0,833.0,065,92220,19
+1906593183,"Oran township, Fayette County, Iowa",304.0,282.0,22.0,065,93183,19
+1906594702,"West Union city, Fayette County, Iowa",1129.0,806.0,323.0,065,94702,19
+1906594662,"Westfield township, Fayette County, Iowa",97.0,97.0,0.0,065,94662,19
+1906591845,"Harlan township, Fayette County, Iowa",309.0,258.0,51.0,065,91845,19
+1906593411,"Pleasant Valley township, Fayette County, Iowa",489.0,391.0,98.0,065,93411,19
+1906593930,"Smithfield township, Fayette County, Iowa",97.0,88.0,9.0,065,93930,19
+1906594206,"Union township, Fayette County, Iowa",95.0,95.0,0.0,065,94206,19
+1906591324,"Fayette city, Fayette County, Iowa",308.0,192.0,116.0,065,91324,19
+1906594761,"Windsor township, Fayette County, Iowa",310.0,241.0,69.0,065,94761,19
+1906591278,"Fairfield township, Fayette County, Iowa",253.0,186.0,67.0,065,91278,19
+1908590681,"Clay township, Harrison County, Iowa",18.0,14.0,4.0,085,90681,19
+1908592790,"Magnolia township, Harrison County, Iowa",201.0,182.0,19.0,085,92790,19
+1908593738,"St. John township, Harrison County, Iowa",1603.0,1100.0,503.0,085,93738,19
+1908594101,"Taylor township, Harrison County, Iowa",186.0,158.0,28.0,085,94101,19
+1908594218,"Union township, Harrison County, Iowa",125.0,102.0,23.0,085,94218,19
+1908592556,"Lincoln township, Harrison County, Iowa",63.0,59.0,4.0,085,92556,19
+1908590318,"Boyer township, Harrison County, Iowa",779.0,567.0,212.0,085,90318,19
+1908592124,"Jackson township, Harrison County, Iowa",220.0,170.0,50.0,085,92124,19
+1908592343,"La Grange township, Harrison County, Iowa",185.0,164.0,21.0,085,92343,19
+1908592664,"Little Sioux township, Harrison County, Iowa",148.0,120.0,28.0,085,92664,19
+1906793648,"Riverton township, Floyd County, Iowa",163.0,126.0,37.0,067,93648,19
+1906793681,"Rock Grove township, Floyd County, Iowa",762.0,643.0,119.0,067,93681,19
+1906793111,"Niles township, Floyd County, Iowa",198.0,184.0,14.0,067,93111,19
+1906794158,"Ulster township, Floyd County, Iowa",122.0,110.0,12.0,067,94158,19
+1906794209,"Union township, Floyd County, Iowa",244.0,206.0,38.0,067,94209,19
+1906790534,"Cedar township, Floyd County, Iowa",101.0,86.0,15.0,067,90534,19
+1906793393,"Pleasant Grove township, Floyd County, Iowa",113.0,106.0,7.0,067,93393,19
+1906793711,"Rudd township, Floyd County, Iowa",259.0,206.0,53.0,067,93711,19
+1906793729,"St. Charles township, Floyd County, Iowa",507.0,485.0,22.0,067,93729,19
+1906790645,"Charles City city, Floyd County, Iowa",3087.0,1907.0,1180.0,067,90645,19
+1906793774,"Scott township, Floyd County, Iowa",53.0,39.0,14.0,067,93774,19
+1907392286,"Junction township, Greene County, Iowa",492.0,375.0,117.0,073,92286,19
+1907393276,"Paton township, Greene County, Iowa",145.0,113.0,32.0,073,93276,19
+1902193078,"Newell township, Buena Vista County, Iowa",487.0,386.0,101.0,021,93078,19
+1908990657,"Chester township, Howard County, Iowa",143.0,114.0,29.0,089,90657,19
+1908993090,"New Oregon township, Howard County, Iowa",273.0,236.0,37.0,089,93090,19
+1908992190,"Jamestown township, Howard County, Iowa",200.0,168.0,32.0,089,92190,19
+1908993756,"Saratoga township, Howard County, Iowa",126.0,97.0,29.0,089,93756,19
+1908991989,"Howard township, Howard County, Iowa",157.0,109.0,48.0,089,91989,19
+1908990033,"Albion township, Howard County, Iowa",116.0,87.0,29.0,089,90033,19
+1908990024,"Afton township, Howard County, Iowa",311.0,265.0,46.0,089,90024,19
+1912390552,"Cedar township, Mahaska County, Iowa",386.0,270.0,116.0,123,90552,19
+1912392574,"Lincoln township, Mahaska County, Iowa",92.0,92.0,0.0,123,92574,19
+1912391527,"Garfield township, Mahaska County, Iowa",480.0,391.0,89.0,123,91527,19
+1912391872,"Harrison township, Mahaska County, Iowa",307.0,262.0,45.0,123,91872,19
+1912393609,"Richland township, Mahaska County, Iowa",175.0,159.0,16.0,123,93609,19
+1912393795,"Scott township, Mahaska County, Iowa",124.0,85.0,39.0,123,93795,19
+1912394239,"Union township, Mahaska County, Iowa",101.0,62.0,39.0,123,94239,19
+1914990060,"America township, Plymouth County, Iowa",3959.0,3115.0,844.0,149,90060,19
+1914991167,"Elgin township, Plymouth County, Iowa",154.0,112.0,42.0,149,91167,19
+1914991821,"Hancock township, Plymouth County, Iowa",167.0,167.0,0.0,149,91821,19
+1914991188,"Elkhorn township, Plymouth County, Iowa",109.0,97.0,12.0,149,91188,19
+1914992904,"Meadow township, Plymouth County, Iowa",133.0,97.0,36.0,149,92904,19
+1914992007,"Hungerford township, Plymouth County, Iowa",614.0,554.0,60.0,149,92007,19
+1914991689,"Grant township, Plymouth County, Iowa",187.0,148.0,39.0,149,91689,19
+1914993303,"Perry township, Plymouth County, Iowa",396.0,323.0,73.0,149,93303,19
+1914994005,"Stanton township, Plymouth County, Iowa",127.0,99.0,28.0,149,94005,19
+1914991533,"Garfield township, Plymouth County, Iowa",580.0,470.0,110.0,149,91533,19
+1914993429,"Plymouth township, Plymouth County, Iowa",493.0,448.0,45.0,149,93429,19
+1914994665,"Westfield township, Plymouth County, Iowa",149.0,91.0,58.0,149,94665,19
+1914991443,"Fredonia township, Plymouth County, Iowa",74.0,69.0,5.0,149,91443,19

@@ -1,0 +1,243 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+5305790272,"Bow CCD, Skagit County, Washington",2467.0,2037.0,430.0,057,90272,53
+5305793360,"Swinomish Reservation CCD, Skagit County, Washington",1282.0,1020.0,262.0,057,93360,53
+5305792096,"Mount Vernon CCD, Skagit County, Washington",13208.0,8280.0,4928.0,057,92096,53
+5305790384,"Burlington CCD, Skagit County, Washington",5354.0,3017.0,2337.0,057,90384,53
+5305790768,"Conway CCD, Skagit County, Washington",1324.0,1025.0,299.0,057,90768,53
+5305791536,"La Conner CCD, Skagit County, Washington",1402.0,1004.0,398.0,057,91536,53
+5305791776,"Lyman-Hamilton CCD, Skagit County, Washington",1110.0,865.0,245.0,057,91776,53
+5305792944,"Sedro-Woolley CCD, Skagit County, Washington",5007.0,2916.0,2091.0,057,92944,53
+5305790608,"Clear Lake CCD, Skagit County, Washington",755.0,533.0,222.0,057,90608,53
+5305790064,"Anacortes CCD, Skagit County, Washington",9314.0,6478.0,2836.0,057,90064,53
+5306593232,"Springdale CCD, Stevens County, Washington",2031.0,1644.0,387.0,065,93232,53
+5306590560,"Chewelah CCD, Stevens County, Washington",2397.0,1638.0,759.0,065,90560,53
+5306590688,"Colville CCD, Stevens County, Washington",4780.0,3468.0,1312.0,065,90688,53
+5306593216,"Spokane Reservation CCD, Stevens County, Washington",784.0,529.0,255.0,065,93216,53
+5306591680,"Loon Lake CCD, Stevens County, Washington",3880.0,3415.0,465.0,065,91680,53
+5306591472,"Kettle Falls CCD, Stevens County, Washington",2952.0,2247.0,705.0,065,91472,53
+5306393200,"Spokane CCD, Spokane County, Washington",150582.0,87704.0,62878.0,063,93200,53
+5306390880,"Deer Park CCD, Spokane County, Washington",11219.0,9815.0,1404.0,063,90880,53
+5306392816,"Rockford CCD, Spokane County, Washington",1167.0,833.0,334.0,063,92816,53
+5306393584,"Valleyford CCD, Spokane County, Washington",1118.0,976.0,142.0,063,93584,53
+5306390048,"Airway Heights CCD, Spokane County, Washington",4087.0,2908.0,1179.0,063,90048,53
+5306390640,"Colbert CCD, Spokane County, Washington",4008.0,3602.0,406.0,063,90640,53
+5306391616,"Liberty Lake CCD, Spokane County, Washington",6762.0,5255.0,1507.0,063,91616,53
+5306392080,"Mount Spokane CCD, Spokane County, Washington",2260.0,1795.0,465.0,063,92080,53
+5304392304,"Odessa CCD, Lincoln County, Washington",1289.0,962.0,327.0,043,92304,53
+5304393760,"Wilbur CCD, Lincoln County, Washington",1192.0,933.0,259.0,043,93760,53
+5304390848,"Davenport CCD, Lincoln County, Washington",1935.0,1592.0,343.0,043,90848,53
+5300793712,"Wenatchee CCD, Chelan County, Washington",14626.0,8966.0,5660.0,007,93712,53
+5300790448,"Cashmere CCD, Chelan County, Washington",3876.0,2600.0,1276.0,007,90448,53
+5300791600,"Leavenworth-Lake Wenatchee CCD, Chelan County, Washington",2871.0,2161.0,710.0,007,91600,53
+5300793280,"Stehekin CCD, Chelan County, Washington",23.0,2.0,21.0,007,93280,53
+5300992592,"Port Angeles CCD, Clallam County, Washington",13061.0,8305.0,4756.0,009,92592,53
+5300991168,"Forks CCD, Clallam County, Washington",2818.0,1862.0,956.0,009,91168,53
+5300990032,"Agnew-Carlsborg CCD, Clallam County, Washington",4784.0,3926.0,858.0,009,90032,53
+5300990816,"Crescent CCD, Clallam County, Washington",1438.0,1247.0,191.0,009,90816,53
+5301591664,"Longview-Kelso CCD, Cowlitz County, Washington",25561.0,14574.0,10987.0,015,91664,53
+5301591440,"Kalama CCD, Cowlitz County, Washington",2525.0,2050.0,475.0,015,91440,53
+5301592864,"Rose Valley CCD, Cowlitz County, Washington",2018.0,1907.0,111.0,015,92864,53
+5301593856,"Woodland CCD, Cowlitz County, Washington",3833.0,2900.0,933.0,015,93856,53
+5301590464,"Castle Rock CCD, Cowlitz County, Washington",6059.0,4952.0,1107.0,015,90464,53
+5301990832,"Curlew CCD, Ferry County, Washington",478.0,368.0,110.0,019,90832,53
+5301990704,"Colville Reservation CCD, Ferry County, Washington",613.0,403.0,210.0,019,90704,53
+5301992752,"Republic CCD, Ferry County, Washington",1351.0,912.0,439.0,019,92752,53
+5300791040,"Entiat CCD, Chelan County, Washington",834.0,648.0,186.0,007,91040,53
+5300791840,"Malaga CCD, Chelan County, Washington",1454.0,1160.0,294.0,007,91840,53
+5300791904,"Manson CCD, Chelan County, Washington",1211.0,774.0,437.0,007,91904,53
+5300790544,"Chelan CCD, Chelan County, Washington",2488.0,1696.0,792.0,007,90544,53
+5303193728,"West End CCD, Jefferson County, Washington",165.0,100.0,65.0,031,93728,53
+5303590288,"Bremerton CCD, Kitsap County, Washington",44161.0,26139.0,18022.0,035,90288,53
+5303591488,"Kingston CCD, Kitsap County, Washington",5073.0,3868.0,1205.0,035,91488,53
+5303592624,"Poulsbo CCD, Kitsap County, Washington",16531.0,11693.0,4838.0,035,92624,53
+5303590120,"Bainbridge Island CCD, Kitsap County, Washington",9679.0,7399.0,2280.0,035,90120,53
+5303592608,"Port Orchard CCD, Kitsap County, Washington",25040.0,17978.0,7062.0,035,92608,53
+5303391056,"Enumclaw Plateau CCD, King County, Washington",24146.0,18110.0,6036.0,033,91056,53
+5303393392,"Tahoma-Maple Valley CCD, King County, Washington",24266.0,19995.0,4271.0,033,93392,53
+5303392928,"Seattle CCD, King County, Washington",452338.0,224514.0,227824.0,033,92928,53
+5303393616,"Vashon Island CCD, King County, Washington",4407.0,3533.0,874.0,033,93616,53
+5303391392,"Issaquah Plateau CCD, King County, Washington",29234.0,22116.0,7118.0,033,91392,53
+5303393078,"Snoqualmie Valley CCD, King County, Washington",18701.0,15387.0,3314.0,033,93078,53
+5304992128,"Naselle CCD, Pacific County, Washington",768.0,628.0,140.0,049,92128,53
+5304993776,"Willapa Valley CCD, Pacific County, Washington",646.0,563.0,83.0,049,93776,53
+5304992736,"Raymond CCD, Pacific County, Washington",3068.0,2260.0,808.0,049,92736,53
+5305192160,"Newport CCD, Pend Oreille County, Washington",4657.0,3630.0,1027.0,051,92160,53
+5305191376,"Ione-Metaline Falls CCD, Pend Oreille County, Washington",980.0,758.0,222.0,051,91376,53
+5305592432,"Orcas CCD, San Juan County, Washington",2681.0,1993.0,688.0,055,92432,53
+5305591696,"Lopez CCD, San Juan County, Washington",1445.0,1131.0,314.0,055,91696,53
+5305993312,"Stevenson CCD, Skamania County, Washington",845.0,510.0,335.0,059,93312,53
+5307592848,"Rosalia CCD, Whitman County, Washington",475.0,360.0,115.0,075,92848,53
+5307593536,"Uniontown CCD, Whitman County, Washington",510.0,427.0,83.0,075,93536,53
+5307590656,"Colfax-Palouse CCD, Whitman County, Washington",2269.0,1508.0,761.0,075,90656,53
+5307592656,"Pullman CCD, Whitman County, Washington",11902.0,3844.0,8058.0,075,92656,53
+5307592832,"Rock Lake CCD, Whitman County, Washington",805.0,540.0,265.0,075,92832,53
+5307593424,"Tekoa CCD, Whitman County, Washington",394.0,276.0,118.0,075,93424,53
+5307793904,"Yakima CCD, Yakima County, Washington",51362.0,31109.0,20253.0,077,93904,53
+5307791808,"Mabton CCD, Yakima County, Washington",794.0,602.0,192.0,077,91808,53
+5307793344,"Sunnyside CCD, Yakima County, Washington",15410.0,9895.0,5515.0,077,93344,53
+5307792192,"Northeast Yakima CCD, Yakima County, Washington",2894.0,2331.0,563.0,077,92192,53
+5307793184,"South Yakima CCD, Yakima County, Washington",991.0,641.0,350.0,077,93184,53
+5307793472,"Toppenish-Wapato CCD, Yakima County, Washington",7285.0,4276.0,3009.0,077,93472,53
+5307792240,"Northwest Yakima CCD, Yakima County, Washington",2984.0,2371.0,613.0,077,92240,53
+5300990576,"Clallam Bay-Neah Bay CCD, Clallam County, Washington",938.0,607.0,331.0,009,90576,53
+5300992960,"Sequim CCD, Clallam County, Washington",9241.0,6533.0,2708.0,009,92960,53
+5303993744,"White Salmon CCD, Klickitat County, Washington",3061.0,2172.0,889.0,039,93744,53
+5303991264,"Goldendale CCD, Klickitat County, Washington",2901.0,1851.0,1050.0,039,91264,53
+5304191088,"Ethel CCD, Lewis County, Washington",1143.0,973.0,170.0,041,91088,53
+5304191984,"Mineral CCD, Lewis County, Washington",1820.0,1492.0,328.0,041,91984,53
+5304191648,"Logan Hill CCD, Lewis County, Washington",1518.0,1155.0,363.0,041,91648,53
+5304192048,"Mossyrock CCD, Lewis County, Washington",2009.0,1593.0,416.0,041,92048,53
+5304192016,"Morton CCD, Lewis County, Washington",1223.0,908.0,315.0,041,92016,53
+5304190352,"Bunker CCD, Lewis County, Washington",1324.0,1118.0,206.0,041,90352,53
+5304190208,"Big Bottom CCD, Lewis County, Washington",1169.0,821.0,348.0,041,90208,53
+5304190512,"Centralia-Chehalis CCD, Lewis County, Washington",12593.0,6829.0,5764.0,041,90512,53
+5301790320,"Bridgeport CCD, Douglas County, Washington",2155.0,1311.0,844.0,017,90320,53
+5301790944,"East Wenatchee CCD, Douglas County, Washington",11349.0,8201.0,3148.0,017,90944,53
+5301793696,"Waterville CCD, Douglas County, Washington",1202.0,825.0,377.0,017,93696,53
+5302791360,"Humptulips CCD, Grays Harbor County, Washington",571.0,472.0,99.0,027,91360,53
+5302792704,"Quinault Reservation CCD, Grays Harbor County, Washington",320.0,223.0,97.0,027,92704,53
+5302791856,"Malone-Porter CCD, Grays Harbor County, Washington",671.0,548.0,123.0,027,91856,53
+5302792288,"Oakville CCD, Grays Harbor County, Washington",907.0,670.0,237.0,027,92288,53
+5302790016,"Aberdeen-Hoquiam CCD, Grays Harbor County, Washington",12469.0,7282.0,5187.0,027,90016,53
+5302791024,"Elma CCD, Grays Harbor County, Washington",2486.0,1581.0,905.0,027,91024,53
+5302792208,"North River CCD, Grays Harbor County, Washington",228.0,210.0,18.0,027,92208,53
+5302793840,"Wishkah CCD, Grays Harbor County, Washington",519.0,446.0,73.0,027,93840,53
+5302791824,"McCleary CCD, Grays Harbor County, Washington",1487.0,1076.0,411.0,027,91824,53
+5305391184,"Fort Lewis-DuPont CCD, Pierce County, Washington",8370.0,1631.0,6739.0,053,91184,53
+5305392064,"Mount Rainier CCD, Pierce County, Washington",1277.0,1041.0,236.0,053,92064,53
+5305390336,"Buckley CCD, Pierce County, Washington",8200.0,6697.0,1503.0,053,90336,53
+5305392672,"Puyallup CCD, Pierce County, Washington",60557.0,41191.0,19366.0,053,92672,53
+5305392880,"Roy CCD, Pierce County, Washington",5651.0,4634.0,1017.0,053,92880,53
+5305390976,"Eatonville CCD, Pierce County, Washington",2496.0,1895.0,601.0,053,90976,53
+5305391232,"Gig Harbor Peninsula CCD, Pierce County, Washington",19223.0,15192.0,4031.0,053,91232,53
+5305391280,"Graham-Thrift CCD, Pierce County, Washington",28496.0,22782.0,5714.0,053,91280,53
+5305393376,"Tacoma CCD, Pierce County, Washington",172951.0,91894.0,81057.0,053,93376,53
+5306992992,"Skamokawa CCD, Wahkiakum County, Washington",253.0,199.0,54.0,069,92992,53
+5306991328,"Grays River CCD, Wahkiakum County, Washington",474.0,439.0,35.0,069,91328,53
+5306992640,"Puget Island CCD, Wahkiakum County, Washington",360.0,301.0,59.0,069,92640,53
+5302192512,"Pasco CCD, Franklin County, Washington",17798.0,12009.0,5789.0,021,92512,53
+5302191424,"Kahlotus CCD, Franklin County, Washington",487.0,330.0,157.0,021,91424,53
+5302190752,"Connell CCD, Franklin County, Washington",2185.0,1219.0,966.0,021,90752,53
+5302192528,"Pasco North CCD, Franklin County, Washington",5365.0,4277.0,1088.0,021,92528,53
+5307193488,"Touchet CCD, Walla Walla County, Washington",754.0,629.0,125.0,071,93488,53
+5307193648,"Waitsburg CCD, Walla Walla County, Washington",1177.0,937.0,240.0,071,93648,53
+5307191104,"Eureka Flat CCD, Walla Walla County, Washington",415.0,161.0,254.0,071,91104,53
+5307190368,"Burbank CCD, Walla Walla County, Washington",1428.0,1175.0,253.0,071,90368,53
+5307193664,"Walla Walla-College Place CCD, Walla Walla County, Washington",18617.0,11551.0,7066.0,071,93664,53
+5302593792,"Wilson Creek CCD, Grant County, Washington",443.0,369.0,74.0,025,93792,53
+5302591072,"Ephrata-Soap Lake CCD, Grant County, Washington",6411.0,4536.0,1875.0,025,91072,53
+5302591248,"Gloyd CCD, Grant County, Washington",608.0,539.0,69.0,025,91248,53
+5302592032,"Moses Lake CCD, Grant County, Washington",12816.0,7274.0,5542.0,025,92032,53
+5302592720,"Quincy CCD, Grant County, Washington",2974.0,1913.0,1061.0,025,92720,53
+5302591200,"George CCD, Grant County, Washington",909.0,668.0,241.0,025,91200,53
+5302591296,"Grand Coulee CCD, Grant County, Washington",954.0,597.0,357.0,025,91296,53
+5302593680,"Warden CCD, Grant County, Washington",1213.0,860.0,353.0,025,93680,53
+5302590784,"Coulee City CCD, Grant County, Washington",603.0,458.0,145.0,025,90784,53
+5307391760,"Lummi Reservation CCD, Whatcom County, Washington",1842.0,1202.0,640.0,073,91760,53
+5307391744,"Lummi Island CCD, Whatcom County, Washington",452.0,330.0,122.0,073,91744,53
+5307390176,"Bellingham CCD, Whatcom County, Washington",47091.0,25225.0,21866.0,073,90176,53
+5307391152,"Ferndale CCD, Whatcom County, Washington",12263.0,9044.0,3219.0,073,91152,53
+5307391792,"Lynden CCD, Whatcom County, Washington",6608.0,4627.0,1981.0,073,91792,53
+5307390224,"Blaine CCD, Whatcom County, Washington",8427.0,6426.0,2001.0,073,90224,53
+5307390960,"East Whatcom CCD, Whatcom County, Washington",3098.0,1962.0,1136.0,073,90960,53
+5307393328,"Sumas CCD, Whatcom County, Washington",3013.0,2211.0,802.0,073,93328,53
+5307392560,"Point Roberts CCD, Whatcom County, Washington",681.0,533.0,148.0,073,92560,53
+5306191312,"Granite Falls CCD, Snohomish County, Washington",5512.0,4295.0,1217.0,061,91312,53
+5306192000,"Monroe CCD, Snohomish County, Washington",9783.0,7428.0,2355.0,061,92000,53
+5306190080,"Arlington CCD, Snohomish County, Washington",11068.0,8068.0,3000.0,061,90080,53
+5306190992,"Edmonds CCD, Snohomish County, Washington",97355.0,64424.0,32931.0,061,90992,53
+5306191120,"Everett CCD, Snohomish County, Washington",70240.0,35849.0,34391.0,061,91120,53
+5306191872,"Maltby CCD, Snohomish County, Washington",17754.0,15053.0,2701.0,061,91872,53
+5306190839,"Darrington CCD, Snohomish County, Washington",1325.0,944.0,381.0,061,90839,53
+5306191584,"Lake Stevens CCD, Snohomish County, Washington",8528.0,6230.0,2298.0,061,91584,53
+5306193248,"Stanwood CCD, Snohomish County, Washington",13463.0,10621.0,2842.0,061,93248,53
+5306191936,"Marysville CCD, Snohomish County, Washington",26539.0,18806.0,7733.0,061,91936,53
+5306193056,"Snohomish CCD, Snohomish County, Washington",13424.0,10342.0,3082.0,061,93056,53
+5305992179,"North Bonneville CCD, Skamania County, Washington",1884.0,1444.0,440.0,059,92179,53
+5305992216,"North Skamania CCD, Skamania County, Washington",57.0,53.0,4.0,059,92216,53
+5306193320,"Sultan CCD, Snohomish County, Washington",5854.0,4531.0,1323.0,061,93320,53
+5306193506,"Tulalip Reservation CCD, Snohomish County, Washington",3632.0,2840.0,792.0,061,93506,53
+5305990424,"Carson-Underwood CCD, Skamania County, Washington",1927.0,1258.0,669.0,059,90424,53
+5302591944,"Mattawa-Royal City CCD, Grant County, Washington",3581.0,1714.0,1867.0,025,91944,53
+5302990400,"Camano Island CCD, Island County, Washington",6757.0,5805.0,952.0,029,90400,53
+5302792136,"Neilton CCD, Grays Harbor County, Washington",242.0,180.0,62.0,027,92136,53
+5302990528,"Central Whidbey Island CCD, Island County, Washington",5966.0,4719.0,1247.0,029,90528,53
+5302992256,"North Whidbey Island CCD, Island County, Washington",14924.0,7895.0,7029.0,029,92256,53
+5302993168,"South Whidbey Island CCD, Island County, Washington",6380.0,4761.0,1619.0,029,93168,53
+5302792296,"Ocean Shores CCD, Grays Harbor County, Washington",3661.0,2722.0,939.0,027,92296,53
+5303993896,"Yakama Nation Reservation CCD, Klickitat County, Washington",191.0,127.0,64.0,039,93896,53
+5304593734,"West Mason CCD, Mason County, Washington",2752.0,2484.0,268.0,045,93734,53
+5304593528,"Union-Grapeview CCD, Mason County, Washington",5498.0,4583.0,915.0,045,93528,53
+5304590162,"Belfair-Tahuya CCD, Mason County, Washington",3087.0,2488.0,599.0,045,90162,53
+5304593444,"Timber Lake-Harstine Island CCD, Mason County, Washington",3112.0,2588.0,524.0,045,93444,53
+5302793739,"Westport CCD, Grays Harbor County, Washington",2046.0,1326.0,720.0,027,93739,53
+5302792008,"Montesano CCD, Grays Harbor County, Washington",2463.0,1811.0,652.0,027,92008,53
+5305391480,"Key Peninsula-Anderson Island CCD, Pierce County, Washington",5618.0,4656.0,962.0,053,91480,53
+5306990478,"Cathlamet CCD, Wahkiakum County, Washington",736.0,538.0,198.0,069,90478,53
+5306393224,"Spokane South CCD, Spokane County, Washington",3229.0,3002.0,227.0,063,93224,53
+5306390552,"Cheney-Medical Lake CCD, Spokane County, Washington",9150.0,4871.0,4279.0,063,90552,53
+5306390056,"Amber-Cheney South CCD, Spokane County, Washington",1413.0,1013.0,400.0,063,90056,53
+5304793454,"Tonasket CCD, Okanogan County, Washington",1465.0,1053.0,412.0,047,93454,53
+5305790144,"Bay View CCD, Skagit County, Washington",1428.0,1192.0,236.0,057,90144,53
+5305791560,"Lake Cavanaugh CCD, Skagit County, Washington",1305.0,1109.0,196.0,057,91560,53
+5305793544,"Upper Samish River CCD, Skagit County, Washington",1441.0,1187.0,254.0,057,93544,53
+5305790936,"East Skagit CCD, Skagit County, Washington",1944.0,1417.0,527.0,057,90936,53
+5301990920,"East Ferry CCD, Ferry County, Washington",614.0,469.0,145.0,019,90920,53
+5303791890,"Manastash Ridge CCD, Kittitas County, Washington",2207.0,1867.0,340.0,037,91890,53
+5303792188,"Northeast Kittitas CCD, Kittitas County, Washington",1860.0,1601.0,259.0,037,92188,53
+5303991346,"Horse Heaven Hills Plateau CCD, Klickitat County, Washington",311.0,187.0,124.0,039,91346,53
+5303990836,"Dallesport-Klickitat CCD, Klickitat County, Washington",1783.0,1235.0,548.0,039,90836,53
+5301592182,"Northeast Cowlitz CCD, Cowlitz County, Washington",672.0,592.0,80.0,015,92182,53
+5304991656,"Long Beach-North Beach Peninsula CCD, Pacific County, Washington",4304.0,3250.0,1054.0,049,91656,53
+5304193816,"Winlock-Pe Ell CCD, Lewis County, Washington",2612.0,1968.0,644.0,041,93816,53
+5307591552,"LaCrosse CCD, Whitman County, Washington",469.0,301.0,168.0,075,91552,53
+5304192120,"Napavine CCD, Lewis County, Washington",2039.0,1739.0,300.0,041,92120,53
+5304192146,"Newaukum Prairie CCD, Lewis County, Washington",1075.0,900.0,175.0,041,92146,53
+5304193448,"Toledo-Vader CCD, Lewis County, Washington",1511.0,1170.0,341.0,041,93448,53
+5303190898,"Discovery Bay-Port Townsend CCD, Jefferson County, Washington",7597.0,5380.0,2217.0,031,90898,53
+5303192274,"Oak Bay-Port Ludlow CCD, Jefferson County, Washington",4887.0,3694.0,1193.0,031,92274,53
+5303192690,"Quilcene Bay-Brinnon CCD, Jefferson County, Washington",1254.0,1037.0,217.0,031,92690,53
+5300591336,"Hanford Site CCD, Benton County, Washington",0.0,0.0,0.0,005,91336,53
+5307591192,"Garfield-Oakesdale CCD, Whitman County, Washington",833.0,600.0,233.0,075,91192,53
+5306591368,"Hunters-Gifford CCD, Stevens County, Washington",710.0,585.0,125.0,065,91368,53
+5303391140,"Federal Way-Auburn CCD, King County, Washington",65141.0,38040.0,27101.0,033,91140,53
+5303392931,"Seattle East CCD, King County, Washington",232844.0,146859.0,85985.0,033,92931,53
+5305592914,"San Juan Island CCD, San Juan County, Washington",3592.0,2594.0,998.0,055,92914,53
+5304790720,"Colville Reservation CCD, Okanogan County, Washington",2302.0,1466.0,836.0,047,90720,53
+5304790912,"Early Winters CCD, Okanogan County, Washington",194.0,131.0,63.0,047,90912,53
+5304790304,"Brewster-Wakefield CCD, Okanogan County, Washington",1768.0,1069.0,699.0,047,90304,53
+5304792480,"Oroville CCD, Okanogan County, Washington",3200.0,2251.0,949.0,047,92480,53
+5304790736,"Conconully-Riverside CCD, Okanogan County, Washington",1126.0,773.0,353.0,047,90736,53
+5304792320,"Okanogan CCD, Okanogan County, Washington",1697.0,1009.0,688.0,047,92320,53
+5304791968,"Methow Valley CCD, Okanogan County, Washington",2589.0,1922.0,667.0,047,91968,53
+5304792416,"Omak CCD, Okanogan County, Washington",2734.0,1828.0,906.0,047,92416,53
+5303791008,"Ellensburg CCD, Kittitas County, Washington",8846.0,3379.0,5467.0,037,91008,53
+5303790624,"Cle Elum CCD, Kittitas County, Washington",3023.0,2031.0,992.0,037,90624,53
+5303791504,"Kittitas CCD, Kittitas County, Washington",1712.0,1294.0,418.0,037,91504,53
+5306792352,"Olympia CCD, Thurston County, Washington",70859.0,40789.0,30070.0,067,92352,53
+5306792384,"Olympia West CCD, Thurston County, Washington",7829.0,6563.0,1266.0,067,92384,53
+5306792368,"Olympia East CCD, Thurston County, Washington",12641.0,8429.0,4212.0,067,92368,53
+5306793440,"Thurston South CCD, Thurston County, Washington",14900.0,12081.0,2819.0,067,93440,53
+5300590192,"Benton City CCD, Benton County, Washington",2157.0,1580.0,577.0,005,90192,53
+5300592768,"Richland-Kennewick CCD, Benton County, Washington",62626.0,42490.0,20136.0,005,92768,53
+5300592224,"Northwest Benton CCD, Benton County, Washington",5241.0,3616.0,1625.0,005,92224,53
+5300593088,"South Benton CCD, Benton County, Washington",339.0,250.0,89.0,005,93088,53
+5301393264,"Starbuck CCD, Columbia County, Washington",172.0,122.0,50.0,013,93264,53
+5301390864,"Dayton CCD, Columbia County, Washington",1587.0,1127.0,460.0,013,90864,53
+5301193600,"Vancouver CCD, Clark County, Washington",91546.0,53077.0,38469.0,011,93600,53
+5301190416,"Camas CCD, Clark County, Washington",20036.0,15637.0,4399.0,011,90416,53
+5301191520,"La Center CCD, Clark County, Washington",5316.0,4464.0,852.0,011,91520,53
+5301190128,"Battle Ground CCD, Clark County, Washington",20871.0,16219.0,4652.0,011,90128,53
+5301192784,"Ridgefield CCD, Clark County, Washington",3489.0,2954.0,535.0,011,92784,53
+5301192448,"Orchards CCD, Clark County, Washington",23829.0,15881.0,7948.0,011,92448,53
+5301193888,"Yacolt CCD, Clark County, Washington",2630.0,2115.0,515.0,011,93888,53
+5300390096,"Asotin CCD, Asotin County, Washington",1666.0,1454.0,212.0,003,90096,53
+5300390592,"Clarkston CCD, Asotin County, Washington",7569.0,5077.0,2492.0,003,90592,53
+5300191632,"Lind-Washtucna CCD, Adams County, Washington",639.0,445.0,194.0,001,91632,53
+5300192496,"Othello CCD, Adams County, Washington",4149.0,2587.0,1562.0,001,92496,53
+5300192800,"Ritzville CCD, Adams County, Washington",1036.0,713.0,323.0,001,92800,53
+5302393040,"Snake River CCD, Garfield County, Washington",202.0,120.0,82.0,023,93040,53
+5302392576,"Pomeroy CCD, Garfield County, Washington",805.0,575.0,230.0,023,92576,53
+5304591456,"Kamilche CCD, Mason County, Washington",1452.0,1016.0,436.0,045,91456,53
+5304592976,"Shelton CCD, Mason County, Washington",6915.0,4474.0,2441.0,045,92976,53
+5304593008,"Skokomish Reservation CCD, Mason County, Washington",218.0,152.0,66.0,045,93008,53

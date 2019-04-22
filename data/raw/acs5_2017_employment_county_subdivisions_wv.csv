@@ -1,0 +1,231 @@
+B23025_001E,B23025_002E,B23025_003E,B23025_004E,B23025_005E,B23025_006E,B23025_007E,name,county,county subdivision,state
+8449.0,4797.0,4797.0,4457.0,340.0,0.0,3652.0,"Northern district, Harrison County, West Virginia",033,92352,54
+9072.0,4927.0,4927.0,4566.0,361.0,0.0,4145.0,"Southwest district, Harrison County, West Virginia",033,92952,54
+9411.0,5669.0,5658.0,5382.0,276.0,11.0,3742.0,"South Urban district, Harrison County, West Virginia",033,92932,54
+10040.0,6062.0,6055.0,5697.0,358.0,7.0,3978.0,"Southern district, Harrison County, West Virginia",033,92923,54
+7751.0,4138.0,4138.0,3730.0,408.0,0.0,3613.0,"North Urban district, Harrison County, West Virginia",033,92368,54
+10712.0,6888.0,6888.0,6508.0,380.0,0.0,3824.0,"Eastern district, Harrison County, West Virginia",033,90975,54
+9992.0,5808.0,5789.0,5462.0,327.0,19.0,4184.0,"District 2, Ohio County, West Virginia",069,90824,54
+12635.0,7242.0,7242.0,6847.0,395.0,0.0,5393.0,"District 3, Ohio County, West Virginia",069,90862,54
+13075.0,8051.0,8038.0,7696.0,342.0,13.0,5024.0,"District 1, Ohio County, West Virginia",069,90788,54
+1450.0,641.0,641.0,579.0,62.0,0.0,809.0,"Grant district, Ritchie County, West Virginia",085,91380,54
+984.0,462.0,462.0,432.0,30.0,0.0,522.0,"Murphy district, Ritchie County, West Virginia",085,92244,54
+2866.0,1458.0,1458.0,1341.0,117.0,0.0,1408.0,"Union district, Ritchie County, West Virginia",085,93336,54
+2928.0,1520.0,1520.0,1382.0,138.0,0.0,1408.0,"Clay district, Ritchie County, West Virginia",085,90552,54
+1503.0,632.0,632.0,508.0,124.0,0.0,871.0,"District 4, Calhoun County, West Virginia",013,90873,54
+1214.0,488.0,488.0,449.0,39.0,0.0,726.0,"District 1, Calhoun County, West Virginia",013,90766,54
+1503.0,693.0,693.0,590.0,103.0,0.0,810.0,"District 5, Calhoun County, West Virginia",013,90885,54
+1140.0,530.0,530.0,450.0,80.0,0.0,610.0,"District 3, Calhoun County, West Virginia",013,90836,54
+836.0,327.0,327.0,287.0,40.0,0.0,509.0,"District 2, Calhoun County, West Virginia",013,90800,54
+4843.0,2813.0,2813.0,2533.0,280.0,0.0,2030.0,"District 2, Morgan County, West Virginia",065,90822,54
+4687.0,2317.0,2302.0,1967.0,335.0,15.0,2370.0,"District 1, Morgan County, West Virginia",065,90786,54
+5081.0,2887.0,2863.0,2590.0,273.0,24.0,2194.0,"District 3, Morgan County, West Virginia",065,90858,54
+20445.0,10207.0,10207.0,9490.0,717.0,0.0,10238.0,"District 2, Raleigh County, West Virginia",081,90828,54
+17991.0,8581.0,8544.0,8042.0,502.0,37.0,9410.0,"District 1, Raleigh County, West Virginia",081,90792,54
+24125.0,12560.0,12546.0,11393.0,1153.0,14.0,11565.0,"District 3, Raleigh County, West Virginia",081,90864,54
+2857.0,1506.0,1506.0,1329.0,177.0,0.0,1351.0,"Western district, Braxton County, West Virginia",007,93597,54
+3185.0,1821.0,1821.0,1619.0,202.0,0.0,1364.0,"Northern district, Braxton County, West Virginia",007,92346,54
+3166.0,1689.0,1689.0,1341.0,348.0,0.0,1477.0,"Southern district, Braxton County, West Virginia",007,92922,54
+2656.0,1263.0,1263.0,1031.0,232.0,0.0,1393.0,"Eastern district, Braxton County, West Virginia",007,90968,54
+8073.0,4526.0,4489.0,4337.0,152.0,37.0,3547.0,"Curry district, Putnam County, West Virginia",079,90720,54
+8587.0,4760.0,4760.0,4578.0,182.0,0.0,3827.0,"Buffalo-Union district, Putnam County, West Virginia",079,90292,54
+7006.0,3799.0,3799.0,3613.0,186.0,0.0,3207.0,"Pocatalico district, Putnam County, West Virginia",079,92508,54
+11970.0,8089.0,8007.0,7748.0,259.0,82.0,3881.0,"Teays district, Putnam County, West Virginia",079,93090,54
+9767.0,5706.0,5706.0,5558.0,148.0,0.0,4061.0,"Scott district, Putnam County, West Virginia",079,92736,54
+3206.0,1606.0,1606.0,1473.0,133.0,0.0,1600.0,"West district, Barbour County, West Virginia",001,93588,54
+4496.0,2357.0,2357.0,2178.0,179.0,0.0,2139.0,"South district, Barbour County, West Virginia",001,92892,54
+6100.0,3083.0,3083.0,2770.0,313.0,0.0,3017.0,"North district, Barbour County, West Virginia",001,92328,54
+5894.0,2589.0,2589.0,2339.0,250.0,0.0,3305.0,"District 1, Boone County, West Virginia",005,90762,54
+5920.0,2204.0,2204.0,1966.0,238.0,0.0,3716.0,"District 2, Boone County, West Virginia",005,90796,54
+7003.0,3074.0,3074.0,2725.0,349.0,0.0,3929.0,"District 3, Boone County, West Virginia",005,90832,54
+4127.0,1461.0,1461.0,1278.0,183.0,0.0,2666.0,"Big Creek district, McDowell County, West Virginia",047,90168,54
+5252.0,1321.0,1321.0,1192.0,129.0,0.0,3931.0,"Browns Creek district, McDowell County, West Virginia",047,90240,54
+2574.0,811.0,811.0,702.0,109.0,0.0,1763.0,"North Elkin district, McDowell County, West Virginia",047,92345,54
+4162.0,1001.0,1001.0,909.0,92.0,0.0,3161.0,"Sandy River district, McDowell County, West Virginia",047,92712,54
+7822.0,3805.0,3805.0,3504.0,301.0,0.0,4017.0,"Butler district, Wayne County, West Virginia",099,90324,54
+5366.0,2897.0,2897.0,2740.0,157.0,0.0,2469.0,"Ceredo district, Wayne County, West Virginia",099,90492,54
+7268.0,4015.0,4015.0,3664.0,351.0,0.0,3253.0,"Westmoreland district, Wayne County, West Virginia",099,93624,54
+6257.0,2248.0,2248.0,2004.0,244.0,0.0,4009.0,"Stonewall district, Wayne County, West Virginia",099,93036,54
+6700.0,2890.0,2868.0,2527.0,341.0,22.0,3810.0,"Union district, Wayne County, West Virginia",099,93372,54
+6036.0,2231.0,2231.0,1974.0,257.0,0.0,3805.0,"District 3, Wyoming County, West Virginia",109,90868,54
+5926.0,2629.0,2629.0,2330.0,299.0,0.0,3297.0,"District 1, Wyoming County, West Virginia",109,90795,54
+6130.0,2306.0,2306.0,2021.0,285.0,0.0,3824.0,"District 2, Wyoming County, West Virginia",109,90831,54
+8151.0,3948.0,3948.0,3754.0,194.0,0.0,4203.0,"Eastern district, Jackson County, West Virginia",035,90976,54
+6652.0,3220.0,3220.0,3110.0,110.0,0.0,3432.0,"Northern district, Jackson County, West Virginia",035,92353,54
+8829.0,4597.0,4597.0,4357.0,240.0,0.0,4232.0,"Western district, Jackson County, West Virginia",035,93605,54
+14254.0,6606.0,6606.0,6160.0,446.0,0.0,7648.0,"District I, Mercer County, West Virginia",055,90900,54
+17182.0,8186.0,8186.0,7817.0,369.0,0.0,8996.0,"District III, Mercer County, West Virginia",055,90924,54
+18397.0,9331.0,9331.0,8657.0,674.0,0.0,9066.0,"District II, Mercer County, West Virginia",055,90912,54
+6527.0,3770.0,3770.0,3526.0,244.0,0.0,2757.0,"Third district, Upshur County, West Virginia",097,93105,54
+6748.0,3621.0,3621.0,3237.0,384.0,0.0,3127.0,"Second district, Upshur County, West Virginia",097,92745,54
+6844.0,3304.0,3304.0,3061.0,243.0,0.0,3540.0,"First district, Upshur County, West Virginia",097,91102,54
+2505.0,1194.0,1194.0,1067.0,127.0,0.0,1311.0,"Central district, Webster County, West Virginia",101,90471,54
+2433.0,978.0,978.0,891.0,87.0,0.0,1455.0,"Northern district, Webster County, West Virginia",101,92360,54
+2140.0,1144.0,1144.0,1005.0,139.0,0.0,996.0,"Southern district, Webster County, West Virginia",101,92925,54
+14482.0,9835.0,9788.0,9143.0,645.0,47.0,4647.0,"Potomac district, Berkeley County, West Virginia",003,92526,54
+11344.0,6808.0,6808.0,5827.0,981.0,0.0,4536.0,"Adam Stephens district, Berkeley County, West Virginia",003,90006,54
+9021.0,6032.0,5957.0,5629.0,328.0,75.0,2989.0,"Norborne district, Berkeley County, West Virginia",003,92322,54
+16544.0,10704.0,10681.0,9794.0,887.0,23.0,5840.0,"Valley district, Berkeley County, West Virginia",003,93388,54
+17771.0,11594.0,11526.0,10515.0,1011.0,68.0,6177.0,"Tuscarora district, Berkeley County, West Virginia",003,93171,54
+18261.0,12258.0,12235.0,11346.0,889.0,23.0,6003.0,"Shenandoah district, Berkeley County, West Virginia",003,92754,54
+12551.0,6297.0,6297.0,5610.0,687.0,0.0,6254.0,"Plateau district, Fayette County, West Virginia",019,92472,54
+11201.0,4981.0,4981.0,4521.0,460.0,0.0,6220.0,"Valley district, Fayette County, West Virginia",019,93396,54
+12661.0,6345.0,6345.0,6016.0,329.0,0.0,6316.0,"New Haven district, Fayette County, West Virginia",019,92280,54
+3855.0,2362.0,2362.0,2196.0,166.0,0.0,1493.0,"Grant district, Grant County, West Virginia",023,91296,54
+3333.0,1623.0,1623.0,1527.0,96.0,0.0,1710.0,"Milroy district, Grant County, West Virginia",023,92208,54
+2452.0,1104.0,1104.0,1100.0,4.0,0.0,1348.0,"Union district, Grant County, West Virginia",023,93216,54
+4406.0,1946.0,1946.0,1806.0,140.0,0.0,2460.0,"Gore district, Hampshire County, West Virginia",027,91248,54
+2920.0,1367.0,1367.0,1286.0,81.0,0.0,1553.0,"Romney district, Hampshire County, West Virginia",027,92676,54
+2296.0,1348.0,1348.0,1310.0,38.0,0.0,948.0,"Capon district, Hampshire County, West Virginia",027,90360,54
+2935.0,1470.0,1470.0,1400.0,70.0,0.0,1465.0,"Bloomery district, Hampshire County, West Virginia",027,90204,54
+3437.0,1724.0,1724.0,1593.0,131.0,0.0,1713.0,"Sherman district, Hampshire County, West Virginia",027,92820,54
+2423.0,1455.0,1455.0,1381.0,74.0,0.0,968.0,"Springfield district, Hampshire County, West Virginia",027,92988,54
+929.0,518.0,518.0,494.0,24.0,0.0,411.0,"Mill Creek district, Hampshire County, West Virginia",027,92184,54
+3999.0,1767.0,1767.0,1577.0,190.0,0.0,2232.0,"Greenbrier River district, Summers County, West Virginia",089,91440,54
+3440.0,1276.0,1276.0,1154.0,122.0,0.0,2164.0,"New River district, Summers County, West Virginia",089,92316,54
+3847.0,1948.0,1948.0,1705.0,243.0,0.0,1899.0,"Bluestone River district, Summers County, West Virginia",089,90216,54
+6292.0,3645.0,3598.0,3484.0,114.0,47.0,2647.0,"Weirton district, Brooke County, West Virginia",009,93552,54
+6606.0,3733.0,3733.0,3623.0,110.0,0.0,2873.0,"Wellsburg district, Brooke County, West Virginia",009,93564,54
+6563.0,3451.0,3451.0,3297.0,154.0,0.0,3112.0,"Follansbee district, Brooke County, West Virginia",009,91104,54
+1689.0,441.0,441.0,410.0,31.0,0.0,1248.0,"Beech district, Doddridge County, West Virginia",017,90138,54
+1667.0,912.0,912.0,906.0,6.0,0.0,755.0,"Maple district, Doddridge County, West Virginia",017,92094,54
+1802.0,900.0,900.0,851.0,49.0,0.0,902.0,"Oak district, Doddridge County, West Virginia",017,92374,54
+2094.0,789.0,789.0,676.0,113.0,0.0,1305.0,"Pine district, Doddridge County, West Virginia",017,92466,54
+11089.0,6250.0,6250.0,5747.0,503.0,0.0,4839.0,"Central district, Greenbrier County, West Virginia",025,90449,54
+9778.0,4861.0,4861.0,4643.0,218.0,0.0,4917.0,"Eastern district, Greenbrier County, West Virginia",025,90972,54
+8354.0,3852.0,3849.0,3557.0,292.0,3.0,4502.0,"Western district, Greenbrier County, West Virginia",025,93601,54
+2405.0,1500.0,1500.0,1471.0,29.0,0.0,905.0,"Capon district, Hardy County, West Virginia",031,90372,54
+1923.0,879.0,879.0,796.0,83.0,0.0,1044.0,"Lost River district, Hardy County, West Virginia",031,91968,54
+2309.0,1429.0,1429.0,1341.0,88.0,0.0,880.0,"Moorefield district, Hardy County, West Virginia",031,92232,54
+2064.0,1229.0,1229.0,1187.0,42.0,0.0,835.0,"South Fork district, Hardy County, West Virginia",031,92928,54
+2627.0,1772.0,1772.0,1668.0,104.0,0.0,855.0,"Old Fields district, Hardy County, West Virginia",031,92382,54
+14042.0,7758.0,7758.0,7283.0,475.0,0.0,6284.0,"Middletown district, Marion County, West Virginia",049,92154,54
+13783.0,7533.0,7530.0,7109.0,421.0,3.0,6250.0,"West Augusta district, Marion County, West Virginia",049,93594,54
+18672.0,11358.0,11349.0,10782.0,567.0,9.0,7314.0,"Palatine district, Marion County, West Virginia",049,92418,54
+7692.0,3944.0,3944.0,3579.0,365.0,0.0,3748.0,"District 2, Mineral County, West Virginia",057,90820,54
+7640.0,4180.0,4180.0,3872.0,308.0,0.0,3460.0,"District 3, Mineral County, West Virginia",057,90856,54
+7246.0,3903.0,3903.0,3744.0,159.0,0.0,3343.0,"District 1, Mineral County, West Virginia",057,90784,54
+3290.0,1567.0,1567.0,1249.0,318.0,0.0,1723.0,"Williamson district, Mingo County, West Virginia",059,93696,54
+1962.0,792.0,792.0,703.0,89.0,0.0,1170.0,"Magnolia district, Mingo County, West Virginia",059,92064,54
+2862.0,979.0,979.0,813.0,166.0,0.0,1883.0,"Stafford district, Mingo County, West Virginia",059,93012,54
+3081.0,1386.0,1386.0,1200.0,186.0,0.0,1695.0,"Lee district, Mingo County, West Virginia",059,91848,54
+8349.0,5010.0,5010.0,4603.0,407.0,0.0,3339.0,"Grant district, Hancock County, West Virginia",029,91308,54
+8205.0,4732.0,4732.0,4489.0,243.0,0.0,3473.0,"Butler district, Hancock County, West Virginia",029,90312,54
+8139.0,4763.0,4763.0,4324.0,439.0,0.0,3376.0,"Clay district, Hancock County, West Virginia",029,90540,54
+4244.0,2331.0,2331.0,2152.0,179.0,0.0,1913.0,"Freemans Creek district, Lewis County, West Virginia",041,91176,54
+4621.0,2484.0,2477.0,2340.0,137.0,7.0,2137.0,"Hackers Creek-Skin Creek district, Lewis County, West Virginia",041,91480,54
+4397.0,1978.0,1978.0,1787.0,191.0,0.0,2419.0,"Courthouse-Collins Settlement district, Lewis County, West Virginia",041,90676,54
+8735.0,5011.0,5007.0,4768.0,239.0,4.0,3724.0,"District 1, Marshall County, West Virginia",051,90780,54
+8083.0,4043.0,4043.0,3673.0,370.0,0.0,4040.0,"District 2, Marshall County, West Virginia",051,90816,54
+9284.0,4600.0,4600.0,4406.0,194.0,0.0,4684.0,"District 3, Marshall County, West Virginia",051,90852,54
+4500.0,2766.0,2766.0,2602.0,164.0,0.0,1734.0,"Summersville district, Nicholas County, West Virginia",067,93072,54
+5667.0,2487.0,2487.0,2360.0,127.0,0.0,3180.0,"Beaver district, Nicholas County, West Virginia",067,90132,54
+1128.0,622.0,622.0,581.0,41.0,0.0,506.0,"Grant district, Nicholas County, West Virginia",067,91344,54
+1184.0,470.0,470.0,438.0,32.0,0.0,714.0,"Jefferson district, Nicholas County, West Virginia",067,91716,54
+2214.0,1077.0,1077.0,988.0,89.0,0.0,1137.0,"Hamilton district, Nicholas County, West Virginia",067,91500,54
+2859.0,1509.0,1509.0,1376.0,133.0,0.0,1350.0,"Wilderness district, Nicholas County, West Virginia",067,93660,54
+3304.0,1634.0,1634.0,1451.0,183.0,0.0,1670.0,"Kentucky district, Nicholas County, West Virginia",067,91752,54
+1650.0,720.0,720.0,651.0,69.0,0.0,930.0,"Little Levels district, Pocahontas County, West Virginia",075,91944,54
+928.0,555.0,555.0,533.0,22.0,0.0,373.0,"Huntersville district, Pocahontas County, West Virginia",075,91656,54
+1823.0,979.0,979.0,947.0,32.0,0.0,844.0,"Greenbank district, Pocahontas County, West Virginia",075,91416,54
+2849.0,1501.0,1501.0,1387.0,114.0,0.0,1348.0,"Edray district, Pocahontas County, West Virginia",075,90996,54
+2842.0,1548.0,1548.0,1466.0,82.0,0.0,1294.0,"Black Fork district, Tucker County, West Virginia",093,90192,54
+611.0,246.0,246.0,224.0,22.0,0.0,365.0,"Fairfax district, Tucker County, West Virginia",093,91056,54
+674.0,361.0,361.0,336.0,25.0,0.0,313.0,"Davis district, Tucker County, West Virginia",093,90744,54
+679.0,321.0,321.0,278.0,43.0,0.0,358.0,"St. George district, Tucker County, West Virginia",093,92688,54
+352.0,169.0,169.0,169.0,0.0,0.0,183.0,"Clover district, Tucker County, West Virginia",093,90624,54
+84.0,38.0,38.0,38.0,0.0,0.0,46.0,"Licking district, Tucker County, West Virginia",093,91896,54
+739.0,431.0,431.0,372.0,59.0,0.0,308.0,"Dry Fork district, Tucker County, West Virginia",093,90948,54
+1932.0,978.0,978.0,868.0,110.0,0.0,954.0,"Central district, Tyler County, West Virginia",095,90469,54
+1918.0,896.0,896.0,805.0,91.0,0.0,1022.0,"West district, Tyler County, West Virginia",095,93592,54
+1811.0,765.0,765.0,733.0,32.0,0.0,1046.0,"South district, Tyler County, West Virginia",095,92898,54
+1724.0,832.0,832.0,780.0,52.0,0.0,892.0,"North district, Tyler County, West Virginia",095,92334,54
+866.0,493.0,493.0,480.0,13.0,0.0,373.0,"New Interest district, Randolph County, West Virginia",083,92292,54
+627.0,298.0,298.0,298.0,0.0,0.0,329.0,"Middle Fork district, Randolph County, West Virginia",083,92148,54
+1693.0,925.0,925.0,895.0,30.0,0.0,768.0,"Roaring Creek district, Randolph County, West Virginia",083,92640,54
+11254.0,6347.0,6347.0,5906.0,441.0,0.0,4907.0,"Leadsville district, Randolph County, West Virginia",083,91824,54
+994.0,389.0,389.0,383.0,6.0,0.0,605.0,"Dry Fork district, Randolph County, West Virginia",083,90936,54
+807.0,394.0,394.0,342.0,52.0,0.0,413.0,"Mingo district, Randolph County, West Virginia",083,92220,54
+3699.0,1989.0,1989.0,1795.0,194.0,0.0,1710.0,"Beverly district, Randolph County, West Virginia",083,90156,54
+2740.0,773.0,773.0,703.0,70.0,0.0,1967.0,"Huttonsville district, Randolph County, West Virginia",083,91668,54
+1468.0,791.0,791.0,694.0,97.0,0.0,677.0,"Valley Bend district, Randolph County, West Virginia",083,93420,54
+4885.0,2904.0,2904.0,2765.0,139.0,0.0,1981.0,"Western district, Taylor County, West Virginia",091,93621,54
+4175.0,2160.0,2160.0,1878.0,282.0,0.0,2015.0,"Eastern district, Taylor County, West Virginia",091,90993,54
+4859.0,2512.0,2512.0,2262.0,250.0,0.0,2347.0,"Tygart district, Taylor County, West Virginia",091,93175,54
+1923.0,874.0,874.0,792.0,82.0,0.0,1049.0,"Northeast district, Wirt County, West Virginia",105,92344,54
+1220.0,516.0,516.0,448.0,68.0,0.0,704.0,"Central district, Wirt County, West Virginia",105,90473,54
+1495.0,803.0,803.0,782.0,21.0,0.0,692.0,"Southwest district, Wirt County, West Virginia",105,92958,54
+846.0,542.0,542.0,522.0,20.0,0.0,304.0,"Steele district, Wood County, West Virginia",107,93024,54
+5309.0,2959.0,2959.0,2857.0,102.0,0.0,2350.0,"Clay district, Wood County, West Virginia",107,90588,54
+22597.0,12196.0,12165.0,11316.0,849.0,31.0,10401.0,"Parkersburg district, Wood County, West Virginia",107,92424,54
+3654.0,2324.0,2315.0,2214.0,101.0,9.0,1330.0,"Union district, Wood County, West Virginia",107,93384,54
+3634.0,2079.0,2079.0,2079.0,0.0,0.0,1555.0,"Slate district, Wood County, West Virginia",107,92856,54
+1573.0,887.0,887.0,800.0,87.0,0.0,686.0,"Harris district, Wood County, West Virginia",107,91560,54
+11028.0,6654.0,6620.0,6353.0,267.0,34.0,4374.0,"Williams district, Wood County, West Virginia",107,93672,54
+10831.0,5827.0,5827.0,5372.0,455.0,0.0,5004.0,"Tygart district, Wood County, West Virginia",107,93180,54
+1285.0,654.0,654.0,503.0,151.0,0.0,631.0,"Walker district, Wood County, West Virginia",107,93444,54
+9080.0,5127.0,5127.0,4825.0,302.0,0.0,3953.0,"Lubeck district, Wood County, West Virginia",107,91980,54
+2128.0,816.0,816.0,736.0,80.0,0.0,1312.0,"District C, Clay County, West Virginia",015,90895,54
+2723.0,1141.0,1141.0,1059.0,82.0,0.0,1582.0,"District A, Clay County, West Virginia",015,90891,54
+2287.0,865.0,865.0,721.0,144.0,0.0,1422.0,"District B, Clay County, West Virginia",015,90893,54
+1329.0,590.0,590.0,517.0,73.0,0.0,739.0,"De Kalb-Troy district, Gilmer County, West Virginia",021,90758,54
+3013.0,912.0,912.0,741.0,171.0,0.0,2101.0,"City district, Gilmer County, West Virginia",021,90534,54
+1200.0,473.0,473.0,437.0,36.0,0.0,727.0,"Center district, Gilmer County, West Virginia",021,90408,54
+1631.0,904.0,904.0,831.0,73.0,0.0,727.0,"Glenville district, Gilmer County, West Virginia",021,91236,54
+1236.0,461.0,461.0,429.0,32.0,0.0,775.0,"Cologne district, Mason County, West Virginia",053,90648,54
+2199.0,1090.0,1090.0,979.0,111.0,0.0,1109.0,"Waggener district, Mason County, West Virginia",053,93432,54
+704.0,388.0,388.0,302.0,86.0,0.0,316.0,"Arbuckle district, Mason County, West Virginia",053,90048,54
+3141.0,1375.0,1375.0,1236.0,139.0,0.0,1766.0,"Clendenin district, Mason County, West Virginia",053,90612,54
+1808.0,929.0,929.0,880.0,49.0,0.0,879.0,"Cooper district, Mason County, West Virginia",053,90660,54
+2743.0,1188.0,1188.0,1145.0,43.0,0.0,1555.0,"Hannan district, Mason County, West Virginia",053,91512,54
+4364.0,2009.0,2009.0,1847.0,162.0,0.0,2355.0,"Lewis district, Mason County, West Virginia",053,91860,54
+2137.0,1160.0,1160.0,1104.0,56.0,0.0,977.0,"Graham district, Mason County, West Virginia",053,91260,54
+2573.0,900.0,900.0,893.0,7.0,0.0,1673.0,"Robinson district, Mason County, West Virginia",053,92652,54
+1151.0,531.0,531.0,444.0,87.0,0.0,620.0,"Union district, Mason County, West Virginia",053,93264,54
+34436.0,22103.0,22087.0,20937.0,1150.0,16.0,12333.0,"Eastern district, Monongalia County, West Virginia",061,90983,54
+25033.0,14974.0,14974.0,14309.0,665.0,0.0,10059.0,"Western district, Monongalia County, West Virginia",061,93612,54
+29169.0,15884.0,15884.0,14479.0,1405.0,0.0,13285.0,"Central district, Monongalia County, West Virginia",061,90456,54
+4038.0,1844.0,1844.0,1626.0,218.0,0.0,2194.0,"Central district, Monroe County, West Virginia",063,90457,54
+3189.0,1748.0,1741.0,1612.0,129.0,7.0,1441.0,"Eastern district, Monroe County, West Virginia",063,90984,54
+3910.0,2148.0,2148.0,1977.0,171.0,0.0,1762.0,"Western district, Monroe County, West Virginia",063,93613,54
+1235.0,674.0,674.0,622.0,52.0,0.0,561.0,"District C, Pleasants County, West Virginia",073,90896,54
+1316.0,706.0,706.0,594.0,112.0,0.0,610.0,"District B, Pleasants County, West Virginia",073,90894,54
+2136.0,993.0,993.0,972.0,21.0,0.0,1143.0,"District D, Pleasants County, West Virginia",073,90898,54
+1599.0,862.0,862.0,806.0,56.0,0.0,737.0,"District A, Pleasants County, West Virginia",073,90892,54
+4256.0,1989.0,1989.0,1877.0,112.0,0.0,2267.0,"District 2, Wetzel County, West Virginia",103,90830,54
+4273.0,1998.0,1998.0,1865.0,133.0,0.0,2275.0,"District 3, Wetzel County, West Virginia",103,90867,54
+4466.0,1797.0,1797.0,1657.0,140.0,0.0,2669.0,"District 1, Wetzel County, West Virginia",103,90794,54
+13727.0,7331.0,7331.0,6898.0,433.0,0.0,6396.0,"District 1, Cabell County, West Virginia",011,90764,54
+12490.0,6688.0,6659.0,6208.0,451.0,29.0,5802.0,"District 2, Cabell County, West Virginia",011,90798,54
+17042.0,9416.0,9402.0,9093.0,309.0,14.0,7626.0,"District 5, Cabell County, West Virginia",011,90882,54
+19160.0,10835.0,10788.0,10409.0,379.0,47.0,8325.0,"District 4, Cabell County, West Virginia",011,90870,54
+16530.0,7579.0,7579.0,6847.0,732.0,0.0,8951.0,"District 3, Cabell County, West Virginia",011,90834,54
+8949.0,5877.0,5860.0,5216.0,644.0,17.0,3072.0,"Charles Town district, Jefferson County, West Virginia",037,90504,54
+9462.0,6342.0,6342.0,5895.0,447.0,0.0,3120.0,"Harpers Ferry district, Jefferson County, West Virginia",037,91548,54
+9106.0,6142.0,6112.0,5704.0,408.0,30.0,2964.0,"Middleway district, Jefferson County, West Virginia",037,92160,54
+8916.0,5432.0,5432.0,5146.0,286.0,0.0,3484.0,"Shepherdstown district, Jefferson County, West Virginia",037,92760,54
+8054.0,5660.0,5649.0,5294.0,355.0,11.0,2394.0,"Kabletown district, Jefferson County, West Virginia",037,91740,54
+38497.0,21389.0,21278.0,19733.0,1545.0,111.0,17108.0,"District 4, Kanawha County, West Virginia",039,90876,54
+42287.0,25195.0,25184.0,23963.0,1221.0,11.0,17092.0,"District 2, Kanawha County, West Virginia",039,90804,54
+34196.0,18076.0,18053.0,16498.0,1555.0,23.0,16120.0,"District 1, Kanawha County, West Virginia",039,90768,54
+39029.0,23187.0,23158.0,21747.0,1411.0,29.0,15842.0,"District 3, Kanawha County, West Virginia",039,90840,54
+7964.0,4068.0,4068.0,3519.0,549.0,0.0,3896.0,"Central district, Logan County, West Virginia",045,90453,54
+10668.0,4262.0,4262.0,3736.0,526.0,0.0,6406.0,"Eastern district, Logan County, West Virginia",045,90979,54
+9453.0,3913.0,3913.0,3423.0,490.0,0.0,5540.0,"Western district, Logan County, West Virginia",045,93608,54
+1946.0,950.0,950.0,904.0,46.0,0.0,996.0,"Western district, Pendleton County, West Virginia",071,93615,54
+2209.0,1006.0,991.0,936.0,55.0,15.0,1203.0,"Central district, Pendleton County, West Virginia",071,90462,54
+1874.0,994.0,927.0,886.0,41.0,67.0,880.0,"Eastern district, Pendleton County, West Virginia",071,90987,54
+5472.0,3150.0,3146.0,2949.0,197.0,4.0,2322.0,"First district, Preston County, West Virginia",077,91100,54
+4705.0,2543.0,2543.0,2376.0,167.0,0.0,2162.0,"Fifth district, Preston County, West Virginia",077,91096,54
+7856.0,3241.0,3234.0,3090.0,144.0,7.0,4615.0,"Second district, Preston County, West Virginia",077,92742,54
+5201.0,2847.0,2839.0,2449.0,390.0,8.0,2354.0,"Fourth district, Preston County, West Virginia",077,91134,54
+4710.0,2973.0,2973.0,2636.0,337.0,0.0,1737.0,"Third district, Preston County, West Virginia",077,93102,54
+6047.0,2893.0,2893.0,2669.0,224.0,0.0,3154.0,"District 3, Lincoln County, West Virginia",043,90842,54
+3891.0,1815.0,1815.0,1694.0,121.0,0.0,2076.0,"District I, Roane County, West Virginia",087,90906,54
+5502.0,2597.0,2597.0,2486.0,111.0,0.0,2905.0,"District 1, Lincoln County, West Virginia",043,90770,54
+5400.0,2215.0,2215.0,1984.0,231.0,0.0,3185.0,"District 2, Lincoln County, West Virginia",043,90806,54
+4024.0,1796.0,1796.0,1590.0,206.0,0.0,2228.0,"District II, Roane County, West Virginia",087,90918,54
+3668.0,1620.0,1620.0,1468.0,152.0,0.0,2048.0,"District III, Roane County, West Virginia",087,90930,54
+2885.0,1163.0,1163.0,891.0,272.0,0.0,1722.0,"Beech Ben Mate district, Mingo County, West Virginia",059,90141,54
+3027.0,1214.0,1214.0,1035.0,179.0,0.0,1813.0,"Kermit Harvey district, Mingo County, West Virginia",059,91770,54
+3069.0,1503.0,1503.0,1372.0,131.0,0.0,1566.0,"Tug Hardee district, Mingo County, West Virginia",059,93162,54

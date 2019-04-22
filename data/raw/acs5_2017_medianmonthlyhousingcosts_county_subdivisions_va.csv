@@ -1,0 +1,552 @@
+B25105_001E,name,county,county subdivision,state
+743.0,"Timberlake district, Campbell County, Virginia",031,96087,51
+778.0,"Concord district, Campbell County, Virginia",031,90968,51
+620.0,"Seneca district, Campbell County, Virginia",031,95623,51
+598.0,"Brookneal district, Campbell County, Virginia",031,90504,51
+679.0,"Rustburg district, Campbell County, Virginia",031,95503,51
+1224.0,"Tuckahoe district, Henrico County, Virginia",087,96119,51
+1082.0,"Fairfield district, Henrico County, Virginia",087,93511,51
+1392.0,"Three Chopt district, Henrico County, Virginia",087,96079,51
+552.0,"Iriswood district, Henry County, Virginia",089,93975,51
+1169.0,"Brookland district, Henrico County, Virginia",087,90496,51
+1063.0,"Varina district, Henrico County, Virginia",087,96175,51
+637.0,"Collinsville district, Henry County, Virginia",089,90944,51
+553.0,"Reed Creek district, Henry County, Virginia",089,95263,51
+439.0,"Blackberry district, Henry County, Virginia",089,90288,51
+506.0,"Ridgeway district, Henry County, Virginia",089,95295,51
+527.0,"Horsepasture district, Henry County, Virginia",089,93919,51
+1314.0,"Dahlgren district, King George County, Virginia",099,91080,51
+1587.0,"James Monroe district, King George County, Virginia",099,94039,51
+1106.0,"Shiloh district, King George County, Virginia",099,95687,51
+1663.0,"James Madison district, King George County, Virginia",099,94031,51
+973.0,"West Point district, King William County, Virginia",101,96327,51
+1240.0,"Acquinton district, King William County, Virginia",101,90016,51
+1215.0,"Mangohick district, King William County, Virginia",101,94479,51
+921.0,"Mountain Road district, Louisa County, Virginia",109,94759,51
+864.0,"Patrick Henry district, Louisa County, Virginia",109,95015,51
+880.0,"Louisa district, Louisa County, Virginia",109,94375,51
+995.0,"Mineral district, Louisa County, Virginia",109,94711,51
+1057.0,"Cuckoo district, Louisa County, Virginia",109,91040,51
+1164.0,"Green Spring district, Louisa County, Virginia",109,93767,51
+1122.0,"Jackson district, Louisa County, Virginia",109,93999,51
+1076.0,"Chesapeake district, Mathews County, Virginia",115,90808,51
+856.0,"Westville district, Mathews County, Virginia",115,96335,51
+950.0,"Piankatank district, Mathews County, Virginia",115,95055,51
+915.0,"Jamaica district, Middlesex County, Virginia",119,94023,51
+784.0,"Pine Top district, Middlesex County, Virginia",119,95079,51
+703.0,"Saluda district, Middlesex County, Virginia",119,95559,51
+624.0,"District 501, Prince Edward County, Virginia",147,92593,51
+981.0,"District 701, Prince Edward County, Virginia",147,92613,51
+671.0,"District 401, Prince Edward County, Virginia",147,92583,51
+614.0,"District 201, Prince Edward County, Virginia",147,92563,51
+654.0,"District 801, Prince Edward County, Virginia",147,92623,51
+752.0,"District 601, Prince Edward County, Virginia",147,92603,51
+683.0,"District 301, Prince Edward County, Virginia",147,92573,51
+761.0,"District 101, Prince Edward County, Virginia",147,92553,51
+1205.0,"Bland district, Prince George County, Virginia",149,90352,51
+1047.0,"Blackwater district, Prince George County, Virginia",149,90328,51
+838.0,"Brandon district, Prince George County, Virginia",149,90472,51
+1241.0,"Rives district, Prince George County, Virginia",149,95343,51
+1164.0,"Templeton district, Prince George County, Virginia",149,96063,51
+611.0,"District 1, Richmond County, Virginia",159,91271,51
+646.0,"District 3, Richmond County, Virginia",159,91571,51
+642.0,"District 2, Richmond County, Virginia",159,91421,51
+723.0,"District 4, Richmond County, Virginia",159,91721,51
+851.0,"District 5, Richmond County, Virginia",159,91871,51
+1053.0,"Central district, Rockingham County, Virginia",165,90736,51
+757.0,"Plains district, Rockingham County, Virginia",165,95095,51
+893.0,"Stonewall district, Rockingham County, Virginia",165,95951,51
+858.0,"Ashby district, Rockingham County, Virginia",165,90080,51
+795.0,"Linville district, Rockingham County, Virginia",165,94287,51
+374.0,"District 6, Scott County, Virginia",169,92026,51
+528.0,"District 1, Scott County, Virginia",169,91276,51
+466.0,"District 3, Scott County, Virginia",169,91576,51
+430.0,"District 4, Scott County, Virginia",169,91726,51
+493.0,"District 2, Scott County, Virginia",169,91426,51
+351.0,"District 5, Scott County, Virginia",169,91876,51
+1609.0,"Chancellor district, Spotsylvania County, Virginia",177,90760,51
+1441.0,"Livingston district, Spotsylvania County, Virginia",177,94311,51
+1556.0,"Lee Hill district, Spotsylvania County, Virginia",177,94231,51
+1436.0,"Battlefield district, Spotsylvania County, Virginia",177,90168,51
+1359.0,"Courtland district, Spotsylvania County, Virginia",177,91008,51
+1356.0,"Berkeley district, Spotsylvania County, Virginia",177,90232,51
+1415.0,"Salem district, Spotsylvania County, Virginia",177,95543,51
+933.0,"Bacons Castle district, Surry County, Virginia",181,90136,51
+878.0,"Carsley district, Surry County, Virginia",181,90624,51
+794.0,"Claremont district, Surry County, Virginia",181,90848,51
+935.0,"Dendron district, Surry County, Virginia",181,91136,51
+964.0,"Surry district, Surry County, Virginia",181,96023,51
+1428.0,"Russell district, Clarke County, Virginia",043,95495,51
+1481.0,"White Post district, Clarke County, Virginia",043,96367,51
+1121.0,"Berryville district, Clarke County, Virginia",043,90256,51
+1292.0,"Buckmarsh district, Clarke County, Virginia",043,90544,51
+1345.0,"Millwood district, Clarke County, Virginia",043,94703,51
+821.0,"Blackwater district, Franklin County, Virginia",067,90320,51
+682.0,"Snow Creek district, Franklin County, Virginia",067,95743,51
+516.0,"Blue Ridge district, Franklin County, Virginia",067,90392,51
+995.0,"Gills Creek district, Franklin County, Virginia",067,93703,51
+800.0,"Union Hall district, Franklin County, Virginia",067,96151,51
+749.0,"Boone district, Franklin County, Virginia",067,90432,51
+618.0,"Rocky Mount district, Franklin County, Virginia",067,95431,51
+599.0,"Buena Vista district, King and Queen County, Virginia",097,90552,51
+877.0,"Stevensville district, King and Queen County, Virginia",097,95903,51
+643.0,"Shanghai district, King and Queen County, Virginia",097,95631,51
+907.0,"Newtown district, King and Queen County, Virginia",097,94863,51
+670.0,"St. Stephens Church district, King and Queen County, Virginia",097,95527,51
+806.0,"District 5, Mecklenburg County, Virginia",117,91853,51
+586.0,"District 1, Mecklenburg County, Virginia",117,91253,51
+679.0,"District 3, Mecklenburg County, Virginia",117,91553,51
+548.0,"District 7, Mecklenburg County, Virginia",117,92153,51
+693.0,"District 9, Mecklenburg County, Virginia",117,92453,51
+630.0,"District 4, Mecklenburg County, Virginia",117,91703,51
+682.0,"District 6, Mecklenburg County, Virginia",117,92003,51
+661.0,"District 8, Mecklenburg County, Virginia",117,92303,51
+561.0,"District 2, Mecklenburg County, Virginia",117,91403,51
+1140.0,"District 2, New Kent County, Virginia",127,91407,51
+880.0,"District 4, New Kent County, Virginia",127,91707,51
+1305.0,"District 1, New Kent County, Virginia",127,91257,51
+1367.0,"District 3, New Kent County, Virginia",127,91557,51
+1536.0,"District 5, New Kent County, Virginia",127,91857,51
+735.0,"Pastures district, Augusta County, Virginia",015,94999,51
+868.0,"Wayne district, Augusta County, Virginia",015,96271,51
+887.0,"Beverley Manor district, Augusta County, Virginia",015,90272,51
+998.0,"South River district, Augusta County, Virginia",015,95791,51
+910.0,"Riverheads district, Augusta County, Virginia",015,95335,51
+844.0,"North River district, Augusta County, Virginia",015,94911,51
+850.0,"Middle River district, Augusta County, Virginia",015,94671,51
+1031.0,"District 1, Cumberland County, Virginia",049,91220,51
+953.0,"District 2, Cumberland County, Virginia",049,91370,51
+756.0,"District 3, Cumberland County, Virginia",049,91520,51
+837.0,"District 4, Cumberland County, Virginia",049,91670,51
+818.0,"District 5, Cumberland County, Virginia",049,91820,51
+569.0,"Clintwood district, Dickenson County, Virginia",051,90880,51
+349.0,"Sand Lick district, Dickenson County, Virginia",051,95575,51
+415.0,"Ervinton district, Dickenson County, Virginia",051,93495,51
+439.0,"Kenady district, Dickenson County, Virginia",051,94135,51
+438.0,"Willis district, Dickenson County, Virginia",051,96407,51
+1182.0,"District 3, Goochland County, Virginia",075,91532,51
+1718.0,"District 5, Goochland County, Virginia",075,91832,51
+1345.0,"District 4, Goochland County, Virginia",075,91682,51
+894.0,"District 2, Goochland County, Virginia",075,91382,51
+1058.0,"District 1, Goochland County, Virginia",075,91232,51
+594.0,"District 6, Halifax County, Virginia",083,91986,51
+551.0,"District 5, Halifax County, Virginia",083,91836,51
+563.0,"District 2, Halifax County, Virginia",083,91386,51
+427.0,"District 1, Halifax County, Virginia",083,91236,51
+659.0,"District 8, Halifax County, Virginia",083,92286,51
+633.0,"District 3, Halifax County, Virginia",083,91536,51
+590.0,"District 4, Halifax County, Virginia",083,91686,51
+559.0,"District 7, Halifax County, Virginia",083,92136,51
+2625.0,"Catoctin district, Loudoun County, Virginia",107,90656,51
+2701.0,"Blue Ridge district, Loudoun County, Virginia",107,90400,51
+1790.0,"Leesburg district, Loudoun County, Virginia",107,94247,51
+1844.0,"Sterling district, Loudoun County, Virginia",107,95887,51
+2112.0,"Broad Run district, Loudoun County, Virginia",107,90488,51
+2551.0,"Dulles district, Loudoun County, Virginia",107,93415,51
+953.0,"Robertson district, Madison County, Virginia",113,95383,51
+752.0,"Rapidan district, Madison County, Virginia",113,95223,51
+965.0,"Locust Dale district, Madison County, Virginia",113,94335,51
+1676.0,"Woodbridge district, Prince William County, Virginia",153,96455,51
+1953.0,"Coles district, Prince William County, Virginia",153,90928,51
+1795.0,"Gainesville district, Prince William County, Virginia",153,93671,51
+1796.0,"Occoquan district, Prince William County, Virginia",153,94943,51
+2288.0,"Brentsville district, Prince William County, Virginia",153,90480,51
+1676.0,"Neabsco district, Prince William County, Virginia",153,94807,51
+846.0,"Vinton district, Roanoke County, Virginia",161,96183,51
+941.0,"Catawba district, Roanoke County, Virginia",161,90648,51
+976.0,"Cave Spring district, Roanoke County, Virginia",161,90664,51
+918.0,"Windsor Hills district, Roanoke County, Virginia",161,96439,51
+948.0,"Hollins district, Roanoke County, Virginia",161,93911,51
+1053.0,"Berlin and Ivor district, Southampton County, Virginia",175,90240,51
+793.0,"Jerusalem district, Southampton County, Virginia",175,94103,51
+473.0,"Drewryville district, Southampton County, Virginia",175,93407,51
+899.0,"Capron district, Southampton County, Virginia",175,90608,51
+895.0,"Newsoms district, Southampton County, Virginia",175,94855,51
+770.0,"Franklin district, Southampton County, Virginia",175,93639,51
+468.0,"Blue Grass district, Highland County, Virginia",091,90368,51
+466.0,"Monterey district, Highland County, Virginia",091,94743,51
+401.0,"Stonewall district, Highland County, Virginia",091,95935,51
+623.0,"Red Oak district, Brunswick County, Virginia",025,95255,51
+599.0,"Sturgeon district, Brunswick County, Virginia",025,95983,51
+798.0,"Meherrin district, Brunswick County, Virginia",025,94639,51
+728.0,"Totaro district, Brunswick County, Virginia",025,96103,51
+662.0,"Powellton district, Brunswick County, Virginia",025,95151,51
+1158.0,"Mattaponi district, Caroline County, Virginia",033,94583,51
+1062.0,"Reedy Church district, Caroline County, Virginia",033,95271,51
+1272.0,"Madison district, Caroline County, Virginia",033,94423,51
+950.0,"Port Royal district, Caroline County, Virginia",033,95119,51
+883.0,"Bowling Green district, Caroline County, Virginia",033,90440,51
+1084.0,"Gloucester Point district, Gloucester County, Virginia",073,93735,51
+1073.0,"York district, Gloucester County, Virginia",073,96471,51
+982.0,"Petsworth district, Gloucester County, Virginia",073,95047,51
+1052.0,"Ware district, Gloucester County, Virginia",073,96231,51
+1275.0,"Abingdon district, Gloucester County, Virginia",073,90008,51
+701.0,"District 1, Northampton County, Virginia",131,91258,51
+611.0,"District 3, Northampton County, Virginia",131,91558,51
+799.0,"District 2, Northampton County, Virginia",131,91408,51
+611.0,"District 6, Northampton County, Virginia",131,92008,51
+963.0,"District 4, Northampton County, Virginia",131,91708,51
+641.0,"District 5, Northampton County, Virginia",131,91858,51
+468.0,"Dan River district, Patrick County, Virginia",141,91096,51
+535.0,"Mayo River district, Patrick County, Virginia",141,94591,51
+416.0,"Blue Ridge district, Patrick County, Virginia",141,90408,51
+478.0,"Peters Creek district, Patrick County, Virginia",141,95039,51
+523.0,"Smith River district, Patrick County, Virginia",141,95735,51
+1251.0,"District 2, Powhatan County, Virginia",145,91415,51
+1214.0,"District 1, Powhatan County, Virginia",145,91265,51
+1334.0,"District 3, Powhatan County, Virginia",145,91565,51
+1144.0,"District 4, Powhatan County, Virginia",145,91715,51
+1187.0,"District 5, Powhatan County, Virginia",145,91865,51
+845.0,"South River district, Rockbridge County, Virginia",163,95799,51
+533.0,"Natural Bridge district, Rockbridge County, Virginia",163,94799,51
+710.0,"Walkers Creek district, Rockbridge County, Virginia",163,96215,51
+726.0,"Kerrs Creek district, Rockbridge County, Virginia",163,94143,51
+821.0,"Buffalo district, Rockbridge County, Virginia",163,90568,51
+824.0,"District 1, Shenandoah County, Virginia",171,91277,51
+865.0,"District 5, Shenandoah County, Virginia",171,91877,51
+804.0,"District 4, Shenandoah County, Virginia",171,91727,51
+737.0,"District 2, Shenandoah County, Virginia",171,91427,51
+918.0,"District 3, Shenandoah County, Virginia",171,91577,51
+973.0,"District 6, Shenandoah County, Virginia",171,92027,51
+1565.0,"Cedar Run district, Fauquier County, Virginia",061,90688,51
+2047.0,"Scott district, Fauquier County, Virginia",061,95599,51
+1379.0,"Lee district, Fauquier County, Virginia",061,94215,51
+1671.0,"Marshall district, Fauquier County, Virginia",061,94511,51
+1545.0,"Center district, Fauquier County, Virginia",061,90704,51
+1266.0,"East Fairfax district, Culpeper County, Virginia",047,93447,51
+1372.0,"Salem district, Culpeper County, Virginia",047,95535,51
+1587.0,"West Fairfax district, Culpeper County, Virginia",047,96303,51
+1319.0,"Stevensburg district, Culpeper County, Virginia",047,95895,51
+1627.0,"Jefferson district, Culpeper County, Virginia",047,94079,51
+1069.0,"Catalpa district, Culpeper County, Virginia",047,90640,51
+1166.0,"Cedar Mountain district, Culpeper County, Virginia",047,90680,51
+864.0,"District 1, Dinwiddie County, Virginia",053,91222,51
+878.0,"District 4, Dinwiddie County, Virginia",053,91672,51
+1034.0,"District 2, Dinwiddie County, Virginia",053,91372,51
+850.0,"District 5, Dinwiddie County, Virginia",053,91822,51
+946.0,"District 3, Dinwiddie County, Virginia",053,91522,51
+1057.0,"Monroe district, Greene County, Virginia",079,94719,51
+1056.0,"Stanardsville district, Greene County, Virginia",079,95863,51
+1437.0,"Ruckersville district, Greene County, Virginia",079,95487,51
+1168.0,"Ashland district, Hanover County, Virginia",085,90096,51
+1551.0,"Chickahominy district, Hanover County, Virginia",085,90824,51
+1200.0,"Beaverdam district, Hanover County, Virginia",085,90200,51
+1380.0,"Cold Harbor district, Hanover County, Virginia",085,90920,51
+1275.0,"South Anna district, Hanover County, Virginia",085,95759,51
+1317.0,"Henry district, Hanover County, Virginia",085,93887,51
+1159.0,"Mechanicsville district, Hanover County, Virginia",085,94631,51
+645.0,"Plymouth district, Lunenburg County, Virginia",111,95111,51
+548.0,"Rehoboth district, Lunenburg County, Virginia",111,95279,51
+593.0,"Meherrin River district, Lunenburg County, Virginia",111,94647,51
+710.0,"Hounds Creek district, Lunenburg County, Virginia",111,93927,51
+650.0,"Beaver Creek district, Lunenburg County, Virginia",111,90192,51
+683.0,"Browns Store district, Lunenburg County, Virginia",111,90512,51
+442.0,"Loves Mill district, Lunenburg County, Virginia",111,94383,51
+908.0,"District 1, Orange County, Virginia",137,91261,51
+1313.0,"District 5, Orange County, Virginia",137,91861,51
+972.0,"District 3, Orange County, Virginia",137,91561,51
+833.0,"District 2, Orange County, Virginia",137,91411,51
+1335.0,"District 4, Orange County, Virginia",137,91711,51
+747.0,"Emporia city, Emporia city, Virginia",595,93491,51
+624.0,"Black Lick district, Wythe County, Virginia",197,90304,51
+503.0,"Speedwell district, Wythe County, Virginia",197,95823,51
+647.0,"East Wytheville district, Wythe County, Virginia",197,93471,51
+614.0,"Fort Chiswell district, Wythe County, Virginia",197,93615,51
+516.0,"Lead Mines district, Wythe County, Virginia",197,94183,51
+521.0,"West Wytheville district, Wythe County, Virginia",197,96343,51
+1402.0,"Chesapeake city, Chesapeake city, Virginia",550,90812,51
+1002.0,"Colonial Heights city, Colonial Heights city, Virginia",570,90948,51
+874.0,"Harrisonburg city, Harrisonburg city, Virginia",660,93859,51
+1259.0,"Rivanna district, Albemarle County, Virginia",003,95319,51
+1315.0,"Samuel Miller district, Albemarle County, Virginia",003,95567,51
+1279.0,"Rio district, Albemarle County, Virginia",003,95311,51
+1158.0,"Scottsville district, Albemarle County, Virginia",003,95607,51
+1318.0,"White Hall district, Albemarle County, Virginia",003,96359,51
+1071.0,"Jack Jouett district, Albemarle County, Virginia",003,93983,51
+837.0,"Buchanan district, Botetourt County, Virginia",023,90528,51
+871.0,"Fincastle district, Botetourt County, Virginia",023,93575,51
+1024.0,"Amsterdam district, Botetourt County, Virginia",023,90048,51
+969.0,"Valley district, Botetourt County, Virginia",023,96159,51
+995.0,"Blue Ridge district, Botetourt County, Virginia",023,90384,51
+843.0,"Lynchburg city, Lynchburg city, Virginia",680,94403,51
+1680.0,"District 2, York County, Virginia",199,91440,51
+1479.0,"District 5, York County, Virginia",199,91890,51
+1392.0,"District 3, York County, Virginia",199,91590,51
+1453.0,"District 4, York County, Virginia",199,91740,51
+1362.0,"District 1, York County, Virginia",199,91290,51
+1007.0,"Richmond city, Richmond city, Virginia",760,95291,51
+658.0,"Martinsville city, Martinsville city, Virginia",690,94537,51
+835.0,"South district, Essex County, Virginia",057,95751,51
+907.0,"North district, Essex County, Virginia",057,94879,51
+905.0,"Central district, Essex County, Virginia",057,90720,51
+575.0,"Staunton River district, Pittsylvania County, Virginia",143,95879,51
+633.0,"Westover district, Pittsylvania County, Virginia",143,96319,51
+663.0,"Banister district, Pittsylvania County, Virginia",143,90152,51
+641.0,"Dan River district, Pittsylvania County, Virginia",143,91104,51
+810.0,"Chatham-Blairs district, Pittsylvania County, Virginia",143,90800,51
+549.0,"Callands-Gretna district, Pittsylvania County, Virginia",143,90592,51
+689.0,"Tunstall district, Pittsylvania County, Virginia",143,96127,51
+550.0,"Norton city, Norton city, Virginia",720,94931,51
+835.0,"Staunton city, Staunton city, Virginia",790,95875,51
+1421.0,"Palmyra district, Fluvanna County, Virginia",065,94983,51
+940.0,"Fork Union district, Fluvanna County, Virginia",065,93607,51
+1084.0,"Columbia district, Fluvanna County, Virginia",065,90952,51
+1361.0,"Rivanna district, Fluvanna County, Virginia",065,95327,51
+1086.0,"Cunningham district, Fluvanna County, Virginia",065,91056,51
+1054.0,"District 2, Amelia County, Virginia",007,91349,51
+834.0,"District 4, Amelia County, Virginia",007,91649,51
+960.0,"District 1, Amelia County, Virginia",007,91199,51
+732.0,"District 3, Amelia County, Virginia",007,91499,51
+838.0,"District 5, Amelia County, Virginia",007,91799,51
+808.0,"Radford city, Radford city, Virginia",750,95211,51
+1004.0,"Winchester city, Winchester city, Virginia",840,96427,51
+571.0,"District 4, Accomack County, Virginia",001,91646,51
+776.0,"District 7, Accomack County, Virginia",001,92096,51
+644.0,"District 9, Accomack County, Virginia",001,92396,51
+537.0,"District 3, Accomack County, Virginia",001,91496,51
+644.0,"District 1, Accomack County, Virginia",001,91196,51
+621.0,"District 6, Accomack County, Virginia",001,91946,51
+780.0,"District 5, Accomack County, Virginia",001,91796,51
+750.0,"District 8, Accomack County, Virginia",001,92246,51
+787.0,"District 2, Accomack County, Virginia",001,91346,51
+610.0,"Craig Creek district, Craig County, Virginia",045,91032,51
+575.0,"Simmonsville district, Craig County, Virginia",045,95703,51
+504.0,"Potts Mountain district, Craig County, Virginia",045,95135,51
+343.0,"New Castle district, Craig County, Virginia",045,94823,51
+872.0,"Craig City district, Craig County, Virginia",045,91024,51
+655.0,"Court House district, Floyd County, Virginia",063,90992,51
+535.0,"Burks Fork district, Floyd County, Virginia",063,90576,51
+514.0,"Indian Valley district, Floyd County, Virginia",063,93959,51
+636.0,"Locust Grove district, Floyd County, Virginia",063,94343,51
+563.0,"Little River district, Floyd County, Virginia",063,94303,51
+675.0,"Central district, Giles County, Virginia",071,90728,51
+585.0,"Western district, Giles County, Virginia",071,96287,51
+544.0,"Eastern district, Giles County, Virginia",071,93431,51
+449.0,"Elk Creek district, Grayson County, Virginia",077,93479,51
+349.0,"Wilson Creek district, Grayson County, Virginia",077,96423,51
+533.0,"Old Town district, Grayson County, Virginia",077,94959,51
+441.0,"Providence district, Grayson County, Virginia",077,95199,51
+704.0,"District 1, Nottoway County, Virginia",135,91260,51
+753.0,"District 2, Nottoway County, Virginia",135,91410,51
+786.0,"District 3, Nottoway County, Virginia",135,91560,51
+916.0,"District 5, Nottoway County, Virginia",135,91860,51
+649.0,"District 4, Nottoway County, Virginia",135,91710,51
+1135.0,"Piedmont district, Rappahannock County, Virginia",157,95063,51
+792.0,"Hampton district, Rappahannock County, Virginia",157,93823,51
+1100.0,"Jackson district, Rappahannock County, Virginia",157,94007,51
+1272.0,"Wakefield district, Rappahannock County, Virginia",157,96199,51
+1005.0,"Stonewall-Hawthorne district, Rappahannock County, Virginia",157,95967,51
+768.0,"Courthouse district, Appomattox County, Virginia",011,90985,51
+1851.0,"Potomac district, Prince William County, Virginia",153,95133,51
+2014.0,"Algonkian district, Loudoun County, Virginia",107,90022,51
+2382.0,"Ashburn district, Loudoun County, Virginia",107,90076,51
+825.0,"District 1, West Luray; Page County; Virginia",139,91262,51
+604.0,"District 2, East Luray; Page County; Virginia",139,91412,51
+727.0,"District 3, Marksville; Page County; Virginia",139,91562,51
+758.0,"District 4, Newport; Page County; Virginia",139,91712,51
+740.0,"District 5, Shenandoah; Page County; Virginia",139,91862,51
+1961.0,"Garrisonville district, Stafford County, Virginia",179,93683,51
+1368.0,"Red Bud district, Frederick County, Virginia",069,95250,51
+702.0,"District 1, Greensville County, Virginia",081,91234,51
+668.0,"District 2, Greensville County, Virginia",081,91384,51
+704.0,"District 3, Greensville County, Virginia",081,91534,51
+789.0,"District 4, Greensville County, Virginia",081,91684,51
+982.0,"District A-01, Montgomery County, Virginia",121,92713,51
+1017.0,"District B-01, Montgomery County, Virginia",121,92813,51
+756.0,"District C-01, Montgomery County, Virginia",121,92913,51
+923.0,"District 7, Buckingham County, Virginia",029,92106,51
+811.0,"District D-01, Montgomery County, Virginia",121,93013,51
+724.0,"District E-01, Montgomery County, Virginia",121,93113,51
+695.0,"District 4, Buckingham County, Virginia",029,91665,51
+640.0,"District 5, Buckingham County, Virginia",029,91810,51
+735.0,"District 6, Buckingham County, Virginia",029,91956,51
+784.0,"District 3, Charles City County, Virginia",036,91515,51
+578.0,"Piney Mountain district, Appomattox County, Virginia",011,95083,51
+958.0,"Wreck Island district, Appomattox County, Virginia",011,96459,51
+371.0,"District 1, Bland County, Virginia",021,91210,51
+497.0,"District 2, Bland County, Virginia",021,91360,51
+1043.0,"Central district, Nelson County, Virginia",125,90732,51
+589.0,"District 3, Bland County, Virginia",021,91510,51
+600.0,"District 4, Bland County, Virginia",021,91660,51
+860.0,"North district, Nelson County, Virginia",125,94883,51
+830.0,"East district, Nelson County, Virginia",125,93427,51
+726.0,"West district, Nelson County, Virginia",125,96283,51
+531.0,"South district, Nelson County, Virginia",125,95755,51
+1094.0,"District F-01, Montgomery County, Virginia",121,93213,51
+817.0,"District 1, Bedford County, Virginia",019,91209,51
+827.0,"District 2, Bedford County, Virginia",019,91359,51
+839.0,"District 3, Bedford County, Virginia",019,91509,51
+995.0,"District 4, Bedford County, Virginia",019,91659,51
+1019.0,"District 5, Bedford County, Virginia",019,91805,51
+657.0,"District 6, Bedford County, Virginia",019,91950,51
+1095.0,"District G-01, Montgomery County, Virginia",121,93313,51
+663.0,"Altavista district, Campbell County, Virginia",031,90032,51
+465.0,"Boiling Springs district, Alleghany County, Virginia",005,90424,51
+670.0,"Clifton Forge East district, Alleghany County, Virginia",005,90877,51
+577.0,"Clifton Forge West district, Alleghany County, Virginia",005,90878,51
+528.0,"Sharon district, Alleghany County, Virginia",005,95635,51
+676.0,"District 1, Lancaster County, Virginia",103,91241,51
+698.0,"District 2, Lancaster County, Virginia",103,91391,51
+789.0,"District 3, Lancaster County, Virginia",103,91541,51
+559.0,"District 4, Lancaster County, Virginia",103,91691,51
+863.0,"District 5, Lancaster County, Virginia",103,91841,51
+731.0,"Boykins and Branchville district, Southampton County, Virginia",175,90458,51
+830.0,"District 1, Charles City County, Virginia",036,91215,51
+815.0,"District 2, Charles City County, Virginia",036,91365,51
+752.0,"Appomattox River district, Appomattox County, Virginia",011,90054,51
+757.0,"Falling River district, Appomattox County, Virginia",011,93524,51
+854.0,"District 3, Buckingham County, Virginia",029,91512,51
+605.0,"District 1, Buckingham County, Virginia",029,91212,51
+729.0,"District 2, Buckingham County, Virginia",029,91362,51
+839.0,"Tappahannock district, Essex County, Virginia",057,96027,51
+361.0,"District 1, Lee County, Virginia",105,91247,51
+429.0,"District 2, Lee County, Virginia",105,91397,51
+460.0,"District 3, Lee County, Virginia",105,91547,51
+514.0,"District 4, Lee County, Virginia",105,91697,51
+416.0,"District 5, Lee County, Virginia",105,91847,51
+747.0,"District 7, Bedford County, Virginia",019,92102,51
+522.0,"District 2, Wise County, Virginia",195,91438,51
+553.0,"District 4, Wise County, Virginia",195,91738,51
+477.0,"District 1, Wise County, Virginia",195,91288,51
+611.0,"District 3, Wise County, Virginia",195,91588,51
+670.0,"Bristol city, Bristol city, Virginia",520,90484,51
+588.0,"Covington city, Covington city, Virginia",580,91020,51
+1091.0,"Portsmouth city, Portsmouth city, Virginia",740,95123,51
+1120.0,"Williamsburg city, Williamsburg city, Virginia",830,96395,51
+1414.0,"Virginia Beach city, Virginia Beach city, Virginia",810,96187,51
+509.0,"Falling Spring district, Alleghany County, Virginia",005,93527,51
+504.0,"Covington district, Alleghany County, Virginia",005,91016,51
+714.0,"Jackson River district, Alleghany County, Virginia",005,94015,51
+604.0,"Piper Gap district, Carroll County, Virginia",035,95087,51
+547.0,"Pine Creek district, Carroll County, Virginia",035,95071,51
+509.0,"Sulphur Springs district, Carroll County, Virginia",035,96007,51
+440.0,"Fancy Gap district, Carroll County, Virginia",035,93551,51
+489.0,"Laurel Fork district, Carroll County, Virginia",035,94175,51
+553.0,"Galax city, Galax city, Virginia",640,93675,51
+627.0,"Harrison district, Washington County, Virginia",191,93855,51
+567.0,"Jefferson district, Washington County, Virginia",191,94087,51
+637.0,"Monroe district, Washington County, Virginia",191,94727,51
+604.0,"Madison district, Washington County, Virginia",191,94463,51
+719.0,"Wilson district, Washington County, Virginia",191,96415,51
+588.0,"Taylor district, Washington County, Virginia",191,96047,51
+551.0,"Tyler district, Washington County, Virginia",191,96143,51
+748.0,"Montross district, Westmoreland County, Virginia",193,94751,51
+829.0,"Cople district, Westmoreland County, Virginia",193,90976,51
+1088.0,"Washington district, Westmoreland County, Virginia",193,96255,51
+960.0,"District 4, Northumberland County, Virginia",133,91709,51
+738.0,"District 3, Northumberland County, Virginia",133,91559,51
+685.0,"District 1, Northumberland County, Virginia",133,91259,51
+908.0,"District 2, Northumberland County, Virginia",133,91409,51
+998.0,"District 5, Northumberland County, Virginia",133,91859,51
+552.0,"Robinson district, Pulaski County, Virginia",155,95391,51
+655.0,"Ingles district, Pulaski County, Virginia",155,93967,51
+625.0,"Massie district, Pulaski County, Virginia",155,94551,51
+783.0,"Cloyd district, Pulaski County, Virginia",155,90904,51
+609.0,"Draper district, Pulaski County, Virginia",155,93399,51
+1112.0,"Shenandoah district, Warren County, Virginia",187,95663,51
+1150.0,"Fork district, Warren County, Virginia",187,93599,51
+1018.0,"South River district, Warren County, Virginia",187,95807,51
+1182.0,"Happy Creek district, Warren County, Virginia",187,93831,51
+1120.0,"North River district, Warren County, Virginia",187,94919,51
+1792.0,"Alexandria city, Alexandria city, Virginia",510,90020,51
+635.0,"Danville city, Danville city, Virginia",590,91108,51
+1184.0,"Fredericksburg city, Fredericksburg city, Virginia",630,93651,51
+1134.0,"Hampton city, Hampton city, Virginia",650,93827,51
+735.0,"District 5, Amherst County, Virginia",009,91800,51
+856.0,"District 3, Amherst County, Virginia",009,91500,51
+722.0,"District 2, Amherst County, Virginia",009,91350,51
+672.0,"District 1, Amherst County, Virginia",009,91200,51
+775.0,"District 4, Amherst County, Virginia",009,91650,51
+2037.0,"Arlington, Arlington County, Virginia",013,90072,51
+781.0,"Warm Springs district, Bath County, Virginia",017,96239,51
+658.0,"Williamsville district, Bath County, Virginia",017,96399,51
+505.0,"Cedar Creek district, Bath County, Virginia",017,90672,51
+752.0,"Valley Springs district, Bath County, Virginia",017,96167,51
+513.0,"Millboro district, Bath County, Virginia",017,94695,51
+822.0,"Hopewell city, Hopewell city, Virginia",670,93915,51
+567.0,"North Grundy district, Buchanan County, Virginia",027,94903,51
+405.0,"Hurricane district, Buchanan County, Virginia",027,93951,51
+320.0,"Knox district, Buchanan County, Virginia",027,94151,51
+425.0,"Rock Lick district, Buchanan County, Virginia",027,95415,51
+530.0,"South Grundy district, Buchanan County, Virginia",027,95775,51
+478.0,"Prater district, Buchanan County, Virginia",027,95167,51
+399.0,"Garden district, Buchanan County, Virginia",027,93679,51
+1053.0,"Newport News city, Newport News city, Virginia",700,94851,51
+1322.0,"Shawnee district, Frederick County, Virginia",069,95647,51
+1012.0,"Stonewall district, Frederick County, Virginia",069,95927,51
+1063.0,"Back Creek district, Frederick County, Virginia",069,90120,51
+1139.0,"Gainesboro district, Frederick County, Virginia",069,93663,51
+1136.0,"Opequon district, Frederick County, Virginia",069,94967,51
+1477.0,"Falmouth district, Stafford County, Virginia",179,93535,51
+2100.0,"Hartwood district, Stafford County, Virginia",179,93863,51
+1438.0,"George Washington district, Stafford County, Virginia",179,93687,51
+1755.0,"Aquia district, Stafford County, Virginia",179,90064,51
+2112.0,"Rock Hill district, Stafford County, Virginia",179,95407,51
+1607.0,"Griffis-Widewater district, Stafford County, Virginia",179,93783,51
+402.0,"Northern district, Tazewell County, Virginia",185,94887,51
+639.0,"Western district, Tazewell County, Virginia",185,96295,51
+473.0,"Northwestern district, Tazewell County, Virginia",185,94927,51
+676.0,"Southern district, Tazewell County, Virginia",185,95767,51
+552.0,"Eastern district, Tazewell County, Virginia",185,93439,51
+732.0,"Buena Vista city, Buena Vista city, Virginia",530,90556,51
+2295.0,"Falls Church city, Falls Church city, Virginia",610,93531,51
+1722.0,"Manassas Park city, Manassas Park city, Virginia",685,94476,51
+887.0,"Petersburg city, Petersburg city, Virginia",730,95035,51
+1564.0,"Poquoson city, Poquoson city, Virginia",735,95115,51
+561.0,"Courthouse district, Sussex County, Virginia",183,91000,51
+643.0,"Henry district, Sussex County, Virginia",183,93895,51
+994.0,"Newville district, Sussex County, Virginia",183,94871,51
+581.0,"Stony Creek district, Sussex County, Virginia",183,95975,51
+796.0,"Wakefield district, Sussex County, Virginia",183,96207,51
+720.0,"Waverly district, Sussex County, Virginia",183,96263,51
+1971.0,"Fairfax city, Fairfax city, Virginia",600,93507,51
+878.0,"Waynesboro city, Waynesboro city, Virginia",820,96275,51
+1577.0,"Manassas city, Manassas city, Virginia",683,94474,51
+823.0,"Roanoke city, Roanoke city, Virginia",770,95363,51
+879.0,"Salem city, Salem city, Virginia",775,95547,51
+1336.0,"Suffolk city, Suffolk city, Virginia",800,95987,51
+1105.0,"Norfolk city, Norfolk city, Virginia",710,94875,51
+532.0,"Madison district, Charlotte County, Virginia",037,94431,51
+663.0,"Bacon district, Charlotte County, Virginia",037,90128,51
+486.0,"Central district, Charlotte County, Virginia",037,90712,51
+663.0,"Walton district, Charlotte County, Virginia",037,96223,51
+556.0,"Roanoke district, Charlotte County, Virginia",037,95351,51
+272.0,"Midway district, Charlotte County, Virginia",037,94687,51
+1159.0,"Dale district, Chesterfield County, Virginia",041,91088,51
+1173.0,"Bermuda district, Chesterfield County, Virginia",041,90248,51
+1283.0,"Clover Hill district, Chesterfield County, Virginia",041,90896,51
+1440.0,"Matoaca district, Chesterfield County, Virginia",041,94575,51
+1291.0,"Midlothian district, Chesterfield County, Virginia",041,94679,51
+2286.0,"Springfield district, Fairfax County, Virginia",059,95847,51
+1725.0,"Mason district, Fairfax County, Virginia",059,94543,51
+2050.0,"Hunter Mill district, Fairfax County, Virginia",059,93943,51
+1983.0,"Mount Vernon district, Fairfax County, Virginia",059,94783,51
+2348.0,"Dranesville district, Fairfax County, Virginia",059,93391,51
+2041.0,"Braddock district, Fairfax County, Virginia",059,90464,51
+1896.0,"Lee district, Fairfax County, Virginia",059,94207,51
+2096.0,"Sully district, Fairfax County, Virginia",059,95999,51
+1935.0,"Providence district, Fairfax County, Virginia",059,95191,51
+872.0,"Windsor district, Isle of Wight County, Virginia",093,96431,51
+839.0,"Hardy district, Isle of Wight County, Virginia",093,93839,51
+1549.0,"Smithfield district, Isle of Wight County, Virginia",093,95727,51
+1444.0,"Newport district, Isle of Wight County, Virginia",093,94839,51
+823.0,"Carrsville district, Isle of Wight County, Virginia",093,90616,51
+1369.0,"Stonehouse district, James City County, Virginia",095,95911,51
+1218.0,"Jamestown district, James City County, Virginia",095,94063,51
+1175.0,"Roberts district, James City County, Virginia",095,95375,51
+1527.0,"Berkeley district, James City County, Virginia",095,90224,51
+1235.0,"Powhatan district, James City County, Virginia",095,95159,51
+511.0,"Lebanon district, Russell County, Virginia",167,94191,51
+422.0,"New Garden district, Russell County, Virginia",167,94831,51
+425.0,"Castlewood district, Russell County, Virginia",167,90632,51
+883.0,"Franklin city, Franklin city, Virginia",620,93643,51
+485.0,"Royal Oak district, Smyth County, Virginia",173,95479,51
+518.0,"Saltville district, Smyth County, Virginia",173,95551,51
+660.0,"Chilhowie district, Smyth County, Virginia",173,90832,51
+520.0,"North Fork district, Smyth County, Virginia",173,94895,51
+516.0,"Rye Valley district, Smyth County, Virginia",173,95511,51
+604.0,"Park district, Smyth County, Virginia",173,94991,51
+573.0,"Atkins district, Smyth County, Virginia",173,90104,51
+1127.0,"Charlottesville city, Charlottesville city, Virginia",540,90780,51
+779.0,"Lexington city, Lexington city, Virginia",678,94275,51
+871.0,"Sunburst district, Campbell County, Virginia",031,96015,51

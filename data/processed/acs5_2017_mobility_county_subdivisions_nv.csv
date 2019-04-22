@@ -1,0 +1,72 @@
+geoid,name,total,same_house,moved_within_county,moved_from_different_county_in_same_state,moved_from_different_state,moved_from_abroad,county,county subdivision,state
+3200194238,"Dixie Valley CCD, Churchill County, Nevada",77.0,77.0,0.0,0.0,0.0,0.0,001,94238,32
+3200194308,"Fallon CCD, Churchill County, Nevada",23656.0,18705.0,2670.0,802.0,1379.0,100.0,001,94308,32
+3200194154,"Carson Sink CCD, Churchill County, Nevada",0.0,0.0,0.0,0.0,0.0,0.0,001,94154,32
+3200594378,"Genoa-Jacks Valley CCD, Douglas County, Nevada",8464.0,7172.0,271.0,651.0,370.0,0.0,005,94378,32
+3200594658,"Pine Nut CCD, Douglas County, Nevada",794.0,788.0,0.0,0.0,6.0,0.0,005,94658,32
+3200594952,"Zephyr Cove CCD, Douglas County, Nevada",5210.0,4590.0,187.0,85.0,299.0,49.0,005,94952,32
+3200594364,"Gardnerville-Minden CCD, Douglas County, Nevada",30496.0,25790.0,2588.0,724.0,1367.0,27.0,005,94364,32
+3200594826,"Topaz Lake CCD, Douglas County, Nevada",2326.0,1890.0,218.0,63.0,152.0,3.0,005,94826,32
+3201594070,"Battle Mountain CCD, Lander County, Nevada",5328.0,4285.0,865.0,40.0,98.0,40.0,015,94070,32
+3201594042,"Austin CCD, Lander County, Nevada",411.0,326.0,1.0,84.0,0.0,0.0,015,94042,32
+3202794518,"Lovelock CCD, Pershing County, Nevada",5105.0,4325.0,211.0,496.0,73.0,0.0,027,94518,32
+3202794448,"Imlay CCD, Pershing County, Nevada",1509.0,1359.0,18.0,132.0,0.0,0.0,027,94448,32
+3201394546,"McDermitt CCD, Humboldt County, Nevada",1290.0,1066.0,29.0,11.0,134.0,50.0,013,94546,32
+3200994420,"Goldfield CCD, Esmeralda County, Nevada",553.0,444.0,41.0,38.0,30.0,0.0,009,94420,32
+3201194098,"Beowawe CCD, Eureka County, Nevada",498.0,385.0,113.0,0.0,0.0,0.0,011,94098,32
+3201194294,"Eureka CCD, Eureka County, Nevada",1230.0,1100.0,74.0,37.0,19.0,0.0,011,94294,32
+3201394406,"Golconda CCD, Humboldt County, Nevada",1432.0,1172.0,187.0,34.0,39.0,0.0,013,94406,32
+3202194588,"Mina CCD, Mineral County, Nevada",116.0,108.0,0.0,0.0,8.0,0.0,021,94588,32
+3201394798,"Summit Lake CCD, Humboldt County, Nevada",113.0,93.0,0.0,20.0,0.0,0.0,013,94798,32
+3201394910,"Winnemucca CCD, Humboldt County, Nevada",13800.0,11624.0,1002.0,724.0,395.0,55.0,013,94910,32
+3202194434,"Hawthorne CCD, Mineral County, Nevada",3207.0,2941.0,126.0,56.0,84.0,0.0,021,94434,32
+3202194868,"Walker River CCD, Mineral County, Nevada",1106.0,965.0,13.0,117.0,11.0,0.0,021,94868,32
+3203394168,"Cherry Creek CCD, White Pine County, Nevada",19.0,19.0,0.0,0.0,0.0,0.0,033,94168,32
+3203394280,"Ely CCD, White Pine County, Nevada",5853.0,4971.0,573.0,183.0,117.0,9.0,033,94280,32
+3203394560,"McGill CCD, White Pine County, Nevada",1537.0,1388.0,136.0,0.0,13.0,0.0,033,94560,32
+3203394532,"Lund CCD, White Pine County, Nevada",357.0,338.0,0.0,15.0,4.0,0.0,033,94532,32
+3203394742,"Ruth CCD, White Pine County, Nevada",1868.0,1360.0,51.0,444.0,13.0,0.0,033,94742,32
+3203394056,"Baker CCD, White Pine County, Nevada",164.0,164.0,0.0,0.0,0.0,0.0,033,94056,32
+3200794882,"Wells CCD, Elko County, Nevada",2190.0,1843.0,228.0,70.0,49.0,0.0,007,94882,32
+3200794476,"Jackpot CCD, Elko County, Nevada",1485.0,1116.0,164.0,12.0,193.0,0.0,007,94476,32
+3200794896,"West Wendover CCD, Elko County, Nevada",4291.0,3323.0,684.0,60.0,174.0,50.0,007,94896,32
+3200794266,"Elko CCD, Elko County, Nevada",39828.0,33624.0,4127.0,794.0,1240.0,43.0,007,94266,32
+3200794602,"Montello CCD, Elko County, Nevada",145.0,145.0,0.0,0.0,0.0,0.0,007,94602,32
+3200794126,"Carlin CCD, Elko County, Nevada",2330.0,1908.0,254.0,137.0,29.0,2.0,007,94126,32
+3200794490,"Jarbidge CCD, Elko County, Nevada",75.0,61.0,0.0,0.0,14.0,0.0,007,94490,32
+3200794616,"Mountain City CCD, Elko County, Nevada",1249.0,1104.0,84.0,34.0,27.0,0.0,007,94616,32
+3201794014,"Alamo CCD, Lincoln County, Nevada",1218.0,1113.0,0.0,65.0,40.0,0.0,017,94014,32
+3201794112,"Caliente CCD, Lincoln County, Nevada",1057.0,950.0,29.0,78.0,0.0,0.0,017,94112,32
+3201794672,"Pioche CCD, Lincoln County, Nevada",2890.0,2298.0,110.0,370.0,95.0,17.0,017,94672,32
+3202394028,"Amargosa Valley CCD, Nye County, Nevada",1540.0,1155.0,253.0,90.0,42.0,0.0,023,94028,32
+3202394728,"Round Mountain CCD, Nye County, Nevada",1752.0,1674.0,57.0,13.0,8.0,0.0,023,94728,32
+3202394644,"Pahrump CCD, Nye County, Nevada",35569.0,30305.0,2379.0,873.0,1968.0,44.0,023,94644,32
+3202394938,"Yucca Flat CCD, Nye County, Nevada",0.0,0.0,0.0,0.0,0.0,0.0,023,94938,32
+3202394252,"Duckwater CCD, Nye County, Nevada",423.0,384.0,6.0,16.0,17.0,0.0,023,94252,32
+3202994196,"Clark CCD, Storey County, Nevada",1210.0,1103.0,0.0,76.0,31.0,0.0,029,94196,32
+3202394350,"Gabbs CCD, Nye County, Nevada",385.0,296.0,5.0,4.0,80.0,0.0,023,94350,32
+3202394084,"Beatty CCD, Nye County, Nevada",775.0,775.0,0.0,0.0,0.0,0.0,023,94084,32
+3202394812,"Tonopah CCD, Nye County, Nevada",2418.0,1935.0,182.0,220.0,81.0,0.0,023,94812,32
+3202994854,"Virginia City CCD, Storey County, Nevada",2647.0,2106.0,22.0,260.0,259.0,0.0,029,94854,32
+3203194440,"High Desert CCD, Washoe County, Nevada",315.0,247.0,0.0,15.0,53.0,0.0,031,94440,32
+3203194804,"Sun Valley CCD, Washoe County, Nevada",22222.0,19223.0,2129.0,372.0,444.0,54.0,031,94804,32
+3203194709,"Reno Southeast CCD, Washoe County, Nevada",75459.0,58930.0,12344.0,746.0,3017.0,422.0,031,94709,32
+3203194686,"Pyramid Lake CCD, Washoe County, Nevada",1471.0,1232.0,123.0,68.0,48.0,0.0,031,94686,32
+3203194840,"Verdi CCD, Washoe County, Nevada",8098.0,6851.0,492.0,58.0,674.0,23.0,031,94840,32
+3203194871,"Warm Springs-Truckee Canyon CCD, Washoe County, Nevada",55719.0,46161.0,6446.0,501.0,2528.0,83.0,031,94871,32
+3203194712,"Reno Southwest CCD, Washoe County, Nevada",57916.0,47742.0,6843.0,550.0,2587.0,194.0,031,94712,32
+3203194635,"North Valleys CCD, Washoe County, Nevada",54775.0,44897.0,6600.0,889.0,2199.0,190.0,031,94635,32
+3203194794,"Sparks CCD, Washoe County, Nevada",57983.0,47460.0,7279.0,793.0,2192.0,259.0,031,94794,32
+3203194874,"Washoe Valley CCD, Washoe County, Nevada",12625.0,11448.0,783.0,81.0,281.0,32.0,031,94874,32
+3203194703,"Reno North CCD, Washoe County, Nevada",84578.0,61585.0,15118.0,2524.0,4312.0,1039.0,031,94703,32
+3203194462,"Incline Village CCD, Washoe County, Nevada",8806.0,7503.0,556.0,92.0,572.0,83.0,031,94462,32
+3200394504,"Las Vegas CCD, Clark County, Nevada",1881422.0,1506980.0,274268.0,3891.0,84105.0,12178.0,003,94504,32
+3200394182,"Clark CCD, Clark County, Nevada",207015.0,170112.0,24507.0,722.0,10649.0,1025.0,003,94182,32
+3251094140,"Carson City CCD, Carson City, Nevada",53820.0,42843.0,4842.0,3328.0,2648.0,159.0,510,94140,32
+3201994224,"Dayton CCD, Lyon County, Nevada",15814.0,13631.0,573.0,766.0,816.0,28.0,019,94224,32
+3201994777,"Silver Springs CCD, Lyon County, Nevada",7404.0,6730.0,223.0,297.0,137.0,17.0,019,94777,32
+3201994784,"Smith Valley CCD, Lyon County, Nevada",1658.0,1347.0,0.0,0.0,311.0,0.0,019,94784,32
+3201994322,"Fernley CCD, Lyon County, Nevada",19287.0,15468.0,1527.0,1218.0,1032.0,42.0,019,94322,32
+3201994924,"Yerington CCD, Lyon County, Nevada",7724.0,5904.0,1164.0,296.0,360.0,0.0,019,94924,32
+3202394701,"Ralston Valley CCD, Nye County, Nevada",72.0,72.0,0.0,0.0,0.0,0.0,023,94701,32
+3200994770,"Silver Peak CCD, Esmeralda County, Nevada",541.0,528.0,0.0,0.0,13.0,0.0,009,94770,32

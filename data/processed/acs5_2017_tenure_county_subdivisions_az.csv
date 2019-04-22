@@ -1,0 +1,81 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+0401992040,"Marana CCD, Pima County, Arizona",12392.0,10231.0,2161.0,019,92040,04
+0401990051,"Ajo CCD, Pima County, Arizona",1503.0,964.0,539.0,019,90051,04
+0401993570,"Tucson CCD, Pima County, Arizona",349216.0,207850.0,141366.0,019,93570,04
+0401990153,"Arivaca CCD, Pima County, Arizona",33475.0,26543.0,6932.0,019,90153,04
+0401391377,"Gila Bend CCD, Maricopa County, Arizona",6084.0,4742.0,1342.0,013,91377,04
+0401390561,"Chandler CCD, Maricopa County, Arizona",147741.0,104197.0,43544.0,013,90561,04
+0401392601,"Phoenix CCD, Maricopa County, Arizona",1159346.0,659204.0,500142.0,013,92601,04
+0401390867,"Deer Valley CCD, Maricopa County, Arizona",98909.0,77846.0,21063.0,013,90867,04
+0401393009,"St. Johns CCD, Maricopa County, Arizona",845.0,507.0,338.0,013,93009,04
+0400993111,"San Carlos CCD, Graham County, Arizona",897.0,554.0,343.0,009,93111,04
+0401393774,"Wickenburg CCD, Maricopa County, Arizona",47690.0,40841.0,6849.0,013,93774,04
+0401390459,"Buckeye CCD, Maricopa County, Arizona",21772.0,15000.0,6772.0,013,90459,04
+0400792570,"Payson CCD, Gila County, Arizona",10430.0,7935.0,2495.0,007,92570,04
+0400793927,"Winkelman CCD, Gila County, Arizona",455.0,333.0,122.0,007,93927,04
+0401393060,"Salt River CCD, Maricopa County, Arizona",2749.0,2157.0,592.0,013,93060,04
+0400791495,"Globe-Miami CCD, Gila County, Arizona",7132.0,5011.0,2121.0,007,91495,04
+0400990357,"Bonita-Klondyke CCD, Graham County, Arizona",404.0,278.0,126.0,009,90357,04
+0400992652,"Pima CCD, Graham County, Arizona",1393.0,1117.0,276.0,009,92652,04
+0400992907,"Safford CCD, Graham County, Arizona",8282.0,5520.0,2762.0,009,92907,04
+0402392295,"Nogales CCD, Santa Cruz County, Arizona",14165.0,9302.0,4863.0,023,92295,04
+0402392550,"Patagonia CCD, Santa Cruz County, Arizona",1403.0,1166.0,237.0,023,92550,04
+0400390255,"Benson CCD, Cochise County, Arizona",5266.0,3920.0,1346.0,003,90255,04
+0400393182,"Sierra Vista CCD, Cochise County, Arizona",19951.0,11368.0,8583.0,003,93182,04
+0400393825,"Willcox CCD, Cochise County, Arizona",4040.0,2967.0,1073.0,003,93825,04
+0400390969,"Douglas CCD, Cochise County, Arizona",5033.0,3449.0,1584.0,003,90969,04
+0400390306,"Bisbee CCD, Cochise County, Arizona",12684.0,10449.0,2235.0,003,90306,04
+0401292480,"Parker CCD, La Paz County, Arizona",8798.0,6533.0,2265.0,012,92480,04
+0400391122,"Elfrida CCD, Cochise County, Arizona",1453.0,1155.0,298.0,003,91122,04
+0400390408,"Bowie CCD, Cochise County, Arizona",733.0,570.0,163.0,003,90408,04
+0400191275,"Fort Apache CCD, Apache County, Arizona",126.0,53.0,73.0,001,91275,04
+0400190918,"Dennehotso CCD, Apache County, Arizona",388.0,373.0,15.0,001,90918,04
+0400193315,"Sweetwater CCD, Apache County, Arizona",1265.0,1043.0,222.0,001,93315,04
+0400190612,"Chinle CCD, Apache County, Arizona",5315.0,3914.0,1401.0,001,90612,04
+0400191326,"Fort Defiance CCD, Apache County, Arizona",6152.0,4666.0,1486.0,001,91326,04
+0400191071,"Eagar-Springerville CCD, Apache County, Arizona",2868.0,2255.0,613.0,001,91071,04
+0400192805,"Puerco CCD, Apache County, Arizona",672.0,476.0,196.0,001,92805,04
+0400192958,"St. Johns CCD, Apache County, Arizona",2744.0,2384.0,360.0,001,92958,04
+0400593519,"Tuba City CCD, Coconino County, Arizona",9045.0,6449.0,2596.0,005,93519,04
+0400591530,"Havasupai CCD, Coconino County, Arizona",2.0,2.0,0.0,005,91530,04
+0400591683,"Hualapai CCD, Coconino County, Arizona",0.0,0.0,0.0,005,91683,04
+0400591581,"Hopi CCD, Coconino County, Arizona",10.0,10.0,0.0,005,91581,04
+0400593876,"Williams CCD, Coconino County, Arizona",4119.0,2695.0,1424.0,005,93876,04
+0402592754,"Prescott CCD, Yavapai County, Arizona",53335.0,36394.0,16941.0,025,92754,04
+0402590765,"Congress CCD, Yavapai County, Arizona",4112.0,3449.0,663.0,025,90765,04
+0402592193,"Mingus Mountain CCD, Yavapai County, Arizona",16083.0,11255.0,4828.0,025,92193,04
+0402793978,"Yuma CCD, Yuma County, Arizona",53564.0,35375.0,18189.0,027,93978,04
+0402793672,"Wellton CCD, Yuma County, Arizona",2842.0,2063.0,779.0,027,93672,04
+0402793264,"Somerton CCD, Yuma County, Arizona",15264.0,10943.0,4321.0,027,93264,04
+0401190663,"Clifton CCD, Greenlee County, Arizona",2317.0,732.0,1585.0,011,90663,04
+0401191020,"Duncan CCD, Greenlee County, Arizona",1047.0,854.0,193.0,011,91020,04
+0402191173,"Eloy CCD, Pinal County, Arizona",9103.0,5958.0,3145.0,021,91173,04
+0401793213,"Snowflake CCD, Navajo County, Arizona",17672.0,12652.0,5020.0,017,93213,04
+0401791632,"Hopi CCD, Navajo County, Arizona",2105.0,1511.0,594.0,017,91632,04
+0401791785,"Indian Wells CCD, Navajo County, Arizona",1935.0,1450.0,485.0,017,91785,04
+0402191224,"Florence CCD, Pinal County, Arizona",8201.0,6221.0,1980.0,021,91224,04
+0402192346,"North Pinal CCD, Pinal County, Arizona",60551.0,45883.0,14668.0,021,92346,04
+0402190816,"Coolidge CCD, Pinal County, Arizona",5294.0,3347.0,1947.0,021,90816,04
+0402192091,"Maricopa-Stanfield CCD, Pinal County, Arizona",17169.0,12594.0,4575.0,021,92091,04
+0402191428,"Gila River CCD, Pinal County, Arizona",2518.0,820.0,1698.0,021,91428,04
+0402190510,"Casa Grande CCD, Pinal County, Arizona",21137.0,13716.0,7421.0,021,90510,04
+0402193162,"San Manuel CCD, Pinal County, Arizona",9437.0,8319.0,1118.0,021,93162,04
+0401591885,"Kingman CCD, Mohave County, Arizona",27744.0,20354.0,7390.0,015,91885,04
+0402590204,"Ash Fork CCD, Yavapai County, Arizona",1062.0,794.0,268.0,025,90204,04
+0401393472,"Tonto National Forest CCD, Maricopa County, Arizona",4397.0,4022.0,375.0,013,93472,04
+0402590484,"Camp Verde-Sedona CCD, Yavapai County, Arizona",16871.0,12255.0,4616.0,025,90484,04
+0400591198,"Flagstaff CCD, Coconino County, Arizona",33639.0,18564.0,15075.0,005,91198,04
+0400591838,"Kaibab Plateau CCD, Coconino County, Arizona",773.0,515.0,258.0,005,91838,04
+0401590470,"Bullhead City CCD, Mohave County, Arizona",27906.0,17701.0,10205.0,015,90470,04
+0401592340,"North Mohave CCD, Mohave County, Arizona",2548.0,1447.0,1101.0,015,92340,04
+0401591964,"Lake Havasu City CCD, Mohave County, Arizona",25704.0,17834.0,7870.0,015,91964,04
+0401791279,"Fort Apache CCD, Navajo County, Arizona",2899.0,1722.0,1177.0,017,91279,04
+0401793952,"Winslow-Holbrook CCD, Navajo County, Arizona",5162.0,3153.0,2009.0,017,93952,04
+0401791860,"Kayenta CCD, Navajo County, Arizona",2678.0,1602.0,1076.0,017,91860,04
+0400793109,"San Carlos CCD, Gila County, Arizona",1435.0,773.0,662.0,007,93109,04
+0400793470,"Tonto Basin CCD, Gila County, Arizona",1615.0,1316.0,299.0,007,93470,04
+0400791277,"Fort Apache CCD, Gila County, Arizona",518.0,361.0,157.0,007,91277,04
+0402590840,"Cordes Lakes-Mayer CCD, Yavapai County, Arizona",2880.0,2536.0,344.0,025,90840,04
+0401792703,"Piñon CCD, Navajo County, Arizona",1800.0,1505.0,295.0,017,92703,04
+0402193377,"Tohono O'odham Nation CCD, Pinal County, Arizona",103.0,70.0,33.0,021,93377,04
+0401993375,"Tohono O'odham Nation CCD, Pima County, Arizona",1944.0,1249.0,695.0,019,93375,04

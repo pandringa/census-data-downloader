@@ -1,0 +1,94 @@
+geoid,name,total,native,foreign_born,county,county subdivision,state
+4902591591,"Kanab CCD, Kane County, Utah",5862.0,5702.0,160.0,025,91591,49
+4905390817,"Enterprise CCD, Washington County, Utah",2164.0,2133.0,31.0,053,90817,49
+4905392924,"St. George CCD, Washington County, Utah",125444.0,117470.0,7974.0,053,92924,49
+4902592494,"Orderville CCD, Kane County, Utah",1384.0,1360.0,24.0,025,92494,49
+4904392580,"Park City CCD, Summit County, Utah",26954.0,23826.0,3128.0,043,92580,49
+4904391548,"Kamas CCD, Summit County, Utah",6784.0,6339.0,445.0,043,91548,49
+4904390430,"Coalville CCD, Summit County, Utah",5993.0,5575.0,418.0,043,90430,49
+4901993526,"Uintah and Ouray CCD, Grand County, Utah",0.0,0.0,0.0,019,93526,49
+4901991935,"Moab CCD, Grand County, Utah",9239.0,8744.0,495.0,019,91935,49
+4903190387,"Circleville CCD, Piute County, Utah",1244.0,1230.0,14.0,031,90387,49
+4903191849,"Marysvale CCD, Piute County, Utah",616.0,616.0,0.0,031,91849,49
+4903392752,"Randolph-Woodruff CCD, Rich County, Utah",1199.0,1179.0,20.0,033,92752,49
+4903391032,"Garden City-Laketown CCD, Rich County, Utah",1108.0,1106.0,2.0,033,91032,49
+4905193612,"Uintah and Ouray CCD, Wasatch County, Utah",21.0,21.0,0.0,051,93612,49
+4905193139,"Soldier Summit CCD, Wasatch County, Utah",0.0,0.0,0.0,051,93139,49
+4900190086,"Beaver CCD, Beaver County, Utah",3658.0,3555.0,103.0,001,90086,49
+4900191892,"Milford-Minersville CCD, Beaver County, Utah",2756.0,2512.0,244.0,001,91892,49
+4900390258,"Brigham City CCD, Box Elder County, Utah",28139.0,27303.0,836.0,003,90258,49
+4900393440,"Tremonton CCD, Box Elder County, Utah",21124.0,20305.0,819.0,003,93440,49
+4900393827,"West Box Elder CCD, Box Elder County, Utah",181.0,163.0,18.0,003,93827,49
+4900391419,"Howell-Snowville CCD, Box Elder County, Utah",2738.0,2703.0,35.0,003,91419,49
+4902192623,"Parowan CCD, Iron County, Utah",4010.0,3820.0,190.0,021,92623,49
+4902190129,"Beryl-Newcastle CCD, Iron County, Utah",662.0,645.0,17.0,021,90129,49
+4902190344,"Cedar City CCD, Iron County, Utah",43832.0,42349.0,1483.0,021,90344,49
+4903992150,"Mount Pleasant-Moroni CCD, Sanpete County, Utah",11720.0,11321.0,399.0,039,92150,49
+4903991204,"Gunnison CCD, Sanpete County, Utah",5735.0,5293.0,442.0,039,91204,49
+4903990860,"Ephraim-Manti CCD, Sanpete County, Utah",11437.0,11037.0,400.0,039,90860,49
+4904192838,"Richfield CCD, Sevier County, Utah",11511.0,11325.0,186.0,041,92838,49
+4904191978,"Monroe CCD, Sevier County, Utah",5076.0,4931.0,145.0,041,91978,49
+4904192967,"Salina CCD, Sevier County, Utah",4374.0,4281.0,93.0,041,92967,49
+4904991118,"Goshen CCD, Utah County, Utah",4354.0,4125.0,229.0,049,91118,49
+4904990043,"American Fork-Pleasant Grove CCD, Utah County, Utah",136498.0,130793.0,5705.0,049,90043,49
+4904992709,"Provo-Orem CCD, Utah County, Utah",213598.0,190113.0,23485.0,049,92709,49
+4904991634,"Lehi CCD, Utah County, Utah",95160.0,90522.0,4638.0,049,91634,49
+4904993268,"Spanish Fork-Payson CCD, Utah County, Utah",77854.0,73590.0,4264.0,049,93268,49
+4904993311,"Springville-Mapleton CCD, Utah County, Utah",49032.0,45649.0,3383.0,049,93311,49
+4905792322,"Ogden CCD, Weber County, Utah",218501.0,202210.0,16291.0,057,92322,49
+4905792365,"Ogden Valley CCD, Weber County, Utah",6817.0,6679.0,138.0,057,92365,49
+4902790516,"Delta CCD, Millard County, Utah",8114.0,7341.0,773.0,027,90516,49
+4902791075,"Garrison-Sevier Lake CCD, Millard County, Utah",27.0,27.0,0.0,027,91075,49
+4902790989,"Fillmore CCD, Millard County, Utah",4510.0,4220.0,290.0,027,90989,49
+4904593397,"Tooele-Grantsville CCD, Tooele County, Utah",60487.0,58454.0,2033.0,045,93397,49
+4904590602,"Dugway-Wendover CCD, Tooele County, Utah",1866.0,1371.0,495.0,045,90602,49
+4905391462,"Hurricane CCD, Washington County, Utah",27969.0,26931.0,1038.0,053,91462,49
+4901392279,"North Duchesne CCD, Duchesne County, Utah",7.0,6.0,1.0,013,92279,49
+4901393225,"South Duchesne CCD, Duchesne County, Utah",0.0,0.0,0.0,013,93225,49
+4901390559,"Duchesne CCD, Duchesne County, Utah",4471.0,4340.0,131.0,013,90559,49
+4901392881,"Roosevelt CCD, Duchesne County, Utah",15781.0,15248.0,533.0,013,92881,49
+4903792408,"Oljato CCD, San Juan County, Utah",3082.0,3082.0,0.0,037,92408,49
+4903790215,"Blanding CCD, San Juan County, Utah",4536.0,4499.0,37.0,037,90215,49
+4903792021,"Monticello CCD, San Juan County, Utah",4013.0,3856.0,157.0,037,92021,49
+4903590473,"Cottonwood CCD, Salt Lake County, Utah",4300.0,4015.0,285.0,035,90473,49
+4903593010,"Salt Lake City CCD, Salt Lake County, Utah",994291.0,865827.0,128464.0,035,93010,49
+4903590774,"Emigration CCD, Salt Lake County, Utah",9172.0,8432.0,740.0,035,90774,49
+4903591806,"Magna CCD, Salt Lake County, Utah",30880.0,26733.0,4147.0,035,91806,49
+4903590172,"Bingham CCD, Salt Lake County, Utah",68057.0,64310.0,3747.0,035,90172,49
+4904793655,"Vernal CCD, Uintah County, Utah",30560.0,29742.0,818.0,047,93655,49
+4904793569,"Uintah and Ouray CCD, Uintah County, Utah",5783.0,5711.0,72.0,047,93569,49
+4900993870,"West Daggett CCD, Daggett County, Utah",571.0,559.0,12.0,009,93870,49
+4900990688,"East Daggett CCD, Daggett County, Utah",131.0,123.0,8.0,009,90688,49
+4901192236,"North Davis CCD, Davis County, Utah",214138.0,204510.0,9628.0,011,92236,49
+4901193182,"South Davis CCD, Davis County, Utah",120839.0,114856.0,5983.0,011,93182,49
+4905591720,"Loa CCD, Wayne County, Utah",2439.0,2344.0,95.0,055,91720,49
+4905591247,"Hanksville CCD, Wayne County, Utah",261.0,245.0,16.0,055,91247,49
+4900790645,"East Carbon CCD, Carbon County, Utah",1475.0,1452.0,23.0,007,90645,49
+4900792666,"Price CCD, Carbon County, Utah",15653.0,15185.0,468.0,007,92666,49
+4900791333,"Helper CCD, Carbon County, Utah",3384.0,3294.0,90.0,007,91333,49
+4901591161,"Green River CCD, Emery County, Utah",1066.0,978.0,88.0,015,91161,49
+4901590301,"Castle Dale-Huntington CCD, Emery County, Utah",7104.0,7038.0,66.0,015,90301,49
+4901590731,"Emery-Ferron CCD, Emery County, Utah",2240.0,2218.0,22.0,015,90731,49
+4902992107,"Morgan South CCD, Morgan County, Utah",1296.0,1255.0,41.0,029,92107,49
+4902992064,"Morgan North CCD, Morgan County, Utah",9718.0,9495.0,223.0,029,92064,49
+4900591677,"Lewiston CCD, Cache County, Utah",6664.0,6434.0,230.0,005,91677,49
+4900591505,"Hyrum CCD, Cache County, Utah",10097.0,9373.0,724.0,005,91505,49
+4900591763,"Logan CCD, Cache County, Utah",83270.0,76777.0,6493.0,005,91763,49
+4900593784,"Wellsville CCD, Cache County, Utah",6390.0,6281.0,109.0,005,93784,49
+4900593096,"Smithfield CCD, Cache County, Utah",13731.0,13105.0,626.0,005,93096,49
+4901793483,"Tropic CCD, Garfield County, Utah",1466.0,1368.0,98.0,017,93483,49
+4901792537,"Panguitch CCD, Garfield County, Utah",2331.0,2319.0,12.0,017,92537,49
+4901790903,"Escalante CCD, Garfield County, Utah",1070.0,1017.0,53.0,017,90903,49
+4902390946,"Eureka CCD, Juab County, Utah",519.0,514.0,5.0,023,90946,49
+4902392193,"Nephi CCD, Juab County, Utah",9947.0,9740.0,207.0,023,92193,49
+4902393913,"West Juab CCD, Juab County, Utah",228.0,221.0,7.0,023,93913,49
+4904592902,"Rush Valley CCD, Tooele County, Utah",1004.0,987.0,17.0,045,92902,49
+4900590635,"East Cache CCD, Cache County, Utah",136.0,136.0,0.0,005,90635,49
+4901790702,"East Garfield CCD, Garfield County, Utah",153.0,153.0,0.0,017,90702,49
+4903790280,"Casa del Eco Mesa-White Mesa CCD, San Juan County, Utah",3562.0,3538.0,24.0,037,90280,49
+4905792308,"Northwest Weber CCD, Weber County, Utah",18783.0,18265.0,518.0,057,92308,49
+4905191300,"Heber City East CCD, Wasatch County, Utah",12651.0,11682.0,969.0,051,91300,49
+4905191312,"Heber City West CCD, Wasatch County, Utah",8982.0,8562.0,420.0,051,91312,49
+4905192301,"North Wasatch CCD, Wasatch County, Utah",2815.0,2417.0,398.0,051,92301,49
+4905191308,"Heber City South CCD, Wasatch County, Utah",4837.0,4367.0,470.0,051,91308,49
+4901993356,"Thompson Springs CCD, Grand County, Utah",305.0,305.0,0.0,019,93356,49

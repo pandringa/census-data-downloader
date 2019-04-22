@@ -1,0 +1,306 @@
+geoid,name,total,same_house,moved_within_county,moved_from_different_county_in_same_state,moved_from_different_state,moved_from_abroad,county,county subdivision,state
+4000193250,"Stilwell East CCD, Adair County, Oklahoma",3224.0,2814.0,298.0,29.0,59.0,24.0,001,93250,40
+4000193796,"Westville CCD, Adair County, Oklahoma",2434.0,2257.0,57.0,0.0,120.0,0.0,001,93796,40
+4000193588,"Watts CCD, Adair County, Oklahoma",1470.0,1346.0,57.0,27.0,40.0,0.0,001,93588,40
+4000193263,"Stilwell West CCD, Adair County, Oklahoma",1814.0,1726.0,13.0,35.0,37.0,3.0,001,93263,40
+4013391612,"Konawa CCD, Seminole County, Oklahoma",1749.0,1543.0,82.0,108.0,16.0,0.0,133,91612,40
+4013392795,"Seminole South CCD, Seminole County, Oklahoma",1584.0,1355.0,73.0,91.0,65.0,0.0,133,92795,40
+4013393835,"Wewoka CCD, Seminole County, Oklahoma",4392.0,3825.0,307.0,238.0,22.0,0.0,133,93835,40
+4013392782,"Seminole North CCD, Seminole County, Oklahoma",8552.0,7448.0,563.0,408.0,125.0,8.0,133,92782,40
+4013793432,"Velma-Alma CCD, Stephens County, Oklahoma",1641.0,1537.0,45.0,51.0,8.0,0.0,137,93432,40
+4013791781,"Marlow CCD, Stephens County, Oklahoma",7049.0,6123.0,616.0,228.0,82.0,0.0,137,91781,40
+4013790650,"Comanche CCD, Stephens County, Oklahoma",5001.0,4505.0,295.0,139.0,46.0,16.0,137,90650,40
+4013790780,"Duncan CCD, Stephens County, Oklahoma",21811.0,18323.0,2334.0,653.0,474.0,27.0,137,90780,40
+4002591560,"Keyes CCD, Cimarron County, Oklahoma",316.0,288.0,22.0,0.0,6.0,0.0,025,91560,40
+4002590286,"Boise City CCD, Cimarron County, Oklahoma",1403.0,1285.0,91.0,18.0,9.0,0.0,025,90286,40
+4001193575,"Watonga CCD, Blaine County, Oklahoma",3065.0,2538.0,229.0,158.0,140.0,0.0,011,93575,40
+4001190416,"Canton CCD, Blaine County, Oklahoma",1284.0,1209.0,21.0,54.0,0.0,0.0,011,90416,40
+4001191170,"Geary CCD, Blaine County, Oklahoma",1388.0,1215.0,57.0,114.0,2.0,0.0,011,91170,40
+4001192392,"Okeene CCD, Blaine County, Oklahoma",1338.0,1145.0,147.0,23.0,23.0,0.0,011,92392,40
+4001990156,"Ardmore CCD, Carter County, Oklahoma",25651.0,21402.0,2483.0,764.0,884.0,118.0,019,90156,40
+4001993861,"Wilson CCD, Carter County, Oklahoma",2902.0,2555.0,186.0,103.0,49.0,9.0,019,93861,40
+4001990169,"Ardmore North CCD, Carter County, Oklahoma",1649.0,1480.0,119.0,39.0,11.0,0.0,019,90169,40
+4001991287,"Healdton North CCD, Carter County, Oklahoma",1094.0,1020.0,41.0,28.0,0.0,5.0,019,91287,40
+4001991274,"Healdton Central CCD, Carter County, Oklahoma",2618.0,2423.0,182.0,0.0,11.0,2.0,019,91274,40
+4002993705,"West Coal CCD, Coal County, Oklahoma",1328.0,1295.0,21.0,9.0,3.0,0.0,029,93705,40
+4002990871,"East Coal CCD, Coal County, Oklahoma",2588.0,2181.0,241.0,140.0,18.0,8.0,029,90871,40
+4005391625,"Lamont CCD, Grant County, Oklahoma",553.0,520.0,7.0,26.0,0.0,0.0,053,91625,40
+4005391820,"Medford CCD, Grant County, Oklahoma",1585.0,1347.0,98.0,96.0,44.0,0.0,053,91820,40
+4005393510,"Wakita CCD, Grant County, Oklahoma",394.0,382.0,2.0,10.0,0.0,0.0,053,93510,40
+4005393159,"Southwest Grant CCD, Grant County, Oklahoma",1411.0,1264.0,129.0,14.0,4.0,0.0,053,93159,40
+4005592275,"Northwest Greer CCD, Greer County, Oklahoma",241.0,200.0,21.0,20.0,0.0,0.0,055,92275,40
+4005591768,"Mangum CCD, Greer County, Oklahoma",2505.0,2185.0,185.0,82.0,44.0,9.0,055,91768,40
+4005591196,"Granite CCD, Greer County, Oklahoma",1732.0,1335.0,93.0,253.0,51.0,0.0,055,91196,40
+4007391586,"Kingfisher CCD, Kingfisher County, Oklahoma",6652.0,6105.0,484.0,57.0,6.0,0.0,073,91586,40
+4007391326,"Hennessey CCD, Kingfisher County, Oklahoma",2882.0,2561.0,166.0,125.0,30.0,0.0,073,91326,40
+4007392379,"Okarche-Cashion CCD, Kingfisher County, Oklahoma",2289.0,2179.0,41.0,59.0,10.0,0.0,073,92379,40
+4008792626,"Purcell CCD, McClain County, Oklahoma",13589.0,11927.0,521.0,981.0,123.0,37.0,087,92626,40
+4008790929,"East McClain CCD, McClain County, Oklahoma",949.0,906.0,21.0,15.0,7.0,0.0,087,90929,40
+4009190520,"Checotah CCD, McIntosh County, Oklahoma",8481.0,7843.0,291.0,251.0,89.0,7.0,091,90520,40
+4009191352,"Hitchita-Pierce CCD, McIntosh County, Oklahoma",1105.0,1068.0,15.0,5.0,17.0,0.0,091,91352,40
+4009191079,"Eufaula CCD, McIntosh County, Oklahoma",3300.0,2967.0,156.0,131.0,30.0,16.0,091,91079,40
+4009191248,"Hanna CCD, McIntosh County, Oklahoma",538.0,489.0,15.0,33.0,0.0,1.0,091,91248,40
+4009593081,"South Marshall CCD, Marshall County, Oklahoma",5908.0,5277.0,237.0,239.0,155.0,0.0,095,93081,40
+4009592210,"North Marshall CCD, Marshall County, Oklahoma",4723.0,4091.0,242.0,234.0,156.0,0.0,095,92210,40
+4009993770,"West Murray CCD, Murray County, Oklahoma",3611.0,3148.0,149.0,252.0,62.0,0.0,099,93770,40
+4009990962,"East Murray CCD, Murray County, Oklahoma",6387.0,5583.0,606.0,145.0,53.0,0.0,099,90962,40
+4010390234,"Billings CCD, Noble County, Oklahoma",660.0,561.0,56.0,21.0,22.0,0.0,103,90234,40
+4010392522,"Perry CCD, Noble County, Oklahoma",6576.0,5612.0,477.0,242.0,233.0,12.0,103,92522,40
+4010390975,"East Noble CCD, Noble County, Oklahoma",2064.0,1850.0,92.0,119.0,3.0,0.0,103,90975,40
+4010592353,"Nowata CCD, Nowata County, Oklahoma",3963.0,3322.0,432.0,178.0,31.0,0.0,105,92353,40
+4010592912,"South Coffeyville-Wann CCD, Nowata County, Oklahoma",1617.0,1537.0,36.0,16.0,28.0,0.0,105,92912,40
+4010591664,"Lenapah-Delaware CCD, Nowata County, Oklahoma",967.0,845.0,78.0,24.0,20.0,0.0,105,91664,40
+4011593913,"Wyandotte CCD, Ottawa County, Oklahoma",2223.0,1997.0,116.0,24.0,85.0,1.0,115,93913,40
+4011591846,"Miami CCD, Ottawa County, Oklahoma",12684.0,10755.0,1204.0,365.0,346.0,14.0,115,91846,40
+4011590039,"Afton-Fairland CCD, Ottawa County, Oklahoma",2981.0,2454.0,195.0,190.0,142.0,0.0,115,90039,40
+4013190533,"Chelsea CCD, Rogers County, Oklahoma",3408.0,2859.0,294.0,225.0,24.0,6.0,131,90533,40
+4013190585,"Claremore CCD, Rogers County, Oklahoma",30971.0,27027.0,2230.0,1258.0,425.0,31.0,131,90585,40
+4013191482,"Inola CCD, Rogers County, Oklahoma",4770.0,4311.0,175.0,186.0,65.0,33.0,131,91482,40
+4013190468,"Catoosa CCD, Rogers County, Oklahoma",19825.0,17533.0,911.0,1034.0,297.0,50.0,131,90468,40
+4013592678,"Roland CCD, Sequoyah County, Oklahoma",6192.0,5265.0,646.0,89.0,184.0,8.0,135,92678,40
+4013591911,"Muldrow CCD, Sequoyah County, Oklahoma",6830.0,5816.0,613.0,94.0,307.0,0.0,135,91911,40
+4013592730,"Sallisaw North CCD, Sequoyah County, Oklahoma",2873.0,2492.0,240.0,63.0,78.0,0.0,135,92730,40
+4013593445,"Vian CCD, Sequoyah County, Oklahoma",4942.0,4424.0,233.0,232.0,53.0,0.0,135,93445,40
+4013592717,"Sallisaw CCD, Sequoyah County, Oklahoma",5140.0,4051.0,697.0,195.0,197.0,0.0,135,92717,40
+4014590676,"Coweta CCD, Wagoner County, Oklahoma",41044.0,36405.0,1214.0,2751.0,644.0,30.0,145,90676,40
+4014593497,"Wagoner CCD, Wagoner County, Oklahoma",11556.0,9235.0,1356.0,784.0,141.0,40.0,145,93497,40
+4014593120,"South Wagoner CCD, Wagoner County, Oklahoma",2356.0,2190.0,67.0,83.0,16.0,0.0,145,93120,40
+4000390429,"Carmen CCD, Alfalfa County, Oklahoma",623.0,598.0,7.0,1.0,17.0,0.0,003,90429,40
+4000392015,"North Alfalfa CCD, Alfalfa County, Oklahoma",707.0,581.0,19.0,5.0,102.0,0.0,003,92015,40
+4000390546,"Cherokee CCD, Alfalfa County, Oklahoma",1774.0,1483.0,166.0,70.0,44.0,11.0,003,90546,40
+4000391313,"Helena CCD, Alfalfa County, Oklahoma",1346.0,1180.0,73.0,93.0,0.0,0.0,003,91313,40
+4015193198,"South Woods CCD, Woods County, Oklahoma",1645.0,1333.0,251.0,47.0,14.0,0.0,151,93198,40
+4015190091,"Alva CCD, Woods County, Oklahoma",5395.0,4391.0,401.0,369.0,234.0,0.0,151,90091,40
+4015193809,"West Woods CCD, Woods County, Oklahoma",423.0,370.0,22.0,2.0,29.0,0.0,151,93809,40
+4001590728,"Cyril-Cement CCD, Caddo County, Oklahoma",2038.0,1704.0,218.0,87.0,29.0,0.0,015,90728,40
+4001591456,"Hydro CCD, Caddo County, Oklahoma",1331.0,1226.0,30.0,60.0,15.0,0.0,015,91456,40
+4001590247,"Binger-Hinton CCD, Caddo County, Oklahoma",4397.0,3885.0,255.0,234.0,23.0,0.0,015,90247,40
+4001591131,"Fort Cobb CCD, Caddo County, Oklahoma",1082.0,947.0,73.0,62.0,0.0,0.0,015,91131,40
+4001590117,"Anadarko CCD, Caddo County, Oklahoma",4568.0,4292.0,153.0,76.0,47.0,0.0,015,90117,40
+4001590143,"Apache CCD, Caddo County, Oklahoma",1528.0,1395.0,94.0,31.0,8.0,0.0,015,90143,40
+4001590442,"Carnegie CCD, Caddo County, Oklahoma",1802.0,1559.0,146.0,87.0,10.0,0.0,015,90442,40
+4002791677,"Lexington CCD, Cleveland County, Oklahoma",2357.0,2090.0,182.0,75.0,6.0,4.0,027,91677,40
+4002790858,"East Cleveland CCD, Cleveland County, Oklahoma",18129.0,16388.0,889.0,561.0,279.0,12.0,027,90858,40
+4002791989,"Norman CCD, Cleveland County, Oklahoma",79738.0,57484.0,11200.0,5846.0,4711.0,497.0,027,91989,40
+4002792093,"North Cleveland CCD, Cleveland County, Oklahoma",91405.0,77586.0,6447.0,5405.0,1821.0,146.0,027,92093,40
+4002791976,"Noble CCD, Cleveland County, Oklahoma",5842.0,5215.0,272.0,275.0,80.0,0.0,027,91976,40
+4010193627,"Webbers Falls CCD, Muskogee County, Oklahoma",977.0,877.0,36.0,44.0,20.0,0.0,101,93627,40
+4010191937,"Muskogee Southwest CCD, Muskogee County, Oklahoma",2912.0,2498.0,228.0,148.0,38.0,0.0,101,91937,40
+4010190312,"Boynton CCD, Muskogee County, Oklahoma",447.0,410.0,19.0,4.0,14.0,0.0,101,90312,40
+4010191261,"Haskell CCD, Muskogee County, Oklahoma",2638.0,2199.0,153.0,246.0,40.0,0.0,101,91261,40
+4010191924,"Muskogee CCD, Muskogee County, Oklahoma",28898.0,23496.0,2558.0,2035.0,786.0,23.0,101,91924,40
+4010192574,"Porum CCD, Muskogee County, Oklahoma",1574.0,1452.0,55.0,47.0,20.0,0.0,101,92574,40
+4010193562,"Warner CCD, Muskogee County, Oklahoma",1646.0,1286.0,106.0,196.0,57.0,1.0,101,93562,40
+4010793640,"Weleetka CCD, Okfuskee County, Oklahoma",1217.0,1128.0,44.0,40.0,5.0,0.0,107,93640,40
+4010790299,"Boley CCD, Okfuskee County, Oklahoma",791.0,782.0,0.0,9.0,0.0,0.0,107,90299,40
+4010792457,"Paden CCD, Okfuskee County, Oklahoma",1325.0,1189.0,49.0,65.0,22.0,0.0,107,92457,40
+4010792405,"Okemah CCD, Okfuskee County, Oklahoma",4093.0,3564.0,377.0,128.0,8.0,16.0,107,92405,40
+4000592028,"North Atoka CCD, Atoka County, Oklahoma",1240.0,1047.0,24.0,152.0,17.0,0.0,005,92028,40
+4000593666,"West Atoka CCD, Atoka County, Oklahoma",2571.0,2345.0,89.0,103.0,30.0,4.0,005,93666,40
+4000590481,"Central Atoka CCD, Atoka County, Oklahoma",6085.0,5112.0,550.0,374.0,49.0,0.0,005,90481,40
+4001392873,"South Bryan CCD, Bryan County, Oklahoma",1256.0,1141.0,82.0,6.0,27.0,0.0,013,92873,40
+4001390793,"Durant CCD, Bryan County, Oklahoma",21873.0,18056.0,2039.0,499.0,1240.0,39.0,013,90793,40
+4001392054,"North Central Bryan CCD, Bryan County, Oklahoma",2744.0,2331.0,259.0,38.0,116.0,0.0,013,92054,40
+4001390624,"Colbert CCD, Bryan County, Oklahoma",4380.0,3897.0,312.0,28.0,143.0,0.0,013,90624,40
+4001390819,"East Bryan CCD, Bryan County, Oklahoma",999.0,852.0,47.0,10.0,84.0,6.0,013,90819,40
+4001392938,"Southeast Bryan CCD, Bryan County, Oklahoma",759.0,744.0,15.0,0.0,0.0,0.0,013,92938,40
+4004392769,"Seiling CCD, Dewey County, Oklahoma",1749.0,1508.0,32.0,206.0,3.0,0.0,043,92769,40
+4004393458,"Vici CCD, Dewey County, Oklahoma",1277.0,1164.0,60.0,33.0,20.0,0.0,043,93458,40
+4005991638,"Laverne CCD, Harper County, Oklahoma",1505.0,1328.0,76.0,91.0,8.0,2.0,059,91638,40
+4005990377,"Buffalo CCD, Harper County, Oklahoma",1341.0,1230.0,13.0,76.0,1.0,21.0,059,90377,40
+4007192561,"Ponca City CCD, Kay County, Oklahoma",20019.0,16202.0,2179.0,858.0,729.0,51.0,071,92561,40
+4007193367,"Tonkawa CCD, Kay County, Oklahoma",2978.0,2486.0,301.0,112.0,70.0,9.0,071,93367,40
+4007191521,"Kaw City CCD, Kay County, Oklahoma",921.0,849.0,29.0,25.0,14.0,4.0,071,91521,40
+4007190260,"Blackwell CCD, Kay County, Oklahoma",6360.0,5005.0,660.0,278.0,288.0,129.0,071,90260,40
+4007191950,"Newkirk CCD, Kay County, Oklahoma",2892.0,2404.0,264.0,88.0,136.0,0.0,071,91950,40
+4007190325,"Braman CCD, Kay County, Oklahoma",585.0,544.0,19.0,11.0,11.0,0.0,071,90325,40
+4008390689,"Crescent CCD, Logan County, Oklahoma",3157.0,2885.0,159.0,61.0,52.0,0.0,083,90689,40
+4008390910,"East Logan CCD, Logan County, Oklahoma",2318.0,2050.0,94.0,95.0,79.0,0.0,083,90910,40
+4008391222,"Guthrie CCD, Logan County, Oklahoma",28317.0,25156.0,905.0,1569.0,664.0,23.0,083,91222,40
+4008392197,"North Logan CCD, Logan County, Oklahoma",1111.0,1003.0,74.0,30.0,4.0,0.0,083,92197,40
+4003592106,"North Craig CCD, Craig County, Oklahoma",2296.0,2085.0,56.0,83.0,64.0,8.0,035,92106,40
+4003593484,"Vinita West CCD, Craig County, Oklahoma",1527.0,1326.0,86.0,107.0,8.0,0.0,035,93484,40
+4003593471,"Vinita East CCD, Craig County, Oklahoma",5447.0,4601.0,328.0,435.0,83.0,0.0,035,93471,40
+4014393107,"South Tulsa CCD, Tulsa County, Oklahoma",17804.0,15015.0,2054.0,377.0,358.0,0.0,143,93107,40
+4014392236,"North Tulsa CCD, Tulsa County, Oklahoma",10900.0,9341.0,814.0,601.0,144.0,0.0,143,92236,40
+4014393380,"Tulsa CCD, Tulsa County, Oklahoma",368563.0,305896.0,40070.0,11161.0,10310.0,1126.0,143,93380,40
+4014790208,"Bartlesville CCD, Washington County, Oklahoma",32237.0,26461.0,3349.0,1255.0,1110.0,62.0,147,90208,40
+4014790663,"Copan CCD, Washington County, Oklahoma",1713.0,1534.0,115.0,23.0,41.0,0.0,147,90663,40
+4014792366,"Ochelata-Ramona CCD, Washington County, Oklahoma",3822.0,3592.0,108.0,95.0,27.0,0.0,147,92366,40
+4001793679,"West Canadian CCD, Canadian County, Oklahoma",1354.0,1229.0,77.0,33.0,15.0,0.0,017,93679,40
+4001790832,"East Canadian CCD, Canadian County, Oklahoma",78681.0,66337.0,5578.0,4157.0,2422.0,187.0,017,90832,40
+4001791040,"El Reno CCD, Canadian County, Oklahoma",20957.0,18182.0,1425.0,898.0,392.0,60.0,017,91040,40
+4001793523,"Walnut CCD, Canadian County, Oklahoma",771.0,691.0,11.0,34.0,35.0,0.0,017,93523,40
+4005791183,"Gould CCD, Harmon County, Oklahoma",214.0,198.0,0.0,6.0,10.0,0.0,057,91183,40
+4005791391,"Hollis CCD, Harmon County, Oklahoma",1406.0,1234.0,112.0,43.0,17.0,0.0,057,91391,40
+4006193718,"West Haskell CCD, Haskell County, Oklahoma",2781.0,2574.0,91.0,103.0,8.0,5.0,061,93718,40
+4006191547,"Keota CCD, Haskell County, Oklahoma",1566.0,1426.0,79.0,45.0,16.0,0.0,061,91547,40
+4006191755,"McCurtain CCD, Haskell County, Oklahoma",1635.0,1508.0,98.0,25.0,1.0,3.0,061,91755,40
+4006193224,"Stigler CCD, Haskell County, Oklahoma",3033.0,2603.0,287.0,109.0,34.0,0.0,061,93224,40
+4007793848,"Wilburton CCD, Latimer County, Oklahoma",3704.0,3048.0,410.0,154.0,92.0,0.0,077,93848,40
+4007793055,"South Latimer CCD, Latimer County, Oklahoma",1800.0,1392.0,186.0,141.0,63.0,18.0,077,93055,40
+4007792652,"Red Oak CCD, Latimer County, Oklahoma",1473.0,1400.0,40.0,24.0,9.0,0.0,077,92652,40
+4011191339,"Henryetta CCD, Okmulgee County, Oklahoma",7456.0,6480.0,577.0,218.0,176.0,5.0,111,91339,40
+4011190221,"Beggs CCD, Okmulgee County, Oklahoma",4759.0,4186.0,271.0,249.0,42.0,11.0,111,90221,40
+4011191885,"Morris CCD, Okmulgee County, Oklahoma",2528.0,2299.0,111.0,96.0,22.0,0.0,111,91885,40
+4011192431,"Okmulgee CCD, Okmulgee County, Oklahoma",9519.0,7856.0,884.0,587.0,192.0,0.0,111,92431,40
+4011391092,"Fairfax CCD, Osage County, Oklahoma",1210.0,1146.0,33.0,16.0,15.0,0.0,113,91092,40
+4011391742,"McCord-Braden CCD, Osage County, Oklahoma",2274.0,2084.0,44.0,114.0,32.0,0.0,113,91742,40
+4011392496,"Pawhuska CCD, Osage County, Oklahoma",4544.0,4087.0,142.0,100.0,215.0,0.0,113,92496,40
+4011392964,"Southeast Osage CCD, Osage County, Oklahoma",15654.0,13998.0,406.0,996.0,244.0,10.0,113,92964,40
+4011391404,"Hominy CCD, Osage County, Oklahoma",3386.0,3012.0,132.0,210.0,32.0,0.0,113,91404,40
+4011392301,"Northwest Osage CCD, Osage County, Oklahoma",906.0,789.0,23.0,84.0,10.0,0.0,113,92301,40
+4011390195,"Barnsdall CCD, Osage County, Oklahoma",2003.0,1750.0,150.0,99.0,4.0,0.0,113,90195,40
+4013991417,"Hooker CCD, Texas County, Oklahoma",2275.0,2136.0,63.0,40.0,21.0,15.0,139,91417,40
+4013991235,"Guymon CCD, Texas County, Oklahoma",6582.0,5677.0,503.0,125.0,277.0,0.0,139,91235,40
+4013993783,"West Texas CCD, Texas County, Oklahoma",790.0,730.0,47.0,0.0,13.0,0.0,139,93783,40
+4006793601,"Waurika CCD, Jefferson County, Oklahoma",2218.0,1776.0,167.0,244.0,31.0,0.0,067,93601,40
+4006792665,"Ringling CCD, Jefferson County, Oklahoma",1543.0,1400.0,81.0,56.0,6.0,0.0,067,92665,40
+4006793042,"South Jefferson CCD, Jefferson County, Oklahoma",1136.0,1010.0,52.0,49.0,25.0,0.0,067,93042,40
+4012792223,"North Pushmataha CCD, Pushmataha County, Oklahoma",2115.0,1834.0,120.0,105.0,51.0,5.0,127,92223,40
+4012791118,"Finley-Rattan CCD, Pushmataha County, Oklahoma",1703.0,1598.0,34.0,36.0,28.0,7.0,127,91118,40
+4012790130,"Antlers CCD, Pushmataha County, Oklahoma",4149.0,3666.0,312.0,95.0,76.0,0.0,127,90130,40
+4004791053,"Enid CCD, Garfield County, Oklahoma",40021.0,32262.0,4462.0,1469.0,1732.0,96.0,047,91053,40
+4004793016,"South Garfield CCD, Garfield County, Oklahoma",3671.0,3432.0,168.0,63.0,8.0,0.0,047,93016,40
+4004792184,"North Garfield CCD, Garfield County, Oklahoma",3003.0,2704.0,204.0,35.0,60.0,0.0,047,92184,40
+4004991027,"Elmore City CCD, Garvin County, Oklahoma",2740.0,2543.0,43.0,106.0,46.0,2.0,049,91027,40
+4004991690,"Lindsay CCD, Garvin County, Oklahoma",4363.0,4077.0,154.0,106.0,26.0,0.0,049,91690,40
+4004991807,"Maysville CCD, Garvin County, Oklahoma",1769.0,1667.0,82.0,11.0,9.0,0.0,049,91807,40
+4004992483,"Pauls Valley CCD, Garvin County, Oklahoma",9816.0,9141.0,457.0,168.0,47.0,3.0,049,92483,40
+4004993276,"Stratford CCD, Garvin County, Oklahoma",2239.0,2131.0,63.0,19.0,15.0,11.0,049,93276,40
+4006993744,"West Johnston CCD, Johnston County, Oklahoma",1903.0,1781.0,66.0,48.0,8.0,0.0,069,93744,40
+4006993354,"Tishomingo CCD, Johnston County, Oklahoma",3381.0,2710.0,413.0,80.0,171.0,7.0,069,93354,40
+4006990897,"East Johnston CCD, Johnston County, Oklahoma",2392.0,2096.0,86.0,122.0,83.0,5.0,069,90897,40
+4012192639,"Quinton CCD, Pittsburg County, Oklahoma",3968.0,3657.0,131.0,142.0,34.0,4.0,121,92639,40
+4012191599,"Kiowa-Pittsburg CCD, Pittsburg County, Oklahoma",1358.0,1190.0,114.0,41.0,13.0,0.0,121,91599,40
+4012192314,"Northwest Pittsburg CCD, Pittsburg County, Oklahoma",1612.0,1461.0,46.0,56.0,45.0,4.0,121,92314,40
+4012192067,"North Central Pittsburg CCD, Pittsburg County, Oklahoma",3418.0,3073.0,180.0,131.0,34.0,0.0,121,92067,40
+4012191729,"McAlester CCD, Pittsburg County, Oklahoma",17507.0,13392.0,2555.0,1122.0,428.0,10.0,121,91729,40
+4012390013,"Ada CCD, Pontotoc County, Oklahoma",15107.0,11681.0,2044.0,1010.0,356.0,16.0,123,90013,40
+4012392886,"South Central Pontotoc CCD, Pontotoc County, Oklahoma",384.0,381.0,0.0,3.0,0.0,0.0,123,92886,40
+4012392977,"Southeast Pontotoc CCD, Pontotoc County, Oklahoma",1843.0,1758.0,55.0,30.0,0.0,0.0,123,92977,40
+4012393172,"Southwest Pontotoc CCD, Pontotoc County, Oklahoma",1227.0,1078.0,62.0,71.0,16.0,0.0,123,93172,40
+4012392327,"Northwest Pontotoc CCD, Pontotoc County, Oklahoma",3306.0,3009.0,133.0,54.0,110.0,0.0,123,92327,40
+4012392158,"Northeast Pontotoc CCD, Pontotoc County, Oklahoma",3286.0,3032.0,186.0,42.0,26.0,0.0,123,92158,40
+4012990559,"Cheyenne CCD, Roger Mills County, Oklahoma",1779.0,1692.0,20.0,47.0,20.0,0.0,129,90559,40
+4012993094,"South Roger Mills CCD, Roger Mills County, Oklahoma",645.0,492.0,39.0,26.0,88.0,0.0,129,93094,40
+4012990988,"East Roger Mills CCD, Roger Mills County, Oklahoma",721.0,697.0,7.0,14.0,3.0,0.0,129,90988,40
+4015391872,"Mooreland CCD, Woodward County, Oklahoma",2453.0,2112.0,262.0,39.0,28.0,12.0,153,91872,40
+4015393887,"Woodward CCD, Woodward County, Oklahoma",14469.0,11774.0,1733.0,593.0,287.0,82.0,153,93887,40
+4002192080,"North Cherokee CCD, Cherokee County, Oklahoma",2743.0,2428.0,143.0,96.0,76.0,0.0,021,92080,40
+4002192899,"South Cherokee CCD, Cherokee County, Oklahoma",3407.0,2715.0,262.0,348.0,73.0,9.0,021,92899,40
+4002190845,"East Cherokee CCD, Cherokee County, Oklahoma",2532.0,2348.0,107.0,49.0,21.0,7.0,021,90845,40
+4002191443,"Hulbert CCD, Cherokee County, Oklahoma",3389.0,3004.0,110.0,199.0,76.0,0.0,021,91443,40
+4002193289,"Tahlequah CCD, Cherokee County, Oklahoma",11129.0,8970.0,1146.0,712.0,279.0,22.0,021,93289,40
+4004191209,"Grove CCD, Delaware County, Oklahoma",16496.0,14293.0,1045.0,581.0,572.0,5.0,041,91209,40
+4004190637,"Colcord CCD, Delaware County, Oklahoma",3385.0,2998.0,136.0,29.0,222.0,0.0,041,90637,40
+4004191495,"Jay CCD, Delaware County, Oklahoma",4929.0,4472.0,212.0,116.0,129.0,0.0,041,91495,40
+4004191508,"Kansas CCD, Delaware County, Oklahoma",1965.0,1862.0,33.0,16.0,54.0,0.0,041,91508,40
+4004593003,"South Ellis CCD, Ellis County, Oklahoma",1217.0,1119.0,32.0,38.0,28.0,0.0,045,93003,40
+4004592132,"Northeast Ellis CCD, Ellis County, Oklahoma",1070.0,901.0,35.0,108.0,26.0,0.0,045,92132,40
+4004592262,"Northwest Ellis CCD, Ellis County, Oklahoma",1249.0,1059.0,20.0,97.0,73.0,0.0,045,92262,40
+4005193393,"Tuttle CCD, Grady County, Oklahoma",13485.0,12360.0,399.0,565.0,161.0,0.0,051,93393,40
+4005190104,"Amber-Pocasset CCD, Grady County, Oklahoma",6032.0,5582.0,141.0,213.0,94.0,2.0,051,90104,40
+4005191859,"Minco CCD, Grady County, Oklahoma",2210.0,1897.0,170.0,102.0,38.0,3.0,051,91859,40
+4005192704,"Rush Springs CCD, Grady County, Oklahoma",3677.0,3363.0,176.0,99.0,39.0,0.0,051,92704,40
+4005190572,"Chickasha CCD, Grady County, Oklahoma",15801.0,13137.0,1690.0,656.0,307.0,11.0,051,90572,40
+4011990702,"Cushing CCD, Payne County, Oklahoma",9057.0,8033.0,468.0,439.0,114.0,3.0,119,90702,40
+4011993926,"Yale CCD, Payne County, Oklahoma",1889.0,1591.0,232.0,32.0,24.0,10.0,119,93926,40
+4011993237,"Stillwater CCD, Payne County, Oklahoma",50771.0,37074.0,6189.0,4768.0,2614.0,126.0,119,93237,40
+4012592821,"Shawnee CCD, Pottawatomie County, Oklahoma",48179.0,40555.0,4023.0,2622.0,929.0,50.0,125,92821,40
+4012593549,"Wanette-Asher CCD, Pottawatomie County, Oklahoma",2112.0,1908.0,76.0,106.0,22.0,0.0,125,93549,40
+4012591794,"Maud CCD, Pottawatomie County, Oklahoma",1523.0,1377.0,59.0,76.0,11.0,0.0,125,91794,40
+4003790338,"Bristow CCD, Creek County, Oklahoma",4813.0,4408.0,166.0,192.0,38.0,9.0,037,90338,40
+4003791573,"Keystone Lake CCD, Creek County, Oklahoma",9254.0,8658.0,315.0,224.0,32.0,25.0,037,91573,40
+4003792743,"Sapulpa CCD, Creek County, Oklahoma",29030.0,26326.0,1311.0,1101.0,247.0,45.0,037,92743,40
+4003790767,"Drumright CCD, Creek County, Oklahoma",2755.0,2505.0,166.0,66.0,18.0,0.0,037,90767,40
+4003790351,"Bristow South CCD, Creek County, Oklahoma",2343.0,2268.0,55.0,20.0,0.0,0.0,037,90351,40
+4003791534,"Kellyville-Slick CCD, Creek County, Oklahoma",2888.0,2813.0,58.0,17.0,0.0,0.0,037,91534,40
+4003792808,"Shamrock-Heyburn Lake CCD, Creek County, Oklahoma",2800.0,2599.0,105.0,96.0,0.0,0.0,037,92808,40
+4014191157,"Frederick CCD, Tillman County, Oklahoma",2536.0,2081.0,217.0,140.0,98.0,0.0,141,91157,40
+4014191001,"East Tillman CCD, Tillman County, Oklahoma",858.0,814.0,4.0,18.0,22.0,0.0,141,91001,40
+4014193341,"Tipton CCD, Tillman County, Oklahoma",804.0,663.0,72.0,43.0,26.0,0.0,141,93341,40
+4014190741,"Davidson CCD, Tillman County, Oklahoma",354.0,318.0,14.0,2.0,20.0,0.0,141,90741,40
+4009790949,"East Mayes CCD, Mayes County, Oklahoma",4786.0,4546.0,139.0,73.0,28.0,0.0,097,90949,40
+4009792613,"Pryor Creek CCD, Mayes County, Oklahoma",13169.0,11449.0,992.0,509.0,203.0,16.0,097,92613,40
+4009791703,"Locust Grove CCD, Mayes County, Oklahoma",4212.0,3965.0,154.0,52.0,41.0,0.0,097,91703,40
+4009790026,"Adair CCD, Mayes County, Oklahoma",4405.0,4240.0,84.0,49.0,32.0,0.0,097,90026,40
+4003990390,"Butler CCD, Custer County, Oklahoma",761.0,717.0,17.0,9.0,18.0,0.0,039,90390,40
+4003993614,"Weatherford CCD, Custer County, Oklahoma",10946.0,8649.0,1329.0,891.0,56.0,21.0,039,93614,40
+4003990715,"Custer City CCD, Custer County, Oklahoma",442.0,404.0,29.0,8.0,1.0,0.0,039,90715,40
+4003990611,"Clinton CCD, Custer County, Oklahoma",6300.0,4813.0,380.0,363.0,744.0,0.0,039,90611,40
+4003993328,"Thomas CCD, Custer County, Oklahoma",1630.0,1480.0,88.0,52.0,10.0,0.0,039,93328,40
+4000792860,"South Beaver CCD, Beaver County, Oklahoma",2378.0,2003.0,251.0,101.0,17.0,6.0,007,92860,40
+4000792041,"North Beaver CCD, Beaver County, Oklahoma",1758.0,1665.0,51.0,16.0,26.0,0.0,007,92041,40
+4008590923,"East Love CCD, Love County, Oklahoma",5278.0,4745.0,331.0,122.0,74.0,6.0,085,90923,40
+4008593757,"West Love CCD, Love County, Oklahoma",1767.0,1645.0,27.0,84.0,11.0,0.0,085,93757,40
+4000992756,"Sayre CCD, Beckham County, Oklahoma",3884.0,3421.0,179.0,254.0,30.0,0.0,009,92756,40
+4000991066,"Erick CCD, Beckham County, Oklahoma",1493.0,1479.0,2.0,0.0,8.0,4.0,009,91066,40
+4000990455,"Carter CCD, Beckham County, Oklahoma",442.0,428.0,6.0,0.0,8.0,0.0,009,90455,40
+4000991014,"Elk City CCD, Beckham County, Oklahoma",11371.0,9506.0,830.0,738.0,297.0,0.0,009,91014,40
+4006393029,"South Hughes CCD, Hughes County, Oklahoma",1770.0,1678.0,37.0,44.0,11.0,0.0,063,93029,40
+4006393822,"Wetumka CCD, Hughes County, Oklahoma",1526.0,1358.0,65.0,59.0,35.0,9.0,063,93822,40
+4006391378,"Holdenville CCD, Hughes County, Oklahoma",5240.0,4587.0,287.0,340.0,26.0,0.0,063,91378,40
+4002393692,"West Choctaw CCD, Choctaw County, Oklahoma",1800.0,1652.0,100.0,37.0,11.0,0.0,023,93692,40
+4002391430,"Hugo CCD, Choctaw County, Oklahoma",5440.0,4622.0,423.0,197.0,198.0,0.0,023,91430,40
+4002391144,"Fort Towson CCD, Choctaw County, Oklahoma",1837.0,1695.0,69.0,29.0,40.0,4.0,023,91144,40
+4006593731,"West Jackson CCD, Jackson County, Oklahoma",1273.0,1155.0,92.0,5.0,21.0,0.0,065,93731,40
+4006590884,"East Jackson CCD, Jackson County, Oklahoma",1867.0,1673.0,155.0,18.0,21.0,0.0,065,90884,40
+4006590078,"Altus South CCD, Jackson County, Oklahoma",309.0,288.0,7.0,10.0,4.0,0.0,065,90078,40
+4006590065,"Altus CCD, Jackson County, Oklahoma",12395.0,9167.0,1752.0,589.0,769.0,118.0,065,90065,40
+4003191651,"Lawton CCD, Comanche County, Oklahoma",35579.0,27376.0,4862.0,1026.0,2090.0,225.0,031,91651,40
+4003192119,"Northeast Comanche CCD, Comanche County, Oklahoma",5982.0,4985.0,400.0,273.0,324.0,0.0,031,92119,40
+4003192249,"Northwest Comanche CCD, Comanche County, Oklahoma",4008.0,3617.0,254.0,66.0,71.0,0.0,031,92249,40
+4003193133,"Southwest Comanche CCD, Comanche County, Oklahoma",7582.0,6357.0,928.0,122.0,171.0,4.0,031,93133,40
+4003192951,"Southeast Comanche CCD, Comanche County, Oklahoma",9988.0,7721.0,986.0,381.0,552.0,348.0,031,92951,40
+4008190507,"Chandler CCD, Lincoln County, Oklahoma",6719.0,6195.0,353.0,101.0,62.0,8.0,081,90507,40
+4014990494,"Central Washita CCD, Washita County, Oklahoma",3099.0,2847.0,129.0,79.0,44.0,0.0,149,90494,40
+4014992340,"Northwest Washita CCD, Washita County, Oklahoma",3308.0,3038.0,77.0,106.0,87.0,0.0,149,92340,40
+4014993185,"Southwest Washita CCD, Washita County, Oklahoma",1799.0,1597.0,100.0,69.0,31.0,2.0,149,93185,40
+4014992171,"Northeast Washita CCD, Washita County, Oklahoma",1088.0,965.0,39.0,45.0,34.0,5.0,149,92171,40
+4014992990,"Southeast Washita CCD, Washita County, Oklahoma",319.0,319.0,0.0,0.0,0.0,0.0,149,92990,40
+4003393536,"Walters CCD, Cotton County, Oklahoma",2766.0,2436.0,168.0,72.0,87.0,3.0,033,93536,40
+4003393315,"Temple CCD, Cotton County, Oklahoma",866.0,679.0,92.0,69.0,26.0,0.0,033,93315,40
+4003393146,"Southwest Cotton CCD, Cotton County, Oklahoma",917.0,751.0,69.0,4.0,93.0,0.0,033,93146,40
+4007591898,"Mountain View CCD, Kiowa County, Oklahoma",1010.0,928.0,37.0,25.0,18.0,2.0,075,91898,40
+4007592691,"Roosevelt CCD, Kiowa County, Oklahoma",419.0,351.0,30.0,33.0,5.0,0.0,075,92691,40
+4007592847,"Snyder CCD, Kiowa County, Oklahoma",1908.0,1652.0,143.0,96.0,14.0,3.0,075,92847,40
+4007591716,"Lone Wolf CCD, Kiowa County, Oklahoma",810.0,753.0,17.0,31.0,9.0,0.0,075,91716,40
+4007591365,"Hobart CCD, Kiowa County, Oklahoma",2684.0,2132.0,304.0,138.0,110.0,0.0,075,91365,40
+4007993302,"Talihina CCD, Le Flore County, Oklahoma",1261.0,1054.0,79.0,66.0,54.0,8.0,079,93302,40
+4007993068,"South Le Flore CCD, Le Flore County, Oklahoma",389.0,382.0,4.0,0.0,3.0,0.0,079,93068,40
+4007990182,"Arkoma CCD, Le Flore County, Oklahoma",1515.0,1324.0,67.0,4.0,120.0,0.0,079,90182,40
+4007991300,"Heavener CCD, Le Flore County, Oklahoma",5666.0,5030.0,279.0,218.0,139.0,0.0,079,91300,40
+4007992470,"Panama-Bokoshe CCD, Le Flore County, Oklahoma",4421.0,4087.0,269.0,28.0,37.0,0.0,079,92470,40
+4007990403,"Cameron CCD, Le Flore County, Oklahoma",3000.0,2789.0,150.0,11.0,35.0,15.0,079,90403,40
+4007992548,"Pocola CCD, Le Flore County, Oklahoma",3697.0,3246.0,240.0,100.0,97.0,14.0,079,92548,40
+4007993874,"Wister CCD, Le Flore County, Oklahoma",3967.0,3599.0,175.0,95.0,98.0,0.0,079,93874,40
+4007993211,"Spiro CCD, Le Flore County, Oklahoma",5551.0,4845.0,364.0,51.0,291.0,0.0,079,93211,40
+4007992587,"Poteau CCD, Le Flore County, Oklahoma",6059.0,4963.0,721.0,180.0,195.0,0.0,079,92587,40
+4008992203,"North McCurtain CCD, McCurtain County, Oklahoma",1842.0,1755.0,64.0,4.0,19.0,0.0,089,92203,40
+4008993900,"Wright City CCD, McCurtain County, Oklahoma",1045.0,982.0,43.0,6.0,14.0,0.0,089,93900,40
+4008991469,"Idabel CCD, McCurtain County, Oklahoma",5164.0,4809.0,299.0,48.0,5.0,3.0,089,91469,40
+4008992956,"Southeast McCurtain CCD, McCurtain County, Oklahoma",1968.0,1880.0,80.0,0.0,8.0,0.0,089,92956,40
+4008993419,"Valliant CCD, McCurtain County, Oklahoma",3099.0,2875.0,100.0,53.0,71.0,0.0,089,93419,40
+4008990364,"Broken Bow CCD, McCurtain County, Oklahoma",7590.0,6953.0,334.0,188.0,111.0,4.0,089,90364,40
+4009391105,"Fairview CCD, Major County, Oklahoma",3886.0,3398.0,233.0,173.0,82.0,0.0,093,91105,40
+4009390936,"East Major CCD, Major County, Oklahoma",2676.0,2451.0,112.0,83.0,28.0,2.0,093,90936,40
+4008192145,"Northeast Lincoln CCD, Lincoln County, Oklahoma",3383.0,3050.0,145.0,103.0,85.0,0.0,081,92145,40
+4008193653,"Wellston CCD, Lincoln County, Oklahoma",4022.0,3710.0,111.0,110.0,84.0,7.0,081,93653,40
+4008192600,"Prague CCD, Lincoln County, Oklahoma",3782.0,3288.0,275.0,154.0,52.0,13.0,081,92600,40
+4008192288,"Northwest Lincoln CCD, Lincoln County, Oklahoma",3771.0,3489.0,60.0,180.0,32.0,10.0,081,92288,40
+4008191833,"Meeker CCD, Lincoln County, Oklahoma",6851.0,6320.0,283.0,237.0,6.0,5.0,081,91833,40
+4011790598,"Cleveland CCD, Pawnee County, Oklahoma",9088.0,8133.0,398.0,463.0,89.0,5.0,117,90598,40
+4011792509,"Pawnee CCD, Pawnee County, Oklahoma",3513.0,3208.0,152.0,137.0,16.0,0.0,117,92509,40
+4003191136,"Fort Sill CCD, Comanche County, Oklahoma",5872.0,1807.0,280.0,69.0,3474.0,242.0,031,91136,40
+4008791946,"Newcastle-Blanchard CCD, McClain County, Oklahoma",15422.0,12941.0,420.0,1824.0,229.0,8.0,087,91946,40
+4010591942,"New Alluwe CCD, Nowata County, Oklahoma",432.0,401.0,0.0,31.0,0.0,0.0,105,91942,40
+4011592633,"Quapaw CCD, Ottawa County, Oklahoma",2705.0,2466.0,134.0,22.0,83.0,0.0,115,92633,40
+4005190046,"Alex CCD, Grady County, Oklahoma",3020.0,2784.0,135.0,93.0,8.0,0.0,051,90046,40
+4012191255,"Hartshorne-Haileyville CCD, Pittsburg County, Oklahoma",3159.0,2780.0,194.0,118.0,67.0,0.0,121,91255,40
+4013192444,"Oologah-Talala CCD, Rogers County, Oklahoma",5801.0,5082.0,405.0,247.0,57.0,10.0,131,92444,40
+4004393308,"Taloga-Leedey CCD, Dewey County, Oklahoma",1049.0,909.0,37.0,82.0,21.0,0.0,043,93308,40
+4010992426,"Oklahoma City Southwest CCD, Oklahoma County, Oklahoma",214050.0,173197.0,25189.0,9609.0,5604.0,451.0,109,92426,40
+4010992424,"Oklahoma City Southeast CCD, Oklahoma County, Oklahoma",95122.0,80812.0,9102.0,2707.0,2336.0,165.0,109,92424,40
+4010992422,"Oklahoma City Northwest CCD, Oklahoma County, Oklahoma",110288.0,92418.0,10721.0,3491.0,3399.0,259.0,109,92422,40
+4010992420,"Oklahoma City Northeast CCD, Oklahoma County, Oklahoma",15037.0,13575.0,1030.0,301.0,117.0,14.0,109,92420,40

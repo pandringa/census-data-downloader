@@ -1,0 +1,1259 @@
+geoid,name,median,county,county subdivision,state
+0508393619,"Tomlinson township, Logan County, Arkansas",35417.0,083,93619,05
+0512191204,"East Roanoke township, Randolph County, Arkansas",-666666666.0,121,91204,05
+0508793976,"Wharton township, Madison County, Arkansas",-666666666.0,087,93976,05
+0511793654,"Tyler township, Prairie County, Arkansas",78100.0,117,93654,05
+0509790595,"Caddo Gap township, Montgomery County, Arkansas",25610.0,097,90595,05
+0506390343,"Black River-Marshell township, Independence County, Arkansas",44219.0,063,90343,05
+0509790013,"Alamo township, Montgomery County, Arkansas",-666666666.0,097,90013,05
+0509790346,"Black Springs township, Montgomery County, Arkansas",-666666666.0,097,90346,05
+0509791273,"Fannie township, Montgomery County, Arkansas",-666666666.0,097,91273,05
+0509791765,"Hopper township, Montgomery County, Arkansas",34135.0,097,91765,05
+0501393627,"Township 1, Calhoun County, Arkansas",39318.0,013,93627,05
+0511193973,"West Prairie township, Poinsett County, Arkansas",36328.0,111,93973,05
+0501393631,"Township 3, Calhoun County, Arkansas",42500.0,013,93631,05
+0503593655,"Tyronza township, Crittenden County, Arkansas",32898.0,035,93655,05
+0501393635,"Township 5, Calhoun County, Arkansas",59643.0,013,93635,05
+0501393629,"Township 2, Calhoun County, Arkansas",45117.0,013,93629,05
+0501393633,"Township 4, Calhoun County, Arkansas",36750.0,013,93633,05
+0501393637,"Township 6, Calhoun County, Arkansas",51250.0,013,93637,05
+0501393639,"Township 7, Calhoun County, Arkansas",125050.0,013,93639,05
+0503793652,"Twist township, Cross County, Arkansas",-666666666.0,037,93652,05
+0514393623,"Tontitown township, Washington County, Arkansas",74735.0,143,93623,05
+0504591199,"East Fork township, Faulkner County, Arkansas",66140.0,045,91199,05
+0512593648,"Traskwood township, Saline County, Arkansas",60833.0,125,93648,05
+0509792620,"Mount Ida township, Montgomery County, Arkansas",41105.0,097,92620,05
+0509792701,"Norman township, Montgomery County, Arkansas",31103.0,097,92701,05
+0509792737,"Oden township, Montgomery County, Arkansas",32500.0,097,92737,05
+0509793385,"Sims township, Montgomery County, Arkansas",53182.0,097,93385,05
+0510593653,"Tyler township, Perry County, Arkansas",-666666666.0,105,93653,05
+0501393641,"Township 8, Calhoun County, Arkansas",36875.0,013,93641,05
+0501393643,"Township 9, Calhoun County, Arkansas",22500.0,013,93643,05
+0502190232,"Bennett-Lemmons township, Clay County, Arkansas",-666666666.0,021,90232,05
+0502190448,"Bradshaw-Haywood township, Clay County, Arkansas",37132.0,021,90448,05
+0502190496,"Brown-Carpenter township, Clay County, Arkansas",28750.0,021,90496,05
+0502190589,"Cache-Wilson township, Clay County, Arkansas",30536.0,021,90589,05
+0502190757,"Chalk Bluff-Liddell township, Clay County, Arkansas",33125.0,021,90757,05
+0502190874,"Cleveland-North Kilgore township, Clay County, Arkansas",26227.0,021,90874,05
+0502191201,"East Oak Bluff-Blue Cane township, Clay County, Arkansas",28819.0,021,91201,05
+0502192836,"Payne-Swain township, Clay County, Arkansas",34940.0,021,92836,05
+0502191474,"Gleghorn-South Kilgore township, Clay County, Arkansas",31094.0,021,91474,05
+0510390213,"Behestian township, Ouachita County, Arkansas",-666666666.0,103,90213,05
+0502192719,"North St. Francis township, Clay County, Arkansas",31178.0,021,92719,05
+0502193439,"South St. Francis township, Clay County, Arkansas",35568.0,021,93439,05
+0502193971,"West Oak Bluff township, Clay County, Arkansas",43860.0,021,93971,05
+0512793620,"Tomlinson township, Scott County, Arkansas",94318.0,127,93620,05
+0513993650,"Tubal township, Union County, Arkansas",90450.0,139,93650,05
+0514191200,"East Griggs township, Van Buren County, Arkansas",43295.0,141,91200,05
+0514191318,"Formosa township, Van Buren County, Arkansas",26979.0,141,91318,05
+0514191750,"Holly Mountain township, Van Buren County, Arkansas",45625.0,141,91750,05
+0514193970,"West Griggs township, Van Buren County, Arkansas",33381.0,141,93970,05
+0513793651,"Turkey Creek township, Stone County, Arkansas",55417.0,137,93651,05
+0500392365,"Marais Saline township, Ashley County, Arkansas",79375.0,003,92365,05
+0500793626,"Township 1, Benton County, Arkansas",59244.0,007,93626,05
+0500793628,"Township 2, Benton County, Arkansas",56238.0,007,93628,05
+0500793630,"Township 3, Benton County, Arkansas",49513.0,007,93630,05
+0500793632,"Township 4, Benton County, Arkansas",95534.0,007,93632,05
+0500793634,"Township 5, Benton County, Arkansas",40896.0,007,93634,05
+0500793636,"Township 6, Benton County, Arkansas",58253.0,007,93636,05
+0500793638,"Township 7, Benton County, Arkansas",66841.0,007,93638,05
+0500793640,"Township 8, Benton County, Arkansas",64202.0,007,93640,05
+0500793642,"Township 9, Benton County, Arkansas",77320.0,007,93642,05
+0500793645,"Township 11, Benton County, Arkansas",50656.0,007,93645,05
+0508992398,"Marion County township, Marion County, Arkansas",36555.0,089,92398,05
+0500793644,"Township 10, Benton County, Arkansas",59591.0,007,93644,05
+0500793646,"Township 12, Benton County, Arkansas",48726.0,007,93646,05
+0500793647,"Township 13, Benton County, Arkansas",58235.0,007,93647,05
+0513591205,"East Sullivan township, Sharp County, Arkansas",73056.0,135,91205,05
+0508593625,"Totten township, Lonoke County, Arkansas",74229.0,085,93625,05
+0506390250,"Big Bottom-Wycough-Logan township, Independence County, Arkansas",39429.0,063,90250,05
+0506390994,"Cushman-Union township, Independence County, Arkansas",30743.0,063,90994,05
+0505392334,"Madison township, Grant County, Arkansas",-666666666.0,053,92334,05
+0505393912,"Washington township, Grant County, Arkansas",48750.0,053,93912,05
+0505391032,"Davis township, Grant County, Arkansas",65096.0,053,91032,05
+0505393192,"River township, Grant County, Arkansas",34375.0,053,93192,05
+0505391347,"Franklin township, Grant County, Arkansas",-666666666.0,053,91347,05
+0505391287,"Fenter township, Grant County, Arkansas",44135.0,053,91287,05
+0503592508,"Mississippi township, Crittenden County, Arkansas",48416.0,035,92508,05
+0503592298,"Lucas township, Crittenden County, Arkansas",43125.0,035,92298,05
+0503591908,"Jasper township, Crittenden County, Arkansas",77333.0,035,91908,05
+0503593873,"Wappanocca township, Crittenden County, Arkansas",70000.0,035,93873,05
+0503590384,"Bob Ward township, Crittenden County, Arkansas",33875.0,035,90384,05
+0503593033,"Proctor township, Crittenden County, Arkansas",56708.0,035,93033,05
+0504790885,"Cobb township, Franklin County, Arkansas",-666666666.0,047,90885,05
+0504792559,"Morgan township, Franklin County, Arkansas",-666666666.0,047,92559,05
+0503590333,"Black Oak township, Crittenden County, Arkansas",48500.0,035,90333,05
+0504792592,"Mountain township, Franklin County, Arkansas",45500.0,047,92592,05
+0504793954,"Weaver township, Franklin County, Arkansas",-666666666.0,047,93954,05
+0503591857,"Jackson township, Crittenden County, Arkansas",65455.0,035,91857,05
+0503592580,"Mound City township, Crittenden County, Arkansas",103977.0,035,92580,05
+0503591314,"Fogleman township, Crittenden County, Arkansas",43056.0,035,91314,05
+0513790053,"Arbana township, Stone County, Arkansas",29067.0,137,90053,05
+0514393102,"Reed township, Washington County, Arkansas",33558.0,143,93102,05
+0514390957,"Crawford township, Washington County, Arkansas",58214.0,143,90957,05
+0514391233,"Elm Springs township, Washington County, Arkansas",51012.0,143,91233,05
+0513793207,"Roasting Ear township, Stone County, Arkansas",29732.0,137,93207,05
+0513790519,"Bryan township, Stone County, Arkansas",21771.0,137,90519,05
+0514390501,"Brush Creek township, Washington County, Arkansas",52889.0,143,90501,05
+0514390945,"Cove Creek township, Washington County, Arkansas",40404.0,143,90945,05
+0514391274,"Farmington township, Washington County, Arkansas",51853.0,143,91274,05
+0514391815,"Illinois township, Washington County, Arkansas",-666666666.0,143,91815,05
+0514393018,"Prairie township, Washington County, Arkansas",83580.0,143,93018,05
+0514393024,"Prairie Grove township, Washington County, Arkansas",64091.0,143,93024,05
+0514393969,"West Fork township, Washington County, Arkansas",48199.0,143,93969,05
+0514394104,"Winslow township, Washington County, Arkansas",34250.0,143,94104,05
+0514392213,"Lincoln township, Washington County, Arkansas",30868.0,143,92213,05
+0514392217,"Litteral township, Washington County, Arkansas",62670.0,143,92217,05
+0514392400,"Marrs Hill township, Washington County, Arkansas",46250.0,143,92400,05
+0514193933,"Washington township, Van Buren County, Arkansas",21442.0,141,93933,05
+0512591947,"Jefferson township, Saline County, Arkansas",-666666666.0,125,91947,05
+0514190951,"Craig township, Van Buren County, Arkansas",30682.0,141,90951,05
+0512590522,"Bryant township, Saline County, Arkansas",61324.0,125,90522,05
+0514190054,"Archey Valley township, Van Buren County, Arkansas",27868.0,141,90054,05
+0514190789,"Choctaw township, Van Buren County, Arkansas",56750.0,141,90789,05
+0511790612,"Calhoun township, Prairie County, Arkansas",-666666666.0,117,90612,05
+0511793717,"Union township, Prairie County, Arkansas",43667.0,117,93717,05
+0511794023,"White River township, Prairie County, Arkansas",40299.0,117,94023,05
+0511790543,"Bullard township, Prairie County, Arkansas",44500.0,117,90543,05
+0511790738,"Center township, Prairie County, Arkansas",48571.0,117,90738,05
+0511790216,"Belcher township, Prairie County, Arkansas",29464.0,117,90216,05
+0511791650,"Hazen township, Prairie County, Arkansas",43289.0,117,91650,05
+0511792289,"Lower Surrounded Hill township, Prairie County, Arkansas",38750.0,117,92289,05
+0511791083,"Des Arc township, Prairie County, Arkansas",41406.0,117,91083,05
+0513991365,"Franklin township, Union County, Arkansas",43790.0,139,91365,05
+0513991440,"Garner township, Union County, Arkansas",-666666666.0,139,91440,05
+0513991620,"Harrison township, Union County, Arkansas",42273.0,139,91620,05
+0513993966,"Wesson township, Union County, Arkansas",-666666666.0,139,93966,05
+0513992121,"Lapile township, Union County, Arkansas",49583.0,139,92121,05
+0513993396,"Smackover township, Union County, Arkansas",46548.0,139,93396,05
+0513990924,"Cornie township, Union County, Arkansas",63529.0,139,90924,05
+0513991986,"Johnson township, Union County, Arkansas",42426.0,139,91986,05
+0513992703,"Norphlet township, Union County, Arkansas",47250.0,139,92703,05
+0513993777,"Van Buren township, Union County, Arkansas",31959.0,139,93777,05
+0513990408,"Boone township, Union County, Arkansas",-666666666.0,139,90408,05
+0513991884,"Jackson township, Union County, Arkansas",58884.0,139,91884,05
+0513994074,"Wilmington township, Union County, Arkansas",46731.0,139,94074,05
+0513991665,"Henderson township, Union County, Arkansas",37180.0,139,91665,05
+0513991218,"El Dorado township, Union County, Arkansas",55027.0,139,91218,05
+0514791092,"De View township, Woodruff County, Arkansas",32016.0,147,91092,05
+0514793045,"Pumpkin Bend township, Woodruff County, Arkansas",11734.0,147,93045,05
+0514790114,"Barnes township, Woodruff County, Arkansas",78750.0,147,90114,05
+0514791419,"Garden township, Woodruff County, Arkansas",-666666666.0,147,91419,05
+0514790927,"Cotton Plant township, Woodruff County, Arkansas",32566.0,147,90927,05
+0514791068,"Dent township, Woodruff County, Arkansas",-666666666.0,147,91068,05
+0514791371,"Franks township, Woodruff County, Arkansas",29028.0,147,91371,05
+0514791380,"Freeman township, Woodruff County, Arkansas",-666666666.0,147,91380,05
+0514790588,"Cache township, Woodruff County, Arkansas",-666666666.0,147,90588,05
+0514790078,"Augusta township, Woodruff County, Arkansas",34957.0,147,90078,05
+0514794029,"White River township, Woodruff County, Arkansas",-666666666.0,147,94029,05
+0514192610,"Mountain township, Van Buren County, Arkansas",56607.0,141,92610,05
+0514190603,"Cadron township, Van Buren County, Arkansas",-666666666.0,141,90603,05
+0514190117,"Barnett township, Van Buren County, Arkansas",34583.0,141,90117,05
+0514193729,"Union township, Van Buren County, Arkansas",30956.0,141,93729,05
+0514190987,"Culpepper township, Van Buren County, Arkansas",24167.0,141,90987,05
+0514190444,"Bradley township, Van Buren County, Arkansas",40435.0,141,90444,05
+0514192214,"Linn Creek township, Van Buren County, Arkansas",29148.0,141,92214,05
+0514193984,"Wheeler township, Van Buren County, Arkansas",59531.0,141,93984,05
+0514192190,"Liberty township, Van Buren County, Arkansas",23125.0,141,92190,05
+0514193093,"Red River township, Van Buren County, Arkansas",-666666666.0,141,93093,05
+0514191035,"Davis township, Van Buren County, Arkansas",36549.0,141,91035,05
+0514191830,"Indian Rock township, Van Buren County, Arkansas",35530.0,141,91830,05
+0514190660,"Cargile township, Van Buren County, Arkansas",-666666666.0,141,90660,05
+0500990507,"Bryan township, Boone County, Arkansas",68397.0,009,90507,05
+0500994134,"Zinc township, Boone County, Arkansas",69688.0,009,94134,05
+0500991848,"Jackson township, Boone County, Arkansas",54400.0,009,91848,05
+0500992268,"Long Creek township, Boone County, Arkansas",30268.0,009,92268,05
+0500992715,"North Harrison township, Boone County, Arkansas",38734.0,009,92715,05
+0500993552,"Summit township, Boone County, Arkansas",39084.0,009,93552,05
+0500991260,"Ewing township, Boone County, Arkansas",43583.0,009,91260,05
+0500992133,"Lee township, Boone County, Arkansas",40786.0,009,92133,05
+0500992979,"Prairie township, Boone County, Arkansas",53170.0,009,92979,05
+0500990144,"Batavia township, Boone County, Arkansas",29692.0,009,90144,05
+0500991404,"Gaither township, Boone County, Arkansas",50662.0,009,91404,05
+0500991914,"Jefferson township, Boone County, Arkansas",29968.0,009,91914,05
+0500990219,"Bellefonte township, Boone County, Arkansas",43623.0,009,90219,05
+0500990375,"Blythe township, Boone County, Arkansas",-666666666.0,009,90375,05
+0500990678,"Carrollton township, Boone County, Arkansas",51786.0,009,90678,05
+0500991224,"Elixir township, Boone County, Arkansas",42321.0,009,91224,05
+0500992757,"Olvey township, Boone County, Arkansas",40912.0,009,92757,05
+0500992760,"Omaha township, Boone County, Arkansas",38289.0,009,92760,05
+0500993435,"South Harrison township, Boone County, Arkansas",40093.0,009,93435,05
+0500993522,"Sugar Loaf township, Boone County, Arkansas",32664.0,009,93522,05
+0506592475,"Mill Creek township, Izard County, Arkansas",35357.0,065,92475,05
+0506590306,"Big Spring township, Izard County, Arkansas",100263.0,065,90306,05
+0506590513,"Bryan township, Izard County, Arkansas",34375.0,065,90513,05
+0514790657,"Caney township, Woodruff County, Arkansas",21339.0,147,90657,05
+0514792934,"Point township, Woodruff County, Arkansas",-666666666.0,147,92934,05
+0502390597,"Cadron township, Cleburne County, Arkansas",60354.0,023,90597,05
+0502391329,"Francis township, Cleburne County, Arkansas",35900.0,023,91329,05
+0502392583,"Mountain township, Cleburne County, Arkansas",52045.0,023,92583,05
+0502392874,"Pickens township, Cleburne County, Arkansas",41125.0,023,92874,05
+0502393525,"Sugar Loaf township, Cleburne County, Arkansas",61464.0,023,93525,05
+0502394053,"Wilburn township, Cleburne County, Arkansas",-666666666.0,023,94053,05
+0502390828,"Clayton township, Cleburne County, Arkansas",63409.0,023,90828,05
+0502391656,"Heber township, Cleburne County, Arkansas",41191.0,023,91656,05
+0502391653,"Healing Springs township, Cleburne County, Arkansas",24623.0,023,91653,05
+0502392901,"Piney township, Cleburne County, Arkansas",53375.0,023,92901,05
+0502391458,"Giles township, Cleburne County, Arkansas",38802.0,023,91458,05
+0502393294,"Saline township, Cleburne County, Arkansas",34572.0,023,93294,05
+0502391493,"Grassey township, Cleburne County, Arkansas",30089.0,023,91493,05
+0502392319,"McJester township, Cleburne County, Arkansas",29200.0,023,92319,05
+0502392556,"Morgan township, Cleburne County, Arkansas",33068.0,023,92556,05
+0502393750,"Valley township, Cleburne County, Arkansas",74079.0,023,93750,05
+0502390750,"Center Post township, Cleburne County, Arkansas",56823.0,023,90750,05
+0502392931,"Poff township, Cleburne County, Arkansas",-666666666.0,023,92931,05
+0502390615,"California township, Cleburne County, Arkansas",47083.0,023,90615,05
+0502392853,"Peter Creek township, Cleburne County, Arkansas",47273.0,023,92853,05
+0502393510,"Sugar Camp township, Cleburne County, Arkansas",35326.0,023,93510,05
+0502392886,"Pine township, Cleburne County, Arkansas",91750.0,023,92886,05
+0502592136,"Lee township, Cleveland County, Arkansas",67667.0,025,92136,05
+0502592049,"Kingsland township, Cleveland County, Arkansas",38523.0,025,92049,05
+0502592493,"Miller township, Cleveland County, Arkansas",54688.0,025,92493,05
+0506593693,"Union township, Izard County, Arkansas",39813.0,065,93693,05
+0506590087,"Baker township, Izard County, Arkansas",47188.0,065,90087,05
+0506591572,"Guthrie township, Izard County, Arkansas",-666666666.0,065,91572,05
+0506591926,"Jefferson township, Izard County, Arkansas",29076.0,065,91926,05
+0506590798,"Claiborne township, Izard County, Arkansas",44167.0,065,90798,05
+0506591149,"Drytown township, Izard County, Arkansas",47656.0,065,91149,05
+0506593501,"Strawberry township, Izard County, Arkansas",40625.0,065,93501,05
+0506594014,"White River township, Izard County, Arkansas",-666666666.0,065,94014,05
+0506590072,"Athens township, Izard County, Arkansas",46067.0,065,90072,05
+0506593264,"Sage township, Izard County, Arkansas",56823.0,065,93264,05
+0506593816,"Violet Hill township, Izard County, Arkansas",48158.0,065,93816,05
+0506592679,"New Hope township, Izard County, Arkansas",46667.0,065,92679,05
+0506592916,"Pleasant Hill township, Izard County, Arkansas",37125.0,065,92916,05
+0506592079,"Lafferty township, Izard County, Arkansas",-666666666.0,065,92079,05
+0506592622,"Mount Olive township, Izard County, Arkansas",-666666666.0,065,92622,05
+0506590129,"Barren Fork township, Izard County, Arkansas",29167.0,065,90129,05
+0506592301,"Lunenburg township, Izard County, Arkansas",38854.0,065,92301,05
+0506591452,"Gid township, Izard County, Arkansas",-666666666.0,065,91452,05
+0506591557,"Guion township, Izard County, Arkansas",53750.0,065,91557,05
+0506591353,"Franklin township, Izard County, Arkansas",40231.0,065,91353,05
+0506592673,"Newburg township, Izard County, Arkansas",55143.0,065,92673,05
+0506592061,"Lacrosse township, Izard County, Arkansas",75927.0,065,92061,05
+0506391725,"Hill township, Independence County, Arkansas",-666666666.0,063,91725,05
+0506390069,"Ashley township, Independence County, Arkansas",32391.0,063,90069,05
+0506390123,"Barren township, Independence County, Arkansas",67660.0,063,90123,05
+0506393915,"Washington township, Independence County, Arkansas",26827.0,063,93915,05
+0506392346,"Magness township, Independence County, Arkansas",55000.0,063,92346,05
+0506393249,"Ruddell township, Independence County, Arkansas",49266.0,063,93249,05
+0506391074,"Departee township, Independence County, Arkansas",40690.0,063,91074,05
+0506391794,"Huff township, Independence County, Arkansas",29333.0,063,91794,05
+0506393111,"Relief township, Independence County, Arkansas",52115.0,063,93111,05
+0506394011,"White River township, Independence County, Arkansas",37865.0,063,94011,05
+0502593297,"Saline township, Cleveland County, Arkansas",-666666666.0,025,93297,05
+0502593069,"Redland township, Cleveland County, Arkansas",86346.0,025,93069,05
+0506790516,"Bryan township, Jackson County, Arkansas",-666666666.0,067,90516,05
+0506791470,"Glass township, Jackson County, Arkansas",37000.0,067,91470,05
+0506793696,"Union township, Jackson County, Arkansas",34610.0,067,93696,05
+0506790315,"Bird township, Jackson County, Arkansas",39762.0,067,90315,05
+0502593243,"Rowell township, Cleveland County, Arkansas",44167.0,025,93243,05
+0502593183,"Rison township, Cleveland County, Arkansas",52167.0,025,93183,05
+0502590438,"Bowman township, Cleveland County, Arkansas",35313.0,025,90438,05
+0502591611,"Harper township, Cleveland County, Arkansas",66250.0,025,91611,05
+0502592691,"Niven township, Cleveland County, Arkansas",39286.0,025,92691,05
+0502594002,"White Oak township, Cleveland County, Arkansas",42361.0,025,94002,05
+0502591800,"Hurricane township, Cleveland County, Arkansas",54167.0,025,91800,05
+0502593405,"Smith township, Cleveland County, Arkansas",31932.0,025,93405,05
+0502594038,"Whiteville township, Cleveland County, Arkansas",43904.0,025,94038,05
+0502591785,"Hudgin township, Cleveland County, Arkansas",-666666666.0,025,91785,05
+0506790459,"Breckenridge township, Jackson County, Arkansas",38750.0,067,90459,05
+0506791554,"Grubbs township, Jackson County, Arkansas",40987.0,067,91554,05
+0506790147,"Bateman township, Jackson County, Arkansas",-666666666.0,067,90147,05
+0506790579,"Cache township, Jackson County, Arkansas",20313.0,067,90579,05
+0506793804,"Village township, Jackson County, Arkansas",27879.0,067,93804,05
+0506790948,"Cow Lake township, Jackson County, Arkansas",29444.0,067,90948,05
+0506793165,"Richwoods township, Jackson County, Arkansas",27917.0,067,93165,05
+0506791467,"Glaize township, Jackson County, Arkansas",36935.0,067,91467,05
+0506791929,"Jefferson township, Jackson County, Arkansas",41131.0,067,91929,05
+0506790126,"Barren township, Jackson County, Arkansas",46094.0,067,90126,05
+0505793849,"Wallaceburg township, Hempstead County, Arkansas",57373.0,057,93849,05
+0505790396,"Bois d'Arc township, Hempstead County, Arkansas",45972.0,057,90396,05
+0505792499,"Mine Creek township, Hempstead County, Arkansas",69509.0,057,92499,05
+0505792700,"Noland township, Hempstead County, Arkansas",29513.0,057,92700,05
+0505793072,"Redland township, Hempstead County, Arkansas",37574.0,057,93072,05
+0505791431,"Garland township, Hempstead County, Arkansas",103300.0,057,91431,05
+0505793474,"Springhill township, Hempstead County, Arkansas",52143.0,057,93474,05
+0505793942,"Water Creek township, Hempstead County, Arkansas",31422.0,057,93942,05
+0505790387,"Bodcaw township, Hempstead County, Arkansas",31094.0,057,90387,05
+0505791077,"De Roan township, Hempstead County, Arkansas",48487.0,057,91077,05
+0505793303,"Saline township, Hempstead County, Arkansas",41379.0,057,93303,05
+0505792802,"Ozan township, Hempstead County, Arkansas",47386.0,057,92802,05
+0513593507,"Strawberry township, Sharp County, Arkansas",-666666666.0,135,93507,05
+0513593174,"Richwoods township, Sharp County, Arkansas",30231.0,135,93174,05
+0513591719,"Highland township, Sharp County, Arkansas",42012.0,135,91719,05
+0513591881,"Jackson township, Sharp County, Arkansas",34964.0,135,91881,05
+0513592286,"Lower North township, Sharp County, Arkansas",25859.0,135,92286,05
+0513593441,"South Union township, Sharp County, Arkansas",22917.0,135,93441,05
+0506393285,"Salado township, Independence County, Arkansas",28575.0,063,93285,05
+0513591029,"Davidson township, Sharp County, Arkansas",35054.0,135,91029,05
+0506391128,"Dota township, Independence County, Arkansas",56450.0,063,91128,05
+0506392313,"McHue township, Independence County, Arkansas",48939.0,063,92313,05
+0506392169,"Liberty township, Independence County, Arkansas",57554.0,063,92169,05
+0506392739,"Oil Trough township, Independence County, Arkansas",19650.0,063,92739,05
+0506391272,"Fairview township, Independence County, Arkansas",33333.0,063,91272,05
+0506391401,"Gainsboro township, Independence County, Arkansas",37473.0,063,91401,05
+0506391923,"Jefferson township, Independence County, Arkansas",-666666666.0,063,91923,05
+0506391509,"Greenbrier township, Independence County, Arkansas",53000.0,063,91509,05
+0507992262,"Lone Pine township, Lincoln County, Arkansas",14594.0,079,92262,05
+0506392550,"Moorefield township, Independence County, Arkansas",61729.0,063,92550,05
+0506393234,"Rosie township, Independence County, Arkansas",59583.0,063,93234,05
+0507993453,"Spring township, Lincoln County, Arkansas",65921.0,079,93453,05
+0507992043,"Kimbrough township, Lincoln County, Arkansas",-666666666.0,079,92043,05
+0507990135,"Bartholomew township, Lincoln County, Arkansas",-666666666.0,079,90135,05
+0507990639,"Cane Creek township, Lincoln County, Arkansas",34609.0,079,90639,05
+0507991488,"Gould township, Lincoln County, Arkansas",44315.0,079,91488,05
+0507993414,"Smith township, Lincoln County, Arkansas",57601.0,079,93414,05
+0507990786,"Choctaw township, Lincoln County, Arkansas",-666666666.0,079,90786,05
+0507990075,"Auburn township, Lincoln County, Arkansas",58571.0,079,90075,05
+0507993963,"Wells Bayou township, Lincoln County, Arkansas",58090.0,079,93963,05
+0507992478,"Mill Creek township, Lincoln County, Arkansas",51761.0,079,92478,05
+0507992793,"Owen township, Lincoln County, Arkansas",43654.0,079,92793,05
+0508390807,"Clark township, Logan County, Arkansas",46719.0,083,90807,05
+0508391230,"Ellsworth township, Logan County, Arkansas",50474.0,083,91230,05
+0508393195,"River township, Logan County, Arkansas",40313.0,083,93195,05
+0508393390,"Six Mile township, Logan County, Arkansas",43684.0,083,93390,05
+0508390405,"Boone township, Logan County, Arkansas",35143.0,083,90405,05
+0508392598,"Mountain township, Logan County, Arkansas",28542.0,083,92598,05
+0508392859,"Petit Jean township, Logan County, Arkansas",42250.0,083,92859,05
+0508393366,"Shoal Creek township, Logan County, Arkansas",-666666666.0,083,93366,05
+0508391140,"Driggs township, Logan County, Arkansas",56875.0,083,91140,05
+0508391977,"Johnson township, Logan County, Arkansas",-666666666.0,083,91977,05
+0508393894,"Washburn township, Logan County, Arkansas",49500.0,083,93894,05
+0508393114,"Reveilee township, Logan County, Arkansas",40380.0,083,93114,05
+0513593438,"South Lebanon township, Sharp County, Arkansas",-666666666.0,135,93438,05
+0513593744,"Upper North township, Sharp County, Arkansas",30750.0,135,93744,05
+0513593426,"South Big Rock township, Sharp County, Arkansas",77500.0,135,93426,05
+0513593927,"Washington township, Sharp County, Arkansas",66074.0,135,93927,05
+0513592721,"North Union township, Sharp County, Arkansas",26607.0,135,92721,05
+0513592907,"Piney Fork township, Sharp County, Arkansas",27426.0,135,92907,05
+0513590282,"Big Creek township, Sharp County, Arkansas",63417.0,135,90282,05
+0513590705,"Cave township, Sharp County, Arkansas",30826.0,135,90705,05
+0513592706,"North Big Rock township, Sharp County, Arkansas",-666666666.0,135,92706,05
+0513593975,"West Sullivan township, Sharp County, Arkansas",24833.0,135,93975,05
+0513592565,"Morgan township, Sharp County, Arkansas",50750.0,135,92565,05
+0513590768,"Cherokee township, Sharp County, Arkansas",31799.0,135,90768,05
+0513592124,"Lave Creek township, Sharp County, Arkansas",24330.0,135,92124,05
+0513591605,"Hardy township, Sharp County, Arkansas",29018.0,135,91605,05
+0513592808,"Ozark township, Sharp County, Arkansas",26250.0,135,92808,05
+0513593336,"Scott township, Sharp County, Arkansas",-666666666.0,135,93336,05
+0513592718,"North Lebanon township, Sharp County, Arkansas",-666666666.0,135,92718,05
+0513792001,"Jones township, Stone County, Arkansas",-666666666.0,137,92001,05
+0513793402,"Smart township, Stone County, Arkansas",63750.0,137,93402,05
+0513793726,"Union township, Stone County, Arkansas",36281.0,137,93726,05
+0513792764,"Optimus township, Stone County, Arkansas",-666666666.0,137,92764,05
+0513793609,"Timbo township, Stone County, Arkansas",50469.0,137,93609,05
+0513794092,"Wilson township, Stone County, Arkansas",-666666666.0,137,94092,05
+0513793090,"Red River township, Stone County, Arkansas",-666666666.0,137,93090,05
+0513793099,"Red Stripe township, Stone County, Arkansas",52708.0,137,93099,05
+0513791296,"Flag township, Stone County, Arkansas",-666666666.0,137,91296,05
+0513790366,"Blue Mountain township, Stone County, Arkansas",29275.0,137,90366,05
+0513791275,"Farris township, Stone County, Arkansas",-666666666.0,137,91275,05
+0513792244,"Locust Grove township, Stone County, Arkansas",13750.0,137,92244,05
+0513791362,"Franklin township, Stone County, Arkansas",30583.0,137,91362,05
+0513791614,"Harris township, Stone County, Arkansas",-666666666.0,137,91614,05
+0513792187,"Liberty township, Stone County, Arkansas",35156.0,137,92187,05
+0513792374,"Marcella township, Stone County, Arkansas",-666666666.0,137,92374,05
+0513793567,"Sylamore township, Stone County, Arkansas",34509.0,137,93567,05
+0513792724,"Northwest township, Stone County, Arkansas",31389.0,137,92724,05
+0513793177,"Richwoods township, Stone County, Arkansas",83333.0,137,93177,05
+0513793930,"Washington township, Stone County, Arkansas",52404.0,137,93930,05
+0508390363,"Blue Mountain township, Logan County, Arkansas",28750.0,083,90363,05
+0508393231,"Roseville township, Logan County, Arkansas",39306.0,083,93231,05
+0508393519,"Sugar Creek township, Logan County, Arkansas",-666666666.0,083,93519,05
+0508390642,"Cane Creek township, Logan County, Arkansas",41705.0,083,90642,05
+0508393372,"Short Mountain township, Logan County, Arkansas",32911.0,083,93372,05
+0508390699,"Cauthron township, Logan County, Arkansas",56118.0,083,90699,05
+0508392256,"Logan township, Logan County, Arkansas",77981.0,083,92256,05
+0508390108,"Barber township, Logan County, Arkansas",46389.0,083,90108,05
+0508391053,"Delaware township, Logan County, Arkansas",26950.0,083,91053,05
+0505393384,"Simpson township, Grant County, Arkansas",68176.0,053,93384,05
+0505393591,"Tennessee township, Grant County, Arkansas",43295.0,053,93591,05
+0505390624,"Calvert township, Grant County, Arkansas",57260.0,053,90624,05
+0505391023,"Darysaw township, Grant County, Arkansas",60729.0,053,91023,05
+0505392451,"Merry Green township, Grant County, Arkansas",48843.0,053,92451,05
+0505391050,"Dekalb township, Grant County, Arkansas",43125.0,053,91050,05
+0514393465,"Springdale township, Washington County, Arkansas",52884.0,143,93465,05
+0514393486,"Starr Hill township, Washington County, Arkansas",39688.0,143,93486,05
+0514393957,"Wedington township, Washington County, Arkansas",65732.0,143,93957,05
+0514390420,"Boston township, Washington County, Arkansas",52614.0,143,90420,05
+0514391170,"Dutch Mills township, Washington County, Arkansas",53971.0,143,91170,05
+0514392577,"Morrow township, Washington County, Arkansas",40833.0,143,92577,05
+0514391283,"Fayetteville township, Washington County, Arkansas",44432.0,143,91283,05
+0514391485,"Goshen township, Washington County, Arkansas",78125.0,143,91485,05
+0514391989,"Johnson township, Washington County, Arkansas",76339.0,143,91989,05
+0514393813,"Vineyard township, Washington County, Arkansas",26838.0,143,93813,05
+0514393985,"Wheeler township, Washington County, Arkansas",76174.0,143,93985,05
+0514390645,"Cane Hill township, Washington County, Arkansas",45208.0,143,90645,05
+0514394122,"Wyman township, Washington County, Arkansas",44674.0,143,94122,05
+0514391225,"Elkins township, Washington County, Arkansas",62176.0,143,91225,05
+0514393156,"Richland township, Washington County, Arkansas",66563.0,143,93156,05
+0514394026,"White River township, Washington County, Arkansas",60208.0,143,94026,05
+0514391521,"Greenland township, Washington County, Arkansas",50142.0,143,91521,05
+0514392148,"Lees Creek township, Washington County, Arkansas",51875.0,143,92148,05
+0514391608,"Harmon township, Washington County, Arkansas",107250.0,143,91608,05
+0514393768,"Valley township, Washington County, Arkansas",64875.0,143,93768,05
+0504791123,"Donald township, Franklin County, Arkansas",36250.0,047,91123,05
+0504791803,"Hurricane township, Franklin County, Arkansas",98802.0,047,91803,05
+0504794032,"White Rock township, Franklin County, Arkansas",56111.0,047,94032,05
+0504793840,"Wallace township, Franklin County, Arkansas",66316.0,047,93840,05
+0504792988,"Prairie township, Franklin County, Arkansas",44306.0,047,92988,05
+0504790336,"Black Oak township, Franklin County, Arkansas",65556.0,047,90336,05
+0504794107,"Wittich township, Franklin County, Arkansas",36797.0,047,94107,05
+0504992658,"Myatt township, Fulton County, Arkansas",-666666666.0,049,92658,05
+0504993681,"Union township, Fulton County, Arkansas",-666666666.0,049,93681,05
+0504993798,"Vidette township, Fulton County, Arkansas",26042.0,049,93798,05
+0504990006,"Afton township, Fulton County, Arkansas",39764.0,049,90006,05
+0510191641,"Hasty township, Newton County, Arkansas",40313.0,101,91641,05
+0510191545,"Grove township, Newton County, Arkansas",40938.0,101,91545,05
+0510193990,"White township, Newton County, Arkansas",45774.0,101,93990,05
+0510192373,"Marble Falls township, Newton County, Arkansas",55000.0,101,92373,05
+0510191941,"Jefferson township, Newton County, Arkansas",46333.0,101,91941,05
+0510191995,"Jones township, Newton County, Arkansas",41500.0,101,91995,05
+0510192295,"Low Gap township, Newton County, Arkansas",36779.0,101,92295,05
+0510192928,"Plumlee township, Newton County, Arkansas",-666666666.0,101,92928,05
+0510192958,"Ponca township, Newton County, Arkansas",-666666666.0,101,92958,05
+0510193150,"Richland township, Newton County, Arkansas",40417.0,101,93150,05
+0510192772,"Osage township, Newton County, Arkansas",-666666666.0,101,92772,05
+0500190138,"Barton township, Arkansas County, Arkansas",82708.0,001,90138,05
+0500191563,"Gum Pond township, Arkansas County, Arkansas",48387.0,001,91563,05
+0500191425,"Garland township, Arkansas County, Arkansas",-666666666.0,001,91425,05
+0500192307,"McFall township, Arkansas County, Arkansas",100938.0,001,92307,05
+0500192466,"Mill Bayou township, Arkansas County, Arkansas",47250.0,001,92466,05
+0500190963,"Crockett township, Arkansas County, Arkansas",-666666666.0,001,90963,05
+0500192574,"Morris township, Arkansas County, Arkansas",49115.0,001,92574,05
+0500192937,"Point Deluce township, Arkansas County, Arkansas",66625.0,001,92937,05
+0500190060,"Arkansas township, Arkansas County, Arkansas",37955.0,001,90060,05
+0500190774,"Chester township, Arkansas County, Arkansas",-666666666.0,001,90774,05
+0500190168,"Bayou Meto township, Arkansas County, Arkansas",63103.0,001,90168,05
+0500192010,"Keaton township, Arkansas County, Arkansas",26667.0,001,92010,05
+0500192973,"Prairie township, Arkansas County, Arkansas",49219.0,001,92973,05
+0500193483,"Stanley township, Arkansas County, Arkansas",49375.0,001,93483,05
+0500192085,"La Grue township, Arkansas County, Arkansas",33438.0,001,92085,05
+0500191668,"Henton township, Arkansas County, Arkansas",40536.0,001,91668,05
+0500190462,"Brewer township, Arkansas County, Arkansas",-666666666.0,001,90462,05
+0508193141,"Richland township, Little River County, Arkansas",-666666666.0,081,93141,05
+0508190057,"Arden township, Little River County, Arkansas",37500.0,081,90057,05
+0508193843,"Wallace township, Little River County, Arkansas",61250.0,081,93843,05
+0508190555,"Burke township, Little River County, Arkansas",31827.0,081,90555,05
+0508190648,"Caney township, Little River County, Arkansas",41583.0,081,90648,05
+0508190858,"Cleveland township, Little River County, Arkansas",39667.0,081,90858,05
+0508191863,"Jackson township, Little River County, Arkansas",37011.0,081,91863,05
+0508190063,"Arkinda township, Little River County, Arkansas",-666666666.0,081,90063,05
+0508191935,"Jefferson township, Little River County, Arkansas",36635.0,081,91935,05
+0503790204,"Bedford township, Cross County, Arkansas",39306.0,037,90204,05
+0502192667,"Nelson township, Clay County, Arkansas",34000.0,021,92667,05
+0502191971,"Johnson township, Clay County, Arkansas",36667.0,021,91971,05
+0503791227,"Ellis township, Cross County, Arkansas",41528.0,037,91227,05
+0503792526,"Mitchell township, Cross County, Arkansas",39009.0,037,92526,05
+0503793408,"Smith township, Cross County, Arkansas",65302.0,037,93408,05
+0503790504,"Brushy Lake township, Cross County, Arkansas",26838.0,037,90504,05
+0503791266,"Fair Oaks township, Cross County, Arkansas",-666666666.0,037,91266,05
+0503793657,"Tyronza township, Cross County, Arkansas",19556.0,037,93657,05
+0503794125,"Wynne township, Cross County, Arkansas",46806.0,037,94125,05
+0503790894,"Coldwater township, Cross County, Arkansas",30521.0,037,90894,05
+0503791701,"Hickory Ridge township, Cross County, Arkansas",24952.0,037,91701,05
+0503793339,"Searcy township, Cross County, Arkansas",30625.0,037,93339,05
+0503993411,"Smith township, Dallas County, Arkansas",85208.0,039,93411,05
+0503994071,"Willow township, Dallas County, Arkansas",32917.0,039,94071,05
+0503992790,"Owen township, Dallas County, Arkansas",39196.0,039,92790,05
+0503991317,"Fordyce township, Dallas County, Arkansas",41349.0,039,91317,05
+0503992364,"Manchester township, Dallas County, Arkansas",39063.0,039,92364,05
+0503992697,"Nix township, Dallas County, Arkansas",14375.0,039,92697,05
+0503992166,"Liberty township, Dallas County, Arkansas",-666666666.0,039,92166,05
+0503991146,"Dry Run township, Dallas County, Arkansas",-666666666.0,039,91146,05
+0503993030,"Princeton township, Dallas County, Arkansas",52250.0,039,93030,05
+0503993423,"Southall township, Dallas County, Arkansas",41563.0,039,93423,05
+0503990546,"Bunn township, Dallas County, Arkansas",-666666666.0,039,90546,05
+0504993498,"Strawberry township, Fulton County, Arkansas",53164.0,049,93498,05
+0504990258,"Big Creek township, Fulton County, Arkansas",18162.0,049,90258,05
+0504992922,"Pleasant Ridge township, Fulton County, Arkansas",37287.0,049,92922,05
+0512190990,"Current River township, Randolph County, Arkansas",60694.0,121,90990,05
+0512191323,"Foster township, Randolph County, Arkansas",83417.0,121,91323,05
+0512190093,"Baker township, Randolph County, Arkansas",-666666666.0,121,90093,05
+0512190909,"Columbia township, Randolph County, Arkansas",30114.0,121,90909,05
+0512193480,"Spring River township, Randolph County, Arkansas",51042.0,121,93480,05
+0512193891,"Warm Springs township, Randolph County, Arkansas",-666666666.0,121,93891,05
+0512191878,"Jackson township, Randolph County, Arkansas",-666666666.0,121,91878,05
+0512191833,"Ingram township, Randolph County, Arkansas",-666666666.0,121,91833,05
+0512593417,"Smith township, Saline County, Arkansas",65219.0,125,93417,05
+0512592676,"Newcomb township, Saline County, Arkansas",75625.0,125,92676,05
+0512591269,"Fairplay township, Saline County, Arkansas",55781.0,125,91269,05
+0512592034,"Kentucky township, Saline County, Arkansas",57331.0,125,92034,05
+0512591743,"Holland township, Saline County, Arkansas",85417.0,125,91743,05
+0512593354,"Shaw township, Saline County, Arkansas",64143.0,125,93354,05
+0512593723,"Union township, Saline County, Arkansas",65710.0,125,93723,05
+0512590153,"Bauxite township, Saline County, Arkansas",57186.0,125,90153,05
+0512593291,"Salem township, Saline County, Arkansas",62786.0,125,93291,05
+0512591179,"Dyer township, Saline County, Arkansas",81087.0,125,91179,05
+0512592370,"Marble township, Saline County, Arkansas",61506.0,125,92370,05
+0512590198,"Beaver township, Saline County, Arkansas",56979.0,125,90198,05
+0512592184,"Liberty township, Saline County, Arkansas",59844.0,125,92184,05
+0512592775,"Otter township, Saline County, Arkansas",53889.0,125,92775,05
+0512590105,"Banner township, Saline County, Arkansas",58016.0,125,90105,05
+0512591638,"Haskell township, Saline County, Arkansas",70407.0,125,91638,05
+0512591809,"Hurricane township, Saline County, Arkansas",47120.0,125,91809,05
+0512592799,"Owen township, Saline County, Arkansas",75926.0,125,92799,05
+0504791740,"Hogan township, Franklin County, Arkansas",40875.0,047,91740,05
+0504791845,"Ivy township, Franklin County, Arkansas",46875.0,047,91845,05
+0504792472,"Mill Creek township, Franklin County, Arkansas",-666666666.0,047,92472,05
+0504793828,"Walker township, Franklin County, Arkansas",-666666666.0,047,93828,05
+0504790111,"Barham township, Franklin County, Arkansas",-666666666.0,047,90111,05
+0504792205,"Limestone township, Franklin County, Arkansas",-666666666.0,047,92205,05
+0504794005,"White Oak township, Franklin County, Arkansas",32537.0,047,94005,05
+0504790411,"Boston township, Franklin County, Arkansas",2499.0,047,90411,05
+0504790954,"Cravens township, Franklin County, Arkansas",59208.0,047,90954,05
+0504792316,"McIlroy township, Franklin County, Arkansas",-666666666.0,047,92316,05
+0504792454,"Middle township, Franklin County, Arkansas",45633.0,047,92454,05
+0504793369,"Shores township, Franklin County, Arkansas",-666666666.0,047,93369,05
+0504793387,"Six Mile township, Franklin County, Arkansas",-666666666.0,047,93387,05
+0504790021,"Alix township, Franklin County, Arkansas",-666666666.0,047,90021,05
+0504792496,"Miller township, Franklin County, Arkansas",-666666666.0,047,92496,05
+0504791551,"Grover township, Franklin County, Arkansas",60417.0,047,91551,05
+0504792649,"Mulberry township, Franklin County, Arkansas",36442.0,047,92649,05
+0504793936,"Watalula township, Franklin County, Arkansas",53125.0,047,93936,05
+0504590618,"California township, Faulkner County, Arkansas",50833.0,045,90618,05
+0504590876,"Clifton township, Faulkner County, Arkansas",79267.0,045,90876,05
+0504591599,"Hardin township, Faulkner County, Arkansas",46883.0,045,91599,05
+0504592427,"Matthews township, Faulkner County, Arkansas",30250.0,045,92427,05
+0504591014,"Danley township, Faulkner County, Arkansas",57813.0,045,91014,05
+0504590240,"Benton township, Faulkner County, Arkansas",31441.0,045,90240,05
+0504590225,"Benedict township, Faulkner County, Arkansas",67128.0,045,90225,05
+0504591002,"Cypress township, Faulkner County, Arkansas",54542.0,045,91002,05
+0504591635,"Harve township, Faulkner County, Arkansas",52083.0,045,91635,05
+0504590600,"Cadron township, Faulkner County, Arkansas",53990.0,045,90600,05
+0504592685,"Newton township, Faulkner County, Arkansas",42083.0,045,92685,05
+0504591188,"Eagle township, Faulkner County, Arkansas",63214.0,045,91188,05
+0504592637,"Mount Vernon township, Faulkner County, Arkansas",51484.0,045,92637,05
+0514393123,"Rheas Mill township, Washington County, Arkansas",86010.0,143,93123,05
+0514391164,"Durham township, Washington County, Arkansas",65463.0,143,91164,05
+0514390744,"Center township, Washington County, Arkansas",78520.0,143,90744,05
+0500591524,"Greenwood township, Baxter County, Arkansas",-666666666.0,005,91524,05
+0500592247,"Logan township, Baxter County, Arkansas",47647.0,005,92247,05
+0500592709,"North Fork township, Baxter County, Arkansas",32155.0,005,92709,05
+0500590525,"Buckhorn township, Baxter County, Arkansas",33864.0,005,90525,05
+0500590165,"Bayou township, Baxter County, Arkansas",35694.0,005,90165,05
+0500591818,"Independence township, Baxter County, Arkansas",45700.0,005,91818,05
+0500592877,"Pigeon township, Baxter County, Arkansas",38036.0,005,92877,05
+0500592616,"Mountain Home township, Baxter County, Arkansas",39469.0,005,92616,05
+0500593669,"Union township, Baxter County, Arkansas",44550.0,005,93669,05
+0500592424,"Matney township, Baxter County, Arkansas",-666666666.0,005,92424,05
+0500592460,"Mill township, Baxter County, Arkansas",46691.0,005,92460,05
+0500590288,"Big Flat township, Baxter County, Arkansas",-666666666.0,005,90288,05
+0500590540,"Buford township, Baxter County, Arkansas",54167.0,005,90540,05
+0500592265,"Lone Rock township, Baxter County, Arkansas",50625.0,005,92265,05
+0500594035,"Whiteville township, Baxter County, Arkansas",38100.0,005,94035,05
+0500591548,"Grover township, Baxter County, Arkansas",45844.0,005,91548,05
+0500390210,"Beech Creek township, Ashley County, Arkansas",-666666666.0,003,90210,05
+0500392277,"Longview township, Ashley County, Arkansas",43971.0,003,92277,05
+0500390162,"Bayou township, Ashley County, Arkansas",-666666666.0,003,90162,05
+0500392469,"Mill Creek township, Ashley County, Arkansas",57857.0,003,92469,05
+0500394077,"Wilmot township, Ashley County, Arkansas",35972.0,003,94077,05
+0500391263,"Extra township, Ashley County, Arkansas",-666666666.0,003,91263,05
+0500390183,"Bearhouse township, Ashley County, Arkansas",-666666666.0,003,90183,05
+0500390102,"Banner township, Ashley County, Arkansas",46964.0,003,90102,05
+0500392541,"Montrose township, Ashley County, Arkansas",33000.0,003,92541,05
+0500392964,"Portland township, Ashley County, Arkansas",36500.0,003,92964,05
+0500392976,"Prairie township, Ashley County, Arkansas",41375.0,003,92976,05
+0500390687,"Carter township, Ashley County, Arkansas",51080.0,003,90687,05
+0500393666,"Union township, Ashley County, Arkansas",65750.0,003,93666,05
+0500391239,"Elon township, Ashley County, Arkansas",-666666666.0,003,91239,05
+0500393987,"White township, Ashley County, Arkansas",77870.0,003,93987,05
+0500391044,"De Bastrop township, Ashley County, Arkansas",22500.0,003,91044,05
+0500391212,"Egypt township, Ashley County, Arkansas",42833.0,003,91212,05
+0504592589,"Mountain township, Faulkner County, Arkansas",60465.0,045,92589,05
+0504592814,"Palarm township, Faulkner County, Arkansas",81042.0,045,92814,05
+0504593678,"Union township, Faulkner County, Arkansas",51157.0,045,93678,05
+0504594083,"Wilson township, Faulkner County, Arkansas",50417.0,045,94083,05
+0504591251,"Enola township, Faulkner County, Arkansas",55326.0,045,91251,05
+0504592892,"Pine Mountain township, Faulkner County, Arkansas",85102.0,045,92892,05
+0504593825,"Walker township, Faulkner County, Arkansas",52708.0,045,93825,05
+0504590483,"Bristol township, Faulkner County, Arkansas",66250.0,045,90483,05
+0510993345,"Self Creek township, Pike County, Arkansas",29792.0,109,93345,05
+0510992523,"Missouri township, Pike County, Arkansas",26528.0,109,92523,05
+0510994110,"Wolf Creek township, Pike County, Arkansas",39712.0,109,94110,05
+0510990468,"Brewer township, Pike County, Arkansas",46250.0,109,90468,05
+0510992601,"Mountain township, Pike County, Arkansas",66953.0,109,92601,05
+0510992880,"Pike City township, Pike County, Arkansas",48897.0,109,92880,05
+0510993312,"Saline township, Pike County, Arkansas",33333.0,109,93312,05
+0510990045,"Antoine township, Pike County, Arkansas",51250.0,109,90045,05
+0510992646,"Muddy Fork township, Pike County, Arkansas",44468.0,109,92646,05
+0510993606,"Thompson township, Pike County, Arkansas",36218.0,109,93606,05
+0510991194,"Eagle township, Pike County, Arkansas",50938.0,109,91194,05
+0510990810,"Clark township, Pike County, Arkansas",34483.0,109,90810,05
+0510993993,"White township, Pike County, Arkansas",38235.0,109,93993,05
+0506993570,"Talladega township, Jefferson County, Arkansas",46809.0,069,93570,05
+0506993795,"Victoria township, Jefferson County, Arkansas",45139.0,069,93795,05
+0506992925,"Plum Bayou township, Jefferson County, Arkansas",44821.0,069,92925,05
+0506993918,"Washington township, Jefferson County, Arkansas",54075.0,069,93918,05
+0506992832,"Pastoria township, Jefferson County, Arkansas",-666666666.0,069,92832,05
+0506993210,"Roberts township, Jefferson County, Arkansas",59375.0,069,93210,05
+0506992748,"Old River township, Jefferson County, Arkansas",-666666666.0,069,92748,05
+0506991161,"Dunnington township, Jefferson County, Arkansas",24688.0,069,91161,05
+0506992694,"Niven township, Jefferson County, Arkansas",69438.0,069,92694,05
+0506993135,"Richland township, Jefferson County, Arkansas",37083.0,069,93135,05
+0506990390,"Bogy township, Jefferson County, Arkansas",-666666666.0,069,90390,05
+0506991155,"Dudley Lake township, Jefferson County, Arkansas",-666666666.0,069,91155,05
+0506991932,"Jefferson township, Jefferson County, Arkansas",50214.0,069,91932,05
+0506993450,"Spring township, Jefferson County, Arkansas",54628.0,069,93450,05
+0506993783,"Vaugine township, Jefferson County, Arkansas",44462.0,069,93783,05
+0503191512,"Greenfield township, Craighead County, Arkansas",58636.0,031,91512,05
+0503192154,"Lester township, Craighead County, Arkansas",30469.0,031,92154,05
+0503192004,"Jonesboro township, Craighead County, Arkansas",51382.0,031,92004,05
+0503193597,"Texas township, Craighead County, Arkansas",24357.0,031,93597,05
+0503192970,"Powell township, Craighead County, Arkansas",69352.0,031,92970,05
+0503193036,"Promised Land township, Craighead County, Arkansas",35040.0,031,93036,05
+0503192670,"Nettleton township, Craighead County, Arkansas",30391.0,031,92670,05
+0503192433,"Maumelle township, Craighead County, Arkansas",42232.0,031,92433,05
+0503392112,"Lancaster township, Crawford County, Arkansas",56343.0,033,92112,05
+0503390777,"Chester township, Crawford County, Arkansas",49219.0,033,90777,05
+0503390942,"Cove City township, Crawford County, Arkansas",-666666666.0,033,90942,05
+0503392614,"Mountainburg township, Crawford County, Arkansas",48779.0,033,92614,05
+0503391124,"Dora township, Crawford County, Arkansas",70000.0,033,91124,05
+0503390024,"Alma township, Crawford County, Arkansas",41467.0,033,90024,05
+0503391043,"Dean Springs township, Crawford County, Arkansas",51533.0,033,91043,05
+0503392039,"Kibler township, Crawford County, Arkansas",36801.0,033,92039,05
+0503393810,"Vine Prairie township, Crawford County, Arkansas",49939.0,033,93810,05
+0503394044,"Whitley township, Crawford County, Arkansas",39750.0,033,94044,05
+0501192817,"Palestine township, Bradley County, Arkansas",105511.0,011,92817,05
+0501192844,"Pennington township, Bradley County, Arkansas",43444.0,011,92844,05
+0501193903,"Washington township, Bradley County, Arkansas",60778.0,011,93903,05
+0501190819,"Clay township, Bradley County, Arkansas",43750.0,011,90819,05
+0501193186,"River township, Bradley County, Arkansas",-666666666.0,011,93186,05
+0501192568,"Moro township, Bradley County, Arkansas",-666666666.0,011,92568,05
+0507590066,"Ashland township, Lawrence County, Arkansas",25000.0,075,90066,05
+0507590627,"Campbell township, Lawrence County, Arkansas",40619.0,075,90627,05
+0507591299,"Flat Creek township, Lawrence County, Arkansas",-666666666.0,075,91299,05
+0507592562,"Morgan township, Lawrence County, Arkansas",39375.0,075,92562,05
+0507593504,"Strawberry township, Lawrence County, Arkansas",53542.0,075,93504,05
+0507593603,"Thacker township, Lawrence County, Arkansas",23750.0,075,93603,05
+0503192985,"Prairie township, Craighead County, Arkansas",81438.0,031,92985,05
+0503191674,"Herndon township, Craighead County, Arkansas",63333.0,031,91674,05
+0503193582,"Taylor township, Craighead County, Arkansas",-666666666.0,031,93582,05
+0503190330,"Black Oak township, Craighead County, Arkansas",42102.0,031,90330,05
+0503190489,"Brookland township, Craighead County, Arkansas",44430.0,031,90489,05
+0503190255,"Big Creek township, Craighead County, Arkansas",49390.0,031,90255,05
+0503191461,"Gilkerson township, Craighead County, Arkansas",85439.0,031,91461,05
+0503192232,"Little Texas township, Craighead County, Arkansas",-666666666.0,031,92232,05
+0503190534,"Buffalo township, Craighead County, Arkansas",51364.0,031,90534,05
+0505593687,"Union township, Greene County, Arkansas",49083.0,055,93687,05
+0503192097,"Lake City township, Craighead County, Arkansas",42500.0,031,92097,05
+0505590510,"Bryan township, Greene County, Arkansas",-666666666.0,055,90510,05
+0505590804,"Clark township, Greene County, Arkansas",39718.0,055,90804,05
+0505593120,"Reynolds township, Greene County, Arkansas",-666666666.0,055,93120,05
+0505593288,"Salem township, Greene County, Arkansas",52578.0,055,93288,05
+0505593867,"Walnut Corner township, Greene County, Arkansas",-666666666.0,055,93867,05
+0505591257,"Evening Shade township, Greene County, Arkansas",-666666666.0,055,91257,05
+0505591992,"Jones township, Greene County, Arkansas",53021.0,055,91992,05
+0505590360,"Blue Cane township, Greene County, Arkansas",-666666666.0,055,90360,05
+0505593468,"Spring Grove township, Greene County, Arkansas",60595.0,055,93468,05
+0505591644,"Hays township, Greene County, Arkansas",55313.0,055,91644,05
+0505591806,"Hurricane township, Greene County, Arkansas",36800.0,055,91806,05
+0505592088,"Lake township, Greene County, Arkansas",75057.0,055,92088,05
+0505590576,"Cache township, Greene County, Arkansas",36394.0,055,90576,05
+0505590903,"Collier township, Greene County, Arkansas",64353.0,055,90903,05
+0505590984,"Crowley township, Greene County, Arkansas",21957.0,055,90984,05
+0505591389,"Friendship township, Greene County, Arkansas",48300.0,055,91389,05
+0505590456,"Breckenridge township, Greene County, Arkansas",48696.0,055,90456,05
+0505591764,"Hopewell township, Greene County, Arkansas",74801.0,055,91764,05
+0509793934,"Washita township, Montgomery County, Arkansas",30577.0,097,93934,05
+0506990120,"Barraque township, Jefferson County, Arkansas",51016.0,069,90120,05
+0506992448,"Melton township, Jefferson County, Arkansas",27829.0,069,92448,05
+0506993807,"Villemont township, Jefferson County, Arkansas",-666666666.0,069,93807,05
+0506990399,"Bolivar township, Jefferson County, Arkansas",-666666666.0,069,90399,05
+0506994041,"Whiteville township, Jefferson County, Arkansas",42120.0,069,94041,05
+0509792841,"Pencil Bluff township, Montgomery County, Arkansas",27273.0,097,92841,05
+0505592358,"Main Shore township, Greene County, Arkansas",-666666666.0,055,92358,05
+0505593270,"St. Francis township, Greene County, Arkansas",84732.0,055,93270,05
+0505593516,"Sugar Creek township, Greene County, Arkansas",60691.0,055,93516,05
+0505592940,"Poland township, Greene County, Arkansas",44330.0,055,92940,05
+0505593348,"Shady Grove township, Greene County, Arkansas",48529.0,055,93348,05
+0507390090,"Baker township, Lafayette County, Arkansas",29554.0,073,90090,05
+0507393258,"Russell township, Lafayette County, Arkansas",-666666666.0,073,93258,05
+0507392082,"La Grange township, Lafayette County, Arkansas",31786.0,073,92082,05
+0507393201,"Roane township, Lafayette County, Arkansas",55769.0,073,93201,05
+0507393834,"Walker Creek township, Lafayette County, Arkansas",42292.0,073,93834,05
+0507392409,"Mars Hill township, Lafayette County, Arkansas",-666666666.0,073,92409,05
+0507391386,"French township, Lafayette County, Arkansas",66071.0,073,91386,05
+0507393489,"Steel township, Lafayette County, Arkansas",56250.0,073,93489,05
+0510593228,"Rose Creek township, Perry County, Arkansas",40000.0,105,93228,05
+0507391578,"Hadley township, Lafayette County, Arkansas",64375.0,073,91578,05
+0510591326,"Fourche Lafave township, Perry County, Arkansas",41681.0,105,91326,05
+0510592862,"Petit Jean township, Perry County, Arkansas",25313.0,105,92862,05
+0510592022,"Kenney township, Perry County, Arkansas",-666666666.0,105,92022,05
+0510593714,"Union township, Perry County, Arkansas",47326.0,105,93714,05
+0510593054,"Rankin township, Perry County, Arkansas",49345.0,105,93054,05
+0510590048,"Aplin township, Perry County, Arkansas",26548.0,105,90048,05
+0510591776,"Houston township, Perry County, Arkansas",46797.0,105,91776,05
+0510592850,"Perry township, Perry County, Arkansas",33125.0,105,92850,05
+0510592091,"Lake township, Perry County, Arkansas",52308.0,105,92091,05
+0510593735,"Union Valley township, Perry County, Arkansas",-666666666.0,105,93735,05
+0510590690,"Casa township, Perry County, Arkansas",52063.0,105,90690,05
+0510590771,"Cherry Hill township, Perry County, Arkansas",65978.0,105,90771,05
+0510592682,"New Tennessee township, Perry County, Arkansas",-666666666.0,105,92682,05
+0510592436,"Maumelle township, Perry County, Arkansas",61827.0,105,92436,05
+0510594119,"Wye township, Perry County, Arkansas",65167.0,105,94119,05
+0510791707,"Hicksville township, Phillips County, Arkansas",-666666666.0,107,91707,05
+0510792547,"Mooney township, Phillips County, Arkansas",-666666666.0,107,92547,05
+0510793276,"St. Francis township, Phillips County, Arkansas",72321.0,107,93276,05
+0510793462,"Spring Creek township, Phillips County, Arkansas",52292.0,107,93462,05
+0510792094,"Lake township, Phillips County, Arkansas",-666666666.0,107,92094,05
+0512792829,"Parks township, Scott County, Arkansas",47500.0,127,92829,05
+0509790651,"Caney township, Montgomery County, Arkansas",35284.0,097,90651,05
+0509790729,"Center township, Montgomery County, Arkansas",47426.0,097,90729,05
+0512792012,"Keener township, Scott County, Arkansas",-666666666.0,127,92012,05
+0512791689,"Hickman township, Scott County, Arkansas",27034.0,127,91689,05
+0512791890,"James township, Scott County, Arkansas",-666666666.0,127,91890,05
+0512790348,"Blansett township, Scott County, Arkansas",-666666666.0,127,90348,05
+0512790453,"Brawley township, Scott County, Arkansas",-666666666.0,127,90453,05
+0512790702,"Cauthron township, Scott County, Arkansas",-666666666.0,127,90702,05
+0512792064,"La Fave township, Scott County, Arkansas",21389.0,127,92064,05
+0512791758,"Hon township, Scott County, Arkansas",46319.0,127,91758,05
+0512792628,"Mount Pleasant township, Scott County, Arkansas",58300.0,127,92628,05
+0512792109,"Lamb township, Scott County, Arkansas",48017.0,127,92109,05
+0512792160,"Lewis township, Scott County, Arkansas",49068.0,127,92160,05
+0512792487,"Mill Creek township, Scott County, Arkansas",38875.0,127,92487,05
+0512790324,"Black Fork township, Scott County, Arkansas",-666666666.0,127,90324,05
+0512791071,"Denton township, Scott County, Arkansas",48542.0,127,91071,05
+0512792235,"Little Texas township, Scott County, Arkansas",-666666666.0,127,92235,05
+0512792607,"Mountain township, Scott County, Arkansas",22000.0,127,92607,05
+0512790714,"Cedar township, Scott County, Arkansas",-666666666.0,127,90714,05
+0512791998,"Jones township, Scott County, Arkansas",-666666666.0,127,91998,05
+0512792076,"Lafayette township, Scott County, Arkansas",-666666666.0,127,92076,05
+0512790882,"Coal township, Scott County, Arkansas",-666666666.0,127,90882,05
+0512791797,"Hunt township, Scott County, Arkansas",-666666666.0,127,91797,05
+0512993012,"Prairie township, Searcy County, Arkansas",34583.0,129,93012,05
+0512793576,"Tate township, Scott County, Arkansas",-666666666.0,127,93576,05
+0512792751,"Oliver township, Scott County, Arkansas",-666666666.0,127,92751,05
+0512990179,"Bear Creek No. 6 township, Searcy County, Arkansas",47083.0,129,90179,05
+0512993456,"Spring township, Searcy County, Arkansas",54821.0,129,93456,05
+0510790870,"Cleveland township, Phillips County, Arkansas",-666666666.0,107,90870,05
+0510791005,"Cypress township, Phillips County, Arkansas",-666666666.0,107,91005,05
+0510791704,"Hickory Ridge township, Phillips County, Arkansas",-666666666.0,107,91704,05
+0510791767,"Hornor township, Phillips County, Arkansas",36477.0,107,91767,05
+0510790849,"Cleburne township, Phillips County, Arkansas",-666666666.0,107,90849,05
+0510792391,"Marion township, Phillips County, Arkansas",32827.0,107,92391,05
+0510790273,"Big Creek township, Phillips County, Arkansas",36286.0,107,90273,05
+0510793573,"Tappan township, Phillips County, Arkansas",38250.0,107,93573,05
+0511192229,"Little River township, Poinsett County, Arkansas",33750.0,111,92229,05
+0511193660,"Tyronza township, Poinsett County, Arkansas",34554.0,111,93660,05
+0511194068,"Willis township, Poinsett County, Arkansas",39248.0,111,94068,05
+0511193333,"Scott township, Poinsett County, Arkansas",48607.0,111,93333,05
+0511191527,"Greenwood township, Poinsett County, Arkansas",41331.0,111,91527,05
+0511191518,"Greenfield township, Poinsett County, Arkansas",47232.0,111,91518,05
+0511192796,"Owen township, Poinsett County, Arkansas",42386.0,111,92796,05
+0511190402,"Bolivar township, Poinsett County, Arkansas",40484.0,111,90402,05
+0511191119,"Dobson township, Poinsett County, Arkansas",51172.0,111,91119,05
+0511192304,"Lunsford township, Poinsett County, Arkansas",32647.0,111,92304,05
+0513390175,"Bear Creek township, Sevier County, Arkansas",43838.0,133,90175,05
+0513392820,"Paraclifta township, Sevier County, Arkansas",37176.0,133,92820,05
+0507592385,"Marion township, Lawrence County, Arkansas",25966.0,075,92385,05
+0507593039,"Promised Land township, Lawrence County, Arkansas",25417.0,075,93039,05
+0507590033,"Annieville township, Lawrence County, Arkansas",80463.0,075,90033,05
+0507590582,"Cache township, Lawrence County, Arkansas",-666666666.0,075,90582,05
+0507591065,"Dent township, Lawrence County, Arkansas",41397.0,075,91065,05
+0507591206,"Eaton township, Lawrence County, Arkansas",-666666666.0,075,91206,05
+0507593108,"Reeds Creek township, Lawrence County, Arkansas",41143.0,075,93108,05
+0507590342,"Black River township, Lawrence County, Arkansas",46042.0,075,90342,05
+0507590345,"Black Rock township, Lawrence County, Arkansas",33750.0,075,90345,05
+0507590381,"Boas township, Lawrence County, Arkansas",33281.0,075,90381,05
+0507592127,"Lawrence township, Lawrence County, Arkansas",35625.0,075,92127,05
+0507591137,"Dowell township, Lawrence County, Arkansas",38182.0,075,91137,05
+0507593168,"Richwoods township, Lawrence County, Arkansas",51750.0,075,93168,05
+0507593477,"Spring River township, Lawrence County, Arkansas",40119.0,075,93477,05
+0507591959,"Jesup township, Lawrence County, Arkansas",80486.0,075,91959,05
+0507591173,"Duty township, Lawrence County, Arkansas",27174.0,075,91173,05
+0509593147,"Richland township, Monroe County, Arkansas",-666666666.0,095,93147,05
+0509591118,"Dixon township, Monroe County, Arkansas",-666666666.0,095,91118,05
+0509591008,"Cypress Ridge township, Monroe County, Arkansas",-666666666.0,095,91008,05
+0509591515,"Greenfield township, Monroe County, Arkansas",-666666666.0,095,91515,05
+0509590495,"Brown township, Monroe County, Arkansas",-666666666.0,095,90495,05
+0509591158,"Duncan township, Monroe County, Arkansas",35461.0,095,91158,05
+0509592019,"Keevil township, Monroe County, Arkansas",26125.0,095,92019,05
+0509592895,"Pine Ridge township, Monroe County, Arkansas",-666666666.0,095,92895,05
+0509593057,"Raymond township, Monroe County, Arkansas",80521.0,095,93057,05
+0501790432,"Bowie township, Chicot County, Arkansas",41023.0,017,90432,05
+0512392118,"L'Anguille township, St. Francis County, Arkansas",-666666666.0,123,92118,05
+0501792913,"Planters township, Chicot County, Arkansas",40430.0,017,92913,05
+0501790666,"Carlton township, Chicot County, Arkansas",60345.0,017,90666,05
+0505990261,"Big Creek township, Hot Spring County, Arkansas",40875.0,059,90261,05
+0505992457,"Midway township, Hot Spring County, Arkansas",36643.0,059,92457,05
+0505990498,"Brown Springs township, Hot Spring County, Arkansas",-666666666.0,059,90498,05
+0505991290,"Fenter township, Hot Spring County, Arkansas",36122.0,059,91290,05
+0505992352,"Magnet township, Hot Spring County, Arkansas",74327.0,059,92352,05
+0505993756,"Valley township, Hot Spring County, Arkansas",36367.0,059,93756,05
+0505990567,"Butterfield township, Hot Spring County, Arkansas",51509.0,059,90567,05
+0505992535,"Montgomery township, Hot Spring County, Arkansas",55995.0,059,92535,05
+0505991662,"Henderson township, Hot Spring County, Arkansas",67717.0,059,91662,05
+0505991080,"De Roche township, Hot Spring County, Arkansas",36250.0,059,91080,05
+0505993306,"Saline township, Hot Spring County, Arkansas",47351.0,059,93306,05
+0505991131,"Dover township, Hot Spring County, Arkansas",67396.0,059,91131,05
+0505991617,"Harrison township, Hot Spring County, Arkansas",42500.0,059,91617,05
+0505992259,"Lone Hill township, Hot Spring County, Arkansas",-666666666.0,059,92259,05
+0505990318,"Bismarck township, Hot Spring County, Arkansas",52292.0,059,90318,05
+0505991455,"Gifford township, Hot Spring County, Arkansas",52083.0,059,91455,05
+0505990837,"Clear Creek township, Hot Spring County, Arkansas",29250.0,059,90837,05
+0505992991,"Prairie township, Hot Spring County, Arkansas",58021.0,059,92991,05
+0505992781,"Ouachita township, Hot Spring County, Arkansas",33750.0,059,92781,05
+0509591734,"Hindman township, Monroe County, Arkansas",-666666666.0,095,91734,05
+0509591866,"Jackson township, Monroe County, Arkansas",27917.0,095,91866,05
+0509590846,"Cleburne township, Monroe County, Arkansas",-666666666.0,095,90846,05
+0509593216,"Roc Roe township, Monroe County, Arkansas",48083.0,095,93216,05
+0509590480,"Brinkley township, Monroe County, Arkansas",44728.0,095,90480,05
+0509592539,"Montgomery-Smalley township, Monroe County, Arkansas",-666666666.0,095,92539,05
+0509590585,"Cache township, Monroe County, Arkansas",31719.0,095,90585,05
+0511390936,"Cove township, Polk County, Arkansas",27500.0,113,90936,05
+0511392967,"Potter township, Polk County, Arkansas",37115.0,113,92967,05
+0511391197,"Eagle township, Polk County, Arkansas",54318.0,113,91197,05
+0511391374,"Freedom township, Polk County, Arkansas",52909.0,113,91374,05
+0511391278,"Faulkner township, Polk County, Arkansas",-666666666.0,113,91278,05
+0511391416,"Gap Springs township, Polk County, Arkansas",-666666666.0,113,91416,05
+0511392604,"Mountain township, Polk County, Arkansas",46806.0,113,92604,05
+0511392805,"Ozark township, Polk County, Arkansas",30987.0,113,92805,05
+0511390294,"Big Fork township, Polk County, Arkansas",39000.0,113,90294,05
+0511391395,"Fulton township, Polk County, Arkansas",30875.0,113,91395,05
+0511390732,"Center township, Polk County, Arkansas",33561.0,113,90732,05
+0511393162,"Rich Mountain township, Polk County, Arkansas",-666666666.0,113,93162,05
+0511390003,"Acorn township, Polk County, Arkansas",32310.0,113,90003,05
+0511390711,"Cedar township, Polk County, Arkansas",-666666666.0,113,90711,05
+0511392484,"Mill Creek township, Polk County, Arkansas",45455.0,113,92484,05
+0511393996,"White township, Polk County, Arkansas",32647.0,113,93996,05
+0511392787,"Ouachita township, Polk County, Arkansas",24115.0,113,92787,05
+0502990696,"Catholic Point township, Conway County, Arkansas",62917.0,029,90696,05
+0502993960,"Welborn township, Conway County, Arkansas",50221.0,029,93960,05
+0502990723,"Cedar Falls township, Conway County, Arkansas",77250.0,029,90723,05
+0502991779,"Howard township, Conway County, Arkansas",37821.0,029,91779,05
+0502992856,"Petit Jean township, Conway County, Arkansas",56250.0,029,92856,05
+0502990081,"Austin township, Conway County, Arkansas",45268.0,029,90081,05
+0502993282,"St. Vincent township, Conway County, Arkansas",60096.0,029,93282,05
+0502991713,"Higgins township, Conway County, Arkansas",83125.0,029,91713,05
+0502992199,"Lick Mountain township, Conway County, Arkansas",54191.0,029,92199,05
+0502993492,"Steele township, Conway County, Arkansas",59844.0,029,93492,05
+0502990237,"Bentley township, Conway County, Arkansas",46713.0,029,90237,05
+0502990312,"Bird township, Conway County, Arkansas",30298.0,029,90312,05
+0502991533,"Griffin township, Conway County, Arkansas",26985.0,029,91533,05
+0502993999,"White Eagle township, Conway County, Arkansas",116000.0,029,93999,05
+0512391680,"Heth township, St. Francis County, Arkansas",31635.0,123,91680,05
+0512391980,"Johnson township, St. Francis County, Arkansas",48500.0,123,91980,05
+0512393588,"Telico township, St. Francis County, Arkansas",33021.0,123,93588,05
+0512391539,"Griggs township, St. Francis County, Arkansas",-666666666.0,123,91539,05
+0512390321,"Black Fish township, St. Francis County, Arkansas",-666666666.0,123,90321,05
+0512393981,"Wheatley township, St. Francis County, Arkansas",43403.0,123,93981,05
+0512391482,"Goodwin township, St. Francis County, Arkansas",76250.0,123,91482,05
+0512392340,"Madison township, St. Francis County, Arkansas",37163.0,123,92340,05
+0512393009,"Prairie township, St. Francis County, Arkansas",34250.0,123,93009,05
+0512391368,"Franks township, St. Francis County, Arkansas",44183.0,123,91368,05
+0512391437,"Garland township, St. Francis County, Arkansas",44554.0,123,91437,05
+0511990300,"Big Rock township, Pulaski County, Arkansas",65068.0,119,90300,05
+0514591497,"Gravel Hill township, White County, Arkansas",44524.0,145,91497,05
+0511991731,"Hill township, Pulaski County, Arkansas",56906.0,119,91731,05
+0514590999,"Cypert township, White County, Arkansas",-666666666.0,145,90999,05
+0514591443,"Garner township, White County, Arkansas",44375.0,145,91443,05
+0514590042,"Antioch township, White County, Arkansas",73868.0,145,90042,05
+0507791821,"Independence township, Lee County, Arkansas",42159.0,077,91821,05
+0507793138,"Richland township, Lee County, Arkansas",36719.0,077,93138,05
+0507791602,"Hardy township, Lee County, Arkansas",-666666666.0,077,91602,05
+0507792733,"Oak Forest township, Lee County, Arkansas",83750.0,077,92733,05
+0507791302,"Fleener township, Lee County, Arkansas",52128.0,077,91302,05
+0507793600,"Texas township, Lee County, Arkansas",68250.0,077,93600,05
+0507793699,"Union township, Lee County, Arkansas",32969.0,077,93699,05
+0504990855,"Cleveland township, Fulton County, Arkansas",38477.0,049,90855,05
+0504990243,"Benton township, Fulton County, Arkansas",30170.0,049,90243,05
+0506190354,"Blue Bayou township, Howard County, Arkansas",-666666666.0,061,90354,05
+0506190531,"Buck Range township, Howard County, Arkansas",-666666666.0,061,90531,05
+0506192643,"Muddy Fork township, Howard County, Arkansas",-666666666.0,061,92643,05
+0506191104,"Dillard township, Howard County, Arkansas",-666666666.0,061,91104,05
+0506190369,"Blue Ridge township, Howard County, Arkansas",91458.0,061,90369,05
+0506190552,"Burg township, Howard County, Arkansas",44667.0,061,90552,05
+0506190933,"County Line township, Howard County, Arkansas",43702.0,061,90933,05
+0506193309,"Saline township, Howard County, Arkansas",78935.0,061,93309,05
+0506193663,"Umpire township, Howard County, Arkansas",-666666666.0,061,93663,05
+0506190465,"Brewer township, Howard County, Arkansas",52083.0,061,90465,05
+0506190747,"Center Point township, Howard County, Arkansas",55511.0,061,90747,05
+0506192505,"Mineral Springs township, Howard County, Arkansas",39844.0,061,92505,05
+0506191350,"Franklin township, Howard County, Arkansas",-666666666.0,061,91350,05
+0506193324,"Saratoga township, Howard County, Arkansas",-666666666.0,061,93324,05
+0506193615,"Tollette township, Howard County, Arkansas",-666666666.0,061,93615,05
+0506190822,"Clay township, Howard County, Arkansas",-666666666.0,061,90822,05
+0506192337,"Madison township, Howard County, Arkansas",37216.0,061,92337,05
+0506192661,"Nashville township, Howard County, Arkansas",36361.0,061,92661,05
+0506191152,"Duckett township, Howard County, Arkansas",-666666666.0,061,91152,05
+0506191749,"Holly Creek township, Howard County, Arkansas",59022.0,061,91749,05
+0505194047,"Whittington township, Garland County, Arkansas",42899.0,051,94047,05
+0506192595,"Mountain township, Howard County, Arkansas",19063.0,061,92595,05
+0506190327,"Blackland township, Howard County, Arkansas",44167.0,061,90327,05
+0505191581,"Hale township, Garland County, Arkansas",48889.0,051,91581,05
+0509390429,"Bowen township, Mississippi County, Arkansas",53199.0,093,90429,05
+0505191773,"Hot Springs township, Garland County, Arkansas",39139.0,051,91773,05
+0505192100,"Lake Hamilton township, Garland County, Arkansas",54296.0,051,92100,05
+0509390783,"Chickasawba township, Mississippi County, Arkansas",41892.0,093,90783,05
+0509391308,"Fletcher township, Mississippi County, Arkansas",28629.0,093,91308,05
+0508191911,"Jeff Davis township, Little River County, Arkansas",103359.0,081,91911,05
+0508191974,"Johnson township, Little River County, Arkansas",55208.0,081,91974,05
+0508192223,"Little River township, Little River County, Arkansas",59531.0,081,92223,05
+0508191356,"Franklin township, Little River County, Arkansas",41823.0,081,91356,05
+0508191962,"Jewell township, Little River County, Arkansas",56278.0,081,91962,05
+0508192196,"Lick Creek township, Little River County, Arkansas",59063.0,081,92196,05
+0508193081,"Red River township, Little River County, Arkansas",59231.0,081,93081,05
+0508590663,"Carlisle township, Lonoke County, Arkansas",58750.0,085,90663,05
+0508590669,"Caroline township, Lonoke County, Arkansas",74281.0,085,90669,05
+0508590972,"Crooked Creek township, Lonoke County, Arkansas",52266.0,085,90972,05
+0508591125,"Dortch township, Lonoke County, Arkansas",70000.0,085,91125,05
+0508591191,"Eagle township, Lonoke County, Arkansas",71875.0,085,91191,05
+0508591839,"Isbell township, Lonoke County, Arkansas",-666666666.0,085,91839,05
+0508592997,"Prairie township, Lonoke County, Arkansas",53333.0,085,92997,05
+0508594131,"York township, Lonoke County, Arkansas",52897.0,085,94131,05
+0508592070,"Lafayette township, Lonoke County, Arkansas",53819.0,085,92070,05
+0508590561,"Butler township, Lonoke County, Arkansas",46658.0,085,90561,05
+0508591479,"Goodrum township, Lonoke County, Arkansas",64821.0,085,91479,05
+0508591398,"Furlow township, Lonoke County, Arkansas",62564.0,085,91398,05
+0508591590,"Hamilton township, Lonoke County, Arkansas",30156.0,085,91590,05
+0508593852,"Walls township, Lonoke County, Arkansas",63125.0,085,93852,05
+0508594065,"Williams township, Lonoke County, Arkansas",22083.0,085,94065,05
+0508593327,"Scott township, Lonoke County, Arkansas",-666666666.0,085,93327,05
+0513393060,"Red Colony township, Sevier County, Arkansas",44167.0,133,93060,05
+0513390840,"Clear Creek township, Sevier County, Arkansas",41458.0,133,90840,05
+0513392502,"Mineral township, Sevier County, Arkansas",52569.0,133,92502,05
+0513392532,"Monroe township, Sevier County, Arkansas",46741.0,133,92532,05
+0514990372,"Bluffton township, Yell County, Arkansas",-666666666.0,149,90372,05
+0514990474,"Briggsville township, Yell County, Arkansas",-666666666.0,149,90474,05
+0514991293,"Ferguson township, Yell County, Arkansas",41250.0,149,91293,05
+0514993951,"Waveland township, Yell County, Arkansas",42222.0,149,93951,05
+0512993087,"Red River township, Searcy County, Arkansas",48472.0,129,93087,05
+0514991167,"Dutch Creek township, Yell County, Arkansas",-666666666.0,149,91167,05
+0512992631,"Mount Pleasant township, Searcy County, Arkansas",-666666666.0,129,92631,05
+0512993213,"Rock Creek township, Searcy County, Arkansas",41375.0,129,93213,05
+0512990177,"Bear Creek No. 4 township, Searcy County, Arkansas",34327.0,129,90177,05
+0512993279,"St. Joe township, Searcy County, Arkansas",34336.0,129,93279,05
+0512993618,"Tomahawk township, Searcy County, Arkansas",42404.0,129,93618,05
+0512994062,"Wileys Cove township, Searcy County, Arkansas",32232.0,129,94062,05
+0512990178,"Bear Creek No. 5 township, Searcy County, Arkansas",26842.0,129,90178,05
+0512992801,"Oxley township, Searcy County, Arkansas",52543.0,129,92801,05
+0512993351,"Shady Grove township, Searcy County, Arkansas",-666666666.0,129,93351,05
+0512990609,"Calf Creek township, Searcy County, Arkansas",-666666666.0,129,90609,05
+0512992274,"Long Creek township, Searcy County, Arkansas",38553.0,129,92274,05
+0513191320,"Fort Chaffee UT, Sebastian County, Arkansas",67450.0,131,91320,05
+0513192394,"Marion township, Sebastian County, Arkansas",77956.0,131,92394,05
+0513194008,"White Oak township, Sebastian County, Arkansas",51377.0,131,94008,05
+0513190246,"Beverly township, Sebastian County, Arkansas",38913.0,131,90246,05
+0513190279,"Big Creek township, Sebastian County, Arkansas",50734.0,131,90279,05
+0513191965,"Jim Fork township, Sebastian County, Arkansas",46645.0,131,91965,05
+0513193897,"Washburn township, Sebastian County, Arkansas",72908.0,131,93897,05
+0513193741,"Upper township, Sebastian County, Arkansas",36389.0,131,93741,05
+0513190900,"Cole township, Sebastian County, Arkansas",48005.0,131,90900,05
+0513190351,"Bloomer township, Sebastian County, Arkansas",73533.0,131,90351,05
+0513190741,"Center township, Sebastian County, Arkansas",52595.0,131,90741,05
+0513191626,"Hartford township, Sebastian County, Arkansas",36250.0,131,91626,05
+0513190141,"Bass Little township, Sebastian County, Arkansas",51429.0,131,90141,05
+0513192544,"Mont Sandels township, Sebastian County, Arkansas",44360.0,131,92544,05
+0513191041,"Dayton township, Sebastian County, Arkansas",-666666666.0,131,91041,05
+0513192514,"Mississippi township, Sebastian County, Arkansas",36406.0,131,92514,05
+0513193015,"Prairie township, Sebastian County, Arkansas",61653.0,131,93015,05
+0513193222,"Rogers township, Sebastian County, Arkansas",19923.0,131,93222,05
+0513193531,"Sugarloaf township, Sebastian County, Arkansas",43750.0,131,93531,05
+0513191842,"Island township, Sebastian County, Arkansas",-666666666.0,131,91842,05
+0513192280,"Lon Norris township, Sebastian County, Arkansas",68179.0,131,92280,05
+0513191095,"Diamond township, Sebastian County, Arkansas",29688.0,131,91095,05
+0503392145,"Lees Creek township, Crawford County, Arkansas",-666666666.0,033,92145,05
+0503392240,"Locke township, Crawford County, Arkansas",50536.0,033,92240,05
+0503392648,"Mulberry township, Crawford County, Arkansas",28868.0,033,92648,05
+0514991464,"Gilkey township, Yell County, Arkansas",-666666666.0,149,91464,05
+0514993240,"Rover township, Yell County, Arkansas",44435.0,149,93240,05
+0514991677,"Herring township, Yell County, Arkansas",-666666666.0,149,91677,05
+0514992418,"Mason township, Yell County, Arkansas",55408.0,149,92418,05
+0514990918,"Compton township, Yell County, Arkansas",31287.0,149,90918,05
+0514990960,"Crawford township, Yell County, Arkansas",-666666666.0,149,90960,05
+0514993021,"Prairie township, Yell County, Arkansas",32841.0,149,93021,05
+0514993180,"Riley township, Yell County, Arkansas",44196.0,149,93180,05
+0514993882,"Ward township, Yell County, Arkansas",33456.0,149,93882,05
+0514991410,"Galla Rock township, Yell County, Arkansas",55690.0,149,91410,05
+0514991500,"Gravelly Hill township, Yell County, Arkansas",30083.0,149,91500,05
+0514991836,"Ions Creek township, Yell County, Arkansas",-666666666.0,149,91836,05
+0514993159,"Richland township, Yell County, Arkansas",-666666666.0,149,93159,05
+0514992613,"Mountain township, Yell County, Arkansas",-666666666.0,149,92613,05
+0514993549,"Sulphur Springs township, Yell County, Arkansas",30625.0,149,93549,05
+0514990753,"Centerville township, Yell County, Arkansas",33954.0,149,90753,05
+0514991020,"Dardanelle township, Yell County, Arkansas",48636.0,149,91020,05
+0514992343,"Magazine township, Yell County, Arkansas",61866.0,149,92343,05
+0514991017,"Danville township, Yell County, Arkansas",42938.0,149,91017,05
+0514992106,"Lamar township, Yell County, Arkansas",33229.0,149,92106,05
+0514590606,"Cadron township, White County, Arkansas",-666666666.0,145,90606,05
+0514590636,"Cane township, White County, Arkansas",53458.0,145,90636,05
+0514591623,"Harrison township, White County, Arkansas",46566.0,145,91623,05
+0514593732,"Union township, White County, Arkansas",54891.0,145,93732,05
+0514592397,"Marion township, White County, Arkansas",50789.0,145,92397,05
+0514593246,"Royal township, White County, Arkansas",40556.0,145,93246,05
+0514590096,"Bald Knob township, White County, Arkansas",27625.0,145,90096,05
+0514590285,"Big Creek township, White County, Arkansas",40170.0,145,90285,05
+0514590018,"Albion township, White County, Arkansas",-666666666.0,145,90018,05
+0514590825,"Clay township, White County, Arkansas",51111.0,145,90825,05
+0514590888,"Coffey township, White County, Arkansas",60875.0,145,90888,05
+0514591506,"Gray township, White County, Arkansas",46139.0,145,91506,05
+0514591062,"Denmark township, White County, Arkansas",56625.0,145,91062,05
+0514591887,"Jackson township, White County, Arkansas",-666666666.0,145,91887,05
+0514591575,"Guthrie township, White County, Arkansas",32150.0,145,91575,05
+0514590792,"Chrisp township, White County, Arkansas",-666666666.0,145,90792,05
+0514590978,"Crosby township, White County, Arkansas",45200.0,145,90978,05
+0514592403,"Marshall township, White County, Arkansas",50523.0,145,92403,05
+0514591566,"Gum Springs township, White County, Arkansas",41583.0,145,91566,05
+0514591629,"Hartsell township, White County, Arkansas",61328.0,145,91629,05
+0514592037,"Kentucky township, White County, Arkansas",50313.0,145,92037,05
+0505990039,"Antioch township, Hot Spring County, Arkansas",43449.0,059,90039,05
+0507192142,"Lee township, Johnson County, Arkansas",36842.0,071,92142,05
+0507192046,"King township, Johnson County, Arkansas",43929.0,071,92046,05
+0507193447,"Spadra township, Johnson County, Arkansas",39498.0,071,93447,05
+0507190150,"Batson township, Johnson County, Arkansas",-666666666.0,071,90150,05
+0507192847,"Perry township, Johnson County, Arkansas",27689.0,071,92847,05
+0507193360,"Sherman township, Johnson County, Arkansas",28672.0,071,93360,05
+0507192994,"Prairie township, Johnson County, Arkansas",38077.0,071,92994,05
+0507193078,"Red Lick township, Johnson County, Arkansas",32153.0,071,93078,05
+0507191782,"Howell township, Johnson County, Arkansas",44968.0,071,91782,05
+0507191491,"Grant township, Johnson County, Arkansas",40268.0,071,91491,05
+0507191770,"Horsehead township, Johnson County, Arkansas",44519.0,071,91770,05
+0507192322,"McKennon township, Johnson County, Arkansas",31553.0,071,92322,05
+0507193495,"Stonewall township, Johnson County, Arkansas",43438.0,071,93495,05
+0507191683,"Hickey township, Johnson County, Arkansas",-666666666.0,071,91683,05
+0507192910,"Pittsburg township, Johnson County, Arkansas",32500.0,071,92910,05
+0507192652,"Mulberry township, Johnson County, Arkansas",17841.0,071,92652,05
+0507193876,"Ward township, Johnson County, Arkansas",26250.0,071,93876,05
+0507192292,"Low Gap township, Johnson County, Arkansas",-666666666.0,071,92292,05
+0507191099,"Dickerson-Hill township, Johnson County, Arkansas",-666666666.0,071,91099,05
+0507793273,"St. Francis township, Lee County, Arkansas",52625.0,077,93273,05
+0507793459,"Spring Creek township, Lee County, Arkansas",25350.0,077,93459,05
+0507790264,"Big Creek township, Lee County, Arkansas",-666666666.0,077,90264,05
+0507790930,"Council township, Lee County, Arkansas",-666666666.0,077,90930,05
+0507791593,"Hampton township, Lee County, Arkansas",41719.0,077,91593,05
+0508790009,"Alabam township, Madison County, Arkansas",52318.0,087,90009,05
+0508790426,"Bowen township, Madison County, Arkansas",47273.0,087,90426,05
+0508790621,"California township, Madison County, Arkansas",45938.0,087,90621,05
+0508791722,"Hilburn township, Madison County, Arkansas",31042.0,087,91722,05
+0502991530,"Gregory township, Conway County, Arkansas",31875.0,029,91530,05
+0502993672,"Union township, Conway County, Arkansas",27276.0,029,93672,05
+0502992325,"McLaren township, Conway County, Arkansas",37679.0,029,92325,05
+0502992688,"Nichols township, Conway County, Arkansas",35893.0,029,92688,05
+0502992745,"Old Hickory township, Conway County, Arkansas",48529.0,029,92745,05
+0502993906,"Washington township, Conway County, Arkansas",36111.0,029,93906,05
+0502992412,"Martin township, Conway County, Arkansas",46167.0,029,92412,05
+0510390450,"Bragg township, Ouachita County, Arkansas",-666666666.0,103,90450,05
+0510390441,"Bradley township, Ouachita County, Arkansas",39750.0,103,90441,05
+0510390675,"Carroll township, Ouachita County, Arkansas",-666666666.0,103,90675,05
+0510390867,"Cleveland township, Ouachita County, Arkansas",-666666666.0,103,90867,05
+0510392073,"Lafayette township, Ouachita County, Arkansas",37413.0,103,92073,05
+0510392178,"Liberty township, Ouachita County, Arkansas",59464.0,103,92178,05
+0510393393,"Smackover township, Ouachita County, Arkansas",42639.0,103,93393,05
+0510393711,"Union township, Ouachita County, Arkansas",29896.0,103,93711,05
+0510392388,"Marion township, Ouachita County, Arkansas",72776.0,103,92388,05
+0510393198,"River township, Ouachita County, Arkansas",-666666666.0,103,93198,05
+0510393762,"Valley township, Ouachita County, Arkansas",56458.0,103,93762,05
+0510390471,"Bridge Creek township, Ouachita County, Arkansas",96912.0,103,90471,05
+0510391209,"Ecore Fabre township, Ouachita County, Arkansas",42500.0,103,91209,05
+0510393921,"Washington township, Ouachita County, Arkansas",34750.0,103,93921,05
+0510391944,"Jefferson township, Ouachita County, Arkansas",-666666666.0,103,91944,05
+0510393066,"Red Hill township, Ouachita County, Arkansas",28241.0,103,93066,05
+0510391383,"Freeo township, Ouachita County, Arkansas",-666666666.0,103,91383,05
+0510191788,"Hudson township, Newton County, Arkansas",-666666666.0,101,91788,05
+0510190417,"Boston township, Newton County, Arkansas",-666666666.0,101,90417,05
+0510191872,"Jackson township, Newton County, Arkansas",30885.0,101,91872,05
+0510192031,"Kentucky township, Newton County, Arkansas",-666666666.0,101,92031,05
+0510190270,"Big Creek township, Newton County, Arkansas",26042.0,101,90270,05
+0510192919,"Pleasant Hill township, Newton County, Arkansas",28155.0,101,92919,05
+0510193774,"Van Buren township, Newton County, Arkansas",42917.0,101,93774,05
+0510192211,"Lincoln township, Newton County, Arkansas",20694.0,101,92211,05
+0510193006,"Prairie township, Newton County, Arkansas",-666666666.0,101,93006,05
+0510191695,"Hickory Grove township, Newton County, Arkansas",44688.0,101,91695,05
+0510192949,"Polk township, Newton County, Arkansas",45977.0,101,92949,05
+0510192655,"Murray township, Newton County, Arkansas",10385.0,101,92655,05
+0514593096,"Red River township, White County, Arkansas",35905.0,145,93096,05
+0514593789,"Velvet Ridge township, White County, Arkansas",49219.0,145,93789,05
+0514591122,"Dogwood township, White County, Arkansas",33264.0,145,91122,05
+0514592193,"Liberty township, White County, Arkansas",40000.0,145,92193,05
+0514590873,"Cleveland township, White County, Arkansas",38000.0,145,90873,05
+0514590897,"Coldwell township, White County, Arkansas",43594.0,145,90897,05
+0514591242,"El Paso township, White County, Arkansas",33750.0,145,91242,05
+0514591332,"Francure township, White County, Arkansas",47500.0,145,91332,05
+0514591716,"Higginson township, White County, Arkansas",28000.0,145,91716,05
+0514592025,"Kensett township, White County, Arkansas",32206.0,145,92025,05
+0514592625,"Mount Pisgah township, White County, Arkansas",-666666666.0,145,92625,05
+0514591086,"Des Arc township, White County, Arkansas",71050.0,145,91086,05
+0514593261,"Russell township, White County, Arkansas",36917.0,145,93261,05
+0514591953,"Jefferson township, White County, Arkansas",78929.0,145,91953,05
+0514592007,"Joy township, White County, Arkansas",68125.0,145,92007,05
+0514592331,"McRae township, White County, Arkansas",50069.0,145,92331,05
+0514593831,"Walker township, White County, Arkansas",-666666666.0,145,93831,05
+0509992520,"Missouri township, Nevada County, Arkansas",51116.0,099,92520,05
+0509990423,"Boughton township, Nevada County, Arkansas",-666666666.0,099,90423,05
+0509991248,"Emmet township, Nevada County, Arkansas",42083.0,099,91248,05
+0509992823,"Parker township, Nevada County, Arkansas",49342.0,099,92823,05
+0509993585,"Taylor township, Nevada County, Arkansas",54167.0,099,93585,05
+0509990012,"Alabama township, Nevada County, Arkansas",77344.0,099,90012,05
+0509993705,"Union township, Nevada County, Arkansas",65625.0,099,93705,05
+0509991449,"Georgia township, Nevada County, Arkansas",42802.0,099,91449,05
+0509992130,"Leake township, Nevada County, Arkansas",-666666666.0,099,92130,05
+0509990015,"Albany township, Nevada County, Arkansas",48889.0,099,90015,05
+0509990654,"Caney township, Nevada County, Arkansas",33750.0,099,90654,05
+0509991869,"Jackson township, Nevada County, Arkansas",-666666666.0,099,91869,05
+0509993075,"Redland township, Nevada County, Arkansas",12100.0,099,93075,05
+0502190801,"Clark township, Clay County, Arkansas",50893.0,021,90801,05
+0502192952,"Pollard township, Clay County, Arkansas",33750.0,021,92952,05
+0502192058,"Knob township, Clay County, Arkansas",35294.0,021,92058,05
+0508793759,"Valley township, Madison County, Arkansas",37829.0,087,93759,05
+0508792055,"Kings River township, Madison County, Arkansas",43560.0,087,92055,05
+0508790414,"Boston township, Madison County, Arkansas",30787.0,087,90414,05
+0508791902,"Japton township, Madison County, Arkansas",44844.0,087,91902,05
+0508793888,"War Eagle township, Madison County, Arkansas",44390.0,087,93888,05
+0508792481,"Mill Creek township, Madison County, Arkansas",20521.0,087,92481,05
+0508792367,"Marble township, Madison County, Arkansas",-666666666.0,087,92367,05
+0508793000,"Prairie township, Madison County, Arkansas",59250.0,087,93000,05
+0508793144,"Richland township, Madison County, Arkansas",41116.0,087,93144,05
+0508792208,"Lincoln township, Madison County, Arkansas",50833.0,087,92208,05
+0508792103,"Lamar township, Madison County, Arkansas",42917.0,087,92103,05
+0504190435,"Bowie township, Desha County, Arkansas",50426.0,041,90435,05
+0508591305,"Fletcher township, Lonoke County, Arkansas",-666666666.0,085,91305,05
+0508591503,"Gray township, Lonoke County, Arkansas",57179.0,085,91503,05
+0508592283,"Lonoke township, Lonoke County, Arkansas",48829.0,085,92283,05
+0508590861,"Cleveland township, Lonoke County, Arkansas",80000.0,085,90861,05
+0508591827,"Indian Bayou township, Lonoke County, Arkansas",45000.0,085,91827,05
+0508592349,"Magness township, Lonoke County, Arkansas",80185.0,085,92349,05
+0508592736,"Oak Grove township, Lonoke County, Arkansas",71875.0,085,92736,05
+0508593879,"Ward township, Lonoke County, Arkansas",48014.0,085,93879,05
+0508591569,"Gum Woods township, Lonoke County, Arkansas",54091.0,085,91569,05
+0508593042,"Pulaski township, Lonoke County, Arkansas",-666666666.0,085,93042,05
+0508592865,"Pettus township, Lonoke County, Arkansas",-666666666.0,085,92865,05
+0508593171,"Richwoods township, Lonoke County, Arkansas",-666666666.0,085,93171,05
+0501590708,"Cedar township, Carroll County, Arkansas",32120.0,015,90708,05
+0503991752,"Holly Springs township, Dallas County, Arkansas",50197.0,039,91752,05
+0503991860,"Jackson township, Dallas County, Arkansas",-666666666.0,039,91860,05
+0503990780,"Chester township, Dallas County, Arkansas",43750.0,039,90780,05
+0504390186,"Bearhouse township, Drew County, Arkansas",-666666666.0,043,90186,05
+0504392238,"Live Oak township, Drew County, Arkansas",-666666666.0,043,92238,05
+0504390915,"Cominto township, Drew County, Arkansas",50938.0,043,90915,05
+0504393471,"Spring Hill township, Drew County, Arkansas",20852.0,043,93471,05
+0504390132,"Bartholomew township, Drew County, Arkansas",16250.0,043,90132,05
+0504390834,"Clear Creek township, Drew County, Arkansas",64583.0,043,90834,05
+0504391344,"Franklin township, Drew County, Arkansas",54063.0,043,91344,05
+0504390969,"Crook township, Drew County, Arkansas",23875.0,043,90969,05
+0504392382,"Marion township, Drew County, Arkansas",57726.0,043,92382,05
+0504393786,"Veasey township, Drew County, Arkansas",-666666666.0,043,93786,05
+0504393300,"Saline township, Drew County, Arkansas",61417.0,043,93300,05
+0504390906,"Collins township, Drew County, Arkansas",-666666666.0,043,90906,05
+0502792328,"McNeil township, Columbia County, Arkansas",49485.0,027,92328,05
+0502792355,"Magnolia township, Columbia County, Arkansas",50677.0,027,92355,05
+0502793801,"Village township, Columbia County, Arkansas",55203.0,027,93801,05
+0502791245,"Emerson township, Columbia County, Arkansas",42262.0,027,91245,05
+0502793579,"Taylor township, Columbia County, Arkansas",55408.0,027,93579,05
+0502793822,"Waldo township, Columbia County, Arkansas",39158.0,027,93822,05
+0512193948,"Water Valley township, Randolph County, Arkansas",31833.0,121,93948,05
+0512193974,"West Roanoke township, Randolph County, Arkansas",42563.0,121,93974,05
+0512194059,"Wiley township, Randolph County, Arkansas",-666666666.0,121,94059,05
+0512192220,"Little Black township, Randolph County, Arkansas",38750.0,121,92220,05
+0512193363,"Shiloh township, Randolph County, Arkansas",41691.0,121,93363,05
+0512190486,"Bristow township, Randolph County, Arkansas",26979.0,121,90486,05
+0512190564,"Butler township, Randolph County, Arkansas",-666666666.0,121,90564,05
+0512193255,"Running Lake township, Randolph County, Arkansas",-666666666.0,121,93255,05
+0512193720,"Union township, Randolph County, Arkansas",-666666666.0,121,93720,05
+0512191059,"Demun township, Randolph County, Arkansas",36374.0,121,91059,05
+0512191221,"Eleven Point township, Randolph County, Arkansas",48224.0,121,91221,05
+0512192742,"O'Kean township, Randolph County, Arkansas",28750.0,121,92742,05
+0512193117,"Reyno township, Randolph County, Arkansas",27692.0,121,93117,05
+0512193378,"Siloam township, Randolph County, Arkansas",46375.0,121,93378,05
+0512191012,"Dalton township, Randolph County, Arkansas",-666666666.0,121,91012,05
+0509392310,"McGavock township, Mississippi County, Arkansas",20000.0,093,92310,05
+0509391476,"Golden Lake township, Mississippi County, Arkansas",65917.0,093,91476,05
+0509391584,"Half Moon Lake township, Mississippi County, Arkansas",32917.0,093,91584,05
+0509393330,"Scott township, Mississippi County, Arkansas",46250.0,093,93330,05
+0509390633,"Canadian township, Mississippi County, Arkansas",46830.0,093,90633,05
+0509391659,"Hector township, Mississippi County, Arkansas",51250.0,093,91659,05
+0509390683,"Carson township, Mississippi County, Arkansas",75333.0,093,90683,05
+0509390549,"Burdette township, Mississippi County, Arkansas",52813.0,093,90549,05
+0509391182,"Dyess township, Mississippi County, Arkansas",36250.0,093,91182,05
+0509392226,"Little River township, Mississippi County, Arkansas",46600.0,093,92226,05
+0509394050,"Whitton township, Mississippi County, Arkansas",46944.0,093,94050,05
+0509392529,"Monroe township, Mississippi County, Arkansas",38103.0,093,92529,05
+0509392664,"Neal township, Mississippi County, Arkansas",35017.0,093,92664,05
+0509390297,"Big Lake township, Mississippi County, Arkansas",36984.0,093,90297,05
+0511591134,"Dover township, Pope County, Arkansas",59554.0,115,91134,05
+0511592181,"Liberty township, Pope County, Arkansas",35833.0,115,92181,05
+0511591812,"Illinois township, Pope County, Arkansas",37518.0,115,91812,05
+0511590921,"Convenience township, Pope County, Arkansas",32949.0,115,90921,05
+0511591536,"Griffin township, Pope County, Arkansas",34224.0,115,91536,05
+0511594089,"Wilson township, Pope County, Arkansas",40426.0,115,94089,05
+0511590558,"Burnett township, Pope County, Arkansas",68636.0,115,90558,05
+0511590159,"Bayliss township, Pope County, Arkansas",39821.0,115,90159,05
+0511590813,"Clark township, Pope County, Arkansas",50755.0,115,90813,05
+0511592415,"Martin township, Pope County, Arkansas",34375.0,115,92415,05
+0511590735,"Center township, Pope County, Arkansas",37159.0,115,90735,05
+0511592553,"Moreland township, Pope County, Arkansas",32969.0,115,92553,05
+0511592871,"Phoenix township, Pope County, Arkansas",57679.0,115,92871,05
+0511591407,"Galla township, Pope County, Arkansas",46103.0,115,91407,05
+0511593420,"Smyrna township, Pope County, Arkansas",23750.0,115,93420,05
+0511591560,"Gum Log township, Pope County, Arkansas",82713.0,115,91560,05
+0511591377,"Freeman township, Pope County, Arkansas",-666666666.0,115,91377,05
+0511593765,"Valley township, Pope County, Arkansas",48150.0,115,93765,05
+0511591875,"Jackson township, Pope County, Arkansas",41358.0,115,91875,05
+0511793747,"Upper Surrounded Hill township, Prairie County, Arkansas",-666666666.0,117,93747,05
+0511791698,"Hickory Plain township, Prairie County, Arkansas",52841.0,117,91698,05
+0511793939,"Watensaw township, Prairie County, Arkansas",48173.0,117,93939,05
+0511793219,"Roc Roe township, Prairie County, Arkansas",35625.0,117,93219,05
+0501592052,"Kings River township, Carroll County, Arkansas",24649.0,015,92052,05
+0501592811,"Packard Springs township, Carroll County, Arkansas",51389.0,015,92811,05
+0501590891,"Coin township, Carroll County, Arkansas",39181.0,015,90891,05
+0501592763,"Omega township, Carroll County, Arkansas",37102.0,015,92763,05
+0501591338,"Franklin township, Carroll County, Arkansas",36624.0,015,91338,05
+0501591692,"Hickory township, Carroll County, Arkansas",41994.0,015,91692,05
+0501592163,"Liberty township, Carroll County, Arkansas",-666666666.0,015,92163,05
+0501592271,"Long Creek township, Carroll County, Arkansas",44886.0,015,92271,05
+0501592955,"Polo township, Carroll County, Arkansas",42143.0,015,92955,05
+0501592898,"Piney township, Carroll County, Arkansas",75357.0,015,92898,05
+0501590981,"Cross township, Carroll County, Arkansas",-666666666.0,015,90981,05
+0501591143,"Dry Fork township, Carroll County, Arkansas",50221.0,015,91143,05
+0501590570,"Cabanal township, Carroll County, Arkansas",-666666666.0,015,90570,05
+0501592727,"North Yocum township, Carroll County, Arkansas",48194.0,015,92727,05
+0501592982,"Prairie township, Carroll County, Arkansas",40611.0,015,92982,05
+0501593444,"South Yocum township, Carroll County, Arkansas",48750.0,015,93444,05
+0501594101,"Winona township, Carroll County, Arkansas",51902.0,015,94101,05
+0501590195,"Beaver township, Carroll County, Arkansas",58661.0,015,90195,05
+0501590681,"Carrollton township, Carroll County, Arkansas",35592.0,015,90681,05
+0501592769,"Osage township, Carroll County, Arkansas",42318.0,015,92769,05
+0509191038,"Days Creek township, Miller County, Arkansas",32289.0,091,91038,05
+0509193537,"Sulphur township, Miller County, Arkansas",44231.0,091,93537,05
+0509191434,"Garland township, Miller County, Arkansas",49994.0,091,91434,05
+0509190207,"Beech township, Miller County, Arkansas",49906.0,091,90207,05
+0509190996,"Cut Off township, Miller County, Arkansas",-666666666.0,091,90996,05
+0509191755,"Homan township, Miller County, Arkansas",-666666666.0,091,91755,05
+0509193084,"Red River township, Miller County, Arkansas",-666666666.0,091,93084,05
+0509190864,"Cleveland township, Miller County, Arkansas",43897.0,091,90864,05
+0512191899,"Janes Creek township, Randolph County, Arkansas",22340.0,121,91899,05
+0512193126,"Richardson township, Randolph County, Arkansas",27500.0,121,93126,05
+0501193558,"Sumpter township, Bradley County, Arkansas",-666666666.0,011,93558,05
+0501990591,"Caddo township, Clark County, Arkansas",43079.0,019,90591,05
+0501191185,"Eagle township, Bradley County, Arkansas",-666666666.0,011,91185,05
+0501192778,"Ouachita township, Bradley County, Arkansas",50797.0,011,92778,05
+0501192379,"Marion township, Bradley County, Arkansas",-666666666.0,011,92379,05
+0503390248,"Bidville township, Crawford County, Arkansas",-666666666.0,033,90248,05
+0503391176,"Dyer township, Crawford County, Arkansas",53611.0,033,91176,05
+0503391905,"Jasper township, Crawford County, Arkansas",62592.0,033,91905,05
+0503390717,"Cedar Creek township, Crawford County, Arkansas",53594.0,033,90717,05
+0503393252,"Rudy township, Crawford County, Arkansas",67721.0,033,93252,05
+0503393738,"Upper township, Crawford County, Arkansas",34167.0,033,93738,05
+0503394098,"Winfrey township, Crawford County, Arkansas",-666666666.0,033,94098,05
+0503392754,"Oliver Springs township, Crawford County, Arkansas",42869.0,033,92754,05
+0503392961,"Porter township, Crawford County, Arkansas",61458.0,033,92961,05
+0503393733,"Uniontown township, Crawford County, Arkansas",18977.0,033,93733,05
+0503393771,"Van Buren township, Crawford County, Arkansas",43351.0,033,93771,05
+0503390726,"Cedarville township, Crawford County, Arkansas",39615.0,033,90726,05
+0504193063,"Red Fork township, Desha County, Arkansas",42303.0,041,93063,05
+0504191587,"Halley township, Desha County, Arkansas",47000.0,041,91587,05
+0504192511,"Mississippi township, Desha County, Arkansas",-666666666.0,041,92511,05
+0504193051,"Randolph township, Desha County, Arkansas",35875.0,041,93051,05
+0504193132,"Richland township, Desha County, Arkansas",20833.0,041,93132,05
+0504191920,"Jefferson township, Desha County, Arkansas",29500.0,041,91920,05
+0504193381,"Silver Lake township, Desha County, Arkansas",43826.0,041,93381,05
+0504190831,"Clayton township, Desha County, Arkansas",-666666666.0,041,90831,05
+0504193870,"Walnut Lake township, Desha County, Arkansas",56667.0,041,93870,05
+0504191341,"Franklin township, Desha County, Arkansas",38194.0,041,91341,05
+0504992619,"Mount Calm township, Fulton County, Arkansas",65982.0,049,92619,05
+0504993429,"South Fork township, Fulton County, Arkansas",43711.0,049,93429,05
+0504993909,"Washington township, Fulton County, Arkansas",-666666666.0,049,93909,05
+0504994086,"Wilson township, Fulton County, Arkansas",52348.0,049,94086,05
+0504991392,"Fulton township, Fulton County, Arkansas",32532.0,049,91392,05
+0504992361,"Mammoth Spring township, Fulton County, Arkansas",23912.0,049,92361,05

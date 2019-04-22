@@ -1,0 +1,391 @@
+geoid,name,total,native,foreign_born,county,county subdivision,state
+0100591989,"Louisville CCD, Barbour County, Alabama",1813.0,1763.0,50.0,005,91989,01
+0100591017,"Eufaula CCD, Barbour County, Alabama",13011.0,12640.0,371.0,005,91017,01
+0100590630,"Clayton CCD, Barbour County, Alabama",4291.0,4259.0,32.0,005,90630,01
+0100590648,"Clio CCD, Barbour County, Alabama",3721.0,3649.0,72.0,005,90648,01
+0100590189,"Bakerhill CCD, Barbour County, Alabama",3365.0,3193.0,172.0,005,90189,01
+0100793438,"West Blocton CCD, Bibb County, Alabama",8844.0,8700.0,144.0,007,93438,01
+0100790531,"Centreville-Brent CCD, Bibb County, Alabama",12815.0,12728.0,87.0,007,90531,01
+0100792601,"Piper-Coleanor CCD, Bibb County, Alabama",921.0,921.0,0.0,007,92601,01
+0101192133,"Midway CCD, Bullock County, Alabama",1488.0,1460.0,28.0,011,92133,01
+0101193249,"Union Springs CCD, Bullock County, Alabama",5608.0,5447.0,161.0,011,93249,01
+0101191098,"Fitzpatrick CCD, Bullock County, Alabama",1321.0,1321.0,0.0,011,91098,01
+0101191701,"Inverness CCD, Bullock County, Alabama",2061.0,2058.0,3.0,011,91701,01
+0101591746,"Jacksonville CCD, Calhoun County, Alabama",18506.0,18185.0,321.0,015,91746,01
+0101590585,"Choccolocco CCD, Calhoun County, Alabama",6962.0,6897.0,65.0,015,90585,01
+0101592430,"Ohatchee CCD, Calhoun County, Alabama",4623.0,4601.0,22.0,015,92430,01
+0101592556,"Piedmont CCD, Calhoun County, Alabama",6918.0,6855.0,63.0,015,92556,01
+0101793393,"Waverly CCD, Chambers County, Alabama",1270.0,1270.0,0.0,017,93393,01
+0101590099,"Anniston CCD, Calhoun County, Alabama",66449.0,63947.0,2502.0,015,90099,01
+0101791107,"Five Points CCD, Chambers County, Alabama",2859.0,2859.0,0.0,017,91107,01
+0101791827,"Lanett CCD, Chambers County, Alabama",10245.0,10124.0,121.0,017,91827,01
+0101792169,"Milltown CCD, Chambers County, Alabama",796.0,796.0,0.0,017,92169,01
+0101791818,"La Fayette CCD, Chambers County, Alabama",5122.0,5058.0,64.0,017,91818,01
+0102590675,"Coffeeville CCD, Clarke County, Alabama",1362.0,1362.0,0.0,025,90675,01
+0102591440,"Grove Hill CCD, Clarke County, Alabama",4948.0,4941.0,7.0,025,91440,01
+0102591260,"Fulton CCD, Clarke County, Alabama",1281.0,1274.0,7.0,025,91260,01
+0102593132,"Thomasville CCD, Clarke County, Alabama",6339.0,6285.0,54.0,025,93132,01
+0105790279,"Berry CCD, Fayette County, Alabama",3856.0,3844.0,12.0,057,90279,01
+0105791089,"Fayette CCD, Fayette County, Alabama",8090.0,8012.0,78.0,057,91089,01
+0110192592,"Pine Level CCD, Montgomery County, Alabama",1332.0,1329.0,3.0,101,92592,01
+0109590054,"Albertville-Boaz CCD, Marshall County, Alabama",40611.0,35316.0,5295.0,095,90054,01
+0110192295,"Mount Meigs CCD, Montgomery County, Alabama",10787.0,10365.0,422.0,101,92295,01
+0110192565,"Pike Road CCD, Montgomery County, Alabama",21871.0,19387.0,2484.0,101,92565,01
+0110192214,"Montgomery CCD, Montgomery County, Alabama",183169.0,175773.0,7396.0,101,92214,01
+0110192673,"Ramer CCD, Montgomery County, Alabama",2157.0,2157.0,0.0,101,92673,01
+0110191665,"Hope Hull CCD, Montgomery County, Alabama",7804.0,7687.0,117.0,101,91665,01
+0109590108,"Arab CCD, Marshall County, Alabama",15205.0,14990.0,215.0,095,90108,01
+0109590918,"Douglas CCD, Marshall County, Alabama",5701.0,5194.0,507.0,095,90918,01
+0109593240,"Union Grove CCD, Marshall County, Alabama",6779.0,6691.0,88.0,095,93240,01
+0109591395,"Grant CCD, Marshall County, Alabama",9763.0,9729.0,34.0,095,91395,01
+0109593150,"Town Creek CCD, Marshall County, Alabama",3160.0,3048.0,112.0,095,93150,01
+0109591458,"Guntersville CCD, Marshall County, Alabama",13519.0,12893.0,626.0,095,91458,01
+0100991557,"Hayden CCD, Blount County, Alabama",13463.0,13362.0,101.0,009,91557,01
+0100991953,"Locust Fork CCD, Blount County, Alabama",8715.0,8551.0,164.0,009,91953,01
+0100990414,"Brooksville CCD, Blount County, Alabama",4637.0,4485.0,152.0,009,90414,01
+0100990639,"Cleveland CCD, Blount County, Alabama",3572.0,3272.0,300.0,009,90639,01
+0100990612,"Clarence CCD, Blount County, Alabama",4937.0,4447.0,490.0,009,90612,01
+0100990333,"Blountsville CCD, Blount County, Alabama",7526.0,7164.0,362.0,009,90333,01
+0100992439,"Oneonta CCD, Blount County, Alabama",14817.0,13765.0,1052.0,009,92439,01
+0106791584,"Headland-Newville CCD, Henry County, Alabama",8199.0,8123.0,76.0,067,91584,01
+0106792907,"Shorterville CCD, Henry County, Alabama",2761.0,2728.0,33.0,067,92907,01
+0106791485,"Haleburg CCD, Henry County, Alabama",1486.0,1406.0,80.0,067,91485,01
+0108992052,"Madison CCD, Madison County, Alabama",42399.0,38888.0,3511.0,089,92052,01
+0106790009,"Abbeville CCD, Henry County, Alabama",4664.0,4634.0,30.0,067,90009,01
+0108992358,"New Market CCD, Madison County, Alabama",15322.0,15116.0,206.0,089,92358,01
+0108991467,"Gurley CCD, Madison County, Alabama",18070.0,17730.0,340.0,089,91467,01
+0108992061,"Madison Crossroads CCD, Madison County, Alabama",12115.0,11791.0,324.0,089,92061,01
+0108992349,"New Hope CCD, Madison County, Alabama",14542.0,14039.0,503.0,089,92349,01
+0108991674,"Huntsville CCD, Madison County, Alabama",225553.0,212131.0,13422.0,089,91674,01
+0112390063,"Alexander City CCD, Tallapoosa County, Alabama",18921.0,18448.0,473.0,123,90063,01
+0108991575,"Hazel Green CCD, Madison County, Alabama",11776.0,11509.0,267.0,089,91575,01
+0100192106,"Marbury CCD, Autauga County, Alabama",6167.0,6115.0,52.0,001,92106,01
+0100190315,"Billingsley CCD, Autauga County, Alabama",2796.0,2742.0,54.0,001,90315,01
+0100192628,"Prattville CCD, Autauga County, Alabama",42920.0,41865.0,1055.0,001,92628,01
+0100190171,"Autaugaville CCD, Autauga County, Alabama",3153.0,3151.0,2.0,001,90171,01
+0112393096,"Tallassee CCD, Tallapoosa County, Alabama",6123.0,6110.0,13.0,123,93096,01
+0112390819,"Dadeville CCD, Tallapoosa County, Alabama",11417.0,11374.0,43.0,123,90819,01
+0112392367,"New Site CCD, Tallapoosa County, Alabama",2501.0,2493.0,8.0,123,92367,01
+0112390468,"Camp Hill CCD, Tallapoosa County, Alabama",1794.0,1779.0,15.0,123,90468,01
+0106191530,"Hartford CCD, Geneva County, Alabama",5643.0,5623.0,20.0,061,91530,01
+0106192835,"Samson CCD, Geneva County, Alabama",4715.0,4609.0,106.0,061,92835,01
+0106191305,"Geneva CCD, Geneva County, Alabama",5534.0,5408.0,126.0,061,91305,01
+0106190252,"Bellwood-Coffee Springs CCD, Geneva County, Alabama",2388.0,2388.0,0.0,061,90252,01
+0106192952,"Slocomb CCD, Geneva County, Alabama",8292.0,8155.0,137.0,061,92952,01
+0113190045,"Alberta CCD, Wilcox County, Alabama",1530.0,1530.0,0.0,131,90045,01
+0113192574,"Pine Apple CCD, Wilcox County, Alabama",789.0,789.0,0.0,131,92574,01
+0113190459,"Camden CCD, Wilcox County, Alabama",4518.0,4518.0,0.0,131,90459,01
+0113192583,"Pine Hill CCD, Wilcox County, Alabama",3244.0,3244.0,0.0,131,92583,01
+0113190756,"Coy-Fatama CCD, Wilcox County, Alabama",838.0,838.0,0.0,131,90756,01
+0110790072,"Aliceville CCD, Pickens County, Alabama",5056.0,5048.0,8.0,107,90072,01
+0109793105,"Tanner Williams CCD, Mobile County, Alabama",73306.0,69610.0,3696.0,097,93105,01
+0105792380,"Northeast Fayette CCD, Fayette County, Alabama",1509.0,1509.0,0.0,057,92380,01
+0105793495,"Winfield-Glen Allen CCD, Fayette County, Alabama",3202.0,3178.0,24.0,057,93495,01
+0101793272,"Valley CCD, Chambers County, Alabama",13603.0,13347.0,256.0,017,93272,01
+0102591726,"Jackson CCD, Clarke County, Alabama",7841.0,7831.0,10.0,025,91726,01
+0102593362,"Walker Springs CCD, Clarke County, Alabama",2854.0,2826.0,28.0,025,93362,01
+0108192962,"Smiths Station CCD, Lee County, Alabama",38941.0,38176.0,765.0,081,92962,01
+0108592245,"Mosses CCD, Lowndes County, Alabama",1538.0,1534.0,4.0,085,92245,01
+0106591414,"Greensboro Northeast CCD, Hale County, Alabama",1675.0,1666.0,9.0,065,91414,01
+0108793376,"Warriorstand-Creek Stand CCD, Macon County, Alabama",749.0,729.0,20.0,087,93376,01
+0106592345,"Newbern CCD, Hale County, Alabama",1474.0,1462.0,12.0,065,92345,01
+0106591415,"Greensboro South CCD, Hale County, Alabama",974.0,974.0,0.0,065,91415,01
+0108793230,"Tuskegee CCD, Macon County, Alabama",11356.0,11211.0,145.0,087,93230,01
+0112192709,"Renfroe-Laniers CCD, Talladega County, Alabama",2822.0,2786.0,36.0,121,92709,01
+0112792642,"Quinton-Wegra CCD, Walker County, Alabama",1497.0,1497.0,0.0,127,92642,01
+0103992781,"Rose Hill-Gantt CCD, Covington County, Alabama",4111.0,4102.0,9.0,039,92781,01
+0101590066,"Alexandria-Webster Chapel CCD, Calhoun County, Alabama",12069.0,12021.0,48.0,015,90066,01
+0101992983,"Spring Garden CCD, Cherokee County, Alabama",4637.0,4624.0,13.0,019,92983,01
+0107390722,"Concord-Rock Creek CCD, Jefferson County, Alabama",7449.0,7397.0,52.0,073,90722,01
+0108992695,"Redstone Arsenal CCD, Madison County, Alabama",1488.0,1394.0,94.0,089,92695,01
+0108993176,"Triana CCD, Madison County, Alabama",11948.0,11192.0,756.0,089,93176,01
+0104792883,"Selmont-Tyler CCD, Dallas County, Alabama",5469.0,5409.0,60.0,047,92883,01
+0113391494,"Haleyville CCD, Winston County, Alabama",8785.0,8510.0,275.0,133,91494,01
+0113390027,"Addison CCD, Winston County, Alabama",7827.0,7788.0,39.0,133,90027,01
+0113392025,"Lynn CCD, Winston County, Alabama",2193.0,2182.0,11.0,133,92025,01
+0113390909,"Double Springs CCD, Winston County, Alabama",5163.0,5163.0,0.0,133,90909,01
+0111592988,"Springville CCD, St. Clair County, Alabama",21198.0,20938.0,260.0,115,92988,01
+0111592511,"Pell City CCD, St. Clair County, Alabama",25102.0,24525.0,577.0,115,92511,01
+0100392754,"Robertsdale CCD, Baldwin County, Alabama",25512.0,24512.0,1000.0,003,92754,01
+0100393024,"Stockton CCD, Baldwin County, Alabama",3988.0,3889.0,99.0,003,93024,01
+0100390846,"Daphne CCD, Baldwin County, Alabama",48902.0,47112.0,1790.0,003,90846,01
+0100391053,"Fairhope CCD, Baldwin County, Alabama",30806.0,29674.0,1132.0,003,91053,01
+0100390207,"Bay Minette CCD, Baldwin County, Alabama",25581.0,25225.0,356.0,003,90207,01
+0100391152,"Foley CCD, Baldwin County, Alabama",51913.0,50028.0,1885.0,003,91152,01
+0100390963,"Elberta CCD, Baldwin County, Alabama",12586.0,12335.0,251.0,003,90963,01
+0100393042,"Summerdale CCD, Baldwin County, Alabama",4072.0,3979.0,93.0,003,93042,01
+0104391962,"Logan CCD, Cullman County, Alabama",3831.0,3715.0,116.0,043,91962,01
+0104391773,"Jones Chapel CCD, Cullman County, Alabama",4613.0,4613.0,0.0,043,91773,01
+0104390180,"Baileyton-Joppa CCD, Cullman County, Alabama",6076.0,6064.0,12.0,043,90180,01
+0104390369,"Bremen CCD, Cullman County, Alabama",8299.0,8188.0,111.0,043,90369,01
+0104390774,"Crane Hill CCD, Cullman County, Alabama",1915.0,1880.0,35.0,043,90774,01
+0104391521,"Hanceville CCD, Cullman County, Alabama",6975.0,6860.0,115.0,043,91521,01
+0104392934,"Simcoe CCD, Cullman County, Alabama",7424.0,7333.0,91.0,043,92934,01
+0104391647,"Holly Pond CCD, Cullman County, Alabama",4539.0,4475.0,64.0,043,91647,01
+0104393420,"Welti CCD, Cullman County, Alabama",2664.0,2496.0,168.0,043,93420,01
+0104390810,"Cullman CCD, Cullman County, Alabama",25772.0,24593.0,1179.0,043,90810,01
+0104393330,"Vinemont CCD, Cullman County, Alabama",9595.0,9215.0,380.0,043,93330,01
+0105193456,"Wetumpka CCD, Elmore County, Alabama",24876.0,24575.0,301.0,051,93456,01
+0105193087,"Tallassee CCD, Elmore County, Alabama",6942.0,6766.0,176.0,051,93087,01
+0105190972,"Elmore CCD, Elmore County, Alabama",27856.0,27021.0,835.0,051,90972,01
+0105193141,"Titus CCD, Elmore County, Alabama",4646.0,4614.0,32.0,051,93141,01
+0105190855,"Deatsville CCD, Elmore County, Alabama",9701.0,9651.0,50.0,051,90855,01
+0105190945,"Eclectic CCD, Elmore County, Alabama",6968.0,6890.0,78.0,051,90945,01
+0106990747,"Cottonwood CCD, Houston County, Alabama",5824.0,5769.0,55.0,069,90747,01
+0106992070,"Madrid CCD, Houston County, Alabama",7202.0,7137.0,65.0,069,92070,01
+0106991368,"Gordon CCD, Houston County, Alabama",2040.0,2026.0,14.0,069,91368,01
+0106990702,"Columbia CCD, Houston County, Alabama",1279.0,1256.0,23.0,069,90702,01
+0106990900,"Dothan CCD, Houston County, Alabama",87763.0,85548.0,2215.0,069,90900,01
+0108190288,"Beulah CCD, Lee County, Alabama",8150.0,8081.0,69.0,081,90288,01
+0108190162,"Auburn-Opelika CCD, Lee County, Alabama",90860.0,83768.0,7092.0,081,90162,01
+0107192475,"Paint Rock CCD, Jackson County, Alabama",3497.0,3432.0,65.0,071,92475,01
+0107193006,"Stevenson CCD, Jackson County, Alabama",5708.0,5563.0,145.0,071,93006,01
+0107192610,"Pisgah CCD, Jackson County, Alabama",4422.0,4409.0,13.0,071,92610,01
+0107190387,"Bridgeport CCD, Jackson County, Alabama",3173.0,3133.0,40.0,071,90387,01
+0107191971,"Long Island CCD, Jackson County, Alabama",6210.0,6131.0,79.0,071,91971,01
+0107192637,"Princeton CCD, Jackson County, Alabama",2121.0,2078.0,43.0,071,92637,01
+0107192862,"Scottsboro CCD, Jackson County, Alabama",20202.0,19644.0,558.0,071,92862,01
+0107192871,"Section CCD, Jackson County, Alabama",6993.0,6930.0,63.0,071,92871,01
+0112192322,"Munford CCD, Talladega County, Alabama",9743.0,9444.0,299.0,121,92322,01
+0112193069,"Sylacauga CCD, Talladega County, Alabama",21761.0,21535.0,226.0,121,93069,01
+0112193060,"Sycamore-Winterboro CCD, Talladega County, Alabama",4981.0,4981.0,0.0,121,93060,01
+0112193078,"Talladega CCD, Talladega County, Alabama",25212.0,24687.0,525.0,121,93078,01
+0112191879,"Lincoln CCD, Talladega County, Alabama",7538.0,7458.0,80.0,121,91879,01
+0112190576,"Childersburg CCD, Talladega County, Alabama",8831.0,8654.0,177.0,121,90576,01
+0112590684,"Coker CCD, Tuscaloosa County, Alabama",3342.0,3108.0,234.0,125,90684,01
+0112590981,"Elrod-Moores Bridge-Echola CCD, Tuscaloosa County, Alabama",1267.0,1258.0,9.0,125,90981,01
+0112592389,"Northport CCD, Tuscaloosa County, Alabama",32341.0,31744.0,597.0,125,92389,01
+0112593483,"Windham Springs CCD, Tuscaloosa County, Alabama",2991.0,2944.0,47.0,125,93483,01
+0112593222,"Tuscaloosa CCD, Tuscaloosa County, Alabama",124638.0,118573.0,6065.0,125,93222,01
+0112590666,"Coaling-Vance CCD, Tuscaloosa County, Alabama",7572.0,7269.0,303.0,125,90666,01
+0112591224,"Fosters CCD, Tuscaloosa County, Alabama",3028.0,3028.0,0.0,125,91224,01
+0112590018,"Abernant CCD, Tuscaloosa County, Alabama",10477.0,10398.0,79.0,125,90018,01
+0112590423,"Brookwood CCD, Tuscaloosa County, Alabama",4870.0,4659.0,211.0,125,90423,01
+0112590306,"Big Sandy-Duncanville CCD, Tuscaloosa County, Alabama",9277.0,9198.0,79.0,125,90306,01
+0112592826,"Samantha CCD, Tuscaloosa County, Alabama",4621.0,4534.0,87.0,125,92826,01
+0112992160,"Millry CCD, Washington County, Alabama",2611.0,2453.0,158.0,129,92160,01
+0112990549,"Chatom CCD, Washington County, Alabama",3560.0,3480.0,80.0,129,90549,01
+0112991242,"Fruitdale CCD, Washington County, Alabama",2103.0,2103.0,0.0,129,91242,01
+0112993357,"Wagarville CCD, Washington County, Alabama",3426.0,3402.0,24.0,129,93357,01
+0112992043,"McIntosh CCD, Washington County, Alabama",5046.0,5046.0,0.0,129,92043,01
+0102790126,"Ashland CCD, Clay County, Alabama",6016.0,5801.0,215.0,027,90126,01
+0102792142,"Millerville-Hollins CCD, Clay County, Alabama",2290.0,2290.0,0.0,027,92142,01
+0102791899,"Lineville CCD, Clay County, Alabama",5101.0,5055.0,46.0,027,91899,01
+0103193303,"Victoria CCD, Coffee County, Alabama",1749.0,1721.0,28.0,031,93303,01
+0103190954,"Elba CCD, Coffee County, Alabama",6359.0,6322.0,37.0,031,90954,01
+0103191800,"Kinston CCD, Coffee County, Alabama",1510.0,1496.0,14.0,031,91800,01
+0103191341,"Goodman CCD, Coffee County, Alabama",2299.0,2230.0,69.0,031,91341,01
+0103191719,"Jack CCD, Coffee County, Alabama",2242.0,2236.0,6.0,031,91719,01
+0103190999,"Enterprise CCD, Coffee County, Alabama",36914.0,35175.0,1739.0,031,90999,01
+0110392970,"Somerville CCD, Morgan County, Alabama",9639.0,9581.0,58.0,103,92970,01
+0110390864,"Decatur CCD, Morgan County, Alabama",60958.0,56684.0,4274.0,103,90864,01
+0110391035,"Eva CCD, Morgan County, Alabama",5793.0,5767.0,26.0,103,91035,01
+0110391809,"Laceys Spring CCD, Morgan County, Alabama",8925.0,8675.0,250.0,103,91809,01
+0110991620,"Henderson-Spring Hill CCD, Pike County, Alabama",3146.0,3042.0,104.0,109,91620,01
+0110391539,"Hartselle CCD, Morgan County, Alabama",21652.0,21227.0,425.0,103,91539,01
+0110391071,"Falkville CCD, Morgan County, Alabama",5801.0,5766.0,35.0,103,91071,01
+0110390837,"Danville CCD, Morgan County, Alabama",6389.0,6347.0,42.0,103,90837,01
+0110990432,"Brundidge CCD, Pike County, Alabama",3797.0,3768.0,29.0,109,90432,01
+0110992340,"Needmore CCD, Pike County, Alabama",1622.0,1594.0,28.0,109,92340,01
+0110991377,"Goshen-Shady Grove CCD, Pike County, Alabama",2693.0,2670.0,23.0,109,91377,01
+0110993195,"Troy CCD, Pike County, Alabama",20159.0,19235.0,924.0,109,93195,01
+0102190603,"Clanton CCD, Chilton County, Alabama",14252.0,13537.0,715.0,021,90603,01
+0102192178,"Mineral Springs CCD, Chilton County, Alabama",3658.0,3585.0,73.0,021,92178,01
+0102191710,"Isabella-Pletcher CCD, Chilton County, Alabama",3531.0,3407.0,124.0,021,91710,01
+0102192097,"Maplesville CCD, Chilton County, Alabama",3043.0,3043.0,0.0,021,92097,01
+0102193285,"Verbena CCD, Chilton County, Alabama",4837.0,4631.0,206.0,021,93285,01
+0102191764,"Jemison CCD, Chilton County, Alabama",14484.0,13384.0,1100.0,021,91764,01
+0103391863,"Leighton CCD, Colbert County, Alabama",8209.0,8157.0,52.0,033,91863,01
+0103393186,"Tri-Cities CCD, Colbert County, Alabama",34577.0,33879.0,698.0,033,93186,01
+0103390567,"Cherokee CCD, Colbert County, Alabama",3882.0,3829.0,53.0,033,90567,01
+0103391926,"Littleville CCD, Colbert County, Alabama",7767.0,7611.0,156.0,033,91926,01
+0103791350,"Goodwater-Kellyton CCD, Coosa County, Alabama",3945.0,3884.0,61.0,037,91350,01
+0103793429,"Weogufka-Marble Valley CCD, Coosa County, Alabama",3581.0,3581.0,0.0,037,93429,01
+0103792763,"Rockford CCD, Coosa County, Alabama",3429.0,3426.0,3.0,037,92763,01
+0104591215,"Fort Rucker CCD, Dale County, Alabama",5149.0,4992.0,157.0,045,91215,01
+0104592466,"Ozark CCD, Dale County, Alabama",21007.0,20567.0,440.0,045,92466,01
+0106592853,"Sawyerville CCD, Hale County, Alabama",2014.0,2014.0,0.0,065,92853,01
+0104590828,"Daleville CCD, Dale County, Alabama",11692.0,11029.0,663.0,045,90828,01
+0104590936,"Echo CCD, Dale County, Alabama",2186.0,2171.0,15.0,045,90936,01
+0104592376,"Newton-Midland City CCD, Dale County, Alabama",9359.0,9221.0,138.0,045,92376,01
+0110990198,"Banks-Josie CCD, Pike County, Alabama",1870.0,1850.0,20.0,109,90198,01
+0106591413,"Greensboro CCD, Hale County, Alabama",3809.0,3802.0,7.0,065,91413,01
+0106592259,"Moundville CCD, Hale County, Alabama",3632.0,3494.0,138.0,065,92259,01
+0106593015,"Stewart-Akron CCD, Hale County, Alabama",1417.0,1417.0,0.0,065,93015,01
+0105592268,"Mountainboro CCD, Etowah County, Alabama",9419.0,9117.0,302.0,055,92268,01
+0105593213,"Turkeytown CCD, Etowah County, Alabama",3797.0,3754.0,43.0,055,93213,01
+0105593465,"Wills Valley CCD, Etowah County, Alabama",1656.0,1638.0,18.0,055,93465,01
+0105591278,"Gadsden CCD, Etowah County, Alabama",70875.0,68328.0,2547.0,055,91278,01
+0105591638,"Hokes Bluff CCD, Etowah County, Alabama",8929.0,8905.0,24.0,055,91638,01
+0105591980,"Lookout Mountain CCD, Etowah County, Alabama",2897.0,2897.0,0.0,055,91980,01
+0105590081,"Altoona CCD, Etowah County, Alabama",5559.0,5511.0,48.0,055,90081,01
+0104992655,"Rainsville-Sylvania CCD, DeKalb County, Alabama",13423.0,13105.0,318.0,049,92655,01
+0104991692,"Ider CCD, DeKalb County, Alabama",5903.0,5903.0,0.0,049,91692,01
+0104993276,"Valley Head-Mentone CCD, DeKalb County, Alabama",4265.0,4145.0,120.0,049,93276,01
+0104991323,"Geraldine CCD, DeKalb County, Alabama",5941.0,5562.0,379.0,049,91323,01
+0104990792,"Crossville CCD, DeKalb County, Alabama",9133.0,7199.0,1934.0,049,90792,01
+0104991206,"Fort Payne CCD, DeKalb County, Alabama",19158.0,17599.0,1559.0,049,91206,01
+0104991269,"Fyffe CCD, DeKalb County, Alabama",5441.0,5393.0,48.0,049,91269,01
+0104990693,"Collinsville CCD, DeKalb County, Alabama",4860.0,4068.0,792.0,049,90693,01
+0104991611,"Henagar CCD, DeKalb County, Alabama",3070.0,2912.0,158.0,049,91611,01
+0105391125,"Flomaton CCD, Escambia County, Alabama",3739.0,3736.0,3.0,053,91125,01
+0105390153,"Atmore CCD, Escambia County, Alabama",12770.0,12680.0,90.0,053,90153,01
+0105390378,"Brewton CCD, Escambia County, Alabama",9951.0,9804.0,147.0,053,90378,01
+0105390927,"East Escambia CCD, Escambia County, Alabama",5598.0,5541.0,57.0,053,90927,01
+0105392034,"McCullough-Huxford CCD, Escambia County, Alabama",5563.0,5563.0,0.0,053,92034,01
+0107592151,"Millport CCD, Lamar County, Alabama",4070.0,4070.0,0.0,075,92151,01
+0107593033,"Sulligent CCD, Lamar County, Alabama",4572.0,4569.0,3.0,075,93033,01
+0107593294,"Vernon CCD, Lamar County, Alabama",5379.0,5294.0,85.0,075,93294,01
+0111193411,"Wedowee CCD, Randolph County, Alabama",4052.0,4037.0,15.0,111,93411,01
+0111193501,"Woodland CCD, Randolph County, Alabama",2968.0,2967.0,1.0,111,93501,01
+0111192736,"Roanoke CCD, Randolph County, Alabama",9793.0,9619.0,174.0,111,92736,01
+0111193348,"Wadley CCD, Randolph County, Alabama",2190.0,2116.0,74.0,111,93348,01
+0111191161,"Folsom CCD, Randolph County, Alabama",3527.0,3442.0,85.0,111,91161,01
+0101391422,"Greenville CCD, Butler County, Alabama",12765.0,12684.0,81.0,013,91422,01
+0101390540,"Chapman CCD, Butler County, Alabama",1869.0,1869.0,0.0,013,90540,01
+0101391314,"Georgiana-McKenzie CCD, Butler County, Alabama",3969.0,3949.0,20.0,013,91314,01
+0101391170,"Forest Home CCD, Butler County, Alabama",1523.0,1413.0,110.0,013,91170,01
+0109793114,"Theodore CCD, Mobile County, Alabama",23270.0,22240.0,1030.0,097,93114,01
+0109790216,"Bayou La Batre CCD, Mobile County, Alabama",9454.0,8923.0,531.0,097,90216,01
+0109791386,"Grand Bay CCD, Mobile County, Alabama",33958.0,32624.0,1334.0,097,91386,01
+0109792304,"Mount Vernon CCD, Mobile County, Alabama",4045.0,3981.0,64.0,097,92304,01
+0109792187,"Mobile CCD, Mobile County, Alabama",237944.0,231944.0,6000.0,097,92187,01
+0109792889,"Semmes CCD, Mobile County, Alabama",22674.0,22326.0,348.0,097,92889,01
+0109790594,"Citronelle CCD, Mobile County, Alabama",9677.0,9571.0,106.0,097,90594,01
+0110592115,"Marion CCD, Perry County, Alabama",4504.0,4444.0,60.0,105,92115,01
+0110593258,"Uniontown CCD, Perry County, Alabama",2822.0,2822.0,0.0,105,93258,01
+0110591602,"Heiberger CCD, Perry County, Alabama",1197.0,1197.0,0.0,105,91602,01
+0110591503,"Hamburg CCD, Perry County, Alabama",116.0,116.0,0.0,105,91503,01
+0110592997,"Sprott CCD, Perry County, Alabama",1041.0,1041.0,0.0,105,92997,01
+0112792331,"Nauvoo CCD, Walker County, Alabama",3788.0,3744.0,44.0,127,92331,01
+0112793168,"Townley CCD, Walker County, Alabama",2931.0,2907.0,24.0,127,93168,01
+0112792943,"Sipsey CCD, Walker County, Alabama",6032.0,5969.0,63.0,127,92943,01
+0112792421,"Oakman CCD, Walker County, Alabama",3863.0,3849.0,14.0,127,92421,01
+0112790477,"Carbon Hill CCD, Walker County, Alabama",3220.0,3207.0,13.0,127,90477,01
+0112792079,"Manchester CCD, Walker County, Alabama",4844.0,4844.0,0.0,127,92079,01
+0112790891,"Dora CCD, Walker County, Alabama",8097.0,8064.0,33.0,127,90891,01
+0112790729,"Cordova CCD, Walker County, Alabama",3209.0,3209.0,0.0,127,90729,01
+0112790990,"Empire CCD, Walker County, Alabama",2440.0,2431.0,9.0,127,90990,01
+0112791755,"Jasper CCD, Walker County, Alabama",21509.0,20864.0,645.0,127,91755,01
+0112792502,"Parrish CCD, Walker County, Alabama",3497.0,3418.0,79.0,127,92502,01
+0102992682,"Ranburne CCD, Cleburne County, Alabama",4515.0,4466.0,49.0,029,92682,01
+0102991251,"Fruithurst CCD, Cleburne County, Alabama",2886.0,2861.0,25.0,029,91251,01
+0102991593,"Heflin CCD, Cleburne County, Alabama",7538.0,7367.0,171.0,029,91593,01
+0103592016,"Lyeffion CCD, Conecuh County, Alabama",2015.0,2010.0,5.0,035,92016,01
+0103590504,"Castleberry CCD, Conecuh County, Alabama",3278.0,3222.0,56.0,035,90504,01
+0103592718,"Repton CCD, Conecuh County, Alabama",1640.0,1640.0,0.0,035,92718,01
+0103592916,"Shreve CCD, Conecuh County, Alabama",489.0,489.0,0.0,035,92916,01
+0103591044,"Evergreen CCD, Conecuh County, Alabama",5227.0,5185.0,42.0,035,91044,01
+0106391026,"Eutaw CCD, Greene County, Alabama",3677.0,3677.0,0.0,063,91026,01
+0106391179,"Forkland-Tishabee CCD, Greene County, Alabama",1737.0,1734.0,3.0,063,91179,01
+0106392088,"Mantua-West Greene CCD, Greene County, Alabama",1669.0,1669.0,0.0,063,92088,01
+0106390342,"Boligee CCD, Greene County, Alabama",1450.0,1450.0,0.0,063,90342,01
+0109390396,"Brilliant CCD, Marion County, Alabama",2361.0,2361.0,0.0,093,90396,01
+0109390297,"Bexar CCD, Marion County, Alabama",1482.0,1477.0,5.0,093,90297,01
+0109391449,"Guin CCD, Marion County, Alabama",3407.0,3407.0,0.0,093,91449,01
+0109390225,"Bear Creek CCD, Marion County, Alabama",4355.0,4355.0,0.0,093,90225,01
+0109393492,"Winfield CCD, Marion County, Alabama",5416.0,5297.0,119.0,093,93492,01
+0109391476,"Hackleburg CCD, Marion County, Alabama",2580.0,2560.0,20.0,093,91476,01
+0109391512,"Hamilton CCD, Marion County, Alabama",10457.0,10113.0,344.0,093,91512,01
+0110791008,"Ethelsville CCD, Pickens County, Alabama",1981.0,1981.0,0.0,107,91008,01
+0110791359,"Gordo CCD, Pickens County, Alabama",4951.0,4913.0,38.0,107,91359,01
+0110792700,"Reform CCD, Pickens County, Alabama",3643.0,3538.0,105.0,107,92700,01
+0110790495,"Carrollton CCD, Pickens County, Alabama",4539.0,4143.0,396.0,107,90495,01
+0111991935,"Livingston CCD, Sumter County, Alabama",5201.0,4920.0,281.0,119,91935,01
+0111993510,"York CCD, Sumter County, Alabama",4617.0,4617.0,0.0,119,93510,01
+0111990261,"Belmont CCD, Sumter County, Alabama",383.0,383.0,0.0,119,90261,01
+0111991287,"Gainesville CCD, Sumter County, Alabama",889.0,889.0,0.0,119,91287,01
+0111992493,"Panola-Geiger CCD, Sumter County, Alabama",827.0,823.0,4.0,119,92493,01
+0111990801,"Cuba CCD, Sumter County, Alabama",1167.0,1163.0,4.0,119,90801,01
+0107390405,"Brookside CCD, Jefferson County, Alabama",3720.0,3699.0,21.0,073,90405,01
+0107390324,"Birmingham CCD, Jefferson County, Alabama",452587.0,434424.0,18163.0,073,90324,01
+0107391791,"Kimberly-Morris CCD, Jefferson County, Alabama",9539.0,9313.0,226.0,073,91791,01
+0107392385,"North Johns CCD, Jefferson County, Alabama",4337.0,4310.0,27.0,073,92385,01
+0107393204,"Trussville CCD, Jefferson County, Alabama",20377.0,20042.0,335.0,073,93204,01
+0107391296,"Gardendale CCD, Jefferson County, Alabama",22876.0,22111.0,765.0,073,91296,01
+0107391404,"Graysville-Adamsville CCD, Jefferson County, Alabama",10315.0,10262.0,53.0,073,91404,01
+0107393366,"Warrior CCD, Jefferson County, Alabama",7157.0,7111.0,46.0,073,93366,01
+0107390621,"Clay CCD, Jefferson County, Alabama",13891.0,13385.0,506.0,073,90621,01
+0107391431,"Greenwood CCD, Jefferson County, Alabama",22693.0,21850.0,843.0,073,91431,01
+0107391845,"Leeds CCD, Jefferson County, Alabama",16004.0,14851.0,1153.0,073,91845,01
+0107392484,"Palmerdale CCD, Jefferson County, Alabama",5260.0,5244.0,16.0,073,92484,01
+0107392124,"Maytown-Sylvan Springs CCD, Jefferson County, Alabama",3550.0,3525.0,25.0,073,92124,01
+0107392745,"Robbins Crossroads CCD, Jefferson County, Alabama",5516.0,5516.0,0.0,073,92745,01
+0107393447,"West Jefferson CCD, Jefferson County, Alabama",4245.0,4214.0,31.0,073,93447,01
+0107391656,"Hoover CCD, Jefferson County, Alabama",49944.0,45784.0,4160.0,073,91656,01
+0105992691,"Red Bay CCD, Franklin County, Alabama",4938.0,4788.0,150.0,059,92691,01
+0102391332,"Gilbertown-Toxey CCD, Choctaw County, Alabama",3553.0,3552.0,1.0,023,91332,01
+0102391908,"Lisman CCD, Choctaw County, Alabama",2972.0,2957.0,15.0,023,91908,01
+0102392925,"Silas CCD, Choctaw County, Alabama",2293.0,2288.0,5.0,023,92925,01
+0105992799,"Russellville CCD, Franklin County, Alabama",19095.0,16337.0,2758.0,059,92799,01
+0102390441,"Butler CCD, Choctaw County, Alabama",4370.0,4341.0,29.0,023,90441,01
+0105992547,"Phil Campbell CCD, Franklin County, Alabama",5879.0,5756.0,123.0,059,92547,01
+0105993312,"Vina CCD, Franklin County, Alabama",1595.0,1577.0,18.0,059,93312,01
+0109190873,"Demopolis CCD, Marengo County, Alabama",9029.0,8944.0,85.0,091,90873,01
+0109193123,"Thomaston CCD, Marengo County, Alabama",833.0,833.0,0.0,091,93123,01
+0109191080,"Faunsdale CCD, Marengo County, Alabama",815.0,815.0,0.0,091,91080,01
+0109191890,"Linden CCD, Marengo County, Alabama",4189.0,4185.0,4.0,091,91890,01
+0109190882,"Dixons Mill CCD, Marengo County, Alabama",2542.0,2542.0,0.0,091,90882,01
+0109193051,"Sweet Water CCD, Marengo County, Alabama",2335.0,2335.0,0.0,091,93051,01
+0111391683,"Hurtsboro CCD, Russell County, Alabama",1690.0,1684.0,6.0,113,91683,01
+0111390738,"Cottonton-Seale CCD, Russell County, Alabama",3444.0,3405.0,39.0,113,90738,01
+0111392538,"Phenix City CCD, Russell County, Alabama",49794.0,48114.0,1680.0,113,92538,01
+0111390783,"Crawford CCD, Russell County, Alabama",3552.0,3468.0,84.0,113,90783,01
+0101990513,"Cedar Bluff-Gaylesville CCD, Cherokee County, Alabama",7106.0,7079.0,27.0,019,90513,01
+0101990522,"Centre CCD, Cherokee County, Alabama",8498.0,8445.0,53.0,019,90522,01
+0101991854,"Leesburg CCD, Cherokee County, Alabama",5614.0,5534.0,80.0,019,91854,01
+0103991062,"Falco CCD, Covington County, Alabama",1907.0,1893.0,14.0,039,91062,01
+0103992448,"Opp CCD, Covington County, Alabama",9402.0,9312.0,90.0,039,92448,01
+0103991134,"Florala CCD, Covington County, Alabama",3187.0,3123.0,64.0,039,91134,01
+0103990090,"Andalusia CCD, Covington County, Alabama",18912.0,18789.0,123.0,039,90090,01
+0104192529,"Petrey-Highland Home CCD, Crenshaw County, Alabama",3993.0,3866.0,127.0,041,92529,01
+0104190360,"Brantley CCD, Crenshaw County, Alabama",3108.0,3106.0,2.0,041,90360,01
+0104192007,"Luverne CCD, Crenshaw County, Alabama",6765.0,6606.0,159.0,041,92007,01
+0104792457,"Orrville CCD, Dallas County, Alabama",2377.0,2361.0,16.0,047,92457,01
+0104792844,"Sardis CCD, Dallas County, Alabama",1448.0,1443.0,5.0,047,92844,01
+0104792880,"Selma CCD, Dallas County, Alabama",30230.0,29806.0,424.0,047,92880,01
+0107791782,"Killen CCD, Lauderdale County, Alabama",15960.0,15693.0,267.0,077,91782,01
+0107790657,"Cloverdale CCD, Lauderdale County, Alabama",6559.0,6527.0,32.0,077,90657,01
+0104790486,"Carlowville CCD, Dallas County, Alabama",643.0,639.0,4.0,047,90486,01
+0104792808,"Safford CCD, Dallas County, Alabama",588.0,509.0,79.0,047,92808,01
+0107792412,"Oakland CCD, Lauderdale County, Alabama",4130.0,3981.0,149.0,077,92412,01
+0107792772,"Rogersville CCD, Lauderdale County, Alabama",8387.0,8337.0,50.0,077,92772,01
+0107791143,"Florence CCD, Lauderdale County, Alabama",51137.0,49830.0,1307.0,077,91143,01
+0107793384,"Waterloo CCD, Lauderdale County, Alabama",2239.0,2201.0,38.0,077,93384,01
+0107791872,"Lexington CCD, Lauderdale County, Alabama",4178.0,4158.0,20.0,077,91872,01
+0108590270,"Benton-Collirene CCD, Lowndes County, Alabama",1699.0,1699.0,0.0,085,90270,01
+0108591998,"Lowndesboro CCD, Lowndes County, Alabama",767.0,748.0,19.0,085,91998,01
+0108591566,"Hayneville CCD, Lowndes County, Alabama",3574.0,3563.0,11.0,085,91566,01
+0108591197,"Fort Deposit CCD, Lowndes County, Alabama",2784.0,2784.0,0.0,085,91197,01
+0108791917,"Little Texas-Society Hill CCD, Macon County, Alabama",1375.0,1327.0,48.0,087,91917,01
+0108792403,"Notasulga CCD, Macon County, Alabama",2890.0,2875.0,15.0,087,92403,01
+0108791188,"Fort Davis CCD, Macon County, Alabama",700.0,700.0,0.0,087,91188,01
+0108792898,"Shorter-Hardaway CCD, Macon County, Alabama",2288.0,2285.0,3.0,087,92898,01
+0108390144,"Athens CCD, Limestone County, Alabama",73974.0,71313.0,2661.0,083,90144,01
+0108392232,"Mooresville CCD, Limestone County, Alabama",14027.0,13158.0,869.0,083,92232,01
+0108392817,"Salem CCD, Limestone County, Alabama",3694.0,3682.0,12.0,083,92817,01
+0111792205,"Montevallo CCD, Shelby County, Alabama",10096.0,9624.0,472.0,117,92205,01
+0111790711,"Columbiana CCD, Shelby County, Alabama",12376.0,12141.0,235.0,117,90711,01
+0111790450,"Calera CCD, Shelby County, Alabama",9775.0,9273.0,502.0,117,90450,01
+0111790558,"Chelsea CCD, Shelby County, Alabama",40036.0,38201.0,1835.0,117,90558,01
+0111793321,"Vincent CCD, Shelby County, Alabama",5003.0,4980.0,23.0,117,93321,01
+0111790036,"Alabaster-Helena CCD, Shelby County, Alabama",127419.0,119528.0,7891.0,117,90036,01
+0111793474,"Wilsonville CCD, Shelby County, Alabama",4016.0,3978.0,38.0,117,93474,01
+0111592646,"Ragland CCD, St. Clair County, Alabama",5528.0,5484.0,44.0,115,92646,01
+0111592223,"Moody CCD, St. Clair County, Alabama",25768.0,25307.0,461.0,115,92223,01
+0111590135,"Ashville CCD, St. Clair County, Alabama",9341.0,9170.0,171.0,115,90135,01
+0109992196,"Monroeville CCD, Monroe County, Alabama",9260.0,9204.0,56.0,099,92196,01
+0109993267,"Uriah CCD, Monroe County, Alabama",1407.0,1407.0,0.0,099,93267,01
+0109993339,"Vredenburgh CCD, Monroe County, Alabama",1725.0,1725.0,0.0,099,93339,01
+0109990234,"Beatrice CCD, Monroe County, Alabama",1215.0,1215.0,0.0,099,90234,01
+0109991233,"Frisco City CCD, Monroe County, Alabama",6919.0,6862.0,57.0,099,91233,01
+0109992520,"Peterman CCD, Monroe County, Alabama",1219.0,1216.0,3.0,099,92520,01
+0107991548,"Hatton CCD, Lawrence County, Alabama",5000.0,4979.0,21.0,079,91548,01
+0107991629,"Hillsboro CCD, Lawrence County, Alabama",1836.0,1831.0,5.0,079,91629,01
+0107992979,"Speake-Oakville CCD, Lawrence County, Alabama",1785.0,1768.0,17.0,079,92979,01
+0107992241,"Morris Chapel CCD, Lawrence County, Alabama",10731.0,10731.0,0.0,079,92241,01
+0107993159,"Town Creek-Courtland CCD, Lawrence County, Alabama",4177.0,4066.0,111.0,079,93159,01
+0107992250,"Moulton CCD, Lawrence County, Alabama",7706.0,7641.0,65.0,079,92250,01
+0107992286,"Mount Hope CCD, Lawrence County, Alabama",2053.0,2053.0,0.0,079,92286,01
+0108191944,"Loachapoka-Roxana CCD, Lee County, Alabama",7840.0,7253.0,587.0,081,91944,01
+0108190243,"Beauregard-Marvyn CCD, Lee County, Alabama",10806.0,10726.0,80.0,081,90243,01

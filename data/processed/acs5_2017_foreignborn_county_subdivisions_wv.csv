@@ -1,0 +1,231 @@
+geoid,name,total,native,foreign_born,county,county subdivision,state
+5403392352,"Northern district, Harrison County, West Virginia",10196.0,10171.0,25.0,033,92352,54
+5403392952,"Southwest district, Harrison County, West Virginia",11345.0,11270.0,75.0,033,92952,54
+5403392932,"South Urban district, Harrison County, West Virginia",11647.0,11536.0,111.0,033,92932,54
+5403392923,"Southern district, Harrison County, West Virginia",12467.0,12361.0,106.0,033,92923,54
+5403392368,"North Urban district, Harrison County, West Virginia",9642.0,9573.0,69.0,033,92368,54
+5403390975,"Eastern district, Harrison County, West Virginia",13141.0,12923.0,218.0,033,90975,54
+5406990824,"District 2, Ohio County, West Virginia",11958.0,11681.0,277.0,069,90824,54
+5406990862,"District 3, Ohio County, West Virginia",15174.0,14985.0,189.0,069,90862,54
+5406990788,"District 1, Ohio County, West Virginia",15774.0,15526.0,248.0,069,90788,54
+5408591380,"Grant district, Ritchie County, West Virginia",1821.0,1811.0,10.0,085,91380,54
+5408592244,"Murphy district, Ritchie County, West Virginia",1286.0,1286.0,0.0,085,92244,54
+5408593336,"Union district, Ritchie County, West Virginia",3434.0,3434.0,0.0,085,93336,54
+5408590552,"Clay district, Ritchie County, West Virginia",3464.0,3397.0,67.0,085,90552,54
+5401390873,"District 4, Calhoun County, West Virginia",1816.0,1798.0,18.0,013,90873,54
+5401390766,"District 1, Calhoun County, West Virginia",1276.0,1276.0,0.0,013,90766,54
+5401390885,"District 5, Calhoun County, West Virginia",1963.0,1938.0,25.0,013,90885,54
+5401390836,"District 3, Calhoun County, West Virginia",1496.0,1478.0,18.0,013,90836,54
+5401390800,"District 2, Calhoun County, West Virginia",899.0,899.0,0.0,013,90800,54
+5406590822,"District 2, Morgan County, West Virginia",6010.0,5891.0,119.0,065,90822,54
+5406590786,"District 1, Morgan County, West Virginia",5361.0,5162.0,199.0,065,90786,54
+5406590858,"District 3, Morgan County, West Virginia",6139.0,6059.0,80.0,065,90858,54
+5408190828,"District 2, Raleigh County, West Virginia",25145.0,24529.0,616.0,081,90828,54
+5408190792,"District 1, Raleigh County, West Virginia",22493.0,22466.0,27.0,081,90792,54
+5408190864,"District 3, Raleigh County, West Virginia",29459.0,28794.0,665.0,081,90864,54
+5400793597,"Western district, Braxton County, West Virginia",3324.0,3324.0,0.0,007,93597,54
+5400792346,"Northern district, Braxton County, West Virginia",3847.0,3842.0,5.0,007,92346,54
+5400792922,"Southern district, Braxton County, West Virginia",3930.0,3919.0,11.0,007,92922,54
+5400790968,"Eastern district, Braxton County, West Virginia",3244.0,3235.0,9.0,007,90968,54
+5407990720,"Curry district, Putnam County, West Virginia",10089.0,10044.0,45.0,079,90720,54
+5407990292,"Buffalo-Union district, Putnam County, West Virginia",10742.0,10698.0,44.0,079,90292,54
+5407992508,"Pocatalico district, Putnam County, West Virginia",8647.0,8585.0,62.0,079,92508,54
+5407993090,"Teays district, Putnam County, West Virginia",15110.0,14893.0,217.0,079,93090,54
+5407992736,"Scott district, Putnam County, West Virginia",12056.0,11888.0,168.0,079,92736,54
+5400193588,"West district, Barbour County, West Virginia",3793.0,3793.0,0.0,001,93588,54
+5400192892,"South district, Barbour County, West Virginia",5803.0,5794.0,9.0,001,92892,54
+5400192328,"North district, Barbour County, West Virginia",7194.0,7115.0,79.0,001,92328,54
+5400590762,"District 1, Boone County, West Virginia",7446.0,7406.0,40.0,005,90762,54
+5400590796,"District 2, Boone County, West Virginia",7160.0,7160.0,0.0,005,90796,54
+5400590832,"District 3, Boone County, West Virginia",8630.0,8597.0,33.0,005,90832,54
+5404790168,"Big Creek district, McDowell County, West Virginia",5411.0,5402.0,9.0,047,90168,54
+5404790240,"Browns Creek district, McDowell County, West Virginia",6185.0,5949.0,236.0,047,90240,54
+5404792345,"North Elkin district, McDowell County, West Virginia",3204.0,3198.0,6.0,047,92345,54
+5404792712,"Sandy River district, McDowell County, West Virginia",4907.0,4907.0,0.0,047,92712,54
+5409990324,"Butler district, Wayne County, West Virginia",9745.0,9710.0,35.0,099,90324,54
+5409990492,"Ceredo district, Wayne County, West Virginia",6466.0,6457.0,9.0,099,90492,54
+5409993624,"Westmoreland district, Wayne County, West Virginia",8936.0,8800.0,136.0,099,93624,54
+5409993036,"Stonewall district, Wayne County, West Virginia",7796.0,7796.0,0.0,099,93036,54
+5409993372,"Union district, Wayne County, West Virginia",8120.0,8081.0,39.0,099,93372,54
+5410990868,"District 3, Wyoming County, West Virginia",7318.0,7318.0,0.0,109,90868,54
+5410990795,"District 1, Wyoming County, West Virginia",6979.0,6975.0,4.0,109,90795,54
+5410990831,"District 2, Wyoming County, West Virginia",7833.0,7765.0,68.0,109,90831,54
+5403590976,"Eastern district, Jackson County, West Virginia",9632.0,9574.0,58.0,035,90976,54
+5403592353,"Northern district, Jackson County, West Virginia",8478.0,8430.0,48.0,035,92353,54
+5403593605,"Western district, Jackson County, West Virginia",11013.0,10975.0,38.0,035,93605,54
+5405590900,"District I, Mercer County, West Virginia",17251.0,17038.0,213.0,055,90900,54
+5405590924,"District III, Mercer County, West Virginia",20824.0,20736.0,88.0,055,90924,54
+5405590912,"District II, Mercer County, West Virginia",22888.0,22479.0,409.0,055,90912,54
+5409793105,"Third district, Upshur County, West Virginia",8064.0,8041.0,23.0,097,93105,54
+5409792745,"Second district, Upshur County, West Virginia",8329.0,8322.0,7.0,097,92745,54
+5409791102,"First district, Upshur County, West Virginia",8211.0,8083.0,128.0,097,91102,54
+5410190471,"Central district, Webster County, West Virginia",2967.0,2967.0,0.0,101,90471,54
+5410192360,"Northern district, Webster County, West Virginia",2922.0,2900.0,22.0,101,92360,54
+5410192925,"Southern district, Webster County, West Virginia",2748.0,2746.0,2.0,101,92925,54
+5400392526,"Potomac district, Berkeley County, West Virginia",18504.0,17773.0,731.0,003,92526,54
+5400390006,"Adam Stephens district, Berkeley County, West Virginia",14425.0,13891.0,534.0,003,90006,54
+5400392322,"Norborne district, Berkeley County, West Virginia",11862.0,11192.0,670.0,003,92322,54
+5400393388,"Valley district, Berkeley County, West Virginia",20172.0,19782.0,390.0,003,93388,54
+5400393171,"Tuscarora district, Berkeley County, West Virginia",23546.0,22862.0,684.0,003,93171,54
+5400392754,"Shenandoah district, Berkeley County, West Virginia",23101.0,22320.0,781.0,003,92754,54
+5401992472,"Plateau district, Fayette County, West Virginia",15680.0,15539.0,141.0,019,92472,54
+5401993396,"Valley district, Fayette County, West Virginia",13725.0,13558.0,167.0,019,93396,54
+5401992280,"New Haven district, Fayette County, West Virginia",15197.0,15120.0,77.0,019,92280,54
+5402391296,"Grant district, Grant County, West Virginia",4842.0,4842.0,0.0,023,91296,54
+5402392208,"Milroy district, Grant County, West Virginia",3823.0,3809.0,14.0,023,92208,54
+5402393216,"Union district, Grant County, West Virginia",3008.0,3006.0,2.0,023,93216,54
+5402791248,"Gore district, Hampshire County, West Virginia",5534.0,5447.0,87.0,027,91248,54
+5402792676,"Romney district, Hampshire County, West Virginia",3708.0,3678.0,30.0,027,92676,54
+5402790360,"Capon district, Hampshire County, West Virginia",2645.0,2631.0,14.0,027,90360,54
+5402790204,"Bloomery district, Hampshire County, West Virginia",3288.0,3272.0,16.0,027,90204,54
+5402792820,"Sherman district, Hampshire County, West Virginia",4006.0,4006.0,0.0,027,92820,54
+5402792988,"Springfield district, Hampshire County, West Virginia",3105.0,3100.0,5.0,027,92988,54
+5402792184,"Mill Creek district, Hampshire County, West Virginia",1126.0,1126.0,0.0,027,92184,54
+5408991440,"Greenbrier River district, Summers County, West Virginia",4645.0,4620.0,25.0,089,91440,54
+5408992316,"New River district, Summers County, West Virginia",3948.0,3884.0,64.0,089,92316,54
+5408990216,"Bluestone River district, Summers County, West Virginia",4617.0,4608.0,9.0,089,90216,54
+5400993552,"Weirton district, Brooke County, West Virginia",7300.0,7134.0,166.0,009,93552,54
+5400993564,"Wellsburg district, Brooke County, West Virginia",8014.0,7893.0,121.0,009,93564,54
+5400991104,"Follansbee district, Brooke County, West Virginia",7753.0,7722.0,31.0,009,91104,54
+5401790138,"Beech district, Doddridge County, West Virginia",2082.0,2065.0,17.0,017,90138,54
+5401792094,"Maple district, Doddridge County, West Virginia",1889.0,1880.0,9.0,017,92094,54
+5401792374,"Oak district, Doddridge County, West Virginia",2240.0,2222.0,18.0,017,92374,54
+5401792466,"Pine district, Doddridge County, West Virginia",2359.0,2339.0,20.0,017,92466,54
+5402590449,"Central district, Greenbrier County, West Virginia",13510.0,13140.0,370.0,025,90449,54
+5402590972,"Eastern district, Greenbrier County, West Virginia",11744.0,11670.0,74.0,025,90972,54
+5402593601,"Western district, Greenbrier County, West Virginia",10269.0,10255.0,14.0,025,93601,54
+5403190372,"Capon district, Hardy County, West Virginia",2911.0,2825.0,86.0,031,90372,54
+5403191968,"Lost River district, Hardy County, West Virginia",2201.0,2162.0,39.0,031,91968,54
+5403192232,"Moorefield district, Hardy County, West Virginia",2891.0,2692.0,199.0,031,92232,54
+5403192928,"South Fork district, Hardy County, West Virginia",2685.0,2685.0,0.0,031,92928,54
+5403192382,"Old Fields district, Hardy County, West Virginia",3124.0,2865.0,259.0,031,92382,54
+5404992154,"Middletown district, Marion County, West Virginia",17050.0,16559.0,491.0,049,92154,54
+5404993594,"West Augusta district, Marion County, West Virginia",16777.0,16739.0,38.0,049,93594,54
+5404992418,"Palatine district, Marion County, West Virginia",22748.0,22556.0,192.0,049,92418,54
+5405790820,"District 2, Mineral County, West Virginia",9318.0,9274.0,44.0,057,90820,54
+5405790856,"District 3, Mineral County, West Virginia",9489.0,9399.0,90.0,057,90856,54
+5405790784,"District 1, Mineral County, West Virginia",8614.0,8596.0,18.0,057,90784,54
+5405993696,"Williamson district, Mingo County, West Virginia",4166.0,4147.0,19.0,059,93696,54
+5405992064,"Magnolia district, Mingo County, West Virginia",2329.0,2329.0,0.0,059,92064,54
+5405993012,"Stafford district, Mingo County, West Virginia",3429.0,3429.0,0.0,059,93012,54
+5405991848,"Lee district, Mingo County, West Virginia",3796.0,3796.0,0.0,059,91848,54
+5402991308,"Grant district, Hancock County, West Virginia",10341.0,10222.0,119.0,029,91308,54
+5402990312,"Butler district, Hancock County, West Virginia",9807.0,9454.0,353.0,029,90312,54
+5402990540,"Clay district, Hancock County, West Virginia",9773.0,9722.0,51.0,029,90540,54
+5404191176,"Freemans Creek district, Lewis County, West Virginia",5377.0,5337.0,40.0,041,91176,54
+5404191480,"Hackers Creek-Skin Creek district, Lewis County, West Virginia",5855.0,5672.0,183.0,041,91480,54
+5404190676,"Courthouse-Collins Settlement district, Lewis County, West Virginia",5139.0,5114.0,25.0,041,90676,54
+5405190780,"District 1, Marshall County, West Virginia",10769.0,10658.0,111.0,051,90780,54
+5405190816,"District 2, Marshall County, West Virginia",9969.0,9889.0,80.0,051,90816,54
+5405190852,"District 3, Marshall County, West Virginia",11268.0,11235.0,33.0,051,90852,54
+5406793072,"Summersville district, Nicholas County, West Virginia",5075.0,5017.0,58.0,067,93072,54
+5406790132,"Beaver district, Nicholas County, West Virginia",7148.0,7116.0,32.0,067,90132,54
+5406791344,"Grant district, Nicholas County, West Virginia",1622.0,1600.0,22.0,067,91344,54
+5406791716,"Jefferson district, Nicholas County, West Virginia",1395.0,1315.0,80.0,067,91716,54
+5406791500,"Hamilton district, Nicholas County, West Virginia",2866.0,2815.0,51.0,067,91500,54
+5406793660,"Wilderness district, Nicholas County, West Virginia",3519.0,3519.0,0.0,067,93660,54
+5406791752,"Kentucky district, Nicholas County, West Virginia",3871.0,3871.0,0.0,067,91752,54
+5407591944,"Little Levels district, Pocahontas County, West Virginia",1887.0,1869.0,18.0,075,91944,54
+5407591656,"Huntersville district, Pocahontas County, West Virginia",1012.0,1001.0,11.0,075,91656,54
+5407591416,"Greenbank district, Pocahontas County, West Virginia",2243.0,2232.0,11.0,075,91416,54
+5407590996,"Edray district, Pocahontas County, West Virginia",3432.0,3357.0,75.0,075,90996,54
+5409390192,"Black Fork district, Tucker County, West Virginia",3397.0,3397.0,0.0,093,90192,54
+5409391056,"Fairfax district, Tucker County, West Virginia",696.0,696.0,0.0,093,91056,54
+5409390744,"Davis district, Tucker County, West Virginia",817.0,817.0,0.0,093,90744,54
+5409392688,"St. George district, Tucker County, West Virginia",767.0,767.0,0.0,093,92688,54
+5409390624,"Clover district, Tucker County, West Virginia",407.0,370.0,37.0,093,90624,54
+5409391896,"Licking district, Tucker County, West Virginia",96.0,96.0,0.0,093,91896,54
+5409390948,"Dry Fork district, Tucker County, West Virginia",855.0,849.0,6.0,093,90948,54
+5409590469,"Central district, Tyler County, West Virginia",2271.0,2262.0,9.0,095,90469,54
+5409593592,"West district, Tyler County, West Virginia",2415.0,2359.0,56.0,095,93592,54
+5409592898,"South district, Tyler County, West Virginia",2202.0,2198.0,4.0,095,92898,54
+5409592334,"North district, Tyler County, West Virginia",2061.0,2061.0,0.0,095,92334,54
+5408392292,"New Interest district, Randolph County, West Virginia",1033.0,1033.0,0.0,083,92292,54
+5408392148,"Middle Fork district, Randolph County, West Virginia",909.0,909.0,0.0,083,92148,54
+5408392640,"Roaring Creek district, Randolph County, West Virginia",1976.0,1976.0,0.0,083,92640,54
+5408391824,"Leadsville district, Randolph County, West Virginia",13271.0,13098.0,173.0,083,91824,54
+5408390936,"Dry Fork district, Randolph County, West Virginia",1133.0,1133.0,0.0,083,90936,54
+5408392220,"Mingo district, Randolph County, West Virginia",996.0,996.0,0.0,083,92220,54
+5408390156,"Beverly district, Randolph County, West Virginia",4520.0,4477.0,43.0,083,90156,54
+5408391668,"Huttonsville district, Randolph County, West Virginia",3208.0,3193.0,15.0,083,91668,54
+5408393420,"Valley Bend district, Randolph County, West Virginia",2106.0,2106.0,0.0,083,93420,54
+5409193621,"Western district, Taylor County, West Virginia",6323.0,6254.0,69.0,091,93621,54
+5409190993,"Eastern district, Taylor County, West Virginia",4765.0,4719.0,46.0,091,90993,54
+5409193175,"Tygart district, Taylor County, West Virginia",5889.0,5838.0,51.0,091,93175,54
+5410592344,"Northeast district, Wirt County, West Virginia",2410.0,2410.0,0.0,105,92344,54
+5410590473,"Central district, Wirt County, West Virginia",1709.0,1709.0,0.0,105,90473,54
+5410592958,"Southwest district, Wirt County, West Virginia",1681.0,1681.0,0.0,105,92958,54
+5410793024,"Steele district, Wood County, West Virginia",973.0,956.0,17.0,107,93024,54
+5410790588,"Clay district, Wood County, West Virginia",6286.0,6224.0,62.0,107,90588,54
+5410792424,"Parkersburg district, Wood County, West Virginia",27994.0,27695.0,299.0,107,92424,54
+5410793384,"Union district, Wood County, West Virginia",4550.0,4517.0,33.0,107,93384,54
+5410792856,"Slate district, Wood County, West Virginia",4588.0,4516.0,72.0,107,92856,54
+5410791560,"Harris district, Wood County, West Virginia",1940.0,1940.0,0.0,107,91560,54
+5410793672,"Williams district, Wood County, West Virginia",13676.0,13438.0,238.0,107,93672,54
+5410793180,"Tygart district, Wood County, West Virginia",13511.0,13438.0,73.0,107,93180,54
+5410793444,"Walker district, Wood County, West Virginia",1373.0,1373.0,0.0,107,93444,54
+5410791980,"Lubeck district, Wood County, West Virginia",11125.0,11074.0,51.0,107,91980,54
+5401590895,"District C, Clay County, West Virginia",2433.0,2433.0,0.0,015,90895,54
+5401590891,"District A, Clay County, West Virginia",3495.0,3495.0,0.0,015,90891,54
+5401590893,"District B, Clay County, West Virginia",2973.0,2973.0,0.0,015,90893,54
+5402190758,"De Kalb-Troy district, Gilmer County, West Virginia",1632.0,1632.0,0.0,021,90758,54
+5402190534,"City district, Gilmer County, West Virginia",3373.0,3168.0,205.0,021,90534,54
+5402190408,"Center district, Gilmer County, West Virginia",1407.0,1399.0,8.0,021,90408,54
+5402191236,"Glenville district, Gilmer County, West Virginia",1893.0,1885.0,8.0,021,91236,54
+5405390648,"Cologne district, Mason County, West Virginia",1497.0,1497.0,0.0,053,90648,54
+5405393432,"Waggener district, Mason County, West Virginia",2779.0,2776.0,3.0,053,93432,54
+5405390048,"Arbuckle district, Mason County, West Virginia",897.0,897.0,0.0,053,90048,54
+5405390612,"Clendenin district, Mason County, West Virginia",3777.0,3770.0,7.0,053,90612,54
+5405390660,"Cooper district, Mason County, West Virginia",2315.0,2315.0,0.0,053,90660,54
+5405391512,"Hannan district, Mason County, West Virginia",3582.0,3471.0,111.0,053,91512,54
+5405391860,"Lewis district, Mason County, West Virginia",5501.0,5471.0,30.0,053,91860,54
+5405391260,"Graham district, Mason County, West Virginia",2565.0,2535.0,30.0,053,91260,54
+5405392652,"Robinson district, Mason County, West Virginia",2855.0,2855.0,0.0,053,92652,54
+5405393264,"Union district, Mason County, West Virginia",1232.0,1232.0,0.0,053,93264,54
+5406190983,"Eastern district, Monongalia County, West Virginia",41422.0,38424.0,2998.0,061,90983,54
+5406193612,"Western district, Monongalia County, West Virginia",30615.0,30228.0,387.0,061,93612,54
+5406190456,"Central district, Monongalia County, West Virginia",31678.0,29291.0,2387.0,061,90456,54
+5406390457,"Central district, Monroe County, West Virginia",4952.0,4930.0,22.0,063,90457,54
+5406390984,"Eastern district, Monroe County, West Virginia",3721.0,3720.0,1.0,063,90984,54
+5406393613,"Western district, Monroe County, West Virginia",4844.0,4812.0,32.0,063,93613,54
+5407390896,"District C, Pleasants County, West Virginia",1463.0,1463.0,0.0,073,90896,54
+5407390894,"District B, Pleasants County, West Virginia",1588.0,1588.0,0.0,073,90894,54
+5407390898,"District D, Pleasants County, West Virginia",2485.0,2485.0,0.0,073,90898,54
+5407390892,"District A, Pleasants County, West Virginia",1991.0,1978.0,13.0,073,90892,54
+5410390830,"District 2, Wetzel County, West Virginia",5260.0,5199.0,61.0,103,90830,54
+5410390867,"District 3, Wetzel County, West Virginia",5222.0,5199.0,23.0,103,90867,54
+5410390794,"District 1, Wetzel County, West Virginia",5311.0,5292.0,19.0,103,90794,54
+5401190764,"District 1, Cabell County, West Virginia",16492.0,16343.0,149.0,011,90764,54
+5401190798,"District 2, Cabell County, West Virginia",14853.0,14344.0,509.0,011,90798,54
+5401190882,"District 5, Cabell County, West Virginia",20783.0,20653.0,130.0,011,90882,54
+5401190870,"District 4, Cabell County, West Virginia",23996.0,23561.0,435.0,011,90870,54
+5401190834,"District 3, Cabell County, West Virginia",19976.0,19683.0,293.0,011,90834,54
+5403790504,"Charles Town district, Jefferson County, West Virginia",11413.0,10445.0,968.0,037,90504,54
+5403791548,"Harpers Ferry district, Jefferson County, West Virginia",11816.0,11599.0,217.0,037,91548,54
+5403792160,"Middleway district, Jefferson County, West Virginia",11451.0,11169.0,282.0,037,92160,54
+5403792760,"Shepherdstown district, Jefferson County, West Virginia",10463.0,10053.0,410.0,037,92760,54
+5403791740,"Kabletown district, Jefferson County, West Virginia",10530.0,9648.0,882.0,037,91740,54
+5403990876,"District 4, Kanawha County, West Virginia",46825.0,46272.0,553.0,039,90876,54
+5403990804,"District 2, Kanawha County, West Virginia",52139.0,50695.0,1444.0,039,90804,54
+5403990768,"District 1, Kanawha County, West Virginia",40364.0,39608.0,756.0,039,90768,54
+5403990840,"District 3, Kanawha County, West Virginia",48499.0,47922.0,577.0,039,90840,54
+5404590453,"Central district, Logan County, West Virginia",9489.0,9381.0,108.0,045,90453,54
+5404590979,"Eastern district, Logan County, West Virginia",13319.0,13305.0,14.0,045,90979,54
+5404593608,"Western district, Logan County, West Virginia",11620.0,11615.0,5.0,045,93608,54
+5407193615,"Western district, Pendleton County, West Virginia",2288.0,2288.0,0.0,071,93615,54
+5407190462,"Central district, Pendleton County, West Virginia",2558.0,2524.0,34.0,071,90462,54
+5407190987,"Eastern district, Pendleton County, West Virginia",2292.0,2279.0,13.0,071,90987,54
+5407791100,"First district, Preston County, West Virginia",6769.0,6728.0,41.0,077,91100,54
+5407791096,"Fifth district, Preston County, West Virginia",5489.0,5479.0,10.0,077,91096,54
+5407792742,"Second district, Preston County, West Virginia",9176.0,8836.0,340.0,077,92742,54
+5407791134,"Fourth district, Preston County, West Virginia",6411.0,6397.0,14.0,077,91134,54
+5407793102,"Third district, Preston County, West Virginia",5915.0,5905.0,10.0,077,93102,54
+5404390842,"District 3, Lincoln County, West Virginia",7530.0,7521.0,9.0,043,90842,54
+5408790906,"District I, Roane County, West Virginia",4805.0,4769.0,36.0,087,90906,54
+5404390770,"District 1, Lincoln County, West Virginia",6781.0,6750.0,31.0,043,90770,54
+5404390806,"District 2, Lincoln County, West Virginia",6930.0,6930.0,0.0,043,90806,54
+5408790918,"District II, Roane County, West Virginia",4936.0,4916.0,20.0,087,90918,54
+5408790930,"District III, Roane County, West Virginia",4607.0,4589.0,18.0,087,90930,54
+5405990141,"Beech Ben Mate district, Mingo County, West Virginia",3578.0,3578.0,0.0,059,90141,54
+5405991770,"Kermit Harvey district, Mingo County, West Virginia",3845.0,3845.0,0.0,059,91770,54
+5405993162,"Tug Hardee district, Mingo County, West Virginia",4007.0,4007.0,0.0,059,93162,54

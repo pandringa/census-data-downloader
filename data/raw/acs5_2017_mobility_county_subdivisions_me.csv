@@ -1,0 +1,534 @@
+B07003_001E,B07003_004E,B07003_007E,B07003_010E,B07003_013E,B07003_016E,name,county,county subdivision,state
+2029.0,1837.0,40.0,106.0,46.0,0.0,"Palmyra town, Somerset County, Maine",025,56520,23
+914.0,819.0,71.0,16.0,8.0,0.0,"Solon town, Somerset County, Maine",025,69505,23
+57.0,55.0,2.0,0.0,0.0,0.0,"Brighton plantation, Somerset County, Maine",025,07380,23
+663.0,634.0,11.0,8.0,10.0,0.0,"New Portland town, Somerset County, Maine",025,49205,23
+867.0,803.0,32.0,13.0,15.0,4.0,"Smithfield town, Somerset County, Maine",025,69155,23
+899.0,812.0,41.0,35.0,11.0,0.0,"Embden town, Somerset County, Maine",025,23410,23
+8.0,8.0,0.0,0.0,0.0,0.0,"Northwest Somerset UT, Somerset County, Maine",025,53636,23
+2155.0,2068.0,34.0,37.0,16.0,0.0,"St. Albans town, Somerset County, Maine",025,64850,23
+20.0,20.0,0.0,0.0,0.0,0.0,"West Forks plantation, Somerset County, Maine",025,82840,23
+4712.0,3839.0,480.0,365.0,28.0,0.0,"Madison town, Somerset County, Maine",025,42660,23
+2621.0,2336.0,183.0,61.0,41.0,0.0,"Anson town, Somerset County, Maine",025,01395,23
+27.0,27.0,0.0,0.0,0.0,0.0,"Dennistown plantation, Somerset County, Maine",025,17285,23
+6526.0,5381.0,481.0,558.0,93.0,13.0,"Fairfield town, Somerset County, Maine",025,24320,23
+1642.0,1449.0,89.0,81.0,17.0,6.0,"Hartland town, Somerset County, Maine",025,31740,23
+570.0,549.0,7.0,11.0,3.0,0.0,"Moscow town, Somerset County, Maine",025,47455,23
+96.0,85.0,0.0,6.0,5.0,0.0,"Pleasant Ridge plantation, Somerset County, Maine",025,59705,23
+59.0,59.0,0.0,0.0,0.0,0.0,"Seboomook Lake UT, Somerset County, Maine",025,67238,23
+1582.0,1458.0,86.0,22.0,16.0,0.0,"Gouldsboro town, Hancock County, Maine",009,28450,23
+2.0,2.0,0.0,0.0,0.0,0.0,"Northwest Hancock UT, Hancock County, Maine",009,53620,23
+772.0,664.0,25.0,21.0,2.0,60.0,"Otis town, Hancock County, Maine",009,55890,23
+2042.0,1887.0,107.0,40.0,8.0,0.0,"Deer Isle town, Hancock County, Maine",009,17145,23
+2321.0,2004.0,180.0,82.0,55.0,0.0,"Hancock town, Hancock County, Maine",009,30970,23
+72.0,64.0,1.0,0.0,7.0,0.0,"Osborn town, Hancock County, Maine",009,55855,23
+365.0,294.0,61.0,3.0,7.0,0.0,"Sorrento town, Hancock County, Maine",009,69750,23
+1111.0,1048.0,58.0,0.0,5.0,0.0,"Stonington town, Hancock County, Maine",009,74580,23
+1064.0,960.0,76.0,7.0,21.0,0.0,"Sullivan town, Hancock County, Maine",009,74965,23
+968.0,880.0,66.0,10.0,12.0,0.0,"Brooks town, Waldo County, Maine",027,07870,23
+976.0,863.0,13.0,60.0,40.0,0.0,"Frankfort town, Waldo County, Maine",027,26280,23
+825.0,722.0,54.0,49.0,0.0,0.0,"Knox town, Waldo County, Maine",027,37585,23
+920.0,871.0,20.0,0.0,29.0,0.0,"Belmont town, Waldo County, Maine",027,04125,23
+955.0,914.0,18.0,0.0,19.0,4.0,"Monroe town, Waldo County, Maine",027,46475,23
+880.0,777.0,63.0,6.0,30.0,4.0,"Waldo town, Waldo County, Maine",027,79480,23
+827.0,794.0,26.0,0.0,7.0,0.0,"Montville town, Waldo County, Maine",027,46790,23
+1469.0,1326.0,74.0,67.0,0.0,2.0,"Palermo town, Waldo County, Maine",027,56450,23
+747.0,710.0,3.0,32.0,2.0,0.0,"Prospect town, Waldo County, Maine",027,61210,23
+1493.0,1385.0,65.0,31.0,12.0,0.0,"Searsmont town, Waldo County, Maine",027,66565,23
+1447.0,1278.0,51.0,43.0,67.0,8.0,"Stockton Springs town, Waldo County, Maine",027,74475,23
+987.0,899.0,57.0,16.0,15.0,0.0,"Troy town, Waldo County, Maine",027,77625,23
+1860.0,1691.0,31.0,39.0,69.0,30.0,"Northport town, Waldo County, Maine",027,52845,23
+2338.0,1855.0,194.0,138.0,144.0,7.0,"Unity town, Waldo County, Maine",027,78255,23
+714.0,672.0,21.0,18.0,3.0,0.0,"Freedom town, Waldo County, Maine",027,26420,23
+756.0,621.0,117.0,0.0,17.0,1.0,"Islesboro town, Waldo County, Maine",027,35240,23
+862.0,800.0,17.0,18.0,27.0,0.0,"Liberty town, Waldo County, Maine",027,39055,23
+1961.0,1718.0,36.0,105.0,94.0,8.0,"Lincolnville town, Waldo County, Maine",027,39755,23
+681.0,524.0,113.0,5.0,39.0,0.0,"Jackson town, Waldo County, Maine",027,35450,23
+1262.0,1044.0,172.0,33.0,13.0,0.0,"Swanville town, Waldo County, Maine",027,75525,23
+3821.0,3298.0,70.0,230.0,193.0,30.0,"Winterport town, Waldo County, Maine",027,86760,23
+1002.0,910.0,49.0,26.0,14.0,3.0,"Morrill town, Waldo County, Maine",027,47245,23
+1193.0,1086.0,26.0,65.0,0.0,16.0,"Burnham town, Waldo County, Maine",027,09270,23
+256.0,234.0,18.0,3.0,1.0,0.0,"Burlington town, Penobscot County, Maine",019,09200,23
+1896.0,1794.0,54.0,33.0,15.0,0.0,"Corinna town, Penobscot County, Maine",019,14310,23
+2626.0,2474.0,81.0,13.0,22.0,36.0,"Searsport town, Waldo County, Maine",027,66635,23
+800.0,722.0,76.0,2.0,0.0,0.0,"Thorndike town, Waldo County, Maine",027,76610,23
+9013.0,7864.0,835.0,134.0,180.0,0.0,"Brewer city, Penobscot County, Maine",019,06925,23
+3743.0,3141.0,255.0,306.0,41.0,0.0,"Dexter town, Penobscot County, Maine",019,17530,23
+939.0,825.0,23.0,31.0,40.0,20.0,"Lee town, Penobscot County, Maine",019,38530,23
+1659.0,1555.0,59.0,0.0,45.0,0.0,"Hudson town, Penobscot County, Maine",019,34365,23
+7230.0,6809.0,227.0,139.0,55.0,0.0,"Hampden town, Penobscot County, Maine",019,30795,23
+4948.0,4174.0,625.0,61.0,88.0,0.0,"Lincoln town, Penobscot County, Maine",019,39475,23
+4262.0,3956.0,237.0,15.0,54.0,0.0,"Millinocket town, Penobscot County, Maine",019,45810,23
+10882.0,6742.0,1375.0,1504.0,1205.0,56.0,"Orono town, Penobscot County, Maine",019,55565,23
+1941.0,1644.0,164.0,47.0,86.0,0.0,"Veazie town, Penobscot County, Maine",019,78780,23
+0.0,0.0,0.0,0.0,0.0,0.0,"Whitney UT, Penobscot County, Maine",019,85230,23
+400.0,389.0,0.0,4.0,7.0,0.0,"North Penobscot UT, Penobscot County, Maine",019,52710,23
+264.0,264.0,0.0,0.0,0.0,0.0,"Prentiss UT, Penobscot County, Maine",019,60790,23
+561.0,534.0,17.0,0.0,10.0,0.0,"Winn town, Penobscot County, Maine",019,86305,23
+944.0,928.0,4.0,12.0,0.0,0.0,"Alton town, Penobscot County, Maine",019,01115,23
+31805.0,25327.0,3421.0,1648.0,1324.0,85.0,"Bangor city, Penobscot County, Maine",019,02795,23
+27.0,27.0,0.0,0.0,0.0,0.0,"Drew plantation, Penobscot County, Maine",019,18580,23
+119.0,103.0,11.0,5.0,0.0,0.0,"Edinburg town, Penobscot County, Maine",019,22710,23
+1532.0,1400.0,132.0,0.0,0.0,0.0,"Enfield town, Penobscot County, Maine",019,23620,23
+1195.0,1000.0,161.0,16.0,18.0,0.0,"Howland town, Penobscot County, Maine",019,34190,23
+1387.0,1235.0,111.0,0.0,41.0,0.0,"Greenbush town, Penobscot County, Maine",019,29185,23
+1128.0,1038.0,23.0,27.0,35.0,5.0,"Etna town, Penobscot County, Maine",019,23865,23
+1052.0,882.0,72.0,63.0,35.0,0.0,"Exeter town, Penobscot County, Maine",019,24110,23
+889.0,826.0,47.0,10.0,6.0,0.0,"Patten town, Penobscot County, Maine",019,57150,23
+1284.0,1209.0,23.0,42.0,10.0,0.0,"Plymouth town, Penobscot County, Maine",019,59950,23
+70.0,58.0,3.0,3.0,6.0,0.0,"Webster plantation, Penobscot County, Maine",019,81055,23
+3053.0,2335.0,468.0,0.0,231.0,19.0,"Holden town, Penobscot County, Maine",019,33490,23
+639.0,542.0,55.0,38.0,4.0,0.0,"Lagrange town, Penobscot County, Maine",019,37760,23
+845.0,712.0,75.0,20.0,30.0,8.0,"Mattawamkeag town, Penobscot County, Maine",019,44270,23
+1094.0,1030.0,46.0,12.0,6.0,0.0,"Bradford town, Penobscot County, Maine",019,06575,23
+2115.0,1984.0,89.0,34.0,8.0,0.0,"Eddington town, Penobscot County, Maine",019,22535,23
+1262.0,1185.0,33.0,44.0,0.0,0.0,"Dixmont town, Penobscot County, Maine",019,17950,23
+205.0,192.0,13.0,0.0,0.0,0.0,"East Central Penobscot UT, Penobscot County, Maine",019,19868,23
+1776.0,1445.0,234.0,4.0,82.0,11.0,"East Millinocket town, Penobscot County, Maine",019,21030,23
+1099.0,1070.0,29.0,0.0,0.0,0.0,"Medway town, Penobscot County, Maine",019,45005,23
+5700.0,5159.0,379.0,68.0,94.0,0.0,"Hermon town, Penobscot County, Maine",019,32510,23
+2889.0,2568.0,201.0,104.0,16.0,0.0,"Levant town, Penobscot County, Maine",019,38705,23
+132.0,109.0,23.0,0.0,0.0,0.0,"Maxfield town, Penobscot County, Maine",019,44340,23
+359.0,349.0,7.0,0.0,3.0,0.0,"Charlotte town, Washington County, Maine",029,12175,23
+643.0,474.0,133.0,28.0,8.0,0.0,"Danforth town, Washington County, Maine",029,16410,23
+187.0,166.0,18.0,1.0,2.0,0.0,"Whitneyville town, Washington County, Maine",029,85290,23
+226.0,220.0,0.0,2.0,2.0,2.0,"Topsfield town, Washington County, Maine",029,76895,23
+1501.0,1386.0,63.0,20.0,32.0,0.0,"Milbridge town, Washington County, Maine",029,45600,23
+523.0,493.0,19.0,0.0,11.0,0.0,"Robbinston town, Washington County, Maine",029,63275,23
+125.0,110.0,7.0,2.0,5.0,1.0,"Meddybemps town, Washington County, Maine",029,44760,23
+344.0,315.0,26.0,0.0,3.0,0.0,"Roque Bluffs town, Washington County, Maine",029,63940,23
+764.0,627.0,76.0,21.0,36.0,4.0,"Passamaquoddy Indian Township Reservation, Washington County, Maine",029,57082,23
+10053.0,9352.0,222.0,180.0,245.0,54.0,"Standish town, Cumberland County, Maine",005,73670,23
+17493.0,15006.0,1676.0,417.0,316.0,78.0,"Windham town, Cumberland County, Maine",005,86025,23
+7487.0,6163.0,1131.0,91.0,16.0,86.0,"Old Town city, Penobscot County, Maine",019,55225,23
+4574.0,4012.0,509.0,1.0,52.0,0.0,"Glenburn town, Penobscot County, Maine",019,27645,23
+2958.0,2633.0,325.0,0.0,0.0,0.0,"Milford town, Penobscot County, Maine",019,45670,23
+1576.0,1442.0,91.0,24.0,19.0,0.0,"Newburgh town, Penobscot County, Maine",019,48505,23
+3228.0,2580.0,224.0,345.0,79.0,0.0,"Newport town, Penobscot County, Maine",019,49065,23
+3676.0,3482.0,100.0,63.0,31.0,0.0,"Orrington town, Penobscot County, Maine",019,55680,23
+92.0,82.0,10.0,0.0,0.0,0.0,"Lakeville town, Penobscot County, Maine",019,38005,23
+357.0,310.0,17.0,0.0,14.0,16.0,"Lowell town, Penobscot County, Maine",019,41435,23
+211.0,208.0,0.0,0.0,3.0,0.0,"Mount Chase town, Penobscot County, Maine",019,47560,23
+480.0,459.0,18.0,1.0,2.0,0.0,"Passadumkeag town, Penobscot County, Maine",019,57045,23
+54.0,27.0,27.0,0.0,0.0,0.0,"Seboeis plantation, Penobscot County, Maine",019,67160,23
+365.0,324.0,3.0,33.0,3.0,2.0,"Springfield town, Penobscot County, Maine",019,73250,23
+1474.0,1280.0,119.0,62.0,13.0,0.0,"Bradley town, Penobscot County, Maine",019,06680,23
+1464.0,1262.0,100.0,79.0,23.0,0.0,"Charleston town, Penobscot County, Maine",019,12105,23
+2840.0,2588.0,192.0,34.0,0.0,26.0,"Corinth town, Penobscot County, Maine",019,14380,23
+133.0,129.0,2.0,0.0,0.0,2.0,"Carroll plantation, Penobscot County, Maine",019,10810,23
+722.0,659.0,15.0,45.0,1.0,2.0,"Clifton town, Penobscot County, Maine",019,13365,23
+1222.0,1125.0,69.0,9.0,10.0,9.0,"Garland town, Penobscot County, Maine",019,27190,23
+1459.0,1369.0,30.0,51.0,9.0,0.0,"Stetson town, Penobscot County, Maine",019,74055,23
+2772.0,2466.0,216.0,62.0,28.0,0.0,"Carmel town, Penobscot County, Maine",019,10670,23
+271.0,265.0,6.0,0.0,0.0,0.0,"Woodville town, Penobscot County, Maine",019,87390,23
+540.0,496.0,37.0,0.0,7.0,0.0,"Chester town, Penobscot County, Maine",019,12525,23
+1114.0,1063.0,41.0,10.0,0.0,0.0,"Kenduskeag town, Penobscot County, Maine",019,36325,23
+427.0,352.0,50.0,21.0,4.0,0.0,"Stacyville town, Penobscot County, Maine",019,73600,23
+193.0,167.0,10.0,16.0,0.0,0.0,"Argyle UT, Penobscot County, Maine",019,01500,23
+92.0,92.0,0.0,0.0,0.0,0.0,"Kingman UT, Penobscot County, Maine",019,37075,23
+35.0,35.0,0.0,0.0,0.0,0.0,"Blanchard UT, Piscataquis County, Maine",021,05560,23
+387.0,379.0,8.0,0.0,0.0,0.0,"Northeast Piscataquis UT, Piscataquis County, Maine",021,51105,23
+322.0,289.0,27.0,4.0,2.0,0.0,"Atkinson town, Piscataquis County, Maine",021,01920,23
+2513.0,2157.0,202.0,141.0,13.0,0.0,"Milo town, Piscataquis County, Maine",021,46020,23
+1329.0,1235.0,13.0,78.0,0.0,3.0,"Sangerville town, Piscataquis County, Maine",021,65865,23
+202.0,185.0,9.0,4.0,0.0,4.0,"Shirley town, Piscataquis County, Maine",021,68140,23
+1444.0,1304.0,93.0,0.0,47.0,0.0,"Guilford town, Piscataquis County, Maine",021,30095,23
+1.0,1.0,0.0,0.0,0.0,0.0,"Kingsbury plantation, Piscataquis County, Maine",021,37095,23
+71.0,71.0,0.0,0.0,0.0,0.0,"Northwest Piscataquis UT, Piscataquis County, Maine",021,53628,23
+133.0,127.0,1.0,3.0,2.0,0.0,"Bowerbank town, Piscataquis County, Maine",021,06400,23
+236.0,228.0,5.0,0.0,3.0,0.0,"Medford town, Piscataquis County, Maine",021,44830,23
+615.0,576.0,33.0,6.0,0.0,0.0,"Abbot town, Piscataquis County, Maine",021,00100,23
+768.0,739.0,17.0,9.0,3.0,0.0,"Parkman town, Piscataquis County, Maine",021,56765,23
+86.0,83.0,1.0,0.0,2.0,0.0,"Willimantic town, Piscataquis County, Maine",021,85710,23
+146.0,146.0,0.0,0.0,0.0,0.0,"Beaver Cove town, Piscataquis County, Maine",021,03740,23
+1170.0,1074.0,70.0,13.0,13.0,0.0,"Brownville town, Piscataquis County, Maine",021,08325,23
+4027.0,3655.0,238.0,95.0,27.0,12.0,"Dover-Foxcroft town, Piscataquis County, Maine",021,18195,23
+1697.0,1471.0,92.0,96.0,38.0,0.0,"Greenville town, Piscataquis County, Maine",021,29535,23
+112.0,77.0,2.0,3.0,30.0,0.0,"Lake View plantation, Piscataquis County, Maine",021,37970,23
+192.0,147.0,36.0,9.0,0.0,0.0,"Southeast Piscataquis UT, Piscataquis County, Maine",021,70655,23
+192.0,192.0,0.0,0.0,0.0,0.0,"Wellington town, Piscataquis County, Maine",021,81405,23
+3696.0,3425.0,152.0,21.0,71.0,27.0,"North Yarmouth town, Cumberland County, Maine",005,53860,23
+19475.0,17477.0,1127.0,285.0,586.0,0.0,"Scarborough town, Cumberland County, Maine",005,66145,23
+581.0,556.0,9.0,14.0,2.0,0.0,"Monson town, Piscataquis County, Maine",021,46580,23
+561.0,499.0,51.0,11.0,0.0,0.0,"Sebec town, Piscataquis County, Maine",021,66950,23
+2756.0,2525.0,86.0,74.0,71.0,0.0,"Harrison town, Cumberland County, Maine",005,31600,23
+7841.0,7080.0,415.0,306.0,37.0,3.0,"Gray town, Cumberland County, Maine",005,28870,23
+17949.0,15073.0,2304.0,182.0,284.0,106.0,"Westbrook city, Cumberland County, Maine",005,82105,23
+9188.0,8462.0,290.0,0.0,334.0,102.0,"Cape Elizabeth town, Cumberland County, Maine",005,10180,23
+257.0,244.0,6.0,5.0,2.0,0.0,"Long Island town, Cumberland County, Maine",005,41067,23
+4841.0,4223.0,358.0,85.0,170.0,5.0,"Harpswell town, Cumberland County, Maine",005,31390,23
+65922.0,50114.0,9147.0,2235.0,3454.0,972.0,"Portland city, Cumberland County, Maine",005,60545,23
+1694.0,1553.0,118.0,9.0,14.0,0.0,"Pownal town, Cumberland County, Maine",005,60685,23
+8475.0,7488.0,315.0,312.0,360.0,0.0,"Yarmouth town, Cumberland County, Maine",005,87845,23
+20385.0,16906.0,1363.0,877.0,1132.0,107.0,"Brunswick town, Cumberland County, Maine",005,08430,23
+8258.0,7449.0,428.0,61.0,320.0,0.0,"Freeport town, Cumberland County, Maine",005,26525,23
+5630.0,5366.0,142.0,68.0,54.0,0.0,"New Gloucester town, Cumberland County, Maine",005,48820,23
+4497.0,4046.0,276.0,0.0,175.0,0.0,"Raymond town, Cumberland County, Maine",005,61945,23
+11831.0,10714.0,925.0,98.0,94.0,0.0,"Falmouth town, Cumberland County, Maine",005,24495,23
+16966.0,14592.0,1724.0,317.0,327.0,6.0,"Gorham town, Cumberland County, Maine",005,28240,23
+1538.0,1439.0,21.0,50.0,28.0,0.0,"Sebago town, Cumberland County, Maine",005,66775,23
+1455.0,1368.0,5.0,76.0,6.0,0.0,"Baldwin town, Cumberland County, Maine",005,02655,23
+7566.0,6772.0,642.0,0.0,135.0,17.0,"Cumberland town, Cumberland County, Maine",005,15430,23
+3942.0,3681.0,42.0,119.0,89.0,11.0,"Naples town, Cumberland County, Maine",005,48085,23
+3810.0,3295.0,254.0,158.0,103.0,0.0,"Casco town, Cumberland County, Maine",005,11125,23
+5251.0,4696.0,257.0,248.0,49.0,1.0,"Bridgton town, Cumberland County, Maine",005,07170,23
+25336.0,21096.0,2525.0,690.0,829.0,196.0,"South Portland city, Cumberland County, Maine",005,71990,23
+39.0,37.0,0.0,0.0,2.0,0.0,"Frye Island town, Cumberland County, Maine",005,27025,23
+1358.0,1297.0,19.0,37.0,0.0,5.0,"Appleton town, Knox County, Maine",013,01465,23
+0.0,0.0,0.0,0.0,0.0,0.0,"Criehaven UT, Knox County, Maine",013,15125,23
+2469.0,2180.0,134.0,99.0,56.0,0.0,"Union town, Knox County, Maine",013,78115,23
+1452.0,1320.0,87.0,16.0,29.0,0.0,"Cushing town, Knox County, Maine",013,15780,23
+27.0,21.0,0.0,0.0,6.0,0.0,"Isle au Haut town, Knox County, Maine",013,35135,23
+2552.0,2364.0,73.0,28.0,87.0,0.0,"St. George town, Knox County, Maine",013,65130,23
+4607.0,3790.0,256.0,437.0,124.0,0.0,"Warren town, Knox County, Maine",013,80215,23
+81.0,81.0,0.0,0.0,0.0,0.0,"Matinicus Isle plantation, Knox County, Maine",013,44165,23
+1168.0,1095.0,32.0,13.0,21.0,7.0,"Vinalhaven town, Knox County, Maine",013,79130,23
+4776.0,4026.0,553.0,28.0,169.0,0.0,"Camden town, Knox County, Maine",013,09725,23
+3335.0,2866.0,300.0,52.0,49.0,68.0,"Rockport town, Knox County, Maine",013,63660,23
+1511.0,1382.0,65.0,29.0,26.0,9.0,"Hope town, Knox County, Maine",013,33840,23
+1443.0,1368.0,56.0,12.0,7.0,0.0,"South Thomaston town, Knox County, Maine",013,72585,23
+1507.0,1381.0,66.0,4.0,53.0,3.0,"Washington town, Knox County, Maine",013,80425,23
+1033.0,976.0,0.0,10.0,45.0,2.0,"Friendship town, Knox County, Maine",013,26805,23
+7137.0,6061.0,657.0,240.0,165.0,14.0,"Rockland city, Knox County, Maine",013,63590,23
+0.0,0.0,0.0,0.0,0.0,0.0,"Twombly Ridge UT, Penobscot County, Maine",019,78015,23
+0.0,0.0,0.0,0.0,0.0,0.0,"Marshall Island UT, Hancock County, Maine",009,43578,23
+770.0,681.0,73.0,14.0,2.0,0.0,"Penobscot Indian Island Reservation, Penobscot County, Maine",019,57936,23
+20787.0,17605.0,2001.0,306.0,815.0,60.0,"Sanford city, York County, Maine",031,65725,23
+522.0,488.0,7.0,13.0,14.0,0.0,"Verona Island town, Hancock County, Maine",009,78925,23
+722.0,696.0,4.0,9.0,13.0,0.0,"Westport Island town, Lincoln County, Maine",015,84140,23
+8.0,8.0,0.0,0.0,0.0,0.0,"Muscle Ridge Islands UT, Knox County, Maine",013,47962,23
+0.0,0.0,0.0,0.0,0.0,0.0,"Louds Island UT, Lincoln County, Maine",015,41280,23
+445.0,422.0,8.0,2.0,13.0,0.0,"Chebeague Island town, Cumberland County, Maine",005,12300,23
+537.0,471.0,55.0,2.0,9.0,0.0,"North Haven town, Knox County, Maine",013,51620,23
+413.0,392.0,0.0,15.0,2.0,4.0,"Arrowsic town, Sagadahoc County, Maine",023,01570,23
+1559.0,1414.0,83.0,13.0,49.0,0.0,"Owls Head town, Knox County, Maine",013,56135,23
+2747.0,2549.0,146.0,52.0,0.0,0.0,"Thomaston town, Knox County, Maine",013,76365,23
+2903.0,2683.0,118.0,88.0,14.0,0.0,"Bowdoinham town, Sagadahoc County, Maine",023,06365,23
+3349.0,2807.0,239.0,237.0,66.0,0.0,"Richmond town, Sagadahoc County, Maine",023,62645,23
+2167.0,1997.0,82.0,30.0,58.0,0.0,"Phippsburg town, Sagadahoc County, Maine",023,58515,23
+3054.0,2887.0,38.0,64.0,54.0,11.0,"Woolwich town, Sagadahoc County, Maine",023,87460,23
+3097.0,2961.0,95.0,24.0,17.0,0.0,"Bowdoin town, Sagadahoc County, Maine",023,06260,23
+8251.0,6878.0,873.0,385.0,86.0,29.0,"Bath city, Sagadahoc County, Maine",023,03355,23
+8603.0,7192.0,294.0,898.0,199.0,20.0,"Topsham town, Sagadahoc County, Maine",023,76960,23
+2026.0,1820.0,134.0,53.0,19.0,0.0,"West Bath town, Sagadahoc County, Maine",023,81930,23
+0.0,0.0,0.0,0.0,0.0,0.0,"Perkins UT, Sagadahoc County, Maine",023,58070,23
+917.0,867.0,17.0,23.0,10.0,0.0,"Georgetown town, Sagadahoc County, Maine",023,27295,23
+4176.0,3760.0,284.0,126.0,6.0,0.0,"Arundel town, York County, Maine",031,01605,23
+7458.0,7073.0,286.0,18.0,81.0,0.0,"Berwick town, York County, Maine",031,04720,23
+1285.0,1120.0,66.0,59.0,37.0,3.0,"Cornish town, York County, Maine",031,14485,23
+9518.0,8201.0,212.0,98.0,969.0,38.0,"Kittery town, York County, Maine",031,37270,23
+2854.0,2519.0,259.0,27.0,49.0,0.0,"Limerick town, York County, Maine",031,39195,23
+1451.0,1359.0,67.0,0.0,25.0,0.0,"Newfield town, York County, Maine",031,48750,23
+1955.0,1695.0,27.0,101.0,123.0,9.0,"Parsonsfield town, York County, Maine",031,56870,23
+12770.0,11170.0,682.0,4.0,845.0,69.0,"York town, York County, Maine",031,87985,23
+4371.0,3914.0,153.0,34.0,270.0,0.0,"Lyman town, York County, Maine",031,41750,23
+2531.0,2363.0,94.0,6.0,63.0,5.0,"Acton town, York County, Maine",031,00275,23
+8015.0,7456.0,249.0,187.0,123.0,0.0,"Buxton town, York County, Maine",031,09410,23
+1935.0,1706.0,169.0,23.0,33.0,4.0,"Dayton town, York County, Maine",031,16725,23
+3758.0,3608.0,74.0,59.0,9.0,8.0,"Limington town, York County, Maine",031,39405,23
+8725.0,6843.0,799.0,301.0,782.0,0.0,"Old Orchard Beach town, York County, Maine",031,55085,23
+1172.0,998.0,77.0,4.0,93.0,0.0,"Ogunquit town, York County, Maine",031,54980,23
+18891.0,15863.0,1550.0,1171.0,274.0,33.0,"Saco city, York County, Maine",031,64675,23
+7252.0,6380.0,699.0,16.0,143.0,14.0,"South Berwick town, York County, Maine",031,70030,23
+3031.0,2533.0,268.0,122.0,100.0,8.0,"Alfred town, York County, Maine",031,00730,23
+21294.0,16882.0,2281.0,1315.0,790.0,26.0,"Biddeford city, York County, Maine",031,04860,23
+6343.0,5694.0,292.0,4.0,353.0,0.0,"Eliot town, York County, Maine",031,22955,23
+4417.0,4021.0,164.0,202.0,30.0,0.0,"Hollis town, York County, Maine",031,33665,23
+6109.0,5981.0,46.0,16.0,66.0,0.0,"Lebanon town, York County, Maine",031,38425,23
+2616.0,2455.0,114.0,22.0,25.0,0.0,"Shapleigh town, York County, Maine",031,67475,23
+11154.0,9901.0,574.0,281.0,366.0,32.0,"Kennebunk town, York County, Maine",031,36535,23
+4637.0,4234.0,209.0,36.0,149.0,9.0,"North Berwick town, York County, Maine",031,50325,23
+7665.0,7060.0,527.0,53.0,25.0,0.0,"Waterboro town, York County, Maine",031,80530,23
+9924.0,8961.0,475.0,10.0,419.0,59.0,"Wells town, York County, Maine",031,81475,23
+3548.0,2900.0,303.0,79.0,266.0,0.0,"Kennebunkport town, York County, Maine",031,36745,23
+18312.0,14573.0,2590.0,509.0,614.0,26.0,"Augusta city, Kennebec County, Maine",011,02100,23
+3359.0,2936.0,185.0,224.0,14.0,0.0,"Clinton town, Kennebec County, Maine",011,13470,23
+3562.0,3384.0,106.0,72.0,0.0,0.0,"Litchfield town, Kennebec County, Maine",011,40175,23
+2613.0,2265.0,118.0,161.0,69.0,0.0,"Pittston town, Kennebec County, Maine",011,59110,23
+5647.0,4482.0,844.0,170.0,142.0,9.0,"Gardiner city, Kennebec County, Maine",011,27085,23
+2696.0,2307.0,221.0,147.0,21.0,0.0,"Chelsea town, Kennebec County, Maine",011,12350,23
+1083.0,1022.0,43.0,14.0,4.0,0.0,"Wayne town, Kennebec County, Maine",011,80880,23
+7505.0,6375.0,753.0,308.0,61.0,8.0,"Winslow town, Kennebec County, Maine",011,86515,23
+1993.0,1690.0,165.0,121.0,6.0,11.0,"Randolph town, Kennebec County, Maine",011,61700,23
+4216.0,3897.0,217.0,40.0,62.0,0.0,"Sidney town, Kennebec County, Maine",011,68385,23
+1952.0,1721.0,79.0,103.0,49.0,0.0,"Albion town, Kennebec County, Maine",011,00590,23
+2376.0,1982.0,200.0,75.0,93.0,26.0,"Hallowell city, Kennebec County, Maine",011,30550,23
+449.0,440.0,0.0,2.0,5.0,2.0,"Vienna town, Kennebec County, Maine",011,79025,23
+3046.0,2827.0,90.0,126.0,3.0,0.0,"Belgrade town, Kennebec County, Maine",011,04020,23
+2678.0,2505.0,158.0,7.0,8.0,0.0,"Benton town, Kennebec County, Maine",011,04475,23
+2908.0,2338.0,494.0,70.0,6.0,0.0,"Farmingdale town, Kennebec County, Maine",011,24670,23
+2548.0,2372.0,107.0,33.0,18.0,18.0,"Manchester town, Kennebec County, Maine",011,43080,23
+4083.0,3743.0,93.0,135.0,112.0,0.0,"Monmouth town, Kennebec County, Maine",011,46405,23
+3331.0,2984.0,166.0,169.0,12.0,0.0,"West Gardiner town, Kennebec County, Maine",011,82945,23
+2529.0,2351.0,83.0,25.0,61.0,9.0,"Windsor town, Kennebec County, Maine",011,86165,23
+6073.0,5454.0,328.0,177.0,81.0,33.0,"Oakland town, Kennebec County, Maine",011,54560,23
+42.0,42.0,0.0,0.0,0.0,0.0,"Unity UT, Kennebec County, Maine",011,78190,23
+1029.0,926.0,31.0,51.0,21.0,0.0,"Rome town, Kennebec County, Maine",011,63835,23
+5904.0,4988.0,482.0,230.0,141.0,63.0,"Winthrop town, Kennebec County, Maine",011,86970,23
+4259.0,3900.0,251.0,51.0,57.0,0.0,"China town, Kennebec County, Maine",011,12735,23
+1033.0,1002.0,27.0,0.0,4.0,0.0,"Fayette town, Kennebec County, Maine",011,24950,23
+2548.0,2223.0,225.0,64.0,33.0,3.0,"Readfield town, Kennebec County, Maine",011,62190,23
+4273.0,3709.0,509.0,44.0,11.0,0.0,"Vassalboro town, Kennebec County, Maine",011,78745,23
+16315.0,12015.0,2151.0,1352.0,621.0,176.0,"Waterville city, Kennebec County, Maine",011,80740,23
+1576.0,1455.0,95.0,12.0,14.0,0.0,"Mount Vernon town, Kennebec County, Maine",011,47770,23
+366.0,306.0,11.0,22.0,27.0,0.0,"Weld town, Franklin County, Maine",007,81300,23
+1418.0,1318.0,20.0,42.0,38.0,0.0,"Chesterville town, Franklin County, Maine",007,12595,23
+1022.0,856.0,108.0,37.0,21.0,0.0,"Phillips town, Franklin County, Maine",007,58445,23
+165.0,151.0,0.0,0.0,14.0,0.0,"Rangeley plantation, Franklin County, Maine",007,61875,23
+643.0,615.0,22.0,0.0,6.0,0.0,"Temple town, Franklin County, Maine",007,75980,23
+95.0,90.0,5.0,0.0,0.0,0.0,"Coplin plantation, Franklin County, Maine",007,14205,23
+920.0,835.0,49.0,27.0,3.0,6.0,"Industry town, Franklin County, Maine",007,34820,23
+4684.0,4025.0,95.0,536.0,28.0,0.0,"Jay town, Franklin County, Maine",007,35625,23
+105.0,91.0,0.0,0.0,14.0,0.0,"Wyman UT, Franklin County, Maine",007,87680,23
+7571.0,6100.0,773.0,396.0,285.0,17.0,"Farmington town, Franklin County, Maine",007,24775,23
+169.0,169.0,0.0,0.0,0.0,0.0,"Sandy River plantation, Franklin County, Maine",007,65655,23
+1402.0,1190.0,186.0,26.0,0.0,0.0,"Strong town, Franklin County, Maine",007,74825,23
+914.0,825.0,17.0,18.0,54.0,0.0,"Rangeley town, Franklin County, Maine",007,61840,23
+560.0,543.0,15.0,0.0,2.0,0.0,"Avon town, Franklin County, Maine",007,02235,23
+536.0,449.0,15.0,28.0,42.0,2.0,"Carrabassett Valley town, Franklin County, Maine",007,10740,23
+0.0,0.0,0.0,0.0,0.0,0.0,"West Central Franklin UT, Franklin County, Maine",007,82235,23
+3991.0,3605.0,179.0,98.0,99.0,10.0,"Wilton town, Franklin County, Maine",007,85850,23
+285.0,285.0,0.0,0.0,0.0,0.0,"Dallas plantation, Franklin County, Maine",007,16165,23
+786.0,736.0,5.0,38.0,7.0,0.0,"Kingfield town, Franklin County, Maine",007,37025,23
+1577.0,1406.0,99.0,45.0,27.0,0.0,"New Sharon town, Franklin County, Maine",007,49345,23
+675.0,626.0,11.0,38.0,0.0,0.0,"Carthage town, Franklin County, Maine",007,10915,23
+629.0,573.0,0.0,13.0,43.0,0.0,"East Central Franklin UT, Franklin County, Maine",007,19865,23
+32.0,18.0,0.0,14.0,0.0,0.0,"North Franklin UT, Franklin County, Maine",007,51400,23
+113.0,113.0,0.0,0.0,0.0,0.0,"South Franklin UT, Franklin County, Maine",007,70760,23
+451.0,428.0,11.0,12.0,0.0,0.0,"Eustis town, Franklin County, Maine",007,24005,23
+893.0,780.0,60.0,0.0,46.0,7.0,"New Vineyard town, Franklin County, Maine",007,49520,23
+846.0,702.0,78.0,20.0,37.0,9.0,"Bingham town, Somerset County, Maine",025,05000,23
+105.0,101.0,2.0,0.0,2.0,0.0,"Caratunk town, Somerset County, Maine",025,10495,23
+2313.0,2021.0,195.0,84.0,13.0,0.0,"Canaan town, Somerset County, Maine",025,09935,23
+284.0,268.0,12.0,0.0,4.0,0.0,"Central Somerset UT, Somerset County, Maine",025,11820,23
+488.0,454.0,8.0,20.0,6.0,0.0,"Swans Island town, Hancock County, Maine",009,75455,23
+87.0,84.0,0.0,0.0,3.0,0.0,"Aurora town, Hancock County, Maine",009,02165,23
+1162.0,1099.0,26.0,0.0,37.0,0.0,"Sedgwick town, Hancock County, Maine",009,67300,23
+1397.0,1293.0,45.0,15.0,44.0,0.0,"Tremont town, Hancock County, Maine",009,77345,23
+873.0,815.0,49.0,0.0,0.0,9.0,"Brooksville town, Hancock County, Maine",009,07975,23
+1262.0,921.0,96.0,136.0,103.0,6.0,"Castine town, Hancock County, Maine",009,11265,23
+1571.0,1394.0,102.0,46.0,29.0,0.0,"Surry town, Hancock County, Maine",009,75280,23
+1451.0,1186.0,122.0,99.0,44.0,0.0,"Franklin town, Hancock County, Maine",009,26350,23
+5258.0,4578.0,213.0,169.0,147.0,151.0,"Bar Harbor town, Hancock County, Maine",009,02865,23
+46.0,46.0,0.0,0.0,0.0,0.0,"East Hancock UT, Hancock County, Maine",009,20405,23
+7837.0,7026.0,501.0,210.0,81.0,19.0,"Ellsworth city, Hancock County, Maine",009,23200,23
+857.0,785.0,17.0,43.0,12.0,0.0,"Brooklin town, Hancock County, Maine",009,07800,23
+572.0,453.0,35.0,0.0,84.0,0.0,"Mariaville town, Hancock County, Maine",009,43430,23
+2635.0,2467.0,48.0,39.0,73.0,8.0,"Blue Hill town, Hancock County, Maine",009,05700,23
+1617.0,1526.0,51.0,37.0,3.0,0.0,"Dedham town, Hancock County, Maine",009,16935,23
+78.0,71.0,2.0,0.0,5.0,0.0,"Great Pond town, Hancock County, Maine",009,28975,23
+1839.0,1683.0,92.0,16.0,29.0,19.0,"Mount Desert town, Hancock County, Maine",009,47630,23
+1742.0,1555.0,123.0,27.0,37.0,0.0,"Trenton town, Hancock County, Maine",009,77415,23
+378.0,374.0,2.0,0.0,2.0,0.0,"Eastbrook town, Hancock County, Maine",009,19770,23
+43.0,43.0,0.0,0.0,0.0,0.0,"Frenchboro town, Hancock County, Maine",009,26595,23
+307.0,293.0,1.0,9.0,4.0,0.0,"Amherst town, Hancock County, Maine",009,01185,23
+4794.0,4517.0,69.0,152.0,45.0,11.0,"Bucksport town, Hancock County, Maine",009,08815,23
+143.0,135.0,2.0,0.0,6.0,0.0,"Cranberry Isles town, Hancock County, Maine",009,14905,23
+1593.0,1471.0,68.0,29.0,19.0,6.0,"Lamoine town, Hancock County, Maine",009,38180,23
+1205.0,1067.0,80.0,47.0,11.0,0.0,"Penobscot town, Hancock County, Maine",009,57920,23
+320.0,282.0,27.0,8.0,3.0,0.0,"Waltham town, Hancock County, Maine",009,80040,23
+136.0,105.0,21.0,8.0,2.0,0.0,"Central Hancock UT, Hancock County, Maine",009,11800,23
+447.0,341.0,51.0,3.0,7.0,45.0,"Winter Harbor town, Hancock County, Maine",009,86655,23
+2145.0,1867.0,165.0,88.0,22.0,3.0,"Orland town, Hancock County, Maine",009,55505,23
+1680.0,1538.0,89.0,25.0,27.0,1.0,"Southwest Harbor town, Hancock County, Maine",009,72865,23
+1349.0,1204.0,114.0,24.0,7.0,0.0,"Peru town, Oxford County, Maine",017,58270,23
+338.0,319.0,1.0,2.0,16.0,0.0,"Sweden town, Oxford County, Maine",017,75595,23
+105.0,104.0,1.0,0.0,0.0,0.0,"Gilead town, Oxford County, Maine",017,27505,23
+172.0,157.0,15.0,0.0,0.0,0.0,"Milton UT, Oxford County, Maine",017,46105,23
+4822.0,3951.0,624.0,141.0,106.0,0.0,"Norway town, Oxford County, Maine",017,54000,23
+1122.0,1023.0,0.0,78.0,21.0,0.0,"Hartford town, Oxford County, Maine",017,31670,23
+2106.0,1873.0,173.0,36.0,3.0,21.0,"West Paris town, Oxford County, Maine",017,83890,23
+1928.0,1718.0,102.0,61.0,47.0,0.0,"Buckfield town, Oxford County, Maine",017,08710,23
+93.0,91.0,2.0,0.0,0.0,0.0,"Byron town, Oxford County, Maine",017,09550,23
+5148.0,4598.0,327.0,130.0,93.0,0.0,"Paris town, Oxford County, Maine",017,56625,23
+812.0,750.0,9.0,49.0,4.0,0.0,"Canton town, Oxford County, Maine",017,10005,23
+352.0,347.0,0.0,4.0,1.0,0.0,"Newry town, Oxford County, Maine",017,49275,23
+2270.0,2105.0,78.0,50.0,37.0,0.0,"Leeds town, Androscoggin County, Maine",001,38565,23
+196.0,196.0,0.0,0.0,0.0,0.0,"Moose River town, Somerset County, Maine",025,47140,23
+4053.0,3303.0,353.0,57.0,327.0,13.0,"Pittsfield town, Somerset County, Maine",025,59005,23
+922.0,815.0,59.0,48.0,0.0,0.0,"Detroit town, Somerset County, Maine",025,17460,23
+968.0,921.0,26.0,14.0,7.0,0.0,"Athens town, Somerset County, Maine",025,01885,23
+993.0,936.0,47.0,7.0,3.0,0.0,"Harmony town, Somerset County, Maine",025,31355,23
+663.0,570.0,35.0,58.0,0.0,0.0,"Mercer town, Somerset County, Maine",025,45110,23
+3247.0,2867.0,233.0,89.0,58.0,0.0,"Norridgewock town, Somerset County, Maine",025,49835,23
+280.0,280.0,0.0,0.0,0.0,0.0,"Northeast Somerset UT, Somerset County, Maine",025,51114,23
+434.0,399.0,4.0,5.0,26.0,0.0,"Ripley town, Somerset County, Maine",025,62995,23
+1364.0,1247.0,104.0,8.0,5.0,0.0,"Cornville town, Somerset County, Maine",025,14555,23
+596.0,521.0,30.0,39.0,6.0,0.0,"Starks town, Somerset County, Maine",025,73845,23
+18.0,18.0,0.0,0.0,0.0,0.0,"The Forks plantation, Somerset County, Maine",025,76190,23
+445.0,442.0,2.0,0.0,1.0,0.0,"Cambridge town, Somerset County, Maine",025,09655,23
+33.0,29.0,4.0,0.0,0.0,0.0,"Highland plantation, Somerset County, Maine",025,32895,23
+674.0,575.0,39.0,35.0,25.0,0.0,"Jackman town, Somerset County, Maine",025,35345,23
+8306.0,7136.0,911.0,212.0,47.0,0.0,"Skowhegan town, Somerset County, Maine",025,68910,23
+4047.0,3745.0,26.0,276.0,0.0,0.0,"Oxford town, Oxford County, Maine",017,56310,23
+5698.0,4690.0,610.0,171.0,227.0,0.0,"Rumford town, Oxford County, Maine",017,64290,23
+428.0,388.0,30.0,10.0,0.0,0.0,"South Oxford UT, Oxford County, Maine",017,71755,23
+1449.0,1383.0,25.0,9.0,32.0,0.0,"Waterford town, Oxford County, Maine",017,80635,23
+1052.0,965.0,28.0,0.0,59.0,0.0,"Lovell town, Oxford County, Maine",017,41365,23
+248.0,237.0,2.0,9.0,0.0,0.0,"Roxbury town, Oxford County, Maine",017,64185,23
+332.0,293.0,26.0,6.0,7.0,0.0,"Stoneham town, Oxford County, Maine",017,74510,23
+33.0,32.0,0.0,1.0,0.0,0.0,"Upton town, Oxford County, Maine",017,78465,23
+1322.0,1260.0,23.0,15.0,24.0,0.0,"Woodstock town, Oxford County, Maine",017,87355,23
+2633.0,2441.0,116.0,0.0,37.0,39.0,"Bethel town, Oxford County, Maine",017,04825,23
+1408.0,1354.0,16.0,14.0,24.0,0.0,"Brownfield town, Oxford County, Maine",017,08150,23
+547.0,485.0,32.0,21.0,9.0,0.0,"Andover town, Oxford County, Maine",017,01325,23
+2010.0,1805.0,130.0,69.0,1.0,5.0,"Dixfield town, Oxford County, Maine",017,17740,23
+3397.0,2846.0,275.0,43.0,228.0,5.0,"Fryeburg town, Oxford County, Maine",017,26910,23
+2586.0,2329.0,178.0,68.0,11.0,0.0,"Mexico town, Oxford County, Maine",017,45285,23
+2620.0,2268.0,116.0,160.0,68.0,8.0,"Otisfield town, Oxford County, Maine",017,55960,23
+179.0,158.0,1.0,0.0,17.0,3.0,"Hanover town, Oxford County, Maine",017,31110,23
+1838.0,1714.0,41.0,34.0,49.0,0.0,"Hebron town, Oxford County, Maine",017,32370,23
+1688.0,1500.0,34.0,40.0,114.0,0.0,"Hiram town, Oxford County, Maine",017,33315,23
+4.0,4.0,0.0,0.0,0.0,0.0,"North Oxford UT, Oxford County, Maine",017,52575,23
+394.0,345.0,40.0,3.0,6.0,0.0,"Stow town, Oxford County, Maine",017,74685,23
+698.0,672.0,7.0,0.0,19.0,0.0,"Greenwood town, Oxford County, Maine",017,29710,23
+1580.0,1370.0,55.0,133.0,16.0,6.0,"Porter town, Oxford County, Maine",017,60405,23
+36.0,36.0,0.0,0.0,0.0,0.0,"Magalloway plantation, Oxford County, Maine",017,42835,23
+40.0,36.0,4.0,0.0,0.0,0.0,"Lincoln plantation, Oxford County, Maine",017,39422,23
+1085.0,1018.0,4.0,16.0,44.0,3.0,"Denmark town, Oxford County, Maine",017,17250,23
+1069.0,973.0,73.0,15.0,7.0,1.0,"Sumner town, Oxford County, Maine",017,75035,23
+820.0,768.0,16.0,21.0,9.0,6.0,"Bremen town, Lincoln County, Maine",015,06855,23
+3093.0,2866.0,193.0,18.0,16.0,0.0,"Boothbay town, Lincoln County, Maine",015,06050,23
+2684.0,2430.0,97.0,45.0,97.0,15.0,"Bristol town, Lincoln County, Maine",015,07485,23
+435.0,384.0,4.0,25.0,22.0,0.0,"Somerville town, Lincoln County, Maine",015,69645,23
+1784.0,1690.0,28.0,42.0,24.0,0.0,"Dresden town, Lincoln County, Maine",015,18475,23
+1709.0,1595.0,69.0,22.0,9.0,14.0,"Nobleboro town, Lincoln County, Maine",015,49660,23
+4947.0,4198.0,580.0,75.0,47.0,47.0,"Waldoboro town, Lincoln County, Maine",015,79550,23
+2351.0,2120.0,96.0,116.0,19.0,0.0,"Whitefield town, Lincoln County, Maine",015,85010,23
+3661.0,3152.0,264.0,200.0,40.0,5.0,"Wiscasset town, Lincoln County, Maine",015,87075,23
+1000.0,932.0,12.0,32.0,8.0,16.0,"South Bristol town, Lincoln County, Maine",015,70240,23
+1986.0,1738.0,136.0,52.0,46.0,14.0,"Boothbay Harbor town, Lincoln County, Maine",015,06120,23
+52.0,48.0,0.0,4.0,0.0,0.0,"Monhegan plantation, Lincoln County, Maine",015,46335,23
+602.0,558.0,22.0,18.0,4.0,0.0,"Southport town, Lincoln County, Maine",015,71955,23
+770.0,713.0,45.0,5.0,3.0,4.0,"Alna town, Lincoln County, Maine",015,01010,23
+0.0,0.0,0.0,0.0,0.0,0.0,"Hibberts gore, Lincoln County, Maine",015,32715,23
+1998.0,1590.0,227.0,171.0,10.0,0.0,"Damariscotta town, Lincoln County, Maine",015,16235,23
+2463.0,2147.0,75.0,120.0,121.0,0.0,"Jefferson town, Lincoln County, Maine",015,35695,23
+1082.0,982.0,49.0,20.0,31.0,0.0,"Edgecomb town, Lincoln County, Maine",015,22675,23
+1644.0,1450.0,64.0,45.0,85.0,0.0,"Newcastle town, Lincoln County, Maine",015,48645,23
+6597.0,5247.0,795.0,294.0,176.0,85.0,"Belfast city, Waldo County, Maine",027,03950,23
+2568.0,2423.0,87.0,0.0,53.0,5.0,"Minot town, Androscoggin County, Maine",001,46160,23
+2049.0,1768.0,182.0,62.0,37.0,0.0,"Livermore town, Androscoggin County, Maine",001,40665,23
+4927.0,4455.0,273.0,114.0,85.0,0.0,"Sabattus town, Androscoggin County, Maine",001,64570,23
+3840.0,3626.0,39.0,175.0,0.0,0.0,"Durham town, Androscoggin County, Maine",001,19105,23
+1642.0,1545.0,71.0,17.0,9.0,0.0,"Wales town, Androscoggin County, Maine",001,79585,23
+22744.0,18785.0,2754.0,794.0,404.0,7.0,"Auburn city, Androscoggin County, Maine",001,02060,23
+4255.0,3879.0,271.0,47.0,58.0,0.0,"Greene town, Androscoggin County, Maine",001,29255,23
+35886.0,28682.0,4447.0,1401.0,1080.0,276.0,"Lewiston city, Androscoggin County, Maine",001,38740,23
+8742.0,7418.0,872.0,325.0,127.0,0.0,"Lisbon town, Androscoggin County, Maine",001,40035,23
+5691.0,5050.0,439.0,106.0,52.0,44.0,"Turner town, Androscoggin County, Maine",001,77800,23
+5450.0,5003.0,245.0,172.0,30.0,0.0,"Poland town, Androscoggin County, Maine",001,60020,23
+2976.0,2801.0,41.0,73.0,38.0,23.0,"Mechanic Falls town, Androscoggin County, Maine",001,44585,23
+3075.0,2233.0,660.0,182.0,0.0,0.0,"Livermore Falls town, Androscoggin County, Maine",001,40770,23
+372.0,327.0,0.0,45.0,0.0,0.0,"South Aroostook UT, Aroostook County, Maine",003,69930,23
+240.0,227.0,3.0,5.0,5.0,0.0,"Cary plantation, Aroostook County, Maine",003,11020,23
+313.0,297.0,4.0,2.0,9.0,1.0,"Castle Hill town, Aroostook County, Maine",003,11300,23
+407.0,380.0,15.0,7.0,5.0,0.0,"Connor UT, Aroostook County, Maine",003,13900,23
+3355.0,2934.0,377.0,0.0,44.0,0.0,"Fort Fairfield town, Aroostook County, Maine",003,25615,23
+1586.0,1473.0,101.0,5.0,7.0,0.0,"Hodgdon town, Aroostook County, Maine",003,33385,23
+5888.0,4972.0,779.0,52.0,85.0,0.0,"Houlton town, Aroostook County, Maine",003,33980,23
+727.0,604.0,68.0,23.0,32.0,0.0,"Oakfield town, Aroostook County, Maine",003,54385,23
+1895.0,1573.0,278.0,29.0,7.0,8.0,"Van Buren town, Aroostook County, Maine",003,78570,23
+1667.0,1543.0,97.0,0.0,27.0,0.0,"Washburn town, Aroostook County, Maine",003,80285,23
+79.0,75.0,2.0,0.0,2.0,0.0,"Westmanland town, Aroostook County, Maine",003,83540,23
+1027.0,967.0,33.0,11.0,16.0,0.0,"Woodland town, Aroostook County, Maine",003,87215,23
+562.0,541.0,19.0,0.0,0.0,2.0,"Bridgewater town, Aroostook County, Maine",003,07065,23
+478.0,462.0,5.0,3.0,8.0,0.0,"Chapman town, Aroostook County, Maine",003,12000,23
+490.0,429.0,60.0,0.0,1.0,0.0,"Ludlow town, Aroostook County, Maine",003,41715,23
+103.0,103.0,0.0,0.0,0.0,0.0,"Macwahoc plantation, Aroostook County, Maine",003,42450,23
+937.0,871.0,20.0,0.0,46.0,0.0,"Sherman town, Aroostook County, Maine",003,67790,23
+142.0,141.0,0.0,0.0,1.0,0.0,"Winterville plantation, Aroostook County, Maine",003,86865,23
+52.0,52.0,0.0,0.0,0.0,0.0,"Hersey town, Aroostook County, Maine",003,32685,23
+398.0,396.0,2.0,0.0,0.0,0.0,"New Canada town, Aroostook County, Maine",003,48575,23
+1284.0,1066.0,135.0,52.0,31.0,0.0,"Ashland town, Aroostook County, Maine",003,01710,23
+95.0,95.0,0.0,0.0,0.0,0.0,"Garfield plantation, Aroostook County, Maine",003,27120,23
+638.0,551.0,50.0,17.0,20.0,0.0,"Linneus town, Aroostook County, Maine",003,39965,23
+523.0,490.0,18.0,6.0,6.0,3.0,"Square Lake UT, Aroostook County, Maine",003,73472,23
+96.0,96.0,0.0,0.0,0.0,0.0,"Central Aroostook UT, Aroostook County, Maine",003,11785,23
+90.0,64.0,22.0,0.0,4.0,0.0,"Cyr plantation, Aroostook County, Maine",003,15990,23
+913.0,883.0,30.0,0.0,0.0,0.0,"Frenchville town, Aroostook County, Maine",003,26735,23
+3806.0,3459.0,175.0,0.0,137.0,35.0,"Madawaska town, Aroostook County, Maine",003,42520,23
+2049.0,1918.0,67.0,36.0,28.0,0.0,"Mapleton town, Aroostook County, Maine",003,43255,23
+1367.0,1165.0,179.0,4.0,19.0,0.0,"Mars Hill town, Aroostook County, Maine",003,43710,23
+36.0,34.0,2.0,0.0,0.0,0.0,"Nashville plantation, Aroostook County, Maine",003,48120,23
+56.0,56.0,0.0,0.0,0.0,0.0,"Oxbow plantation, Aroostook County, Maine",003,56205,23
+268.0,260.0,8.0,0.0,0.0,0.0,"Crystal town, Aroostook County, Maine",003,15395,23
+280.0,255.0,14.0,2.0,9.0,0.0,"Dyer Brook town, Aroostook County, Maine",003,19210,23
+470.0,465.0,0.0,0.0,5.0,0.0,"Grand Isle town, Aroostook County, Maine",003,28590,23
+245.0,200.0,19.0,24.0,2.0,0.0,"Stockholm town, Aroostook County, Maine",003,74405,23
+672.0,591.0,63.0,9.0,9.0,0.0,"Monticello town, Aroostook County, Maine",003,46685,23
+0.0,0.0,0.0,0.0,0.0,0.0,"Penobscot Indian Island Reservation, Aroostook County, Maine",003,57936,23
+757.0,733.0,16.0,3.0,5.0,0.0,"St. Agatha town, Aroostook County, Maine",003,64780,23
+366.0,361.0,2.0,1.0,1.0,1.0,"Wade town, Aroostook County, Maine",003,79270,23
+843.0,828.0,2.0,8.0,5.0,0.0,"Island Falls town, Aroostook County, Maine",003,35065,23
+526.0,508.0,16.0,0.0,0.0,2.0,"Wallagrass town, Aroostook County, Maine",003,79865,23
+217.0,207.0,10.0,0.0,0.0,0.0,"Allagash town, Aroostook County, Maine",003,00800,23
+589.0,579.0,10.0,0.0,0.0,0.0,"New Sweden town, Aroostook County, Maine",003,49415,23
+1006.0,959.0,10.0,9.0,28.0,0.0,"Littleton town, Aroostook County, Maine",003,40595,23
+263.0,234.0,29.0,0.0,0.0,0.0,"Masardis town, Aroostook County, Maine",003,43990,23
+328.0,313.0,13.0,2.0,0.0,0.0,"Portage Lake town, Aroostook County, Maine",003,60300,23
+9079.0,7579.0,1048.0,131.0,280.0,41.0,"Presque Isle city, Aroostook County, Maine",003,60825,23
+150.0,147.0,0.0,3.0,0.0,0.0,"Reed plantation, Aroostook County, Maine",003,62400,23
+291.0,282.0,9.0,0.0,0.0,0.0,"St. Francis town, Aroostook County, Maine",003,65025,23
+723.0,673.0,34.0,11.0,5.0,0.0,"Eagle Lake town, Aroostook County, Maine",003,19420,23
+55.0,52.0,3.0,0.0,0.0,0.0,"Bancroft town, Aroostook County, Maine",003,02760,23
+669.0,589.0,36.0,4.0,40.0,0.0,"Blaine town, Aroostook County, Maine",003,05385,23
+7744.0,6577.0,800.0,64.0,303.0,0.0,"Caribou city, Aroostook County, Maine",003,10565,23
+1170.0,1080.0,59.0,28.0,3.0,0.0,"Easton town, Aroostook County, Maine",003,21380,23
+0.0,0.0,0.0,0.0,0.0,0.0,"Glenwood plantation, Aroostook County, Maine",003,27855,23
+191.0,172.0,17.0,2.0,0.0,0.0,"Hamlin town, Aroostook County, Maine",003,30690,23
+108.0,103.0,5.0,0.0,0.0,0.0,"Hammond town, Aroostook County, Maine",003,30725,23
+2031.0,1491.0,216.0,111.0,206.0,7.0,"Limestone town, Aroostook County, Maine",003,39300,23
+495.0,392.0,101.0,0.0,0.0,2.0,"New Limerick town, Aroostook County, Maine",003,48960,23
+555.0,469.0,45.0,31.0,10.0,0.0,"Smyrna town, Aroostook County, Maine",003,69260,23
+102.0,102.0,0.0,0.0,0.0,0.0,"Weston town, Aroostook County, Maine",003,83785,23
+178.0,168.0,0.0,0.0,10.0,0.0,"Amity town, Aroostook County, Maine",003,01220,23
+225.0,188.0,32.0,5.0,0.0,0.0,"Merrill town, Aroostook County, Maine",003,45180,23
+205.0,177.0,18.0,5.0,3.0,2.0,"Orient town, Aroostook County, Maine",003,55435,23
+654.0,550.0,73.0,31.0,0.0,0.0,"Westfield town, Aroostook County, Maine",003,82770,23
+65.0,49.0,13.0,0.0,3.0,0.0,"Haynesville town, Aroostook County, Maine",003,32195,23
+413.0,374.0,20.0,8.0,11.0,0.0,"Perham town, Aroostook County, Maine",003,58060,23
+287.0,267.0,16.0,0.0,2.0,2.0,"St. John plantation, Aroostook County, Maine",003,65200,23
+3944.0,3482.0,302.0,85.0,56.0,19.0,"Fort Kent town, Aroostook County, Maine",003,25755,23
+14.0,14.0,0.0,0.0,0.0,0.0,"Moro plantation, Aroostook County, Maine",003,47175,23
+239.0,221.0,16.0,0.0,2.0,0.0,"Caswell town, Aroostook County, Maine",003,11335,23
+109.0,106.0,0.0,0.0,3.0,0.0,"Northwest Aroostook UT, Aroostook County, Maine",003,53602,23
+40.0,36.0,0.0,0.0,2.0,2.0,"Beddington town, Washington County, Maine",029,03810,23
+1068.0,985.0,80.0,0.0,3.0,0.0,"Addison town, Washington County, Maine",029,00380,23
+807.0,740.0,35.0,4.0,25.0,3.0,"East Central Washington UT, Washington County, Maine",029,19870,23
+1378.0,1188.0,148.0,6.0,36.0,0.0,"Eastport city, Washington County, Maine",029,21730,23
+828.0,735.0,52.0,14.0,22.0,5.0,"Pembroke town, Washington County, Maine",029,57780,23
+504.0,476.0,9.0,7.0,9.0,3.0,"Alexander town, Washington County, Maine",029,00660,23
+506.0,475.0,25.0,6.0,0.0,0.0,"Columbia Falls town, Washington County, Maine",029,13820,23
+34.0,25.0,9.0,0.0,0.0,0.0,"Deblois town, Washington County, Maine",029,16865,23
+135.0,131.0,3.0,0.0,1.0,0.0,"Grand Lake Stream plantation, Washington County, Maine",029,28660,23
+355.0,305.0,22.0,0.0,27.0,1.0,"Whiting town, Washington County, Maine",029,85185,23
+1381.0,1193.0,119.0,28.0,37.0,4.0,"Baileyville town, Washington County, Maine",029,02480,23
+400.0,386.0,14.0,0.0,0.0,0.0,"Beals town, Washington County, Maine",029,03670,23
+128.0,122.0,6.0,0.0,0.0,0.0,"Cooper town, Washington County, Maine",029,14100,23
+1460.0,1218.0,167.0,68.0,7.0,0.0,"East Machias town, Washington County, Maine",029,20960,23
+1315.0,1133.0,123.0,6.0,52.0,1.0,"Jonesport town, Washington County, Maine",029,36010,23
+1081.0,930.0,48.0,78.0,10.0,15.0,"Machiasport town, Washington County, Maine",029,42100,23
+190.0,163.0,27.0,0.0,0.0,0.0,"Northfield town, Washington County, Maine",029,51375,23
+779.0,656.0,101.0,12.0,10.0,0.0,"Princeton town, Washington County, Maine",029,61035,23
+1224.0,1121.0,47.0,39.0,17.0,0.0,"Steuben town, Washington County, Maine",029,74125,23
+103.0,103.0,0.0,0.0,0.0,0.0,"Talmadge town, Washington County, Maine",029,75770,23
+2980.0,2580.0,289.0,80.0,31.0,0.0,"Calais city, Washington County, Maine",029,09585,23
+1056.0,978.0,39.0,30.0,9.0,0.0,"Cherryfield town, Washington County, Maine",029,12455,23
+407.0,379.0,16.0,12.0,0.0,0.0,"Columbia town, Washington County, Maine",029,13750,23
+528.0,429.0,60.0,30.0,9.0,0.0,"Cutler town, Washington County, Maine",029,15920,23
+280.0,258.0,14.0,2.0,6.0,0.0,"Dennysville town, Washington County, Maine",029,17355,23
+693.0,622.0,13.0,25.0,33.0,0.0,"Jonesboro town, Washington County, Maine",029,35905,23
+141.0,141.0,0.0,0.0,0.0,0.0,"Vanceboro town, Washington County, Maine",029,78675,23
+57.0,57.0,0.0,0.0,0.0,0.0,"Waite town, Washington County, Maine",029,79375,23
+89.0,89.0,0.0,0.0,0.0,0.0,"Wesley town, Washington County, Maine",029,81685,23
+241.0,218.0,17.0,0.0,6.0,0.0,"Baring plantation, Washington County, Maine",029,02970,23
+17.0,17.0,0.0,0.0,0.0,0.0,"Codyville plantation, Washington County, Maine",029,13610,23
+52.0,50.0,2.0,0.0,0.0,0.0,"Crawford town, Washington County, Maine",029,14940,23
+997.0,889.0,51.0,27.0,27.0,3.0,"Harrington town, Washington County, Maine",029,31530,23
+1999.0,1574.0,323.0,68.0,16.0,18.0,"Machias town, Washington County, Maine",029,41960,23
+505.0,467.0,25.0,3.0,10.0,0.0,"Marshfield town, Washington County, Maine",029,43640,23
+646.0,587.0,51.0,0.0,8.0,0.0,"Perry town, Washington County, Maine",029,58165,23
+1390.0,1143.0,158.0,57.0,21.0,11.0,"Lubec town, Washington County, Maine",029,41610,23
+373.0,340.0,0.0,18.0,10.0,5.0,"North Washington UT, Washington County, Maine",029,53500,23
+726.0,660.0,46.0,14.0,3.0,3.0,"Passamaquoddy Pleasant Point Reservation, Washington County, Maine",029,57090,23

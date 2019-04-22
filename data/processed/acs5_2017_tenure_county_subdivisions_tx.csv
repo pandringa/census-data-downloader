@@ -1,0 +1,863 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+4809791435,"Gainesville CCD, Cooke County, Texas",6269.0,3437.0,2832.0,097,91435,48
+4848993205,"Raymondville CCD, Willacy County, Texas",3414.0,2454.0,960.0,489,93205,48
+4809793995,"Valley View CCD, Cooke County, Texas",1796.0,1339.0,457.0,097,93995,48
+4809791440,"Gainesville Southeast CCD, Cooke County, Texas",2890.0,2578.0,312.0,097,91440,48
+4809790580,"Callisburg CCD, Cooke County, Texas",2346.0,1567.0,779.0,097,90580,48
+4809792680,"Muenster CCD, Cooke County, Texas",1884.0,1535.0,349.0,097,92680,48
+4810790905,"Crosbyton CCD, Crosby County, Texas",784.0,575.0,209.0,107,90905,48
+4810793185,"Ralls CCD, Crosby County, Texas",776.0,535.0,241.0,107,93185,48
+4810792290,"Lorenzo CCD, Crosby County, Texas",504.0,305.0,199.0,107,92290,48
+4811592125,"Lamesa Southwest CCD, Dawson County, Texas",105.0,91.0,14.0,115,92125,48
+4811592115,"Lamesa Northwest CCD, Dawson County, Texas",109.0,92.0,17.0,115,92115,48
+4811592105,"Lamesa CCD, Dawson County, Texas",3862.0,2706.0,1156.0,115,92105,48
+4811592120,"Lamesa Southeast CCD, Dawson County, Texas",118.0,96.0,22.0,115,92120,48
+4811592110,"Lamesa Northeast CCD, Dawson County, Texas",145.0,100.0,45.0,115,92110,48
+4815193275,"Roby CCD, Fisher County, Texas",751.0,590.0,161.0,151,93275,48
+4815193340,"Rotan CCD, Fisher County, Texas",829.0,550.0,279.0,151,93340,48
+4815192350,"McCaulley CCD, Fisher County, Texas",116.0,87.0,29.0,151,92350,48
+4813193215,"Realitos-Concepcion CCD, Duval County, Texas",401.0,315.0,86.0,131,93215,48
+4813190260,"Benavides CCD, Duval County, Texas",1042.0,763.0,279.0,131,90260,48
+4813193420,"San Diego CCD, Duval County, Texas",1418.0,817.0,601.0,131,93420,48
+4813191405,"Freer CCD, Duval County, Texas",984.0,689.0,295.0,131,91405,48
+4805192890,"Old River CCD, Burleson County, Texas",1185.0,999.0,186.0,051,92890,48
+4805193610,"Somerville CCD, Burleson County, Texas",1627.0,1346.0,281.0,051,93610,48
+4805190570,"Caldwell CCD, Burleson County, Texas",3197.0,2290.0,907.0,051,90570,48
+4805190825,"Cooks Point CCD, Burleson County, Texas",556.0,491.0,65.0,051,90825,48
+4803190330,"Blanco CCD, Blanco County, Texas",2171.0,1741.0,430.0,031,90330,48
+4803191950,"Johnson City CCD, Blanco County, Texas",2059.0,1499.0,560.0,031,91950,48
+4824190520,"Buna CCD, Jasper County, Texas",3602.0,3055.0,547.0,241,90520,48
+4824191920,"Jasper CCD, Jasper County, Texas",5761.0,4034.0,1727.0,241,91920,48
+4824192040,"Kirbyville CCD, Jasper County, Texas",2611.0,1908.0,703.0,241,92040,48
+4824592770,"Nome-China CCD, Jefferson County, Texas",3967.0,3348.0,619.0,245,92770,48
+4824590230,"Beaumont CCD, Jefferson County, Texas",46088.0,25974.0,20114.0,245,90230,48
+4824593385,"Sabine Pass CCD, Jefferson County, Texas",753.0,701.0,52.0,245,93385,48
+4827190400,"Brackettville CCD, Kinney County, Texas",1200.0,928.0,272.0,271,90400,48
+4811791790,"Hereford West CCD, Deaf Smith County, Texas",261.0,209.0,52.0,117,91790,48
+4811791785,"Hereford East CCD, Deaf Smith County, Texas",5857.0,3769.0,2088.0,117,91785,48
+4816791445,"Galveston CCD, Galveston County, Texas",21185.0,9189.0,11996.0,167,91445,48
+4823390385,"Borger CCD, Hutchinson County, Texas",6968.0,5535.0,1433.0,233,90385,48
+4823393750,"Stinnett CCD, Hutchinson County, Texas",831.0,667.0,164.0,233,93750,48
+4816391055,"Dilley CCD, Frio County, Texas",1044.0,619.0,425.0,163,91055,48
+4810390885,"Crane South CCD, Crane County, Texas",1080.0,853.0,227.0,103,90885,48
+4810390880,"Crane North CCD, Crane County, Texas",399.0,305.0,94.0,103,90880,48
+4828190015,"Adamsville CCD, Lampasas County, Texas",370.0,328.0,42.0,281,90015,48
+4828192255,"Lometa CCD, Lampasas County, Texas",553.0,424.0,129.0,281,92255,48
+4828192130,"Lampasas CCD, Lampasas County, Texas",6825.0,5006.0,1819.0,281,92130,48
+4830793280,"Rochelle CCD, McCulloch County, Texas",306.0,245.0,61.0,307,93280,48
+4830792505,"Melvin CCD, McCulloch County, Texas",288.0,247.0,41.0,307,92505,48
+4830790405,"Brady CCD, McCulloch County, Texas",2549.0,1906.0,643.0,307,90405,48
+4831992450,"Mason West CCD, Mason County, Texas",382.0,293.0,89.0,319,92450,48
+4816790370,"Bolivar Peninsula CCD, Galveston County, Texas",898.0,684.0,214.0,167,90370,48
+4816793880,"Texas City-League City CCD, Galveston County, Texas",86235.0,61447.0,24788.0,167,93880,48
+4816792100,"La Marque-Hitchcock CCD, Galveston County, Texas",9137.0,6553.0,2584.0,167,92100,48
+4814191225,"El Paso North Central CCD, El Paso County, Texas",1906.0,6.0,1900.0,141,91225,48
+4814191215,"El Paso CCD, El Paso County, Texas",182980.0,102275.0,80705.0,141,91215,48
+4814191220,"El Paso East CCD, El Paso County, Texas",50240.0,38864.0,11376.0,141,91220,48
+4814191230,"El Paso Northwest CCD, El Paso County, Texas",28074.0,20963.0,7111.0,141,91230,48
+4828390870,"Cotulla CCD, La Salle County, Texas",2001.0,1404.0,597.0,283,90870,48
+4828391240,"Encinal CCD, La Salle County, Texas",285.0,203.0,82.0,283,91240,48
+4839392555,"Miami CCD, Roberts County, Texas",326.0,242.0,84.0,393,92555,48
+4844394175,"West Terrell CCD, Terrell County, Texas",307.0,254.0,53.0,443,94175,48
+4844391140,"East Terrell CCD, Terrell County, Texas",36.0,9.0,27.0,443,91140,48
+4845790785,"Colmesneil-Chester CCD, Tyler County, Texas",1147.0,1002.0,145.0,457,90785,48
+4845794075,"Warren CCD, Tyler County, Texas",1039.0,950.0,89.0,457,94075,48
+4845794285,"Woodville CCD, Tyler County, Texas",3224.0,2542.0,682.0,457,94285,48
+4845793710,"Spurger CCD, Tyler County, Texas",1902.0,1669.0,233.0,457,93710,48
+4846393375,"Sabinal CCD, Uvalde County, Texas",1099.0,940.0,159.0,463,93375,48
+4846393980,"Uvalde CCD, Uvalde County, Texas",7525.0,5344.0,2181.0,463,93980,48
+4848393545,"Shamrock CCD, Wheeler County, Texas",1139.0,691.0,448.0,483,93545,48
+4848394190,"Wheeler CCD, Wheeler County, Texas",1148.0,770.0,378.0,483,94190,48
+4803790950,"Dalby Springs-Simms CCD, Bowie County, Texas",961.0,810.0,151.0,037,90950,48
+4803790980,"De Kalb CCD, Bowie County, Texas",1954.0,1555.0,399.0,037,90980,48
+4803791830,"Hooks CCD, Bowie County, Texas",2107.0,1448.0,659.0,037,91830,48
+4803792725,"New Boston CCD, Bowie County, Texas",2932.0,2003.0,929.0,037,92725,48
+4803793875,"Texarkana CCD, Bowie County, Texas",21496.0,12755.0,8741.0,037,93875,48
+4800990130,"Archer City CCD, Archer County, Texas",1282.0,935.0,347.0,009,90130,48
+4800991815,"Holliday CCD, Archer County, Texas",2069.0,1817.0,252.0,009,91815,48
+4804392390,"Marathon CCD, Brewster County, Texas",273.0,183.0,90.0,043,92390,48
+4804390040,"Alpine CCD, Brewster County, Texas",3659.0,1972.0,1687.0,043,90040,48
+4826391930,"Jayton South CCD, Kent County, Texas",225.0,154.0,71.0,263,91930,48
+4826391925,"Jayton North CCD, Kent County, Texas",50.0,48.0,2.0,263,91925,48
+4821592600,"Mission CCD, Hidalgo County, Texas",46236.0,33063.0,13173.0,215,92600,48
+4821593155,"Puerto Rico-San Manuel CCD, Hidalgo County, Texas",368.0,261.0,107.0,215,93155,48
+4821593650,"Southeast Hidalgo CCD, Hidalgo County, Texas",36570.0,25712.0,10858.0,215,93650,48
+4821591155,"Edcouch-Elsa CCD, Hidalgo County, Texas",8968.0,6805.0,2163.0,215,91155,48
+4821592340,"McAllen-Pharr CCD, Hidalgo County, Texas",83111.0,51936.0,31175.0,215,92340,48
+4821593785,"Sullivan City CCD, Hidalgo County, Texas",9920.0,7844.0,2076.0,215,93785,48
+4821591170,"Edinburg CCD, Hidalgo County, Texas",46992.0,31042.0,15950.0,215,91170,48
+4821591710,"Hargill CCD, Hidalgo County, Texas",358.0,286.0,72.0,215,91710,48
+4842390515,"Bullard CCD, Smith County, Texas",12411.0,9613.0,2798.0,423,90515,48
+4842393970,"Tyler CCD, Smith County, Texas",34593.0,19345.0,15248.0,423,93970,48
+4814393735,"Stephenville CCD, Erath County, Texas",10025.0,5775.0,4250.0,143,93735,48
+4814391085,"Dublin CCD, Erath County, Texas",1814.0,1390.0,424.0,143,91085,48
+4814392645,"Morgan Mill-Bluff Dale CCD, Erath County, Texas",1250.0,1067.0,183.0,143,92645,48
+4803990055,"Alvin-Pearland CCD, Brazoria County, Texas",68704.0,51065.0,17639.0,039,90055,48
+4803990410,"Brazoria-West Columbia CCD, Brazoria County, Texas",11500.0,9153.0,2347.0,039,90410,48
+4842394205,"Whitehouse CCD, Smith County, Texas",10352.0,7183.0,3169.0,423,94205,48
+4842393950,"Troup-Arp CCD, Smith County, Texas",3517.0,3001.0,516.0,423,93950,48
+4842394260,"Winona CCD, Smith County, Texas",1950.0,1507.0,443.0,423,94260,48
+4842393975,"Tyler East CCD, Smith County, Texas",6841.0,4312.0,2529.0,423,93975,48
+4842392210,"Lindale CCD, Smith County, Texas",8137.0,6314.0,1823.0,423,92210,48
+4842591535,"Glen Rose CCD, Somervell County, Texas",3234.0,2391.0,843.0,425,91535,48
+4810591120,"East Crockett CCD, Crockett County, Texas",1377.0,1005.0,372.0,105,91120,48
+4810594160,"West Crockett CCD, Crockett County, Texas",34.0,22.0,12.0,105,94160,48
+4819993625,"Sour Lake CCD, Hardin County, Texas",2063.0,1761.0,302.0,199,93625,48
+4819993570,"Silsbee CCD, Hardin County, Texas",6219.0,4739.0,1480.0,199,93570,48
+4819993460,"Saratoga-Batson CCD, Hardin County, Texas",1222.0,1120.0,102.0,199,93460,48
+4820793360,"Rule CCD, Haskell County, Texas",331.0,230.0,101.0,207,93360,48
+4819992055,"Kountze CCD, Hardin County, Texas",5054.0,4124.0,930.0,199,92055,48
+4820793285,"Rochester CCD, Haskell County, Texas",294.0,229.0,65.0,207,93285,48
+4820793390,"Sagerton CCD, Haskell County, Texas",131.0,108.0,23.0,207,93390,48
+4822790300,"Big Spring CCD, Howard County, Texas",9344.0,6020.0,3324.0,227,90300,48
+4820794125,"Weinert CCD, Haskell County, Texas",137.0,124.0,13.0,207,94125,48
+4820791735,"Haskell CCD, Haskell County, Texas",1235.0,964.0,271.0,207,91735,48
+4822790305,"Big Spring North CCD, Howard County, Texas",881.0,778.0,103.0,227,90305,48
+4822790770,"Coahoma CCD, Howard County, Texas",807.0,710.0,97.0,227,90770,48
+4828990680,"Centerville CCD, Leon County, Texas",2017.0,1551.0,466.0,289,90680,48
+4828992775,"Normangee CCD, Leon County, Texas",1170.0,995.0,175.0,289,92775,48
+4828990510,"Buffalo CCD, Leon County, Texas",1757.0,1204.0,553.0,289,90510,48
+4828992870,"Oakwood CCD, Leon County, Texas",483.0,419.0,64.0,289,92870,48
+4833392690,"Mullin-Priddy CCD, Mills County, Texas",637.0,566.0,71.0,333,92690,48
+4833391550,"Goldthwaite CCD, Mills County, Texas",1196.0,987.0,209.0,333,91550,48
+4833792765,"Nocona CCD, Montague County, Texas",1838.0,1247.0,591.0,337,92765,48
+4833792610,"Montague-Forestburg CCD, Montague County, Texas",853.0,683.0,170.0,337,92610,48
+4833790390,"Bowie CCD, Montague County, Texas",4199.0,2908.0,1291.0,337,90390,48
+4833793395,"St. Jo CCD, Montague County, Texas",1154.0,946.0,208.0,337,93395,48
+4803990415,"Brazosport CCD, Brazoria County, Texas",23062.0,13741.0,9321.0,039,90415,48
+4812991760,"Hedley CCD, Donley County, Texas",202.0,146.0,56.0,129,91760,48
+4812990730,"Clarendon CCD, Donley County, Texas",1028.0,769.0,259.0,129,90730,48
+4801391955,"Jourdanton CCD, Atascosa County, Texas",2028.0,1452.0,576.0,013,91955,48
+4801390595,"Campbellton CCD, Atascosa County, Texas",226.0,115.0,111.0,013,90595,48
+4801393070,"Pleasanton CCD, Atascosa County, Texas",6153.0,4383.0,1770.0,013,93070,48
+4801393120,"Poteet CCD, Atascosa County, Texas",6190.0,4843.0,1347.0,013,93120,48
+4801390695,"Charlotte CCD, Atascosa County, Texas",912.0,744.0,168.0,013,90695,48
+4808393830,"Talpa CCD, Coleman County, Texas",339.0,285.0,54.0,083,93830,48
+4808392865,"Novice CCD, Coleman County, Texas",267.0,260.0,7.0,083,92865,48
+4808393450,"Santa Anna CCD, Coleman County, Texas",796.0,492.0,304.0,083,93450,48
+4808390780,"Coleman CCD, Coleman County, Texas",2068.0,1430.0,638.0,083,90780,48
+4835393810,"Sweetwater CCD, Nolan County, Texas",4476.0,2931.0,1545.0,353,93810,48
+4835390325,"Blackwell-Nolan CCD, Nolan County, Texas",241.0,195.0,46.0,353,90325,48
+4835393325,"Roscoe CCD, Nolan County, Texas",835.0,719.0,116.0,353,93325,48
+4822991360,"Fort Hancock CCD, Hudspeth County, Texas",455.0,376.0,79.0,229,91360,48
+4822993565,"Sierra Blanca CCD, Hudspeth County, Texas",211.0,124.0,87.0,229,93565,48
+4822990990,"Dell City CCD, Hudspeth County, Texas",224.0,165.0,59.0,229,90990,48
+4832591040,"D'Hanis CCD, Medina County, Texas",594.0,538.0,56.0,325,91040,48
+4832590645,"Castroville-LaCoste CCD, Medina County, Texas",5310.0,4544.0,766.0,325,90645,48
+4832591820,"Hondo CCD, Medina County, Texas",3657.0,2676.0,981.0,325,91820,48
+4832591030,"Devine-Natalia CCD, Medina County, Texas",5593.0,4690.0,903.0,325,91030,48
+4847591615,"Grandfalls CCD, Ward County, Texas",187.0,139.0,48.0,475,91615,48
+4847590205,"Barstow-Pyote CCD, Ward County, Texas",274.0,196.0,78.0,475,90205,48
+4847592605,"Monahans CCD, Ward County, Texas",3493.0,2432.0,1061.0,475,92605,48
+4821390155,"Athens CCD, Henderson County, Texas",8529.0,5980.0,2549.0,213,90155,48
+4821390652,"Cedar Creek Lake CCD, Henderson County, Texas",14488.0,10980.0,3508.0,213,90652,48
+4835190575,"Call CCD, Newton County, Texas",871.0,810.0,61.0,351,90575,48
+4835190530,"Burkeville CCD, Newton County, Texas",729.0,616.0,113.0,351,90530,48
+4835191035,"Deweyville CCD, Newton County, Texas",1177.0,892.0,285.0,351,91035,48
+4835192750,"Newton CCD, Newton County, Texas",2004.0,1639.0,365.0,351,92750,48
+4836590640,"Carthage CCD, Panola County, Texas",4272.0,3146.0,1126.0,365,90640,48
+4836590235,"Beckville CCD, Panola County, Texas",1247.0,1007.0,240.0,365,90235,48
+4836591475,"Gary City CCD, Panola County, Texas",826.0,631.0,195.0,365,91475,48
+4836592265,"Long Branch-Dotson CCD, Panola County, Texas",1010.0,894.0,116.0,365,92265,48
+4836590970,"De Berry-Deadwood CCD, Panola County, Texas",1677.0,1317.0,360.0,365,90970,48
+4838992990,"Pecos CCD, Reeves County, Texas",3363.0,2414.0,949.0,389,92990,48
+4838990190,"Balmorhea CCD, Reeves County, Texas",368.0,260.0,108.0,389,90190,48
+4840392580,"Milam CCD, Sabine County, Texas",929.0,858.0,71.0,403,92580,48
+4840393045,"Pineland CCD, Sabine County, Texas",1197.0,1008.0,189.0,403,93045,48
+4840391765,"Hemphill CCD, Sabine County, Texas",1685.0,1487.0,198.0,403,91765,48
+4843791700,"Happy CCD, Swisher County, Texas",303.0,221.0,82.0,437,91700,48
+4843792060,"Kress CCD, Swisher County, Texas",424.0,325.0,99.0,437,92060,48
+4843793955,"Tulia CCD, Swisher County, Texas",1875.0,1268.0,607.0,437,93955,48
+4823190660,"Celeste CCD, Hunt County, Texas",1480.0,1248.0,232.0,231,90660,48
+4823190565,"Caddo Mills CCD, Hunt County, Texas",2980.0,2524.0,456.0,231,90565,48
+4823192260,"Lone Oak CCD, Hunt County, Texas",2036.0,1639.0,397.0,231,92260,48
+4823194270,"Wolfe City CCD, Hunt County, Texas",890.0,670.0,220.0,231,94270,48
+4823191640,"Greenville CCD, Hunt County, Texas",13007.0,8138.0,4869.0,231,91640,48
+4823190820,"Commerce CCD, Hunt County, Texas",3787.0,1827.0,1960.0,231,90820,48
+4823193170,"Quinlan CCD, Hunt County, Texas",7601.0,6100.0,1501.0,231,93170,48
+4806393050,"Pittsburg CCD, Camp County, Texas",4076.0,2810.0,1266.0,063,93050,48
+4806392170,"Leesburg-Newsome CCD, Camp County, Texas",654.0,535.0,119.0,063,92170,48
+4819593695,"Spearman CCD, Hansford County, Texas",1307.0,1005.0,302.0,195,93695,48
+4819591660,"Gruver CCD, Hansford County, Texas",617.0,399.0,218.0,195,91660,48
+4818793470,"Schertz-Cibolo CCD, Guadalupe County, Texas",28165.0,21825.0,6340.0,187,93470,48
+4820392430,"Marshall CCD, Harrison County, Texas",8535.0,5370.0,3165.0,203,92430,48
+4820394085,"Waskom CCD, Harrison County, Texas",4848.0,3991.0,857.0,203,94085,48
+4820391685,"Hallsville CCD, Harrison County, Texas",7446.0,5750.0,1696.0,203,91685,48
+4820391715,"Harleton CCD, Harrison County, Texas",2534.0,2217.0,317.0,203,91715,48
+4832792520,"Menard West CCD, Menard County, Texas",837.0,539.0,298.0,327,92520,48
+4832792515,"Menard East CCD, Menard County, Texas",127.0,104.0,23.0,327,92515,48
+4827791840,"Howland CCD, Lamar County, Texas",199.0,192.0,7.0,277,91840,48
+4827793130,"Powderly CCD, Lamar County, Texas",1622.0,1374.0,248.0,277,93130,48
+4827790285,"Biardstown CCD, Lamar County, Texas",449.0,347.0,102.0,277,90285,48
+4827793795,"Sumner CCD, Lamar County, Texas",1696.0,1334.0,362.0,277,93795,48
+4827790345,"Blossom CCD, Lamar County, Texas",1432.0,1075.0,357.0,277,90345,48
+4831992445,"Mason East CCD, Mason County, Texas",1240.0,892.0,348.0,319,92445,48
+4812591050,"Dickens CCD, Dickens County, Texas",300.0,199.0,101.0,125,91050,48
+4812593705,"Spur CCD, Dickens County, Texas",532.0,396.0,136.0,125,93705,48
+4828791505,"Giddings CCD, Lee County, Texas",3102.0,2134.0,968.0,287,91505,48
+4828792205,"Lincoln-Dime Box CCD, Lee County, Texas",1143.0,1011.0,132.0,287,92205,48
+4828792190,"Lexington CCD, Lee County, Texas",1873.0,1594.0,279.0,287,92190,48
+4843990135,"Arlington CCD, Tarrant County, Texas",182831.0,108190.0,74641.0,439,90135,48
+4843991380,"Fort Worth CCD, Tarrant County, Texas",300595.0,173239.0,127356.0,439,91380,48
+4843992805,"Northeast Tarrant CCD, Tarrant County, Texas",206495.0,137423.0,69072.0,439,92805,48
+4800191205,"Elkhart CCD, Anderson County, Texas",2800.0,2267.0,533.0,001,91205,48
+4800190650,"Cayuga CCD, Anderson County, Texas",276.0,215.0,61.0,001,90650,48
+4827793355,"Roxton CCD, Lamar County, Texas",563.0,405.0,158.0,277,93355,48
+4827792970,"Paris CCD, Lamar County, Texas",12199.0,6850.0,5349.0,277,92970,48
+4827791020,"Deport CCD, Lamar County, Texas",925.0,696.0,229.0,277,91020,48
+4814993345,"Round Top CCD, Fayette County, Texas",895.0,772.0,123.0,149,93345,48
+4814992085,"La Grange West CCD, Fayette County, Texas",1651.0,1430.0,221.0,149,92085,48
+4814993475,"Schulenburg CCD, Fayette County, Texas",1873.0,1420.0,453.0,149,93475,48
+4814991305,"Fayetteville CCD, Fayette County, Texas",797.0,718.0,79.0,149,91305,48
+4814992080,"La Grange CCD, Fayette County, Texas",2566.0,1960.0,606.0,149,92080,48
+4814991320,"Flatonia CCD, Fayette County, Texas",1516.0,1252.0,264.0,149,91320,48
+4849193845,"Taylor CCD, Williamson County, Texas",20915.0,16298.0,4617.0,491,93845,48
+4849191915,"Jarrell CCD, Williamson County, Texas",2791.0,2216.0,575.0,491,91915,48
+4849191630,"Granger CCD, Williamson County, Texas",1123.0,857.0,266.0,491,91630,48
+4849191325,"Florence CCD, Williamson County, Texas",6005.0,5137.0,868.0,491,91325,48
+4826791960,"Junction Northwest CCD, Kimble County, Texas",542.0,378.0,164.0,267,91960,48
+4826791965,"Junction Southeast CCD, Kimble County, Texas",1399.0,1080.0,319.0,267,91965,48
+4837390860,"Corrigan CCD, Polk County, Texas",2104.0,1481.0,623.0,373,90860,48
+4839190170,"Austwell-Tivoli CCD, Refugio County, Texas",380.0,260.0,120.0,391,90170,48
+4839194275,"Woodsboro CCD, Refugio County, Texas",939.0,765.0,174.0,391,94275,48
+4839193220,"Refugio CCD, Refugio County, Texas",1375.0,922.0,453.0,391,93220,48
+4818793500,"Seguin CCD, Guadalupe County, Texas",15998.0,10772.0,5226.0,187,93500,48
+4807790245,"Bellevue-Joy CCD, Clay County, Texas",658.0,543.0,115.0,077,90245,48
+4807791780,"Henrietta CCD, Clay County, Texas",2596.0,2179.0,417.0,077,91780,48
+4807790560,"Byers-Petrolia CCD, Clay County, Texas",822.0,757.0,65.0,077,90560,48
+4820590690,"Channing CCD, Hartley County, Texas",310.0,113.0,197.0,205,90690,48
+4821791845,"Hubbard-Mount Calm CCD, Hill County, Texas",1148.0,804.0,344.0,217,91845,48
+4821791900,"Itasca CCD, Hill County, Texas",1337.0,1051.0,286.0,217,91900,48
+4821790355,"Blum CCD, Hill County, Texas",1778.0,1477.0,301.0,217,90355,48
+4821794210,"Whitney CCD, Hill County, Texas",3396.0,2618.0,778.0,217,94210,48
+4821791810,"Hillsboro CCD, Hill County, Texas",4641.0,3078.0,1563.0,217,91810,48
+4821792380,"Malone-Penelope CCD, Hill County, Texas",374.0,322.0,52.0,217,92380,48
+4829391650,"Groesbeck CCD, Limestone County, Texas",2062.0,1542.0,520.0,293,91650,48
+4829392050,"Kosse CCD, Limestone County, Texas",368.0,301.0,67.0,293,92050,48
+4829393900,"Thornton CCD, Limestone County, Texas",951.0,750.0,201.0,293,93900,48
+4829393135,"Prairie Hill CCD, Limestone County, Texas",256.0,185.0,71.0,293,93135,48
+4829390835,"Coolidge CCD, Limestone County, Texas",415.0,308.0,107.0,293,90835,48
+4829393015,"Personville CCD, Limestone County, Texas",668.0,549.0,119.0,293,93015,48
+4829392550,"Mexia CCD, Limestone County, Texas",3380.0,2474.0,906.0,293,92550,48
+4834791465,"Garrison CCD, Nacogdoches County, Texas",991.0,572.0,419.0,347,91465,48
+4834792700,"Nacogdoches CCD, Nacogdoches County, Texas",18942.0,9452.0,9490.0,347,92700,48
+4834790935,"Cushing-Douglass CCD, Nacogdoches County, Texas",1932.0,1592.0,340.0,347,90935,48
+4834790720,"Chireno-Martinsville CCD, Nacogdoches County, Texas",1960.0,1692.0,268.0,347,90720,48
+4836991300,"Farwell-Bovina CCD, Parmer County, Texas",1731.0,1178.0,553.0,369,91300,48
+4836991410,"Friona CCD, Parmer County, Texas",1491.0,1043.0,448.0,369,91410,48
+4836794100,"Weatherford Northwest CCD, Parker County, Texas",4136.0,3375.0,761.0,367,94100,48
+4836794095,"Weatherford CCD, Parker County, Texas",14474.0,9479.0,4995.0,367,94095,48
+4836794105,"Weatherford Southeast CCD, Parker County, Texas",11317.0,10090.0,1227.0,367,94105,48
+4846790270,"Ben Wheeler-Edom CCD, Van Zandt County, Texas",2926.0,2372.0,554.0,467,90270,48
+4846790620,"Canton CCD, Van Zandt County, Texas",4184.0,3314.0,870.0,467,90620,48
+4846794225,"Wills Point CCD, Van Zandt County, Texas",3134.0,2326.0,808.0,467,94225,48
+4846794000,"Van CCD, Van Zandt County, Texas",2138.0,1614.0,524.0,467,94000,48
+4846791165,"Edgewood CCD, Van Zandt County, Texas",1903.0,1477.0,426.0,467,91165,48
+4846790654,"Cedar Creek Lake CCD, Van Zandt County, Texas",2236.0,1809.0,427.0,467,90654,48
+4846791620,"Grand Saline CCD, Van Zandt County, Texas",2833.0,2014.0,819.0,467,91620,48
+4805592440,"Martindale CCD, Caldwell County, Texas",2084.0,1391.0,693.0,055,92440,48
+4805592330,"Luling CCD, Caldwell County, Texas",3145.0,2162.0,983.0,055,92330,48
+4805592245,"Lockhart CCD, Caldwell County, Texas",7665.0,5119.0,2546.0,055,92245,48
+4848792240,"Lockett CCD, Wilbarger County, Texas",249.0,190.0,59.0,487,92240,48
+4848794030,"Vernon CCD, Wilbarger County, Texas",4512.0,2860.0,1652.0,487,94030,48
+4848791290,"Fargo-Odell CCD, Wilbarger County, Texas",234.0,165.0,69.0,487,91290,48
+4848791730,"Harrold-Oklaunion CCD, Wilbarger County, Texas",160.0,128.0,32.0,487,91730,48
+4831793725,"Stanton CCD, Martin County, Texas",1095.0,831.0,264.0,317,93725,48
+4831793835,"Tarzan-Lenorah CCD, Martin County, Texas",540.0,430.0,110.0,317,93835,48
+4841990020,"Aiken-Neuville CCD, Shelby County, Texas",1162.0,802.0,360.0,419,90020,48
+4838792385,"Manchester CCD, Red River County, Texas",275.0,240.0,35.0,387,92385,48
+4838790105,"Annona-Avery CCD, Red River County, Texas",1072.0,918.0,154.0,387,90105,48
+4838790735,"Clarksville CCD, Red River County, Texas",2016.0,1344.0,672.0,387,90735,48
+4837792400,"Marfa CCD, Presidio County, Texas",834.0,557.0,277.0,377,92400,48
+4837793145,"Presidio CCD, Presidio County, Texas",1755.0,986.0,769.0,377,93145,48
+4846590995,"Del Rio CCD, Val Verde County, Texas",14948.0,9361.0,5587.0,465,90995,48
+4846591000,"Del Rio Northeast CCD, Val Verde County, Texas",56.0,56.0,0.0,465,91000,48
+4846591005,"Del Rio Northwest CCD, Val Verde County, Texas",185.0,175.0,10.0,465,91005,48
+4810994015,"Van Horn Rural CCD, Culberson County, Texas",36.0,0.0,36.0,109,94015,48
+4810994010,"Van Horn CCD, Culberson County, Texas",699.0,490.0,209.0,109,94010,48
+4813592875,"Odessa CCD, Ector County, Texas",42893.0,27133.0,15760.0,135,92875,48
+4817391455,"Garden City North CCD, Glasscock County, Texas",233.0,161.0,72.0,173,91455,48
+4817391460,"Garden City South CCD, Glasscock County, Texas",242.0,180.0,62.0,173,91460,48
+4818590080,"Anderson-Bedias CCD, Grimes County, Texas",3260.0,2790.0,470.0,185,90080,48
+4818592710,"Navasota CCD, Grimes County, Texas",5720.0,4193.0,1527.0,185,92710,48
+4845390165,"Austin CCD, Travis County, Texas",339062.0,155416.0,183646.0,453,90165,48
+4808592720,"Nevada CCD, Collin County, Texas",3389.0,2971.0,418.0,085,92720,48
+4808590100,"Anna CCD, Collin County, Texas",7520.0,5881.0,1639.0,085,90100,48
+4808593065,"Plano CCD, Collin County, Texas",202643.0,127802.0,74841.0,085,93065,48
+4808591295,"Farmersville CCD, Collin County, Texas",3276.0,2361.0,915.0,085,91295,48
+4808592360,"McKinney CCD, Collin County, Texas",87815.0,58136.0,29679.0,085,92360,48
+4808590665,"Celina CCD, Collin County, Texas",10637.0,8960.0,1677.0,085,90665,48
+4808590350,"Blue Ridge CCD, Collin County, Texas",2198.0,1818.0,380.0,085,90350,48
+4808593150,"Princeton CCD, Collin County, Texas",6427.0,4627.0,1800.0,085,93150,48
+4800591045,"Diboll CCD, Angelina County, Texas",2747.0,1975.0,772.0,005,91045,48
+4800591855,"Huntington CCD, Angelina County, Texas",4170.0,3499.0,671.0,005,91855,48
+4800592325,"Lufkin CCD, Angelina County, Texas",19344.0,11082.0,8262.0,005,92325,48
+4800593090,"Pollok CCD, Angelina County, Texas",3625.0,3102.0,523.0,005,93090,48
+4838791025,"Detroit CCD, Red River County, Texas",714.0,520.0,194.0,387,91025,48
+4838790365,"Bogata CCD, Red River County, Texas",1141.0,934.0,207.0,387,90365,48
+4839993350,"Rowena CCD, Runnels County, Texas",237.0,175.0,62.0,399,93350,48
+4839992585,"Miles CCD, Runnels County, Texas",398.0,305.0,93.0,399,92585,48
+4839994265,"Winters CCD, Runnels County, Texas",1412.0,928.0,484.0,399,94265,48
+4839990185,"Ballinger CCD, Runnels County, Texas",1734.0,1306.0,428.0,399,90185,48
+4840793555,"Shepherd-Evergreen CCD, San Jacinto County, Texas",5324.0,4193.0,1131.0,407,93555,48
+4840790775,"Coldspring CCD, San Jacinto County, Texas",2099.0,1820.0,279.0,407,90775,48
+4840793080,"Point Blank CCD, San Jacinto County, Texas",1991.0,1799.0,192.0,407,93080,48
+4843593620,"Sonora Rural CCD, Sutton County, Texas",30.0,11.0,19.0,435,93620,48
+4843593615,"Sonora CCD, Sutton County, Texas",1543.0,1062.0,481.0,435,93615,48
+4845191145,"East Tom Green CCD, Tom Green County, Texas",1670.0,1453.0,217.0,451,91145,48
+4845194180,"West Tom Green CCD, Tom Green County, Texas",10722.0,8216.0,2506.0,451,94180,48
+4838390290,"Big Lake CCD, Reagan County, Texas",1171.0,823.0,348.0,383,90290,48
+4850193055,"Plains CCD, Yoakum County, Texas",669.0,474.0,195.0,501,93055,48
+4850191015,"Denver City CCD, Yoakum County, Texas",1983.0,1580.0,403.0,501,91015,48
+4818991675,"Hale Center CCD, Hale County, Texas",1071.0,754.0,317.0,189,91675,48
+4818993060,"Plainview CCD, Hale County, Texas",8624.0,4935.0,3689.0,189,93060,48
+4818993020,"Petersburg CCD, Hale County, Texas",492.0,374.0,118.0,189,93020,48
+4818990005,"Abernathy CCD, Hale County, Texas",1030.0,711.0,319.0,189,90005,48
+4841993925,"Timpson CCD, Shelby County, Texas",1472.0,1035.0,437.0,419,93925,48
+4841993550,"Shelbyville CCD, Shelby County, Texas",1224.0,997.0,227.0,419,93550,48
+4841993860,"Tenaha-Joaquin CCD, Shelby County, Texas",1802.0,1339.0,463.0,419,93860,48
+4841990670,"Center CCD, Shelby County, Texas",3558.0,2407.0,1151.0,419,90670,48
+4845991515,"Gilmer CCD, Upshur County, Texas",4371.0,3176.0,1195.0,459,91515,48
+4845193405,"San Angelo CCD, Tom Green County, Texas",30689.0,17500.0,13189.0,451,93405,48
+4845991525,"Gladewater CCD, Upshur County, Texas",3002.0,2407.0,595.0,459,91525,48
+4845990280,"Bettie CCD, Upshur County, Texas",1459.0,1203.0,256.0,459,90280,48
+4845992920,"Ore City CCD, Upshur County, Texas",3170.0,2480.0,690.0,459,92920,48
+4845990295,"Big Sandy CCD, Upshur County, Texas",2059.0,1557.0,502.0,459,90295,48
+4846994040,"Victoria South CCD, Victoria County, Texas",1965.0,1559.0,406.0,469,94040,48
+4846994045,"Victoria West CCD, Victoria County, Texas",3866.0,3327.0,539.0,469,94045,48
+4846994035,"Victoria CCD, Victoria County, Texas",26903.0,16572.0,10331.0,469,94035,48
+4847390465,"Brookshire CCD, Waller County, Texas",4951.0,3661.0,1290.0,473,90465,48
+4847391770,"Hempstead CCD, Waller County, Texas",3458.0,2054.0,1404.0,473,91770,48
+4848191180,"El Campo CCD, Wharton County, Texas",6015.0,3947.0,2068.0,481,91180,48
+4848192305,"Louise CCD, Wharton County, Texas",991.0,782.0,209.0,481,92305,48
+4848194185,"Wharton CCD, Wharton County, Texas",4423.0,2595.0,1828.0,481,94185,48
+4848591880,"Iowa Park CCD, Wichita County, Texas",2874.0,2423.0,451.0,485,91880,48
+4800594315,"Zavalla CCD, Angelina County, Texas",1045.0,766.0,279.0,005,94315,48
+4808793400,"Samnorwood CCD, Collingsworth County, Texas",78.0,62.0,16.0,087,93400,48
+4808794130,"Wellington CCD, Collingsworth County, Texas",1021.0,821.0,200.0,087,94130,48
+4810192935,"Paducah South CCD, Cottle County, Texas",29.0,15.0,14.0,101,92935,48
+4810192930,"Paducah North CCD, Cottle County, Texas",635.0,419.0,216.0,101,92930,48
+4820992065,"Kyle-Buda CCD, Hays County, Texas",28046.0,21205.0,6841.0,209,92065,48
+4820993430,"San Marcos CCD, Hays County, Texas",25267.0,8272.0,16995.0,209,93430,48
+4820991075,"Dripping Springs-Wimberley CCD, Hays County, Texas",14732.0,12765.0,1967.0,209,91075,48
+4827993775,"Sudan-Amherst CCD, Lamb County, Texas",853.0,646.0,207.0,279,93775,48
+4827992900,"Olton CCD, Lamb County, Texas",914.0,611.0,303.0,279,92900,48
+4827992220,"Littlefield CCD, Lamb County, Texas",2473.0,1726.0,747.0,279,92220,48
+4827991105,"Earth CCD, Lamb County, Texas",550.0,416.0,134.0,279,91105,48
+4829591345,"Follett CCD, Lipscomb County, Texas",206.0,168.0,38.0,295,91345,48
+4829591805,"Higgins CCD, Lipscomb County, Texas",301.0,218.0,83.0,295,91805,48
+4829590380,"Booker CCD, Lipscomb County, Texas",769.0,549.0,220.0,295,90380,48
+4830192525,"Mentone CCD, Loving County, Texas",31.0,16.0,15.0,301,92525,48
+4832190220,"Bay City CCD, Matagorda County, Texas",8610.0,4889.0,3721.0,321,90220,48
+4832192940,"Palacios CCD, Matagorda County, Texas",2216.0,1873.0,343.0,321,92940,48
+4832193915,"Tidehaven CCD, Matagorda County, Texas",1519.0,1262.0,257.0,321,93915,48
+4832192465,"Matagorda-Sargent CCD, Matagorda County, Texas",1466.0,1335.0,131.0,321,92465,48
+4837191375,"Fort Stockton CCD, Pecos County, Texas",3550.0,2463.0,1087.0,371,91375,48
+4837191870,"Imperial CCD, Pecos County, Texas",289.0,233.0,56.0,371,91870,48
+4837191885,"Iraan CCD, Pecos County, Texas",581.0,379.0,202.0,371,91885,48
+4839591385,"Franklin CCD, Robertson County, Texas",2303.0,1753.0,550.0,395,91385,48
+4839590430,"Bremond CCD, Robertson County, Texas",747.0,502.0,245.0,395,90430,48
+4839591750,"Hearne CCD, Robertson County, Texas",2678.0,2083.0,595.0,395,91750,48
+4839590585,"Calvert CCD, Robertson County, Texas",570.0,353.0,217.0,395,90585,48
+4839793665,"South Rockwall CCD, Rockwall County, Texas",10851.0,9278.0,1573.0,397,93665,48
+4839792855,"Northwest Rockwall CCD, Rockwall County, Texas",12486.0,9393.0,3093.0,397,92855,48
+4839792800,"Northeast Rockwall CCD, Rockwall County, Texas",7028.0,5743.0,1285.0,397,92800,48
+4848594215,"Wichita Falls CCD, Wichita County, Texas",38964.0,22644.0,16320.0,485,94215,48
+4848590525,"Burkburnett CCD, Wichita County, Texas",4866.0,3235.0,1631.0,485,90525,48
+4848591195,"Electra CCD, Wichita County, Texas",1824.0,1457.0,367.0,485,91195,48
+4849393125,"Poth CCD, Wilson County, Texas",1331.0,1059.0,272.0,493,93125,48
+4849392160,"La Vernia CCD, Wilson County, Texas",3882.0,3473.0,409.0,493,92160,48
+4849391330,"Floresville CCD, Wilson County, Texas",8975.0,7418.0,1557.0,493,91330,48
+4849393755,"Stockdale CCD, Wilson County, Texas",1567.0,1207.0,360.0,493,93755,48
+4803391425,"Gail North CCD, Borden County, Texas",114.0,58.0,56.0,033,91425,48
+4803391430,"Gail South CCD, Borden County, Texas",134.0,125.0,9.0,033,91430,48
+4821993320,"Ropesville CCD, Hockley County, Texas",513.0,416.0,97.0,219,93320,48
+4821993800,"Sundown CCD, Hockley County, Texas",478.0,352.0,126.0,219,93800,48
+4821990115,"Anton CCD, Hockley County, Texas",533.0,377.0,156.0,219,90115,48
+4821992180,"Levelland CCD, Hockley County, Texas",6541.0,4388.0,2153.0,219,92180,48
+4832391100,"Eagle Pass CCD, Maverick County, Texas",15894.0,10733.0,5161.0,323,91100,48
+4832393165,"Quemado CCD, Maverick County, Texas",522.0,437.0,85.0,323,93165,48
+4832992560,"Midland CCD, Midland County, Texas",49206.0,31945.0,17261.0,329,92560,48
+4818191125,"East Grayson CCD, Grayson County, Texas",34050.0,21746.0,12304.0,181,91125,48
+4818193685,"Southwest Grayson CCD, Grayson County, Texas",3854.0,3045.0,809.0,181,93685,48
+4818192840,"Northwest Grayson CCD, Grayson County, Texas",9646.0,7072.0,2574.0,181,92840,48
+4829791500,"George West CCD, Live Oak County, Texas",2481.0,2078.0,403.0,297,91500,48
+4829793905,"Three Rivers CCD, Live Oak County, Texas",1105.0,881.0,224.0,297,93905,48
+4829992235,"Llano South CCD, Llano County, Texas",3832.0,3080.0,752.0,299,92235,48
+4829992230,"Llano North CCD, Llano County, Texas",4849.0,3567.0,1282.0,299,92230,48
+4836393770,"Strawn-Gordon CCD, Palo Pinto County, Texas",864.0,731.0,133.0,363,93770,48
+4836391595,"Graford CCD, Palo Pinto County, Texas",1089.0,885.0,204.0,363,91595,48
+4836392950,"Palo Pinto-Santo CCD, Palo Pinto County, Texas",1633.0,1408.0,225.0,363,92950,48
+4836392595,"Mineral Wells CCD, Palo Pinto County, Texas",6855.0,4307.0,2548.0,363,92595,48
+4840191775,"Henderson CCD, Rusk County, Texas",6969.0,4857.0,2112.0,401,91775,48
+4840193040,"Pinehill CCD, Rusk County, Texas",835.0,745.0,90.0,401,93040,48
+4840193840,"Tatum CCD, Rusk County, Texas",1900.0,1463.0,437.0,401,93840,48
+4840192925,"Overton CCD, Rusk County, Texas",1800.0,1301.0,499.0,401,92925,48
+4840192660,"Mount Enterprise CCD, Rusk County, Texas",1007.0,850.0,157.0,401,92660,48
+4840192025,"Kilgore CCD, Rusk County, Texas",3513.0,2874.0,639.0,401,92025,48
+4840192135,"Laneville CCD, Rusk County, Texas",1093.0,927.0,166.0,401,92135,48
+4844190010,"Abilene CCD, Taylor County, Texas",44696.0,25121.0,19575.0,441,90010,48
+4844192535,"Merkel CCD, Taylor County, Texas",1965.0,1494.0,471.0,441,92535,48
+4844191945,"Jim Ned CCD, Taylor County, Texas",2782.0,2537.0,245.0,441,91945,48
+4844794280,"Woodson CCD, Throckmorton County, Texas",160.0,128.0,32.0,447,94280,48
+4844793910,"Throckmorton CCD, Throckmorton County, Texas",552.0,392.0,160.0,447,93910,48
+4845590120,"Apple Springs CCD, Trinity County, Texas",1056.0,879.0,177.0,455,90120,48
+4845593945,"Trinity CCD, Trinity County, Texas",2774.0,2125.0,649.0,455,93945,48
+4845591530,"Glendale CCD, Trinity County, Texas",839.0,667.0,172.0,455,91530,48
+4845591655,"Groveton CCD, Trinity County, Texas",1265.0,945.0,320.0,455,91655,48
+4847192755,"New Waverly CCD, Walker County, Texas",2207.0,1591.0,616.0,471,92755,48
+4847191860,"Huntsville CCD, Walker County, Texas",14790.0,6173.0,8617.0,471,91860,48
+4847193255,"Riverside CCD, Walker County, Texas",4297.0,3477.0,820.0,471,93255,48
+4849991740,"Hawkins CCD, Wood County, Texas",3128.0,2611.0,517.0,499,91740,48
+4849992590,"Mineola CCD, Wood County, Texas",3693.0,2755.0,938.0,499,92590,48
+4849990025,"Alba CCD, Wood County, Texas",1955.0,1575.0,380.0,499,90025,48
+4849994255,"Winnsboro CCD, Wood County, Texas",2625.0,2058.0,567.0,499,94255,48
+4849993180,"Quitman CCD, Wood County, Texas",4721.0,3966.0,755.0,499,93180,48
+4801992500,"Medina CCD, Bandera County, Texas",1002.0,806.0,196.0,019,92500,48
+4801990195,"Bandera CCD, Bandera County, Texas",7276.0,6201.0,1075.0,019,90195,48
+4800793295,"Rockport CCD, Aransas County, Texas",7211.0,5255.0,1956.0,007,93295,48
+4800791420,"Fulton CCD, Aransas County, Texas",2318.0,1784.0,534.0,007,91420,48
+4807590700,"Childress CCD, Childress County, Texas",2272.0,1247.0,1025.0,075,90700,48
+4807992650,"Morton CCD, Cochran County, Texas",821.0,629.0,192.0,079,92650,48
+4814791825,"Honey Grove CCD, Fannin County, Texas",1079.0,827.0,252.0,147,91825,48
+4814790375,"Bonham CCD, Fannin County, Texas",4217.0,2775.0,1442.0,147,90375,48
+4814792075,"Ladonia CCD, Fannin County, Texas",381.0,236.0,145.0,147,92075,48
+4814791150,"Ector CCD, Fannin County, Texas",1153.0,871.0,282.0,147,91150,48
+4814791070,"Dodd City CCD, Fannin County, Texas",702.0,595.0,107.0,147,91070,48
+4814793200,"Ravenna-Telephone CCD, Fannin County, Texas",1536.0,1348.0,188.0,147,93200,48
+4814792175,"Leonard CCD, Fannin County, Texas",2959.0,2325.0,634.0,147,92175,48
+4825591995,"Kenedy CCD, Karnes County, Texas",1685.0,1270.0,415.0,255,91995,48
+4825591285,"Falls City CCD, Karnes County, Texas",684.0,541.0,143.0,255,91285,48
+4825593365,"Runge CCD, Karnes County, Texas",490.0,335.0,155.0,255,93365,48
+4825591510,"Gillett CCD, Karnes County, Texas",277.0,223.0,54.0,255,91510,48
+4825591980,"Karnes City CCD, Karnes County, Texas",1167.0,831.0,336.0,255,91980,48
+4812394295,"Yoakum CCD, DeWitt County, Texas",1722.0,1372.0,350.0,123,94295,48
+4812394305,"Yorktown CCD, DeWitt County, Texas",1492.0,1300.0,192.0,123,94305,48
+4812394170,"Westhoff-Arneckville CCD, DeWitt County, Texas",1016.0,872.0,144.0,123,94170,48
+4812390925,"Cuero CCD, DeWitt County, Texas",3030.0,1921.0,1109.0,123,90925,48
+4804192790,"Northeast Brazos CCD, Brazos County, Texas",5996.0,4976.0,1020.0,041,92790,48
+4804193635,"South Brazos CCD, Brazos County, Texas",22170.0,13348.0,8822.0,041,93635,48
+4804194150,"West Brazos CCD, Brazos County, Texas",5183.0,2232.0,2951.0,041,94150,48
+4804190495,"Bryan-College Station CCD, Brazos County, Texas",44131.0,14691.0,29440.0,041,90495,48
+4805990180,"Baird CCD, Callahan County, Texas",966.0,788.0,178.0,059,90180,48
+4805990910,"Cross Plains CCD, Callahan County, Texas",954.0,731.0,223.0,059,90910,48
+4805990765,"Clyde CCD, Callahan County, Texas",3371.0,2833.0,538.0,059,90765,48
+4806790160,"Atlanta CCD, Cass County, Texas",5489.0,4220.0,1269.0,067,90160,48
+4806792215,"Linden CCD, Cass County, Texas",2406.0,1863.0,543.0,067,92215,48
+4806792405,"Marietta-Douglassville CCD, Cass County, Texas",931.0,758.0,173.0,067,92405,48
+4806790320,"Bivins-McLeod CCD, Cass County, Texas",1065.0,910.0,155.0,067,90320,48
+4806791850,"Hughes Springs-Avinger CCD, Cass County, Texas",1920.0,1445.0,475.0,067,91850,48
+4816593485,"Seagraves CCD, Gaines County, Texas",1203.0,762.0,441.0,165,93485,48
+4816593520,"Seminole CCD, Gaines County, Texas",4513.0,3602.0,911.0,165,93520,48
+4818391520,"Gladewater CCD, Gregg County, Texas",2882.0,1770.0,1112.0,183,91520,48
+4818392275,"Longview Northwest CCD, Gregg County, Texas",2307.0,1732.0,575.0,183,92275,48
+4807994200,"Whiteface CCD, Cochran County, Texas",179.0,132.0,47.0,079,94200,48
+4808193265,"Robert Lee CCD, Coke County, Texas",789.0,547.0,242.0,081,93265,48
+4808190460,"Bronte CCD, Coke County, Texas",785.0,574.0,211.0,081,90460,48
+4809192730,"New Braunfels CCD, Comal County, Texas",28384.0,19382.0,9002.0,091,92730,48
+4809991480,"Gatesville CCD, Coryell County, Texas",4491.0,2972.0,1519.0,099,91480,48
+4809993965,"Turnersville CCD, Coryell County, Texas",408.0,335.0,73.0,099,93965,48
+4809991270,"Evant CCD, Coryell County, Texas",448.0,368.0,80.0,099,91270,48
+4809991370,"Fort Hood CCD, Coryell County, Texas",1960.0,12.0,1948.0,099,91370,48
+4809990845,"Copperas Cove CCD, Coryell County, Texas",13345.0,7790.0,5555.0,099,90845,48
+4809991315,"Flat CCD, Coryell County, Texas",334.0,251.0,83.0,099,91315,48
+4809992885,"Oglesby CCD, Coryell County, Texas",777.0,624.0,153.0,099,92885,48
+4821190615,"Canadian South CCD, Hemphill County, Texas",228.0,96.0,132.0,211,90615,48
+4821190605,"Canadian North CCD, Hemphill County, Texas",1130.0,833.0,297.0,211,90605,48
+4822590900,"Crockett CCD, Houston County, Texas",4124.0,2443.0,1681.0,225,90900,48
+4822592000,"Kennard-Ratcliff CCD, Houston County, Texas",597.0,463.0,134.0,225,92000,48
+4822593100,"Porter Springs CCD, Houston County, Texas",525.0,447.0,78.0,225,93100,48
+4822591635,"Grapeland CCD, Houston County, Texas",2234.0,1717.0,517.0,225,91635,48
+4822592310,"Lovelady CCD, Houston County, Texas",848.0,651.0,197.0,225,92310,48
+4834191090,"Dumas CCD, Moore County, Texas",5903.0,3696.0,2207.0,341,91090,48
+4834193805,"Sunray CCD, Moore County, Texas",822.0,598.0,224.0,341,93805,48
+4834990340,"Blooming Grove CCD, Navarro County, Texas",1542.0,1253.0,289.0,349,90340,48
+4834990865,"Corsicana CCD, Navarro County, Texas",11892.0,7730.0,4162.0,349,90865,48
+4834992005,"Kerens CCD, Navarro County, Texas",1314.0,893.0,421.0,349,92005,48
+4834993225,"Rice CCD, Navarro County, Texas",1271.0,1054.0,217.0,349,93225,48
+4834990965,"Dawson CCD, Navarro County, Texas",1307.0,959.0,348.0,349,90965,48
+4837590065,"Amarillo CCD, Potter County, Texas",41175.0,22882.0,18293.0,375,90065,48
+4837590610,"Canadian River Breaks CCD, Potter County, Texas",2278.0,2024.0,254.0,375,90610,48
+4840590455,"Broaddus CCD, San Augustine County, Texas",1089.0,930.0,159.0,405,90455,48
+4840593415,"San Augustine CCD, San Augustine County, Texas",2113.0,1607.0,506.0,405,93415,48
+4818392020,"Kilgore CCD, Gregg County, Texas",3823.0,2217.0,1606.0,183,92020,48
+4818392270,"Longview CCD, Gregg County, Texas",31780.0,17399.0,14381.0,183,92270,48
+4817992365,"McLean CCD, Gray County, Texas",467.0,361.0,106.0,179,92365,48
+4817992955,"Pampa CCD, Gray County, Texas",7071.0,5275.0,1796.0,179,92955,48
+4831392575,"Midway CCD, Madison County, Texas",393.0,283.0,110.0,313,92575,48
+4831392370,"Madisonville CCD, Madison County, Texas",2823.0,1977.0,846.0,313,92370,48
+4831392860,"North Zulch CCD, Madison County, Texas",958.0,809.0,149.0,313,92860,48
+4830391865,"Idalou CCD, Lubbock County, Texas",1324.0,1036.0,288.0,303,91865,48
+4830392315,"Lubbock CCD, Lubbock County, Texas",102804.0,56164.0,46640.0,303,92315,48
+4830393590,"Slaton CCD, Lubbock County, Texas",3927.0,2798.0,1129.0,303,93590,48
+4830393540,"Shallowater CCD, Lubbock County, Texas",2220.0,1696.0,524.0,303,93540,48
+4823790500,"Bryson CCD, Jack County, Texas",537.0,412.0,125.0,237,90500,48
+4823792995,"Perrin CCD, Jack County, Texas",576.0,484.0,92.0,237,92995,48
+4823791905,"Jacksboro CCD, Jack County, Texas",1962.0,1628.0,334.0,237,91905,48
+4825793865,"Terrell CCD, Kaufman County, Texas",7933.0,4473.0,3460.0,257,93865,48
+4825790875,"Crandall CCD, Kaufman County, Texas",3272.0,2665.0,607.0,257,90875,48
+4825793870,"Terrell South CCD, Kaufman County, Texas",4220.0,3767.0,453.0,257,93870,48
+4825790653,"Cedar Creek Lake CCD, Kaufman County, Texas",3124.0,2114.0,1010.0,257,90653,48
+4825791350,"Forney CCD, Kaufman County, Texas",13195.0,11638.0,1557.0,257,91350,48
+4825791985,"Kaufman CCD, Kaufman County, Texas",4781.0,3518.0,1263.0,257,91985,48
+4825990815,"Comfort CCD, Kendall County, Texas",2011.0,1546.0,465.0,259,90815,48
+4825990360,"Boerne CCD, Kendall County, Texas",11680.0,8429.0,3251.0,259,90360,48
+4803591890,"Iredell CCD, Bosque County, Texas",384.0,341.0,43.0,035,91890,48
+4803593990,"Valley Mills CCD, Bosque County, Texas",915.0,755.0,160.0,035,93990,48
+4803590760,"Clifton CCD, Bosque County, Texas",2828.0,2168.0,660.0,035,90760,48
+4803592530,"Meridian CCD, Bosque County, Texas",2470.0,1817.0,653.0,035,92530,48
+4803590890,"Cranfills Gap CCD, Bosque County, Texas",430.0,354.0,76.0,035,90890,48
+4815391335,"Floydada CCD, Floyd County, Texas",1378.0,1055.0,323.0,153,91335,48
+4815392250,"Lockney CCD, Floyd County, Texas",942.0,632.0,310.0,153,92250,48
+4841591795,"Hermleigh CCD, Scurry County, Texas",312.0,239.0,73.0,415,91795,48
+4841593605,"Snyder CCD, Scurry County, Texas",4981.0,3658.0,1323.0,415,93605,48
+4841790030,"Albany CCD, Shackelford County, Texas",1037.0,839.0,198.0,417,90030,48
+4841792640,"Moran CCD, Shackelford County, Texas",220.0,153.0,67.0,417,92640,48
+4842793315,"Roma-Los Saenz CCD, Starr County, Texas",5332.0,3754.0,1578.0,427,93315,48
+4842792090,"La Grulla CCD, Starr County, Texas",2622.0,2223.0,399.0,427,92090,48
+4843390145,"Aspermont North CCD, Stonewall County, Texas",101.0,90.0,11.0,433,90145,48
+4843390150,"Aspermont South CCD, Stonewall County, Texas",357.0,258.0,99.0,433,90150,48
+4846193195,"Rankin CCD, Upton County, Texas",433.0,316.0,117.0,461,93195,48
+4846192345,"McCamey CCD, Upton County, Texas",875.0,638.0,237.0,461,92345,48
+4802190210,"Bastrop CCD, Bastrop County, Texas",7716.0,5684.0,2032.0,021,90210,48
+4802193600,"Smithville CCD, Bastrop County, Texas",3783.0,2907.0,876.0,021,93600,48
+4802190655,"Cedar Creek-Red Rock CCD, Bastrop County, Texas",8914.0,7260.0,1654.0,021,90655,48
+4802191200,"Elgin CCD, Bastrop County, Texas",5602.0,4060.0,1542.0,021,91200,48
+4804990335,"Blanket CCD, Brown County, Texas",1134.0,996.0,138.0,049,90335,48
+4804992485,"May CCD, Brown County, Texas",914.0,764.0,150.0,049,92485,48
+4804990485,"Brownwood CCD, Brown County, Texas",9071.0,6006.0,3065.0,049,90485,48
+4804990200,"Bangs CCD, Brown County, Texas",2716.0,2272.0,444.0,049,90200,48
+4819192510,"Memphis CCD, Hall County, Texas",956.0,593.0,363.0,191,92510,48
+4819191260,"Estelline CCD, Hall County, Texas",42.0,29.0,13.0,191,91260,48
+4819192095,"Lakeview CCD, Hall County, Texas",90.0,43.0,47.0,191,92095,48
+4819193960,"Turkey CCD, Hall County, Texas",156.0,114.0,42.0,191,93960,48
+4802593025,"Pettus-Pawnee CCD, Bee County, Texas",557.0,441.0,116.0,025,93025,48
+4802590240,"Beeville CCD, Bee County, Texas",7163.0,4236.0,2927.0,025,90240,48
+4802593585,"Skidmore CCD, Bee County, Texas",811.0,698.0,113.0,025,93585,48
+4815994250,"Winnsboro CCD, Franklin County, Texas",1025.0,786.0,239.0,159,94250,48
+4815992675,"Mount Vernon CCD, Franklin County, Texas",2906.0,2143.0,763.0,159,92675,48
+4816392980,"Pearsall CCD, Frio County, Texas",3023.0,2113.0,910.0,163,92980,48
+4816392635,"Moore CCD, Frio County, Texas",463.0,442.0,21.0,163,92635,48
+4801792685,"Muleshoe CCD, Bailey County, Texas",2105.0,1503.0,602.0,017,92685,48
+4801793670,"South Sand Hills CCD, Bailey County, Texas",125.0,106.0,19.0,017,93670,48
+4807194245,"Winnie-Stowell CCD, Chambers County, Texas",2094.0,1520.0,574.0,071,94245,48
+4807190075,"Anahuac CCD, Chambers County, Texas",2261.0,1887.0,374.0,071,90075,48
+4807192620,"Mont Belvieu CCD, Chambers County, Texas",8965.0,7616.0,1349.0,071,92620,48
+4802393525,"Seymour CCD, Baylor County, Texas",1312.0,948.0,364.0,023,93525,48
+4802393535,"Seymour Rural CCD, Baylor County, Texas",332.0,325.0,7.0,023,93535,48
+4802793680,"Southwest Bell CCD, Bell County, Texas",3017.0,2406.0,611.0,027,93680,48
+4802791365,"Fort Hood CCD, Bell County, Texas",2264.0,20.0,2244.0,027,91365,48
+4802793630,"South Bell CCD, Bell County, Texas",3559.0,3063.0,496.0,027,93630,48
+4802790255,"Belton CCD, Bell County, Texas",8254.0,4685.0,3569.0,027,90255,48
+4802791110,"East Bell CCD, Bell County, Texas",2231.0,1782.0,449.0,027,91110,48
+4802792030,"Killeen CCD, Bell County, Texas",63168.0,31282.0,31886.0,027,92030,48
+4802792835,"Northwest Bell CCD, Bell County, Texas",4857.0,4262.0,595.0,027,92835,48
+4802793855,"Temple CCD, Bell County, Texas",27409.0,15045.0,12364.0,027,93855,48
+4802793310,"Rogers CCD, Bell County, Texas",1638.0,1222.0,416.0,027,93310,48
+4806192295,"Los Fresnos-Laureles CCD, Cameron County, Texas",6834.0,5250.0,1584.0,061,92295,48
+4806191720,"Harlingen-San Benito CCD, Cameron County, Texas",45159.0,30420.0,14739.0,061,91720,48
+4806190480,"Brownsville CCD, Cameron County, Texas",59733.0,38635.0,21098.0,061,90480,48
+4806191115,"East Cameron CCD, Cameron County, Texas",7426.0,5192.0,2234.0,061,91115,48
+4806193245,"Rio Hondo CCD, Cameron County, Texas",3036.0,2571.0,465.0,061,93245,48
+4812191010,"Denton CCD, Denton County, Texas",37797.0,15955.0,21842.0,121,91010,48
+4812193425,"Sanger CCD, Denton County, Texas",7488.0,5698.0,1790.0,121,93425,48
+4812191970,"Justin-Roanoke CCD, Denton County, Texas",21391.0,17204.0,4187.0,121,91970,48
+4812193035,"Pilot Point-Aubrey CCD, Denton County, Texas",35539.0,28864.0,6675.0,121,93035,48
+4817791565,"Gonzales CCD, Gonzales County, Texas",3452.0,2108.0,1344.0,177,91565,48
+4817793595,"Smiley CCD, Gonzales County, Texas",336.0,243.0,93.0,177,93595,48
+4817794060,"Waelder CCD, Gonzales County, Texas",633.0,508.0,125.0,177,94060,48
+4817191725,"Harper CCD, Gillespie County, Texas",1927.0,1718.0,209.0,171,91725,48
+4817191395,"Fredericksburg CCD, Gillespie County, Texas",7149.0,5007.0,2142.0,171,91395,48
+4817792760,"Nixon CCD, Gonzales County, Texas",1264.0,884.0,380.0,177,92760,48
+4823994005,"Vanderbilt CCD, Jackson County, Texas",474.0,321.0,153.0,239,94005,48
+4823991175,"Edna-Cordele CCD, Jackson County, Texas",2764.0,1836.0,928.0,239,91175,48
+4823991450,"Ganado CCD, Jackson County, Texas",1021.0,783.0,238.0,239,91450,48
+4826592015,"Kerrville CCD, Kerr County, Texas",14608.0,9926.0,4682.0,265,92015,48
+4830592880,"O'Donnell CCD, Lynn County, Texas",408.0,295.0,113.0,305,92880,48
+4830593820,"Tahoka CCD, Lynn County, Texas",1455.0,976.0,479.0,305,93820,48
+4830594230,"Wilson CCD, Lynn County, Texas",284.0,204.0,80.0,305,94230,48
+4831193920,"Tilden CCD, McMullen County, Texas",194.0,143.0,51.0,311,93920,48
+4850392895,"Olney CCD, Young County, Texas",1452.0,952.0,500.0,503,92895,48
+4850391600,"Graham CCD, Young County, Texas",4965.0,4085.0,880.0,503,91600,48
+4850391935,"Jean-Loving CCD, Young County, Texas",219.0,206.0,13.0,503,91935,48
+4850392735,"Newcastle CCD, Young County, Texas",430.0,287.0,143.0,503,92735,48
+4850594310,"Zapata CCD, Zapata County, Texas",4210.0,3025.0,1185.0,505,94310,48
+4850593455,"San Ygnacio CCD, Zapata County, Texas",247.0,197.0,50.0,505,93455,48
+4825191540,"Godley CCD, Johnson County, Texas",1494.0,1192.0,302.0,251,91540,48
+4825190535,"Burleson-Joshua CCD, Johnson County, Texas",21382.0,16433.0,4949.0,251,90535,48
+4825190750,"Cleburne CCD, Johnson County, Texas",16100.0,9747.0,6353.0,251,90750,48
+4825190050,"Alvarado CCD, Johnson County, Texas",14072.0,11576.0,2496.0,251,90050,48
+4825191625,"Grandview CCD, Johnson County, Texas",2419.0,2033.0,386.0,251,91625,48
+4822191610,"Granbury West CCD, Hood County, Texas",3730.0,2643.0,1087.0,221,91610,48
+4822191605,"Granbury East CCD, Hood County, Texas",17797.0,13730.0,4067.0,221,91605,48
+4822393790,"Sulphur Springs CCD, Hopkins County, Texas",7617.0,4560.0,3057.0,223,93790,48
+4822393030,"Pickton-Pine Forest CCD, Hopkins County, Texas",1709.0,1256.0,453.0,223,93030,48
+4822390930,"Cumby CCD, Hopkins County, Texas",1630.0,1356.0,274.0,223,90930,48
+4822392815,"North Hopkins-Sulphur Bluff CCD, Hopkins County, Texas",1131.0,1016.0,115.0,223,92815,48
+4822393522,"Seymore CCD, Hopkins County, Texas",1200.0,1021.0,179.0,223,93522,48
+4835590855,"Corpus Christi West CCD, Nueces County, Texas",4647.0,3766.0,881.0,355,90855,48
+4835793010,"Perryton West CCD, Ochiltree County, Texas",232.0,199.0,33.0,357,93010,48
+4835793005,"Perryton East CCD, Ochiltree County, Texas",3317.0,2363.0,954.0,357,93005,48
+4826991670,"Guthrie CCD, King County, Texas",101.0,20.0,81.0,269,91670,48
+4835591080,"Driscoll CCD, Nueces County, Texas",751.0,584.0,167.0,355,91080,48
+4808991095,"Eagle Lake CCD, Colorado County, Texas",1675.0,1308.0,367.0,089,91095,48
+4808991470,"Garwood CCD, Colorado County, Texas",727.0,589.0,138.0,089,91470,48
+4808994120,"Weimar CCD, Colorado County, Texas",2024.0,1675.0,349.0,089,94120,48
+4808990800,"Columbus CCD, Colorado County, Texas",3177.0,2668.0,509.0,089,90800,48
+4840992470,"Mathis CCD, San Patricio County, Texas",2935.0,2097.0,838.0,409,92470,48
+4840993815,"Taft CCD, San Patricio County, Texas",1576.0,1009.0,567.0,409,93815,48
+4840993580,"Sinton-Odem CCD, San Patricio County, Texas",4719.0,3366.0,1353.0,409,93580,48
+4840990125,"Aransas Pass-Ingleside CCD, San Patricio County, Texas",7295.0,4730.0,2565.0,409,90125,48
+4837993075,"Point CCD, Rains County, Texas",1813.0,1306.0,507.0,379,93075,48
+4837991235,"Emory CCD, Rains County, Texas",2520.0,2040.0,480.0,379,91235,48
+4838190625,"Canyon CCD, Randall County, Texas",6305.0,3590.0,2715.0,381,90625,48
+4838190070,"Amarillo CCD, Randall County, Texas",42813.0,30713.0,12100.0,381,90070,48
+4838590600,"Camp Wood-Leakey CCD, Real County, Texas",1123.0,862.0,261.0,385,90600,48
+4841391190,"Eldorado West CCD, Schleicher County, Texas",501.0,399.0,102.0,413,91190,48
+4841391185,"Eldorado East CCD, Schleicher County, Texas",601.0,448.0,153.0,413,91185,48
+4843193745,"Sterling City CCD, Sterling County, Texas",462.0,393.0,69.0,431,93745,48
+4850790215,"Batesville CCD, Zavala County, Texas",300.0,246.0,54.0,507,90215,48
+4850790920,"Crystal City CCD, Zavala County, Texas",2711.0,1822.0,889.0,507,90920,48
+4850792140,"La Pryor CCD, Zavala County, Texas",525.0,384.0,141.0,507,92140,48
+4805793480,"Seadrift CCD, Calhoun County, Texas",1348.0,1096.0,252.0,057,93480,48
+4805793085,"Point Comfort CCD, Calhoun County, Texas",640.0,479.0,161.0,057,93085,48
+4805793105,"Port Lavaca CCD, Calhoun County, Texas",5114.0,3325.0,1789.0,057,93105,48
+4827592045,"Knox City CCD, Knox County, Texas",524.0,432.0,92.0,275,92045,48
+4827592695,"Munday CCD, Knox County, Texas",552.0,433.0,119.0,275,92695,48
+4827590265,"Benjamin CCD, Knox County, Texas",154.0,126.0,28.0,275,90265,48
+4827591585,"Goree CCD, Knox County, Texas",146.0,119.0,27.0,275,91585,48
+4830992355,"McGregor CCD, McLennan County, Texas",3252.0,2263.0,989.0,309,92355,48
+4830990175,"Axtell CCD, McLennan County, Texas",1376.0,1114.0,262.0,309,90175,48
+4830990715,"China Spring CCD, McLennan County, Texas",1884.0,1581.0,303.0,309,90715,48
+4830991210,"Elm Mott CCD, McLennan County, Texas",2252.0,1660.0,592.0,309,91210,48
+4830990895,"Crawford CCD, McLennan County, Texas",1801.0,1512.0,289.0,309,90895,48
+4830992435,"Mart CCD, McLennan County, Texas",2051.0,1521.0,530.0,309,92435,48
+4830994140,"West CCD, McLennan County, Texas",2800.0,2070.0,730.0,309,94140,48
+4830994055,"Waco CCD, McLennan County, Texas",68448.0,35892.0,32556.0,309,94055,48
+4807390045,"Alto CCD, Cherokee County, Texas",1220.0,834.0,386.0,073,90045,48
+4807392745,"New Summerfield CCD, Cherokee County, Texas",1542.0,1232.0,310.0,073,92745,48
+4807392670,"Mount Selman CCD, Cherokee County, Texas",2392.0,1980.0,412.0,073,92670,48
+4807393370,"Rusk CCD, Cherokee County, Texas",3731.0,2951.0,780.0,073,93370,48
+4807394135,"Wells CCD, Cherokee County, Texas",675.0,445.0,230.0,073,94135,48
+4807391910,"Jacksonville CCD, Cherokee County, Texas",8325.0,5730.0,2595.0,073,91910,48
+4809591160,"Eden-Millersview CCD, Concho County, Texas",526.0,327.0,199.0,095,91160,48
+4809591255,"Eola-Paint Rock CCD, Concho County, Texas",265.0,237.0,28.0,095,91255,48
+4811992985,"Pecan Gap CCD, Delta County, Texas",613.0,584.0,29.0,119,92985,48
+4811990840,"Cooper CCD, Delta County, Texas",1422.0,987.0,435.0,119,90840,48
+4813793305,"Rocksprings South CCD, Edwards County, Texas",159.0,159.0,0.0,137,93305,48
+4813793300,"Rocksprings North CCD, Edwards County, Texas",475.0,392.0,83.0,137,93300,48
+4813391590,"Gorman CCD, Eastland County, Texas",933.0,759.0,174.0,133,91590,48
+4813393190,"Ranger CCD, Eastland County, Texas",1097.0,727.0,370.0,133,93190,48
+4813393250,"Rising Star CCD, Eastland County, Texas",729.0,589.0,140.0,133,93250,48
+4813391135,"Eastland CCD, Eastland County, Texas",1805.0,1360.0,445.0,133,91135,48
+4813390725,"Cisco CCD, Eastland County, Texas",1873.0,1382.0,491.0,133,90725,48
+4825393720,"Stamford CCD, Jones County, Texas",1433.0,1006.0,427.0,253,93720,48
+4825391745,"Hawley-Noodle CCD, Jones County, Texas",1907.0,1420.0,487.0,253,91745,48
+4825390110,"Anson CCD, Jones County, Texas",1113.0,844.0,269.0,253,90110,48
+4806594195,"White Deer-Groom CCD, Carson County, Texas",937.0,817.0,120.0,065,94195,48
+4806592965,"Panhandle CCD, Carson County, Texas",1355.0,1131.0,224.0,065,92965,48
+4815593890,"Thalia CCD, Foard County, Texas",103.0,88.0,15.0,155,93890,48
+4815590915,"Crowell CCD, Foard County, Texas",459.0,363.0,96.0,155,90915,48
+4816193850,"Teague CCD, Freestone County, Texas",2741.0,2075.0,666.0,161,93850,48
+4816190555,"Butler CCD, Freestone County, Texas",752.0,622.0,130.0,161,90555,48
+4816194290,"Wortham CCD, Freestone County, Texas",875.0,544.0,331.0,161,94290,48
+4816191275,"Fairfield CCD, Freestone County, Texas",2864.0,2168.0,696.0,161,91275,48
+4817594115,"Weesatche-Ander CCD, Goliad County, Texas",682.0,615.0,67.0,175,94115,48
+4817591560,"Goliad South CCD, Goliad County, Texas",333.0,251.0,82.0,175,91560,48
+4817591555,"Goliad North CCD, Goliad County, Texas",1740.0,1390.0,350.0,175,91555,48
+4833590795,"Colorado City CCD, Mitchell County, Texas",1962.0,1466.0,496.0,335,90795,48
+4833592285,"Loraine CCD, Mitchell County, Texas",375.0,306.0,69.0,335,92285,48
+4833594155,"Westbrook CCD, Mitchell County, Texas",302.0,233.0,69.0,335,94155,48
+4844992665,"Mount Pleasant CCD, Titus County, Texas",7231.0,4315.0,2916.0,449,92665,48
+4844993825,"Talco CCD, Titus County, Texas",709.0,575.0,134.0,449,93825,48
+4844994235,"Winfield CCD, Titus County, Texas",895.0,770.0,125.0,449,94235,48
+4844990830,"Cookville CCD, Titus County, Texas",1840.0,1503.0,337.0,449,90830,48
+4804593575,"Silverton CCD, Briscoe County, Texas",412.0,346.0,66.0,045,93575,48
+4804593175,"Quitaque CCD, Briscoe County, Texas",252.0,158.0,94.0,045,93175,48
+4828592655,"Moulton CCD, Lavaca County, Texas",978.0,714.0,264.0,285,92655,48
+4828593560,"Shiner CCD, Lavaca County, Texas",1355.0,1103.0,252.0,285,93560,48
+4828594300,"Yoakum CCD, Lavaca County, Texas",2406.0,1809.0,597.0,285,94300,48
+4828591680,"Hallettsville CCD, Lavaca County, Texas",2945.0,2175.0,770.0,285,91680,48
+4829192195,"Liberty-Dayton CCD, Liberty County, Texas",13340.0,10129.0,3211.0,291,92195,48
+4829190945,"Daisetta CCD, Liberty County, Texas",1194.0,971.0,223.0,291,90945,48
+4825392320,"Lueders CCD, Jones County, Texas",271.0,227.0,44.0,253,92320,48
+4825391695,"Hamlin CCD, Jones County, Texas",911.0,665.0,246.0,253,91695,48
+4824393985,"Valentine CCD, Jeff Davis County, Texas",58.0,33.0,25.0,243,93985,48
+4824391355,"Fort Davis CCD, Jeff Davis County, Texas",949.0,776.0,173.0,243,91355,48
+4824793660,"South Jim Hogg CCD, Jim Hogg County, Texas",13.0,13.0,0.0,247,93660,48
+4824792820,"North Jim Hogg CCD, Jim Hogg County, Texas",1574.0,1192.0,382.0,247,92820,48
+4824992910,"Orange Grove-Sandia CCD, Jim Wells County, Texas",2792.0,2205.0,587.0,249,92910,48
+4824993140,"Premont CCD, Jim Wells County, Texas",1107.0,880.0,227.0,249,93140,48
+4824990035,"Alice CCD, Jim Wells County, Texas",9715.0,6362.0,3353.0,249,90035,48
+4833994220,"Willis CCD, Montgomery County, Texas",13188.0,10443.0,2745.0,339,94220,48
+4833993655,"Southeast Montgomery CCD, Montgomery County, Texas",131105.0,86336.0,44769.0,339,93655,48
+4833992375,"Magnolia CCD, Montgomery County, Texas",19261.0,16592.0,2669.0,339,92375,48
+4833992625,"Montgomery CCD, Montgomery County, Texas",23307.0,19711.0,3596.0,339,92625,48
+4811193885,"Texline CCD, Dallam County, Texas",268.0,190.0,78.0,111,93885,48
+4811190955,"Dalhart CCD, Dallam County, Texas",2164.0,1260.0,904.0,111,90955,48
+4812790310,"Big Wells CCD, Dimmit County, Texas",271.0,222.0,49.0,127,90310,48
+4812790635,"Carrizo Springs CCD, Dimmit County, Texas",2713.0,1869.0,844.0,127,90635,48
+4812790140,"Asherton CCD, Dimmit County, Texas",492.0,357.0,135.0,127,90140,48
+4847992145,"Laredo CCD, Webb County, Texas",44961.0,24388.0,20573.0,479,92145,48
+4815792915,"Orchard-Kendleton CCD, Fort Bend County, Texas",1293.0,856.0,437.0,157,92915,48
+4815793715,"Stafford-Missouri City CCD, Fort Bend County, Texas",47296.0,36974.0,10322.0,157,93715,48
+4815793780,"Sugar Land CCD, Fort Bend County, Texas",88692.0,68082.0,20610.0,157,93780,48
+4815792715,"Needville CCD, Fort Bend County, Texas",4662.0,3659.0,1003.0,157,92715,48
+4815793337,"Rosenberg-Richmond CCD, Fort Bend County, Texas",31821.0,22041.0,9780.0,157,93337,48
+4815791415,"Fulshear-Simonton CCD, Fort Bend County, Texas",48567.0,41922.0,6645.0,157,91415,48
+4829190755,"Cleveland CCD, Liberty County, Texas",9526.0,6748.0,2778.0,291,90755,48
+4801190740,"Claude North CCD, Armstrong County, Texas",192.0,149.0,43.0,011,90740,48
+4801190745,"Claude South CCD, Armstrong County, Texas",510.0,420.0,90.0,011,90745,48
+4829191705,"Hardin-Rye CCD, Liberty County, Texas",1914.0,1592.0,322.0,291,91705,48
+4844592495,"Meadow CCD, Terry County, Texas",368.0,286.0,82.0,445,92495,48
+4844590470,"Brownfield CCD, Terry County, Texas",3774.0,2608.0,1166.0,445,90470,48
+4826590675,"Center Point CCD, Kerr County, Texas",1521.0,1258.0,263.0,265,90675,48
+4826591875,"Ingram CCD, Kerr County, Texas",4451.0,3476.0,975.0,265,91875,48
+4833190540,"Burlington CCD, Milam County, Texas",542.0,436.0,106.0,331,90540,48
+4833193895,"Thorndale CCD, Milam County, Texas",1147.0,868.0,279.0,331,93895,48
+4833191485,"Gause-Milano CCD, Milam County, Texas",998.0,826.0,172.0,331,91485,48
+4833190590,"Cameron CCD, Milam County, Texas",2520.0,1614.0,906.0,331,90590,48
+4833190960,"Davilla CCD, Milam County, Texas",575.0,443.0,132.0,331,90960,48
+4833190505,"Buckholts CCD, Milam County, Texas",360.0,281.0,79.0,331,90505,48
+4833193290,"Rockdale CCD, Milam County, Texas",3295.0,1976.0,1319.0,331,93290,48
+4809390985,"De Leon CCD, Comanche County, Texas",1736.0,1386.0,350.0,093,90985,48
+4809390810,"Comanche CCD, Comanche County, Texas",2693.0,2129.0,564.0,093,90810,48
+4809391665,"Gustine CCD, Comanche County, Texas",678.0,487.0,191.0,093,91665,48
+4814593210,"Reagan CCD, Falls County, Texas",236.0,219.0,17.0,145,93210,48
+4814592425,"Marlin CCD, Falls County, Texas",2391.0,1494.0,897.0,145,92425,48
+4814593330,"Rosebud CCD, Falls County, Texas",938.0,695.0,243.0,145,93330,48
+4814593000,"Perry CCD, Falls County, Texas",224.0,215.0,9.0,145,93000,48
+4814590710,"Chilton CCD, Falls County, Texas",899.0,744.0,155.0,145,90710,48
+4814592300,"Lott CCD, Falls County, Texas",717.0,564.0,153.0,145,92300,48
+4804791245,"Encino CCD, Brooks County, Texas",118.0,95.0,23.0,047,91245,48
+4804791280,"Falfurrias CCD, Brooks County, Texas",1904.0,1148.0,756.0,047,91280,48
+4801594070,"Wallis CCD, Austin County, Texas",988.0,726.0,262.0,015,94070,48
+4801593490,"Sealy CCD, Austin County, Texas",4683.0,3370.0,1313.0,015,93490,48
+4801590250,"Bellville CCD, Austin County, Texas",3931.0,2865.0,1066.0,015,90250,48
+4826193465,"Sarita CCD, Kenedy County, Texas",152.0,43.0,109.0,261,93465,48
+4835590850,"Corpus Christi CCD, Nueces County, Texas",111069.0,62369.0,48700.0,355,90850,48
+4835593270,"Robstown CCD, Nueces County, Texas",3906.0,2255.0,1651.0,355,93270,48
+4835590315,"Bishop CCD, Nueces County, Texas",2101.0,1524.0,577.0,355,90315,48
+4835593095,"Port Aransas CCD, Nueces County, Texas",6383.0,3967.0,2416.0,355,93095,48
+4811393682,"Southwest Dallas CCD, Dallas County, Texas",328017.0,171172.0,156845.0,113,93682,48
+4811392792,"Northeast Dallas CCD, Dallas County, Texas",578162.0,286079.0,292083.0,113,92792,48
+4828992427,"Marquez CCD, Leon County, Texas",818.0,728.0,90.0,289,92427,48
+4809993157,"Purmela-Levita CCD, Coryell County, Texas",661.0,564.0,97.0,099,93157,48
+4842793239,"Rio Grande City CCD, Starr County, Texas",8366.0,6159.0,2207.0,427,93239,48
+4806991732,"Hart CCD, Castro County, Texas",683.0,404.0,279.0,069,91732,48
+4806991059,"Dimmitt CCD, Castro County, Texas",1779.0,1180.0,599.0,069,91059,48
+4818392193,"Liberty City CCD, Gregg County, Texas",2896.0,2210.0,686.0,183,92193,48
+4818392093,"Lakeport CCD, Gregg County, Texas",1927.0,1516.0,411.0,183,92093,48
+4803990094,"Angleton CCD, Brazoria County, Texas",13822.0,10257.0,3565.0,039,90094,48
+4835994018,"Vega CCD, Oldham County, Texas",508.0,379.0,129.0,359,94018,48
+4841193439,"San Saba CCD, San Saba County, Texas",1522.0,985.0,537.0,411,93439,48
+4841193231,"Richland Springs CCD, San Saba County, Texas",613.0,453.0,160.0,411,93231,48
+4840993103,"Portland-Gregory CCD, San Patricio County, Texas",6721.0,4344.0,2377.0,409,93103,48
+4847393137,"Prairie View-Waller CCD, Waller County, Texas",6289.0,4369.0,1920.0,473,93137,48
+4820590956,"Dalhart CCD, Hartley County, Texas",1444.0,954.0,490.0,205,90956,48
+4802993412,"San Antonio Northwest CCD, Bexar County, Texas",105433.0,63372.0,42061.0,029,93412,48
+4802993407,"San Antonio Central CCD, Bexar County, Texas",224926.0,120510.0,104416.0,029,93407,48
+4802993414,"San Antonio West CCD, Bexar County, Texas",58944.0,39264.0,19680.0,029,93414,48
+4802993413,"San Antonio South CCD, Bexar County, Texas",10918.0,7819.0,3099.0,029,93413,48
+4802993411,"San Antonio Northeast CCD, Bexar County, Texas",85342.0,52423.0,32919.0,029,93411,48
+4802993409,"San Antonio North CCD, Bexar County, Texas",132155.0,77038.0,55117.0,029,93409,48
+4802993408,"San Antonio East CCD, Bexar County, Texas",10171.0,8391.0,1780.0,029,93408,48
+4816993108,"Post East CCD, Garza County, Texas",804.0,425.0,379.0,169,93108,48
+4816993118,"Post West CCD, Garza County, Texas",911.0,690.0,221.0,169,93118,48
+4817193757,"Stonewall CCD, Gillespie County, Texas",1719.0,1509.0,210.0,171,93757,48
+4812193892,"The Colony CCD, Denton County, Texas",30116.0,23455.0,6661.0,121,93892,48
+4812192186,"Lewisville-Flower Mound CCD, Denton County, Texas",89913.0,60748.0,29165.0,121,92186,48
+4812190637,"Carrollton CCD, Denton County, Texas",52920.0,25598.0,27322.0,121,90637,48
+4837392226,"Livingston-Onalaska CCD, Polk County, Texas",15528.0,12042.0,3486.0,373,92226,48
+4819992332,"Lumberton CCD, Hardin County, Texas",6181.0,5013.0,1168.0,199,92332,48
+4817790868,"Cost-Wrightsboro CCD, Gonzales County, Texas",482.0,360.0,122.0,177,90868,48
+4817791733,"Harwood-Ottine CCD, Gonzales County, Texas",851.0,719.0,132.0,177,91733,48
+4818792793,"Northeast Guadalupe CCD, Guadalupe County, Texas",3135.0,2412.0,723.0,187,92793,48
+4801591873,"Industry CCD, Austin County, Texas",1419.0,1214.0,205.0,015,91873,48
+4848191112,"East Bernard CCD, Wharton County, Texas",2137.0,1664.0,473.0,481,91112,48
+4848190368,"Boling-Newgulf CCD, Wharton County, Texas",1658.0,1281.0,377.0,481,90368,48
+4840193148,"Price-Turnertown CCD, Rusk County, Texas",865.0,660.0,205.0,401,93148,48
+4814391087,"Duffau-Clairette CCD, Erath County, Texas",738.0,571.0,167.0,143,91087,48
+4830992631,"Moody-Lorena CCD, McLennan County, Texas",4344.0,3527.0,817.0,309,92631,48
+4805791975,"Kamey-Sixmile CCD, Calhoun County, Texas",631.0,558.0,73.0,057,91975,48
+4831592092,"Lake O' the Pines CCD, Marion County, Texas",2459.0,2008.0,451.0,315,92092,48
+4831591937,"Jefferson CCD, Marion County, Texas",1998.0,1520.0,478.0,315,91937,48
+4849190657,"Cedar Park-Liberty Hill CCD, Williamson County, Texas",42161.0,30221.0,11940.0,491,90657,48
+4849193343,"Round Rock-Georgetown CCD, Williamson County, Texas",97056.0,62481.0,34575.0,491,93343,48
+4821392150,"LaRue-Poynor CCD, Henderson County, Texas",2754.0,2198.0,556.0,213,92150,48
+4821390687,"Chandler-Brownsboro CCD, Henderson County, Texas",4688.0,3810.0,878.0,213,90687,48
+4824592070,"LaBelle CCD, Jefferson County, Texas",2581.0,2081.0,500.0,245,92070,48
+4834592454,"Matador CCD, Motley County, Texas",432.0,307.0,125.0,345,92454,48
+4834592822,"North Motley CCD, Motley County, Texas",37.0,29.0,8.0,345,92822,48
+4842193759,"Stratford CCD, Sherman County, Texas",785.0,643.0,142.0,421,93759,48
+4842193883,"Texhoma CCD, Sherman County, Texas",278.0,217.0,61.0,421,93883,48
+4848992155,"Lasara CCD, Willacy County, Texas",372.0,321.0,51.0,489,92155,48
+4809190627,"Canyon Lake CCD, Comal County, Texas",18869.0,16223.0,2646.0,091,90627,48
+4817992172,"Lefors CCD, Gray County, Texas",433.0,359.0,74.0,179,92172,48
+4813594173,"West Odessa-Goldsmith CCD, Ector County, Texas",8582.0,6861.0,1721.0,135,94173,48
+4847992146,"Laredo North-Webb CCD, Webb County, Texas",10648.0,8283.0,2365.0,479,92146,48
+4847992147,"Laredo South-El Cenizo CCD, Webb County, Texas",16770.0,12930.0,3840.0,479,92147,48
+4803792476,"Maud-Redwater CCD, Bowie County, Texas",3721.0,3012.0,709.0,037,92476,48
+4841591339,"Fluvanna-Ira CCD, Scurry County, Texas",545.0,430.0,115.0,415,91339,48
+4835990017,"Adrian CCD, Oldham County, Texas",73.0,50.0,23.0,359,90017,48
+4807592777,"North Childress CCD, Childress County, Texas",10.0,7.0,3.0,075,92777,48
+4845393688,"Southwest Travis CCD, Travis County, Texas",23774.0,19296.0,4478.0,453,93688,48
+4845392857,"Northwest Travis CCD, Travis County, Texas",42547.0,28782.0,13765.0,453,92857,48
+4845392807,"Northeast Travis CCD, Travis County, Texas",42178.0,30731.0,11447.0,453,92807,48
+4832992566,"Midland South CCD, Midland County, Texas",5839.0,4805.0,1034.0,329,92566,48
+4818793643,"Southeast Guadalupe CCD, Guadalupe County, Texas",1528.0,1353.0,175.0,187,93643,48
+4818793687,"Southwest Guadalupe CCD, Guadalupe County, Texas",3164.0,2857.0,307.0,187,93687,48
+4824593097,"Port Arthur CCD, Jefferson County, Texas",40631.0,26077.0,14554.0,245,93097,48
+4836793701,"Springtown-Reno CCD, Parker County, Texas",14015.0,11118.0,2897.0,367,93701,48
+4819391800,"Hico CCD, Hamilton County, Texas",976.0,638.0,338.0,193,91800,48
+4819391690,"Hamilton CCD, Hamilton County, Texas",2181.0,1751.0,430.0,193,91690,48
+4819791580,"Goodlett CCD, Hardeman County, Texas",54.0,54.0,0.0,197,91580,48
+4819790705,"Chillicothe CCD, Hardeman County, Texas",368.0,272.0,96.0,197,90705,48
+4819793160,"Quanah CCD, Hardeman County, Texas",1111.0,824.0,287.0,197,93160,48
+4849790060,"Alvord CCD, Wise County, Texas",959.0,756.0,203.0,497,90060,48
+4849790445,"Bridgeport CCD, Wise County, Texas",7685.0,5828.0,1857.0,497,90445,48
+4849790975,"Decatur CCD, Wise County, Texas",5921.0,4425.0,1496.0,497,90975,48
+4849790395,"Boyd-Rhome CCD, Wise County, Texas",7126.0,5633.0,1493.0,497,90395,48
+4823592540,"Mertzon North CCD, Irion County, Texas",63.0,58.0,5.0,235,92540,48
+4823592545,"Mertzon South CCD, Irion County, Texas",585.0,456.0,129.0,235,92545,48
+4827393260,"Riviera CCD, Kleberg County, Texas",647.0,519.0,128.0,273,93260,48
+4827392035,"Kingsville CCD, Kleberg County, Texas",10311.0,5289.0,5022.0,273,92035,48
+4848993435,"San Perlita CCD, Willacy County, Texas",258.0,226.0,32.0,489,93435,48
+4848993495,"Sebastian CCD, Willacy County, Texas",693.0,626.0,67.0,489,93495,48
+4848992335,"Lyford CCD, Willacy County, Texas",1000.0,838.0,162.0,489,92335,48
+4800191390,"Frankston CCD, Anderson County, Texas",1878.0,1618.0,260.0,001,91390,48
+4800192615,"Montalba-Tennessee Colony CCD, Anderson County, Texas",1556.0,1110.0,446.0,001,92615,48
+4800192945,"Palestine CCD, Anderson County, Texas",10057.0,6538.0,3519.0,001,92945,48
+4813991250,"Ennis CCD, Ellis County, Texas",9021.0,5773.0,3248.0,139,91250,48
+4813991310,"Ferris CCD, Ellis County, Texas",4504.0,3480.0,1024.0,139,91310,48
+4813992490,"Maypearl CCD, Ellis County, Texas",2221.0,1931.0,290.0,139,92490,48
+4813994090,"Waxahachie CCD, Ellis County, Texas",29102.0,21230.0,7872.0,139,94090,48
+4813992570,"Midlothian CCD, Ellis County, Texas",8380.0,6544.0,1836.0,139,92570,48
+4813991895,"Italy CCD, Ellis County, Texas",1497.0,1020.0,477.0,139,91895,48
+4823992165,"La Ward-Lolita CCD, Jackson County, Texas",973.0,710.0,263.0,239,92165,48
+4847790435,"Brenham CCD, Washington County, Texas",7345.0,5250.0,2095.0,477,90435,48
+4847791490,"Gay Hill-Independence CCD, Washington County, Texas",1305.0,1213.0,92.0,477,91490,48
+4847794080,"Washington-Chappell Hill CCD, Washington County, Texas",1843.0,1615.0,228.0,477,94080,48
+4847790550,"Burton CCD, Washington County, Texas",1712.0,1320.0,392.0,477,90550,48
+4834392705,"Naples CCD, Morris County, Texas",1752.0,1336.0,416.0,343,92705,48
+4834390940,"Daingerfield CCD, Morris County, Texas",3272.0,2396.0,876.0,343,90940,48
+4836190440,"Bridge City-Orangefield CCD, Orange County, Texas",6002.0,5015.0,987.0,361,90440,48
+4836192905,"Orange CCD, Orange County, Texas",11720.0,7428.0,4292.0,361,92905,48
+4836192480,"Mauriceville CCD, Orange County, Texas",3908.0,3505.0,403.0,361,92480,48
+4836194050,"Vidor CCD, Orange County, Texas",10642.0,8361.0,2281.0,361,94050,48
+4842990420,"Breckenridge North CCD, Stephens County, Texas",2805.0,2169.0,636.0,429,90420,48
+4842990425,"Breckenridge South CCD, Stephens County, Texas",556.0,484.0,72.0,429,90425,48
+4849592010,"Kermit CCD, Winkler County, Texas",2246.0,1750.0,496.0,495,92010,48
+4849594240,"Wink CCD, Winkler County, Texas",278.0,224.0,54.0,495,94240,48
+4820191835,"Houston CCD, Harris County, Texas",1175769.0,594804.0,580965.0,201,91835,48
+4820193645,"Southeast Harris CCD, Harris County, Texas",33756.0,24086.0,9670.0,201,93645,48
+4820190225,"Baytown CCD, Harris County, Texas",26030.0,14189.0,11841.0,201,90225,48
+4820192795,"Northeast Harris CCD, Harris County, Texas",22452.0,17644.0,4808.0,201,92795,48
+4820192975,"Pasadena CCD, Harris County, Texas",45921.0,24269.0,21652.0,201,92975,48
+4820192845,"Northwest Harris CCD, Harris County, Texas",258885.0,180637.0,78248.0,201,92845,48
+4800390085,"Andrews North CCD, Andrews County, Texas",4496.0,3209.0,1287.0,003,90085,48
+4800390090,"Andrews South CCD, Andrews County, Texas",917.0,772.0,145.0,003,90090,48
+4805392395,"Marble Falls CCD, Burnet County, Texas",8996.0,6821.0,2175.0,053,92395,48
+4805390275,"Bertram CCD, Burnet County, Texas",1423.0,1181.0,242.0,053,90275,48
+4805390450,"Briggs CCD, Burnet County, Texas",716.0,580.0,136.0,053,90450,48
+4805390545,"Burnet CCD, Burnet County, Texas",5410.0,4028.0,1382.0,053,90545,48

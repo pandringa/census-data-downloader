@@ -1,0 +1,171 @@
+geoid,name,housing_units,owner_occupied,renter_occupied,county,county subdivision,state
+1604393128,"St. Anthony CCD, Fremont County, Idaho",0.0,0.0,0.0,043,93128,16
+1606593381,"Sugar City CCD, Madison County, Idaho",0.0,0.0,0.0,065,93381,16
+1607992346,"Mullan CCD, Shoshone County, Idaho",0.0,0.0,0.0,079,92346,16
+1607992392,"Murray CCD, Shoshone County, Idaho",0.0,0.0,0.0,079,92392,16
+1607991794,"Kellogg CCD, Shoshone County, Idaho",0.0,0.0,0.0,079,91794,16
+1607990230,"Avery-Clarkia CCD, Shoshone County, Idaho",0.0,0.0,0.0,079,90230,16
+1604990644,"Cottonwood CCD, Idaho County, Idaho",0.0,0.0,0.0,049,90644,16
+1604991334,"Grangeville CCD, Idaho County, Idaho",0.0,0.0,0.0,049,91334,16
+1604990897,"Elk City CCD, Idaho County, Idaho",0.0,0.0,0.0,049,90897,16
+1604993013,"Riggins CCD, Idaho County, Idaho",0.0,0.0,0.0,049,93013,16
+1604992553,"Nez Perce CCD, Idaho County, Idaho",0.0,0.0,0.0,049,92553,16
+1608193611,"Victor CCD, Teton County, Idaho",20.0,0.0,20.0,081,93611,16
+1608193473,"Tetonia CCD, Teton County, Idaho",0.0,0.0,0.0,081,93473,16
+1608190782,"Driggs CCD, Teton County, Idaho",0.0,0.0,0.0,081,90782,16
+1607791127,"Fort Hall CCD, Power County, Idaho",1.0,1.0,0.0,077,91127,16
+1607793082,"Rockland CCD, Power County, Idaho",0.0,0.0,0.0,077,93082,16
+1607790092,"American Falls CCD, Power County, Idaho",19.0,0.0,19.0,077,90092,16
+1607790115,"Arbon CCD, Power County, Idaho",0.0,0.0,0.0,077,90115,16
+1608793703,"Weiser CCD, Washington County, Idaho",0.0,0.0,0.0,087,93703,16
+1608790506,"Cambridge CCD, Washington County, Idaho",0.0,0.0,0.0,087,90506,16
+1608792139,"Midvale CCD, Washington County, Idaho",0.0,0.0,0.0,087,92139,16
+1603190046,"Albion CCD, Cassia County, Idaho",0.0,0.0,0.0,031,90046,16
+1603190460,"Burley CCD, Cassia County, Idaho",0.0,0.0,0.0,031,90460,16
+1607191472,"Holbrook CCD, Oneida County, Idaho",0.0,0.0,0.0,071,91472,16
+1607192047,"Malad City CCD, Oneida County, Idaho",0.0,0.0,0.0,071,92047,16
+1603190759,"Declo CCD, Cassia County, Idaho",0.0,0.0,0.0,031,90759,16
+1603192645,"Oakley CCD, Cassia County, Idaho",0.0,0.0,0.0,031,92645,16
+1604590966,"Emmett Valley CCD, Gem County, Idaho",0.0,0.0,0.0,045,90966,16
+1604590943,"Emmett Bench CCD, Gem County, Idaho",0.0,0.0,0.0,045,90943,16
+1604593427,"Sweet CCD, Gem County, Idaho",0.0,0.0,0.0,045,93427,16
+1606392967,"Richfield CCD, Lincoln County, Idaho",0.0,0.0,0.0,063,92967,16
+1606393243,"Shoshone CCD, Lincoln County, Idaho",0.0,0.0,0.0,063,93243,16
+1608592001,"McCall CCD, Valley County, Idaho",0.0,0.0,0.0,085,92001,16
+1608590552,"Cascade CCD, Valley County, Idaho",0.0,0.0,0.0,085,90552,16
+1608593358,"Stibnite CCD, Valley County, Idaho",0.0,0.0,0.0,085,93358,16
+1604192185,"Mink Creek CCD, Franklin County, Idaho",0.0,0.0,0.0,041,92185,16
+1604190713,"Dayton CCD, Franklin County, Idaho",0.0,0.0,0.0,041,90713,16
+1600390667,"Council CCD, Adams County, Idaho",13.0,0.0,13.0,003,90667,16
+1600392484,"New Meadows CCD, Adams County, Idaho",0.0,0.0,0.0,003,92484,16
+1604192921,"Preston CCD, Franklin County, Idaho",33.0,33.0,0.0,041,92921,16
+1606991909,"Leland CCD, Nez Perce County, Idaho",0.0,0.0,0.0,069,91909,16
+1606992599,"Nez Perce CCD, Nez Perce County, Idaho",9.0,3.0,6.0,069,92599,16
+1606991955,"Lewiston CCD, Nez Perce County, Idaho",16.0,16.0,0.0,069,91955,16
+1605390874,"Eden-Hazelton CCD, Jerome County, Idaho",0.0,0.0,0.0,053,90874,16
+1605391748,"Jerome CCD, Jerome County, Idaho",0.0,0.0,0.0,053,91748,16
+1605391587,"Hunt CCD, Jerome County, Idaho",0.0,0.0,0.0,053,91587,16
+1605590621,"Coeur d'Alene CCD, Kootenai County, Idaho",45.0,20.0,25.0,055,90621,16
+1605592875,"Post Falls-Rathdrum CCD, Kootenai County, Idaho",53.0,0.0,53.0,055,92875,16
+1605593887,"Worley CCD, Kootenai County, Idaho",0.0,0.0,0.0,055,93887,16
+1605591426,"Harrison CCD, Kootenai County, Idaho",11.0,0.0,11.0,055,91426,16
+1605593312,"Spirit Lake-Athol CCD, Kootenai County, Idaho",0.0,0.0,0.0,055,93312,16
+1606190690,"Craigmont CCD, Lewis County, Idaho",0.0,0.0,0.0,061,90690,16
+1606193864,"Winchester CCD, Lewis County, Idaho",0.0,0.0,0.0,061,93864,16
+1606191771,"Kamiah CCD, Lewis County, Idaho",0.0,0.0,0.0,061,91771,16
+1606792760,"Paul CCD, Minidoka County, Idaho",0.0,0.0,0.0,067,92760,16
+1606793105,"Rupert CCD, Minidoka County, Idaho",11.0,0.0,11.0,067,93105,16
+1606792162,"Minidoka CCD, Minidoka County, Idaho",0.0,0.0,0.0,067,92162,16
+1606791449,"Heyburn CCD, Minidoka County, Idaho",0.0,0.0,0.0,067,91449,16
+1608391495,"Hollister CCD, Twin Falls County, Idaho",5.0,5.0,0.0,083,91495,16
+1608390437,"Buhl CCD, Twin Falls County, Idaho",0.0,0.0,0.0,083,90437,16
+1608392415,"Murtaugh CCD, Twin Falls County, Idaho",0.0,0.0,0.0,083,92415,16
+1608393818,"West Salmon Falls CCD, Twin Falls County, Idaho",0.0,0.0,0.0,083,93818,16
+1608391840,"Kimberly CCD, Twin Falls County, Idaho",0.0,0.0,0.0,083,91840,16
+1608390989,"Filer CCD, Twin Falls County, Idaho",0.0,0.0,0.0,083,90989,16
+1608393565,"Twin Falls CCD, Twin Falls County, Idaho",146.0,0.0,146.0,083,93565,16
+1607392369,"Murphy CCD, Owyhee County, Idaho",0.0,0.0,0.0,073,92369,16
+1601390529,"Carey CCD, Blaine County, Idaho",0.0,0.0,0.0,013,90529,16
+1607391311,"Grand View CCD, Owyhee County, Idaho",0.0,0.0,0.0,073,91311,16
+1607392070,"Marsing CCD, Owyhee County, Idaho",0.0,0.0,0.0,073,92070,16
+1607391518,"Homedale CCD, Owyhee County, Idaho",0.0,0.0,0.0,073,91518,16
+1607390414,"Bruneau CCD, Owyhee County, Idaho",0.0,0.0,0.0,073,90414,16
+1601391817,"Ketchum CCD, Blaine County, Idaho",0.0,0.0,0.0,013,91817,16
+1601391380,"Hailey-Bellevue CCD, Blaine County, Idaho",0.0,0.0,0.0,013,91380,16
+1601591633,"Idaho City CCD, Boise County, Idaho",0.0,0.0,0.0,015,91633,16
+1601591541,"Horseshoe Bend CCD, Boise County, Idaho",0.0,0.0,0.0,015,91541,16
+1601591173,"Garden Valley CCD, Boise County, Idaho",0.0,0.0,0.0,015,91173,16
+1602190391,"Bonners Ferry CCD, Boundary County, Idaho",0.0,0.0,0.0,021,90391,16
+1602192323,"Moyie Springs CCD, Boundary County, Idaho",0.0,0.0,0.0,021,92323,16
+1602391564,"Howe CCD, Butte County, Idaho",0.0,0.0,0.0,023,91564,16
+1602390138,"Arco CCD, Butte County, Idaho",6.0,6.0,0.0,023,90138,16
+1602991104,"Fort Hall CCD, Caribou County, Idaho",0.0,0.0,0.0,029,91104,16
+1602993266,"Soda Springs CCD, Caribou County, Idaho",0.0,0.0,0.0,029,93266,16
+1602990253,"Bancroft CCD, Caribou County, Idaho",0.0,0.0,0.0,029,90253,16
+1602991288,"Grace CCD, Caribou County, Idaho",0.0,0.0,0.0,029,91288,16
+1602993657,"Wayan CCD, Caribou County, Idaho",0.0,0.0,0.0,029,93657,16
+1604790322,"Bliss CCD, Gooding County, Idaho",0.0,0.0,0.0,047,90322,16
+1604793726,"Wendell CCD, Gooding County, Idaho",0.0,0.0,0.0,047,93726,16
+1604791265,"Gooding CCD, Gooding County, Idaho",0.0,0.0,0.0,047,91265,16
+1604791357,"Hagerman CCD, Gooding County, Idaho",4.0,0.0,4.0,047,91357,16
+1600191863,"Kuna CCD, Ada County, Idaho",0.0,0.0,0.0,001,91863,16
+1600190368,"Boise Hills CCD, Ada County, Idaho",0.0,0.0,0.0,001,90368,16
+1600190805,"Eagle CCD, Ada County, Idaho",126.0,33.0,93.0,001,90805,16
+1600190345,"Boise City CCD, Ada County, Idaho",1414.0,493.0,921.0,001,90345,16
+1600192668,"Orchard CCD, Ada County, Idaho",96.0,76.0,20.0,001,92668,16
+1600593289,"South Bannock CCD, Bannock County, Idaho",0.0,0.0,0.0,005,93289,16
+1600591058,"Fort Hall CCD, Bannock County, Idaho",0.0,0.0,0.0,005,91058,16
+1600591702,"Inkom CCD, Bannock County, Idaho",12.0,12.0,0.0,005,91702,16
+1601193220,"Shelley CCD, Bingham County, Idaho",0.0,0.0,0.0,011,93220,16
+1600792691,"Paris CCD, Bear Lake County, Idaho",0.0,0.0,0.0,007,92691,16
+1600792208,"Montpelier CCD, Bear Lake County, Idaho",18.0,10.0,8.0,007,92208,16
+1601192254,"Moreland CCD, Bingham County, Idaho",0.0,0.0,0.0,011,92254,16
+1600592852,"Pocatello CCD, Bannock County, Idaho",125.0,66.0,59.0,005,92852,16
+1600791219,"Georgetown CCD, Bear Lake County, Idaho",0.0,0.0,0.0,007,91219,16
+1601190023,"Aberdeen CCD, Bingham County, Idaho",0.0,0.0,0.0,011,90023,16
+1601190276,"Blackfoot CCD, Bingham County, Idaho",12.0,0.0,12.0,011,90276,16
+1601190207,"Atomic City CCD, Bingham County, Idaho",0.0,0.0,0.0,011,90207,16
+1601190069,"Alridge CCD, Bingham County, Idaho",0.0,0.0,0.0,011,90069,16
+1601191081,"Fort Hall CCD, Bingham County, Idaho",0.0,0.0,0.0,011,91081,16
+1601191012,"Firth CCD, Bingham County, Idaho",0.0,0.0,0.0,011,91012,16
+1601991656,"Idaho Falls CCD, Bonneville County, Idaho",190.0,18.0,172.0,019,91656,16
+1601993404,"Swan Valley CCD, Bonneville County, Idaho",0.0,0.0,0.0,019,93404,16
+1601993588,"Ucon CCD, Bonneville County, Idaho",0.0,0.0,0.0,019,93588,16
+1601991679,"Idaho Falls West CCD, Bonneville County, Idaho",0.0,0.0,0.0,019,91679,16
+1602593749,"West Camas CCD, Camas County, Idaho",0.0,0.0,0.0,025,93749,16
+1602590828,"East Camas CCD, Camas County, Idaho",0.0,0.0,0.0,025,90828,16
+1602791610,"Huston CCD, Canyon County, Idaho",0.0,0.0,0.0,027,91610,16
+1602792093,"Melba CCD, Canyon County, Idaho",0.0,0.0,0.0,027,92093,16
+1602792116,"Middleton CCD, Canyon County, Idaho",0.0,0.0,0.0,027,92116,16
+1602790483,"Caldwell CCD, Canyon County, Idaho",60.0,24.0,36.0,027,90483,16
+1602792438,"Nampa CCD, Canyon County, Idaho",206.0,143.0,63.0,027,92438,16
+1602793841,"Wilder CCD, Canyon County, Idaho",0.0,0.0,0.0,027,93841,16
+1602792622,"Notus CCD, Canyon County, Idaho",0.0,0.0,0.0,027,92622,16
+1602792714,"Parma CCD, Canyon County, Idaho",0.0,0.0,0.0,027,92714,16
+1603592806,"Pierce-Headquarters CCD, Clearwater County, Idaho",0.0,0.0,0.0,035,92806,16
+1603592530,"Nez Perce CCD, Clearwater County, Idaho",6.0,0.0,6.0,035,92530,16
+1603590920,"Elk River CCD, Clearwater County, Idaho",0.0,0.0,0.0,035,90920,16
+1603593680,"Weippe CCD, Clearwater County, Idaho",0.0,0.0,0.0,035,93680,16
+1605192990,"Rigby CCD, Jefferson County, Idaho",0.0,0.0,0.0,051,92990,16
+1605193036,"Ririe CCD, Jefferson County, Idaho",0.0,0.0,0.0,051,93036,16
+1605193059,"Roberts CCD, Jefferson County, Idaho",0.0,0.0,0.0,051,93059,16
+1605191978,"Lewisville-Menan CCD, Jefferson County, Idaho",0.0,0.0,0.0,051,91978,16
+1605791196,"Genesee CCD, Latah County, Idaho",0.0,0.0,0.0,057,91196,16
+1605792277,"Moscow CCD, Latah County, Idaho",72.0,0.0,72.0,057,92277,16
+1605793542,"Troy-Juliaetta-Kendrick CCD, Latah County, Idaho",2.0,0.0,2.0,057,93542,16
+1605790736,"Deary-Bovill CCD, Latah County, Idaho",0.0,0.0,0.0,057,90736,16
+1605792898,"Potlatch CCD, Latah County, Idaho",0.0,0.0,0.0,057,92898,16
+1605992737,"Patterson CCD, Lemhi County, Idaho",0.0,0.0,0.0,059,92737,16
+1605991035,"Forney CCD, Lemhi County, Idaho",0.0,0.0,0.0,059,91035,16
+1605991886,"Leadore CCD, Lemhi County, Idaho",0.0,0.0,0.0,059,91886,16
+1605993174,"Salmon CCD, Lemhi County, Idaho",13.0,0.0,13.0,059,93174,16
+1607591150,"Fruitland CCD, Payette County, Idaho",0.0,0.0,0.0,075,91150,16
+1607592783,"Payette CCD, Payette County, Idaho",0.0,0.0,0.0,075,92783,16
+1607592507,"New Plymouth CCD, Payette County, Idaho",0.0,0.0,0.0,075,92507,16
+1600993450,"Tensed CCD, Benewah County, Idaho",0.0,0.0,0.0,009,93450,16
+1600992829,"Plummer CCD, Benewah County, Idaho",3.0,0.0,3.0,009,92829,16
+1600993151,"St. Maries CCD, Benewah County, Idaho",0.0,0.0,0.0,009,93151,16
+1601790598,"Clark Fork CCD, Bonner County, Idaho",0.0,0.0,0.0,017,90598,16
+1601790299,"Blanchard-Glengary CCD, Bonner County, Idaho",0.0,0.0,0.0,017,90299,16
+1601792944,"Priest River CCD, Bonner County, Idaho",0.0,0.0,0.0,017,92944,16
+1601793197,"Sandpoint CCD, Bonner County, Idaho",0.0,0.0,0.0,017,93197,16
+1603390851,"East Clark CCD, Clark County, Idaho",0.0,0.0,0.0,033,90851,16
+1603393772,"West Clark CCD, Clark County, Idaho",0.0,0.0,0.0,033,93772,16
+1603793335,"Stanley CCD, Custer County, Idaho",0.0,0.0,0.0,037,93335,16
+1603790575,"Challis CCD, Custer County, Idaho",0.0,0.0,0.0,037,90575,16
+1603792024,"Mackay CCD, Custer County, Idaho",0.0,0.0,0.0,037,92024,16
+1603990184,"Atlanta CCD, Elmore County, Idaho",0.0,0.0,0.0,039,90184,16
+1603991242,"Glenns Ferry CCD, Elmore County, Idaho",0.0,0.0,0.0,039,91242,16
+1603992300,"Mountain Home CCD, Elmore County, Idaho",289.0,71.0,218.0,039,92300,16
+1604390161,"Ashton CCD, Fremont County, Idaho",0.0,0.0,0.0,043,90161,16
+1604393496,"Teton-Newdale CCD, Fremont County, Idaho",4.0,3.0,1.0,043,93496,16
+1604393910,"Yellowstone National Park CCD, Fremont County, Idaho",0.0,0.0,0.0,043,93910,16
+1604391725,"Island Park CCD, Fremont County, Idaho",0.0,0.0,0.0,043,91725,16
+1607390793,"Duck Valley CCD, Owyhee County, Idaho",0.0,0.0,0.0,073,90793,16
+1605192335,"Mud Lake-Hamer CCD, Jefferson County, Idaho",0.0,0.0,0.0,051,92335,16
+1606192576,"Nez Perce CCD, Lewis County, Idaho",0.0,0.0,0.0,061,92576,16
+1602193285,"South and West Boundary CCD, Boundary County, Idaho",0.0,0.0,0.0,021,93285,16
+1606193300,"South Lewis CCD, Lewis County, Idaho",0.0,0.0,0.0,061,93300,16
+1606590863,"East Madison CCD, Madison County, Idaho",0.0,0.0,0.0,065,90863,16
+1606592956,"Rexburg CCD, Madison County, Idaho",63.0,0.0,63.0,065,92956,16
+1607992679,"Osburn-Wallace CCD, Shoshone County, Idaho",6.0,6.0,0.0,079,92679,16

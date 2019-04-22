@@ -1,0 +1,358 @@
+geoid,name,total,white_alone,black_alone,american_indian_and_alaska_native,asian_alone,native_hawaiian_and_pacific_islander,other_alone,two_or_more_races,latino_alone,county,county subdivision,state,asian_all,other_all
+2500926150,"Gloucester city, Essex County, Massachusetts",29858.0,28255.0,311.0,0.0,331.0,0.0,93.0,298.0,570.0,009,26150,25,331.0,391.0
+2500927900,"Hamilton town, Essex County, Massachusetts",7991.0,7314.0,79.0,0.0,409.0,27.0,10.0,67.0,85.0,009,27900,25,436.0,77.0
+250115560,"Bernardston town, Franklin County, Massachusetts",2191.0,2128.0,10.0,0.0,8.0,0.0,0.0,4.0,41.0,011,5560,25,8.0,4.0
+2501125730,"Gill town, Franklin County, Massachusetts",1604.0,1483.0,69.0,0.0,12.0,0.0,0.0,34.0,6.0,011,25730,25,12.0,34.0
+2501129475,"Hawley town, Franklin County, Massachusetts",425.0,387.0,6.0,0.0,11.0,0.0,2.0,0.0,19.0,011,29475,25,11.0,2.0
+2501161135,"Shelburne town, Franklin County, Massachusetts",1935.0,1885.0,15.0,2.0,22.0,0.0,0.0,11.0,0.0,011,61135,25,22.0,13.0
+2501135180,"Leverett town, Franklin County, Massachusetts",1997.0,1895.0,13.0,4.0,32.0,0.0,2.0,27.0,24.0,011,35180,25,32.0,33.0
+2501129650,"Heath town, Franklin County, Massachusetts",770.0,738.0,0.0,1.0,2.0,0.0,0.0,12.0,17.0,011,29650,25,2.0,13.0
+2501135285,"Leyden town, Franklin County, Massachusetts",676.0,675.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,011,35285,25,0.0,0.0
+2501147835,"Northfield town, Franklin County, Massachusetts",3012.0,2866.0,13.0,0.0,57.0,0.0,0.0,20.0,56.0,011,47835,25,57.0,20.0
+2501572880,"Ware town, Hampshire County, Massachusetts",9863.0,8905.0,51.0,0.0,56.0,0.0,0.0,207.0,644.0,015,72880,25,56.0,207.0
+2501546330,"Northampton city, Hampshire County, Massachusetts",28548.0,23139.0,705.0,8.0,1477.0,0.0,10.0,734.0,2475.0,015,46330,25,1477.0,752.0
+2501554030,"Plainfield town, Hampshire County, Massachusetts",668.0,596.0,9.0,1.0,25.0,0.0,0.0,17.0,20.0,015,54030,25,25.0,18.0
+2501576380,"Westhampton town, Hampshire County, Massachusetts",1819.0,1767.0,0.0,3.0,12.0,0.0,0.0,18.0,19.0,015,76380,25,12.0,21.0
+2501582175,"Worthington town, Hampshire County, Massachusetts",1253.0,1206.0,3.0,0.0,12.0,3.0,7.0,12.0,10.0,015,82175,25,15.0,19.0
+250151325,"Amherst town, Hampshire County, Massachusetts",39880.0,28646.0,2229.0,120.0,5158.0,31.0,85.0,1176.0,2435.0,015,1325,25,5189.0,1381.0
+2501526535,"Granby town, Hampshire County, Massachusetts",6318.0,5820.0,0.0,0.0,18.0,0.0,46.0,40.0,394.0,015,26535,25,18.0,86.0
+2501526290,"Goshen town, Hampshire County, Massachusetts",1096.0,1050.0,0.0,0.0,11.0,0.0,0.0,0.0,35.0,015,26290,25,11.0,0.0
+2501513590,"Chesterfield town, Hampshire County, Massachusetts",1303.0,1272.0,0.0,0.0,0.0,4.0,0.0,0.0,27.0,015,13590,25,4.0,0.0
+2501527690,"Hadley town, Hampshire County, Massachusetts",5301.0,4515.0,387.0,24.0,68.0,0.0,0.0,36.0,271.0,015,27690,25,68.0,60.0
+2501531785,"Huntington town, Hampshire County, Massachusetts",1977.0,1800.0,40.0,5.0,0.0,8.0,5.0,99.0,20.0,015,31785,25,8.0,109.0
+2501552560,"Pelham town, Hampshire County, Massachusetts",1277.0,1199.0,7.0,2.0,0.0,0.0,0.0,10.0,59.0,015,52560,25,0.0,12.0
+2501564145,"South Hadley town, Hampshire County, Massachusetts",17737.0,15035.0,466.0,6.0,786.0,0.0,27.0,403.0,1014.0,015,64145,25,786.0,436.0
+250154825,"Belchertown town, Hampshire County, Massachusetts",14906.0,13900.0,56.0,0.0,451.0,0.0,54.0,252.0,193.0,015,4825,25,451.0,306.0
+2501540990,"Middlefield town, Hampshire County, Massachusetts",464.0,457.0,0.0,0.0,5.0,0.0,0.0,2.0,0.0,015,40990,25,5.0,2.0
+2501562745,"Southampton town, Hampshire County, Massachusetts",6090.0,5948.0,0.0,0.0,107.0,0.0,0.0,28.0,7.0,015,62745,25,107.0,28.0
+2501516040,"Cummington town, Hampshire County, Massachusetts",860.0,796.0,37.0,0.0,4.0,0.0,0.0,1.0,22.0,015,16040,25,4.0,1.0
+2501579915,"Williamsburg town, Hampshire County, Massachusetts",2481.0,2424.0,7.0,0.0,0.0,14.0,0.0,0.0,36.0,015,79915,25,14.0,0.0
+2501529265,"Hatfield town, Hampshire County, Massachusetts",3305.0,3179.0,57.0,0.0,24.0,0.0,0.0,26.0,19.0,015,29265,25,24.0,26.0
+250190,"County subdivisions not defined, Nantucket County, Massachusetts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,019,0,25,0.0,0.0
+2501943790,"Nantucket town, Nantucket County, Massachusetts",10912.0,8050.0,873.0,64.0,260.0,6.0,32.0,684.0,943.0,019,43790,25,266.0,780.0
+2502556585,"Revere city, Suffolk County, Massachusetts",53864.0,30255.0,2925.0,35.0,2796.0,0.0,536.0,1095.0,16222.0,025,56585,25,2796.0,1666.0
+2502513205,"Chelsea city, Suffolk County, Massachusetts",39272.0,8620.0,2301.0,54.0,1333.0,0.0,237.0,862.0,25865.0,025,13205,25,1333.0,1153.0
+250257000,"Boston city, Suffolk County, Massachusetts",669158.0,300491.0,152011.0,1442.0,62956.0,142.0,6528.0,16068.0,129520.0,025,7000,25,63098.0,24038.0
+250250,"County subdivisions not defined, Suffolk County, Massachusetts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,025,0,25,0.0,0.0
+2500112995,"Chatham town, Barnstable County, Massachusetts",6149.0,5635.0,147.0,0.0,37.0,0.0,0.0,121.0,209.0,001,12995,25,37.0,121.0
+2500119295,"Eastham town, Barnstable County, Massachusetts",4908.0,4514.0,110.0,0.0,125.0,0.0,43.0,45.0,71.0,001,19295,25,125.0,88.0
+2500123105,"Falmouth town, Barnstable County, Massachusetts",31254.0,27151.0,1063.0,182.0,970.0,0.0,421.0,802.0,665.0,001,23105,25,970.0,1405.0
+250017175,"Bourne town, Barnstable County, Massachusetts",19814.0,17811.0,457.0,0.0,220.0,0.0,122.0,464.0,740.0,001,7175,25,220.0,586.0
+2500116775,"Dennis town, Barnstable County, Massachusetts",13992.0,12654.0,519.0,0.0,213.0,0.0,48.0,181.0,377.0,001,16775,25,213.0,229.0
+2500139100,"Mashpee town, Barnstable County, Massachusetts",14054.0,12072.0,353.0,666.0,145.0,0.0,123.0,413.0,282.0,001,39100,25,145.0,1202.0
+2500170605,"Truro town, Barnstable County, Massachusetts",1580.0,1536.0,20.0,10.0,0.0,0.0,0.0,5.0,9.0,001,70605,25,0.0,15.0
+250010,"County subdivisions not defined, Barnstable County, Massachusetts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,001,0,25,0.0,0.0
+2500174385,"Wellfleet town, Barnstable County, Massachusetts",3171.0,2878.0,70.0,0.0,107.0,0.0,0.0,106.0,10.0,001,74385,25,107.0,106.0
+2500151440,"Orleans town, Barnstable County, Massachusetts",5827.0,5486.0,198.0,0.0,27.0,0.0,0.0,0.0,116.0,001,51440,25,27.0,0.0
+250017980,"Brewster town, Barnstable County, Massachusetts",9856.0,9459.0,64.0,0.0,61.0,0.0,0.0,99.0,173.0,001,7980,25,61.0,99.0
+2500159735,"Sandwich town, Barnstable County, Massachusetts",20416.0,19394.0,10.0,0.0,270.0,0.0,74.0,105.0,563.0,001,59735,25,270.0,179.0
+2500155500,"Provincetown town, Barnstable County, Massachusetts",2952.0,2586.0,50.0,0.0,48.0,0.0,0.0,105.0,163.0,001,55500,25,48.0,105.0
+2500129020,"Harwich town, Barnstable County, Massachusetts",12143.0,11276.0,238.0,0.0,138.0,15.0,133.0,134.0,209.0,001,29020,25,153.0,267.0
+2500182525,"Yarmouth town, Barnstable County, Massachusetts",23459.0,21611.0,454.0,0.0,481.0,0.0,84.0,419.0,410.0,001,82525,25,481.0,503.0
+2500726325,"Gosnold town, Dukes County, Massachusetts",34.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,007,26325,25,0.0,0.0
+2500713800,"Chilmark town, Dukes County, Massachusetts",1117.0,1013.0,18.0,0.0,3.0,0.0,0.0,41.0,42.0,007,13800,25,3.0,41.0
+2500721150,"Edgartown town, Dukes County, Massachusetts",4292.0,3844.0,32.0,0.0,13.0,0.0,82.0,213.0,108.0,007,21150,25,13.0,295.0
+2500769940,"Tisbury town, Dukes County, Massachusetts",4100.0,3480.0,422.0,0.0,17.0,0.0,18.0,148.0,15.0,007,69940,25,17.0,166.0
+2500778235,"West Tisbury town, Dukes County, Massachusetts",2417.0,2316.0,18.0,0.0,15.0,0.0,0.0,36.0,32.0,007,78235,25,15.0,36.0
+2500750390,"Oak Bluffs town, Dukes County, Massachusetts",4675.0,4079.0,153.0,0.0,0.0,0.0,103.0,257.0,83.0,007,50390,25,0.0,360.0
+250071585,"Aquinnah town, Dukes County, Massachusetts",640.0,255.0,2.0,271.0,5.0,0.0,10.0,97.0,0.0,007,1585,25,5.0,378.0
+2501717825,"Dunstable town, Middlesex County, Massachusetts",3337.0,3092.0,0.0,0.0,137.0,0.0,0.0,72.0,36.0,017,17825,25,137.0,72.0
+2501730700,"Holliston town, Middlesex County, Massachusetts",14480.0,12880.0,156.0,0.0,607.0,0.0,33.0,267.0,537.0,017,30700,25,607.0,300.0
+2501738715,"Marlborough city, Middlesex County, Massachusetts",39771.0,29020.0,1054.0,39.0,2146.0,0.0,595.0,1761.0,5156.0,017,38715,25,2146.0,2395.0
+250172130,"Ashland town, Middlesex County, Massachusetts",17478.0,14251.0,523.0,0.0,1493.0,0.0,21.0,331.0,859.0,017,2130,25,1493.0,352.0
+2501756130,"Reading town, Middlesex County, Massachusetts",25769.0,23488.0,170.0,8.0,1192.0,0.0,55.0,340.0,516.0,017,56130,25,1192.0,403.0
+2501762535,"Somerville city, Middlesex County, Massachusetts",79983.0,56500.0,4832.0,113.0,7643.0,18.0,742.0,2193.0,7942.0,017,62535,25,7661.0,3048.0
+250171955,"Ashby town, Middlesex County, Massachusetts",3195.0,3033.0,23.0,3.0,25.0,0.0,0.0,46.0,65.0,017,1955,25,25.0,49.0
+250177350,"Boxborough town, Middlesex County, Massachusetts",5546.0,4083.0,49.0,0.0,1118.0,0.0,0.0,135.0,161.0,017,7350,25,1118.0,135.0
+2501724925,"Framingham town, Middlesex County, Massachusetts",71232.0,46985.0,3924.0,230.0,5514.0,0.0,905.0,2067.0,11607.0,017,24925,25,5514.0,3202.0
+2501737000,"Lowell city, Middlesex County, Massachusetts",110964.0,54517.0,7426.0,400.0,23218.0,34.0,696.0,2143.0,22530.0,017,37000,25,23252.0,3239.0
+2501773790,"Wayland town, Middlesex County, Massachusetts",13700.0,11308.0,91.0,0.0,1501.0,47.0,54.0,169.0,530.0,017,73790,25,1548.0,223.0
+2501711525,"Carlisle town, Middlesex County, Massachusetts",5160.0,4336.0,0.0,7.0,583.0,0.0,0.0,117.0,117.0,017,11525,25,583.0,124.0
+250175805,"Billerica town, Middlesex County, Massachusetts",42791.0,36184.0,1408.0,0.0,2643.0,0.0,76.0,658.0,1822.0,017,5805,25,2643.0,734.0
+2501731540,"Hudson town, Middlesex County, Massachusetts",19843.0,17355.0,258.0,10.0,527.0,0.0,26.0,337.0,1330.0,017,31540,25,527.0,373.0
+2501739625,"Maynard town, Middlesex County, Massachusetts",10560.0,9361.0,434.0,0.0,309.0,0.0,65.0,94.0,297.0,017,39625,25,309.0,159.0
+2501761380,"Sherborn town, Middlesex County, Massachusetts",4302.0,3845.0,16.0,0.0,178.0,0.0,9.0,129.0,125.0,017,61380,25,178.0,138.0
+2501767665,"Stoneham town, Middlesex County, Massachusetts",21967.0,19969.0,451.0,0.0,570.0,0.0,103.0,147.0,727.0,017,67665,25,570.0,250.0
+2501780230,"Wilmington town, Middlesex County, Massachusetts",23538.0,20924.0,623.0,0.0,1143.0,0.0,21.0,481.0,346.0,017,80230,25,1143.0,502.0
+250173005,"Ayer town, Middlesex County, Massachusetts",8014.0,6450.0,376.0,0.0,367.0,0.0,69.0,252.0,500.0,017,3005,25,367.0,321.0
+250179840,"Burlington town, Middlesex County, Massachusetts",26103.0,19451.0,1339.0,27.0,4186.0,0.0,15.0,557.0,528.0,017,9840,25,4186.0,599.0
+2501721990,"Everett city, Middlesex County, Massachusetts",45212.0,20752.0,8713.0,7.0,2922.0,8.0,620.0,1828.0,10362.0,017,21990,25,2930.0,2455.0
+2501735425,"Lincoln town, Middlesex County, Massachusetts",6696.0,4952.0,217.0,0.0,691.0,0.0,50.0,195.0,591.0,017,35425,25,691.0,245.0
+2501768260,"Sudbury town, Middlesex County, Massachusetts",18697.0,15835.0,120.0,17.0,1879.0,0.0,98.0,412.0,336.0,017,68260,25,1879.0,527.0
+2501771025,"Tyngsborough town, Middlesex County, Massachusetts",12232.0,10344.0,66.0,12.0,986.0,0.0,22.0,428.0,374.0,017,71025,25,986.0,462.0
+2501772215,"Wakefield town, Middlesex County, Massachusetts",26823.0,24565.0,296.0,0.0,539.0,0.0,36.0,350.0,1037.0,017,72215,25,539.0,386.0
+2501781035,"Woburn city, Middlesex County, Massachusetts",39500.0,31922.0,2251.0,0.0,2728.0,0.0,694.0,506.0,1399.0,017,81035,25,2728.0,1200.0
+2501777255,"Weston town, Middlesex County, Massachusetts",12027.0,9589.0,205.0,0.0,1282.0,0.0,199.0,255.0,497.0,017,77255,25,1282.0,454.0
+2501769415,"Tewksbury town, Middlesex County, Massachusetts",30666.0,27953.0,481.0,21.0,1158.0,0.0,158.0,414.0,481.0,017,69415,25,1158.0,593.0
+2501776135,"Westford town, Middlesex County, Massachusetts",24087.0,18873.0,96.0,0.0,4263.0,0.0,0.0,334.0,521.0,017,76135,25,4263.0,334.0
+250175070,"Belmont town, Middlesex County, Massachusetts",25965.0,19614.0,405.0,15.0,4012.0,8.0,85.0,590.0,1236.0,017,5070,25,4020.0,690.0
+2501717475,"Dracut town, Middlesex County, Massachusetts",31113.0,25930.0,1243.0,15.0,1276.0,54.0,187.0,563.0,1845.0,017,17475,25,1330.0,765.0
+2501727480,"Groton town, Middlesex County, Massachusetts",11282.0,10433.0,58.0,5.0,482.0,0.0,11.0,144.0,149.0,017,27480,25,482.0,160.0
+2501735215,"Lexington town, Middlesex County, Massachusetts",33339.0,22353.0,247.0,15.0,9075.0,0.0,137.0,823.0,689.0,017,35215,25,9075.0,975.0
+2501768050,"Stow town, Middlesex County, Massachusetts",7061.0,6429.0,1.0,0.0,281.0,0.0,53.0,118.0,179.0,017,68050,25,281.0,171.0
+2501713135,"Chelmsford town, Middlesex County, Massachusetts",35067.0,29756.0,263.0,81.0,3308.0,16.0,20.0,318.0,1305.0,017,13135,25,3324.0,419.0
+2501739835,"Medford city, Middlesex County, Massachusetts",57700.0,42207.0,4941.0,40.0,5586.0,0.0,302.0,1574.0,3050.0,017,39835,25,5586.0,1916.0
+2501761590,"Shirley town, Middlesex County, Massachusetts",7572.0,5179.0,621.0,3.0,374.0,0.0,10.0,492.0,893.0,017,61590,25,374.0,505.0
+2501740115,"Melrose city, Middlesex County, Massachusetts",28132.0,23991.0,998.0,0.0,1713.0,0.0,0.0,504.0,926.0,017,40115,25,1713.0,504.0
+2501748955,"North Reading town, Middlesex County, Massachusetts",15598.0,14061.0,185.0,37.0,820.0,0.0,109.0,177.0,209.0,017,48955,25,820.0,323.0
+2501772600,"Waltham city, Middlesex County, Massachusetts",62832.0,41169.0,3782.0,103.0,7478.0,0.0,172.0,1404.0,8724.0,017,72600,25,7478.0,1679.0
+25017380,"Acton town, Middlesex County, Massachusetts",23455.0,16226.0,532.0,24.0,5796.0,46.0,27.0,347.0,457.0,017,380,25,5842.0,398.0
+2501743895,"Natick town, Middlesex County, Massachusetts",35957.0,28801.0,617.0,24.0,4482.0,0.0,148.0,472.0,1413.0,017,43895,25,4482.0,644.0
+250171605,"Arlington town, Middlesex County, Massachusetts",44992.0,35275.0,838.0,120.0,5183.0,0.0,83.0,1552.0,1941.0,017,1605,25,5183.0,1755.0
+2501715060,"Concord town, Middlesex County, Massachusetts",19357.0,15786.0,651.0,0.0,1217.0,0.0,35.0,436.0,1232.0,017,15060,25,1217.0,471.0
+2501735950,"Littleton town, Middlesex County, Massachusetts",9754.0,8678.0,64.0,0.0,575.0,0.0,0.0,363.0,74.0,017,35950,25,575.0,363.0
+2501752805,"Pepperell town, Middlesex County, Massachusetts",12049.0,11066.0,141.0,0.0,246.0,0.0,22.0,259.0,315.0,017,52805,25,246.0,281.0
+2501780510,"Winchester town, Middlesex County, Massachusetts",22579.0,18559.0,158.0,8.0,2810.0,9.0,159.0,505.0,371.0,017,80510,25,2819.0,672.0
+250174615,"Bedford town, Middlesex County, Massachusetts",14105.0,10824.0,442.0,23.0,2032.0,0.0,10.0,212.0,562.0,017,4615,25,2032.0,245.0
+2501711000,"Cambridge city, Middlesex County, Massachusetts",110893.0,68330.0,11143.0,165.0,17366.0,31.0,373.0,3778.0,9707.0,017,11000,25,17397.0,4316.0
+2501731085,"Hopkinton town, Middlesex County, Massachusetts",16720.0,14577.0,320.0,0.0,1057.0,0.0,25.0,283.0,458.0,017,31085,25,1057.0,308.0
+2501770360,"Townsend town, Middlesex County, Massachusetts",9418.0,8822.0,9.0,0.0,122.0,0.0,108.0,86.0,271.0,017,70360,25,122.0,194.0
+2501737875,"Malden city, Middlesex County, Massachusetts",61212.0,28548.0,9986.0,54.0,14463.0,27.0,663.0,1756.0,5715.0,017,37875,25,14490.0,2473.0
+2501745560,"Newton city, Middlesex County, Massachusetts",88479.0,65277.0,2782.0,72.0,12630.0,7.0,260.0,2595.0,4856.0,017,45560,25,12637.0,2927.0
+2500330315,"Hinsdale town, Berkshire County, Massachusetts",1970.0,1935.0,0.0,2.0,0.0,0.0,5.0,22.0,6.0,003,30315,25,0.0,29.0
+2500343300,"Mount Washington town, Berkshire County, Massachusetts",140.0,125.0,0.0,5.0,1.0,4.0,5.0,0.0,0.0,003,43300,25,5.0,10.0
+2500313345,"Cheshire town, Berkshire County, Massachusetts",3169.0,3118.0,0.0,0.0,0.0,0.0,0.0,7.0,44.0,003,13345,25,0.0,7.0
+2500324120,"Florida town, Berkshire County, Massachusetts",816.0,771.0,10.0,0.0,0.0,0.0,0.0,32.0,3.0,003,24120,25,0.0,32.0
+2500328180,"Hancock town, Berkshire County, Massachusetts",639.0,613.0,8.0,5.0,5.0,0.0,0.0,2.0,6.0,003,28180,25,5.0,7.0
+2500360225,"Savoy town, Berkshire County, Massachusetts",764.0,665.0,36.0,2.0,0.0,0.0,0.0,45.0,16.0,003,60225,25,0.0,47.0
+2500377990,"West Stockbridge town, Berkshire County, Massachusetts",1095.0,954.0,54.0,24.0,6.0,4.0,0.0,21.0,32.0,003,77990,25,10.0,45.0
+2500379985,"Williamstown town, Berkshire County, Massachusetts",7623.0,5927.0,354.0,57.0,472.0,0.0,0.0,238.0,575.0,003,79985,25,472.0,295.0
+2500342460,"Monterey town, Berkshire County, Massachusetts",729.0,706.0,5.0,0.0,5.0,0.0,9.0,0.0,4.0,003,42460,25,5.0,9.0
+2500344385,"New Ashford town, Berkshire County, Massachusetts",334.0,307.0,7.0,0.0,2.0,0.0,0.0,2.0,16.0,003,44385,25,2.0,2.0
+2500361065,"Sheffield town, Berkshire County, Massachusetts",3190.0,3140.0,0.0,6.0,0.0,0.0,29.0,0.0,15.0,003,61065,25,0.0,35.0
+2501151265,"Orange town, Franklin County, Massachusetts",7703.0,7355.0,16.0,15.0,83.0,0.0,0.0,110.0,124.0,011,51265,25,83.0,125.0
+2501173265,"Warwick town, Franklin County, Massachusetts",750.0,718.0,0.0,3.0,5.0,0.0,0.0,11.0,13.0,011,73265,25,5.0,14.0
+2501179110,"Whately town, Franklin County, Massachusetts",1339.0,1280.0,3.0,0.0,7.0,0.0,0.0,3.0,46.0,011,79110,25,7.0,3.0
+2501142285,"Montague town, Franklin County, Massachusetts",8311.0,7384.0,119.0,66.0,102.0,0.0,0.0,284.0,356.0,011,42285,25,102.0,350.0
+250112095,"Ashfield town, Franklin County, Massachusetts",1598.0,1511.0,2.0,0.0,10.0,0.0,3.0,43.0,29.0,011,2095,25,10.0,46.0
+2501145490,"New Salem town, Franklin County, Massachusetts",1019.0,978.0,0.0,0.0,8.0,0.0,0.0,29.0,4.0,011,45490,25,8.0,29.0
+2501112505,"Charlemont town, Franklin County, Massachusetts",1110.0,1033.0,5.0,0.0,12.0,0.0,0.0,44.0,16.0,011,12505,25,12.0,44.0
+2501115200,"Conway town, Franklin County, Massachusetts",1800.0,1751.0,0.0,0.0,4.0,0.0,0.0,1.0,44.0,011,15200,25,4.0,1.0
+2501121780,"Erving town, Franklin County, Massachusetts",1841.0,1749.0,32.0,1.0,10.0,0.0,0.0,33.0,16.0,011,21780,25,10.0,34.0
+2501116670,"Deerfield town, Franklin County, Massachusetts",5049.0,4681.0,78.0,0.0,26.0,0.0,5.0,68.0,191.0,011,16670,25,26.0,73.0
+2501142040,"Monroe town, Franklin County, Massachusetts",86.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,011,42040,25,0.0,0.0
+2501161905,"Shutesbury town, Franklin County, Massachusetts",1752.0,1555.0,19.0,0.0,7.0,0.0,6.0,72.0,93.0,011,61905,25,7.0,78.0
+250119595,"Buckland town, Franklin County, Massachusetts",1927.0,1796.0,0.0,19.0,69.0,0.0,0.0,37.0,6.0,011,9595,25,69.0,56.0
+2501168400,"Sunderland town, Franklin County, Massachusetts",3662.0,2726.0,97.0,9.0,365.0,63.0,36.0,92.0,274.0,011,68400,25,428.0,137.0
+2501174525,"Wendell town, Franklin County, Massachusetts",864.0,796.0,11.0,5.0,11.0,0.0,0.0,27.0,14.0,011,74525,25,11.0,32.0
+2501158335,"Rowe town, Franklin County, Massachusetts",400.0,390.0,1.0,0.0,0.0,0.0,0.0,4.0,5.0,011,58335,25,0.0,4.0
+2501114885,"Colrain town, Franklin County, Massachusetts",1631.0,1545.0,13.0,0.0,26.0,0.0,3.0,33.0,11.0,011,14885,25,26.0,36.0
+250219175,"Brookline town, Norfolk County, Massachusetts",59246.0,42326.0,1800.0,40.0,9275.0,17.0,206.0,2113.0,3469.0,021,9175,25,9292.0,2359.0
+2502111315,"Canton town, Norfolk County, Massachusetts",22829.0,18339.0,1383.0,0.0,1637.0,0.0,104.0,403.0,963.0,021,11315,25,1637.0,507.0
+2502139765,"Medfield town, Norfolk County, Massachusetts",12610.0,11444.0,135.0,0.0,649.0,0.0,28.0,132.0,222.0,021,39765,25,649.0,160.0
+2502141515,"Millis town, Norfolk County, Massachusetts",8144.0,7552.0,15.0,0.0,99.0,0.0,55.0,0.0,423.0,021,41515,25,99.0,55.0
+2502144105,"Needham town, Norfolk County, Massachusetts",30429.0,25679.0,622.0,0.0,2487.0,0.0,0.0,818.0,823.0,021,44105,25,2487.0,818.0
+2502146050,"Norfolk town, Norfolk County, Massachusetts",11671.0,9815.0,652.0,40.0,153.0,0.0,10.0,114.0,887.0,021,46050,25,153.0,164.0
+2502150250,"Norwood town, Norfolk County, Massachusetts",29121.0,22999.0,1637.0,0.0,2065.0,0.0,122.0,337.0,1961.0,021,50250,25,2065.0,459.0
+2502154100,"Plainville town, Norfolk County, Massachusetts",9000.0,8576.0,61.0,0.0,178.0,0.0,0.0,166.0,19.0,021,54100,25,178.0,166.0
+2502172495,"Walpole town, Norfolk County, Massachusetts",24960.0,21703.0,564.0,18.0,1069.0,0.0,86.0,457.0,1063.0,021,72495,25,1069.0,561.0
+250214930,"Bellingham town, Norfolk County, Massachusetts",16929.0,15503.0,243.0,0.0,513.0,0.0,10.0,227.0,433.0,021,4930,25,513.0,237.0
+2502117405,"Dover town, Norfolk County, Massachusetts",5922.0,4911.0,179.0,0.0,475.0,0.0,0.0,77.0,280.0,021,17405,25,475.0,77.0
+2502114640,"Cohasset town, Norfolk County, Massachusetts",8393.0,8200.0,11.0,11.0,60.0,0.0,12.0,38.0,61.0,021,14640,25,60.0,61.0
+2502167945,"Stoughton town, Norfolk County, Massachusetts",28338.0,20633.0,3979.0,188.0,1141.0,0.0,283.0,849.0,1265.0,021,67945,25,1141.0,1320.0
+2502124820,"Foxborough town, Norfolk County, Massachusetts",17448.0,15306.0,932.0,0.0,313.0,0.0,17.0,374.0,506.0,021,24820,25,313.0,391.0
+2502139975,"Medway town, Norfolk County, Massachusetts",13162.0,11773.0,275.0,0.0,411.0,0.0,21.0,185.0,497.0,021,39975,25,411.0,206.0
+2502130455,"Holbrook town, Norfolk County, Massachusetts",11029.0,8305.0,1191.0,0.0,596.0,0.0,10.0,116.0,811.0,021,30455,25,596.0,126.0
+2502174175,"Wellesley town, Norfolk County, Massachusetts",29004.0,22763.0,775.0,30.0,3247.0,18.0,97.0,634.0,1440.0,021,74175,25,3265.0,761.0
+2502116495,"Dedham town, Norfolk County, Massachusetts",25377.0,19921.0,1975.0,38.0,664.0,0.0,223.0,438.0,2118.0,021,16495,25,664.0,699.0
+2502160785,"Sharon town, Norfolk County, Massachusetts",18245.0,13770.0,505.0,0.0,2800.0,0.0,72.0,314.0,784.0,021,60785,25,2800.0,386.0
+2502182315,"Wrentham town, Norfolk County, Massachusetts",11597.0,10909.0,234.0,0.0,90.0,0.0,6.0,28.0,330.0,021,82315,25,90.0,34.0
+2502141690,"Milton town, Norfolk County, Massachusetts",27527.0,19792.0,4044.0,9.0,1811.0,0.0,108.0,669.0,1094.0,021,41690,25,1811.0,786.0
+2502155745,"Quincy city, Norfolk County, Massachusetts",93824.0,56699.0,4806.0,115.0,27181.0,138.0,268.0,1709.0,2908.0,021,55745,25,27319.0,2092.0
+250212935,"Avon town, Norfolk County, Massachusetts",4468.0,3190.0,510.0,0.0,390.0,0.0,26.0,90.0,262.0,021,2935,25,390.0,116.0
+2502178690,"Westwood town, Norfolk County, Massachusetts",15597.0,13749.0,47.0,0.0,1173.0,0.0,108.0,222.0,298.0,021,78690,25,1173.0,330.0
+2502155955,"Randolph town, Norfolk County, Massachusetts",33704.0,12186.0,12928.0,30.0,4169.0,23.0,879.0,819.0,2670.0,021,55955,25,4192.0,1728.0
+2502768610,"Sutton town, Worcester County, Massachusetts",9297.0,8641.0,288.0,0.0,97.0,13.0,13.0,230.0,15.0,027,68610,25,110.0,243.0
+2502747135,"North Brookfield town, Worcester County, Massachusetts",4760.0,4596.0,39.0,0.0,36.0,0.0,0.0,22.0,67.0,027,47135,25,36.0,22.0
+2502751825,"Oxford town, Worcester County, Massachusetts",13898.0,12393.0,91.0,0.0,255.0,0.0,0.0,329.0,830.0,027,51825,25,255.0,329.0
+2502766105,"Spencer town, Worcester County, Massachusetts",11856.0,11039.0,101.0,0.0,286.0,0.0,0.0,49.0,381.0,027,66105,25,286.0,49.0
+2502773090,"Warren town, Worcester County, Massachusetts",5199.0,4932.0,2.0,0.0,151.0,0.0,0.0,16.0,98.0,027,73090,25,151.0,16.0
+2502780405,"Winchendon town, Worcester County, Massachusetts",10738.0,9910.0,102.0,0.0,46.0,0.0,0.0,239.0,441.0,027,80405,25,46.0,239.0
+250272480,"Athol town, Worcester County, Massachusetts",11680.0,10585.0,81.0,0.0,86.0,0.0,0.0,276.0,652.0,027,2480,25,86.0,276.0
+250276365,"Bolton town, Worcester County, Massachusetts",5167.0,4663.0,19.0,0.0,231.0,0.0,0.0,61.0,193.0,027,6365,25,231.0,61.0
+250277525,"Boylston town, Worcester County, Massachusetts",4524.0,4153.0,43.0,0.0,196.0,0.0,0.0,45.0,87.0,027,7525,25,196.0,45.0
+2502712715,"Charlton town, Worcester County, Massachusetts",13379.0,12734.0,116.0,7.0,93.0,0.0,14.0,166.0,249.0,027,12715,25,93.0,187.0
+2502752420,"Paxton town, Worcester County, Massachusetts",4845.0,4287.0,337.0,0.0,34.0,6.0,6.0,36.0,139.0,027,52420,25,40.0,42.0
+250271885,"Ashburnham town, Worcester County, Massachusetts",6210.0,5901.0,84.0,0.0,9.0,0.0,24.0,117.0,75.0,027,1885,25,9.0,141.0
+2502728740,"Hardwick town, Worcester County, Massachusetts",3024.0,2925.0,23.0,0.0,1.0,0.0,0.0,11.0,64.0,027,28740,25,1.0,11.0
+2502758580,"Royalston town, Worcester County, Massachusetts",1307.0,1268.0,4.0,9.0,8.0,0.0,0.0,0.0,18.0,027,58580,25,8.0,9.0
+2502718560,"East Brookfield town, Worcester County, Massachusetts",2123.0,2047.0,0.0,9.0,6.0,0.0,6.0,6.0,49.0,027,18560,25,6.0,21.0
+2502730945,"Hopedale town, Worcester County, Massachusetts",5955.0,5605.0,26.0,0.0,31.0,0.0,27.0,30.0,236.0,027,30945,25,31.0,57.0
+2502740255,"Mendon town, Worcester County, Massachusetts",5995.0,5612.0,32.0,0.0,70.0,0.0,65.0,169.0,47.0,027,40255,25,70.0,234.0
+2502741165,"Milford town, Worcester County, Massachusetts",28630.0,22530.0,691.0,39.0,797.0,0.0,686.0,533.0,3354.0,027,41165,25,797.0,1258.0
+2502741585,"Millville town, Worcester County, Massachusetts",3237.0,3071.0,1.0,0.0,16.0,0.0,5.0,92.0,52.0,027,41585,25,16.0,97.0
+2502753225,"Phillipston town, Worcester County, Massachusetts",1640.0,1534.0,24.0,0.0,20.0,0.0,0.0,50.0,12.0,027,53225,25,20.0,50.0
+2502768155,"Sturbridge town, Worcester County, Massachusetts",9496.0,8877.0,29.0,0.0,226.0,0.0,5.0,61.0,298.0,027,68155,25,226.0,66.0
+2502771480,"Upton town, Worcester County, Massachusetts",7770.0,6902.0,7.0,0.0,195.0,0.0,0.0,356.0,310.0,027,71480,25,195.0,356.0
+2502755395,"Princeton town, Worcester County, Massachusetts",3438.0,3180.0,19.0,0.0,36.0,0.0,0.0,88.0,115.0,027,55395,25,36.0,88.0
+250273740,"Barre town, Worcester County, Massachusetts",5491.0,5220.0,111.0,0.0,38.0,0.0,0.0,35.0,87.0,027,3740,25,38.0,35.0
+250275490,"Berlin town, Worcester County, Massachusetts",3098.0,3002.0,22.0,0.0,22.0,0.0,0.0,26.0,26.0,027,5490,25,22.0,26.0
+2502735075,"Leominster city, Worcester County, Massachusetts",41446.0,29669.0,2027.0,33.0,1194.0,0.0,236.0,922.0,7365.0,027,35075,25,1194.0,1191.0
+2502767385,"Sterling town, Worcester County, Massachusetts",8000.0,7328.0,36.0,26.0,133.0,0.0,34.0,67.0,376.0,027,67385,25,133.0,127.0
+2502758825,"Rutland town, Worcester County, Massachusetts",8463.0,8100.0,6.0,0.0,129.0,0.0,0.0,45.0,183.0,027,58825,25,129.0,45.0
+2502769275,"Templeton town, Worcester County, Massachusetts",8117.0,7809.0,1.0,17.0,145.0,0.0,0.0,39.0,106.0,027,69275,25,145.0,56.0
+250272760,"Auburn town, Worcester County, Massachusetts",16552.0,15171.0,238.0,12.0,308.0,0.0,10.0,121.0,692.0,027,2760,25,308.0,143.0
+2502728950,"Harvard town, Worcester County, Massachusetts",6542.0,5438.0,395.0,38.0,222.0,0.0,46.0,117.0,286.0,027,28950,25,222.0,201.0
+2502730560,"Holden town, Worcester County, Massachusetts",18558.0,16712.0,251.0,46.0,425.0,0.0,8.0,353.0,763.0,027,30560,25,425.0,407.0
+2502745105,"New Braintree town, Worcester County, Massachusetts",1247.0,1220.0,6.0,0.0,6.0,0.0,0.0,0.0,15.0,027,45105,25,6.0,0.0
+2502763165,"Southborough town, Worcester County, Massachusetts",10021.0,8434.0,108.0,0.0,1125.0,0.0,45.0,113.0,196.0,027,63165,25,1125.0,158.0
+2502723875,"Fitchburg city, Worcester County, Massachusetts",40666.0,26154.0,1372.0,76.0,1502.0,0.0,42.0,727.0,10793.0,027,23875,25,1502.0,845.0
+2502725485,"Gardner city, Worcester County, Massachusetts",20496.0,17488.0,407.0,33.0,262.0,0.0,7.0,647.0,1652.0,027,25485,25,262.0,687.0
+2502726430,"Grafton town, Worcester County, Massachusetts",18517.0,14584.0,848.0,0.0,1472.0,0.0,70.0,509.0,1034.0,027,26430,25,1472.0,579.0
+2502734165,"Lancaster town, Worcester County, Massachusetts",7978.0,6801.0,380.0,8.0,85.0,17.0,28.0,156.0,503.0,027,34165,25,102.0,192.0
+2502737420,"Lunenburg town, Worcester County, Massachusetts",11150.0,9755.0,241.0,0.0,247.0,0.0,0.0,205.0,702.0,027,37420,25,247.0,205.0
+2502761800,"Shrewsbury town, Worcester County, Massachusetts",36716.0,25943.0,1198.0,10.0,6560.0,0.0,150.0,1017.0,1838.0,027,61800,25,6560.0,1177.0
+2502777010,"Westminster town, Worcester County, Massachusetts",7566.0,7253.0,15.0,0.0,21.0,0.0,0.0,21.0,256.0,027,77010,25,21.0,21.0
+2502773895,"Webster town, Worcester County, Massachusetts",16926.0,13702.0,724.0,0.0,189.0,0.0,57.0,299.0,1955.0,027,73895,25,189.0,356.0
+2502775155,"West Boylston town, Worcester County, Massachusetts",7892.0,6290.0,426.0,4.0,113.0,0.0,13.0,160.0,886.0,027,75155,25,113.0,177.0
+250279105,"Brookfield town, Worcester County, Massachusetts",3406.0,3130.0,34.0,0.0,37.0,0.0,31.0,174.0,0.0,027,9105,25,37.0,205.0
+2502750670,"Oakham town, Worcester County, Massachusetts",1849.0,1764.0,4.0,9.0,4.0,0.0,0.0,13.0,55.0,027,50670,25,4.0,22.0
+2502717300,"Douglas town, Worcester County, Massachusetts",8722.0,7625.0,41.0,0.0,149.0,0.0,0.0,252.0,655.0,027,17300,25,149.0,252.0
+2502731435,"Hubbardston town, Worcester County, Massachusetts",4581.0,4301.0,159.0,0.0,13.0,0.0,0.0,30.0,78.0,027,31435,25,13.0,30.0
+2502734795,"Leicester town, Worcester County, Massachusetts",11277.0,10447.0,193.0,7.0,93.0,18.0,0.0,136.0,383.0,027,34795,25,111.0,143.0
+2502746820,"Northborough town, Worcester County, Massachusetts",14918.0,12595.0,247.0,52.0,1305.0,0.0,24.0,232.0,463.0,027,46820,25,1305.0,308.0
+2502746925,"Northbridge town, Worcester County, Massachusetts",16425.0,14944.0,236.0,34.0,311.0,5.0,0.0,166.0,729.0,027,46925,25,316.0,200.0
+250276015,"Blackstone town, Worcester County, Massachusetts",9201.0,8514.0,218.0,29.0,35.0,0.0,19.0,180.0,206.0,027,6015,25,35.0,228.0
+2502717685,"Dudley town, Worcester County, Massachusetts",11637.0,10652.0,197.0,56.0,312.0,0.0,0.0,120.0,300.0,027,17685,25,312.0,176.0
+2502741340,"Millbury town, Worcester County, Massachusetts",13521.0,12497.0,114.0,9.0,347.0,0.0,179.0,194.0,181.0,027,41340,25,347.0,382.0
+2502775015,"Westborough town, Worcester County, Massachusetts",18836.0,12694.0,433.0,83.0,4411.0,0.0,20.0,282.0,913.0,027,75015,25,4411.0,385.0
+2502782000,"Worcester city, Worcester County, Massachusetts",184743.0,105507.0,21799.0,613.0,13466.0,74.0,688.0,3909.0,38687.0,027,82000,25,13540.0,5210.0
+2502771620,"Uxbridge town, Worcester County, Massachusetts",13815.0,12849.0,329.0,0.0,287.0,0.0,22.0,118.0,210.0,027,71620,25,287.0,140.0
+2502714395,"Clinton town, Worcester County, Massachusetts",13855.0,10874.0,165.0,0.0,191.0,0.0,8.0,323.0,2294.0,027,14395,25,191.0,331.0
+2502775400,"West Brookfield town, Worcester County, Massachusetts",3777.0,3559.0,5.0,0.0,99.0,0.0,18.0,30.0,66.0,027,75400,25,99.0,48.0
+2502753120,"Petersham town, Worcester County, Massachusetts",1218.0,1167.0,6.0,0.0,2.0,0.0,0.0,19.0,24.0,027,53120,25,2.0,19.0
+250091260,"Amesbury Town city, Essex County, Massachusetts",17218.0,15977.0,134.0,0.0,187.0,0.0,27.0,426.0,467.0,009,1260,25,187.0,453.0
+2502581005,"Winthrop Town city, Suffolk County, Massachusetts",18391.0,15766.0,144.0,0.0,125.0,0.0,37.0,219.0,2100.0,025,81005,25,125.0,256.0
+2501127100,"Greenfield Town city, Franklin County, Massachusetts",17474.0,15277.0,357.0,7.0,162.0,0.0,16.0,392.0,1263.0,011,27100,25,162.0,415.0
+2501519370,"Easthampton Town city, Hampshire County, Massachusetts",16051.0,14137.0,411.0,0.0,303.0,0.0,0.0,266.0,934.0,015,19370,25,303.0,266.0
+2500940710,"Methuen Town city, Essex County, Massachusetts",49575.0,32239.0,1178.0,0.0,1878.0,0.0,93.0,687.0,13500.0,009,40710,25,1878.0,780.0
+2502763345,"Southbridge Town city, Worcester County, Massachusetts",16858.0,10516.0,298.0,21.0,120.0,0.0,40.0,128.0,5735.0,027,63345,25,120.0,189.0
+25013840,"Agawam Town city, Hampden County, Massachusetts",28748.0,25401.0,349.0,7.0,678.0,34.0,0.0,292.0,1987.0,013,840,25,712.0,299.0
+2501352144,"Palmer Town city, Hampden County, Massachusetts",12237.0,11246.0,176.0,0.0,47.0,0.0,0.0,266.0,502.0,013,52144,25,47.0,266.0
+2501377890,"West Springfield Town city, Hampden County, Massachusetts",28671.0,22329.0,1256.0,50.0,1278.0,0.0,402.0,527.0,2829.0,013,77890,25,1278.0,979.0
+250013690,"Barnstable Town city, Barnstable County, Massachusetts",44325.0,38854.0,1946.0,60.0,269.0,133.0,467.0,724.0,1872.0,001,3690,25,402.0,1251.0
+2501773440,"Watertown Town city, Middlesex County, Massachusetts",34553.0,26942.0,683.0,13.0,2808.0,0.0,359.0,483.0,3265.0,017,73440,25,2808.0,855.0
+2502125172,"Franklin Town city, Norfolk County, Massachusetts",32843.0,29225.0,281.0,0.0,1833.0,6.0,76.0,697.0,725.0,021,25172,25,1839.0,773.0
+2502178972,"Weymouth Town city, Norfolk County, Massachusetts",55890.0,46887.0,2664.0,45.0,3201.0,0.0,279.0,966.0,1848.0,021,78972,25,3201.0,1290.0
+2500371095,"Tyringham town, Berkshire County, Massachusetts",439.0,416.0,2.0,0.0,5.0,0.0,0.0,2.0,14.0,003,71095,25,5.0,2.0
+2500314010,"Clarksburg town, Berkshire County, Massachusetts",1722.0,1701.0,1.0,0.0,0.0,0.0,0.0,8.0,12.0,003,14010,25,0.0,8.0
+2500316180,"Dalton town, Berkshire County, Massachusetts",6657.0,6326.0,26.0,28.0,106.0,0.0,0.0,39.0,132.0,003,16180,25,106.0,67.0
+2500334655,"Lee town, Berkshire County, Massachusetts",5796.0,5223.0,75.0,8.0,169.0,0.0,178.0,21.0,122.0,003,34655,25,169.0,207.0
+2500346225,"North Adams city, Berkshire County, Massachusetts",13211.0,11876.0,211.0,0.0,81.0,21.0,0.0,537.0,485.0,003,46225,25,102.0,537.0
+25003975,"Alford town, Berkshire County, Massachusetts",411.0,380.0,5.0,0.0,7.0,0.0,0.0,9.0,10.0,003,975,25,7.0,9.0
+2500334340,"Lanesborough town, Berkshire County, Massachusetts",3004.0,2873.0,56.0,0.0,40.0,0.0,0.0,35.0,0.0,003,34340,25,40.0,35.0
+2500353960,"Pittsfield city, Berkshire County, Massachusetts",43289.0,36525.0,1884.0,94.0,860.0,8.0,69.0,1231.0,2618.0,003,53960,25,868.0,1394.0
+2500321360,"Egremont town, Berkshire County, Massachusetts",1255.0,1130.0,29.0,0.0,15.0,5.0,0.0,6.0,70.0,003,21360,25,20.0,6.0
+2500345420,"New Marlborough town, Berkshire County, Massachusetts",1370.0,1301.0,16.0,0.0,8.0,0.0,0.0,11.0,34.0,003,45420,25,8.0,11.0
+2500351580,"Otis town, Berkshire County, Massachusetts",1577.0,1547.0,9.0,5.0,0.0,0.0,0.0,8.0,8.0,003,51580,25,0.0,13.0
+2500356795,"Richmond town, Berkshire County, Massachusetts",1521.0,1457.0,10.0,3.0,23.0,0.0,0.0,26.0,2.0,003,56795,25,23.0,29.0
+2500373335,"Washington town, Berkshire County, Massachusetts",499.0,478.0,0.0,0.0,4.0,0.0,0.0,12.0,5.0,003,73335,25,4.0,12.0
+25003555,"Adams town, Berkshire County, Massachusetts",8211.0,7958.0,64.0,4.0,31.0,0.0,20.0,57.0,77.0,003,555,25,31.0,81.0
+250034545,"Becket town, Berkshire County, Massachusetts",1852.0,1717.0,27.0,0.0,0.0,0.0,0.0,31.0,77.0,003,4545,25,0.0,31.0
+2500367595,"Stockbridge town, Berkshire County, Massachusetts",1980.0,1823.0,26.0,0.0,30.0,0.0,0.0,20.0,81.0,003,67595,25,30.0,20.0
+2500334970,"Lenox town, Berkshire County, Massachusetts",4994.0,4663.0,100.0,0.0,91.0,0.0,0.0,8.0,132.0,003,34970,25,91.0,8.0
+2500326815,"Great Barrington town, Berkshire County, Massachusetts",6915.0,5571.0,260.0,10.0,108.0,0.0,0.0,146.0,820.0,003,26815,25,108.0,156.0
+2500380685,"Windsor town, Berkshire County, Massachusetts",909.0,862.0,0.0,0.0,10.0,0.0,3.0,21.0,13.0,003,80685,25,10.0,24.0
+25005520,"Acushnet town, Bristol County, Massachusetts",10443.0,9537.0,2.0,0.0,141.0,0.0,315.0,216.0,232.0,005,520,25,141.0,531.0
+2500520100,"Easton town, Bristol County, Massachusetts",24001.0,21447.0,872.0,0.0,521.0,0.0,154.0,295.0,712.0,005,20100,25,521.0,449.0
+2500525240,"Freetown town, Bristol County, Massachusetts",9175.0,8632.0,28.0,0.0,62.0,0.0,29.0,259.0,165.0,005,25240,25,62.0,288.0
+2500516950,"Dighton town, Bristol County, Massachusetts",7438.0,7016.0,197.0,0.0,0.0,0.0,18.0,128.0,79.0,005,16950,25,0.0,146.0
+2500538225,"Mansfield town, Bristol County, Massachusetts",23678.0,20597.0,497.0,0.0,1190.0,0.0,63.0,535.0,796.0,005,38225,25,1190.0,598.0
+2500549970,"Norton town, Bristol County, Massachusetts",19515.0,17813.0,570.0,30.0,387.0,0.0,32.0,238.0,445.0,005,49970,25,387.0,300.0
+2500562430,"Somerset town, Bristol County, Massachusetts",18257.0,17797.0,56.0,0.0,58.0,0.0,117.0,119.0,110.0,005,62430,25,58.0,236.0
+2500545000,"New Bedford city, Bristol County, Massachusetts",95125.0,60277.0,5167.0,62.0,1533.0,17.0,6305.0,2749.0,19015.0,005,45000,25,1550.0,9116.0
+2500556060,"Raynham town, Bristol County, Massachusetts",13845.0,11895.0,632.0,0.0,492.0,0.0,14.0,511.0,301.0,005,56060,25,492.0,525.0
+2500556375,"Rehoboth town, Bristol County, Massachusetts",11990.0,11128.0,78.0,0.0,170.0,13.0,26.0,280.0,295.0,005,56375,25,183.0,306.0
+2500522130,"Fairhaven town, Bristol County, Massachusetts",16027.0,14286.0,73.0,0.0,768.0,0.0,394.0,203.0,303.0,005,22130,25,768.0,597.0
+2500546575,"North Attleborough town, Bristol County, Massachusetts",29033.0,25341.0,452.0,6.0,1179.0,0.0,26.0,536.0,1493.0,005,46575,25,1179.0,568.0
+2500560645,"Seekonk town, Bristol County, Massachusetts",14957.0,14255.0,16.0,0.0,88.0,77.0,43.0,159.0,319.0,005,60645,25,165.0,202.0
+2500569170,"Taunton city, Bristol County, Massachusetts",56826.0,46299.0,3914.0,0.0,597.0,0.0,989.0,1345.0,3682.0,005,69170,25,597.0,2334.0
+2500577570,"Westport town, Bristol County, Massachusetts",15810.0,15358.0,44.0,3.0,61.0,0.0,0.0,270.0,74.0,005,77570,25,61.0,273.0
+250050,"County subdivisions not defined, Bristol County, Massachusetts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,005,0,25,0.0,0.0
+250055280,"Berkley town, Bristol County, Massachusetts",6630.0,6540.0,2.0,0.0,1.0,0.0,0.0,64.0,23.0,005,5280,25,1.0,64.0
+2500516425,"Dartmouth town, Bristol County, Massachusetts",34341.0,30313.0,876.0,8.0,1038.0,0.0,130.0,992.0,984.0,005,16425,25,1038.0,1130.0
+2500568750,"Swansea town, Bristol County, Massachusetts",16341.0,15987.0,42.0,0.0,84.0,0.0,5.0,137.0,86.0,005,68750,25,84.0,142.0
+2500523000,"Fall River city, Bristol County, Massachusetts",89258.0,69603.0,4403.0,25.0,1734.0,128.0,833.0,3741.0,8791.0,005,23000,25,1862.0,4599.0
+250052690,"Attleboro city, Bristol County, Massachusetts",44326.0,37054.0,1432.0,41.0,2110.0,0.0,32.0,649.0,3008.0,005,2690,25,2110.0,722.0
+2501330665,"Holland town, Hampden County, Massachusetts",2510.0,2392.0,33.0,0.0,0.0,0.0,0.0,24.0,61.0,013,30665,25,0.0,24.0
+2501370045,"Tolland town, Hampden County, Massachusetts",666.0,620.0,0.0,1.0,4.0,0.0,8.0,26.0,7.0,013,70045,25,4.0,35.0
+250136085,"Blandford town, Hampden County, Massachusetts",1259.0,1241.0,0.0,0.0,7.0,0.0,0.0,8.0,3.0,013,6085,25,7.0,8.0
+2501326675,"Granville town, Hampden County, Massachusetts",1660.0,1603.0,0.0,0.0,0.0,0.0,0.0,19.0,38.0,013,26675,25,0.0,19.0
+2501342145,"Monson town, Hampden County, Massachusetts",8803.0,8376.0,79.0,0.0,45.0,0.0,9.0,145.0,149.0,013,42145,25,45.0,154.0
+2501342530,"Montgomery town, Hampden County, Massachusetts",802.0,772.0,2.0,0.0,6.0,0.0,3.0,6.0,13.0,013,42530,25,6.0,9.0
+2501365825,"Southwick town, Hampden County, Massachusetts",9711.0,9455.0,8.0,0.0,98.0,0.0,0.0,127.0,23.0,013,65825,25,98.0,127.0
+250217740,"Braintree Town city, Norfolk County, Massachusetts",37082.0,30121.0,1271.0,46.0,4139.0,0.0,83.0,682.0,740.0,021,7740,25,4139.0,811.0
+2501372390,"Wales town, Hampden County, Massachusetts",2009.0,1938.0,3.0,0.0,0.0,0.0,0.0,18.0,50.0,013,72390,25,0.0,18.0
+2500353050,"Peru town, Berkshire County, Massachusetts",811.0,790.0,2.0,0.0,0.0,0.0,0.0,5.0,14.0,003,53050,25,0.0,5.0
+2500359665,"Sandisfield town, Berkshire County, Massachusetts",859.0,808.0,3.0,0.0,9.0,0.0,5.0,16.0,18.0,003,59665,25,9.0,21.0
+2501337175,"Ludlow town, Hampden County, Massachusetts",21331.0,18970.0,275.0,19.0,140.0,19.0,0.0,237.0,1671.0,013,37175,25,159.0,256.0
+2501376030,"Westfield city, Hampden County, Massachusetts",41667.0,36000.0,645.0,38.0,925.0,29.0,64.0,496.0,3470.0,013,76030,25,954.0,598.0
+250138470,"Brimfield town, Hampden County, Massachusetts",3724.0,3589.0,26.0,0.0,16.0,0.0,0.0,0.0,93.0,013,8470,25,16.0,0.0
+2501319645,"East Longmeadow town, Hampden County, Massachusetts",16156.0,14034.0,787.0,24.0,727.0,0.0,9.0,198.0,377.0,013,19645,25,727.0,231.0
+2501379740,"Wilbraham town, Hampden County, Massachusetts",14553.0,12977.0,408.0,0.0,137.0,0.0,0.0,419.0,612.0,013,79740,25,137.0,419.0
+2501330840,"Holyoke city, Hampden County, Massachusetts",40362.0,17365.0,1154.0,64.0,624.0,0.0,117.0,386.0,20652.0,013,30840,25,624.0,567.0
+2501313660,"Chicopee city, Hampden County, Massachusetts",55778.0,40653.0,2090.0,81.0,992.0,0.0,50.0,848.0,11064.0,013,13660,25,992.0,979.0
+2501328075,"Hampden town, Hampden County, Massachusetts",5193.0,4943.0,11.0,0.0,25.0,0.0,9.0,38.0,167.0,013,28075,25,25.0,47.0
+2501336300,"Longmeadow town, Hampden County, Massachusetts",15876.0,13654.0,106.0,0.0,1117.0,0.0,1.0,271.0,727.0,013,36300,25,1117.0,272.0
+2501367000,"Springfield city, Hampden County, Massachusetts",154613.0,50345.0,29205.0,334.0,3260.0,22.0,152.0,3547.0,67748.0,013,67000,25,3282.0,4033.0
+2501358650,"Russell town, Hampden County, Massachusetts",1330.0,1241.0,24.0,4.0,0.0,0.0,0.0,42.0,19.0,013,58650,25,0.0,46.0
+2501313485,"Chester town, Hampden County, Massachusetts",1529.0,1473.0,9.0,0.0,0.0,0.0,3.0,4.0,40.0,013,13485,25,0.0,7.0
+250230,"County subdivisions not defined, Plymouth County, Massachusetts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,023,0,25,0.0,0.0
+25023170,"Abington town, Plymouth County, Massachusetts",16275.0,14630.0,436.0,0.0,386.0,0.0,118.0,324.0,381.0,023,170,25,386.0,442.0
+2502350145,"Norwell town, Plymouth County, Massachusetts",10897.0,10339.0,45.0,0.0,102.0,24.0,16.0,169.0,202.0,023,50145,25,126.0,185.0
+2502317895,"Duxbury town, Plymouth County, Massachusetts",15572.0,15100.0,130.0,0.0,132.0,0.0,0.0,74.0,136.0,023,17895,25,132.0,74.0
+2502357600,"Rochester town, Plymouth County, Massachusetts",5462.0,5163.0,43.0,0.0,105.0,0.0,40.0,32.0,79.0,023,57600,25,105.0,72.0
+2502338855,"Marshfield town, Plymouth County, Massachusetts",25648.0,24348.0,40.0,34.0,138.0,0.0,522.0,218.0,348.0,023,38855,25,138.0,774.0
+2502360330,"Scituate town, Plymouth County, Massachusetts",18491.0,17709.0,47.0,34.0,107.0,44.0,0.0,255.0,295.0,023,60330,25,151.0,289.0
+2502372985,"Wareham town, Plymouth County, Massachusetts",22535.0,19000.0,511.0,0.0,169.0,0.0,1193.0,1006.0,656.0,023,72985,25,169.0,2199.0
+2502340850,"Middleborough town, Plymouth County, Massachusetts",24213.0,22256.0,567.0,19.0,116.0,34.0,158.0,592.0,471.0,023,40850,25,150.0,769.0
+2502327795,"Halifax town, Plymouth County, Massachusetts",7739.0,7261.0,207.0,0.0,15.0,0.0,0.0,64.0,192.0,023,27795,25,15.0,64.0
+250238085,"Bridgewater town, Plymouth County, Massachusetts",27434.0,22969.0,2134.0,21.0,529.0,14.0,165.0,613.0,989.0,023,8085,25,543.0,799.0
+250239000,"Brockton city, Plymouth County, Massachusetts",95161.0,34827.0,37374.0,334.0,1835.0,0.0,7905.0,2772.0,10114.0,023,9000,25,1835.0,11011.0
+2502330210,"Hingham town, Plymouth County, Massachusetts",23047.0,22006.0,75.0,0.0,363.0,0.0,19.0,252.0,332.0,023,30210,25,363.0,271.0
+2502331645,"Hull town, Plymouth County, Massachusetts",10402.0,9644.0,47.0,16.0,91.0,0.0,47.0,177.0,380.0,023,31645,25,91.0,240.0
+2502354310,"Plymouth town, Plymouth County, Massachusetts",58695.0,53738.0,1077.0,18.0,675.0,0.0,537.0,1088.0,1562.0,023,54310,25,675.0,1643.0
+2502311665,"Carver town, Plymouth County, Massachusetts",11617.0,10959.0,223.0,0.0,78.0,0.0,25.0,209.0,123.0,023,11665,25,78.0,234.0
+2502328285,"Hanover town, Plymouth County, Massachusetts",14328.0,13713.0,76.0,0.0,227.0,0.0,91.0,141.0,80.0,023,28285,25,227.0,232.0
+2502328495,"Hanson town, Plymouth County, Massachusetts",10560.0,9963.0,54.0,11.0,151.0,0.0,8.0,241.0,132.0,023,28495,25,151.0,260.0
+2502338540,"Marion town, Plymouth County, Massachusetts",5065.0,4524.0,87.0,0.0,25.0,0.0,255.0,123.0,51.0,023,38540,25,25.0,378.0
+2502339450,"Mattapoisett town, Plymouth County, Massachusetts",6245.0,6007.0,1.0,15.0,6.0,0.0,43.0,68.0,105.0,023,39450,25,6.0,126.0
+2502375260,"West Bridgewater town, Plymouth County, Massachusetts",7117.0,6537.0,121.0,0.0,7.0,0.0,13.0,135.0,304.0,023,75260,25,7.0,148.0
+2502333220,"Kingston town, Plymouth County, Massachusetts",13210.0,12530.0,120.0,0.0,89.0,0.0,24.0,257.0,190.0,023,33220,25,89.0,281.0
+2502352630,"Pembroke town, Plymouth County, Massachusetts",18230.0,17041.0,85.0,0.0,272.0,0.0,26.0,469.0,337.0,023,52630,25,272.0,495.0
+2502354415,"Plympton town, Plymouth County, Massachusetts",2912.0,2789.0,28.0,0.0,16.0,0.0,11.0,15.0,53.0,023,54415,25,16.0,26.0
+2502318455,"East Bridgewater town, Plymouth County, Massachusetts",14301.0,12741.0,519.0,0.0,291.0,0.0,286.0,233.0,231.0,023,18455,25,291.0,519.0
+250095595,"Beverly city, Essex County, Massachusetts",41431.0,37959.0,352.0,29.0,675.0,0.0,66.0,611.0,1739.0,009,5595,25,675.0,706.0
+2502333920,"Lakeville town, Plymouth County, Massachusetts",11245.0,10712.0,42.0,0.0,63.0,0.0,17.0,166.0,245.0,023,33920,25,63.0,183.0
+2502357775,"Rockland town, Plymouth County, Massachusetts",17849.0,16328.0,604.0,0.0,92.0,0.0,124.0,347.0,354.0,023,57775,25,92.0,471.0
+2502379530,"Whitman town, Plymouth County, Massachusetts",14864.0,13979.0,111.0,0.0,138.0,0.0,86.0,228.0,322.0,023,79530,25,138.0,314.0
+2500921850,"Essex town, Essex County, Massachusetts",3687.0,3647.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,009,21850,25,0.0,20.0
+2500932310,"Ipswich town, Essex County, Massachusetts",13810.0,13061.0,105.0,0.0,94.0,0.0,0.0,118.0,432.0,009,32310,25,94.0,118.0
+2500946365,"North Andover town, Essex County, Massachusetts",30170.0,24982.0,774.0,8.0,1862.0,0.0,52.0,686.0,1806.0,009,46365,25,1862.0,746.0
+2500945175,"Newbury town, Essex County, Massachusetts",6964.0,6643.0,33.0,0.0,53.0,0.0,38.0,16.0,181.0,009,45175,25,53.0,54.0
+2500941095,"Middleton town, Essex County, Massachusetts",9656.0,8317.0,146.0,0.0,102.0,3.0,8.0,164.0,916.0,009,41095,25,105.0,172.0
+2500927620,"Groveland town, Essex County, Massachusetts",6697.0,6359.0,52.0,0.0,15.0,0.0,0.0,0.0,271.0,009,27620,25,15.0,0.0
+2500937995,"Manchester-by-the-Sea town, Essex County, Massachusetts",5327.0,5179.0,0.0,0.0,31.0,0.0,0.0,32.0,85.0,009,37995,25,31.0,32.0
+2500943580,"Nahant town, Essex County, Massachusetts",3488.0,3369.0,36.0,0.0,21.0,0.0,0.0,13.0,49.0,009,43580,25,21.0,13.0
+2500977150,"West Newbury town, Essex County, Massachusetts",4545.0,4427.0,0.0,0.0,39.0,0.0,4.0,31.0,44.0,009,77150,25,39.0,35.0
+2500929405,"Haverhill city, Essex County, Massachusetts",62943.0,45999.0,1457.0,39.0,848.0,0.0,62.0,1238.0,13300.0,009,29405,25,848.0,1339.0
+2500957880,"Rockport town, Essex County, Massachusetts",7184.0,6886.0,11.0,14.0,4.0,0.0,91.0,28.0,150.0,009,57880,25,4.0,133.0
+250090,"County subdivisions not defined, Essex County, Massachusetts",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,009,0,25,0.0,0.0
+2500940430,"Merrimac town, Essex County, Massachusetts",6752.0,6500.0,10.0,0.0,22.0,0.0,0.0,41.0,179.0,009,40430,25,22.0,41.0
+2500952490,"Peabody city, Essex County, Massachusetts",52610.0,44413.0,1401.0,0.0,722.0,0.0,216.0,939.0,4919.0,009,52490,25,722.0,1155.0
+2500959245,"Salisbury town, Essex County, Massachusetts",9021.0,8374.0,83.0,0.0,142.0,14.0,12.0,158.0,238.0,009,59245,25,156.0,170.0
+2500934550,"Lawrence city, Essex County, Massachusetts",79497.0,12349.0,1963.0,36.0,1856.0,0.0,224.0,213.0,62856.0,009,34550,25,1856.0,473.0
+2500937560,"Lynnfield town, Essex County, Massachusetts",12732.0,11544.0,72.0,0.0,642.0,0.0,0.0,116.0,358.0,009,37560,25,642.0,116.0
+2500968645,"Swampscott town, Essex County, Massachusetts",14563.0,13397.0,91.0,0.0,104.0,0.0,0.0,460.0,511.0,009,68645,25,104.0,460.0
+2500974595,"Wenham town, Essex County, Massachusetts",5179.0,4646.0,97.0,0.0,151.0,0.0,10.0,34.0,241.0,009,74595,25,151.0,44.0
+250091465,"Andover town, Essex County, Massachusetts",35375.0,28097.0,870.0,38.0,4344.0,0.0,20.0,683.0,1323.0,009,1465,25,4344.0,741.0
+250097420,"Boxford town, Essex County, Massachusetts",8228.0,7437.0,0.0,0.0,396.0,0.0,0.0,246.0,149.0,009,7420,25,396.0,246.0
+2500959105,"Salem city, Essex County, Massachusetts",43146.0,30993.0,2100.0,103.0,1095.0,0.0,175.0,1104.0,7576.0,009,59105,25,1095.0,1382.0
+2500960015,"Saugus town, Essex County, Massachusetts",28037.0,24182.0,748.0,127.0,1289.0,0.0,0.0,335.0,1356.0,009,60015,25,1289.0,462.0
+2500938400,"Marblehead town, Essex County, Massachusetts",20393.0,18898.0,281.0,0.0,321.0,0.0,43.0,143.0,707.0,009,38400,25,321.0,186.0
+2500916250,"Danvers town, Essex County, Massachusetts",27527.0,24984.0,304.0,15.0,612.0,0.0,10.0,428.0,1174.0,009,16250,25,612.0,453.0
+2500925625,"Georgetown town, Essex County, Massachusetts",8569.0,7966.0,50.0,0.0,79.0,0.0,29.0,122.0,323.0,009,25625,25,79.0,151.0
+2500937490,"Lynn city, Essex County, Massachusetts",93069.0,35252.0,10763.0,210.0,7500.0,114.0,715.0,2319.0,36196.0,009,37490,25,7614.0,3244.0
+2500958405,"Rowley town, Essex County, Massachusetts",6232.0,6041.0,37.0,0.0,59.0,0.0,0.0,65.0,30.0,009,58405,25,59.0,65.0
+2500970150,"Topsfield town, Essex County, Massachusetts",6496.0,6194.0,3.0,0.0,172.0,0.0,0.0,45.0,82.0,009,70150,25,172.0,45.0
+2500945245,"Newburyport city, Essex County, Massachusetts",17890.0,16598.0,241.0,0.0,393.0,0.0,171.0,131.0,356.0,009,45245,25,393.0,302.0

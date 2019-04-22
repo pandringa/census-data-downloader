@@ -1,0 +1,210 @@
+geoid,name,total,same_house,moved_within_county,moved_from_different_county_in_same_state,moved_from_different_state,moved_from_abroad,county,county subdivision,state
+0803991190,"Elizabeth CCD, Elbert County, Colorado",19856.0,17678.0,155.0,1707.0,280.0,36.0,039,91190,08
+0803990019,"Agate CCD, Elbert County, Colorado",551.0,494.0,0.0,22.0,35.0,0.0,039,90019,08
+0807191976,"Kim CCD, Las Animas County, Colorado",307.0,237.0,44.0,26.0,0.0,0.0,071,91976,08
+0803993325,"Simla CCD, Elbert County, Colorado",1433.0,1299.0,83.0,51.0,0.0,0.0,039,93325,08
+0807192508,"Model CCD, Las Animas County, Colorado",349.0,329.0,3.0,17.0,0.0,0.0,071,92508,08
+0807190361,"Branson CCD, Las Animas County, Colorado",156.0,140.0,0.0,11.0,5.0,0.0,071,90361,08
+0807190038,"Aguilar CCD, Las Animas County, Colorado",680.0,562.0,36.0,15.0,67.0,0.0,071,90038,08
+0807193838,"Weston CCD, Las Animas County, Colorado",841.0,774.0,22.0,18.0,17.0,10.0,071,93838,08
+0807193648,"Trinidad CCD, Las Animas County, Colorado",5099.0,4165.0,413.0,328.0,188.0,5.0,071,93648,08
+0812593952,"Yuma CCD, Yuma County, Colorado",3630.0,3309.0,156.0,157.0,8.0,0.0,125,93952,08
+0812593914,"Wray CCD, Yuma County, Colorado",3159.0,2708.0,202.0,119.0,130.0,0.0,125,93914,08
+0807391824,"Hugo CCD, Lincoln County, Colorado",862.0,742.0,93.0,24.0,3.0,0.0,073,91824,08
+0810793933,"Yampa CCD, Routt County, Colorado",777.0,660.0,104.0,11.0,2.0,0.0,107,93933,08
+0810791729,"Hayden CCD, Routt County, Colorado",2153.0,1905.0,77.0,79.0,92.0,0.0,107,91729,08
+0810793496,"Steamboat Springs CCD, Routt County, Colorado",15782.0,13046.0,922.0,1104.0,702.0,8.0,107,93496,08
+0810792717,"Oak Creek CCD, Routt County, Colorado",3005.0,2520.0,158.0,130.0,184.0,13.0,107,92717,08
+0811793287,"Silverthorne CCD, Summit County, Colorado",8117.0,6701.0,466.0,400.0,516.0,34.0,117,93287,08
+0811790380,"Breckenridge CCD, Summit County, Colorado",16037.0,13104.0,1966.0,475.0,431.0,61.0,117,90380,08
+0807390133,"Arriba CCD, Lincoln County, Colorado",311.0,258.0,16.0,27.0,10.0,0.0,073,90133,08
+0807391919,"Karval CCD, Lincoln County, Colorado",411.0,345.0,62.0,4.0,0.0,0.0,073,91919,08
+0807392261,"Limon CCD, Lincoln County, Colorado",2024.0,1819.0,134.0,49.0,22.0,0.0,073,92261,08
+0801991843,"Idaho Springs CCD, Clear Creek County, Colorado",6114.0,5035.0,161.0,549.0,369.0,0.0,019,91843,08
+0801991463,"Georgetown CCD, Clear Creek County, Colorado",2142.0,1922.0,107.0,95.0,15.0,3.0,019,91463,08
+0800392584,"Mosca-Hooper CCD, Alamosa County, Colorado",737.0,619.0,103.0,3.0,9.0,3.0,003,92584,08
+0800390076,"Alamosa CCD, Alamosa County, Colorado",7133.0,5315.0,703.0,643.0,434.0,38.0,003,90076,08
+0802990988,"Delta CCD, Delta County, Colorado",10354.0,8730.0,1062.0,457.0,105.0,0.0,029,90988,08
+0802992831,"Paonia CCD, Delta County, Colorado",2983.0,2761.0,58.0,65.0,99.0,0.0,029,92831,08
+0802990532,"Cedaredge CCD, Delta County, Colorado",6833.0,5835.0,414.0,378.0,206.0,0.0,029,90532,08
+0802991786,"Hotchkiss CCD, Delta County, Colorado",4301.0,3756.0,275.0,91.0,179.0,0.0,029,91786,08
+0804390836,"Cotopaxi CCD, Fremont County, Colorado",3176.0,2742.0,266.0,95.0,73.0,0.0,043,90836,08
+0804392888,"Penrose-Portland CCD, Fremont County, Colorado",3516.0,2993.0,159.0,317.0,29.0,18.0,043,92888,08
+0804391311,"Florence CCD, Fremont County, Colorado",6417.0,5280.0,571.0,250.0,292.0,24.0,043,91311,08
+0810192983,"Pueblo CCD, Pueblo County, Colorado",50780.0,41457.0,5364.0,1771.0,1979.0,209.0,101,92983,08
+0810190722,"Colorado City-Rye CCD, Pueblo County, Colorado",3541.0,3387.0,34.0,80.0,40.0,0.0,101,90722,08
+0810191805,"Huerfano Valley CCD, Pueblo County, Colorado",554.0,490.0,13.0,51.0,0.0,0.0,101,91805,08
+0810193154,"St. Charles Mesa CCD, Pueblo County, Colorado",5580.0,4955.0,419.0,48.0,150.0,8.0,101,93154,08
+0810193002,"Pueblo West CCD, Pueblo County, Colorado",22558.0,19893.0,1389.0,762.0,422.0,92.0,101,93002,08
+0810190209,"Avondale CCD, Pueblo County, Colorado",1650.0,1438.0,87.0,125.0,0.0,0.0,101,90209,08
+0810192660,"Northeast Pueblo CCD, Pueblo County, Colorado",406.0,353.0,23.0,30.0,0.0,0.0,101,92660,08
+0808592546,"Montrose CCD, Montrose County, Colorado",23723.0,19594.0,2181.0,946.0,987.0,15.0,085,92546,08
+0808592698,"Nucla CCD, Montrose County, Colorado",2073.0,1820.0,164.0,60.0,29.0,0.0,085,92698,08
+0808592736,"Olathe CCD, Montrose County, Colorado",5027.0,4313.0,326.0,243.0,142.0,3.0,085,92736,08
+0808793781,"Weldona CCD, Morgan County, Colorado",708.0,626.0,55.0,27.0,0.0,0.0,087,93781,08
+0808790418,"Brush CCD, Morgan County, Colorado",5410.0,4548.0,563.0,248.0,44.0,7.0,087,90418,08
+0808791368,"Fort Morgan CCD, Morgan County, Colorado",8146.0,6659.0,866.0,270.0,345.0,6.0,087,91368,08
+0808793876,"Wiggins CCD, Morgan County, Colorado",2229.0,2017.0,89.0,116.0,7.0,0.0,087,93876,08
+0809391254,"Fairplay CCD, Park County, Colorado",12734.0,10680.0,481.0,1175.0,381.0,17.0,093,91254,08
+0809392128,"Lake George CCD, Park County, Colorado",2319.0,2147.0,49.0,43.0,70.0,10.0,093,92128,08
+0810990551,"Center CCD, Saguache County, Colorado",928.0,889.0,0.0,12.0,27.0,0.0,109,90551,08
+0810990684,"Cochetopa CCD, Saguache County, Colorado",98.0,98.0,0.0,0.0,0.0,0.0,109,90684,08
+0810993135,"Saguache CCD, Saguache County, Colorado",2653.0,2406.0,117.0,56.0,74.0,0.0,109,93135,08
+0807791425,"Fruita CCD, Mesa County, Colorado",20739.0,17525.0,2147.0,404.0,570.0,93.0,077,91425,08
+0807790665,"Clifton CCD, Mesa County, Colorado",23004.0,19039.0,2459.0,784.0,722.0,0.0,077,90665,08
+0807791596,"Grand Junction CCD, Mesa County, Colorado",69181.0,54105.0,9459.0,2832.0,2630.0,155.0,077,91596,08
+0807790950,"De Beque CCD, Mesa County, Colorado",828.0,699.0,31.0,50.0,48.0,0.0,077,90950,08
+0807790703,"Collbran CCD, Mesa County, Colorado",1837.0,1593.0,52.0,120.0,72.0,0.0,077,90703,08
+0807791501,"Glade Park-Gateway CCD, Mesa County, Colorado",2197.0,2160.0,0.0,12.0,25.0,0.0,077,91501,08
+0809991558,"Granada CCD, Prowers County, Colorado",253.0,199.0,37.0,8.0,9.0,0.0,099,91558,08
+0809992147,"Lamar CCD, Prowers County, Colorado",5975.0,4796.0,553.0,255.0,363.0,8.0,099,92147,08
+0809993667,"Two Butte Creek CCD, Prowers County, Colorado",217.0,197.0,3.0,0.0,17.0,0.0,099,93667,08
+0804191387,"Fountain CCD, El Paso County, Colorado",52068.0,39412.0,4690.0,389.0,6385.0,1192.0,041,91387,08
+0809991748,"Holly CCD, Prowers County, Colorado",689.0,593.0,79.0,15.0,2.0,0.0,099,91748,08
+0805392109,"Lake City CCD, Hinsdale County, Colorado",732.0,671.0,0.0,14.0,47.0,0.0,053,92109,08
+0804191197,"Elsmere CCD, El Paso County, Colorado",47711.0,37721.0,6000.0,697.0,2902.0,391.0,041,91197,08
+0804192907,"Pikes Peak CCD, El Paso County, Colorado",3211.0,2801.0,176.0,50.0,184.0,0.0,041,92907,08
+0804190627,"Cheyenne Mountain CCD, El Paso County, Colorado",8526.0,7277.0,384.0,118.0,676.0,71.0,041,90627,08
+0812190798,"Cope CCD, Washington County, Colorado",480.0,468.0,0.0,0.0,12.0,0.0,121,90798,08
+0804193420,"Southeastern El Paso CCD, El Paso County, Colorado",11146.0,9248.0,1123.0,207.0,408.0,160.0,041,93420,08
+0804190304,"Black Forest-Peyton CCD, El Paso County, Colorado",63345.0,54162.0,3806.0,1494.0,3778.0,105.0,041,90304,08
+0804190741,"Colorado Springs CCD, El Paso County, Colorado",264490.0,206347.0,35702.0,5658.0,15451.0,1332.0,041,90741,08
+0804192565,"Monument CCD, El Paso County, Colorado",15993.0,13015.0,1026.0,298.0,1588.0,66.0,041,92565,08
+0812190057,"Akron CCD, Washington County, Colorado",2345.0,1692.0,275.0,257.0,110.0,11.0,121,90057,08
+0812192774,"Otis CCD, Washington County, Colorado",901.0,784.0,34.0,24.0,56.0,3.0,121,92774,08
+0804991577,"Granby CCD, Grand County, Colorado",10510.0,8474.0,975.0,547.0,494.0,20.0,049,91577,08
+0804992033,"Kremmling CCD, Grand County, Colorado",2280.0,2000.0,132.0,93.0,55.0,0.0,049,92033,08
+0800591178,"East Arapahoe CCD, Arapahoe County, Colorado",22412.0,18360.0,2433.0,799.0,653.0,167.0,005,91178,08
+0800593458,"Southwest Arapahoe CCD, Arapahoe County, Colorado",161500.0,135272.0,8957.0,11063.0,5836.0,372.0,005,93458,08
+0800593382,"South Aurora CCD, Arapahoe County, Colorado",196501.0,162307.0,15650.0,10083.0,7461.0,1000.0,005,93382,08
+0808991406,"Fowler CCD, Otero County, Colorado",1240.0,1053.0,84.0,69.0,31.0,3.0,089,91406,08
+0808993116,"Rocky Ford CCD, Otero County, Colorado",2368.0,1919.0,139.0,134.0,166.0,10.0,089,93116,08
+0808992413,"Manzanola CCD, Otero County, Colorado",532.0,455.0,19.0,24.0,32.0,2.0,089,92413,08
+0808990608,"Cheraw CCD, Otero County, Colorado",1321.0,1228.0,24.0,30.0,34.0,5.0,089,90608,08
+0802193825,"West Conejos CCD, Conejos County, Colorado",254.0,248.0,0.0,6.0,0.0,0.0,021,93825,08
+0811393844,"West San Miguel CCD, San Miguel County, Colorado",165.0,135.0,21.0,9.0,0.0,0.0,113,93844,08
+0808992090,"La Junta CCD, Otero County, Colorado",4336.0,3418.0,402.0,395.0,114.0,7.0,089,92090,08
+0808993629,"Timpas CCD, Otero County, Colorado",99.0,89.0,10.0,0.0,0.0,0.0,089,93629,08
+0804390494,"Cañon City CCD, Fremont County, Colorado",23683.0,20298.0,2160.0,475.0,732.0,18.0,043,90494,08
+0804593832,"West Garfield CCD, Garfield County, Colorado",4554.0,3763.0,382.0,243.0,166.0,0.0,045,93832,08
+0811593450,"South Sedgwick CCD, Sedgwick County, Colorado",278.0,261.0,6.0,11.0,0.0,0.0,115,93450,08
+0812193905,"Woodlin CCD, Washington County, Colorado",464.0,361.0,17.0,62.0,24.0,0.0,121,93905,08
+0801193388,"South Bent CCD, Bent County, Colorado",151.0,151.0,0.0,0.0,0.0,0.0,011,93388,08
+0812591850,"Idalia-Joes CCD, Yuma County, Colorado",779.0,715.0,11.0,49.0,0.0,4.0,125,91850,08
+0807793857,"Whitewater-Kannah Creek CCD, Mesa County, Colorado",2740.0,2612.0,119.0,7.0,2.0,0.0,077,93857,08
+0801490408,"Broomfield CCD, Broomfield County, Colorado",49401.0,39814.0,1629.0,5331.0,2425.0,202.0,014,90408,08
+0810393040,"Rangely CCD, Rio Blanco County, Colorado",2275.0,1898.0,132.0,87.0,152.0,6.0,103,93040,08
+0811591900,"Julesburg CCD, Sedgwick County, Colorado",1623.0,1303.0,63.0,159.0,93.0,5.0,115,91900,08
+0809192793,"Ouray CCD, Ouray County, Colorado",4272.0,3793.0,162.0,115.0,196.0,6.0,091,92793,08
+0810392451,"Meeker CCD, Rio Blanco County, Colorado",3460.0,2863.0,330.0,133.0,129.0,5.0,103,92451,08
+0812391349,"Fort Lupton CCD, Weld County, Colorado",6041.0,5447.0,207.0,305.0,82.0,0.0,123,91349,08
+0812391881,"Johnstown-Milliken CCD, Weld County, Colorado",24866.0,21838.0,1066.0,1691.0,189.0,82.0,123,91881,08
+0812391634,"Greeley CCD, Weld County, Colorado",73642.0,57000.0,8067.0,5105.0,3309.0,161.0,123,91634,08
+0812390190,"Ault CCD, Weld County, Colorado",5695.0,4689.0,577.0,280.0,138.0,11.0,123,90190,08
+0812391216,"Erie-Frederick CCD, Weld County, Colorado",35333.0,30380.0,1234.0,2647.0,918.0,154.0,123,91216,08
+0812391653,"Grover CCD, Weld County, Colorado",545.0,459.0,37.0,7.0,42.0,0.0,123,91653,08
+0812393059,"Raymer CCD, Weld County, Colorado",639.0,598.0,32.0,4.0,5.0,0.0,123,93059,08
+0812391938,"Keenesburg-Hudson CCD, Weld County, Colorado",8912.0,7888.0,476.0,427.0,114.0,7.0,123,91938,08
+0812391957,"Kersey-Gill CCD, Weld County, Colorado",5101.0,4594.0,285.0,46.0,176.0,0.0,123,91957,08
+0812392166,"La Salle-Gilcrest CCD, Weld County, Colorado",3464.0,3076.0,193.0,167.0,19.0,9.0,123,92166,08
+0812392926,"Platteville CCD, Weld County, Colorado",2747.0,2435.0,187.0,99.0,21.0,5.0,123,92926,08
+0802192071,"La Jara CCD, Conejos County, Colorado",1897.0,1656.0,101.0,127.0,13.0,0.0,021,92071,08
+0812393895,"Windsor CCD, Weld County, Colorado",20640.0,17760.0,1258.0,1084.0,517.0,21.0,123,93895,08
+0802192375,"Manassa CCD, Conejos County, Colorado",1184.0,1140.0,5.0,2.0,33.0,4.0,021,92375,08
+0802190095,"Antonito CCD, Conejos County, Colorado",192.0,175.0,17.0,0.0,0.0,0.0,021,90095,08
+0802793819,"Westcliffe CCD, Custer County, Colorado",4042.0,3569.0,217.0,226.0,30.0,0.0,027,93819,08
+0802393192,"San Luis CCD, Costilla County, Colorado",344.0,236.0,0.0,52.0,56.0,0.0,023,93192,08
+0802390323,"Blanca CCD, Costilla County, Colorado",803.0,738.0,4.0,25.0,36.0,0.0,023,90323,08
+0800192622,"North Aurora CCD, Adams County, Colorado",11345.0,9396.0,248.0,1124.0,515.0,62.0,001,92622,08
+0800190399,"Brighton CCD, Adams County, Colorado",58884.0,50515.0,4098.0,2902.0,1357.0,12.0,001,90399,08
+0800191159,"East Adams CCD, Adams County, Colorado",7990.0,7191.0,214.0,307.0,237.0,41.0,001,91159,08
+0800190760,"Commerce City CCD, Adams County, Colorado",8501.0,7231.0,699.0,381.0,170.0,20.0,001,90760,08
+0800193800,"West Adams CCD, Adams County, Colorado",159498.0,135108.0,10031.0,9062.0,4814.0,483.0,001,93800,08
+0803590513,"Castle Rock CCD, Douglas County, Colorado",40326.0,33192.0,3846.0,1565.0,1611.0,112.0,035,90513,08
+0803593249,"Sedalia CCD, Douglas County, Colorado",125631.0,107808.0,6975.0,5499.0,4850.0,499.0,035,93249,08
+0803592850,"Parker CCD, Douglas County, Colorado",98835.0,82197.0,6885.0,5359.0,4017.0,377.0,035,92850,08
+0806592242,"Leadville North CCD, Lake County, Colorado",298.0,239.0,9.0,34.0,16.0,0.0,065,92242,08
+0803792489,"Minturn-Red Cliff CCD, Eagle County, Colorado",17237.0,14917.0,1024.0,614.0,617.0,65.0,037,92489,08
+0803790247,"Basalt CCD, Eagle County, Colorado",5477.0,4958.0,91.0,254.0,143.0,31.0,037,90247,08
+0803791140,"Eagle-Gypsum CCD, Eagle County, Colorado",13116.0,11705.0,403.0,490.0,294.0,224.0,037,91140,08
+0806592223,"Leadville CCD, Lake County, Colorado",4481.0,3509.0,301.0,258.0,413.0,0.0,065,92223,08
+0806791862,"Ignacio CCD, La Plata County, Colorado",3373.0,3118.0,131.0,59.0,52.0,13.0,067,91862,08
+0806790266,"Bayfield CCD, La Plata County, Colorado",7957.0,7002.0,499.0,188.0,266.0,2.0,067,90266,08
+0806791083,"Durango CCD, La Plata County, Colorado",26696.0,20740.0,3013.0,934.0,1988.0,21.0,067,91083,08
+0808191017,"Dinosaur CCD, Moffat County, Colorado",292.0,234.0,0.0,27.0,31.0,0.0,081,91017,08
+0806791102,"Durango Southwest CCD, La Plata County, Colorado",4585.0,4050.0,281.0,67.0,178.0,9.0,067,91102,08
+0808192432,"Maybell-Powder Wash CCD, Moffat County, Colorado",143.0,139.0,0.0,4.0,0.0,0.0,081,92432,08
+0808190855,"Craig CCD, Moffat County, Colorado",10076.0,8161.0,1175.0,455.0,263.0,22.0,081,90855,08
+0809790171,"Aspen CCD, Pitkin County, Colorado",8832.0,7382.0,614.0,384.0,398.0,54.0,097,90171,08
+0809793344,"Snowmass Village CCD, Pitkin County, Colorado",6281.0,5585.0,140.0,405.0,105.0,46.0,097,93344,08
+0810592527,"Monte Vista CCD, Rio Grande County, Colorado",2629.0,2053.0,110.0,360.0,106.0,0.0,105,92527,08
+0801790646,"Cheyenne Wells CCD, Cheyenne County, Colorado",1140.0,885.0,107.0,117.0,26.0,5.0,017,90646,08
+0810593230,"Sargent CCD, Rio Grande County, Colorado",691.0,637.0,7.0,40.0,7.0,0.0,105,93230,08
+0810590969,"Del Norte CCD, Rio Grande County, Colorado",2575.0,2249.0,162.0,57.0,104.0,3.0,105,90969,08
+0801792014,"Kit Carson CCD, Cheyenne County, Colorado",527.0,420.0,41.0,63.0,3.0,0.0,017,92014,08
+0801192185,"Las Animas CCD, Bent County, Colorado",2723.0,2313.0,138.0,252.0,20.0,0.0,011,92185,08
+0801192356,"McClave CCD, Bent County, Colorado",629.0,555.0,19.0,29.0,26.0,0.0,011,92356,08
+0802592755,"Ordway CCD, Crowley County, Colorado",3066.0,2704.0,75.0,181.0,106.0,0.0,025,92755,08
+0802593553,"Sugar City CCD, Crowley County, Colorado",335.0,291.0,1.0,31.0,12.0,0.0,025,93553,08
+0803393078,"Rico CCD, Dolores County, Colorado",338.0,263.0,9.0,39.0,27.0,0.0,033,93078,08
+0803391064,"Dove Creek CCD, Dolores County, Colorado",1246.0,1094.0,77.0,22.0,50.0,3.0,033,91064,08
+0811193306,"Silverton CCD, San Juan County, Colorado",490.0,415.0,55.0,20.0,0.0,0.0,111,93306,08
+0805793724,"Walden CCD, Jackson County, Colorado",1027.0,896.0,83.0,38.0,1.0,9.0,057,93724,08
+0806992299,"Livermore CCD, Larimer County, Colorado",3640.0,3309.0,85.0,96.0,97.0,53.0,069,92299,08
+0806993610,"Timnath-Wellington CCD, Larimer County, Colorado",19601.0,17011.0,1209.0,549.0,788.0,44.0,069,93610,08
+0806990285,"Berthoud CCD, Larimer County, Colorado",12372.0,10798.0,509.0,805.0,260.0,0.0,069,90285,08
+0806992337,"Loveland CCD, Larimer County, Colorado",90509.0,77497.0,7883.0,2617.0,2264.0,248.0,069,92337,08
+0806991235,"Estes Park CCD, Larimer County, Colorado",10577.0,8997.0,569.0,229.0,647.0,135.0,069,91235,08
+0806991330,"Fort Collins CCD, Larimer County, Colorado",136228.0,99266.0,19592.0,8413.0,8224.0,733.0,069,91330,08
+0807590931,"Crook CCD, Logan County, Colorado",607.0,553.0,27.0,7.0,20.0,0.0,075,90931,08
+0807592470,"Merino CCD, Logan County, Colorado",804.0,720.0,59.0,19.0,6.0,0.0,075,92470,08
+0807591292,"Fleming CCD, Logan County, Colorado",1685.0,1446.0,125.0,83.0,30.0,1.0,075,91292,08
+0807592869,"Peetz CCD, Logan County, Colorado",416.0,397.0,5.0,1.0,13.0,0.0,075,92869,08
+0807593515,"Sterling CCD, Logan County, Colorado",13417.0,10305.0,1428.0,1131.0,439.0,114.0,075,93515,08
+0808392394,"Mancos CCD, Montezuma County, Colorado",3318.0,2856.0,244.0,71.0,147.0,0.0,083,92394,08
+0808393705,"Ute Mountain CCD, Montezuma County, Colorado",158.0,128.0,0.0,16.0,14.0,0.0,083,93705,08
+0808390817,"Cortez CCD, Montezuma County, Colorado",12123.0,10390.0,1102.0,121.0,499.0,11.0,083,90817,08
+0808391045,"Dolores CCD, Montezuma County, Colorado",2642.0,2427.0,40.0,77.0,98.0,0.0,083,91045,08
+0808392945,"Pleasant View CCD, Montezuma County, Colorado",480.0,431.0,0.0,0.0,49.0,0.0,083,92945,08
+0811392679,"Norwood CCD, San Miguel County, Colorado",1568.0,1386.0,17.0,64.0,101.0,0.0,113,92679,08
+0811393591,"Telluride CCD, San Miguel County, Colorado",4996.0,4011.0,395.0,130.0,415.0,45.0,113,93591,08
+0811990912,"Cripple Creek CCD, Teller County, Colorado",2510.0,2153.0,148.0,158.0,51.0,0.0,119,90912,08
+0811991026,"Divide CCD, Teller County, Colorado",18583.0,15492.0,908.0,1402.0,781.0,0.0,119,91026,08
+0801393686,"Upper St. Vrain CCD, Boulder County, Colorado",830.0,719.0,56.0,23.0,32.0,0.0,013,93686,08
+0801390342,"Boulder CCD, Boulder County, Colorado",101190.0,68785.0,16266.0,6097.0,8680.0,1362.0,013,90342,08
+0801392318,"Longmont CCD, Boulder County, Colorado",74458.0,62928.0,5447.0,2799.0,3161.0,123.0,013,92318,08
+0801392052,"Lafayette-Louisville CCD, Boulder County, Colorado",58268.0,48156.0,4441.0,2470.0,3055.0,146.0,013,92052,08
+0801390228,"Bald Mountain CCD, Boulder County, Colorado",10947.0,9115.0,1005.0,259.0,497.0,71.0,013,90228,08
+0800792812,"Pagosa Springs CCD, Archuleta County, Colorado",9026.0,7935.0,310.0,309.0,454.0,18.0,007,92812,08
+0800790114,"Arboles CCD, Archuleta County, Colorado",564.0,503.0,0.0,39.0,12.0,10.0,007,90114,08
+0809591767,"Holyoke CCD, Phillips County, Colorado",2083.0,1810.0,69.0,114.0,86.0,4.0,095,91767,08
+0809591710,"Haxtun CCD, Phillips County, Colorado",1243.0,1126.0,31.0,72.0,14.0,0.0,095,91710,08
+0803191007,"Denver CCD, Denver County, Colorado",359849.0,272845.0,38204.0,25591.0,21523.0,1686.0,031,91007,08
+0806191691,"Haswell CCD, Kiowa County, Colorado",94.0,94.0,0.0,0.0,0.0,0.0,061,91691,08
+0806193268,"Sheridan Lake CCD, Kiowa County, Colorado",314.0,289.0,5.0,16.0,4.0,0.0,061,93268,08
+0806191121,"Eads CCD, Kiowa County, Colorado",772.0,739.0,14.0,13.0,6.0,0.0,061,91121,08
+0805592204,"La Veta CCD, Huerfano County, Colorado",1324.0,1119.0,46.0,67.0,88.0,4.0,055,92204,08
+0805591444,"Gardner CCD, Huerfano County, Colorado",300.0,292.0,0.0,0.0,8.0,0.0,055,91444,08
+0805593743,"Walsenburg CCD, Huerfano County, Colorado",2547.0,2223.0,104.0,101.0,119.0,0.0,055,93743,08
+0800990475,"Campo CCD, Baca County, Colorado",233.0,169.0,54.0,7.0,3.0,0.0,009,90475,08
+0800993477,"Springfield CCD, Baca County, Colorado",1672.0,1416.0,158.0,66.0,32.0,0.0,009,93477,08
+0800993762,"Walsh CCD, Baca County, Colorado",897.0,801.0,29.0,23.0,44.0,0.0,009,93762,08
+0800992964,"Pritchett CCD, Baca County, Colorado",228.0,216.0,0.0,9.0,3.0,0.0,009,92964,08
+0801593173,"Salida CCD, Chaffee County, Colorado",8384.0,7217.0,472.0,406.0,125.0,164.0,015,93173,08
+0801590437,"Buena Vista CCD, Chaffee County, Colorado",7543.0,6457.0,597.0,160.0,329.0,0.0,015,90437,08
+0804790570,"Central City CCD, Gilpin County, Colorado",4916.0,4161.0,251.0,316.0,188.0,0.0,047,90570,08
+0806391273,"Flagler CCD, Kit Carson County, Colorado",923.0,816.0,47.0,55.0,5.0,0.0,063,91273,08
+0806393534,"Stratton CCD, Kit Carson County, Colorado",1158.0,987.0,81.0,38.0,52.0,0.0,063,93534,08
+0806390456,"Burlington CCD, Kit Carson County, Colorado",3790.0,3249.0,333.0,141.0,57.0,10.0,063,90456,08
+0804591520,"Glenwood Springs CCD, Garfield County, Colorado",17341.0,14387.0,988.0,1016.0,855.0,95.0,045,91520,08
+0804593097,"Rifle CCD, Garfield County, Colorado",9223.0,7485.0,1067.0,315.0,356.0,0.0,045,93097,08
+0804592603,"New Castle CCD, Garfield County, Colorado",8441.0,7372.0,740.0,90.0,115.0,124.0,045,92603,08
+0805193211,"Sapinero CCD, Gunnison County, Colorado",251.0,222.0,3.0,0.0,26.0,0.0,051,93211,08
+0805193363,"Somerset CCD, Gunnison County, Colorado",437.0,333.0,73.0,17.0,7.0,7.0,051,93363,08
+0805191672,"Gunnison CCD, Gunnison County, Colorado",8953.0,7029.0,832.0,788.0,277.0,27.0,051,91672,08
+0805190893,"Crested Butte CCD, Gunnison County, Colorado",4365.0,3421.0,544.0,172.0,228.0,0.0,051,90893,08
+0805991539,"Golden CCD, Jefferson County, Colorado",32619.0,26764.0,2238.0,1709.0,1607.0,301.0,059,91539,08
+0805992641,"Northeast Jefferson CCD, Jefferson County, Colorado",361280.0,307383.0,23800.0,17684.0,11496.0,917.0,059,92641,08
+0805993439,"South Jefferson CCD, Jefferson County, Colorado",23376.0,21474.0,1047.0,394.0,415.0,46.0,059,93439,08
+0805990589,"Central Jefferson CCD, Jefferson County, Colorado",22472.0,19483.0,1142.0,940.0,773.0,134.0,059,90589,08
+0807990874,"Creede CCD, Mineral County, Colorado",696.0,628.0,3.0,26.0,34.0,5.0,079,90874,08

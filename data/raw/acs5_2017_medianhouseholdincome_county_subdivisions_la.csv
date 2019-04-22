@@ -1,0 +1,573 @@
+B19013_001E,name,county,county subdivision,state
+34716.0,"District 2, East Carroll Parish, Louisiana",035,94249,22
+24821.0,"District 3, East Carroll Parish, Louisiana",035,94429,22
+19258.0,"District 5, East Carroll Parish, Louisiana",035,94807,22
+11738.0,"District 8, East Carroll Parish, Louisiana",035,95269,22
+18561.0,"District 6, East Carroll Parish, Louisiana",035,94975,22
+19245.0,"District 7, East Carroll Parish, Louisiana",035,95128,22
+89084.0,"District 11, Ascension Parish, Louisiana",005,95544,22
+35727.0,"District 1, Ascension Parish, Louisiana",005,94006,22
+59713.0,"District 3, Ascension Parish, Louisiana",005,94387,22
+73856.0,"District 5, Ascension Parish, Louisiana",005,94765,22
+91498.0,"District 8, Ascension Parish, Louisiana",005,95244,22
+70875.0,"District 2, Ascension Parish, Louisiana",005,94206,22
+109522.0,"District 4, Ascension Parish, Louisiana",005,94572,22
+71964.0,"District 6, Ascension Parish, Louisiana",005,94938,22
+64263.0,"District 10, Ascension Parish, Louisiana",005,95466,22
+87314.0,"District 7, Ascension Parish, Louisiana",005,95097,22
+62296.0,"District 9, Ascension Parish, Louisiana",005,95361,22
+74512.0,"District F, Lafayette Parish, Louisiana",055,95812,22
+42282.0,"District A, Lafayette Parish, Louisiana",055,95737,22
+41603.0,"District E, Lafayette Parish, Louisiana",055,95797,22
+73735.0,"District G, Lafayette Parish, Louisiana",055,95827,22
+53105.0,"District 4, Grant Parish, Louisiana",043,94618,22
+23286.0,"District 3, Grant Parish, Louisiana",043,94441,22
+49930.0,"District 2, Jefferson Parish, Louisiana",051,94273,22
+36320.0,"District 3, Jefferson Parish, Louisiana",051,94453,22
+58813.0,"District 4, Jefferson Parish, Louisiana",051,94630,22
+50826.0,"District 1, Jefferson Parish, Louisiana",051,94069,22
+54745.0,"District 5, Jefferson Parish, Louisiana",051,94829,22
+43125.0,"District 1, Beauregard Parish, Louisiana",011,94015,22
+31875.0,"District 3A, Beauregard Parish, Louisiana",011,94552,22
+37250.0,"District 3B, Beauregard Parish, Louisiana",011,94555,22
+47821.0,"District 3D, Beauregard Parish, Louisiana",011,94561,22
+55893.0,"District 3E, Beauregard Parish, Louisiana",011,94564,22
+61424.0,"District 4A, Beauregard Parish, Louisiana",011,94732,22
+41086.0,"District 2, Beauregard Parish, Louisiana",011,94213,22
+41632.0,"District 5, Beauregard Parish, Louisiana",011,94774,22
+61739.0,"District 4B, Beauregard Parish, Louisiana",011,94744,22
+54766.0,"District 3C, Beauregard Parish, Louisiana",011,94558,22
+30595.0,"District 4, Bienville Parish, Louisiana",013,94579,22
+41726.0,"District 5, Bienville Parish, Louisiana",013,94777,22
+17232.0,"District 2, Bienville Parish, Louisiana",013,94216,22
+45774.0,"District 6, Bienville Parish, Louisiana",013,94945,22
+34120.0,"District 7, Bienville Parish, Louisiana",013,95104,22
+32115.0,"District 1, Bienville Parish, Louisiana",013,94018,22
+40854.0,"District 3, Bienville Parish, Louisiana",013,94396,22
+79779.0,"District 6, Bossier Parish, Louisiana",015,94948,22
+25040.0,"District 7, Bossier Parish, Louisiana",015,95107,22
+50384.0,"District 10, Bossier Parish, Louisiana",015,95470,22
+72664.0,"District 5, Bossier Parish, Louisiana",015,94780,22
+61865.0,"District 2, Bossier Parish, Louisiana",015,94219,22
+60648.0,"District 3, Bossier Parish, Louisiana",015,94399,22
+42715.0,"District 4, Bossier Parish, Louisiana",015,94582,22
+70000.0,"District 12, Bossier Parish, Louisiana",015,95614,22
+45492.0,"District 1, Bossier Parish, Louisiana",015,94021,22
+34976.0,"District 9, Bossier Parish, Louisiana",015,95368,22
+30167.0,"District 8, Bossier Parish, Louisiana",015,95251,22
+52034.0,"District 11, Bossier Parish, Louisiana",015,95548,22
+68125.0,"District 4, Cameron Parish, Louisiana",023,94594,22
+-666666666.0,"District 6, Cameron Parish, Louisiana",023,94960,22
+102452.0,"District 5, Cameron Parish, Louisiana",023,94792,22
+45789.0,"District 2, Cameron Parish, Louisiana",023,94231,22
+57857.0,"District 1, Cameron Parish, Louisiana",023,94033,22
+49265.0,"District 3, Cameron Parish, Louisiana",023,94411,22
+45110.0,"District 2, East Feliciana Parish, Louisiana",037,94252,22
+45313.0,"District 4A, East Feliciana Parish, Louisiana",037,94738,22
+51188.0,"District 4B, East Feliciana Parish, Louisiana",037,94750,22
+51075.0,"District 1B, East Feliciana Parish, Louisiana",037,94177,22
+44420.0,"District 3, East Feliciana Parish, Louisiana",037,94432,22
+44750.0,"District 6, East Feliciana Parish, Louisiana",037,94978,22
+35450.0,"District 7, East Feliciana Parish, Louisiana",037,95131,22
+52687.0,"District B, Lafayette Parish, Louisiana",055,95752,22
+37905.0,"District D, Lafayette Parish, Louisiana",055,95782,22
+25340.0,"District C, Lafayette Parish, Louisiana",055,95767,22
+30024.0,"District 1, Evangeline Parish, Louisiana",039,94051,22
+36923.0,"District 3, Evangeline Parish, Louisiana",039,94435,22
+43482.0,"District 7, Evangeline Parish, Louisiana",039,95134,22
+17196.0,"District 13, Evangeline Parish, Louisiana",039,95674,22
+39406.0,"District 2, Evangeline Parish, Louisiana",039,94255,22
+38013.0,"District 4, Evangeline Parish, Louisiana",039,94612,22
+16889.0,"District 11, Evangeline Parish, Louisiana",039,95560,22
+27549.0,"District 12, Evangeline Parish, Louisiana",039,95626,22
+65226.0,"District 10, Evangeline Parish, Louisiana",039,95485,22
+34750.0,"District 6, Evangeline Parish, Louisiana",039,94981,22
+21623.0,"District 9, Evangeline Parish, Louisiana",039,95389,22
+59397.0,"District 1A, East Feliciana Parish, Louisiana",037,94168,22
+36875.0,"District 5, East Feliciana Parish, Louisiana",037,94810,22
+40641.0,"District 5, Evangeline Parish, Louisiana",039,94813,22
+29324.0,"District 8, Evangeline Parish, Louisiana",039,95272,22
+29710.0,"District 1, Iberia Parish, Louisiana",045,94060,22
+45531.0,"District 11, Iberia Parish, Louisiana",045,95566,22
+47319.0,"District 3, Iberia Parish, Louisiana",045,94444,22
+38563.0,"District 6, Iberia Parish, Louisiana",045,94990,22
+34250.0,"District 5, Iberia Parish, Louisiana",045,94822,22
+46720.0,"District 10, Iberia Parish, Louisiana",045,95491,22
+50521.0,"District 14, Iberia Parish, Louisiana",045,95707,22
+62200.0,"District 7, Iberia Parish, Louisiana",045,95143,22
+50026.0,"District 9, Iberia Parish, Louisiana",045,95395,22
+31747.0,"District 4, Iberia Parish, Louisiana",045,94621,22
+77480.0,"District 8, Iberia Parish, Louisiana",045,95281,22
+37470.0,"District 12, Iberia Parish, Louisiana",045,95629,22
+55024.0,"District 13, Iberia Parish, Louisiana",045,95677,22
+30341.0,"District 2, Iberia Parish, Louisiana",045,94264,22
+42396.0,"District 4, Lincoln Parish, Louisiana",061,94642,22
+58826.0,"District 5, Lincoln Parish, Louisiana",061,94840,22
+52036.0,"District 3, Lincoln Parish, Louisiana",061,94465,22
+36944.0,"District B, St. Bernard Parish, Louisiana",087,95761,22
+43160.0,"District E, St. Bernard Parish, Louisiana",087,95806,22
+42598.0,"District A, St. Bernard Parish, Louisiana",087,95746,22
+58207.0,"District D, St. Bernard Parish, Louisiana",087,95791,22
+53214.0,"District C, St. Bernard Parish, Louisiana",087,95776,22
+33182.0,"District 2, St. Helena Parish, Louisiana",091,94315,22
+41719.0,"District 4, St. Helena Parish, Louisiana",091,94675,22
+40938.0,"District 6, St. Helena Parish, Louisiana",091,95038,22
+46486.0,"District 1, St. Helena Parish, Louisiana",091,94111,22
+43381.0,"District 3, St. Helena Parish, Louisiana",091,94498,22
+20205.0,"District 5, St. Helena Parish, Louisiana",091,94873,22
+26411.0,"District 7, Webster Parish, Louisiana",119,95227,22
+27581.0,"District 11, Webster Parish, Louisiana",119,95602,22
+29732.0,"District 1, Webster Parish, Louisiana",119,94150,22
+41813.0,"District 6, Webster Parish, Louisiana",119,95077,22
+32203.0,"District 12, Webster Parish, Louisiana",119,95659,22
+31319.0,"District 5, Webster Parish, Louisiana",119,94912,22
+29907.0,"District 8, Webster Parish, Louisiana",119,95353,22
+18390.0,"District 9, Webster Parish, Louisiana",119,95458,22
+21627.0,"District 10, Webster Parish, Louisiana",119,95536,22
+43277.0,"District 4, Webster Parish, Louisiana",119,94714,22
+17618.0,"District 2, Webster Parish, Louisiana",119,94354,22
+41622.0,"District 3, Webster Parish, Louisiana",119,94537,22
+107500.0,"District 4, West Baton Rouge Parish, Louisiana",121,94717,22
+46327.0,"District 3, West Baton Rouge Parish, Louisiana",121,94540,22
+60056.0,"District 1, West Baton Rouge Parish, Louisiana",121,94153,22
+89472.0,"District 2, West Baton Rouge Parish, Louisiana",121,94357,22
+33281.0,"District 5, West Baton Rouge Parish, Louisiana",121,94915,22
+60383.0,"District 6, West Baton Rouge Parish, Louisiana",121,95080,22
+75669.0,"District 7, West Baton Rouge Parish, Louisiana",121,95230,22
+45855.0,"District 4A, De Soto Parish, Louisiana",031,94735,22
+43977.0,"District 1A, De Soto Parish, Louisiana",031,94165,22
+57000.0,"District 3, De Soto Parish, Louisiana",031,94423,22
+28371.0,"District 4B, De Soto Parish, Louisiana",031,94747,22
+42063.0,"District 1B, De Soto Parish, Louisiana",031,94174,22
+64583.0,"District 2, De Soto Parish, Louisiana",031,94243,22
+50357.0,"District 1C, De Soto Parish, Louisiana",031,94183,22
+24076.0,"District 6, De Soto Parish, Louisiana",031,94969,22
+32038.0,"District 4C, De Soto Parish, Louisiana",031,94753,22
+41683.0,"District 5, De Soto Parish, Louisiana",031,94801,22
+32894.0,"District 4D, De Soto Parish, Louisiana",031,94756,22
+35000.0,"District 3, Iberville Parish, Louisiana",047,94447,22
+51569.0,"District 6, Iberville Parish, Louisiana",047,94993,22
+61250.0,"District 9, Iberville Parish, Louisiana",047,95398,22
+29271.0,"District 1, Iberville Parish, Louisiana",047,94063,22
+69250.0,"District 2, Iberville Parish, Louisiana",047,94267,22
+42788.0,"District 10, Iberville Parish, Louisiana",047,95494,22
+47031.0,"District 8, Iberville Parish, Louisiana",047,95284,22
+42843.0,"District 11, Iberville Parish, Louisiana",047,95569,22
+44625.0,"District 5, Iberville Parish, Louisiana",047,94825,22
+27321.0,"District 4, Iberville Parish, Louisiana",047,94624,22
+39900.0,"District 12, Iberville Parish, Louisiana",047,95632,22
+67644.0,"District 13, Iberville Parish, Louisiana",047,95678,22
+35750.0,"District 7, Iberville Parish, Louisiana",047,95146,22
+45655.0,"District 6, Claiborne Parish, Louisiana",027,94966,22
+19157.0,"District 10, Claiborne Parish, Louisiana",027,95479,22
+27500.0,"District 3, Claiborne Parish, Louisiana",027,94417,22
+16845.0,"District 8, Claiborne Parish, Louisiana",027,95263,22
+20637.0,"District 7, Claiborne Parish, Louisiana",027,95122,22
+27898.0,"District 2, Claiborne Parish, Louisiana",027,94237,22
+25815.0,"District 6, Red River Parish, Louisiana",081,95026,22
+26690.0,"District 5, Red River Parish, Louisiana",081,94861,22
+33090.0,"District 10, Vermilion Parish, Louisiana",113,95527,22
+52574.0,"District 13, Vermilion Parish, Louisiana",113,95692,22
+54828.0,"District 3, Vermilion Parish, Louisiana",113,94528,22
+23831.0,"District 7, Vermilion Parish, Louisiana",113,95218,22
+49700.0,"District 5, Vermilion Parish, Louisiana",113,94903,22
+45020.0,"District 6, Vermilion Parish, Louisiana",113,95068,22
+63352.0,"District 11, Vermilion Parish, Louisiana",113,95593,22
+48333.0,"District 14, Vermilion Parish, Louisiana",113,95716,22
+50690.0,"District 8, Vermilion Parish, Louisiana",113,95344,22
+46602.0,"District 4, Vernon Parish, Louisiana",115,94708,22
+52328.0,"District 8, Vernon Parish, Louisiana",115,95347,22
+22266.0,"District 1, Winn Parish, Louisiana",127,94162,22
+41435.0,"District 4, Winn Parish, Louisiana",127,94726,22
+25947.0,"District 6, Winn Parish, Louisiana",127,95083,22
+44050.0,"District 7, Winn Parish, Louisiana",127,95233,22
+17151.0,"District 2, Winn Parish, Louisiana",127,94366,22
+42368.0,"District 5, Winn Parish, Louisiana",127,94924,22
+35658.0,"District 3, Winn Parish, Louisiana",127,94549,22
+53622.0,"District 8, East Baton Rouge Parish, Louisiana",033,95266,22
+70079.0,"District 4, East Baton Rouge Parish, Louisiana",033,94606,22
+70162.0,"District 3, East Baton Rouge Parish, Louisiana",033,94426,22
+34590.0,"District 7, East Baton Rouge Parish, Louisiana",033,95125,22
+64540.0,"District 11, East Baton Rouge Parish, Louisiana",033,95557,22
+40521.0,"District 2, East Baton Rouge Parish, Louisiana",033,94246,22
+37690.0,"District 6, East Baton Rouge Parish, Louisiana",033,94972,22
+28034.0,"District 10, East Baton Rouge Parish, Louisiana",033,95482,22
+64750.0,"District 1, East Baton Rouge Parish, Louisiana",033,94045,22
+38033.0,"District 5, East Baton Rouge Parish, Louisiana",033,94804,22
+86511.0,"District 9, East Baton Rouge Parish, Louisiana",033,95383,22
+51629.0,"District 12, East Baton Rouge Parish, Louisiana",033,95623,22
+53598.0,"District 5, Sabine Parish, Louisiana",085,94867,22
+29358.0,"District 8, Sabine Parish, Louisiana",085,95323,22
+37989.0,"District 7, Sabine Parish, Louisiana",085,95185,22
+37161.0,"District 6, Sabine Parish, Louisiana",085,95032,22
+53480.0,"District 3, Sabine Parish, Louisiana",085,94492,22
+56250.0,"District 1, Sabine Parish, Louisiana",085,94105,22
+62083.0,"District 2, Sabine Parish, Louisiana",085,94309,22
+42460.0,"District 9, Sabine Parish, Louisiana",085,95431,22
+21307.0,"District 4, Sabine Parish, Louisiana",085,94669,22
+36988.0,"District 5, Allen Parish, Louisiana",003,94762,22
+43214.0,"District 6, Allen Parish, Louisiana",003,94936,22
+67052.0,"District 7, Allen Parish, Louisiana",003,95095,22
+22647.0,"District 1, Allen Parish, Louisiana",003,94003,22
+41655.0,"District 4, Allen Parish, Louisiana",003,94570,22
+50268.0,"District 4, St. John the Baptist Parish, Louisiana",095,94681,22
+69156.0,"District 5, St. John the Baptist Parish, Louisiana",095,94879,22
+42305.0,"District 3, St. John the Baptist Parish, Louisiana",095,94504,22
+32689.0,"District 1, St. John the Baptist Parish, Louisiana",095,94117,22
+60430.0,"District 6, St. John the Baptist Parish, Louisiana",095,95044,22
+49342.0,"District 2, St. John the Baptist Parish, Louisiana",095,94321,22
+72417.0,"District 7, St. John the Baptist Parish, Louisiana",095,95194,22
+50368.0,"District 5, Plaquemines Parish, Louisiana",075,94855,22
+27277.0,"District 6, Plaquemines Parish, Louisiana",075,95020,22
+50339.0,"District 8, Plaquemines Parish, Louisiana",075,95311,22
+30806.0,"District 7, Plaquemines Parish, Louisiana",075,95173,22
+36635.0,"District 1, Plaquemines Parish, Louisiana",075,94093,22
+71801.0,"District 2, Plaquemines Parish, Louisiana",075,94297,22
+34408.0,"District 9, Plaquemines Parish, Louisiana",075,95422,22
+61932.0,"District 3, Plaquemines Parish, Louisiana",075,94480,22
+50810.0,"District 4, Plaquemines Parish, Louisiana",075,94657,22
+45314.0,"District E, Ouachita Parish, Louisiana",073,95800,22
+41285.0,"District B, Ouachita Parish, Louisiana",073,95755,22
+50771.0,"District C, Ouachita Parish, Louisiana",073,95770,22
+54524.0,"District A, Ouachita Parish, Louisiana",073,95740,22
+22545.0,"District F, Ouachita Parish, Louisiana",073,95815,22
+23417.0,"District D, Ouachita Parish, Louisiana",073,95785,22
+42838.0,"District A, Rapides Parish, Louisiana",079,95743,22
+44571.0,"District H, Rapides Parish, Louisiana",079,95839,22
+24473.0,"District F, Rapides Parish, Louisiana",079,95818,22
+59385.0,"District G, Rapides Parish, Louisiana",079,95830,22
+29634.0,"District I, Rapides Parish, Louisiana",079,95848,22
+47076.0,"District E, Rapides Parish, Louisiana",079,95803,22
+69693.0,"District C, Rapides Parish, Louisiana",079,95773,22
+27162.0,"District D, Rapides Parish, Louisiana",079,95788,22
+42191.0,"District B, Rapides Parish, Louisiana",079,95758,22
+25263.0,"District 4, Washington Parish, Louisiana",117,94711,22
+40150.0,"District 7, Washington Parish, Louisiana",117,95224,22
+41886.0,"District 5, Washington Parish, Louisiana",117,94909,22
+30389.0,"District 3, Washington Parish, Louisiana",117,94534,22
+37390.0,"District 2, Washington Parish, Louisiana",117,94351,22
+28306.0,"District 6, Washington Parish, Louisiana",117,95074,22
+29109.0,"District 1, Washington Parish, Louisiana",117,94147,22
+19308.0,"District 1, St. Landry Parish, Louisiana",097,94120,22
+39522.0,"District 4, St. Landry Parish, Louisiana",097,94684,22
+34521.0,"District 5, St. Landry Parish, Louisiana",097,94882,22
+49412.0,"District 9, St. Landry Parish, Louisiana",097,95434,22
+20637.0,"District 10, St. Landry Parish, Louisiana",097,95518,22
+26259.0,"District 12, St. Landry Parish, Louisiana",097,95644,22
+38241.0,"District 13, St. Landry Parish, Louisiana",097,95686,22
+30084.0,"District 6, St. Landry Parish, Louisiana",097,95047,22
+45850.0,"District 8, St. Landry Parish, Louisiana",097,95326,22
+31604.0,"District 3, St. Landry Parish, Louisiana",097,94507,22
+15959.0,"District 2, St. Landry Parish, Louisiana",097,94324,22
+44043.0,"District 7, St. Landry Parish, Louisiana",097,95197,22
+41856.0,"District 11, St. Landry Parish, Louisiana",097,95587,22
+41663.0,"District 5, Tangipahoa Parish, Louisiana",105,94894,22
+55984.0,"District 9, Tangipahoa Parish, Louisiana",105,95443,22
+31840.0,"District 3, Tangipahoa Parish, Louisiana",105,94519,22
+45461.0,"District 4, Tangipahoa Parish, Louisiana",105,94696,22
+31875.0,"District 1, Tangipahoa Parish, Louisiana",105,94132,22
+69983.0,"District 10, Tangipahoa Parish, Louisiana",105,95524,22
+51526.0,"District 2, Tangipahoa Parish, Louisiana",105,94336,22
+26989.0,"District 7, Tangipahoa Parish, Louisiana",105,95209,22
+52579.0,"District 8, Tangipahoa Parish, Louisiana",105,95338,22
+47746.0,"District 6, Tangipahoa Parish, Louisiana",105,95059,22
+41043.0,"District 2, Acadia Parish, Louisiana",001,94201,22
+35935.0,"District 5, Acadia Parish, Louisiana",001,94759,22
+41832.0,"District 3, Acadia Parish, Louisiana",001,94381,22
+45636.0,"District 8, Acadia Parish, Louisiana",001,95242,22
+21086.0,"District 1, Acadia Parish, Louisiana",001,94000,22
+53422.0,"District 6, Acadia Parish, Louisiana",001,94933,22
+52819.0,"District 7, Acadia Parish, Louisiana",001,95092,22
+37107.0,"District 4, Acadia Parish, Louisiana",001,94567,22
+48662.0,"District 5, St. Mary Parish, Louisiana",101,94888,22
+41760.0,"District 4, St. Mary Parish, Louisiana",101,94690,22
+31632.0,"District 8, St. Mary Parish, Louisiana",101,95332,22
+33712.0,"District 1, St. Mary Parish, Louisiana",101,94126,22
+39113.0,"District 3, St. Mary Parish, Louisiana",101,94513,22
+51018.0,"District 6, St. Mary Parish, Louisiana",101,95053,22
+41308.0,"District 7, St. Mary Parish, Louisiana",101,95203,22
+40424.0,"District 2, St. Mary Parish, Louisiana",101,94330,22
+36516.0,"District B, West Carroll Parish, Louisiana",123,95765,22
+27083.0,"District D, West Carroll Parish, Louisiana",123,95794,22
+50406.0,"District E, West Carroll Parish, Louisiana",123,95809,22
+31216.0,"District A, West Carroll Parish, Louisiana",123,95750,22
+42679.0,"District C, West Carroll Parish, Louisiana",123,95780,22
+73769.0,"District 9, St. Tammany Parish, Louisiana",103,95440,22
+60266.0,"District 12, St. Tammany Parish, Louisiana",103,95647,22
+89684.0,"District 1, St. Tammany Parish, Louisiana",103,94129,22
+70080.0,"District 2, St. Tammany Parish, Louisiana",103,94333,22
+60429.0,"District 3, St. Tammany Parish, Louisiana",103,94516,22
+44752.0,"District 6, St. Tammany Parish, Louisiana",103,95056,22
+60196.0,"District 7, St. Tammany Parish, Louisiana",103,95206,22
+78611.0,"District 10, St. Tammany Parish, Louisiana",103,95521,22
+55983.0,"District 11, St. Tammany Parish, Louisiana",103,95590,22
+62661.0,"District 13, St. Tammany Parish, Louisiana",103,95689,22
+38700.0,"District 14, St. Tammany Parish, Louisiana",103,95713,22
+68919.0,"District 8, St. Tammany Parish, Louisiana",103,95335,22
+82925.0,"District 4, St. Tammany Parish, Louisiana",103,94693,22
+68129.0,"District 5, St. Tammany Parish, Louisiana",103,94891,22
+25096.0,"District 1, Union Parish, Louisiana",111,94138,22
+41681.0,"District 2, Union Parish, Louisiana",111,94342,22
+22270.0,"District 9, Union Parish, Louisiana",111,95446,22
+50016.0,"District 3, Union Parish, Louisiana",111,94525,22
+33750.0,"District 6, Union Parish, Louisiana",111,95065,22
+51607.0,"District 8, Union Parish, Louisiana",111,95341,22
+55909.0,"District 5, Union Parish, Louisiana",111,94900,22
+35960.0,"District 4, Union Parish, Louisiana",111,94702,22
+43194.0,"District 7, Red River Parish, Louisiana",081,95179,22
+46094.0,"District 1, Red River Parish, Louisiana",081,94099,22
+54144.0,"District 3, Red River Parish, Louisiana",081,94486,22
+9073.0,"District 4, Red River Parish, Louisiana",081,94663,22
+47609.0,"District 2, Red River Parish, Louisiana",081,94303,22
+78944.0,"District 5, Livingston Parish, Louisiana",063,94843,22
+52159.0,"District 1, Livingston Parish, Louisiana",063,94081,22
+52932.0,"District 4, Livingston Parish, Louisiana",063,94645,22
+57404.0,"District 7, Livingston Parish, Louisiana",063,95161,22
+48482.0,"District 8, Livingston Parish, Louisiana",063,95299,22
+45122.0,"District 9, Livingston Parish, Louisiana",063,95413,22
+64267.0,"District 6, Livingston Parish, Louisiana",063,95008,22
+61920.0,"District 3, Livingston Parish, Louisiana",063,94468,22
+68256.0,"District 2, Livingston Parish, Louisiana",063,94285,22
+46122.0,"District 4, Morehouse Parish, Louisiana",067,94651,22
+18397.0,"District 7, Morehouse Parish, Louisiana",067,95167,22
+32854.0,"District 3, Morehouse Parish, Louisiana",067,94474,22
+20813.0,"District 5, Morehouse Parish, Louisiana",067,94849,22
+27319.0,"District 6, Morehouse Parish, Louisiana",067,95014,22
+24512.0,"District 2, Morehouse Parish, Louisiana",067,94291,22
+46771.0,"District 1, Morehouse Parish, Louisiana",067,94087,22
+32044.0,"District 11, Natchitoches Parish, Louisiana",069,95581,22
+18627.0,"District 5, Natchitoches Parish, Louisiana",069,94852,22
+34026.0,"District 7, Natchitoches Parish, Louisiana",069,95170,22
+55764.0,"District 1, Natchitoches Parish, Louisiana",069,94090,22
+37227.0,"District 9, Natchitoches Parish, Louisiana",069,95419,22
+18580.0,"District 2, Natchitoches Parish, Louisiana",069,94294,22
+30000.0,"District 4, Natchitoches Parish, Louisiana",069,94654,22
+36780.0,"District 10, Natchitoches Parish, Louisiana",069,95512,22
+25708.0,"District 8, Natchitoches Parish, Louisiana",069,95308,22
+20679.0,"District 3, Natchitoches Parish, Louisiana",069,94477,22
+32966.0,"District 6, Natchitoches Parish, Louisiana",069,95017,22
+38721.0,"New Orleans city, Orleans Parish, Louisiana",071,98000,22
+49824.0,"District 4, Terrebonne Parish, Louisiana",109,94700,22
+50313.0,"District 7, Terrebonne Parish, Louisiana",109,95213,22
+52500.0,"District 9, Terrebonne Parish, Louisiana",109,95445,22
+30547.0,"District 1, Terrebonne Parish, Louisiana",109,94136,22
+27705.0,"District 2, Terrebonne Parish, Louisiana",109,94340,22
+52487.0,"District 3, Terrebonne Parish, Louisiana",109,94523,22
+46081.0,"District 5, Terrebonne Parish, Louisiana",109,94898,22
+97991.0,"District 6, Terrebonne Parish, Louisiana",109,95063,22
+40280.0,"District 8, Terrebonne Parish, Louisiana",109,95340,22
+86576.0,"District 1, Catahoula Parish, Louisiana",025,94036,22
+36250.0,"District 9, Catahoula Parish, Louisiana",025,95377,22
+49276.0,"District 3, Catahoula Parish, Louisiana",025,94414,22
+44583.0,"District 6, Catahoula Parish, Louisiana",025,94963,22
+44091.0,"District 5, Catahoula Parish, Louisiana",025,94795,22
+22069.0,"District 2, Catahoula Parish, Louisiana",025,94234,22
+40980.0,"District 4, Catahoula Parish, Louisiana",025,94597,22
+21579.0,"District 7, Catahoula Parish, Louisiana",025,95119,22
+15298.0,"District 8, Catahoula Parish, Louisiana",025,95260,22
+36974.0,"District 2, Calcasieu Parish, Louisiana",019,94225,22
+38562.0,"District 4, Calcasieu Parish, Louisiana",019,94588,22
+40207.0,"District 7, Calcasieu Parish, Louisiana",019,95113,22
+51774.0,"District 10, Calcasieu Parish, Louisiana",019,95476,22
+65459.0,"District 12, Calcasieu Parish, Louisiana",019,95620,22
+54931.0,"District 15, Calcasieu Parish, Louisiana",019,95728,22
+65140.0,"District 6, Calcasieu Parish, Louisiana",019,94954,22
+82288.0,"District 8, Calcasieu Parish, Louisiana",019,95257,22
+43993.0,"District 13, Calcasieu Parish, Louisiana",019,95671,22
+56988.0,"District 14, Calcasieu Parish, Louisiana",019,95704,22
+53439.0,"District 5, Calcasieu Parish, Louisiana",019,94786,22
+26210.0,"District 3, Calcasieu Parish, Louisiana",019,94405,22
+46463.0,"District 11, Calcasieu Parish, Louisiana",019,95554,22
+67112.0,"District 1, Calcasieu Parish, Louisiana",019,94027,22
+34159.0,"District 9, Calcasieu Parish, Louisiana",019,95374,22
+31786.0,"District 5, Claiborne Parish, Louisiana",027,94798,22
+21964.0,"District 1, Claiborne Parish, Louisiana",027,94039,22
+31458.0,"District 9, Claiborne Parish, Louisiana",027,95380,22
+18125.0,"District 4, Claiborne Parish, Louisiana",027,94600,22
+52181.0,"District 6, Franklin Parish, Louisiana",041,94984,22
+18958.0,"District 7, Franklin Parish, Louisiana",041,95137,22
+36095.0,"District 2, Franklin Parish, Louisiana",041,94258,22
+47375.0,"District 4, Franklin Parish, Louisiana",041,94615,22
+16604.0,"District 5, Franklin Parish, Louisiana",041,94816,22
+36136.0,"District 3, Franklin Parish, Louisiana",041,94438,22
+40043.0,"District 1, Franklin Parish, Louisiana",041,94054,22
+44696.0,"District 6, Avoyelles Parish, Louisiana",009,94942,22
+19737.0,"District 5, Avoyelles Parish, Louisiana",009,94771,22
+43554.0,"District 7, Avoyelles Parish, Louisiana",009,95101,22
+28234.0,"District 9, Avoyelles Parish, Louisiana",009,95365,22
+37383.0,"District 2, Avoyelles Parish, Louisiana",009,94210,22
+37730.0,"District 3, Avoyelles Parish, Louisiana",009,94393,22
+53383.0,"District 4, Avoyelles Parish, Louisiana",009,94576,22
+27008.0,"District 8, Avoyelles Parish, Louisiana",009,95248,22
+45147.0,"District 1, Avoyelles Parish, Louisiana",009,94012,22
+40843.0,"District 6, Assumption Parish, Louisiana",007,94939,22
+84667.0,"District 8, Assumption Parish, Louisiana",007,95245,22
+31377.0,"District 4, Assumption Parish, Louisiana",007,94573,22
+50268.0,"District 9, Assumption Parish, Louisiana",007,95362,22
+37577.0,"District 7, Assumption Parish, Louisiana",007,95098,22
+67604.0,"District 2, Assumption Parish, Louisiana",007,94207,22
+43438.0,"District 1, Assumption Parish, Louisiana",007,94009,22
+45929.0,"District 3, Assumption Parish, Louisiana",007,94390,22
+26936.0,"District 7, Jackson Parish, Louisiana",049,95149,22
+47225.0,"District 12, Vermilion Parish, Louisiana",113,95650,22
+72705.0,"District 1, Vermilion Parish, Louisiana",113,94141,22
+47868.0,"District 5, Assumption Parish, Louisiana",007,94768,22
+41146.0,"District 4, Jackson Parish, Louisiana",049,94627,22
+34846.0,"District 3, Jackson Parish, Louisiana",049,94450,22
+16591.0,"District 5, Jackson Parish, Louisiana",049,94828,22
+45481.0,"District 6, Jackson Parish, Louisiana",049,94996,22
+55188.0,"District 2, Jackson Parish, Louisiana",049,94270,22
+56512.0,"District 1, Jackson Parish, Louisiana",049,94066,22
+38125.0,"District 4, Pointe Coupee Parish, Louisiana",077,94660,22
+27102.0,"District 7, Pointe Coupee Parish, Louisiana",077,95176,22
+75476.0,"District 9, Pointe Coupee Parish, Louisiana",077,95425,22
+29583.0,"District 3, Pointe Coupee Parish, Louisiana",077,94483,22
+52273.0,"District 11, Pointe Coupee Parish, Louisiana",077,95584,22
+24946.0,"District 1, Pointe Coupee Parish, Louisiana",077,94096,22
+45945.0,"District 2, Pointe Coupee Parish, Louisiana",077,94300,22
+42500.0,"District 12, Pointe Coupee Parish, Louisiana",077,95641,22
+47926.0,"District 5, Pointe Coupee Parish, Louisiana",077,94858,22
+67574.0,"District 6, Pointe Coupee Parish, Louisiana",077,95023,22
+59167.0,"District 10, Pointe Coupee Parish, Louisiana",077,95515,22
+56292.0,"District 8, Pointe Coupee Parish, Louisiana",077,95314,22
+37056.0,"District 5, Richland Parish, Louisiana",083,94864,22
+25903.0,"District 6, Richland Parish, Louisiana",083,95029,22
+38333.0,"District 1, Richland Parish, Louisiana",083,94102,22
+45625.0,"District 7, Richland Parish, Louisiana",083,95182,22
+22737.0,"District 3, Richland Parish, Louisiana",083,94489,22
+36534.0,"District 4, Richland Parish, Louisiana",083,94666,22
+61106.0,"District 8, Richland Parish, Louisiana",083,95320,22
+30218.0,"District 9, Richland Parish, Louisiana",083,95428,22
+26220.0,"District 2, Richland Parish, Louisiana",083,94306,22
+49257.0,"District 5, St. Martin Parish, Louisiana",099,94885,22
+41767.0,"District 2, St. Martin Parish, Louisiana",099,94327,22
+31864.0,"District 7, St. Martin Parish, Louisiana",099,95200,22
+48271.0,"District 1, St. Martin Parish, Louisiana",099,94123,22
+61398.0,"District 4, St. Martin Parish, Louisiana",099,94687,22
+50075.0,"District 8, St. Martin Parish, Louisiana",099,95329,22
+55571.0,"District 9, St. Martin Parish, Louisiana",099,95437,22
+35158.0,"District 3, St. Martin Parish, Louisiana",099,94510,22
+42278.0,"District 6, St. Martin Parish, Louisiana",099,95050,22
+39342.0,"District 9, Vernon Parish, Louisiana",115,95452,22
+40394.0,"District 11, Vernon Parish, Louisiana",115,95596,22
+48255.0,"District 5, Vernon Parish, Louisiana",115,94906,22
+45606.0,"District 6, Vernon Parish, Louisiana",115,95071,22
+26219.0,"District 10, Vernon Parish, Louisiana",115,95530,22
+56786.0,"District 1, Vernon Parish, Louisiana",115,94144,22
+50348.0,"District 7, Vernon Parish, Louisiana",115,95221,22
+46615.0,"District 12, Vernon Parish, Louisiana",115,95653,22
+53472.0,"District 2, Vernon Parish, Louisiana",115,94348,22
+49634.0,"District 3, Vernon Parish, Louisiana",115,94531,22
+58238.0,"District 7, LaSalle Parish, Louisiana",059,95158,22
+33214.0,"District 4, LaSalle Parish, Louisiana",059,94639,22
+29787.0,"District 6, LaSalle Parish, Louisiana",059,95005,22
+17682.0,"District 10, LaSalle Parish, Louisiana",059,95506,22
+40400.0,"District 3, LaSalle Parish, Louisiana",059,94462,22
+37000.0,"District 8, LaSalle Parish, Louisiana",059,95296,22
+37305.0,"District 2, LaSalle Parish, Louisiana",059,94282,22
+32269.0,"District 5, LaSalle Parish, Louisiana",059,94837,22
+34458.0,"District 1, LaSalle Parish, Louisiana",059,94078,22
+59375.0,"District 9, LaSalle Parish, Louisiana",059,95410,22
+19056.0,"District 11, Lincoln Parish, Louisiana",061,95577,22
+50583.0,"District 12, Lincoln Parish, Louisiana",061,95640,22
+60425.0,"District 7, Cameron Parish, Louisiana",023,95117,22
+27196.0,"District 1, Lincoln Parish, Louisiana",061,94080,22
+23600.0,"District 2, Lincoln Parish, Louisiana",061,94284,22
+36885.0,"District 6, Lincoln Parish, Louisiana",061,95007,22
+74489.0,"District 7, Lincoln Parish, Louisiana",061,95160,22
+51117.0,"District 8, Lincoln Parish, Louisiana",061,95298,22
+15166.0,"District 9, Lincoln Parish, Louisiana",061,95412,22
+48750.0,"District 9, Vermilion Parish, Louisiana",113,95449,22
+23818.0,"District 4, Vermilion Parish, Louisiana",113,94705,22
+50625.0,"District 2, Vermilion Parish, Louisiana",113,94345,22
+101086.0,"District 3, St. Charles Parish, Louisiana",089,94495,22
+61822.0,"District 7, St. Charles Parish, Louisiana",089,95188,22
+68278.0,"District 4, St. Charles Parish, Louisiana",089,94672,22
+45446.0,"District 5, St. Charles Parish, Louisiana",089,94870,22
+58056.0,"District 1, St. Charles Parish, Louisiana",089,94108,22
+76528.0,"District 2, St. Charles Parish, Louisiana",089,94312,22
+57349.0,"District 6, St. Charles Parish, Louisiana",089,95035,22
+62866.0,"District 7, Lafourche Parish, Louisiana",057,95155,22
+39644.0,"District 6, Lafourche Parish, Louisiana",057,95002,22
+53685.0,"District 8, Lafourche Parish, Louisiana",057,95293,22
+30061.0,"District 1, Lafourche Parish, Louisiana",057,94075,22
+54792.0,"District 9, Lafourche Parish, Louisiana",057,95407,22
+52577.0,"District 2, Lafourche Parish, Louisiana",057,94279,22
+64635.0,"District 5, Lafourche Parish, Louisiana",057,94834,22
+65880.0,"District 4, Lafourche Parish, Louisiana",057,94636,22
+58318.0,"District 3, Lafourche Parish, Louisiana",057,94459,22
+22651.0,"District 4, Concordia Parish, Louisiana",029,94603,22
+41451.0,"District 5B, Concordia Parish, Louisiana",029,94930,22
+55520.0,"District 3, Concordia Parish, Louisiana",029,94420,22
+24056.0,"District 2, Concordia Parish, Louisiana",029,94240,22
+27000.0,"District 1, Concordia Parish, Louisiana",029,94042,22
+23076.0,"District 5A, Concordia Parish, Louisiana",029,94927,22
+32763.0,"District 1, Tensas Parish, Louisiana",107,94135,22
+14853.0,"District 7, Tensas Parish, Louisiana",107,95212,22
+26985.0,"District 4, Tensas Parish, Louisiana",107,94699,22
+27199.0,"District 3, Allen Parish, Louisiana",003,94384,22
+47681.0,"District 2, Allen Parish, Louisiana",003,94204,22
+17563.0,"District 6, Madison Parish, Louisiana",065,95011,22
+31091.0,"District 2, Madison Parish, Louisiana",065,94288,22
+21000.0,"District 5, Madison Parish, Louisiana",065,94846,22
+15104.0,"District 4, Madison Parish, Louisiana",065,94648,22
+36250.0,"District 1, Madison Parish, Louisiana",065,94084,22
+25417.0,"District 3, Madison Parish, Louisiana",065,94471,22
+35522.0,"District 8, Madison Parish, Louisiana",065,95302,22
+33718.0,"District 7, Madison Parish, Louisiana",065,95164,22
+16000.0,"District 5, Tensas Parish, Louisiana",107,94897,22
+24931.0,"District 6, Tensas Parish, Louisiana",107,95062,22
+17226.0,"District 2, Tensas Parish, Louisiana",107,94339,22
+31713.0,"District 3, Tensas Parish, Louisiana",107,94522,22
+30278.0,"District 3, Jefferson Davis Parish, Louisiana",053,94456,22
+54861.0,"District 8, Jefferson Davis Parish, Louisiana",053,95290,22
+60677.0,"District 13, Jefferson Davis Parish, Louisiana",053,95680,22
+31932.0,"District 12, Jefferson Davis Parish, Louisiana",053,95635,22
+35333.0,"District 5, Jefferson Davis Parish, Louisiana",053,94831,22
+44519.0,"District 9, Jefferson Davis Parish, Louisiana",053,95404,22
+21373.0,"District 6, Jefferson Davis Parish, Louisiana",053,94999,22
+47708.0,"District 10, Jefferson Davis Parish, Louisiana",053,95500,22
+42500.0,"District 11, Jefferson Davis Parish, Louisiana",053,95572,22
+39531.0,"District 1, Jefferson Davis Parish, Louisiana",053,94072,22
+47396.0,"District 2, Jefferson Davis Parish, Louisiana",053,94276,22
+43362.0,"District 7, Jefferson Davis Parish, Louisiana",053,95152,22
+25868.0,"District 4, Jefferson Davis Parish, Louisiana",053,94633,22
+49750.0,"District 4, St. James Parish, Louisiana",093,94678,22
+66786.0,"District 3, St. James Parish, Louisiana",093,94501,22
+55427.0,"District 6, St. James Parish, Louisiana",093,95041,22
+48871.0,"District 1, St. James Parish, Louisiana",093,94114,22
+30154.0,"District 5, St. James Parish, Louisiana",093,94876,22
+55307.0,"District 2, St. James Parish, Louisiana",093,94318,22
+50893.0,"District 7, St. James Parish, Louisiana",093,95191,22
+46369.0,"District 5, Grant Parish, Louisiana",043,94819,22
+36645.0,"District 7, Grant Parish, Louisiana",043,95140,22
+41477.0,"District 1, Grant Parish, Louisiana",043,94057,22
+40300.0,"District 8, Grant Parish, Louisiana",043,95278,22
+36438.0,"District 2, Grant Parish, Louisiana",043,94261,22
+52067.0,"District 6, Grant Parish, Louisiana",043,94987,22
+53110.0,"District 7, Union Parish, Louisiana",111,95215,22
+23173.0,"District 4, Caldwell Parish, Louisiana",021,94591,22
+34345.0,"District 3, Caldwell Parish, Louisiana",021,94408,22
+33438.0,"District 5, Caldwell Parish, Louisiana",021,94789,22
+38261.0,"District 6, Caldwell Parish, Louisiana",021,94957,22
+31023.0,"District 7, Caldwell Parish, Louisiana",021,95116,22
+29127.0,"District 1, Caldwell Parish, Louisiana",021,94030,22
+35357.0,"District 2, Caldwell Parish, Louisiana",021,94228,22
+27767.0,"District 7, Caddo Parish, Louisiana",017,95110,22
+36716.0,"District 10, Caddo Parish, Louisiana",017,95473,22
+59134.0,"District 8, Caddo Parish, Louisiana",017,95254,22
+38017.0,"District 4, Caddo Parish, Louisiana",017,94585,22
+41474.0,"District 1, Caddo Parish, Louisiana",017,94024,22
+23216.0,"District 5, Caddo Parish, Louisiana",017,94783,22
+45257.0,"District 12, Caddo Parish, Louisiana",017,95617,22
+35409.0,"District 2, Caddo Parish, Louisiana",017,94222,22
+69967.0,"District 9, Caddo Parish, Louisiana",017,95371,22
+53205.0,"District 11, Caddo Parish, Louisiana",017,95551,22
+22648.0,"District 3, Caddo Parish, Louisiana",017,94402,22
+24515.0,"District 6, Caddo Parish, Louisiana",017,94951,22
+37841.0,"District 1, East Carroll Parish, Louisiana",035,94048,22
+52150.0,"District 4, East Carroll Parish, Louisiana",035,94609,22
+12656.0,"District 9, East Carroll Parish, Louisiana",035,95386,22
+21719.0,"District 10, Lincoln Parish, Louisiana",061,95508,22
+69263.0,"District 8, West Baton Rouge Parish, Louisiana",121,95354,22
+32454.0,"District 9, West Baton Rouge Parish, Louisiana",121,95459,22

@@ -1,0 +1,41 @@
+geoid,name,median,male,female,county,county subdivision,state
+4400542400,"Little Compton town, Newport County, Rhode Island",53.9,54.1,53.8,005,42400,44
+4400545460,"Middletown town, Newport County, Rhode Island",42.8,41.0,44.4,005,45460,44
+4400549960,"Newport city, Newport County, Rhode Island",35.9,35.6,36.5,005,49960,44
+440050,"County subdivisions not defined, Newport County, Rhode Island",-666666666.0,-666666666.0,-666666666.0,005,0,44
+4400536820,"Jamestown town, Newport County, Rhode Island",50.8,48.9,53.0,005,36820,44
+4400557880,"Portsmouth town, Newport County, Rhode Island",47.4,45.9,48.3,005,57880,44
+4400570880,"Tiverton town, Newport County, Rhode Island",50.2,46.6,51.4,005,70880,44
+4400374300,"Warwick city, Kent County, Rhode Island",45.1,42.4,47.2,003,74300,44
+4400318640,"Coventry town, Kent County, Rhode Island",44.2,43.3,44.6,003,18640,44
+4400378440,"West Warwick town, Kent County, Rhode Island",38.8,36.7,41.6,003,78440,44
+4400377720,"West Greenwich town, Kent County, Rhode Island",44.7,43.1,46.8,003,77720,44
+4400322240,"East Greenwich town, Kent County, Rhode Island",43.7,41.9,45.1,003,22240,44
+4400720080,"Cumberland town, Providence County, Rhode Island",44.5,43.6,45.3,007,20080,44
+4400780780,"Woonsocket city, Providence County, Rhode Island",37.8,35.7,39.2,007,80780,44
+4400751760,"North Providence town, Providence County, Rhode Island",43.6,41.7,44.7,007,51760,44
+4400741500,"Lincoln town, Providence County, Rhode Island",41.2,39.3,43.0,007,41500,44
+4400722960,"East Providence city, Providence County, Rhode Island",42.7,38.1,46.5,007,22960,44
+4400730340,"Glocester town, Providence County, Rhode Island",44.8,42.6,47.0,007,30340,44
+4400752480,"North Smithfield town, Providence County, Rhode Island",47.3,43.6,49.0,007,52480,44
+4400714140,"Central Falls city, Providence County, Rhode Island",29.1,27.5,30.5,007,14140,44
+4400766200,"Smithfield town, Providence County, Rhode Island",43.9,40.9,46.7,007,66200,44
+4400754640,"Pawtucket city, Providence County, Rhode Island",36.0,34.5,37.8,007,54640,44
+4400759000,"Providence city, Providence County, Rhode Island",29.8,29.8,29.9,007,59000,44
+4400727460,"Foster town, Providence County, Rhode Island",48.7,48.1,49.6,007,27460,44
+4400737720,"Johnston town, Providence County, Rhode Island",45.5,41.7,47.9,007,37720,44
+4400764220,"Scituate town, Providence County, Rhode Island",48.8,48.9,48.7,007,64220,44
+4400711800,"Burrillville town, Providence County, Rhode Island",45.2,44.4,46.0,007,11800,44
+4400719180,"Cranston city, Providence County, Rhode Island",40.6,38.7,42.3,007,19180,44
+440015140,"Barrington town, Bristol County, Rhode Island",46.0,44.5,47.0,001,5140,44
+4400173760,"Warren town, Bristol County, Rhode Island",45.2,39.6,48.2,001,73760,44
+440019280,"Bristol town, Bristol County, Rhode Island",41.9,40.6,43.2,001,9280,44
+4400977000,"Westerly town, Washington County, Rhode Island",45.7,43.8,47.2,009,77000,44
+4400951580,"North Kingstown town, Washington County, Rhode Island",44.8,43.4,46.6,009,51580,44
+4400967460,"South Kingstown town, Washington County, Rhode Island",36.4,33.3,38.4,009,67460,44
+4400935380,"Hopkinton town, Washington County, Rhode Island",47.2,45.8,47.7,009,35380,44
+4400961160,"Richmond town, Washington County, Rhode Island",44.3,44.2,44.5,009,61160,44
+4400925300,"Exeter town, Washington County, Rhode Island",46.6,46.4,46.8,009,25300,44
+4400948340,"Narragansett town, Washington County, Rhode Island",43.7,43.7,43.7,009,48340,44
+4400950500,"New Shoreham town, Washington County, Rhode Island",55.3,53.4,56.2,009,50500,44
+4400914500,"Charlestown town, Washington County, Rhode Island",47.9,45.7,50.0,009,14500,44

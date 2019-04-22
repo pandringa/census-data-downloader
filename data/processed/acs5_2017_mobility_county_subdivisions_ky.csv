@@ -1,0 +1,494 @@
+geoid,name,total,same_house,moved_within_county,moved_from_different_county_in_same_state,moved_from_different_state,moved_from_abroad,county,county subdivision,state
+2103990968,"Cunningham CCD, Carlisle County, Kentucky",1627.0,1503.0,54.0,54.0,16.0,0.0,039,90968,21
+2104192840,"Prestonville CCD, Carroll County, Kentucky",2081.0,1695.0,285.0,82.0,11.0,8.0,041,92840,21
+2103990080,"Arlington CCD, Carlisle County, Kentucky",1410.0,1355.0,35.0,19.0,1.0,0.0,039,90080,21
+2104190608,"Carrollton CCD, Carroll County, Kentucky",8422.0,6655.0,957.0,413.0,397.0,0.0,041,90608,21
+2121991928,"Kirkmansville CCD, Todd County, Kentucky",2845.0,2355.0,336.0,136.0,0.0,18.0,219,91928,21
+2103990160,"Bardwell CCD, Carlisle County, Kentucky",1767.0,1613.0,134.0,18.0,2.0,0.0,039,90160,21
+2106592888,"Ravenna CCD, Estill County, Kentucky",1446.0,1340.0,55.0,36.0,15.0,0.0,065,92888,21
+2105390032,"Albany CCD, Clinton County, Kentucky",7002.0,6348.0,359.0,185.0,110.0,0.0,053,90032,21
+2105390944,"Cumberland City CCD, Clinton County, Kentucky",3075.0,2872.0,109.0,94.0,0.0,0.0,053,90944,21
+2106591816,"Irvine CCD, Estill County, Kentucky",5931.0,5101.0,318.0,482.0,30.0,0.0,065,91816,21
+2107793616,"Warsaw CCD, Gallatin County, Kentucky",8517.0,7124.0,601.0,454.0,320.0,18.0,077,93616,21
+2107992664,"Paint Lick CCD, Garrard County, Kentucky",2955.0,2658.0,67.0,140.0,71.0,19.0,079,92664,21
+2107991976,"Lancaster CCD, Garrard County, Kentucky",7385.0,6102.0,822.0,432.0,23.0,6.0,079,91976,21
+2107990400,"Bryantsville CCD, Garrard County, Kentucky",6707.0,6201.0,252.0,202.0,37.0,15.0,079,90400,21
+2116793064,"Salvisa-McAfee CCD, Mercer County, Kentucky",4235.0,3964.0,136.0,110.0,13.0,12.0,167,93064,21
+2119190472,"Butler CCD, Pendleton County, Kentucky",6704.0,6177.0,224.0,228.0,75.0,0.0,191,90472,21
+2116790424,"Burgin CCD, Mercer County, Kentucky",3474.0,2865.0,302.0,258.0,23.0,26.0,167,90424,21
+2116791624,"Harrodsburg CCD, Mercer County, Kentucky",13417.0,11190.0,952.0,1044.0,175.0,56.0,167,91624,21
+2119191200,"Falmouth CCD, Pendleton County, Kentucky",4999.0,4263.0,359.0,139.0,238.0,0.0,191,91200,21
+2120192408,"Mount Olivet CCD, Robertson County, Kentucky",2135.0,1952.0,110.0,67.0,6.0,0.0,201,92408,21
+2120790384,"Bryan CCD, Russell County, Kentucky",1685.0,1673.0,0.0,12.0,0.0,0.0,207,90384,21
+2120791120,"Eli CCD, Russell County, Kentucky",3670.0,3439.0,188.0,43.0,0.0,0.0,207,91120,21
+2122993328,"Springfield CCD, Washington County, Kentucky",8943.0,7871.0,401.0,591.0,78.0,2.0,229,93328,21
+2120791864,"Jamestown CCD, Russell County, Kentucky",4104.0,3656.0,295.0,105.0,33.0,15.0,207,91864,21
+2120792984,"Russell Springs CCD, Russell County, Kentucky",8083.0,7076.0,724.0,269.0,14.0,0.0,207,92984,21
+2121593448,"Taylorsville CCD, Spencer County, Kentucky",5968.0,5239.0,296.0,433.0,0.0,0.0,215,93448,21
+2122993728,"Willisburg CCD, Washington County, Kentucky",2981.0,2729.0,124.0,43.0,85.0,0.0,229,93728,21
+2101193144,"Sharpsburg CCD, Bath County, Kentucky",2002.0,1708.0,42.0,123.0,129.0,0.0,011,93144,21
+2101193056,"Salt Lick CCD, Bath County, Kentucky",3748.0,3330.0,347.0,69.0,2.0,0.0,011,93056,21
+2101192640,"Owingsville CCD, Bath County, Kentucky",6291.0,5230.0,573.0,428.0,5.0,55.0,011,92640,21
+2100793696,"Wickliffe CCD, Ballard County, Kentucky",2171.0,1936.0,98.0,41.0,96.0,0.0,007,93696,21
+2100790168,"Barlow CCD, Ballard County, Kentucky",1356.0,1245.0,76.0,35.0,0.0,0.0,007,90168,21
+2100791952,"La Center CCD, Ballard County, Kentucky",4555.0,4054.0,199.0,199.0,103.0,0.0,007,91952,21
+2100992944,"Rocky Hill CCD, Barren County, Kentucky",3505.0,3167.0,133.0,103.0,78.0,24.0,009,92944,21
+2100991408,"Glasgow CCD, Barren County, Kentucky",21096.0,17797.0,1952.0,977.0,370.0,0.0,009,91408,21
+2100993496,"Tracy CCD, Barren County, Kentucky",3722.0,3443.0,40.0,82.0,157.0,0.0,009,93496,21
+2100990640,"Cave City CCD, Barren County, Kentucky",7239.0,5955.0,723.0,495.0,58.0,8.0,009,90640,21
+2100991744,"Hiseville CCD, Barren County, Kentucky",3274.0,3055.0,93.0,107.0,19.0,0.0,009,91744,21
+2100993464,"Temple Hill CCD, Barren County, Kentucky",3820.0,3575.0,193.0,9.0,43.0,0.0,009,93464,21
+2102191896,"Junction City CCD, Boyle County, Kentucky",4770.0,4163.0,472.0,84.0,51.0,0.0,021,91896,21
+2102191000,"Danville CCD, Boyle County, Kentucky",20649.0,15999.0,2034.0,1629.0,879.0,108.0,021,91000,21
+2102192744,"Perryville CCD, Boyle County, Kentucky",4124.0,3330.0,707.0,57.0,30.0,0.0,021,92744,21
+2108791536,"Gresham CCD, Green County, Kentucky",1593.0,1429.0,25.0,131.0,8.0,0.0,087,91536,21
+2108791504,"Greensburg CCD, Green County, Kentucky",4118.0,3707.0,169.0,242.0,0.0,0.0,087,91504,21
+2108791064,"Donansburg CCD, Green County, Kentucky",2398.0,2175.0,189.0,29.0,5.0,0.0,087,91064,21
+2108793408,"Summersville CCD, Green County, Kentucky",2782.0,2450.0,234.0,56.0,28.0,14.0,087,93408,21
+2109192696,"Patesville CCD, Hancock County, Kentucky",2740.0,2417.0,95.0,155.0,73.0,0.0,091,92696,21
+2109192032,"Lewisport CCD, Hancock County, Kentucky",3405.0,3101.0,76.0,206.0,22.0,0.0,091,92032,21
+2109191640,"Hawesville CCD, Hancock County, Kentucky",2489.0,2335.0,82.0,43.0,29.0,0.0,091,91640,21
+2109590648,"Cawood CCD, Harlan County, Kentucky",2040.0,1944.0,96.0,0.0,0.0,0.0,095,90648,21
+2109591608,"Harlan CCD, Harlan County, Kentucky",13648.0,12312.0,846.0,381.0,109.0,0.0,095,91608,21
+2109590056,"Alva CCD, Harlan County, Kentucky",967.0,891.0,39.0,37.0,0.0,0.0,095,90056,21
+2109593584,"Wallins Creek CCD, Harlan County, Kentucky",2571.0,2462.0,90.0,19.0,0.0,0.0,095,93584,21
+2109592824,"Poor Fork CCD, Harlan County, Kentucky",1164.0,1090.0,48.0,21.0,0.0,5.0,095,92824,21
+2109592792,"Pine Mountain CCD, Harlan County, Kentucky",1179.0,1115.0,58.0,2.0,4.0,0.0,095,92792,21
+2109590936,"Cumberland CCD, Harlan County, Kentucky",4490.0,3948.0,406.0,102.0,29.0,5.0,095,90936,21
+2115993600,"Warfield CCD, Martin County, Kentucky",3598.0,3125.0,235.0,80.0,158.0,0.0,159,93600,21
+2109393264,"Sonora CCD, Hardin County, Kentucky",3701.0,3141.0,275.0,277.0,3.0,5.0,093,93264,21
+2109393664,"West Point CCD, Hardin County, Kentucky",911.0,731.0,20.0,98.0,60.0,2.0,093,93664,21
+2109391128,"Elizabethtown CCD, Hardin County, Kentucky",50665.0,40487.0,6229.0,2152.0,1520.0,277.0,093,91128,21
+2109392880,"Radcliff CCD, Hardin County, Kentucky",38380.0,29543.0,4280.0,2051.0,2123.0,383.0,093,92880,21
+2109393416,"Summit CCD, Hardin County, Kentucky",3219.0,2864.0,317.0,38.0,0.0,0.0,093,93416,21
+2109390656,"Cecilia CCD, Hardin County, Kentucky",3195.0,2674.0,395.0,126.0,0.0,0.0,093,90656,21
+2113793632,"Waynesburg CCD, Lincoln County, Kentucky",5695.0,5161.0,279.0,241.0,3.0,11.0,137,93632,21
+2113790888,"Crab Orchard CCD, Lincoln County, Kentucky",3961.0,3404.0,275.0,273.0,9.0,0.0,137,90888,21
+2113791792,"Hustonville CCD, Lincoln County, Kentucky",5721.0,4717.0,450.0,554.0,0.0,0.0,137,91792,21
+2113793344,"Stanford CCD, Lincoln County, Kentucky",8800.0,7610.0,727.0,415.0,41.0,7.0,137,93344,21
+2114990496,"Calhoun CCD, McLean County, Kentucky",3500.0,3162.0,250.0,80.0,8.0,0.0,149,90496,21
+2114993000,"Sacramento CCD, McLean County, Kentucky",1614.0,1409.0,106.0,82.0,17.0,0.0,149,93000,21
+2114991832,"Island CCD, McLean County, Kentucky",1234.0,1065.0,156.0,10.0,3.0,0.0,149,91832,21
+2114992056,"Livermore CCD, McLean County, Kentucky",2926.0,2533.0,187.0,197.0,7.0,2.0,149,92056,21
+2117191312,"Fountain Run CCD, Monroe County, Kentucky",1987.0,1885.0,50.0,35.0,15.0,2.0,171,91312,21
+2117193488,"Tompkinsville CCD, Monroe County, Kentucky",6761.0,5598.0,722.0,328.0,107.0,6.0,171,93488,21
+2118390200,"Beaver Dam CCD, Ohio County, Kentucky",8328.0,7453.0,289.0,287.0,299.0,0.0,183,90200,21
+2118391632,"Hartford CCD, Ohio County, Kentucky",3888.0,3185.0,408.0,171.0,124.0,0.0,183,91632,21
+2118391776,"Horse Branch CCD, Ohio County, Kentucky",1590.0,1446.0,81.0,37.0,26.0,0.0,183,91776,21
+2118391280,"Fordsville CCD, Ohio County, Kentucky",3009.0,2760.0,95.0,122.0,10.0,22.0,183,91280,21
+2118391688,"Heflin-Beda CCD, Ohio County, Kentucky",3700.0,3088.0,182.0,308.0,122.0,0.0,183,91688,21
+2119790728,"Clay City CCD, Powell County, Kentucky",5862.0,5079.0,430.0,221.0,118.0,14.0,197,90728,21
+2118390672,"Centertown CCD, Ohio County, Kentucky",1445.0,1281.0,128.0,31.0,0.0,5.0,183,90672,21
+2118392144,"McHenry-Rockport CCD, Ohio County, Kentucky",1805.0,1516.0,117.0,159.0,13.0,0.0,183,92144,21
+2119793352,"Stanton CCD, Powell County, Kentucky",6337.0,5397.0,581.0,340.0,19.0,0.0,197,93352,21
+2122592384,"Morganfield CCD, Union County, Kentucky",8680.0,6723.0,757.0,262.0,930.0,8.0,225,92384,21
+2122593384,"Sturgis CCD, Union County, Kentucky",4695.0,3899.0,577.0,157.0,62.0,0.0,225,93384,21
+2122593536,"Uniontown CCD, Union County, Kentucky",1398.0,1232.0,96.0,47.0,23.0,0.0,225,93536,21
+2123393120,"Sebree CCD, Webster County, Kentucky",4231.0,3892.0,180.0,119.0,27.0,13.0,233,93120,21
+2123390720,"Clay CCD, Webster County, Kentucky",2228.0,1894.0,259.0,62.0,13.0,0.0,233,90720,21
+2123392856,"Providence CCD, Webster County, Kentucky",3837.0,3287.0,484.0,63.0,3.0,0.0,233,92856,21
+2123391056,"Dixon CCD, Webster County, Kentucky",2712.0,2259.0,251.0,180.0,21.0,1.0,233,91056,21
+2103392848,"Princeton CCD, Caldwell County, Kentucky",10710.0,9506.0,871.0,236.0,97.0,0.0,033,92848,21
+2103391336,"Fredonia CCD, Caldwell County, Kentucky",1905.0,1660.0,83.0,107.0,52.0,3.0,033,91336,21
+2103592480,"Murray CCD, Calloway County, Kentucky",23390.0,17702.0,2582.0,1477.0,1189.0,440.0,035,92480,21
+2103593176,"Shiloh CCD, Calloway County, Kentucky",4303.0,3840.0,280.0,102.0,68.0,13.0,035,93176,21
+2103591936,"Kirksey CCD, Calloway County, Kentucky",4303.0,3995.0,165.0,123.0,15.0,5.0,035,91936,21
+2103592512,"New Concord CCD, Calloway County, Kentucky",3279.0,2846.0,303.0,0.0,130.0,0.0,035,92512,21
+2104592040,"Liberty CCD, Casey County, Kentucky",6284.0,5417.0,327.0,258.0,273.0,9.0,045,92040,21
+2104590736,"Clementsville CCD, Casey County, Kentucky",2111.0,1826.0,160.0,58.0,67.0,0.0,045,90736,21
+2104591088,"Dunnville CCD, Casey County, Kentucky",2542.0,2240.0,74.0,120.0,96.0,12.0,045,91088,21
+2104592296,"Middleburg CCD, Casey County, Kentucky",3319.0,3144.0,64.0,91.0,10.0,10.0,045,92296,21
+2116390328,"Brandenburg CCD, Meade County, Kentucky",12985.0,11340.0,781.0,558.0,286.0,20.0,163,90328,21
+2122190687,"Cerulean CCD, Trigg County, Kentucky",2468.0,2406.0,9.0,17.0,36.0,0.0,221,90687,21
+2122191980,"Land Between the Lakes CCD, Trigg County, Kentucky",21.0,6.0,3.0,6.0,6.0,0.0,221,91980,21
+2117192400,"Mount Hermon CCD, Monroe County, Kentucky",1765.0,1677.0,22.0,48.0,12.0,6.0,171,92400,21
+2119191420,"Goforth-Locust Grove CCD, Pendleton County, Kentucky",2658.0,2461.0,55.0,142.0,0.0,0.0,191,91420,21
+2122190588,"Canton CCD, Trigg County, Kentucky",4665.0,4041.0,296.0,309.0,19.0,0.0,221,90588,21
+2117391872,"Jeffersonville CCD, Montgomery County, Kentucky",7500.0,6589.0,523.0,255.0,132.0,1.0,173,91872,21
+2122191290,"Fort Campbell CCD, Trigg County, Kentucky",0.0,0.0,0.0,0.0,0.0,0.0,221,91290,21
+2121391101,"East Simpson CCD, Simpson County, Kentucky",2263.0,2132.0,47.0,84.0,0.0,0.0,213,91101,21
+2106192212,"Mammoth Cave CCD, Edmonson County, Kentucky",1556.0,1184.0,61.0,51.0,260.0,0.0,061,92212,21
+2107591918,"Kentucky Bend CCD, Fulton County, Kentucky",0.0,0.0,0.0,0.0,0.0,0.0,075,91918,21
+2110990076,"Annville CCD, Jackson County, Kentucky",5102.0,4604.0,276.0,167.0,55.0,0.0,109,90076,21
+2110993080,"Sandgap CCD, Jackson County, Kentucky",2652.0,2397.0,116.0,109.0,30.0,0.0,109,93080,21
+2120591725,"Hilda-Triplett CCD, Rowan County, Kentucky",5148.0,4754.0,294.0,85.0,15.0,0.0,205,91725,21
+2103792545,"Newport-Fort Thomas CCD, Campbell County, Kentucky",68258.0,57690.0,4741.0,2535.0,3037.0,255.0,037,92545,21
+2123993308,"South Woodford CCD, Woodford County, Kentucky",3739.0,3578.0,24.0,131.0,6.0,0.0,239,93308,21
+2104791288,"Fort Campbell CCD, Christian County, Kentucky",13184.0,7567.0,391.0,114.0,4389.0,723.0,047,91288,21
+2104791768,"Hopkinsville CCD, Christian County, Kentucky",38909.0,31467.0,5004.0,1044.0,1353.0,41.0,047,91768,21
+2104790928,"Crofton CCD, Christian County, Kentucky",5669.0,5189.0,252.0,71.0,152.0,5.0,047,90928,21
+2104791960,"LaFayette CCD, Christian County, Kentucky",2923.0,2687.0,151.0,0.0,62.0,23.0,047,91960,21
+2105992624,"Owensboro CCD, Daviess County, Kentucky",45157.0,37398.0,5391.0,1336.0,801.0,231.0,059,92624,21
+2108592336,"Millerstown CCD, Grayson County, Kentucky",2835.0,2741.0,8.0,78.0,8.0,0.0,085,92336,21
+2108590560,"Caneyville CCD, Grayson County, Kentucky",4040.0,3667.0,194.0,117.0,62.0,0.0,085,90560,21
+2108593192,"Short Creek CCD, Grayson County, Kentucky",2398.0,1855.0,341.0,97.0,61.0,44.0,085,93192,21
+2108590704,"Clarkson CCD, Grayson County, Kentucky",2880.0,2485.0,190.0,150.0,45.0,10.0,085,90704,21
+2110191672,"Hebbardsville-Robards CCD, Henderson County, Kentucky",4840.0,4576.0,175.0,6.0,83.0,0.0,101,91672,21
+2108592016,"Leitchfield CCD, Grayson County, Kentucky",13628.0,11748.0,1402.0,378.0,85.0,15.0,085,92016,21
+2110191704,"Henderson CCD, Henderson County, Kentucky",21539.0,16856.0,2539.0,1210.0,866.0,68.0,101,91704,21
+2110190848,"Corydon CCD, Henderson County, Kentucky",7283.0,6674.0,563.0,12.0,34.0,0.0,101,90848,21
+2110193320,"Spottsville CCD, Henderson County, Kentucky",12096.0,11132.0,727.0,207.0,12.0,18.0,101,93320,21
+2110392816,"Pleasureville CCD, Henry County, Kentucky",2616.0,2215.0,244.0,157.0,0.0,0.0,103,92816,21
+2110390520,"Campbellsburg CCD, Henry County, Kentucky",2451.0,2183.0,64.0,166.0,38.0,0.0,103,90520,21
+2110392504,"New Castle CCD, Henry County, Kentucky",3651.0,3134.0,244.0,257.0,16.0,0.0,103,92504,21
+2110391152,"Eminence CCD, Henry County, Kentucky",6729.0,5341.0,689.0,581.0,118.0,0.0,103,91152,21
+2110792496,"Nebo CCD, Hopkins County, Kentucky",3590.0,3334.0,133.0,84.0,31.0,8.0,107,92496,21
+2110793016,"St. Charles CCD, Hopkins County, Kentucky",1011.0,976.0,35.0,0.0,0.0,0.0,107,93016,21
+2110792584,"Nortonville CCD, Hopkins County, Kentucky",3637.0,3262.0,268.0,102.0,5.0,0.0,107,92584,21
+2110791576,"Hanson CCD, Hopkins County, Kentucky",3232.0,2996.0,144.0,33.0,59.0,0.0,107,91576,21
+2110791024,"Dawson Springs CCD, Hopkins County, Kentucky",6021.0,5372.0,448.0,164.0,29.0,8.0,107,91024,21
+2110792176,"Madisonville CCD, Hopkins County, Kentucky",27974.0,23258.0,3193.0,1355.0,135.0,33.0,107,92176,21
+2110992152,"McKee CCD, Jackson County, Kentucky",5393.0,5098.0,203.0,68.0,24.0,0.0,109,92152,21
+2112592568,"North Corbin CCD, Laurel County, Kentucky",9692.0,8491.0,380.0,772.0,49.0,0.0,125,92568,21
+2112591096,"East Bernstadt CCD, Laurel County, Kentucky",6180.0,5552.0,359.0,254.0,15.0,0.0,125,91096,21
+2112590536,"Camp Ground CCD, Laurel County, Kentucky",3581.0,3222.0,95.0,138.0,126.0,0.0,125,90536,21
+2112591904,"Keavy CCD, Laurel County, Kentucky",9953.0,8210.0,809.0,819.0,115.0,0.0,125,91904,21
+2112590464,"Bush CCD, Laurel County, Kentucky",4983.0,4437.0,343.0,0.0,203.0,0.0,125,90464,21
+2112591496,"Greenmount-Langnau CCD, Laurel County, Kentucky",2995.0,2736.0,110.0,119.0,23.0,7.0,125,91496,21
+2112592072,"London CCD, Laurel County, Kentucky",17432.0,14458.0,1804.0,1001.0,152.0,17.0,125,92072,21
+2112590768,"Colony CCD, Laurel County, Kentucky",4468.0,4034.0,214.0,0.0,220.0,0.0,125,90768,21
+2115790216,"Benton CCD, Marshall County, Kentucky",10950.0,9927.0,695.0,264.0,64.0,0.0,157,90216,21
+2115790512,"Calvert City CCD, Marshall County, Kentucky",13918.0,12385.0,514.0,678.0,322.0,19.0,157,90512,21
+2115791192,"Fairdealing CCD, Marshall County, Kentucky",6124.0,5613.0,300.0,105.0,106.0,0.0,157,91192,21
+2116391248,"Flaherty CCD, Meade County, Kentucky",12220.0,8851.0,801.0,1073.0,1414.0,81.0,163,91248,21
+2116390176,"Battletown-Payneville CCD, Meade County, Kentucky",2868.0,2395.0,194.0,195.0,84.0,0.0,163,90176,21
+2117392416,"Mount Sterling CCD, Montgomery County, Kentucky",19689.0,16131.0,1658.0,1507.0,385.0,8.0,173,92416,21
+2118190592,"Carlisle CCD, Nicholas County, Kentucky",4967.0,4261.0,372.0,178.0,150.0,6.0,181,90592,21
+2118191664,"Headquarters CCD, Nicholas County, Kentucky",2020.0,1894.0,17.0,103.0,0.0,6.0,181,91664,21
+2118592752,"Pewee Valley CCD, Oldham County, Kentucky",39465.0,35748.0,1030.0,1738.0,770.0,179.0,185,92752,21
+2118591968,"La Grange CCD, Oldham County, Kentucky",24461.0,20344.0,1139.0,2195.0,756.0,27.0,185,91968,21
+2118792360,"Monterey-New Columbus CCD, Owen County, Kentucky",2484.0,2191.0,181.0,112.0,0.0,0.0,187,92360,21
+2118792632,"Owenton CCD, Owen County, Kentucky",4715.0,4056.0,385.0,258.0,9.0,7.0,187,92632,21
+2118792528,"New Liberty CCD, Owen County, Kentucky",3343.0,2795.0,84.0,420.0,44.0,0.0,187,92528,21
+2120392424,"Mount Vernon CCD, Rockcastle County, Kentucky",10987.0,9442.0,1104.0,411.0,20.0,10.0,203,92424,21
+2120392064,"Livingston CCD, Rockcastle County, Kentucky",2499.0,2209.0,240.0,23.0,27.0,0.0,203,92064,21
+2120390800,"Conway CCD, Rockcastle County, Kentucky",3192.0,2815.0,155.0,221.0,1.0,0.0,203,90800,21
+2120993008,"Sadieville CCD, Scott County, Kentucky",3134.0,2800.0,248.0,60.0,15.0,11.0,209,93008,21
+2120993336,"Stamping Ground CCD, Scott County, Kentucky",6629.0,5819.0,474.0,165.0,165.0,6.0,209,93336,21
+2120991392,"Georgetown CCD, Scott County, Kentucky",41940.0,34366.0,4348.0,2093.0,976.0,157.0,209,91392,21
+2122793248,"Smiths Grove CCD, Warren County, Kentucky",5525.0,4971.0,389.0,133.0,32.0,0.0,227,93248,21
+2122790312,"Bowling Green CCD, Warren County, Kentucky",90096.0,65318.0,13283.0,6329.0,4326.0,840.0,227,90312,21
+2122793760,"Woodburn CCD, Warren County, Kentucky",5972.0,5715.0,83.0,142.0,32.0,0.0,227,93760,21
+2122791488,"Greencastle CCD, Warren County, Kentucky",1936.0,1615.0,229.0,92.0,0.0,0.0,227,91488,21
+2100393112,"Scottsville CCD, Allen County, Kentucky",9565.0,8219.0,802.0,398.0,131.0,15.0,003,93112,21
+2100390024,"Adolphus CCD, Allen County, Kentucky",3185.0,2721.0,322.0,42.0,100.0,0.0,003,90024,21
+2100393136,"Settle CCD, Allen County, Kentucky",3015.0,2689.0,158.0,100.0,44.0,24.0,003,93136,21
+2100391760,"Holland CCD, Allen County, Kentucky",1604.0,1381.0,40.0,61.0,96.0,26.0,003,91760,21
+2100391560,"Halfway CCD, Allen County, Kentucky",3082.0,2672.0,155.0,107.0,138.0,10.0,003,91560,21
+2101792576,"North Middletown CCD, Bourbon County, Kentucky",2243.0,2001.0,167.0,67.0,8.0,0.0,017,92576,21
+2101792328,"Millersburg CCD, Bourbon County, Kentucky",2131.0,1857.0,162.0,62.0,42.0,8.0,017,92328,21
+2101792680,"Paris CCD, Bourbon County, Kentucky",15398.0,12556.0,1788.0,824.0,230.0,0.0,017,92680,21
+2101990632,"Catlettsburg CCD, Boyd County, Kentucky",5938.0,5278.0,243.0,196.0,207.0,14.0,019,90632,21
+2101990104,"Ashland CCD, Boyd County, Kentucky",26267.0,22237.0,2078.0,1086.0,815.0,51.0,019,90104,21
+2101990576,"Cannonsburg CCD, Boyd County, Kentucky",7723.0,6799.0,609.0,86.0,216.0,13.0,019,90576,21
+2102991296,"Fort Knox CCD, Bullitt County, Kentucky",0.0,0.0,0.0,0.0,0.0,0.0,029,91296,21
+2102993168,"Shepherdsville Southeast CCD, Bullitt County, Kentucky",11096.0,9971.0,428.0,631.0,66.0,0.0,029,93168,21
+2102993160,"Shepherdsville Northwest CCD, Bullitt County, Kentucky",36240.0,31978.0,2245.0,1747.0,237.0,33.0,029,93160,21
+2102992008,"Lebanon Junction CCD, Bullitt County, Kentucky",4992.0,4209.0,598.0,116.0,32.0,37.0,029,92008,21
+2102992440,"Mount Washington CCD, Bullitt County, Kentucky",25534.0,22635.0,1269.0,1224.0,365.0,41.0,029,92440,21
+2105592240,"Marion CCD, Crittenden County, Kentucky",4341.0,3840.0,350.0,96.0,55.0,0.0,055,92240,21
+2107591360,"Fulton CCD, Fulton County, Kentucky",3478.0,3158.0,168.0,93.0,59.0,0.0,075,91360,21
+2107591712,"Hickman CCD, Fulton County, Kentucky",2700.0,2170.0,153.0,276.0,101.0,0.0,075,91712,21
+2111591256,"Flatgap CCD, Johnson County, Kentucky",2409.0,2341.0,45.0,23.0,0.0,0.0,115,91256,21
+2111592600,"Oil Springs CCD, Johnson County, Kentucky",2780.0,2612.0,141.0,11.0,16.0,0.0,115,92600,21
+2111592672,"Paintsville CCD, Johnson County, Kentucky",14132.0,12384.0,846.0,642.0,176.0,84.0,115,92672,21
+2111592560,"Nippa CCD, Johnson County, Kentucky",3493.0,2937.0,303.0,132.0,121.0,0.0,115,92560,21
+2111991736,"Hindman CCD, Knott County, Kentucky",4126.0,3606.0,249.0,203.0,59.0,9.0,119,91736,21
+2111992448,"Mousie CCD, Knott County, Kentucky",2704.0,2301.0,151.0,193.0,59.0,0.0,119,92448,21
+2111990600,"Carr Fork CCD, Knott County, Kentucky",3822.0,3218.0,199.0,338.0,67.0,0.0,119,90600,21
+2111991160,"Emmalena CCD, Knott County, Kentucky",2703.0,2617.0,21.0,46.0,19.0,0.0,119,91160,21
+2116591344,"Frenchburg CCD, Menifee County, Kentucky",3648.0,3176.0,226.0,216.0,30.0,0.0,165,91344,21
+2117591456,"Grassy Creek CCD, Morgan County, Kentucky",2037.0,1825.0,115.0,85.0,12.0,0.0,175,91456,21
+2117593656,"West Liberty CCD, Morgan County, Kentucky",4677.0,3899.0,256.0,517.0,5.0,0.0,175,93656,21
+2117593776,"Wrigley CCD, Morgan County, Kentucky",1788.0,1724.0,52.0,12.0,0.0,0.0,175,93776,21
+2117590568,"Cannel City CCD, Morgan County, Kentucky",2186.0,1948.0,201.0,3.0,34.0,0.0,175,90568,21
+2117792736,"Penrod CCD, Muhlenberg County, Kentucky",1979.0,1865.0,51.0,63.0,0.0,0.0,177,92736,21
+2117790352,"Bremen CCD, Muhlenberg County, Kentucky",3803.0,3462.0,220.0,86.0,35.0,0.0,177,90352,21
+2117790680,"Central City CCD, Muhlenberg County, Kentucky",8626.0,7224.0,817.0,446.0,132.0,7.0,177,90680,21
+2117791080,"Drakesboro CCD, Muhlenberg County, Kentucky",3753.0,3271.0,424.0,36.0,11.0,11.0,177,91080,21
+2117791520,"Greenville CCD, Muhlenberg County, Kentucky",11065.0,9600.0,875.0,373.0,199.0,18.0,177,91520,21
+2117792952,"Rosewood CCD, Muhlenberg County, Kentucky",1676.0,1566.0,110.0,0.0,0.0,0.0,177,92952,21
+2119391648,"Hazard CCD, Perry County, Kentucky",13764.0,12015.0,1234.0,261.0,28.0,226.0,193,91648,21
+2119391944,"Krypton CCD, Perry County, Kentucky",3005.0,2716.0,248.0,32.0,9.0,0.0,193,91944,21
+2119390992,"Daisy CCD, Perry County, Kentucky",1747.0,1499.0,139.0,52.0,55.0,2.0,193,90992,21
+2119390408,"Buckhorn CCD, Perry County, Kentucky",784.0,746.0,4.0,32.0,2.0,0.0,193,90408,21
+2119393576,"Viper CCD, Perry County, Kentucky",2766.0,2454.0,280.0,32.0,0.0,0.0,193,93576,21
+2119391032,"Defiance-Vicco CCD, Perry County, Kentucky",1688.0,1550.0,88.0,31.0,19.0,0.0,193,91032,21
+2119391048,"Dice CCD, Perry County, Kentucky",3230.0,2544.0,429.0,253.0,4.0,0.0,193,91048,21
+2119992488,"Nancy CCD, Pulaski County, Kentucky",5137.0,4833.0,160.0,99.0,45.0,0.0,199,92488,21
+2119992432,"Mount Victory CCD, Pulaski County, Kentucky",1636.0,1456.0,67.0,15.0,98.0,0.0,199,92432,21
+2119991176,"Eubank CCD, Pulaski County, Kentucky",5876.0,5468.0,282.0,40.0,86.0,0.0,199,91176,21
+2119993184,"Shopville CCD, Pulaski County, Kentucky",2557.0,2366.0,116.0,9.0,57.0,9.0,199,93184,21
+2119993256,"Somerset CCD, Pulaski County, Kentucky",36920.0,31593.0,3280.0,1436.0,582.0,29.0,199,93256,21
+2119993104,"Science Hill CCD, Pulaski County, Kentucky",5299.0,4637.0,438.0,179.0,45.0,0.0,199,93104,21
+2119990456,"Burnside CCD, Pulaski County, Kentucky",5878.0,5269.0,284.0,143.0,182.0,0.0,199,90456,21
+2123792208,"Malaga CCD, Wolfe County, Kentucky",1085.0,961.0,47.0,58.0,19.0,0.0,237,92208,21
+2123791656,"Hazel Green CCD, Wolfe County, Kentucky",2028.0,1812.0,45.0,171.0,0.0,0.0,237,91656,21
+2123790544,"Campton CCD, Wolfe County, Kentucky",4041.0,3160.0,539.0,257.0,85.0,0.0,237,90544,21
+2105190096,"Ashers Fork CCD, Clay County, Kentucky",1189.0,1047.0,70.0,35.0,37.0,0.0,051,90096,21
+2105190448,"Burning Springs CCD, Clay County, Kentucky",5971.0,5475.0,441.0,35.0,20.0,0.0,051,90448,21
+2105192616,"Oneida CCD, Clay County, Kentucky",1898.0,1536.0,302.0,42.0,18.0,0.0,051,92616,21
+2105190248,"Big Creek CCD, Clay County, Kentucky",2946.0,2792.0,135.0,0.0,12.0,7.0,051,90248,21
+2105192216,"Manchester CCD, Clay County, Kentucky",5848.0,5021.0,400.0,213.0,197.0,17.0,051,92216,21
+2105193200,"Sibert-Hima CCD, Clay County, Kentucky",2601.0,2299.0,268.0,34.0,0.0,0.0,051,93200,21
+2100193680,"White Oak CCD, Adair County, Kentucky",3159.0,2943.0,9.0,0.0,207.0,0.0,001,93680,21
+2100190624,"Casey Creek CCD, Adair County, Kentucky",1598.0,1508.0,13.0,56.0,16.0,5.0,001,90624,21
+2100191416,"Glens Fork CCD, Adair County, Kentucky",1550.0,1346.0,193.0,0.0,11.0,0.0,001,91416,21
+2100191432,"Gradyville CCD, Adair County, Kentucky",2256.0,2058.0,44.0,94.0,53.0,7.0,001,91432,21
+2100190552,"Cane Valley CCD, Adair County, Kentucky",1833.0,1757.0,23.0,51.0,2.0,0.0,001,90552,21
+2101392808,"Pineville CCD, Bell County, Kentucky",9429.0,8519.0,592.0,272.0,46.0,0.0,013,92808,21
+2100190784,"Columbia CCD, Adair County, Kentucky",8788.0,7497.0,443.0,608.0,223.0,17.0,001,90784,21
+2101391920,"Kentucky Ridge CCD, Bell County, Kentucky",2131.0,1633.0,67.0,380.0,51.0,0.0,013,91920,21
+2101392304,"Middlesborough CCD, Bell County, Kentucky",12616.0,11103.0,915.0,281.0,317.0,0.0,013,92304,21
+2101393456,"Tejay CCD, Bell County, Kentucky",1758.0,1700.0,53.0,5.0,0.0,0.0,013,93456,21
+2101392864,"Pruden-Fonde CCD, Bell County, Kentucky",1174.0,1162.0,12.0,0.0,0.0,0.0,013,92864,21
+2102591552,"Haddix CCD, Breathitt County, Kentucky",1828.0,1656.0,89.0,73.0,10.0,0.0,025,91552,21
+2102591848,"Jackson CCD, Breathitt County, Kentucky",3444.0,2979.0,245.0,176.0,44.0,0.0,025,91848,21
+2102593440,"Taulbee CCD, Breathitt County, Kentucky",1272.0,1046.0,166.0,28.0,32.0,0.0,025,93440,21
+2102590584,"Canoe CCD, Breathitt County, Kentucky",1288.0,1209.0,70.0,0.0,9.0,0.0,025,90584,21
+2102591592,"Hardshell CCD, Breathitt County, Kentucky",1806.0,1649.0,51.0,58.0,42.0,6.0,025,91592,21
+2102592592,"Oakdale CCD, Breathitt County, Kentucky",2138.0,1898.0,104.0,47.0,89.0,0.0,025,92592,21
+2102592960,"Rousseau CCD, Breathitt County, Kentucky",1316.0,1196.0,53.0,32.0,25.0,10.0,025,92960,21
+2105790432,"Burkesville CCD, Cumberland County, Kentucky",3819.0,3239.0,246.0,200.0,134.0,0.0,057,90432,21
+2108393752,"Wingo-Water Valley CCD, Graves County, Kentucky",3595.0,3381.0,136.0,57.0,14.0,7.0,083,93752,21
+2108393128,"Sedalia CCD, Graves County, Kentucky",2817.0,2599.0,175.0,43.0,0.0,0.0,083,93128,21
+2108391216,"Farmington CCD, Graves County, Kentucky",3016.0,2861.0,57.0,79.0,19.0,0.0,083,91216,21
+2108391208,"Fancy Farm CCD, Graves County, Kentucky",2354.0,2196.0,35.0,92.0,21.0,10.0,083,91208,21
+2108392256,"Mayfield CCD, Graves County, Kentucky",14616.0,13171.0,950.0,325.0,106.0,64.0,083,92256,21
+2108393432,"Symsonia CCD, Graves County, Kentucky",5601.0,4872.0,359.0,180.0,130.0,60.0,083,93432,21
+2109991600,"Hardyville CCD, Hart County, Kentucky",3988.0,3836.0,112.0,20.0,20.0,0.0,099,91600,21
+2109991568,"Hammonville CCD, Hart County, Kentucky",1928.0,1778.0,25.0,65.0,53.0,7.0,099,91568,21
+2109990280,"Bonnieville CCD, Hart County, Kentucky",2514.0,2309.0,71.0,134.0,0.0,0.0,099,90280,21
+2109992472,"Munfordville CCD, Hart County, Kentucky",4720.0,4129.0,322.0,245.0,21.0,3.0,099,92472,21
+2109991784,"Horse Cave CCD, Hart County, Kentucky",5143.0,4524.0,434.0,141.0,32.0,12.0,099,91784,21
+2112990184,"Beattyville CCD, Lee County, Kentucky",3963.0,3190.0,299.0,382.0,92.0,0.0,129,90184,21
+2112993024,"St. Helens CCD, Lee County, Kentucky",1144.0,1064.0,52.0,3.0,25.0,0.0,129,93024,21
+2115590320,"Bradfordsville CCD, Marion County, Kentucky",824.0,746.0,55.0,15.0,4.0,4.0,155,90320,21
+2113593560,"Vanceburg CCD, Lewis County, Kentucky",3907.0,3296.0,321.0,221.0,69.0,0.0,135,93560,21
+2115592536,"New Market CCD, Marion County, Kentucky",621.0,590.0,17.0,14.0,0.0,0.0,155,92536,21
+2115592896,"Raywick CCD, Marion County, Kentucky",1096.0,929.0,129.0,38.0,0.0,0.0,155,92896,21
+2115592000,"Lebanon CCD, Marion County, Kentucky",10741.0,9415.0,797.0,459.0,42.0,28.0,155,92000,21
+2115592088,"Loretto CCD, Marion County, Kentucky",2825.0,2527.0,158.0,129.0,0.0,11.0,155,92088,21
+2115593032,"St. Mary CCD, Marion County, Kentucky",2116.0,1653.0,63.0,373.0,27.0,0.0,155,93032,21
+2115591464,"Gravel Switch CCD, Marion County, Kentucky",974.0,865.0,99.0,6.0,0.0,4.0,155,91464,21
+2122190480,"Cadiz CCD, Trigg County, Kentucky",6969.0,5768.0,543.0,428.0,227.0,3.0,221,90480,21
+2123993568,"Versailles CCD, Woodford County, Kentucky",19484.0,16923.0,1448.0,772.0,227.0,114.0,239,93568,21
+2123992312,"Midway CCD, Woodford County, Kentucky",2295.0,2021.0,75.0,130.0,66.0,3.0,239,92312,21
+2101591272,"Florence CCD, Boone County, Kentucky",67577.0,55274.0,5632.0,3776.0,2398.0,497.0,015,91272,21
+2101590440,"Burlington CCD, Boone County, Kentucky",18986.0,15546.0,1618.0,895.0,893.0,34.0,015,90440,21
+2101591680,"Hebron CCD, Boone County, Kentucky",18870.0,17126.0,833.0,399.0,434.0,78.0,015,91680,21
+2101593592,"Walton CCD, Boone County, Kentucky",21043.0,18030.0,1425.0,577.0,759.0,252.0,015,93592,21
+2113192456,"Mozelle CCD, Leslie County, Kentucky",2571.0,2403.0,96.0,72.0,0.0,0.0,131,92456,21
+2113190976,"Cutshin CCD, Leslie County, Kentucky",2934.0,2547.0,365.0,22.0,0.0,0.0,131,90976,21
+2113191800,"Hyden CCD, Leslie County, Kentucky",5062.0,4549.0,204.0,136.0,145.0,28.0,131,91800,21
+2111391912,"Keene CCD, Jessamine County, Kentucky",6856.0,6376.0,109.0,351.0,20.0,0.0,113,91912,21
+2111393736,"Wilmore CCD, Jessamine County, Kentucky",8152.0,6317.0,695.0,466.0,478.0,196.0,113,93736,21
+2111392552,"Nicholasville CCD, Jessamine County, Kentucky",35993.0,28575.0,4446.0,2333.0,413.0,226.0,113,92552,21
+2112191400,"Girdler CCD, Knox County, Kentucky",3156.0,2903.0,142.0,99.0,12.0,0.0,121,91400,21
+2112190824,"Corbin CCD, Knox County, Kentucky",7627.0,6780.0,192.0,564.0,91.0,0.0,121,90824,21
+2112193520,"Trosper CCD, Knox County, Kentucky",967.0,947.0,12.0,0.0,8.0,0.0,121,93520,21
+2112191040,"Dewitt CCD, Knox County, Kentucky",1674.0,1595.0,19.0,52.0,8.0,0.0,121,91040,21
+2112191472,"Gray CCD, Knox County, Kentucky",2970.0,2889.0,48.0,33.0,0.0,0.0,121,91472,21
+2112190144,"Barbourville CCD, Knox County, Kentucky",13675.0,12236.0,687.0,405.0,344.0,3.0,121,90144,21
+2112793640,"Webbville CCD, Lawrence County, Kentucky",1829.0,1708.0,69.0,52.0,0.0,0.0,127,93640,21
+2112790264,"Blaine CCD, Lawrence County, Kentucky",1524.0,1465.0,7.0,30.0,22.0,0.0,127,90264,21
+2112792096,"Louisa CCD, Lawrence County, Kentucky",6528.0,6215.0,137.0,83.0,93.0,0.0,127,92096,21
+2103192392,"Morgantown CCD, Butler County, Kentucky",4734.0,4286.0,302.0,92.0,54.0,0.0,031,92392,21
+2103191888,"Jetson CCD, Butler County, Kentucky",1766.0,1598.0,108.0,60.0,0.0,0.0,031,91888,21
+2103193392,"Sugar Grove CCD, Butler County, Kentucky",1593.0,1505.0,9.0,79.0,0.0,0.0,031,93392,21
+2103192936,"Rochester CCD, Butler County, Kentucky",1281.0,1147.0,89.0,45.0,0.0,0.0,031,92936,21
+2106190368,"Brownsville CCD, Edmonson County, Kentucky",6327.0,5434.0,263.0,380.0,250.0,0.0,061,90368,21
+2103193648,"Welchs Creek CCD, Butler County, Kentucky",3224.0,2975.0,43.0,193.0,13.0,0.0,031,93648,21
+2122390208,"Bedford CCD, Trimble County, Kentucky",5255.0,4679.0,252.0,286.0,38.0,0.0,223,90208,21
+2122392352,"Milton CCD, Trimble County, Kentucky",3303.0,2849.0,219.0,163.0,72.0,0.0,223,92352,21
+2106193424,"Sunfish CCD, Edmonson County, Kentucky",908.0,838.0,7.0,49.0,14.0,0.0,061,93424,21
+2106190376,"Brownsville North CCD, Edmonson County, Kentucky",3191.0,2964.0,88.0,102.0,30.0,7.0,061,90376,21
+2109790240,"Berry West CCD, Harrison County, Kentucky",2386.0,2139.0,0.0,224.0,23.0,0.0,097,90240,21
+2110590752,"Clinton CCD, Hickman County, Kentucky",3809.0,3494.0,34.0,143.0,138.0,0.0,105,90752,21
+2109790984,"Cynthiana CCD, Harrison County, Kentucky",13023.0,11353.0,1219.0,401.0,50.0,0.0,097,90984,21
+2109790232,"Berry CCD, Harrison County, Kentucky",3042.0,2288.0,230.0,237.0,287.0,0.0,097,90232,21
+2110590792,"Columbus CCD, Hickman County, Kentucky",724.0,703.0,12.0,0.0,9.0,0.0,105,90792,21
+2102390360,"Brooksville CCD, Bracken County, Kentucky",3917.0,3523.0,149.0,176.0,60.0,9.0,023,90360,21
+2102391304,"Foster CCD, Bracken County, Kentucky",1893.0,1723.0,80.0,56.0,34.0,0.0,023,91304,21
+2102390128,"Augusta CCD, Bracken County, Kentucky",2427.0,2211.0,151.0,65.0,0.0,0.0,023,90128,21
+2114393272,"Southeast Lyon CCD, Lyon County, Kentucky",1940.0,1643.0,55.0,174.0,57.0,11.0,143,93272,21
+2114391104,"Eddyville CCD, Lyon County, Kentucky",6267.0,5260.0,275.0,599.0,78.0,55.0,143,91104,21
+2117990152,"Bardstown CCD, Nelson County, Kentucky",27102.0,23768.0,2154.0,1000.0,142.0,38.0,179,90152,21
+2117990272,"Bloomfield CCD, Nelson County, Kentucky",3204.0,2763.0,97.0,322.0,21.0,1.0,179,90272,21
+2117990304,"Boston CCD, Nelson County, Kentucky",3301.0,2823.0,174.0,270.0,34.0,0.0,179,90304,21
+2117990880,"Coxs Creek CCD, Nelson County, Kentucky",7651.0,6944.0,250.0,386.0,57.0,14.0,179,90880,21
+2117992520,"New Haven CCD, Nelson County, Kentucky",3340.0,3065.0,184.0,41.0,50.0,0.0,179,92520,21
+2123192344,"Mill Springs CCD, Wayne County, Kentucky",4316.0,3953.0,221.0,95.0,47.0,0.0,231,92344,21
+2123193792,"Zula-Powersburg CCD, Wayne County, Kentucky",3620.0,3430.0,136.0,46.0,0.0,8.0,231,93792,21
+2123191528,"Gregory CCD, Wayne County, Kentucky",1762.0,1762.0,0.0,0.0,0.0,0.0,231,91528,21
+2123190816,"Coopersville CCD, Wayne County, Kentucky",1217.0,1119.0,77.0,0.0,21.0,0.0,231,90816,21
+2123192368,"Monticello CCD, Wayne County, Kentucky",9600.0,8169.0,1034.0,286.0,111.0,0.0,231,92368,21
+2113591376,"Garrison CCD, Lewis County, Kentucky",4328.0,3884.0,220.0,72.0,152.0,0.0,135,91376,21
+2113591984,"Laurel-Petersville CCD, Lewis County, Kentucky",1762.0,1687.0,33.0,0.0,42.0,0.0,135,91984,21
+2113593480,"Tollesboro CCD, Lewis County, Kentucky",3419.0,3201.0,148.0,70.0,0.0,0.0,135,93480,21
+2105593265,"South Crittenden CCD, Crittenden County, Kentucky",1499.0,1428.0,53.0,16.0,2.0,0.0,055,93265,21
+2104393552,"Upper Tygart CCD, Carter County, Kentucky",3196.0,2870.0,181.0,145.0,0.0,0.0,043,93552,21
+2105591098,"East Crittenden CCD, Crittenden County, Kentucky",1833.0,1682.0,115.0,28.0,8.0,0.0,055,91098,21
+2105791924,"Kettle-Peytonsburg CCD, Cumberland County, Kentucky",2819.0,2626.0,135.0,23.0,35.0,0.0,057,91924,21
+2109391298,"Fort Knox CCD, Hardin County, Kentucky",6310.0,2587.0,368.0,179.0,2695.0,481.0,093,91298,21
+2114591436,"Grahamville-Heath CCD, McCracken County, Kentucky",6696.0,5801.0,472.0,112.0,311.0,0.0,145,91436,21
+2114593028,"St. Johns-Freemont CCD, McCracken County, Kentucky",4070.0,3694.0,254.0,61.0,45.0,16.0,145,93028,21
+2114590516,"Camelia CCD, McCracken County, Kentucky",3141.0,2882.0,151.0,43.0,65.0,0.0,145,90516,21
+2104991278,"Ford-Boonesborough CCD, Clark County, Kentucky",2789.0,2425.0,134.0,166.0,64.0,0.0,049,91278,21
+2104993269,"Southeast Clark CCD, Clark County, Kentucky",3054.0,2543.0,383.0,66.0,34.0,28.0,049,93269,21
+2108391722,"Hickory-Lowes CCD, Graves County, Kentucky",4801.0,4599.0,96.0,51.0,55.0,0.0,083,91722,21
+2111192820,"Pond Creek CCD, Jefferson County, Kentucky",44018.0,37638.0,5524.0,445.0,303.0,108.0,111,92820,21
+2111193267,"South Dixie CCD, Jefferson County, Kentucky",24701.0,22506.0,1826.0,250.0,78.0,41.0,111,93267,21
+2111192572,"North Dixie CCD, Jefferson County, Kentucky",47858.0,42437.0,4427.0,697.0,255.0,42.0,111,92572,21
+2112790744,"Clifford CCD, Lawrence County, Kentucky",2772.0,2547.0,117.0,24.0,84.0,0.0,127,90744,21
+2112790016,"Adams CCD, Lawrence County, Kentucky",3019.0,2865.0,8.0,16.0,123.0,7.0,127,90016,21
+2113393688,"Whitesburg CCD, Letcher County, Kentucky",7764.0,6897.0,775.0,63.0,27.0,2.0,133,93688,21
+2113391880,"Jenkins CCD, Letcher County, Kentucky",7320.0,6594.0,588.0,84.0,38.0,16.0,133,91880,21
+2113390256,"Blackey CCD, Letcher County, Kentucky",5075.0,4908.0,122.0,45.0,0.0,0.0,133,90256,21
+2113390776,"Colson CCD, Letcher County, Kentucky",1325.0,1200.0,81.0,44.0,0.0,0.0,133,90776,21
+2113391168,"Eolia CCD, Letcher County, Kentucky",1282.0,1211.0,40.0,4.0,18.0,9.0,133,91168,21
+2113993040,"Salem CCD, Livingston County, Kentucky",3098.0,2905.0,100.0,45.0,48.0,0.0,139,93040,21
+2113993240,"Smithland CCD, Livingston County, Kentucky",6155.0,5787.0,143.0,135.0,80.0,10.0,139,93240,21
+2114592648,"Paducah CCD, McCracken County, Kentucky",50564.0,44399.0,3732.0,1378.0,1024.0,31.0,145,92648,21
+2119591232,"Fedscreek CCD, Pike County, Kentucky",3294.0,2996.0,160.0,31.0,96.0,11.0,195,91232,21
+2119593304,"South Williamson CCD, Pike County, Kentucky",6462.0,5756.0,246.0,18.0,442.0,0.0,195,93304,21
+2119592264,"Mayflower CCD, Pike County, Kentucky",3170.0,2839.0,133.0,123.0,67.0,8.0,195,92264,21
+2119592872,"Raccoon CCD, Pike County, Kentucky",3603.0,3243.0,333.0,27.0,0.0,0.0,195,92872,21
+2119592768,"Pikeville CCD, Pike County, Kentucky",15607.0,12274.0,1902.0,1022.0,352.0,57.0,195,92768,21
+2119592080,"Long Fork CCD, Pike County, Kentucky",2336.0,2141.0,179.0,16.0,0.0,0.0,195,92080,21
+2119592112,"McCarr CCD, Pike County, Kentucky",1606.0,1484.0,59.0,60.0,0.0,3.0,195,92112,21
+2119592928,"Robinson Creek CCD, Pike County, Kentucky",3705.0,3348.0,328.0,10.0,19.0,0.0,195,92928,21
+2119593208,"Sidney CCD, Pike County, Kentucky",2762.0,2598.0,123.0,0.0,15.0,26.0,195,93208,21
+2119590088,"Ashcamp CCD, Pike County, Kentucky",1810.0,1577.0,137.0,91.0,0.0,5.0,195,90088,21
+2119591072,"Dorton CCD, Pike County, Kentucky",2948.0,2754.0,155.0,33.0,6.0,0.0,195,91072,21
+2119591136,"Elkhorn City CCD, Pike County, Kentucky",3224.0,2954.0,149.0,121.0,0.0,0.0,195,91136,21
+2119592320,"Millard CCD, Pike County, Kentucky",4316.0,3335.0,750.0,170.0,40.0,21.0,195,92320,21
+2119592760,"Phelps CCD, Pike County, Kentucky",3891.0,3657.0,187.0,11.0,21.0,15.0,195,92760,21
+2119591696,"Hellier CCD, Pike County, Kentucky",2344.0,2081.0,233.0,23.0,7.0,0.0,195,91696,21
+2121191616,"Harrisonville CCD, Shelby County, Kentucky",5207.0,4409.0,532.0,63.0,44.0,159.0,211,91616,21
+2121193232,"Simpsonville CCD, Shelby County, Kentucky",9491.0,8326.0,225.0,488.0,421.0,31.0,211,93232,21
+2121193152,"Shelbyville CCD, Shelby County, Kentucky",27474.0,22567.0,2561.0,1746.0,544.0,56.0,211,93152,21
+2121190696,"Christianburg CCD, Shelby County, Kentucky",3200.0,2984.0,216.0,0.0,0.0,0.0,211,90696,21
+2123593712,"Williamsburg CCD, Whitley County, Kentucky",11516.0,9283.0,762.0,1104.0,349.0,18.0,235,93712,21
+2123590832,"Corbin CCD, Whitley County, Kentucky",12285.0,11321.0,347.0,471.0,146.0,0.0,235,90832,21
+2123593096,"Saxton CCD, Whitley County, Kentucky",3751.0,3537.0,179.0,18.0,17.0,0.0,235,93096,21
+2123593216,"Siler CCD, Whitley County, Kentucky",1875.0,1710.0,114.0,27.0,24.0,0.0,235,93216,21
+2123592712,"Pearl CCD, Whitley County, Kentucky",299.0,284.0,15.0,0.0,0.0,0.0,235,92712,21
+2123590952,"Cumberland Falls CCD, Whitley County, Kentucky",5789.0,5311.0,90.0,152.0,161.0,75.0,235,90952,21
+2100591992,"Lawrenceburg CCD, Anderson County, Kentucky",16920.0,14534.0,1100.0,1223.0,54.0,9.0,005,91992,21
+2102791584,"Hardinsburg CCD, Breckinridge County, Kentucky",5256.0,4409.0,631.0,170.0,46.0,0.0,027,91584,21
+2102790760,"Cloverport CCD, Breckinridge County, Kentucky",2971.0,2738.0,148.0,29.0,45.0,11.0,027,90760,21
+2102791824,"Irvington CCD, Breckinridge County, Kentucky",5021.0,4322.0,372.0,111.0,195.0,21.0,027,91824,21
+2107192832,"Prestonsburg CCD, Floyd County, Kentucky",12019.0,10047.0,967.0,674.0,331.0,0.0,071,92832,21
+2107193624,"Wayland CCD, Floyd County, Kentucky",3147.0,2964.0,82.0,97.0,0.0,4.0,071,93624,21
+2107193672,"Wheelwright-Weeksbury CCD, Floyd County, Kentucky",3250.0,3062.0,90.0,76.0,22.0,0.0,071,93672,21
+2107192136,"McDowell CCD, Floyd County, Kentucky",2544.0,2369.0,130.0,38.0,7.0,0.0,071,92136,21
+2107390136,"Bald Knob CCD, Franklin County, Kentucky",1511.0,1066.0,219.0,189.0,37.0,0.0,073,90136,21
+2107392704,"Peaks Mill CCD, Franklin County, Kentucky",1181.0,943.0,92.0,146.0,0.0,0.0,073,92704,21
+2107391320,"Frankfort CCD, Franklin County, Kentucky",46815.0,38172.0,4215.0,2782.0,1201.0,445.0,073,91320,21
+2111790864,"Covington CCD, Kenton County, Kentucky",110063.0,91410.0,9707.0,4543.0,4102.0,301.0,117,90864,21
+2111791808,"Independence CCD, Kenton County, Kentucky",44164.0,38869.0,2286.0,1385.0,1503.0,121.0,117,91808,21
+2111792800,"Piner-Visalia CCD, Kenton County, Kentucky",7413.0,6503.0,330.0,319.0,247.0,14.0,117,92800,21
+2114793368,"Stearns-Whitley City CCD, McCreary County, Kentucky",6368.0,5936.0,264.0,159.0,9.0,0.0,147,93368,21
+2114792688,"Parkers Lake CCD, McCreary County, Kentucky",2528.0,2372.0,65.0,91.0,0.0,0.0,147,92688,21
+2114792784,"Pine Knot CCD, McCreary County, Kentucky",7694.0,6591.0,562.0,115.0,426.0,0.0,147,92784,21
+2114790808,"Co-operative CCD, McCreary County, Kentucky",1009.0,914.0,81.0,7.0,7.0,0.0,147,90808,21
+2115190224,"Berea CCD, Madison County, Kentucky",24248.0,19611.0,3076.0,969.0,573.0,19.0,151,90224,21
+2115192912,"Richmond CCD, Madison County, Kentucky",42419.0,30011.0,6225.0,4241.0,1711.0,231.0,151,92912,21
+2115190856,"Cottonburg-Valley View CCD, Madison County, Kentucky",1598.0,1473.0,86.0,39.0,0.0,0.0,151,90856,21
+2115392968,"Royalton CCD, Magoffin County, Kentucky",1679.0,1570.0,29.0,73.0,0.0,7.0,153,92968,21
+2115393072,"Salyersville CCD, Magoffin County, Kentucky",9002.0,7970.0,693.0,324.0,15.0,0.0,153,93072,21
+2116993400,"Summer Shade CCD, Metcalfe County, Kentucky",2963.0,2751.0,100.0,39.0,73.0,0.0,169,93400,21
+2116990664,"Center CCD, Metcalfe County, Kentucky",2250.0,2079.0,26.0,81.0,64.0,0.0,169,90664,21
+2116991112,"Edmonton CCD, Metcalfe County, Kentucky",4664.0,4107.0,239.0,255.0,63.0,0.0,169,91112,21
+2118993376,"Sturgeon CCD, Owsley County, Kentucky",1232.0,1158.0,10.0,64.0,0.0,0.0,189,93376,21
+2118990296,"Booneville CCD, Owsley County, Kentucky",2606.0,2448.0,52.0,106.0,0.0,0.0,189,90296,21
+2118990872,"Cowcreek CCD, Owsley County, Kentucky",614.0,595.0,8.0,11.0,0.0,0.0,189,90872,21
+2120592376,"Morehead CCD, Rowan County, Kentucky",18931.0,14070.0,1906.0,2271.0,632.0,52.0,205,92376,21
+2121391328,"Franklin CCD, Simpson County, Kentucky",15405.0,13538.0,1145.0,524.0,190.0,8.0,213,91328,21
+2121792224,"Mannsville CCD, Taylor County, Kentucky",2796.0,2292.0,181.0,180.0,56.0,87.0,217,92224,21
+2121790528,"Campbellsville CCD, Taylor County, Kentucky",19169.0,14229.0,3091.0,1116.0,644.0,89.0,217,90528,21
+2121793048,"Saloma CCD, Taylor County, Kentucky",3182.0,2967.0,87.0,106.0,22.0,0.0,217,93048,21
+2104993744,"Winchester CCD, Clark County, Kentucky",29612.0,24161.0,2942.0,1709.0,770.0,30.0,049,93744,21
+2121991144,"Elkton CCD, Todd County, Kentucky",5279.0,4613.0,408.0,108.0,150.0,0.0,219,91144,21
+2121993504,"Trenton CCD, Todd County, Kentucky",1500.0,1293.0,74.0,0.0,132.0,1.0,219,93504,21
+2121991544,"Guthrie CCD, Todd County, Kentucky",2563.0,2275.0,74.0,121.0,54.0,39.0,219,91544,21
+2108993784,"Wurtland CCD, Greenup County, Kentucky",5391.0,4660.0,576.0,125.0,30.0,0.0,089,93784,21
+2106991264,"Flemingsburg CCD, Fleming County, Kentucky",7382.0,6127.0,859.0,383.0,13.0,0.0,069,91264,21
+2108991512,"Greenup CCD, Greenup County, Kentucky",7958.0,7081.0,432.0,250.0,195.0,0.0,089,91512,21
+2106991728,"Hillsboro CCD, Fleming County, Kentucky",4609.0,4132.0,229.0,153.0,73.0,22.0,069,91728,21
+2106991184,"Ewing CCD, Fleming County, Kentucky",2350.0,2176.0,127.0,27.0,20.0,0.0,069,91184,21
+2103791448,"Grants Lick CCD, Campbell County, Kentucky",7812.0,7062.0,484.0,179.0,87.0,0.0,037,91448,21
+2103790040,"Alexandria CCD, Campbell County, Kentucky",14741.0,13549.0,778.0,232.0,161.0,21.0,037,90040,21
+2104391440,"Grahn CCD, Carter County, Kentucky",3611.0,3218.0,257.0,39.0,38.0,59.0,043,91440,21
+2104390616,"Carter CCD, Carter County, Kentucky",1935.0,1746.0,127.0,13.0,39.0,10.0,043,90616,21
+2104392608,"Olive Hill CCD, Carter County, Kentucky",4373.0,3660.0,359.0,326.0,28.0,0.0,043,92608,21
+2104393704,"Willard CCD, Carter County, Kentucky",3947.0,3661.0,237.0,37.0,4.0,8.0,043,93704,21
+2104391480,"Grayson CCD, Carter County, Kentucky",10034.0,8619.0,404.0,689.0,242.0,80.0,043,91480,21
+2108193720,"Williamstown-Dry Ridge CCD, Grant County, Kentucky",15180.0,12044.0,1517.0,1024.0,566.0,29.0,081,93720,21
+2106391840,"Isonville CCD, Elliott County, Kentucky",2035.0,1946.0,40.0,49.0,0.0,0.0,063,91840,21
+2106393088,"Sandy Hook CCD, Elliott County, Kentucky",5399.0,4579.0,179.0,638.0,3.0,0.0,063,93088,21
+2108190896,"Crittenden CCD, Grant County, Kentucky",7163.0,6279.0,478.0,363.0,43.0,0.0,081,90896,21
+2108190840,"Corinth CCD, Grant County, Kentucky",2145.0,1891.0,118.0,136.0,0.0,0.0,081,90840,21
+2111192109,"Louisville South CCD, Jefferson County, Kentucky",73249.0,62854.0,7930.0,1494.0,681.0,290.0,111,92109,21
+2111192108,"Louisville East CCD, Jefferson County, Kentucky",93318.0,76237.0,11069.0,1645.0,4093.0,274.0,111,92108,21
+2111192110,"Louisville West CCD, Jefferson County, Kentucky",62296.0,51837.0,8001.0,1464.0,980.0,14.0,111,92110,21
+2111192106,"Louisville Central CCD, Jefferson County, Kentucky",30885.0,20558.0,7187.0,1829.0,1089.0,222.0,111,92106,21
+2112392192,"Magnolia-Upton CCD, Larue County, Kentucky",3887.0,3293.0,103.0,384.0,107.0,0.0,123,92192,21
+2112391752,"Hodgenville CCD, Larue County, Kentucky",7445.0,6444.0,441.0,379.0,167.0,14.0,123,91752,21
+2112390416,"Buffalo CCD, Larue County, Kentucky",2563.0,2395.0,96.0,23.0,35.0,14.0,123,90416,21
+2114190008,"Adairville CCD, Logan County, Kentucky",2904.0,2626.0,145.0,25.0,91.0,17.0,141,90008,21
+2114192024,"Lewisburg CCD, Logan County, Kentucky",3250.0,2963.0,196.0,24.0,67.0,0.0,141,92024,21
+2114192992,"Russellville CCD, Logan County, Kentucky",14840.0,12876.0,1266.0,475.0,223.0,0.0,141,92992,21
+2114190120,"Auburn CCD, Logan County, Kentucky",5556.0,4784.0,477.0,264.0,31.0,0.0,141,90120,21
+2116192272,"Mays Lick CCD, Mason County, Kentucky",1744.0,1681.0,24.0,29.0,10.0,0.0,161,92272,21
+2116192280,"Maysville CCD, Mason County, Kentucky",15289.0,12969.0,1268.0,692.0,247.0,113.0,161,92280,21
+2111192105,"Louisville Airport CCD, Jefferson County, Kentucky",1503.0,1292.0,171.0,0.0,30.0,10.0,111,92105,21
+2111190683,"Central Jefferson CCD, Jefferson County, Kentucky",93789.0,79396.0,10382.0,1621.0,1549.0,841.0,111,90683,21
+2111193270,"Southeast Jefferson CCD, Jefferson County, Kentucky",115821.0,99532.0,10896.0,2089.0,2696.0,608.0,111,93270,21
+2111191099,"East Jefferson CCD, Jefferson County, Kentucky",76124.0,65724.0,6261.0,1661.0,2070.0,408.0,111,91099,21
+2111192573,"Northeast Jefferson CCD, Jefferson County, Kentucky",45329.0,39967.0,3203.0,998.0,867.0,294.0,111,92573,21
+2111191276,"Floyds Fork CCD, Jefferson County, Kentucky",14448.0,12728.0,1215.0,328.0,168.0,9.0,111,91276,21
+2111193283,"South Jefferson CCD, Jefferson County, Kentucky",31405.0,26395.0,3442.0,739.0,714.0,115.0,111,93283,21
+2105593650,"West Crittenden CCD, Crittenden County, Kentucky",1426.0,1249.0,127.0,30.0,20.0,0.0,055,93650,21
+2111990196,"Beaver Creek CCD, Knott County, Kentucky",2151.0,2029.0,73.0,42.0,7.0,0.0,119,90196,21
+2116593662,"West Menifee CCD, Menifee County, Kentucky",2649.0,2468.0,103.0,64.0,6.0,8.0,165,93662,21
+2104591052,"Dividing Ridge CCD, Casey County, Kentucky",1386.0,1201.0,91.0,41.0,48.0,5.0,045,91052,21
+2122791556,"Hadley-Browning CCD, Warren County, Kentucky",3625.0,3328.0,204.0,0.0,93.0,0.0,227,91556,21
+2122790060,"Alvaton CCD, Warren County, Kentucky",6921.0,6126.0,445.0,135.0,215.0,0.0,227,90060,21
+2122793084,"Sand Hill-Girkin CCD, Warren County, Kentucky",8098.0,6039.0,1455.0,490.0,114.0,0.0,227,93084,21
+2101990113,"Ashland South CCD, Boyd County, Kentucky",8021.0,6561.0,515.0,457.0,475.0,13.0,019,90113,21
+2121593668,"West Spencer CCD, Spencer County, Kentucky",11869.0,10316.0,243.0,991.0,214.0,105.0,215,93668,21
+2115393660,"West Magoffin CCD, Magoffin County, Kentucky",1907.0,1775.0,120.0,12.0,0.0,0.0,153,93660,21
+2108993290,"South Shore CCD, Greenup County, Kentucky",3197.0,2507.0,464.0,92.0,121.0,13.0,089,93290,21
+2108991260,"Flatwoods-Russell CCD, Greenup County, Kentucky",15648.0,13686.0,944.0,725.0,285.0,8.0,089,91260,21
+2108993530,"Tygarts Valley CCD, Greenup County, Kentucky",3564.0,3386.0,18.0,58.0,102.0,0.0,089,93530,21
+2112993294,"Southwest Lee CCD, Lee County, Kentucky",1503.0,1426.0,66.0,11.0,0.0,0.0,129,93294,21
+2117591132,"Elkfork-Ophir CCD, Morgan County, Kentucky",2488.0,2189.0,195.0,10.0,94.0,0.0,175,91132,21
+2105993692,"Whitesville-Philpot CCD, Daviess County, Kentucky",26123.0,22555.0,2323.0,700.0,533.0,12.0,059,93692,21
+2105993556,"Utica-Stanley CCD, Daviess County, Kentucky",26643.0,22747.0,2961.0,449.0,333.0,153.0,059,93556,21
+2115193578,"Waco-Bybee CCD, Madison County, Kentucky",6264.0,5818.0,277.0,134.0,18.0,17.0,151,93578,21
+2115190290,"Boonesborough-White Hall CCD, Madison County, Kentucky",9644.0,8628.0,229.0,628.0,159.0,0.0,151,90290,21
+2115191940,"Kirksville CCD, Madison County, Kentucky",3060.0,2930.0,64.0,15.0,38.0,13.0,151,91940,21
+2114391978,"Land Between the Lakes CCD, Lyon County, Kentucky",0.0,0.0,0.0,0.0,0.0,0.0,143,91978,21
+2112190396,"Bryants Store CCD, Knox County, Kentucky",1000.0,950.0,43.0,0.0,7.0,0.0,121,90396,21
+2107192244,"Martin-Allen CCD, Floyd County, Kentucky",5095.0,4425.0,210.0,453.0,7.0,0.0,071,92244,21
+2107190244,"Betsy Layne-Stanville CCD, Floyd County, Kentucky",4611.0,4248.0,243.0,120.0,0.0,0.0,071,90244,21
+2107191540,"Grethel-Teaberry CCD, Floyd County, Kentucky",4653.0,4267.0,116.0,152.0,90.0,28.0,071,91540,21
+2107192919,"Risner CCD, Floyd County, Kentucky",1721.0,1578.0,125.0,18.0,0.0,0.0,071,92919,21
+2103591658,"Hazel-Lynn Grove CCD, Calloway County, Kentucky",3057.0,2876.0,102.0,19.0,60.0,0.0,035,91658,21
+2100592580,"Northwest Anderson CCD, Anderson County, Kentucky",2288.0,2126.0,122.0,36.0,0.0,4.0,005,92580,21
+2100593292,"Southwest Anderson CCD, Anderson County, Kentucky",2411.0,2171.0,139.0,93.0,0.0,8.0,005,93292,21
+2115991812,"Inez CCD, Martin County, Kentucky",7321.0,6327.0,412.0,359.0,223.0,0.0,159,91812,21
+2115993472,"Threeforks CCD, Martin County, Kentucky",1153.0,1097.0,26.0,25.0,5.0,0.0,159,93472,21
+2106593756,"Winston-West Irvine CCD, Estill County, Kentucky",5278.0,4906.0,236.0,113.0,23.0,0.0,065,93756,21
+2106593580,"Wagersville-South Irvine CCD, Estill County, Kentucky",1556.0,1300.0,141.0,97.0,5.0,13.0,065,93580,21
+2106792038,"Lexington-Fayette Southwest CCD, Fayette County, Kentucky",41915.0,36255.0,3387.0,1203.0,869.0,201.0,067,92038,21
+2106792037,"Lexington-Fayette Southeast CCD, Fayette County, Kentucky",72346.0,54173.0,11824.0,2802.0,3030.0,517.0,067,92037,21
+2106792036,"Lexington-Fayette Northwest CCD, Fayette County, Kentucky",28506.0,22836.0,2936.0,1411.0,1056.0,267.0,067,92036,21
+2106792035,"Lexington-Fayette Northeast CCD, Fayette County, Kentucky",51732.0,40777.0,7231.0,1600.0,1714.0,410.0,067,92035,21
+2106792034,"Lexington-Fayette Central CCD, Fayette County, Kentucky",116901.0,80203.0,21343.0,7870.0,5509.0,1976.0,067,92034,21
+2104792596,"Oak Grove-Pembroke CCD, Christian County, Kentucky",10477.0,7452.0,611.0,671.0,1591.0,152.0,047,92596,21
+2102792134,"McDaniels-Hudson CCD, Breckinridge County, Kentucky",5110.0,4218.0,634.0,183.0,27.0,48.0,027,92134,21
+2102791412,"Glen Dean-Vanzant CCD, Breckinridge County, Kentucky",1351.0,1279.0,44.0,19.0,9.0,0.0,027,91412,21
+2109593545,"Upper Clover Fork CCD, Harlan County, Kentucky",1200.0,1143.0,50.0,7.0,0.0,0.0,095,93545,21

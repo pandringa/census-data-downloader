@@ -1,0 +1,1927 @@
+geoid,name,total,native,foreign_born,county,county subdivision,state
+551258950,"Boulder Junction town, Vilas County, Wisconsin",909.0,884.0,25.0,125,8950,55
+5512563625,"Plum Lake town, Vilas County, Wisconsin",561.0,558.0,3.0,125,63625,55
+5512544525,"Lincoln town, Vilas County, Wisconsin",2248.0,2227.0,21.0,125,44525,55
+5512570725,"St. Germain town, Vilas County, Wisconsin",1928.0,1910.0,18.0,125,70725,55
+551252450,"Arbor Vitae town, Vilas County, Wisconsin",3316.0,3248.0,68.0,125,2450,55
+5502365050,"Prairie du Chien city, Crawford County, Wisconsin",5715.0,5703.0,12.0,023,65050,55
+5502346675,"Lynxville village, Crawford County, Wisconsin",215.0,215.0,0.0,023,46675,55
+5502349275,"Marietta town, Crawford County, Wisconsin",410.0,395.0,15.0,023,49275,55
+5502321900,"Eastman village, Crawford County, Wisconsin",437.0,432.0,5.0,023,21900,55
+5502377175,"Steuben village, Crawford County, Wisconsin",84.0,84.0,0.0,023,77175,55
+5502384725,"Wauzeka village, Crawford County, Wisconsin",752.0,752.0,0.0,023,84725,55
+550239550,"Bridgeport town, Crawford County, Wisconsin",989.0,986.0,3.0,023,9550,55
+5502354900,"Mount Sterling village, Crawford County, Wisconsin",158.0,158.0,0.0,023,54900,55
+5502319850,"De Soto village, Crawford County, Wisconsin",118.0,117.0,1.0,023,19850,55
+5502315075,"Clayton town, Crawford County, Wisconsin",992.0,962.0,30.0,023,15075,55
+5502321925,"Eastman town, Crawford County, Wisconsin",751.0,741.0,10.0,023,21925,55
+5502332500,"Haney town, Crawford County, Wisconsin",276.0,275.0,1.0,023,32500,55
+5502372275,"Scott town, Crawford County, Wisconsin",465.0,457.0,8.0,023,72275,55
+5502374550,"Soldiers Grove village, Crawford County, Wisconsin",586.0,574.0,12.0,023,74550,55
+5502384750,"Wauzeka town, Crawford County, Wisconsin",360.0,357.0,3.0,023,84750,55
+5502327700,"Freeman town, Crawford County, Wisconsin",669.0,652.0,17.0,023,27700,55
+550236225,"Bell Center village, Crawford County, Wisconsin",139.0,139.0,0.0,023,6225,55
+5505712350,"Camp Douglas village, Juneau County, Wisconsin",602.0,589.0,13.0,057,12350,55
+5505725850,"Finley town, Juneau County, Wisconsin",94.0,92.0,2.0,057,25850,55
+5505755725,"Necedah town, Juneau County, Wisconsin",2669.0,2626.0,43.0,057,55725,55
+5505728850,"Germantown town, Juneau County, Wisconsin",1461.0,1420.0,41.0,057,28850,55
+5505736675,"Hustler village, Juneau County, Wisconsin",187.0,185.0,2.0,057,36675,55
+5505739800,"Kingston town, Juneau County, Wisconsin",63.0,63.0,0.0,057,39800,55
+5505718225,"Cutler town, Juneau County, Wisconsin",342.0,340.0,2.0,057,18225,55
+5505746600,"Lyndon Station village, Juneau County, Wisconsin",474.0,467.0,7.0,057,46600,55
+5505772625,"Seven Mile Creek town, Juneau County, Wisconsin",341.0,341.0,0.0,057,72625,55
+5505781725,"Union Center village, Juneau County, Wisconsin",166.0,151.0,15.0,057,81725,55
+5505726825,"Fountain town, Juneau County, Wisconsin",590.0,583.0,7.0,057,26825,55
+5505743300,"Lemonweir town, Juneau County, Wisconsin",1547.0,1515.0,32.0,057,43300,55
+5505788525,"Wonewoc town, Juneau County, Wisconsin",790.0,790.0,0.0,057,88525,55
+5505715225,"Clearfield town, Juneau County, Wisconsin",676.0,659.0,17.0,057,15225,55
+5505739575,"Kildare town, Juneau County, Wisconsin",578.0,546.0,32.0,057,39575,55
+5505750025,"Mauston city, Juneau County, Wisconsin",4392.0,4307.0,85.0,057,50025,55
+5505744825,"Lisbon town, Juneau County, Wisconsin",910.0,904.0,6.0,057,44825,55
+5505788500,"Wonewoc village, Juneau County, Wisconsin",798.0,771.0,27.0,057,88500,55
+5505756900,"New Lisbon city, Juneau County, Wisconsin",2505.0,2412.0,93.0,057,56900,55
+5505760150,"Orange town, Juneau County, Wisconsin",549.0,548.0,1.0,057,60150,55
+5505723800,"Elroy city, Juneau County, Wisconsin",1305.0,1302.0,3.0,057,23800,55
+5505749375,"Marion town, Juneau County, Wisconsin",413.0,395.0,18.0,057,49375,55
+5505746525,"Lyndon town, Juneau County, Wisconsin",1310.0,1271.0,39.0,057,46525,55
+5507113750,"Centerville town, Manitowoc County, Wisconsin",625.0,617.0,8.0,071,13750,55
+5507128975,"Gibson town, Manitowoc County, Wisconsin",1321.0,1301.0,20.0,071,28975,55
+5507143850,"Liberty town, Manitowoc County, Wisconsin",1177.0,1162.0,15.0,071,43850,55
+5507116950,"Cooperstown town, Manitowoc County, Wisconsin",1294.0,1284.0,10.0,071,16950,55
+5507148525,"Manitowoc town, Manitowoc County, Wisconsin",1078.0,1067.0,11.0,071,48525,55
+5508187525,"Wilton village, Monroe County, Wisconsin",485.0,462.0,23.0,081,87525,55
+550074750,"Barnes town, Bayfield County, Wisconsin",760.0,746.0,14.0,007,4750,55
+5500739025,"Kelly town, Bayfield County, Wisconsin",449.0,446.0,3.0,007,39025,55
+550075475,"Bayview town, Bayfield County, Wisconsin",406.0,399.0,7.0,007,5475,55
+550812025,"Angelo town, Monroe County, Wisconsin",1242.0,1207.0,35.0,081,2025,55
+5508140925,"Lafayette town, Monroe County, Wisconsin",398.0,392.0,6.0,081,40925,55
+5508158575,"Norwalk village, Monroe County, Wisconsin",690.0,526.0,164.0,081,58575,55
+5508115550,"Clifton town, Monroe County, Wisconsin",638.0,636.0,2.0,081,15550,55
+5508130325,"Grant town, Monroe County, Wisconsin",542.0,538.0,4.0,081,30325,55
+5508143475,"Leon town, Monroe County, Wisconsin",1112.0,1091.0,21.0,081,43475,55
+5508144975,"Little Falls town, Monroe County, Wisconsin",1563.0,1542.0,21.0,081,44975,55
+5508172325,"Scott town, Monroe County, Wisconsin",114.0,113.0,1.0,081,72325,55
+5508175350,"Sparta town, Monroe County, Wisconsin",3180.0,3124.0,56.0,081,75350,55
+5508137950,"Jefferson town, Monroe County, Wisconsin",839.0,837.0,2.0,081,37950,55
+5508141000,"La Grange town, Monroe County, Wisconsin",1979.0,1954.0,25.0,081,41000,55
+5508158875,"Oakdale town, Monroe County, Wisconsin",942.0,932.0,10.0,081,58875,55
+5508111625,"Byron town, Monroe County, Wisconsin",1215.0,1196.0,19.0,081,11625,55
+5508112950,"Cashton village, Monroe County, Wisconsin",896.0,824.0,72.0,081,12950,55
+5508131225,"Greenfield town, Monroe County, Wisconsin",798.0,789.0,9.0,081,31225,55
+5508139150,"Kendall village, Monroe County, Wisconsin",491.0,485.0,6.0,081,39150,55
+55081475,"Adrian town, Monroe County, Wisconsin",733.0,733.0,0.0,081,475,55
+5508183450,"Warrens village, Monroe County, Wisconsin",464.0,459.0,5.0,081,83450,55
+5508185125,"Wellington town, Monroe County, Wisconsin",577.0,570.0,7.0,081,85125,55
+5508150800,"Melvina village, Monroe County, Wisconsin",54.0,54.0,0.0,081,50800,55
+5508156950,"New Lyme town, Monroe County, Wisconsin",139.0,137.0,2.0,081,56950,55
+5508173150,"Sheldon town, Monroe County, Wisconsin",703.0,692.0,11.0,081,73150,55
+5508185150,"Wells town, Monroe County, Wisconsin",509.0,509.0,0.0,081,85150,55
+5508187550,"Wilton town, Monroe County, Wisconsin",1119.0,1112.0,7.0,081,87550,55
+5508189275,"Wyeville village, Monroe County, Wisconsin",164.0,163.0,1.0,081,89275,55
+5508158850,"Oakdale village, Monroe County, Wisconsin",286.0,284.0,2.0,081,58850,55
+5508129450,"Glendale town, Monroe County, Wisconsin",645.0,639.0,6.0,081,29450,55
+5508175325,"Sparta city, Monroe County, Wisconsin",9621.0,9463.0,158.0,081,75325,55
+5509323700,"Elmwood village, Pierce County, Wisconsin",768.0,765.0,3.0,093,23700,55
+5509380550,"Trenton town, Pierce County, Wisconsin",1726.0,1714.0,12.0,093,80550,55
+5509329150,"Gilman town, Pierce County, Wisconsin",1161.0,1135.0,26.0,093,29150,55
+5509333050,"Hartland town, Pierce County, Wisconsin",826.0,818.0,8.0,093,33050,55
+5509348200,"Maiden Rock town, Pierce County, Wisconsin",663.0,652.0,11.0,093,48200,55
+5509380700,"Trimbelle town, Pierce County, Wisconsin",1625.0,1605.0,20.0,093,80700,55
+550935325,"Bay City village, Pierce County, Wisconsin",462.0,460.0,2.0,093,5325,55
+5509337350,"Isabelle town, Pierce County, Wisconsin",252.0,251.0,1.0,093,37350,55
+5509320150,"Diamond Bluff town, Pierce County, Wisconsin",459.0,459.0,0.0,093,20150,55
+5509323550,"Ellsworth town, Pierce County, Wisconsin",1075.0,1071.0,4.0,093,23550,55
+551152075,"Aniwa village, Shawano County, Wisconsin",240.0,240.0,0.0,115,2075,55
+551159025,"Bowler village, Shawano County, Wisconsin",406.0,404.0,2.0,115,9025,55
+5511533075,"Hartland town, Shawano County, Wisconsin",933.0,933.0,0.0,115,33075,55
+5511588350,"Wittenberg town, Shawano County, Wisconsin",852.0,830.0,22.0,115,88350,55
+551156275,"Belle Plaine town, Shawano County, Wisconsin",1911.0,1906.0,5.0,115,6275,55
+5511524775,"Fairbanks town, Shawano County, Wisconsin",615.0,615.0,0.0,115,24775,55
+5511528825,"Germania town, Shawano County, Wisconsin",348.0,348.0,0.0,115,28825,55
+5511534025,"Herman town, Shawano County, Wisconsin",848.0,841.0,7.0,115,34025,55
+5511567675,"Richmond town, Shawano County, Wisconsin",1954.0,1938.0,16.0,115,67675,55
+5511583725,"Washington town, Shawano County, Wisconsin",1846.0,1799.0,47.0,115,83725,55
+5511566750,"Red Springs town, Shawano County, Wisconsin",812.0,808.0,4.0,115,66750,55
+551152100,"Aniwa town, Shawano County, Wisconsin",593.0,581.0,12.0,115,2100,55
+551157600,"Birnamwood village, Shawano County, Wisconsin",774.0,748.0,26.0,115,7600,55
+5511531500,"Green Valley town, Shawano County, Wisconsin",1119.0,1119.0,0.0,115,31500,55
+5511543675,"Lessor town, Shawano County, Wisconsin",1218.0,1213.0,5.0,115,43675,55
+5511746575,"Lyndon town, Sheboygan County, Wisconsin",1495.0,1479.0,16.0,117,46575,55
+5511766200,"Random Lake village, Sheboygan County, Wisconsin",1547.0,1515.0,32.0,117,66200,55
+5511773050,"Sheboygan Falls town, Sheboygan County, Wisconsin",1605.0,1555.0,50.0,117,73050,55
+5511760100,"Oostburg village, Sheboygan County, Wisconsin",2956.0,2907.0,49.0,117,60100,55
+5511773425,"Sherman town, Sheboygan County, Wisconsin",1356.0,1338.0,18.0,117,73425,55
+5511736025,"Howards Grove village, Sheboygan County, Wisconsin",3251.0,3222.0,29.0,117,36025,55
+5511772975,"Sheboygan city, Sheboygan County, Wisconsin",48560.0,43963.0,4597.0,117,72975,55
+5511744150,"Lima town, Sheboygan County, Wisconsin",2987.0,2949.0,38.0,117,44150,55
+5511735375,"Holland town, Sheboygan County, Wisconsin",2481.0,2387.0,94.0,117,35375,55
+5511753375,"Mitchell town, Sheboygan County, Wisconsin",1307.0,1282.0,25.0,117,53375,55
+5511754475,"Mosel town, Sheboygan County, Wisconsin",791.0,780.0,11.0,117,54475,55
+5511773025,"Sheboygan Falls city, Sheboygan County, Wisconsin",7850.0,7548.0,302.0,117,73025,55
+5511713475,"Cedar Grove village, Sheboygan County, Wisconsin",2155.0,2146.0,9.0,117,13475,55
+5511770350,"Russell town, Sheboygan County, Wisconsin",389.0,389.0,0.0,117,70350,55
+5511772350,"Scott town, Sheboygan County, Wisconsin",1740.0,1724.0,16.0,117,72350,55
+551170,"County subdivisions not defined, Sheboygan County, Wisconsin",0.0,0.0,0.0,117,0,55
+55117450,"Adell village, Sheboygan County, Wisconsin",566.0,564.0,2.0,117,450,55
+5511734050,"Herman town, Sheboygan County, Wisconsin",2166.0,2051.0,115.0,117,34050,55
+5511763725,"Plymouth town, Sheboygan County, Wisconsin",3180.0,3110.0,70.0,117,63725,55
+5511773000,"Sheboygan town, Sheboygan County, Wisconsin",7287.0,6621.0,666.0,117,73000,55
+5511787500,"Wilson town, Sheboygan County, Wisconsin",3341.0,3200.0,141.0,117,87500,55
+5511763700,"Plymouth city, Sheboygan County, Wisconsin",8477.0,8386.0,91.0,117,63700,55
+5511723275,"Elkhart Lake village, Sheboygan County, Wisconsin",1109.0,1106.0,3.0,117,23275,55
+5507139000,"Kellnersville village, Manitowoc County, Wisconsin",371.0,371.0,0.0,071,39000,55
+5507153350,"Mishicot town, Manitowoc County, Wisconsin",1436.0,1379.0,57.0,071,53350,55
+5507157200,"Newton town, Manitowoc County, Wisconsin",2411.0,2365.0,46.0,071,57200,55
+5507172075,"Schleswig town, Manitowoc County, Wisconsin",1993.0,1975.0,18.0,071,72075,55
+5507140425,"Kossuth town, Manitowoc County, Wisconsin",1839.0,1835.0,4.0,071,40425,55
+5507181325,"Two Rivers city, Manitowoc County, Wisconsin",11305.0,11128.0,177.0,071,81325,55
+5507186775,"Whitelaw village, Manitowoc County, Wisconsin",662.0,651.0,11.0,071,86775,55
+5507115400,"Cleveland village, Manitowoc County, Wisconsin",1604.0,1490.0,114.0,071,15400,55
+5507148500,"Manitowoc city, Manitowoc County, Wisconsin",32939.0,31680.0,1259.0,071,48500,55
+5507148875,"Maple Grove town, Manitowoc County, Wisconsin",816.0,811.0,5.0,071,48875,55
+5507149250,"Maribel village, Manitowoc County, Wisconsin",372.0,372.0,0.0,071,49250,55
+5507153325,"Mishicot village, Manitowoc County, Wisconsin",1371.0,1356.0,15.0,071,53325,55
+5507113237,"Cato town, Manitowoc County, Wisconsin",1629.0,1621.0,8.0,071,13237,55
+550710,"County subdivisions not defined, Manitowoc County, Wisconsin",0.0,0.0,0.0,071,0,55
+5507148575,"Manitowoc Rapids town, Manitowoc County, Wisconsin",1932.0,1894.0,38.0,071,48575,55
+5507166875,"Reedsville village, Manitowoc County, Wisconsin",999.0,980.0,19.0,071,66875,55
+5507168925,"Rockland town, Manitowoc County, Wisconsin",1073.0,1066.0,7.0,071,68925,55
+5514170025,"Rudolph town, Wood County, Wisconsin",1084.0,1072.0,12.0,141,70025,55
+551413025,"Arpin village, Wood County, Wisconsin",351.0,334.0,17.0,141,3025,55
+5514117525,"Cranmoor town, Wood County, Wisconsin",166.0,166.0,0.0,141,17525,55
+5514120075,"Dexter town, Wood County, Wisconsin",324.0,319.0,5.0,141,20075,55
+5514132575,"Hansen town, Wood County, Wisconsin",805.0,805.0,0.0,141,32575,55
+5514164200,"Port Edwards town, Wood County, Wisconsin",1248.0,1144.0,104.0,141,64200,55
+5514173900,"Sigel town, Wood County, Wisconsin",957.0,957.0,0.0,141,73900,55
+5514188200,"Wisconsin Rapids city, Wood County, Wisconsin",17905.0,17393.0,512.0,141,88200,55
+5514130125,"Grand Rapids town, Wood County, Wisconsin",7474.0,7295.0,179.0,141,30125,55
+5500337775,"Jacobs town, Ashland County, Wisconsin",629.0,629.0,0.0,003,37775,55
+5500349200,"Marengo town, Ashland County, Wisconsin",508.0,503.0,5.0,003,49200,55
+5500329250,"Gingles town, Ashland County, Wisconsin",765.0,753.0,12.0,003,29250,55
+5500329875,"Gordon town, Ashland County, Wisconsin",239.0,239.0,0.0,003,29875,55
+5500342562,"La Pointe town, Ashland County, Wisconsin",162.0,156.0,6.0,003,42562,55
+550030,"County subdivisions not defined, Ashland County, Wisconsin",0.0,0.0,0.0,003,0,55
+55003550,"Agenda town, Ashland County, Wisconsin",357.0,353.0,4.0,003,550,55
+550033250,"Ashland town, Ashland County, Wisconsin",506.0,502.0,4.0,003,3250,55
+5500361600,"Peeksville town, Ashland County, Wisconsin",184.0,179.0,5.0,003,61600,55
+5500371350,"Sanborn town, Ashland County, Wisconsin",1445.0,1426.0,19.0,003,71350,55
+5500372825,"Shanagolden town, Ashland County, Wisconsin",102.0,101.0,1.0,003,72825,55
+5500311525,"Butternut village, Ashland County, Wisconsin",452.0,452.0,0.0,003,11525,55
+5500350700,"Mellen city, Ashland County, Wisconsin",753.0,753.0,0.0,003,50700,55
+550033225,"Ashland city, Ashland County, Wisconsin",7997.0,7928.0,69.0,003,3225,55
+5500314550,"Chippewa town, Ashland County, Wisconsin",330.0,330.0,0.0,003,14550,55
+5500354400,"Morse town, Ashland County, Wisconsin",492.0,492.0,0.0,003,54400,55
+5500386850,"White River town, Ashland County, Wisconsin",858.0,858.0,0.0,003,86850,55
+5501510350,"Brothertown town, Calumet County, Wisconsin",1406.0,1367.0,39.0,015,10350,55
+5501514500,"Chilton town, Calumet County, Wisconsin",1166.0,1162.0,4.0,015,14500,55
+5501566275,"Rantoul town, Calumet County, Wisconsin",651.0,646.0,5.0,015,66275,55
+5501532800,"Harrison town, Calumet County, Wisconsin",1154.0,1139.0,15.0,015,32800,55
+5501539525,"Kiel city, Calumet County, Wisconsin",331.0,331.0,0.0,015,39525,55
+5501573525,"Sherwood village, Calumet County, Wisconsin",2869.0,2831.0,38.0,015,73525,55
+550152375,"Appleton city, Calumet County, Wisconsin",11180.0,10337.0,843.0,015,2375,55
+550159750,"Brillion town, Calumet County, Wisconsin",1681.0,1656.0,25.0,015,9750,55
+5501514475,"Chilton city, Calumet County, Wisconsin",3873.0,3842.0,31.0,015,14475,55
+5501550825,"Menasha city, Calumet County, Wisconsin",2493.0,2434.0,59.0,015,50825,55
+5501577425,"Stockbridge town, Calumet County, Wisconsin",1331.0,1316.0,15.0,015,77425,55
+5501538800,"Kaukauna city, Calumet County, Wisconsin",0.0,0.0,0.0,015,38800,55
+5508732790,"Harrison village, Outagamie County, Wisconsin",0.0,0.0,0.0,087,32790,55
+551278265,"Bloomfield village, Walworth County, Wisconsin",4692.0,4500.0,192.0,127,8265,55
+5513764975,"Poy Sippi town, Waushara County, Wisconsin",883.0,855.0,28.0,137,64975,55
+5501532790,"Harrison village, Calumet County, Wisconsin",9695.0,9641.0,54.0,015,32790,55
+5513167475,"Richfield village, Washington County, Wisconsin",11539.0,11315.0,224.0,131,67475,55
+5508160075,"Ontario village, Monroe County, Wisconsin",0.0,0.0,0.0,081,60075,55
+551059925,"Brodhead city, Rock County, Wisconsin",116.0,116.0,0.0,105,9925,55
+5501741525,"Lake Hallie village, Chippewa County, Wisconsin",6666.0,6640.0,26.0,017,41525,55
+5500977975,"Suamico village, Brown County, Wisconsin",12222.0,12065.0,157.0,009,77975,55
+5510154875,"Mount Pleasant village, Racine County, Wisconsin",26300.0,24929.0,1371.0,101,54875,55
+5507340550,"Kronenwetter village, Marathon County, Wisconsin",7534.0,7472.0,62.0,073,40550,55
+5500935150,"Hobart village, Brown County, Wisconsin",8178.0,7962.0,216.0,009,35150,55
+550073225,"Ashland city, Bayfield County, Wisconsin",0.0,0.0,0.0,007,3225,55
+550096350,"Bellevue village, Brown County, Wisconsin",15373.0,14178.0,1195.0,009,6350,55
+5505540750,"Lac La Belle village, Jefferson County, Wisconsin",0.0,0.0,0.0,055,40750,55
+5508789150,"Wrightstown village, Outagamie County, Wisconsin",244.0,244.0,0.0,087,89150,55
+5505788150,"Wisconsin Dells city, Juneau County, Wisconsin",0.0,0.0,0.0,057,88150,55
+5501976625,"Stanley city, Clark County, Wisconsin",9.0,9.0,0.0,019,76625,55
+5510111950,"Caledonia village, Racine County, Wisconsin",24803.0,24223.0,580.0,101,11950,55
+5513378375,"Summit village, Waukesha County, Wisconsin",4818.0,4667.0,151.0,133,78375,55
+5503939300,"Kewaskum village, Fond du Lac County, Wisconsin",0.0,0.0,0.0,039,39300,55
+550599800,"Bristol village, Kenosha County, Wisconsin",4970.0,4710.0,260.0,059,9800,55
+5507348225,"Maine village, Marathon County, Wisconsin",2342.0,2314.0,28.0,073,48225,55
+5505974625,"Somers village, Kenosha County, Wisconsin",8305.0,7913.0,392.0,059,74625,55
+5502587725,"Windsor village, Dane County, Wisconsin",6766.0,6609.0,157.0,025,87725,55
+5510924275,"Erin Prairie town, St. Croix County, Wisconsin",694.0,649.0,45.0,109,24275,55
+5510976675,"Stanton town, St. Croix County, Wisconsin",885.0,867.0,18.0,109,76675,55
+5510929625,"Glenwood City city, St. Croix County, Wisconsin",1340.0,1314.0,26.0,109,29625,55
+5510970825,"St. Joseph town, St. Croix County, Wisconsin",3963.0,3898.0,65.0,109,70825,55
+5510989025,"Woodville village, St. Croix County, Wisconsin",1264.0,1248.0,16.0,109,89025,55
+5510922400,"Eau Galle town, St. Croix County, Wisconsin",1047.0,1030.0,17.0,109,22400,55
+5510967650,"Richmond town, St. Croix County, Wisconsin",3453.0,3435.0,18.0,109,67650,55
+5510968275,"River Falls city, St. Croix County, Wisconsin",3307.0,3294.0,13.0,109,68275,55
+5510932325,"Hammond village, St. Croix County, Wisconsin",2050.0,2026.0,24.0,109,32325,55
+5510936250,"Hudson city, St. Croix County, Wisconsin",13456.0,12961.0,495.0,109,36250,55
+5510976850,"Star Prairie town, St. Croix County, Wisconsin",3565.0,3515.0,50.0,109,76850,55
+5510976825,"Star Prairie village, St. Croix County, Wisconsin",638.0,626.0,12.0,109,76825,55
+5510911775,"Cady town, St. Croix County, Wisconsin",932.0,931.0,1.0,109,11775,55
+5510918300,"Cylon town, St. Croix County, Wisconsin",724.0,712.0,12.0,109,18300,55
+5510926525,"Forest town, St. Croix County, Wisconsin",677.0,675.0,2.0,109,26525,55
+5510936275,"Hudson town, St. Croix County, Wisconsin",8684.0,8385.0,299.0,109,36275,55
+5510919325,"Deer Park village, St. Croix County, Wisconsin",255.0,255.0,0.0,109,19325,55
+5510932350,"Hammond town, St. Croix County, Wisconsin",2014.0,1988.0,26.0,109,32350,55
+5510939825,"Kinnickinnic town, St. Croix County, Wisconsin",1782.0,1750.0,32.0,109,39825,55
+551094400,"Baldwin village, St. Croix County, Wisconsin",3968.0,3926.0,42.0,109,4400,55
+5510923925,"Emerald town, St. Croix County, Wisconsin",755.0,751.0,4.0,109,23925,55
+5510929600,"Glenwood town, St. Croix County, Wisconsin",807.0,795.0,12.0,109,29600,55
+5510957100,"New Richmond city, St. Croix County, Wisconsin",8761.0,8575.0,186.0,109,57100,55
+5510963425,"Pleasant Valley town, St. Croix County, Wisconsin",510.0,501.0,9.0,109,63425,55
+5510974675,"Somerset village, St. Croix County, Wisconsin",2696.0,2650.0,46.0,109,74675,55
+5510976300,"Spring Valley village, St. Croix County, Wisconsin",5.0,5.0,0.0,109,76300,55
+5510983400,"Warren town, St. Croix County, Wisconsin",1701.0,1683.0,18.0,109,83400,55
+5510958050,"North Hudson village, St. Croix County, Wisconsin",3806.0,3780.0,26.0,109,58050,55
+5510968475,"Roberts village, St. Croix County, Wisconsin",1718.0,1639.0,79.0,109,68475,55
+5510970200,"Rush River town, St. Croix County, Wisconsin",556.0,543.0,13.0,109,70200,55
+5510987475,"Wilson village, St. Croix County, Wisconsin",167.0,167.0,0.0,109,87475,55
+5508380325,"Townsend town, Oconto County, Wisconsin",884.0,882.0,2.0,083,80325,55
+550834275,"Bagley town, Oconto County, Wisconsin",299.0,291.0,8.0,083,4275,55
+5508329050,"Gillett city, Oconto County, Wisconsin",1199.0,1144.0,55.0,083,29050,55
+5508381475,"Underhill town, Oconto County, Wisconsin",738.0,695.0,43.0,083,81475,55
+5508359400,"Oconto Falls city, Oconto County, Wisconsin",2826.0,2772.0,54.0,083,59400,55
+5508365675,"Pulaski village, Oconto County, Wisconsin",0.0,0.0,0.0,083,65675,55
+5508314125,"Chase town, Oconto County, Wisconsin",3004.0,3004.0,0.0,083,14125,55
+5508343325,"Lena village, Oconto County, Wisconsin",488.0,488.0,0.0,083,43325,55
+5508359425,"Oconto Falls town, Oconto County, Wisconsin",1329.0,1305.0,24.0,083,59425,55
+5508349000,"Maple Valley town, Oconto County, Wisconsin",714.0,709.0,5.0,083,49000,55
+5508376450,"Spruce town, Oconto County, Wisconsin",804.0,801.0,3.0,083,76450,55
+5508368400,"Riverview town, Oconto County, Wisconsin",1034.0,1030.0,4.0,083,68400,55
+5508378725,"Suring village, Oconto County, Wisconsin",421.0,421.0,0.0,083,78725,55
+550839425,"Breed town, Oconto County, Wisconsin",682.0,682.0,0.0,083,9425,55
+5508320475,"Doty town, Oconto County, Wisconsin",267.0,267.0,0.0,083,20475,55
+5508335925,"How town, Oconto County, Wisconsin",635.0,609.0,26.0,083,35925,55
+5508359375,"Oconto town, Oconto County, Wisconsin",1375.0,1350.0,25.0,083,59375,55
+55083175,"Abrams town, Oconto County, Wisconsin",1930.0,1914.0,16.0,083,175,55
+5508377300,"Stiles town, Oconto County, Wisconsin",1616.0,1593.0,23.0,083,77300,55
+5508354200,"Morgan town, Oconto County, Wisconsin",1000.0,996.0,4.0,083,54200,55
+5506932650,"Harding town, Lincoln County, Wisconsin",384.0,380.0,4.0,069,32650,55
+5506970325,"Russell town, Lincoln County, Wisconsin",721.0,717.0,4.0,069,70325,55
+5506974250,"Skanawan town, Lincoln County, Wisconsin",378.0,377.0,1.0,069,74250,55
+5506917125,"Corning town, Lincoln County, Wisconsin",617.0,612.0,5.0,069,17125,55
+5506932875,"Harrison town, Lincoln County, Wisconsin",836.0,810.0,26.0,069,32875,55
+5506939675,"King town, Lincoln County, Wisconsin",1036.0,1017.0,19.0,069,39675,55
+5505139625,"Kimball town, Iron County, Wisconsin",360.0,353.0,7.0,051,39625,55
+5505161825,"Pence town, Iron County, Wisconsin",152.0,152.0,0.0,051,61825,55
+5505151200,"Mercer town, Iron County, Wisconsin",1532.0,1512.0,20.0,051,51200,55
+5505154075,"Montreal city, Iron County, Wisconsin",739.0,736.0,3.0,051,54075,55
+5505112525,"Carey town, Iron County, Wisconsin",143.0,137.0,6.0,051,12525,55
+550511925,"Anderson town, Iron County, Wisconsin",62.0,60.0,2.0,051,1925,55
+5505131875,"Gurney town, Iron County, Wisconsin",172.0,172.0,0.0,051,31875,55
+5505173400,"Sherman town, Iron County, Wisconsin",295.0,293.0,2.0,051,73400,55
+550510,"County subdivisions not defined, Iron County, Wisconsin",0.0,0.0,0.0,051,0,55
+5505171875,"Saxon town, Iron County, Wisconsin",307.0,300.0,7.0,051,71875,55
+5505140075,"Knight town, Iron County, Wisconsin",224.0,224.0,0.0,051,40075,55
+5505136525,"Hurley city, Iron County, Wisconsin",1487.0,1471.0,16.0,051,36525,55
+5505159850,"Oma town, Iron County, Wisconsin",275.0,272.0,3.0,051,59850,55
+550878975,"Bovina town, Outagamie County, Wisconsin",1069.0,1056.0,13.0,087,8975,55
+5508714750,"Cicero town, Outagamie County, Wisconsin",1169.0,1157.0,12.0,087,14750,55
+5508739650,"Kimberly village, Outagamie County, Wisconsin",6718.0,6470.0,248.0,087,39650,55
+5508744950,"Little Chute village, Outagamie County, Wisconsin",11006.0,10832.0,174.0,087,44950,55
+5508756925,"New London city, Outagamie County, Wisconsin",1446.0,1232.0,214.0,087,56925,55
+5508760400,"Osborn town, Outagamie County, Wisconsin",1245.0,1242.0,3.0,087,60400,55
+550875575,"Bear Creek village, Outagamie County, Wisconsin",404.0,343.0,61.0,087,5575,55
+5508772750,"Seymour town, Outagamie County, Wisconsin",1237.0,1163.0,74.0,087,72750,55
+5508782400,"Vandenbroek town, Outagamie County, Wisconsin",1535.0,1508.0,27.0,087,82400,55
+550877725,"Black Creek village, Outagamie County, Wisconsin",1450.0,1426.0,24.0,087,7725,55
+5508731550,"Greenville town, Outagamie County, Wisconsin",11565.0,11384.0,181.0,087,31550,55
+5508738825,"Kaukauna town, Outagamie County, Wisconsin",1165.0,1158.0,7.0,087,38825,55
+5508748775,"Maple Creek town, Outagamie County, Wisconsin",625.0,621.0,4.0,087,48775,55
+5508730075,"Grand Chute town, Outagamie County, Wisconsin",22286.0,20949.0,1337.0,087,30075,55
+5508735825,"Hortonia town, Outagamie County, Wisconsin",1241.0,1234.0,7.0,087,35825,55
+5508757375,"Nichols village, Outagamie County, Wisconsin",229.0,208.0,21.0,087,57375,55
+5508760000,"Oneida town, Outagamie County, Wisconsin",4699.0,4667.0,32.0,087,60000,55
+550872375,"Appleton city, Outagamie County, Wisconsin",61329.0,57135.0,4194.0,087,2375,55
+5508738800,"Kaukauna city, Outagamie County, Wisconsin",15883.0,15649.0,234.0,087,38800,55
+5508710750,"Buchanan town, Outagamie County, Wisconsin",7074.0,6876.0,198.0,087,10750,55
+5508743875,"Liberty town, Outagamie County, Wisconsin",875.0,875.0,0.0,087,43875,55
+5508713600,"Center town, Outagamie County, Wisconsin",3541.0,3520.0,21.0,087,13600,55
+5512316875,"Coon town, Vernon County, Wisconsin",762.0,762.0,0.0,123,16875,55
+5512319850,"De Soto village, Vernon County, Wisconsin",186.0,185.0,1.0,123,19850,55
+5512327400,"Franklin town, Vernon County, Wisconsin",950.0,948.0,2.0,123,27400,55
+5512332225,"Hamburg town, Vernon County, Wisconsin",1118.0,1113.0,5.0,123,32225,55
+5512340875,"La Farge village, Vernon County, Wisconsin",848.0,848.0,0.0,123,40875,55
+5512376725,"Stark town, Vernon County, Wisconsin",307.0,305.0,2.0,123,76725,55
+5512385475,"Westby city, Vernon County, Wisconsin",2314.0,2259.0,55.0,123,85475,55
+5512385050,"Webster town, Vernon County, Wisconsin",991.0,991.0,0.0,123,85050,55
+551236900,"Bergen town, Vernon County, Wisconsin",1262.0,1255.0,7.0,123,6900,55
+5512314150,"Chaseburg village, Vernon County, Wisconsin",305.0,300.0,5.0,123,14150,55
+5512328625,"Genoa village, Vernon County, Wisconsin",245.0,245.0,0.0,123,28625,55
+5512316900,"Coon Valley village, Vernon County, Wisconsin",742.0,737.0,5.0,123,16900,55
+5512326550,"Forest town, Vernon County, Wisconsin",657.0,632.0,25.0,123,26550,55
+5512386525,"Wheatland town, Vernon County, Wisconsin",569.0,561.0,8.0,123,86525,55
+5512331625,"Greenwood town, Vernon County, Wisconsin",967.0,965.0,2.0,123,31625,55
+5512332725,"Harmony town, Vernon County, Wisconsin",824.0,812.0,12.0,123,32725,55
+5512339475,"Kickapoo town, Vernon County, Wisconsin",541.0,533.0,8.0,123,39475,55
+5513125375,"Farmington town, Washington County, Wisconsin",4027.0,3963.0,64.0,131,25375,55
+5513128900,"Germantown town, Washington County, Wisconsin",272.0,261.0,11.0,131,28900,55
+5513128875,"Germantown village, Washington County, Wisconsin",19956.0,18870.0,1086.0,131,28875,55
+5513174400,"Slinger village, Washington County, Wisconsin",5269.0,5224.0,45.0,131,74400,55
+5513180575,"Trenton town, Washington County, Wisconsin",4702.0,4606.0,96.0,131,80575,55
+5513139300,"Kewaskum village, Washington County, Wisconsin",4098.0,4005.0,93.0,131,39300,55
+5513153000,"Milwaukee city, Washington County, Wisconsin",0.0,0.0,0.0,131,53000,55
+5513184900,"Wayne town, Washington County, Wisconsin",2107.0,2086.0,21.0,131,84900,55
+5501372225,"Scott town, Burnett County, Wisconsin",666.0,662.0,4.0,013,72225,55
+5501370225,"Rusk town, Burnett County, Wisconsin",410.0,409.0,1.0,013,70225,55
+5501378775,"Swiss town, Burnett County, Wisconsin",783.0,776.0,7.0,013,78775,55
+5501380375,"Trade Lake town, Burnett County, Wisconsin",855.0,842.0,13.0,013,80375,55
+5501319925,"Dewey town, Burnett County, Wisconsin",528.0,516.0,12.0,013,19925,55
+5501330450,"Grantsburg village, Burnett County, Wisconsin",1215.0,1200.0,15.0,013,30450,55
+5501337650,"Jackson town, Burnett County, Wisconsin",930.0,925.0,5.0,013,37650,55
+5501340975,"La Follette town, Burnett County, Wisconsin",457.0,455.0,2.0,013,40975,55
+5501371450,"Sand Lake town, Burnett County, Wisconsin",481.0,475.0,6.0,013,71450,55
+5501374200,"Siren town, Burnett County, Wisconsin",888.0,886.0,2.0,013,74200,55
+5501374175,"Siren village, Burnett County, Wisconsin",824.0,819.0,5.0,013,74175,55
+5501381500,"Union town, Burnett County, Wisconsin",323.0,319.0,4.0,013,81500,55
+550131900,"Anderson town, Burnett County, Wisconsin",387.0,380.0,7.0,013,1900,55
+5501384975,"Webb Lake town, Burnett County, Wisconsin",342.0,340.0,2.0,013,84975,55
+5501350650,"Meenon town, Burnett County, Wisconsin",1185.0,1180.0,5.0,013,50650,55
+5501385025,"Webster village, Burnett County, Wisconsin",602.0,597.0,5.0,013,85025,55
+550259775,"Bristol town, Dane County, Wisconsin",3908.0,3744.0,164.0,025,9775,55
+5502589450,"York town, Dane County, Wisconsin",690.0,683.0,7.0,025,89450,55
+5502512225,"Cambridge village, Dane County, Wisconsin",1183.0,1169.0,14.0,025,12225,55
+550258350,"Blooming Grove town, Dane County, Wisconsin",1918.0,1830.0,88.0,025,8350,55
+5502511150,"Burke town, Dane County, Wisconsin",3396.0,3220.0,176.0,025,11150,55
+5502517175,"Cottage Grove village, Dane County, Wisconsin",6795.0,6315.0,480.0,025,17175,55
+5502518700,"Dane village, Dane County, Wisconsin",1020.0,922.0,98.0,025,18700,55
+5502519275,"Deerfield town, Dane County, Wisconsin",1612.0,1607.0,5.0,025,19275,55
+5502519250,"Deerfield village, Dane County, Wisconsin",2492.0,2464.0,28.0,025,19250,55
+5502521100,"Dunkirk town, Dane County, Wisconsin",2205.0,2195.0,10.0,025,21100,55
+5502548750,"Maple Bluff village, Dane County, Wisconsin",1441.0,1356.0,85.0,025,48750,55
+5502582750,"Vienna town, Dane County, Wisconsin",1749.0,1731.0,18.0,025,82750,55
+5502586125,"Westport town, Dane County, Wisconsin",4153.0,3780.0,373.0,025,86125,55
+5502550225,"Mazomanie village, Dane County, Wisconsin",1757.0,1739.0,18.0,025,50225,55
+55025875,"Albion town, Dane County, Wisconsin",1991.0,1969.0,22.0,025,875,55
+550258475,"Blue Mounds village, Dane County, Wisconsin",890.0,873.0,17.0,025,8475,55
+5502546850,"McFarland village, Dane County, Wisconsin",8235.0,8011.0,224.0,025,46850,55
+5502551575,"Middleton city, Dane County, Wisconsin",18951.0,17289.0,1662.0,025,51575,55
+5502554100,"Montrose town, Dane County, Wisconsin",1198.0,1121.0,77.0,025,54100,55
+5502554725,"Mount Horeb village, Dane County, Wisconsin",7383.0,7353.0,30.0,025,54725,55
+5502560200,"Oregon village, Dane County, Wisconsin",10033.0,9849.0,184.0,025,60200,55
+5502565575,"Primrose town, Dane County, Wisconsin",699.0,686.0,13.0,025,65575,55
+5502569850,"Roxbury town, Dane County, Wisconsin",1909.0,1876.0,33.0,025,69850,55
+5502582600,"Verona city, Dane County, Wisconsin",12465.0,11996.0,469.0,025,82600,55
+5502510075,"Brooklyn village, Dane County, Wisconsin",870.0,850.0,20.0,025,10075,55
+5502517775,"Cross Plains village, Dane County, Wisconsin",3992.0,3913.0,79.0,025,17775,55
+5502519350,"DeForest village, Dane County, Wisconsin",9663.0,9279.0,384.0,025,19350,55
+5502562050,"Perry town, Dane County, Wisconsin",892.0,883.0,9.0,025,62050,55
+5502575875,"Springfield town, Dane County, Wisconsin",2895.0,2787.0,108.0,025,75875,55
+5502578600,"Sun Prairie city, Dane County, Wisconsin",32112.0,29925.0,2187.0,025,78600,55
+5502517200,"Cottage Grove town, Dane County, Wisconsin",3939.0,3852.0,87.0,025,17200,55
+5502518725,"Dane town, Dane County, Wisconsin",901.0,829.0,72.0,025,18725,55
+5502549575,"Marshall village, Dane County, Wisconsin",3977.0,3710.0,267.0,025,49575,55
+5502550250,"Mazomanie town, Dane County, Wisconsin",1085.0,1068.0,17.0,025,50250,55
+5506951275,"Merrill town, Lincoln County, Wisconsin",2936.0,2928.0,8.0,069,51275,55
+5506972300,"Scott town, Lincoln County, Wisconsin",1419.0,1414.0,5.0,069,72300,55
+5506974725,"Somo town, Lincoln County, Wisconsin",112.0,112.0,0.0,069,74725,55
+5506980150,"Tomahawk town, Lincoln County, Wisconsin",391.0,390.0,1.0,069,80150,55
+5506951250,"Merrill city, Lincoln County, Wisconsin",9264.0,9180.0,84.0,069,51250,55
+550697500,"Birch town, Lincoln County, Wisconsin",590.0,572.0,18.0,069,7500,55
+5506968825,"Rock Falls town, Lincoln County, Wisconsin",627.0,623.0,4.0,069,68825,55
+5506972100,"Schley town, Lincoln County, Wisconsin",871.0,866.0,5.0,069,72100,55
+5506987425,"Wilson town, Lincoln County, Wisconsin",310.0,310.0,0.0,069,87425,55
+5506980125,"Tomahawk city, Lincoln County, Wisconsin",3225.0,3212.0,13.0,069,80125,55
+5506962950,"Pine River town, Lincoln County, Wisconsin",1892.0,1857.0,35.0,069,62950,55
+5513512000,"Caledonia town, Waupaca County, Wisconsin",1613.0,1610.0,3.0,135,12000,55
+5513527800,"Fremont village, Waupaca County, Wisconsin",555.0,552.0,3.0,135,27800,55
+5513533850,"Helvetia town, Waupaca County, Wisconsin",699.0,699.0,0.0,135,33850,55
+5513519025,"Dayton town, Waupaca County, Wisconsin",2708.0,2685.0,23.0,135,19025,55
+5513527850,"Fremont town, Waupaca County, Wisconsin",677.0,661.0,16.0,135,27850,55
+5513521200,"Dupont town, Waupaca County, Wisconsin",831.0,831.0,0.0,135,21200,55
+5513569900,"Royalton town, Waupaca County, Wisconsin",1355.0,1349.0,6.0,135,69900,55
+5513525400,"Farmington town, Waupaca County, Wisconsin",3958.0,3836.0,122.0,135,25400,55
+5513586425,"Weyauwega town, Waupaca County, Wisconsin",616.0,551.0,65.0,135,86425,55
+551355625,"Bear Creek town, Waupaca County, Wisconsin",775.0,767.0,8.0,135,5625,55
+5513523850,"Embarrass village, Waupaca County, Wisconsin",440.0,432.0,8.0,135,23850,55
+5513584375,"Waupaca city, Waupaca County, Wisconsin",5942.0,5884.0,58.0,135,84375,55
+5513532925,"Harrison town, Waupaca County, Wisconsin",442.0,419.0,23.0,135,32925,55
+5513542650,"Larrabee town, Waupaca County, Wisconsin",1369.0,1366.0,3.0,135,42650,55
+5513543075,"Lebanon town, Waupaca County, Wisconsin",1594.0,1564.0,30.0,135,43075,55
+5513549975,"Matteson town, Waupaca County, Wisconsin",1029.0,1022.0,7.0,135,49975,55
+5513549400,"Marion city, Waupaca County, Wisconsin",1103.0,1103.0,0.0,135,49400,55
+5513586400,"Weyauwega city, Waupaca County, Wisconsin",1790.0,1664.0,126.0,135,86400,55
+5513515725,"Clintonville city, Waupaca County, Wisconsin",4429.0,4226.0,203.0,135,15725,55
+551135200,"Bass Lake town, Sawyer County, Wisconsin",2356.0,2323.0,33.0,113,5200,55
+5511343400,"Lenroot town, Sawyer County, Wisconsin",1088.0,1056.0,32.0,113,43400,55
+5511350300,"Meadowbrook town, Sawyer County, Wisconsin",131.0,116.0,15.0,113,50300,55
+5511366050,"Radisson village, Sawyer County, Wisconsin",195.0,194.0,1.0,113,66050,55
+5511369750,"Round Lake town, Sawyer County, Wisconsin",1059.0,1058.0,1.0,113,69750,55
+5511317225,"Couderay village, Sawyer County, Wisconsin",58.0,58.0,0.0,113,17225,55
+5511322625,"Edgewater town, Sawyer County, Wisconsin",572.0,562.0,10.0,113,22625,55
+5511333475,"Hayward town, Sawyer County, Wisconsin",3504.0,3467.0,37.0,113,33475,55
+5511371500,"Sand Lake town, Sawyer County, Wisconsin",779.0,768.0,11.0,113,71500,55
+5511324700,"Exeland village, Sawyer County, Wisconsin",222.0,219.0,3.0,113,24700,55
+5511359600,"Ojibwa town, Sawyer County, Wisconsin",229.0,225.0,4.0,113,59600,55
+5511320825,"Draper town, Sawyer County, Wisconsin",183.0,181.0,2.0,113,20825,55
+5511375450,"Spider Lake town, Sawyer County, Wisconsin",398.0,385.0,13.0,113,75450,55
+5511388000,"Winter town, Sawyer County, Wisconsin",940.0,913.0,27.0,113,88000,55
+5511366075,"Radisson town, Sawyer County, Wisconsin",342.0,342.0,0.0,113,66075,55
+5504710125,"Brooklyn town, Green Lake County, Wisconsin",1595.0,1577.0,18.0,047,10125,55
+5504739775,"Kingston town, Green Lake County, Wisconsin",947.0,945.0,2.0,047,39775,55
+5504770925,"St. Marie town, Green Lake County, Wisconsin",300.0,296.0,4.0,047,70925,55
+550476925,"Berlin city, Green Lake County, Wisconsin",5324.0,4954.0,370.0,047,6925,55
+5504731300,"Green Lake city, Green Lake County, Wisconsin",874.0,852.0,22.0,047,31300,55
+5504765600,"Princeton city, Green Lake County, Wisconsin",1174.0,1160.0,14.0,047,65600,55
+5504765625,"Princeton town, Green Lake County, Wisconsin",1637.0,1618.0,19.0,047,65625,55
+5504739750,"Kingston village, Green Lake County, Wisconsin",351.0,346.0,5.0,047,39750,55
+5504749500,"Marquette village, Green Lake County, Wisconsin",166.0,165.0,1.0,047,49500,55
+550476950,"Berlin town, Green Lake County, Wisconsin",1056.0,1030.0,26.0,047,6950,55
+5504731350,"Green Lake town, Green Lake County, Wisconsin",1268.0,1265.0,3.0,047,31350,55
+5504748400,"Manchester town, Green Lake County, Wisconsin",1234.0,1212.0,22.0,047,48400,55
+5504749525,"Marquette town, Green Lake County, Wisconsin",550.0,548.0,2.0,047,49525,55
+5504749450,"Markesan city, Green Lake County, Wisconsin",1386.0,1295.0,91.0,047,49450,55
+5507331800,"Guenther town, Marathon County, Wisconsin",299.0,298.0,1.0,073,31800,55
+5507322550,"Edgar village, Marathon County, Wisconsin",1482.0,1476.0,6.0,073,22550,55
+5507325650,"Fenwood village, Marathon County, Wisconsin",132.0,132.0,0.0,073,25650,55
+5507331450,"Green Valley town, Marathon County, Wisconsin",464.0,462.0,2.0,073,31450,55
+5507349675,"Marshfield city, Marathon County, Wisconsin",625.0,535.0,90.0,073,49675,55
+5507354525,"Mosinee town, Marathon County, Wisconsin",2311.0,2295.0,16.0,073,54525,55
+5507335500,"Holton town, Marathon County, Wisconsin",994.0,926.0,68.0,073,35500,55
+5507338300,"Johnson town, Marathon County, Wisconsin",909.0,901.0,8.0,073,38300,55
+5507340150,"Knowlton town, Marathon County, Wisconsin",2079.0,2030.0,49.0,073,40150,55
+5507363500,"Plover town, Marathon County, Wisconsin",630.0,625.0,5.0,073,63500,55
+5507366950,"Reid town, Marathon County, Wisconsin",1249.0,1246.0,3.0,073,66950,55
+550733550,"Athens village, Marathon County, Wisconsin",922.0,914.0,8.0,073,3550,55
+55073100,"Abbotsford city, Marathon County, Wisconsin",549.0,441.0,108.0,073,100,55
+5507315425,"Cleveland town, Marathon County, Wisconsin",1588.0,1588.0,0.0,073,15425,55
+5507332200,"Hamburg town, Marathon County, Wisconsin",975.0,930.0,45.0,073,32200,55
+5501385850,"West Marshland town, Burnett County, Wisconsin",344.0,337.0,7.0,013,85850,55
+5501318750,"Daniels town, Burnett County, Wisconsin",670.0,662.0,8.0,013,18750,55
+5501330475,"Grantsburg town, Burnett County, Wisconsin",1147.0,1115.0,32.0,013,30475,55
+5501344325,"Lincoln town, Burnett County, Wisconsin",239.0,235.0,4.0,013,44325,55
+5501369325,"Roosevelt town, Burnett County, Wisconsin",200.0,193.0,7.0,013,69325,55
+5501388900,"Wood River town, Burnett County, Wisconsin",806.0,800.0,6.0,013,88900,55
+550138025,"Blaine town, Burnett County, Wisconsin",183.0,182.0,1.0,013,8025,55
+5501359075,"Oakland town, Burnett County, Wisconsin",774.0,756.0,18.0,013,59075,55
+5501771275,"Sampson town, Chippewa County, Wisconsin",955.0,950.0,5.0,017,71275,55
+5501714575,"Chippewa Falls city, Chippewa County, Wisconsin",13920.0,13805.0,115.0,017,14575,55
+5501722750,"Edson town, Chippewa County, Wisconsin",1111.0,1111.0,0.0,017,22750,55
+5501773875,"Sigel town, Chippewa County, Wisconsin",1084.0,1079.0,5.0,017,73875,55
+5501786537,"Wheaton town, Chippewa County, Wisconsin",2768.0,2671.0,97.0,017,86537,55
+5501556825,"New Holstein town, Calumet County, Wisconsin",1578.0,1569.0,9.0,015,56825,55
+5501577400,"Stockbridge village, Calumet County, Wisconsin",732.0,730.0,2.0,015,77400,55
+5501556800,"New Holstein city, Calumet County, Wisconsin",3167.0,3140.0,27.0,015,56800,55
+5501564675,"Potter village, Calumet County, Wisconsin",299.0,293.0,6.0,015,64675,55
+5501589000,"Woodville town, Calumet County, Wisconsin",1009.0,994.0,15.0,015,89000,55
+5501534575,"Hilbert village, Calumet County, Wisconsin",1185.0,1114.0,71.0,015,34575,55
+5501514000,"Charlestown town, Calumet County, Wisconsin",788.0,786.0,2.0,015,14000,55
+550159725,"Brillion city, Calumet County, Wisconsin",3149.0,3032.0,117.0,015,9725,55
+550373875,"Aurora town, Florence County, Wisconsin",907.0,878.0,29.0,037,3875,55
+5503725675,"Fern town, Florence County, Wisconsin",142.0,142.0,0.0,037,25675,55
+5503725575,"Fence town, Florence County, Wisconsin",150.0,144.0,6.0,037,25575,55
+5503779975,"Tipler town, Florence County, Wisconsin",79.0,79.0,0.0,037,79975,55
+5503726200,"Florence town, Florence County, Wisconsin",2080.0,2074.0,6.0,037,26200,55
+5503745625,"Long Lake town, Florence County, Wisconsin",200.0,200.0,0.0,037,45625,55
+5503716550,"Commonwealth town, Florence County, Wisconsin",386.0,386.0,0.0,037,16550,55
+5503735600,"Homestead town, Florence County, Wisconsin",410.0,410.0,0.0,037,35600,55
+5505551850,"Milford town, Jefferson County, Wisconsin",1133.0,1130.0,3.0,055,51850,55
+5505583950,"Waterloo town, Jefferson County, Wisconsin",974.0,969.0,5.0,055,83950,55
+5505525300,"Farmington town, Jefferson County, Wisconsin",1611.0,1589.0,22.0,055,25300,55
+5505533700,"Hebron town, Jefferson County, Wisconsin",1097.0,1095.0,2.0,055,33700,55
+5505578200,"Sullivan town, Jefferson County, Wisconsin",2243.0,2224.0,19.0,055,78200,55
+5505586925,"Whitewater city, Jefferson County, Wisconsin",3119.0,2881.0,238.0,055,86925,55
+5505537600,"Ixonia town, Jefferson County, Wisconsin",4471.0,4416.0,55.0,055,37600,55
+5505537900,"Jefferson city, Jefferson County, Wisconsin",7975.0,7656.0,319.0,055,37900,55
+5505541675,"Lake Mills city, Jefferson County, Wisconsin",5816.0,5485.0,331.0,055,41675,55
+5505578175,"Sullivan village, Jefferson County, Wisconsin",723.0,711.0,12.0,055,78175,55
+5505583975,"Watertown city, Jefferson County, Wisconsin",15445.0,14846.0,599.0,055,83975,55
+5505538350,"Johnson Creek village, Jefferson County, Wisconsin",2931.0,2828.0,103.0,055,38350,55
+5505541700,"Lake Mills town, Jefferson County, Wisconsin",2106.0,2025.0,81.0,055,41700,55
+5505559125,"Oakland town, Jefferson County, Wisconsin",3166.0,3098.0,68.0,055,59125,55
+5505584000,"Watertown town, Jefferson County, Wisconsin",2010.0,1974.0,36.0,055,84000,55
+5505537925,"Jefferson town, Jefferson County, Wisconsin",2044.0,1987.0,57.0,055,37925,55
+5505540375,"Koshkonong town, Jefferson County, Wisconsin",3746.0,3716.0,30.0,055,40375,55
+5505561025,"Palmyra village, Jefferson County, Wisconsin",1632.0,1618.0,14.0,055,61025,55
+550554125,"Aztalan town, Jefferson County, Wisconsin",1372.0,1345.0,27.0,055,4125,55
+5505516225,"Cold Spring town, Jefferson County, Wisconsin",836.0,835.0,1.0,055,16225,55
+5505516650,"Concord town, Jefferson County, Wisconsin",2227.0,2218.0,9.0,055,16650,55
+5505561050,"Palmyra town, Jefferson County, Wisconsin",1294.0,1202.0,92.0,055,61050,55
+5512382925,"Viroqua city, Vernon County, Wisconsin",4363.0,4262.0,101.0,123,82925,55
+5512377075,"Sterling town, Vernon County, Wisconsin",549.0,543.0,6.0,123,77075,55
+5512314675,"Christiana town, Vernon County, Wisconsin",933.0,925.0,8.0,123,14675,55
+5512337975,"Jefferson town, Vernon County, Wisconsin",959.0,957.0,2.0,123,37975,55
+5512381675,"Union town, Vernon County, Wisconsin",688.0,687.0,1.0,123,81675,55
+5512382900,"Viola village, Vernon County, Wisconsin",389.0,386.0,3.0,123,82900,55
+5512386900,"Whitestown town, Vernon County, Wisconsin",574.0,564.0,10.0,123,86900,55
+5512334825,"Hillsboro city, Vernon County, Wisconsin",1395.0,1387.0,8.0,123,34825,55
+5512343900,"Liberty town, Vernon County, Wisconsin",265.0,262.0,3.0,123,43900,55
+5512377550,"Stoddard village, Vernon County, Wisconsin",929.0,929.0,0.0,123,77550,55
+5512328650,"Genoa town, Vernon County, Wisconsin",782.0,776.0,6.0,123,28650,55
+5512334850,"Hillsboro town, Vernon County, Wisconsin",757.0,750.0,7.0,123,34850,55
+5512315675,"Clinton town, Vernon County, Wisconsin",1413.0,1413.0,0.0,123,15675,55
+5512382950,"Viroqua town, Vernon County, Wisconsin",1842.0,1832.0,10.0,123,82950,55
+5512366450,"Readstown village, Vernon County, Wisconsin",460.0,458.0,2.0,123,66450,55
+5512360075,"Ontario village, Vernon County, Wisconsin",492.0,467.0,25.0,123,60075,55
+5501152175,"Milton town, Buffalo County, Wisconsin",500.0,497.0,3.0,011,52175,55
+5501153600,"Mondovi city, Buffalo County, Wisconsin",2663.0,2646.0,17.0,011,53600,55
+5501153625,"Mondovi town, Buffalo County, Wisconsin",426.0,424.0,2.0,011,53625,55
+5501153450,"Modena town, Buffalo County, Wisconsin",280.0,279.0,1.0,011,53450,55
+5501111025,"Buffalo town, Buffalo County, Wisconsin",810.0,808.0,2.0,011,11025,55
+5501129375,"Glencoe town, Buffalo County, Wisconsin",466.0,446.0,20.0,011,29375,55
+5501150075,"Maxville town, Buffalo County, Wisconsin",420.0,371.0,49.0,011,50075,55
+5501155450,"Naples town, Buffalo County, Wisconsin",613.0,607.0,6.0,011,55450,55
+5501184325,"Waumandee town, Buffalo County, Wisconsin",407.0,383.0,24.0,011,84325,55
+5501120575,"Dover town, Buffalo County, Wisconsin",522.0,517.0,5.0,011,20575,55
+5501126850,"Fountain City city, Buffalo County, Wisconsin",882.0,882.0,0.0,011,26850,55
+5501155950,"Nelson village, Buffalo County, Wisconsin",333.0,333.0,0.0,011,55950,55
+550111250,"Alma town, Buffalo County, Wisconsin",325.0,323.0,2.0,011,1250,55
+5501112500,"Canton town, Buffalo County, Wisconsin",314.0,291.0,23.0,011,12500,55
+5501144300,"Lincoln town, Buffalo County, Wisconsin",206.0,206.0,0.0,011,44300,55
+5501155975,"Nelson town, Buffalo County, Wisconsin",609.0,598.0,11.0,011,55975,55
+550111225,"Alma city, Buffalo County, Wisconsin",673.0,671.0,2.0,011,1225,55
+550116675,"Belvidere town, Buffalo County, Wisconsin",388.0,384.0,4.0,011,6675,55
+5501111062,"Buffalo City city, Buffalo County, Wisconsin",934.0,932.0,2.0,011,11062,55
+5501116025,"Cochrane village, Buffalo County, Wisconsin",447.0,440.0,7.0,011,16025,55
+5501129225,"Gilmanton town, Buffalo County, Wisconsin",396.0,396.0,0.0,011,29225,55
+5501153850,"Montana town, Buffalo County, Wisconsin",288.0,276.0,12.0,011,53850,55
+5501117737,"Cross town, Buffalo County, Wisconsin",341.0,336.0,5.0,011,17737,55
+550172175,"Anson town, Chippewa County, Wisconsin",2162.0,2148.0,14.0,017,2175,55
+5501717100,"Cornell city, Chippewa County, Wisconsin",1557.0,1554.0,3.0,017,17100,55
+5501719625,"Delmar town, Chippewa County, Wisconsin",1153.0,1151.0,2.0,017,19625,55
+5501741550,"Lake Holcombe town, Chippewa County, Wisconsin",865.0,859.0,6.0,017,41550,55
+5501715350,"Cleveland town, Chippewa County, Wisconsin",913.0,911.0,2.0,017,15350,55
+5501721600,"Eagle Point town, Chippewa County, Wisconsin",3109.0,3087.0,22.0,017,21600,55
+5501736000,"Howard town, Chippewa County, Wisconsin",782.0,774.0,8.0,017,36000,55
+5501756350,"New Auburn village, Chippewa County, Wisconsin",438.0,438.0,0.0,017,56350,55
+5501711750,"Cadott village, Chippewa County, Wisconsin",1434.0,1421.0,13.0,017,11750,55
+5501722300,"Eau Claire city, Chippewa County, Wisconsin",1896.0,1795.0,101.0,017,22300,55
+5501732125,"Hallie town, Chippewa County, Wisconsin",192.0,183.0,9.0,017,32125,55
+5501776625,"Stanley city, Chippewa County, Wisconsin",3620.0,3531.0,89.0,017,76625,55
+550173725,"Auburn town, Chippewa County, Wisconsin",627.0,621.0,6.0,017,3725,55
+550178250,"Bloomer town, Chippewa County, Wisconsin",1079.0,1067.0,12.0,017,8250,55
+550179075,"Boyd village, Chippewa County, Wisconsin",605.0,584.0,21.0,017,9075,55
+5501716800,"Cooks Valley town, Chippewa County, Wisconsin",833.0,833.0,0.0,017,16800,55
+5501724375,"Estella town, Chippewa County, Wisconsin",394.0,394.0,0.0,017,24375,55
+5501769975,"Ruby town, Chippewa County, Wisconsin",386.0,384.0,2.0,017,69975,55
+5501716125,"Colburn town, Chippewa County, Wisconsin",873.0,866.0,7.0,017,16125,55
+5513544575,"Lind town, Waupaca County, Wisconsin",1443.0,1432.0,11.0,135,44575,55
+5513548350,"Manawa city, Waupaca County, Wisconsin",1398.0,1385.0,13.0,135,48350,55
+5513556925,"New London city, Waupaca County, Wisconsin",5555.0,5484.0,71.0,135,56925,55
+5513572000,"Scandinavia town, Waupaca County, Wisconsin",1138.0,1111.0,27.0,135,72000,55
+5513584400,"Waupaca town, Waupaca County, Wisconsin",1295.0,1290.0,5.0,135,84400,55
+5513589375,"Wyoming town, Waupaca County, Wisconsin",368.0,368.0,0.0,135,89375,55
+5513537050,"Iola town, Waupaca County, Wisconsin",854.0,835.0,19.0,135,37050,55
+5513537025,"Iola village, Waupaca County, Wisconsin",1272.0,1266.0,6.0,135,37025,55
+5513545300,"Little Wolf town, Waupaca County, Wisconsin",1370.0,1320.0,50.0,135,45300,55
+550610,"County subdivisions not defined, Kewaunee County, Wisconsin",0.0,0.0,0.0,061,0,55
+5506112875,"Casco town, Kewaunee County, Wisconsin",1040.0,1022.0,18.0,061,12875,55
+5506139350,"Kewaunee city, Kewaunee County, Wisconsin",2875.0,2832.0,43.0,061,39350,55
+5506146400,"Luxemburg village, Kewaunee County, Wisconsin",2559.0,2550.0,9.0,061,46400,55
+55061600,"Ahnapee town, Kewaunee County, Wisconsin",863.0,857.0,6.0,061,600,55
+5506146425,"Luxemburg town, Kewaunee County, Wisconsin",1427.0,1377.0,50.0,061,46425,55
+5506166700,"Red River town, Kewaunee County, Wisconsin",1446.0,1434.0,12.0,061,66700,55
+550611000,"Algoma city, Kewaunee County, Wisconsin",3081.0,3049.0,32.0,061,1000,55
+5506144425,"Lincoln town, Kewaunee County, Wisconsin",919.0,883.0,36.0,061,44425,55
+5506185775,"West Kewaunee town, Kewaunee County, Wisconsin",1442.0,1379.0,63.0,061,85775,55
+5506162625,"Pierce town, Kewaunee County, Wisconsin",800.0,784.0,16.0,061,62625,55
+5506154050,"Montpelier town, Kewaunee County, Wisconsin",1283.0,1188.0,95.0,061,54050,55
+5506368900,"Rockland village, La Crosse County, Wisconsin",588.0,586.0,2.0,063,68900,55
+5506373125,"Shelby town, La Crosse County, Wisconsin",4847.0,4721.0,126.0,063,73125,55
+5506335350,"Holland town, La Crosse County, Wisconsin",3804.0,3691.0,113.0,063,35350,55
+5506359950,"Onalaska town, La Crosse County, Wisconsin",5690.0,5606.0,84.0,063,59950,55
+550634825,"Barre town, La Crosse County, Wisconsin",1288.0,1265.0,23.0,063,4825,55
+5506325325,"Farmington town, La Crosse County, Wisconsin",2255.0,2211.0,44.0,063,25325,55
+5506350400,"Medary town, La Crosse County, Wisconsin",1589.0,1559.0,30.0,063,50400,55
+5506359925,"Onalaska city, La Crosse County, Wisconsin",18452.0,17542.0,910.0,063,59925,55
+5506331150,"Greenfield town, La Crosse County, Wisconsin",2087.0,2043.0,44.0,063,31150,55
+5506340775,"La Crosse city, La Crosse County, Wisconsin",51928.0,50325.0,1603.0,063,40775,55
+5506386275,"West Salem village, La Crosse County, Wisconsin",5006.0,4974.0,32.0,063,86275,55
+550634550,"Bangor village, La Crosse County, Wisconsin",1273.0,1270.0,3.0,063,4550,55
+5506311300,"Burns town, La Crosse County, Wisconsin",1037.0,1033.0,4.0,063,11300,55
+5506332275,"Hamilton town, La Crosse County, Wisconsin",2510.0,2467.0,43.0,063,32275,55
+5506383650,"Washington town, La Crosse County, Wisconsin",566.0,566.0,0.0,063,83650,55
+550634575,"Bangor town, La Crosse County, Wisconsin",599.0,594.0,5.0,063,4575,55
+5506335450,"Holmen village, La Crosse County, Wisconsin",9693.0,9415.0,278.0,063,35450,55
+5506312300,"Campbell town, La Crosse County, Wisconsin",4370.0,4308.0,62.0,063,12300,55
+5500919700,"Denmark village, Brown County, Wisconsin",2066.0,2050.0,16.0,009,19700,55
+5500919775,"De Pere city, Brown County, Wisconsin",24695.0,23797.0,898.0,009,19775,55
+5500929550,"Glenmore town, Brown County, Wisconsin",1148.0,1146.0,2.0,009,29550,55
+5500963075,"Pittsfield town, Brown County, Wisconsin",2722.0,2693.0,29.0,009,63075,55
+5500989175,"Wrightstown town, Brown County, Wisconsin",2529.0,2370.0,159.0,009,89175,55
+5500935325,"Holland town, Brown County, Wisconsin",1417.0,1413.0,4.0,009,35325,55
+5502560225,"Oregon town, Dane County, Wisconsin",3295.0,3232.0,63.0,025,60225,55
+5502568725,"Rockdale village, Dane County, Wisconsin",260.0,252.0,8.0,025,68725,55
+5502577675,"Stoughton city, Dane County, Wisconsin",13058.0,12808.0,250.0,025,77675,55
+5502575850,"Springdale town, Dane County, Wisconsin",2104.0,2054.0,50.0,025,75850,55
+550257025,"Berry town, Dane County, Wisconsin",1181.0,1164.0,17.0,025,7025,55
+550257825,"Black Earth town, Dane County, Wisconsin",485.0,480.0,5.0,025,7825,55
+5502582625,"Verona town, Dane County, Wisconsin",2107.0,2034.0,73.0,025,82625,55
+550258500,"Blue Mounds town, Dane County, Wisconsin",924.0,894.0,30.0,025,8500,55
+550294325,"Baileys Harbor town, Door County, Wisconsin",1081.0,1049.0,32.0,029,4325,55
+5502915025,"Clay Banks town, Door County, Wisconsin",350.0,335.0,15.0,029,15025,55
+5502922850,"Egg Harbor village, Door County, Wisconsin",257.0,248.0,9.0,029,22850,55
+5502977875,"Sturgeon Bay city, Door County, Wisconsin",8917.0,8674.0,243.0,029,77875,55
+5507381850,"Unity village, Marathon County, Wisconsin",235.0,235.0,0.0,073,81850,55
+550736975,"Berlin town, Marathon County, Wisconsin",984.0,982.0,2.0,073,6975,55
+550737600,"Birnamwood village, Marathon County, Wisconsin",18.0,18.0,0.0,073,7600,55
+550739650,"Brighton town, Marathon County, Wisconsin",591.0,563.0,28.0,073,9650,55
+5507322425,"Eau Pleine town, Marathon County, Wisconsin",742.0,726.0,16.0,073,22425,55
+5507323100,"Elderon town, Marathon County, Wisconsin",545.0,543.0,2.0,073,23100,55
+5507368075,"Ringle town, Marathon County, Wisconsin",1707.0,1693.0,14.0,073,68075,55
+5507369725,"Rothschild village, Marathon County, Wisconsin",5292.0,5250.0,42.0,073,69725,55
+5507386025,"Weston village, Marathon County, Wisconsin",15068.0,14068.0,1000.0,073,86025,55
+5507379350,"Texas town, Marathon County, Wisconsin",1733.0,1729.0,4.0,073,79350,55
+5507384500,"Wausau town, Marathon County, Wisconsin",2653.0,2460.0,193.0,073,84500,55
+5509560475,"Osceola town, Polk County, Wisconsin",2840.0,2824.0,16.0,095,60475,55
+550951725,"Amery city, Polk County, Wisconsin",2833.0,2796.0,37.0,095,1725,55
+550954500,"Balsam Lake town, Polk County, Wisconsin",1588.0,1584.0,4.0,095,4500,55
+5509515125,"Clayton town, Polk County, Wisconsin",1010.0,1010.0,0.0,095,15125,55
+5509528350,"Garfield town, Polk County, Wisconsin",1562.0,1488.0,74.0,095,28350,55
+5509538400,"Johnstown town, Polk County, Wisconsin",563.0,554.0,9.0,095,38400,55
+5509545775,"Lorain town, Polk County, Wisconsin",286.0,277.0,9.0,095,45775,55
+5509581075,"Turtle Lake village, Polk County, Wisconsin",91.0,91.0,0.0,095,81075,55
+550955825,"Beaver town, Polk County, Wisconsin",765.0,756.0,9.0,095,5825,55
+5509546200,"Luck village, Polk County, Wisconsin",1138.0,1133.0,5.0,095,46200,55
+5509560450,"Osceola village, Polk County, Wisconsin",2499.0,2434.0,65.0,095,60450,55
+5509570550,"St. Croix Falls city, Polk County, Wisconsin",1918.0,1903.0,15.0,095,70550,55
+5509577050,"Sterling town, Polk County, Wisconsin",689.0,681.0,8.0,095,77050,55
+5509552100,"Milltown town, Polk County, Wisconsin",1234.0,1223.0,11.0,095,52100,55
+550954475,"Balsam Lake village, Polk County, Wisconsin",758.0,755.0,3.0,095,4475,55
+5509546900,"McKinley town, Polk County, Wisconsin",290.0,284.0,6.0,095,46900,55
+5509570575,"St. Croix Falls town, Polk County, Wisconsin",1319.0,1301.0,18.0,095,70575,55
+5509514837,"Clam Falls town, Polk County, Wisconsin",578.0,567.0,11.0,095,14837,55
+5509525350,"Farmington town, Polk County, Wisconsin",1603.0,1596.0,7.0,095,25350,55
+5509527500,"Frederic village, Polk County, Wisconsin",983.0,983.0,0.0,095,27500,55
+5509513850,"Centuria village, Polk County, Wisconsin",1024.0,1014.0,10.0,095,13850,55
+5509515100,"Clayton village, Polk County, Wisconsin",555.0,555.0,0.0,095,15100,55
+5509552075,"Milltown village, Polk County, Wisconsin",1205.0,1189.0,16.0,095,52075,55
+5509515250,"Clear Lake village, Polk County, Wisconsin",1045.0,1031.0,14.0,095,15250,55
+5509524450,"Eureka town, Polk County, Wisconsin",1649.0,1645.0,4.0,095,24450,55
+55095950,"Alden town, Polk County, Wisconsin",2745.0,2731.0,14.0,095,950,55
+550958750,"Bone Lake town, Polk County, Wisconsin",666.0,661.0,5.0,095,8750,55
+5509520850,"Dresser village, Polk County, Wisconsin",917.0,907.0,10.0,095,20850,55
+5509528725,"Georgetown town, Polk County, Wisconsin",936.0,936.0,0.0,095,28725,55
+5509541900,"Laketown town, Polk County, Wisconsin",881.0,878.0,3.0,095,41900,55
+5509586350,"West Sweden town, Polk County, Wisconsin",867.0,862.0,5.0,095,86350,55
+550952350,"Apple River town, Polk County, Wisconsin",1074.0,1068.0,6.0,095,2350,55
+550957700,"Black Brook town, Polk County, Wisconsin",1422.0,1407.0,15.0,095,7700,55
+5509546225,"Luck town, Polk County, Wisconsin",942.0,922.0,20.0,095,46225,55
+5509515275,"Clear Lake town, Polk County, Wisconsin",816.0,807.0,9.0,095,15275,55
+5509544475,"Lincoln town, Polk County, Wisconsin",2037.0,2032.0,5.0,095,44475,55
+551212500,"Arcadia city, Trempealeau County, Wisconsin",3001.0,2383.0,618.0,121,2500,55
+55121925,"Albion town, Trempealeau County, Wisconsin",637.0,619.0,18.0,121,925,55
+550896150,"Belgium village, Ozaukee County, Wisconsin",2158.0,2100.0,58.0,089,6150,55
+5508930025,"Grafton town, Ozaukee County, Wisconsin",4124.0,4065.0,59.0,089,30025,55
+550895450,"Bayside village, Ozaukee County, Wisconsin",86.0,86.0,0.0,089,5450,55
+5508913375,"Cedarburg city, Ozaukee County, Wisconsin",11499.0,11038.0,461.0,089,13375,55
+5508913400,"Cedarburg town, Ozaukee County, Wisconsin",5871.0,5787.0,84.0,089,13400,55
+5508927575,"Fredonia town, Ozaukee County, Wisconsin",2121.0,2104.0,17.0,089,27575,55
+5508927550,"Fredonia village, Ozaukee County, Wisconsin",2264.0,2214.0,50.0,089,27550,55
+5508971700,"Saukville village, Ozaukee County, Wisconsin",4460.0,4386.0,74.0,089,71700,55
+551398000,"Black Wolf town, Winnebago County, Wisconsin",2485.0,2474.0,11.0,139,8000,55
+5503339975,"Knapp village, Dunn County, Wisconsin",532.0,532.0,0.0,033,39975,55
+5503379775,"Tiffany town, Dunn County, Wisconsin",583.0,583.0,0.0,033,79775,55
+5503386575,"Wheeler village, Dunn County, Wisconsin",347.0,333.0,14.0,033,86575,55
+550339050,"Boyceville village, Dunn County, Wisconsin",948.0,948.0,0.0,033,9050,55
+5503330300,"Grant town, Dunn County, Wisconsin",354.0,352.0,2.0,033,30300,55
+5503351050,"Menomonie town, Dunn County, Wisconsin",3424.0,3398.0,26.0,033,51050,55
+5503360725,"Otter Creek town, Dunn County, Wisconsin",503.0,502.0,1.0,033,60725,55
+5503371425,"Sand Creek town, Dunn County, Wisconsin",683.0,675.0,8.0,033,71425,55
+5503373300,"Sheridan town, Dunn County, Wisconsin",483.0,477.0,6.0,033,73300,55
+5503375750,"Spring Brook town, Dunn County, Wisconsin",1832.0,1779.0,53.0,033,75750,55
+5503385975,"Weston town, Dunn County, Wisconsin",671.0,656.0,15.0,033,85975,55
+5503320675,"Downing village, Dunn County, Wisconsin",291.0,290.0,1.0,033,20675,55
+5503322375,"Eau Galle town, Dunn County, Wisconsin",726.0,700.0,26.0,033,22375,55
+5503356775,"New Haven town, Dunn County, Wisconsin",631.0,621.0,10.0,033,56775,55
+5503368700,"Rock Creek town, Dunn County, Wisconsin",846.0,818.0,28.0,033,68700,55
+5503378975,"Tainter town, Dunn County, Wisconsin",2799.0,2789.0,10.0,033,78975,55
+5503323325,"Elk Mound village, Dunn County, Wisconsin",1104.0,1060.0,44.0,033,23325,55
+5503351025,"Menomonie city, Dunn County, Wisconsin",16222.0,15576.0,646.0,033,51025,55
+5503321150,"Dunn town, Dunn County, Wisconsin",1519.0,1498.0,21.0,033,21150,55
+5503323350,"Elk Mound town, Dunn County, Wisconsin",1795.0,1692.0,103.0,033,23350,55
+5503333400,"Hay River town, Dunn County, Wisconsin",548.0,546.0,2.0,033,33400,55
+5503366550,"Red Cedar town, Dunn County, Wisconsin",2150.0,2120.0,30.0,033,66550,55
+5512977650,"Stone Lake town, Washburn County, Wisconsin",544.0,540.0,4.0,129,77650,55
+5512945650,"Long Lake town, Washburn County, Wisconsin",598.0,592.0,6.0,129,45650,55
+5512975800,"Springbrook town, Washburn County, Wisconsin",513.0,512.0,1.0,129,75800,55
+5512977350,"Stinnett town, Washburn County, Wisconsin",203.0,203.0,0.0,129,77350,55
+5512924600,"Evergreen town, Washburn County, Wisconsin",1142.0,1127.0,15.0,129,24600,55
+5512917850,"Crystal town, Washburn County, Wisconsin",260.0,251.0,9.0,129,17850,55
+5512953250,"Minong village, Washburn County, Wisconsin",432.0,427.0,5.0,129,53250,55
+5512931825,"Gull Lake town, Washburn County, Wisconsin",216.0,203.0,13.0,129,31825,55
+551295875,"Beaver Brook town, Washburn County, Wisconsin",676.0,663.0,13.0,129,5875,55
+5512971637,"Sarona town, Washburn County, Wisconsin",375.0,375.0,0.0,129,71637,55
+5513351375,"Merton village, Waukesha County, Wisconsin",3574.0,3382.0,192.0,133,51375,55
+5513340750,"Lac La Belle village, Waukesha County, Wisconsin",268.0,265.0,3.0,133,40750,55
+5513310025,"Brookfield city, Waukesha County, Wisconsin",37943.0,34140.0,3803.0,133,10025,55
+5513351400,"Merton town, Waukesha County, Wisconsin",8478.0,8254.0,224.0,133,51400,55
+5513310050,"Brookfield town, Waukesha County, Wisconsin",6142.0,5447.0,695.0,133,10050,55
+5513311475,"Butler village, Waukesha County, Wisconsin",1847.0,1798.0,49.0,133,11475,55
+5513319425,"Delafield town, Waukesha County, Wisconsin",8375.0,7932.0,443.0,133,19425,55
+5513358400,"North Prairie village, Waukesha County, Wisconsin",2325.0,2318.0,7.0,133,58400,55
+5513353000,"Milwaukee city, Waukesha County, Wisconsin",0.0,0.0,0.0,133,53000,55
+5513359250,"Oconomowoc city, Waukesha County, Wisconsin",16450.0,15910.0,540.0,133,59250,55
+5513321425,"Eagle village, Waukesha County, Wisconsin",1930.0,1910.0,20.0,133,21425,55
+5513378750,"Sussex village, Waukesha County, Wisconsin",10763.0,10386.0,377.0,133,78750,55
+5513384250,"Waukesha city, Waukesha County, Wisconsin",72173.0,66934.0,5239.0,133,84250,55
+5513314225,"Chenequa village, Waukesha County, Wisconsin",562.0,537.0,25.0,133,14225,55
+5513319400,"Delafield city, Waukesha County, Wisconsin",7298.0,7066.0,232.0,133,19400,55
+5513328487,"Genesee town, Waukesha County, Wisconsin",7336.0,7248.0,88.0,133,28487,55
+5513355050,"Mukwonago village, Waukesha County, Wisconsin",7604.0,7446.0,158.0,133,55050,55
+5513320550,"Dousman village, Waukesha County, Wisconsin",2452.0,2392.0,60.0,133,20550,55
+5513333100,"Hartland village, Waukesha County, Wisconsin",9218.0,8997.0,221.0,133,33100,55
+5513344850,"Lisbon town, Waukesha County, Wisconsin",10423.0,10251.0,172.0,133,44850,55
+5513355275,"Muskego city, Waukesha County, Wisconsin",24731.0,24134.0,597.0,133,55275,55
+5513359275,"Oconomowoc town, Waukesha County, Wisconsin",8632.0,8433.0,199.0,133,59275,55
+5513362240,"Pewaukee city, Waukesha County, Wisconsin",14112.0,13463.0,649.0,133,62240,55
+5513321450,"Eagle town, Waukesha County, Wisconsin",3500.0,3433.0,67.0,133,21450,55
+5513323575,"Elm Grove village, Waukesha County, Wisconsin",6127.0,5784.0,343.0,133,23575,55
+5513351000,"Menomonee Falls village, Waukesha County, Wisconsin",36411.0,34175.0,2236.0,133,51000,55
+5513362250,"Pewaukee village, Waukesha County, Wisconsin",8214.0,7847.0,367.0,133,62250,55
+5513382575,"Vernon town, Waukesha County, Wisconsin",7667.0,7554.0,113.0,133,82575,55
+5510576325,"Spring Valley town, Rock County, Wisconsin",752.0,734.0,18.0,105,76325,55
+5510581050,"Turtle town, Rock County, Wisconsin",2575.0,2346.0,229.0,105,81050,55
+5510515625,"Clinton village, Rock County, Wisconsin",2243.0,2175.0,68.0,105,15625,55
+5510556325,"Newark town, Rock County, Wisconsin",1503.0,1482.0,21.0,105,56325,55
+5510564225,"Porter town, Rock County, Wisconsin",1032.0,1019.0,13.0,105,64225,55
+551056500,"Beloit city, Rock County, Wisconsin",36733.0,33542.0,3191.0,105,6500,55
+5510563675,"Plymouth town, Rock County, Wisconsin",1388.0,1375.0,13.0,105,63675,55
+5510581650,"Union town, Rock County, Wisconsin",2262.0,2219.0,43.0,105,81650,55
+5510515650,"Clinton town, Rock County, Wisconsin",827.0,807.0,20.0,105,15650,55
+5510537850,"Janesville town, Rock County, Wisconsin",3496.0,3441.0,55.0,105,37850,55
+5510513625,"Center town, Rock County, Wisconsin",1028.0,1015.0,13.0,105,13625,55
+551054100,"Avon town, Rock County, Wisconsin",538.0,536.0,2.0,105,4100,55
+5510522575,"Edgerton city, Rock County, Wisconsin",5449.0,5350.0,99.0,105,22575,55
+5510526400,"Footville village, Rock County, Wisconsin",775.0,773.0,2.0,105,26400,55
+5510532700,"Harmony town, Rock County, Wisconsin",2562.0,2515.0,47.0,105,32700,55
+5510538450,"Johnstown town, Rock County, Wisconsin",811.0,808.0,3.0,105,38450,55
+5510568600,"Rock town, Rock County, Wisconsin",3199.0,2958.0,241.0,105,68600,55
+551059175,"Bradford town, Rock County, Wisconsin",1197.0,1057.0,140.0,105,9175,55
+5511926425,"Ford town, Taylor County, Wisconsin",261.0,258.0,3.0,119,26425,55
+5511910400,"Browning town, Taylor County, Wisconsin",845.0,814.0,31.0,119,10400,55
+551193900,"Aurora town, Taylor County, Wisconsin",531.0,519.0,12.0,119,3900,55
+5511944900,"Little Black town, Taylor County, Wisconsin",1180.0,1095.0,85.0,119,44900,55
+5511953550,"Molitor town, Taylor County, Wisconsin",344.0,337.0,7.0,119,53550,55
+5511969400,"Roosevelt town, Taylor County, Wisconsin",438.0,437.0,1.0,119,69400,55
+5511985450,"Westboro town, Taylor County, Wisconsin",620.0,620.0,0.0,119,85450,55
+5511935525,"Holway town, Taylor County, Wisconsin",909.0,897.0,12.0,119,35525,55
+5511946925,"McKinley town, Taylor County, Wisconsin",384.0,383.0,1.0,119,46925,55
+5511914200,"Chelsea town, Taylor County, Wisconsin",764.0,761.0,3.0,119,14200,55
+5511915450,"Cleveland town, Taylor County, Wisconsin",232.0,230.0,2.0,119,15450,55
+5511962100,"Pershing town, Taylor County, Wisconsin",196.0,196.0,0.0,119,62100,55
+5511977100,"Stetsonville village, Taylor County, Wisconsin",616.0,613.0,3.0,119,77100,55
+5511929837,"Goodrich town, Taylor County, Wisconsin",489.0,489.0,0.0,119,29837,55
+5511978950,"Taft town, Taylor County, Wisconsin",439.0,432.0,7.0,119,78950,55
+5511946150,"Lublin village, Taylor County, Wisconsin",100.0,100.0,0.0,119,46150,55
+5511948925,"Maplehurst town, Taylor County, Wisconsin",356.0,354.0,2.0,119,48925,55
+5511967275,"Rib Lake village, Taylor County, Wisconsin",1001.0,984.0,17.0,119,67275,55
+5511919225,"Deer Creek town, Taylor County, Wisconsin",674.0,671.0,3.0,119,19225,55
+5511929175,"Gilman village, Taylor County, Wisconsin",357.0,354.0,3.0,119,29175,55
+5511931750,"Grover town, Taylor County, Wisconsin",259.0,258.0,1.0,119,31750,55
+5503362125,"Peru town, Dunn County, Wisconsin",252.0,249.0,3.0,033,62125,55
+5503387375,"Wilson town, Dunn County, Wisconsin",445.0,437.0,8.0,033,87375,55
+5503346175,"Lucas town, Dunn County, Wisconsin",609.0,597.0,12.0,033,46175,55
+5503367800,"Ridgeland village, Dunn County, Wisconsin",279.0,273.0,6.0,033,67800,55
+5503376650,"Stanton town, Dunn County, Wisconsin",770.0,770.0,0.0,033,76650,55
+5503316300,"Colfax town, Dunn County, Wisconsin",949.0,894.0,55.0,033,16300,55
+5503373375,"Sherman town, Dunn County, Wisconsin",824.0,822.0,2.0,033,73375,55
+5503316275,"Colfax village, Dunn County, Wisconsin",1141.0,1132.0,9.0,033,16275,55
+550417950,"Blackwell town, Forest County, Wisconsin",210.0,204.0,6.0,041,7950,55
+5504127600,"Freedom town, Forest County, Wisconsin",350.0,349.0,1.0,041,27600,55
+5504183025,"Wabeno town, Forest County, Wisconsin",979.0,979.0,0.0,041,83025,55
+550412625,"Argonne town, Forest County, Wisconsin",601.0,585.0,16.0,041,2625,55
+5504113125,"Caswell town, Forest County, Wisconsin",65.0,65.0,0.0,041,13125,55
+550411625,"Alvin town, Forest County, Wisconsin",106.0,106.0,0.0,041,1625,55
+5504142500,"Laona town, Forest County, Wisconsin",997.0,970.0,27.0,041,42500,55
+550075350,"Bayfield city, Bayfield County, Wisconsin",458.0,441.0,17.0,007,5350,55
+5506517950,"Cuba City city, Lafayette County, Wisconsin",276.0,276.0,0.0,065,17950,55
+5506533500,"Hazel Green village, Lafayette County, Wisconsin",13.0,13.0,0.0,065,33500,55
+5506575275,"South Wayne village, Lafayette County, Wisconsin",406.0,406.0,0.0,065,75275,55
+550658125,"Blanchardville village, Lafayette County, Wisconsin",634.0,630.0,4.0,065,8125,55
+5506518900,"Darlington town, Lafayette County, Wisconsin",920.0,914.0,6.0,065,18900,55
+5506530600,"Gratiot town, Lafayette County, Wisconsin",516.0,509.0,7.0,065,30600,55
+5506573825,"Shullsburg city, Lafayette County, Wisconsin",1277.0,1253.0,24.0,065,73825,55
+5506539125,"Kendall town, Lafayette County, Wisconsin",457.0,451.0,6.0,065,39125,55
+5506542175,"Lamont town, Lafayette County, Wisconsin",337.0,337.0,0.0,065,42175,55
+5506554025,"Monticello town, Lafayette County, Wisconsin",139.0,139.0,0.0,065,54025,55
+5506573850,"Shullsburg town, Lafayette County, Wisconsin",306.0,305.0,1.0,065,73850,55
+5506587275,"Willow Springs town, Lafayette County, Wisconsin",953.0,912.0,41.0,065,87275,55
+5506530575,"Gratiot village, Lafayette County, Wisconsin",269.0,263.0,6.0,065,30575,55
+5506586800,"White Oak Springs town, Lafayette County, Wisconsin",104.0,104.0,0.0,065,86800,55
+5506523262,"Elk Grove town, Lafayette County, Wisconsin",513.0,510.0,3.0,065,23262,55
+550656825,"Benton village, Lafayette County, Wisconsin",894.0,878.0,16.0,065,6825,55
+550658100,"Blanchard town, Lafayette County, Wisconsin",227.0,225.0,2.0,065,8100,55
+5506525475,"Fayette town, Lafayette County, Wisconsin",334.0,334.0,0.0,065,25475,55
+550656850,"Benton town, Lafayette County, Wisconsin",534.0,530.0,4.0,065,6850,55
+550652675,"Argyle town, Lafayette County, Wisconsin",414.0,407.0,7.0,065,2675,55
+550652650,"Argyle village, Lafayette County, Wisconsin",894.0,892.0,2.0,065,2650,55
+550656425,"Belmont village, Lafayette County, Wisconsin",1011.0,967.0,44.0,065,6425,55
+5506556625,"New Diggings town, Lafayette County, Wisconsin",470.0,466.0,4.0,065,56625,55
+5506518875,"Darlington city, Lafayette County, Wisconsin",2312.0,2199.0,113.0,065,18875,55
+5506584850,"Wayne town, Lafayette County, Wisconsin",464.0,460.0,4.0,065,84850,55
+5506588050,"Wiota town, Lafayette County, Wisconsin",827.0,823.0,4.0,065,88050,55
+5506572700,"Seymour town, Lafayette County, Wisconsin",410.0,345.0,65.0,065,72700,55
+550656450,"Belmont town, Lafayette County, Wisconsin",844.0,825.0,19.0,065,6450,55
+5508168900,"Rockland village, Monroe County, Wisconsin",0.0,0.0,0.0,081,68900,55
+5508180075,"Tomah city, Monroe County, Wisconsin",9347.0,9100.0,247.0,081,80075,55
+5508144450,"Lincoln town, Monroe County, Wisconsin",951.0,942.0,9.0,081,44450,55
+5508164425,"Portland town, Monroe County, Wisconsin",826.0,808.0,18.0,081,64425,55
+5507127125,"Francis Creek village, Manitowoc County, Wisconsin",541.0,541.0,0.0,071,27125,55
+5507127275,"Franklin town, Manitowoc County, Wisconsin",1170.0,1151.0,19.0,071,27275,55
+5507139525,"Kiel city, Manitowoc County, Wisconsin",3436.0,3395.0,41.0,071,39525,55
+5507171025,"St. Nazianz village, Manitowoc County, Wisconsin",846.0,824.0,22.0,071,71025,55
+5507181300,"Two Creeks town, Manitowoc County, Wisconsin",375.0,372.0,3.0,071,81300,55
+5507181350,"Two Rivers town, Manitowoc County, Wisconsin",1846.0,1799.0,47.0,071,81350,55
+5507182200,"Valders village, Manitowoc County, Wisconsin",969.0,945.0,24.0,071,82200,55
+5507150625,"Meeme town, Manitowoc County, Wisconsin",1465.0,1426.0,39.0,071,50625,55
+5507122275,"Eaton town, Manitowoc County, Wisconsin",785.0,765.0,20.0,071,22275,55
+551114625,"Baraboo city, Sauk County, Wisconsin",12080.0,11886.0,194.0,111,4625,55
+5511137250,"Ironton town, Sauk County, Wisconsin",520.0,478.0,42.0,111,37250,55
+5511178525,"Sumpter town, Sauk County, Wisconsin",1149.0,1046.0,103.0,111,78525,55
+5511180825,"Troy town, Sauk County, Wisconsin",747.0,697.0,50.0,111,80825,55
+551115600,"Bear Creek town, Sauk County, Wisconsin",543.0,525.0,18.0,111,5600,55
+5511113300,"Cazenovia village, Sauk County, Wisconsin",4.0,4.0,0.0,111,13300,55
+5511124675,"Excelsior town, Sauk County, Wisconsin",1700.0,1682.0,18.0,111,24675,55
+5511127350,"Franklin town, Sauk County, Wisconsin",621.0,619.0,2.0,111,27350,55
+5511142850,"La Valle town, Sauk County, Wisconsin",1265.0,1222.0,43.0,111,42850,55
+5511144225,"Lime Ridge village, Sauk County, Wisconsin",160.0,160.0,0.0,111,44225,55
+5511145400,"Loganville village, Sauk County, Wisconsin",290.0,290.0,0.0,111,45400,55
+5511158025,"North Freedom village, Sauk County, Wisconsin",621.0,619.0,2.0,111,58025,55
+5509323775,"El Paso town, Pierce County, Wisconsin",608.0,595.0,13.0,093,23775,55
+5509365375,"Prescott city, Pierce County, Wisconsin",4234.0,4014.0,220.0,093,65375,55
+5509368275,"River Falls city, Pierce County, Wisconsin",11949.0,11702.0,247.0,093,68275,55
+5509323525,"Ellsworth village, Pierce County, Wisconsin",3253.0,3233.0,20.0,093,23525,55
+5509371150,"Salem town, Pierce County, Wisconsin",467.0,459.0,8.0,093,71150,55
+5509376100,"Spring Lake town, Pierce County, Wisconsin",694.0,689.0,5.0,093,76100,55
+5509363600,"Plum City village, Pierce County, Wisconsin",573.0,540.0,33.0,093,63600,55
+5509368300,"River Falls town, Pierce County, Wisconsin",2132.0,2108.0,24.0,093,68300,55
+5509368775,"Rock Elm town, Pierce County, Wisconsin",457.0,451.0,6.0,093,68775,55
+5509349775,"Martell town, Pierce County, Wisconsin",1033.0,1020.0,13.0,093,49775,55
+5509359025,"Oak Grove town, Pierce County, Wisconsin",2292.0,2270.0,22.0,093,59025,55
+5509381600,"Union town, Pierce County, Wisconsin",650.0,647.0,3.0,093,81600,55
+5509315575,"Clifton town, Pierce County, Wisconsin",2209.0,2194.0,15.0,093,15575,55
+5509348175,"Maiden Rock village, Pierce County, Wisconsin",81.0,81.0,0.0,093,48175,55
+5509376300,"Spring Valley village, Pierce County, Wisconsin",1577.0,1563.0,14.0,093,76300,55
+5514134250,"Hewitt village, Wood County, Wisconsin",896.0,890.0,6.0,141,34250,55
+5514151900,"Milladore town, Wood County, Wisconsin",773.0,773.0,0.0,141,51900,55
+5514167000,"Remington town, Wood County, Wisconsin",187.0,184.0,3.0,141,67000,55
+5514149675,"Marshfield city, Wood County, Wisconsin",17701.0,16983.0,718.0,141,49675,55
+5514188575,"Wood town, Wood County, Wisconsin",710.0,701.0,9.0,141,88575,55
+5514167500,"Richfield town, Wood County, Wisconsin",1623.0,1604.0,19.0,141,67500,55
+5514170000,"Rudolph village, Wood County, Wisconsin",459.0,450.0,9.0,141,70000,55
+5514182650,"Vesper village, Wood County, Wisconsin",607.0,607.0,0.0,141,82650,55
+551413050,"Arpin town, Wood County, Wisconsin",986.0,986.0,0.0,141,3050,55
+551413775,"Auburndale village, Wood County, Wisconsin",654.0,599.0,55.0,141,3775,55
+551417650,"Biron village, Wood County, Wisconsin",834.0,815.0,19.0,141,7650,55
+551413800,"Auburndale town, Wood County, Wisconsin",765.0,763.0,2.0,141,3800,55
+5514112775,"Cary town, Wood County, Wisconsin",470.0,468.0,2.0,141,12775,55
+5514151875,"Milladore village, Wood County, Wisconsin",289.0,280.0,9.0,141,51875,55
+5514149700,"Marshfield town, Wood County, Wisconsin",907.0,901.0,6.0,141,49700,55
+5514163100,"Pittsville city, Wood County, Wisconsin",846.0,834.0,12.0,141,63100,55
+5514168625,"Rock town, Wood County, Wisconsin",725.0,717.0,8.0,141,68625,55
+5514173475,"Sherry town, Wood County, Wisconsin",789.0,767.0,22.0,141,73475,55
+5514112275,"Cameron town, Wood County, Wisconsin",530.0,523.0,7.0,141,12275,55
+5514155875,"Nekoosa city, Wood County, Wisconsin",2603.0,2573.0,30.0,141,55875,55
+5514164175,"Port Edwards village, Wood County, Wisconsin",1639.0,1614.0,25.0,141,64175,55
+5514171600,"Saratoga town, Wood County, Wisconsin",5025.0,4985.0,40.0,141,71600,55
+5514172575,"Seneca town, Wood County, Wisconsin",1181.0,1140.0,41.0,141,72575,55
+5514134675,"Hiles town, Wood County, Wisconsin",186.0,186.0,0.0,141,34675,55
+5511729350,"Glenbeulah village, Sheboygan County, Wisconsin",415.0,408.0,7.0,117,29350,55
+5511767150,"Rhine town, Sheboygan County, Wisconsin",2039.0,2030.0,9.0,117,67150,55
+5511783100,"Waldo village, Sheboygan County, Wisconsin",569.0,564.0,5.0,117,83100,55
+5511731100,"Greenbush town, Sheboygan County, Wisconsin",2575.0,2562.0,13.0,117,31100,55
+5511740275,"Kohler village, Sheboygan County, Wisconsin",2236.0,2153.0,83.0,117,40275,55
+5511712825,"Cascade village, Sheboygan County, Wisconsin",664.0,642.0,22.0,117,12825,55
+55067225,"Ackley town, Langlade County, Wisconsin",491.0,491.0,0.0,067,225,55
+5506786750,"White Lake village, Langlade County, Wisconsin",275.0,275.0,0.0,067,86750,55
+5506778325,"Summit town, Langlade County, Wisconsin",191.0,191.0,0.0,067,78325,55
+5506781950,"Upham town, Langlade County, Wisconsin",739.0,730.0,9.0,067,81950,55
+5506756200,"Neva town, Langlade County, Wisconsin",930.0,916.0,14.0,067,56200,55
+5506761375,"Parrish town, Langlade County, Wisconsin",143.0,140.0,3.0,067,61375,55
+5506742425,"Langlade town, Langlade County, Wisconsin",424.0,420.0,4.0,067,42425,55
+5506769175,"Rolling town, Langlade County, Wisconsin",1598.0,1566.0,32.0,067,69175,55
+5506788450,"Wolf River town, Langlade County, Wisconsin",680.0,669.0,11.0,067,88450,55
+550672275,"Antigo town, Langlade County, Wisconsin",1352.0,1349.0,3.0,067,2275,55
+5506765550,"Price town, Langlade County, Wisconsin",261.0,247.0,14.0,067,65550,55
+5506782825,"Vilas town, Langlade County, Wisconsin",262.0,259.0,3.0,067,82825,55
+5506761525,"Peck town, Langlade County, Wisconsin",343.0,329.0,14.0,067,61525,55
+55067625,"Ainsworth town, Langlade County, Wisconsin",422.0,416.0,6.0,067,625,55
+550672250,"Antigo city, Langlade County, Wisconsin",7817.0,7579.0,238.0,067,2250,55
+5506723050,"Elcho town, Langlade County, Wisconsin",1032.0,1023.0,9.0,067,23050,55
+5506724575,"Evergreen town, Langlade County, Wisconsin",443.0,435.0,8.0,067,24575,55
+5506758700,"Norwood town, Langlade County, Wisconsin",862.0,845.0,17.0,067,58700,55
+5506763825,"Polar town, Langlade County, Wisconsin",925.0,922.0,3.0,067,63825,55
+5507850975,"Menominee town, Menominee County, Wisconsin",4506.0,4466.0,40.0,078,50975,55
+5508719200,"Deer Creek town, Outagamie County, Wisconsin",562.0,556.0,6.0,087,19200,55
+5508727650,"Freedom town, Outagamie County, Wisconsin",6078.0,6054.0,24.0,087,27650,55
+5508735850,"Hortonville village, Outagamie County, Wisconsin",2738.0,2647.0,91.0,087,35850,55
+5508772725,"Seymour city, Outagamie County, Wisconsin",3448.0,3446.0,2.0,087,72725,55
+5508716500,"Combined Locks village, Outagamie County, Wisconsin",3533.0,3532.0,1.0,087,16500,55
+5508718525,"Dale town, Outagamie County, Wisconsin",2822.0,2783.0,39.0,087,18525,55
+5508723425,"Ellington town, Outagamie County, Wisconsin",2926.0,2910.0,16.0,087,23425,55
+5508735950,"Howard village, Outagamie County, Wisconsin",0.0,0.0,0.0,087,35950,55
+5508748250,"Maine town, Outagamie County, Wisconsin",875.0,852.0,23.0,087,48250,55
+5508773625,"Shiocton village, Outagamie County, Wisconsin",796.0,781.0,15.0,087,73625,55
+550877750,"Black Creek town, Outagamie County, Wisconsin",1475.0,1461.0,14.0,087,7750,55
+5511165100,"Prairie du Sac village, Sauk County, Wisconsin",4248.0,4099.0,149.0,111,65100,55
+5511185625,"Westfield town, Sauk County, Wisconsin",623.0,621.0,2.0,111,85625,55
+5511187775,"Winfield town, Sauk County, Wisconsin",1003.0,1003.0,0.0,111,87775,55
+5511137225,"Ironton village, Sauk County, Wisconsin",249.0,249.0,0.0,111,37225,55
+5511119675,"Delton town, Sauk County, Wisconsin",2341.0,2218.0,123.0,111,19675,55
+5507387025,"Wien town, Marathon County, Wisconsin",937.0,934.0,3.0,073,87025,55
+5507333175,"Hatley village, Marathon County, Wisconsin",502.0,499.0,3.0,073,33175,55
+5507318950,"Day town, Marathon County, Wisconsin",954.0,921.0,33.0,073,18950,55
+5507322025,"Easton town, Marathon County, Wisconsin",1150.0,1140.0,10.0,073,22025,55
+5507324025,"Emmet town, Marathon County, Wisconsin",956.0,954.0,2.0,073,24025,55
+5507334225,"Hewitt town, Marathon County, Wisconsin",708.0,678.0,30.0,073,34225,55
+5507336325,"Hull town, Marathon County, Wisconsin",685.0,675.0,10.0,073,36325,55
+5508971725,"Saukville town, Ozaukee County, Wisconsin",1915.0,1877.0,38.0,089,71725,55
+5508979475,"Thiensville village, Ozaukee County, Wisconsin",3182.0,2937.0,245.0,089,79475,55
+5508930000,"Grafton village, Ozaukee County, Wisconsin",11576.0,11058.0,518.0,089,30000,55
+5508951150,"Mequon city, Ozaukee County, Wisconsin",23787.0,21734.0,2053.0,089,51150,55
+550890,"County subdivisions not defined, Ozaukee County, Wisconsin",0.0,0.0,0.0,089,0,55
+5508956450,"Newburg village, Ozaukee County, Wisconsin",60.0,60.0,0.0,089,56450,55
+5508964450,"Port Washington city, Ozaukee County, Wisconsin",11589.0,11403.0,186.0,089,64450,55
+5508964475,"Port Washington town, Ozaukee County, Wisconsin",1534.0,1528.0,6.0,089,64475,55
+5509786975,"Whiting village, Portage County, Wisconsin",1588.0,1518.0,70.0,097,86975,55
+5509762825,"Pine Grove town, Portage County, Wisconsin",876.0,809.0,67.0,097,62825,55
+5509769575,"Rosholt village, Portage County, Wisconsin",491.0,478.0,13.0,097,69575,55
+5509777537,"Stockton town, Portage County, Wisconsin",2958.0,2922.0,36.0,097,77537,55
+5501933900,"Hendren town, Clark County, Wisconsin",450.0,422.0,28.0,019,33900,55
+5501934200,"Hewett town, Clark County, Wisconsin",318.0,316.0,2.0,019,34200,55
+5501945700,"Longwood town, Clark County, Wisconsin",896.0,890.0,6.0,019,45700,55
+5501740900,"Lafayette town, Chippewa County, Wisconsin",5884.0,5825.0,59.0,017,40900,55
+5501779875,"Tilden town, Chippewa County, Wisconsin",1662.0,1633.0,29.0,017,79875,55
+5501788875,"Woodmohr town, Chippewa County, Wisconsin",1067.0,1062.0,5.0,017,88875,55
+550177525,"Birch Creek town, Chippewa County, Wisconsin",410.0,408.0,2.0,017,7525,55
+550173075,"Arthur town, Chippewa County, Wisconsin",747.0,738.0,9.0,017,3075,55
+550178225,"Bloomer city, Chippewa County, Wisconsin",3523.0,3510.0,13.0,017,8225,55
+5501729700,"Goetz town, Chippewa County, Wisconsin",730.0,715.0,15.0,017,29700,55
+5502578625,"Sun Prairie town, Dane County, Wisconsin",2426.0,2187.0,239.0,025,78625,55
+5502584350,"Waunakee village, Dane County, Wisconsin",13284.0,12869.0,415.0,025,84350,55
+550256300,"Belleville village, Dane County, Wisconsin",1806.0,1779.0,27.0,025,6300,55
+5502522575,"Edgerton city, Dane County, Wisconsin",47.0,47.0,0.0,025,22575,55
+5502525950,"Fitchburg city, Dane County, Wisconsin",27914.0,24023.0,3891.0,025,25950,55
+5502548025,"Madison town, Dane County, Wisconsin",6829.0,5434.0,1395.0,025,48025,55
+5502553675,"Monona city, Dane County, Wisconsin",7989.0,7679.0,310.0,025,53675,55
+5502570400,"Rutland town, Dane County, Wisconsin",1939.0,1875.0,64.0,025,70400,55
+5502573750,"Shorewood Hills village, Dane County, Wisconsin",2105.0,1891.0,214.0,025,73750,55
+550257800,"Black Earth village, Dane County, Wisconsin",1363.0,1350.0,13.0,025,7800,55
+5502514650,"Christiana town, Dane County, Wisconsin",1378.0,1354.0,24.0,025,14650,55
+5502517800,"Cross Plains town, Dane County, Wisconsin",1486.0,1473.0,13.0,025,17800,55
+5505512225,"Cambridge village, Jefferson County, Wisconsin",44.0,44.0,0.0,055,12225,55
+5505578475,"Sumner town, Jefferson County, Wisconsin",797.0,778.0,19.0,055,78475,55
+5505526675,"Fort Atkinson city, Jefferson County, Wisconsin",12429.0,11771.0,658.0,055,26675,55
+5505583925,"Waterloo city, Jefferson County, Wisconsin",3345.0,3052.0,293.0,055,83925,55
+5505960975,"Paddock Lake village, Kenosha County, Wisconsin",2984.0,2911.0,73.0,059,60975,55
+5505963300,"Pleasant Prairie village, Kenosha County, Wisconsin",20552.0,18935.0,1617.0,059,63300,55
+5505928675,"Genoa City village, Kenosha County, Wisconsin",0.0,0.0,0.0,059,28675,55
+5505961175,"Paris town, Kenosha County, Wisconsin",1767.0,1719.0,48.0,059,61175,55
+5505966125,"Randall town, Kenosha County, Wisconsin",3241.0,3150.0,91.0,059,66125,55
+5505971125,"Salem town, Kenosha County, Wisconsin",12242.0,12040.0,202.0,059,71125,55
+5505939225,"Kenosha city, Kenosha County, Wisconsin",99623.0,92184.0,7439.0,059,39225,55
+5505974650,"Somers town, Kenosha County, Wisconsin",833.0,815.0,18.0,059,74650,55
+5502983600,"Washington town, Door County, Wisconsin",838.0,823.0,15.0,029,83600,55
+5502910700,"Brussels town, Door County, Wisconsin",954.0,944.0,10.0,029,10700,55
+5502922875,"Egg Harbor town, Door County, Wisconsin",1449.0,1371.0,78.0,029,22875,55
+5502928950,"Gibraltar town, Door County, Wisconsin",1158.0,1096.0,62.0,029,28950,55
+5502977900,"Sturgeon Bay town, Door County, Wisconsin",843.0,829.0,14.0,029,77900,55
+5502924150,"Ephraim village, Door County, Wisconsin",286.0,281.0,5.0,029,24150,55
+5502926625,"Forestville village, Door County, Wisconsin",461.0,460.0,1.0,029,26625,55
+5502928300,"Gardner town, Door County, Wisconsin",1212.0,1196.0,16.0,029,28300,55
+5502981525,"Union town, Door County, Wisconsin",1009.0,998.0,11.0,029,81525,55
+5502937750,"Jacksonport town, Door County, Wisconsin",736.0,735.0,1.0,029,37750,55
+5502943925,"Liberty Grove town, Door County, Wisconsin",1805.0,1662.0,143.0,029,43925,55
+5502972600,"Sevastopol town, Door County, Wisconsin",2627.0,2588.0,39.0,029,72600,55
+5502955500,"Nasewaupee town, Door County, Wisconsin",1733.0,1718.0,15.0,029,55500,55
+5502974225,"Sister Bay village, Door County, Wisconsin",712.0,689.0,23.0,029,74225,55
+5502926650,"Forestville town, Door County, Wisconsin",1015.0,1011.0,4.0,029,26650,55
+5503118425,"Dairyland town, Douglas County, Wisconsin",189.0,183.0,6.0,031,18425,55
+5503174575,"Solon Springs village, Douglas County, Wisconsin",566.0,561.0,5.0,031,74575,55
+5503178675,"Superior town, Douglas County, Wisconsin",2140.0,2128.0,12.0,031,78675,55
+5503159100,"Oakland town, Douglas County, Wisconsin",1277.0,1267.0,10.0,031,59100,55
+5503174600,"Solon Springs town, Douglas County, Wisconsin",1050.0,1031.0,19.0,031,74600,55
+550311825,"Amnicon town, Douglas County, Wisconsin",1272.0,1267.0,5.0,031,1825,55
+5503183512,"Wascott town, Douglas County, Wisconsin",709.0,706.0,3.0,031,83512,55
+5503141800,"Lakeside town, Douglas County, Wisconsin",596.0,594.0,2.0,031,41800,55
+5503178275,"Summit town, Douglas County, Wisconsin",987.0,987.0,0.0,031,78275,55
+5503178650,"Superior city, Douglas County, Wisconsin",26473.0,25875.0,598.0,031,78650,55
+5513555025,"Mukwa town, Waupaca County, Wisconsin",2876.0,2850.0,26.0,135,55025,55
+5513571975,"Scandinavia village, Waupaca County, Wisconsin",374.0,365.0,9.0,135,71975,55
+5513581700,"Union town, Waupaca County, Wisconsin",751.0,721.0,30.0,135,81700,55
+5513570900,"St. Lawrence town, Waupaca County, Wisconsin",770.0,763.0,7.0,135,70900,55
+551357250,"Big Falls village, Waupaca County, Wisconsin",49.0,49.0,0.0,135,7250,55
+5513559475,"Ogdensburg village, Waupaca County, Wisconsin",213.0,211.0,2.0,135,59475,55
+5500520650,"Dovre town, Barron County, Wisconsin",727.0,724.0,3.0,005,20650,55
+5500556350,"New Auburn village, Barron County, Wisconsin",18.0,18.0,0.0,005,56350,55
+5500567350,"Rice Lake city, Barron County, Wisconsin",8302.0,8152.0,150.0,005,67350,55
+5500533225,"Haugen village, Barron County, Wisconsin",367.0,367.0,0.0,005,33225,55
+5500548825,"Maple Grove town, Barron County, Wisconsin",982.0,950.0,32.0,005,48825,55
+5500565150,"Prairie Farm village, Barron County, Wisconsin",479.0,458.0,21.0,005,65150,55
+5500565200,"Prairie Lake town, Barron County, Wisconsin",1453.0,1449.0,4.0,005,65200,55
+5500582375,"Vance Creek town, Barron County, Wisconsin",703.0,696.0,7.0,005,82375,55
+5500513500,"Cedar Lake town, Barron County, Wisconsin",988.0,988.0,0.0,005,13500,55
+5500518025,"Cumberland city, Barron County, Wisconsin",2270.0,2244.0,26.0,005,18025,55
+5500518050,"Cumberland town, Barron County, Wisconsin",771.0,768.0,3.0,005,18050,55
+5500520750,"Doyle town, Barron County, Wisconsin",450.0,450.0,0.0,005,20750,55
+5500548950,"Maple Plain town, Barron County, Wisconsin",661.0,661.0,0.0,005,48950,55
+550052775,"Arland town, Barron County, Wisconsin",666.0,656.0,10.0,005,2775,55
+550054875,"Barron city, Barron County, Wisconsin",3346.0,3061.0,285.0,005,4875,55
+5500515600,"Clinton town, Barron County, Wisconsin",775.0,765.0,10.0,005,15600,55
+5500518575,"Dallas village, Barron County, Wisconsin",387.0,381.0,6.0,005,18575,55
+550051350,"Almena town, Barron County, Wisconsin",709.0,703.0,6.0,005,1350,55
+550051325,"Almena village, Barron County, Wisconsin",675.0,675.0,0.0,005,1325,55
+550054900,"Barron town, Barron County, Wisconsin",915.0,874.0,41.0,005,4900,55
+5500512250,"Cameron village, Barron County, Wisconsin",1962.0,1911.0,51.0,005,12250,55
+5500576550,"Stanfold town, Barron County, Wisconsin",618.0,615.0,3.0,005,76550,55
+5500514350,"Chetek town, Barron County, Wisconsin",1665.0,1641.0,24.0,005,14350,55
+5500576600,"Stanley town, Barron County, Wisconsin",2538.0,2493.0,45.0,005,76600,55
+5500517875,"Crystal Lake town, Barron County, Wisconsin",812.0,807.0,5.0,005,17875,55
+5500558950,"Oak Grove town, Barron County, Wisconsin",953.0,916.0,37.0,005,58950,55
+5500574125,"Sioux Creek town, Barron County, Wisconsin",717.0,710.0,7.0,005,74125,55
+5500578450,"Sumner town, Barron County, Wisconsin",735.0,722.0,13.0,005,78450,55
+5500581075,"Turtle Lake village, Barron County, Wisconsin",836.0,798.0,38.0,005,81075,55
+550055650,"Bear Lake town, Barron County, Wisconsin",702.0,692.0,10.0,005,5650,55
+5500518600,"Dallas town, Barron County, Wisconsin",558.0,509.0,49.0,005,18600,55
+5500541600,"Lakeland town, Barron County, Wisconsin",962.0,957.0,5.0,005,41600,55
+5500565175,"Prairie Farm town, Barron County, Wisconsin",661.0,661.0,0.0,005,65175,55
+5500936425,"Humboldt town, Brown County, Wisconsin",1346.0,1340.0,6.0,009,36425,55
+5500965675,"Pulaski village, Brown County, Wisconsin",3335.0,3315.0,20.0,009,65675,55
+5500989150,"Wrightstown village, Brown County, Wisconsin",3138.0,2988.0,150.0,009,89150,55
+5500942900,"Lawrence town, Brown County, Wisconsin",4900.0,4780.0,120.0,009,42900,55
+550091150,"Allouez village, Brown County, Wisconsin",13898.0,13389.0,509.0,009,1150,55
+5500935950,"Howard village, Brown County, Wisconsin",19121.0,18200.0,921.0,009,35950,55
+5500954300,"Morrison town, Brown County, Wisconsin",1633.0,1610.0,23.0,009,54300,55
+5500956575,"New Denmark town, Brown County, Wisconsin",1538.0,1496.0,42.0,009,56575,55
+5500972200,"Scott town, Brown County, Wisconsin",3688.0,3656.0,32.0,009,72200,55
+5500931000,"Green Bay city, Brown County, Wisconsin",104796.0,95252.0,9544.0,009,31000,55
+5500943090,"Ledgeview town, Brown County, Wisconsin",7614.0,7449.0,165.0,009,43090,55
+550093425,"Ashwaubenon village, Brown County, Wisconsin",17141.0,16373.0,768.0,009,3425,55
+5500931025,"Green Bay town, Brown County, Wisconsin",2049.0,2045.0,4.0,009,31025,55
+5500922225,"Eaton town, Brown County, Wisconsin",1553.0,1550.0,3.0,009,22225,55
+5500968875,"Rockland town, Brown County, Wisconsin",1904.0,1873.0,31.0,009,68875,55
+5507367950,"Rietbrock town, Marathon County, Wisconsin",977.0,937.0,40.0,073,67950,55
+5507323075,"Elderon village, Marathon County, Wisconsin",272.0,137.0,135.0,073,23075,55
+5507332150,"Halsey town, Marathon County, Wisconsin",724.0,708.0,16.0,073,32150,55
+5507346975,"McMillan town, Marathon County, Wisconsin",2020.0,1941.0,79.0,073,46975,55
+5507349100,"Marathon City village, Marathon County, Wisconsin",1362.0,1333.0,29.0,073,49100,55
+5507375400,"Spencer village, Marathon County, Wisconsin",1724.0,1713.0,11.0,073,75400,55
+5503969525,"Rosendale village, Fond du Lac County, Wisconsin",913.0,910.0,3.0,039,69525,55
+5503922475,"Eden village, Fond du Lac County, Wisconsin",730.0,720.0,10.0,039,22475,55
+5503925075,"Fairwater village, Fond du Lac County, Wisconsin",354.0,344.0,10.0,039,25075,55
+5503927975,"Friendship town, Fond du Lac County, Wisconsin",2625.0,2534.0,91.0,039,27975,55
+5503951450,"Metomen town, Fond du Lac County, Wisconsin",804.0,802.0,2.0,039,51450,55
+5503958900,"Oakfield village, Fond du Lac County, Wisconsin",1039.0,998.0,41.0,039,58900,55
+5503958925,"Oakfield town, Fond du Lac County, Wisconsin",797.0,790.0,7.0,039,58925,55
+550393150,"Ashford town, Fond du Lac County, Wisconsin",1693.0,1651.0,42.0,039,3150,55
+55053900,"Albion town, Jackson County, Wisconsin",1124.0,1121.0,3.0,053,900,55
+550531275,"Alma town, Jackson County, Wisconsin",983.0,893.0,90.0,053,1275,55
+5505357775,"North Bend town, Jackson County, Wisconsin",431.0,431.0,0.0,053,57775,55
+550539900,"Brockway town, Jackson County, Wisconsin",2856.0,2839.0,17.0,053,9900,55
+5505327225,"Franklin town, Jackson County, Wisconsin",410.0,409.0,1.0,053,27225,55
+5505318075,"Curran town, Jackson County, Wisconsin",302.0,301.0,1.0,053,18075,55
+5505335100,"Hixton town, Jackson County, Wisconsin",613.0,600.0,13.0,053,35100,55
+5505350775,"Melrose town, Jackson County, Wisconsin",436.0,426.0,10.0,053,50775,55
+5505348425,"Manchester town, Jackson County, Wisconsin",787.0,765.0,22.0,053,48425,55
+550531300,"Alma Center village, Jackson County, Wisconsin",513.0,495.0,18.0,053,1300,55
+550535550,"Bear Bluff town, Jackson County, Wisconsin",127.0,127.0,0.0,053,5550,55
+55053350,"Adams town, Jackson County, Wisconsin",1355.0,1330.0,25.0,053,350,55
+5505328250,"Garden Valley town, Jackson County, Wisconsin",354.0,354.0,0.0,053,28250,55
+5505335075,"Hixton village, Jackson County, Wisconsin",467.0,460.0,7.0,053,35075,55
+5505314800,"City Point town, Jackson County, Wisconsin",175.0,172.0,3.0,053,14800,55
+5505340000,"Knapp town, Jackson County, Wisconsin",259.0,259.0,0.0,053,40000,55
+5505340325,"Komensky town, Jackson County, Wisconsin",554.0,543.0,11.0,053,40325,55
+5505350750,"Melrose village, Jackson County, Wisconsin",566.0,555.0,11.0,053,50750,55
+5505352050,"Millston town, Jackson County, Wisconsin",125.0,125.0,0.0,053,52050,55
+5505357975,"Northfield town, Jackson County, Wisconsin",661.0,651.0,10.0,053,57975,55
+5505351300,"Merrillan village, Jackson County, Wisconsin",671.0,652.0,19.0,053,51300,55
+5505315375,"Cleveland town, Jackson County, Wisconsin",545.0,540.0,5.0,053,15375,55
+5505328325,"Garfield town, Jackson County, Wisconsin",767.0,767.0,0.0,053,28325,55
+5505337275,"Irving town, Jackson County, Wisconsin",821.0,817.0,4.0,053,37275,55
+550537900,"Black River Falls city, Jackson County, Wisconsin",3537.0,3504.0,33.0,053,7900,55
+5505375900,"Springfield town, Jackson County, Wisconsin",638.0,636.0,2.0,053,75900,55
+5505379150,"Taylor village, Jackson County, Wisconsin",454.0,450.0,4.0,053,79150,55
+5504935400,"Hollandale village, Iowa County, Wisconsin",283.0,281.0,2.0,049,35400,55
+5504944625,"Linden village, Iowa County, Wisconsin",487.0,487.0,0.0,049,44625,55
+5504945325,"Livingston village, Iowa County, Wisconsin",25.0,25.0,0.0,049,45325,55
+5504746875,"Mackford town, Green Lake County, Wisconsin",486.0,469.0,17.0,047,46875,55
+5504772525,"Seneca town, Green Lake County, Wisconsin",397.0,397.0,0.0,047,72525,55
+5509913175,"Catawba village, Price County, Wisconsin",122.0,119.0,3.0,099,13175,55
+5509923200,"Elk town, Price County, Wisconsin",918.0,910.0,8.0,099,23200,55
+5509925775,"Fifield town, Price County, Wisconsin",871.0,782.0,89.0,099,25775,55
+5509922950,"Eisenstein town, Price County, Wisconsin",586.0,563.0,23.0,099,22950,55
+5509931925,"Hackett town, Price County, Wisconsin",148.0,148.0,0.0,099,31925,55
+5509939175,"Kennan village, Price County, Wisconsin",109.0,109.0,0.0,099,39175,55
+5509961200,"Park Falls city, Price County, Wisconsin",2294.0,2234.0,60.0,099,61200,55
+5509965350,"Prentice town, Price County, Wisconsin",360.0,357.0,3.0,099,65350,55
+5509926050,"Flambeau town, Price County, Wisconsin",477.0,466.0,11.0,099,26050,55
+5509934725,"Hill town, Price County, Wisconsin",338.0,337.0,1.0,099,34725,55
+5509939200,"Kennan town, Price County, Wisconsin",295.0,280.0,15.0,099,39200,55
+5509941150,"Lake town, Price County, Wisconsin",1133.0,1131.0,2.0,099,41150,55
+5509965325,"Prentice village, Price County, Wisconsin",619.0,613.0,6.0,099,65325,55
+5509959525,"Ogema town, Price County, Wisconsin",808.0,801.0,7.0,099,59525,55
+5509932675,"Harmony town, Price County, Wisconsin",225.0,222.0,3.0,099,32675,55
+5509962450,"Phillips city, Price County, Wisconsin",1482.0,1466.0,16.0,099,62450,55
+5509928750,"Georgetown town, Price County, Wisconsin",172.0,172.0,0.0,099,28750,55
+5509913200,"Catawba town, Price County, Wisconsin",213.0,213.0,0.0,099,13200,55
+5509923975,"Emery town, Price County, Wisconsin",343.0,341.0,2.0,099,23975,55
+5509940175,"Knox town, Price County, Wisconsin",326.0,326.0,0.0,099,40175,55
+5509975525,"Spirit town, Price County, Wisconsin",233.0,230.0,3.0,099,75525,55
+5509989100,"Worcester town, Price County, Wisconsin",1494.0,1483.0,11.0,099,89100,55
+5507711050,"Buffalo town, Marquette County, Wisconsin",1102.0,1080.0,22.0,077,11050,55
+5507773600,"Shields town, Marquette County, Wisconsin",539.0,537.0,2.0,077,73600,55
+5507785600,"Westfield town, Marquette County, Wisconsin",778.0,756.0,22.0,077,85600,55
+5507756150,"Neshkoro town, Marquette County, Wisconsin",570.0,548.0,22.0,077,56150,55
+5507756125,"Neshkoro village, Marquette County, Wisconsin",384.0,384.0,0.0,077,56125,55
+5507757225,"Newton town, Marquette County, Wisconsin",606.0,586.0,20.0,077,57225,55
+5507760962,"Packwaukee town, Marquette County, Wisconsin",1201.0,1176.0,25.0,077,60962,55
+5507724075,"Endeavor village, Marquette County, Wisconsin",557.0,556.0,1.0,077,24075,55
+5507732775,"Harris town, Marquette County, Wisconsin",858.0,855.0,3.0,077,32775,55
+5507754600,"Moundville town, Marquette County, Wisconsin",508.0,475.0,33.0,077,54600,55
+5507717900,"Crystal Lake town, Marquette County, Wisconsin",444.0,435.0,9.0,077,17900,55
+5507750350,"Mecan town, Marquette County, Wisconsin",629.0,614.0,15.0,077,50350,55
+5507720525,"Douglas town, Marquette County, Wisconsin",740.0,725.0,15.0,077,20525,55
+5507760900,"Oxford town, Marquette County, Wisconsin",901.0,884.0,17.0,077,60900,55
+5507377150,"Stettin town, Marathon County, Wisconsin",2521.0,2460.0,61.0,073,77150,55
+550736875,"Bergen town, Marathon County, Wisconsin",698.0,683.0,15.0,073,6875,55
+550737125,"Bevent town, Marathon County, Wisconsin",1090.0,1058.0,32.0,073,7125,55
+5507327150,"Frankfort town, Marathon County, Wisconsin",591.0,591.0,0.0,073,27150,55
+5507327450,"Franzen town, Marathon County, Wisconsin",500.0,482.0,18.0,073,27450,55
+5507332900,"Harrison town, Marathon County, Wisconsin",361.0,357.0,4.0,073,32900,55
+5507375425,"Spencer town, Marathon County, Wisconsin",1783.0,1747.0,36.0,073,75425,55
+550739975,"Brokaw village, Marathon County, Wisconsin",241.0,239.0,2.0,073,9975,55
+5507316150,"Colby city, Marathon County, Wisconsin",650.0,547.0,103.0,073,16150,55
+5507320450,"Dorchester village, Marathon County, Wisconsin",0.0,0.0,0.0,073,20450,55
+5507354500,"Mosinee city, Marathon County, Wisconsin",4011.0,3931.0,80.0,073,54500,55
+5507357600,"Norrie town, Marathon County, Wisconsin",982.0,970.0,12.0,073,57600,55
+5507372150,"Schofield city, Marathon County, Wisconsin",2185.0,2108.0,77.0,073,72150,55
+5507377750,"Stratford village, Marathon County, Wisconsin",1679.0,1628.0,51.0,073,77750,55
+5507367250,"Rib Falls town, Marathon County, Wisconsin",1044.0,1042.0,2.0,073,67250,55
+550737000,"Bern town, Marathon County, Wisconsin",832.0,832.0,0.0,073,7000,55
+5507349075,"Marathon town, Marathon County, Wisconsin",1056.0,1040.0,16.0,073,49075,55
+5508513025,"Cassian town, Oneida County, Wisconsin",944.0,937.0,7.0,085,13025,55
+5508553662,"Monico town, Oneida County, Wisconsin",254.0,251.0,3.0,085,53662,55
+5508517625,"Crescent town, Oneida County, Wisconsin",2132.0,2106.0,26.0,085,17625,55
+5508545150,"Little Rice town, Oneida County, Wisconsin",394.0,392.0,2.0,085,45150,55
+5508561625,"Pelican town, Oneida County, Wisconsin",2728.0,2660.0,68.0,085,61625,55
+5508572125,"Schoepke town, Oneida County, Wisconsin",382.0,377.0,5.0,085,72125,55
+5508579700,"Three Lakes town, Oneida County, Wisconsin",1892.0,1866.0,26.0,085,79700,55
+5508556425,"Newbold town, Oneida County, Wisconsin",2699.0,2666.0,33.0,085,56425,55
+5508576975,"Stella town, Oneida County, Wisconsin",640.0,640.0,0.0,085,76975,55
+5508562600,"Piehl town, Oneida County, Wisconsin",86.0,85.0,1.0,085,62600,55
+5508562925,"Pine Lake town, Oneida County, Wisconsin",2711.0,2671.0,40.0,085,62925,55
+5508524125,"Enterprise town, Oneida County, Wisconsin",253.0,251.0,2.0,085,24125,55
+5508567200,"Rhinelander city, Oneida County, Wisconsin",7501.0,7413.0,88.0,085,67200,55
+5508578075,"Sugar Camp town, Oneida County, Wisconsin",1726.0,1710.0,16.0,085,78075,55
+5508588625,"Woodboro town, Oneida County, Wisconsin",948.0,936.0,12.0,085,88625,55
+5508588950,"Woodruff town, Oneida County, Wisconsin",1746.0,1723.0,23.0,085,88950,55
+5508541887,"Lake Tomahawk town, Oneida County, Wisconsin",1066.0,1061.0,5.0,085,41887,55
+5508533575,"Hazelhurst town, Oneida County, Wisconsin",1269.0,1242.0,27.0,085,33575,55
+5508546650,"Lynne town, Oneida County, Wisconsin",156.0,156.0,0.0,085,46650,55
+5508553225,"Minocqua town, Oneida County, Wisconsin",4403.0,4278.0,125.0,085,53225,55
+5508557450,"Nokomis town, Oneida County, Wisconsin",1422.0,1406.0,16.0,085,57450,55
+5509710925,"Buena Vista town, Portage County, Wisconsin",1127.0,1124.0,3.0,097,10925,55
+5509719975,"Dewey town, Portage County, Wisconsin",1079.0,1048.0,31.0,097,19975,55
+5509763525,"Plover village, Portage County, Wisconsin",12494.0,11772.0,722.0,097,63525,55
+550971400,"Almond village, Portage County, Wisconsin",477.0,432.0,45.0,097,1400,55
+550971750,"Amherst village, Portage County, Wisconsin",1090.0,1075.0,15.0,097,1750,55
+5509742225,"Lanark town, Portage County, Wisconsin",1612.0,1590.0,22.0,097,42225,55
+5509751875,"Milladore village, Portage County, Wisconsin",0.0,0.0,0.0,097,51875,55
+550971800,"Amherst Junction village, Portage County, Wisconsin",433.0,433.0,0.0,097,1800,55
+550971425,"Almond town, Portage County, Wisconsin",661.0,657.0,4.0,097,1425,55
+5509712725,"Carson town, Portage County, Wisconsin",1357.0,1332.0,25.0,097,12725,55
+5509722450,"Eau Pleine town, Portage County, Wisconsin",942.0,923.0,19.0,097,22450,55
+5509756000,"Nelsonville village, Portage County, Wisconsin",128.0,123.0,5.0,097,56000,55
+5509756850,"New Hope town, Portage County, Wisconsin",758.0,754.0,4.0,097,56850,55
+550976475,"Belmont town, Portage County, Wisconsin",510.0,505.0,5.0,097,6475,55
+5509736350,"Hull town, Portage County, Wisconsin",5414.0,5339.0,75.0,097,36350,55
+5509763550,"Plover town, Portage County, Wisconsin",1600.0,1554.0,46.0,097,63550,55
+5509738650,"Junction City village, Portage County, Wisconsin",431.0,417.0,14.0,097,38650,55
+5509777200,"Stevens Point city, Portage County, Wisconsin",26526.0,25492.0,1034.0,097,77200,55
+550790,"County subdivisions not defined, Milwaukee County, Wisconsin",0.0,0.0,0.0,079,0,55
+5507973725,"Shorewood village, Milwaukee County, Wisconsin",13367.0,11647.0,1720.0,079,73725,55
+550795450,"Bayside village, Milwaukee County, Wisconsin",4364.0,3850.0,514.0,079,5450,55
+5507927300,"Franklin city, Milwaukee County, Wisconsin",36295.0,33448.0,2847.0,079,27300,55
+5507970650,"St. Francis city, Milwaukee County, Wisconsin",9532.0,8949.0,583.0,079,70650,55
+5507985875,"West Milwaukee village, Milwaukee County, Wisconsin",4200.0,3656.0,544.0,079,85875,55
+5507986700,"Whitefish Bay village, Milwaukee County, Wisconsin",14099.0,12907.0,1192.0,079,86700,55
+5507910375,"Brown Deer village, Milwaukee County, Wisconsin",12076.0,11051.0,1025.0,079,10375,55
+5507927075,"Fox Point village, Milwaukee County, Wisconsin",6706.0,6166.0,540.0,079,27075,55
+5507932075,"Hales Corners village, Milwaukee County, Wisconsin",7704.0,7389.0,315.0,079,32075,55
+5507958800,"Oak Creek city, Milwaukee County, Wisconsin",35588.0,32510.0,3078.0,079,58800,55
+5507931125,"Greendale village, Milwaukee County, Wisconsin",14293.0,13355.0,938.0,079,31125,55
+5507931175,"Greenfield city, Milwaukee County, Wisconsin",37082.0,34156.0,2926.0,079,31175,55
+5510183850,"Waterford town, Racine County, Wisconsin",6424.0,6323.0,101.0,101,83850,55
+5510111200,"Burlington city, Racine County, Wisconsin",10644.0,10359.0,285.0,101,11200,55
+5510166000,"Racine city, Racine County, Wisconsin",77740.0,72122.0,5618.0,101,66000,55
+5510157700,"North Bay village, Racine County, Wisconsin",185.0,161.0,24.0,101,57700,55
+5510181775,"Union Grove village, Racine County, Wisconsin",4924.0,4816.0,108.0,101,81775,55
+5510123725,"Elmwood Park village, Racine County, Wisconsin",596.0,579.0,17.0,101,23725,55
+5510166375,"Raymond town, Racine County, Wisconsin",3910.0,3802.0,108.0,101,66375,55
+5510187700,"Wind Point village, Racine County, Wisconsin",1739.0,1576.0,163.0,101,87700,55
+5510120625,"Dover town, Racine County, Wisconsin",4103.0,4049.0,54.0,101,20625,55
+551010,"County subdivisions not defined, Racine County, Wisconsin",0.0,0.0,0.0,101,0,55
+5510168550,"Rochester village, Racine County, Wisconsin",3740.0,3721.0,19.0,101,68550,55
+5510177925,"Sturtevant village, Racine County, Wisconsin",6977.0,6718.0,259.0,101,77925,55
+5510111225,"Burlington town, Racine County, Wisconsin",6521.0,6399.0,122.0,101,11225,55
+5510158600,"Norway town, Racine County, Wisconsin",8067.0,7952.0,115.0,101,58600,55
+5510183825,"Waterford village, Racine County, Wisconsin",5392.0,5273.0,119.0,101,83825,55
+5510189575,"Yorkville town, Racine County, Wisconsin",3036.0,2994.0,42.0,101,89575,55
+551391025,"Algoma town, Winnebago County, Wisconsin",6912.0,6629.0,283.0,139,1025,55
+551392375,"Appleton city, Winnebago County, Wisconsin",1323.0,1203.0,120.0,139,2375,55
+5513987650,"Winchester town, Winnebago County, Wisconsin",1581.0,1570.0,11.0,139,87650,55
+5513982875,"Vinland town, Winnebago County, Wisconsin",1772.0,1766.0,6.0,139,82875,55
+5513915150,"Clayton town, Winnebago County, Wisconsin",4088.0,4020.0,68.0,139,15150,55
+5512120300,"Dodge town, Trempealeau County, Wisconsin",428.0,424.0,4.0,121,20300,55
+5512165500,"Preston town, Trempealeau County, Wisconsin",808.0,805.0,3.0,121,65500,55
+5512111975,"Caledonia town, Trempealeau County, Wisconsin",892.0,879.0,13.0,121,11975,55
+5512180475,"Trempealeau village, Trempealeau County, Wisconsin",1849.0,1837.0,12.0,121,80475,55
+5512181875,"Unity town, Trempealeau County, Wisconsin",529.0,521.0,8.0,121,81875,55
+5512114525,"Chimney Rock town, Trempealeau County, Wisconsin",240.0,238.0,2.0,121,14525,55
+5512124425,"Ettrick town, Trempealeau County, Wisconsin",1192.0,1185.0,7.0,121,24425,55
+5512128150,"Gale town, Trempealeau County, Wisconsin",1557.0,1545.0,12.0,121,28150,55
+551218075,"Blair city, Trempealeau County, Wisconsin",1339.0,1305.0,34.0,121,8075,55
+5512162675,"Pigeon Falls village, Trempealeau County, Wisconsin",416.0,416.0,0.0,121,62675,55
+5512186725,"Whitehall city, Trempealeau County, Wisconsin",1710.0,1683.0,27.0,121,86725,55
+5512124400,"Ettrick village, Trempealeau County, Wisconsin",626.0,614.0,12.0,121,24400,55
+5512180500,"Trempealeau town, Trempealeau County, Wisconsin",1704.0,1671.0,33.0,121,80500,55
+5512128200,"Galesville city, Trempealeau County, Wisconsin",1688.0,1669.0,19.0,121,28200,55
+5512144500,"Lincoln town, Trempealeau County, Wisconsin",744.0,722.0,22.0,121,44500,55
+551212525,"Arcadia town, Trempealeau County, Wisconsin",1773.0,1734.0,39.0,121,2525,55
+5512123175,"Eleva village, Trempealeau County, Wisconsin",825.0,814.0,11.0,121,23175,55
+5512132050,"Hale town, Trempealeau County, Wisconsin",1011.0,974.0,37.0,121,32050,55
+5512178500,"Sumner town, Trempealeau County, Wisconsin",818.0,804.0,14.0,121,78500,55
+5512177825,"Strum village, Trempealeau County, Wisconsin",1030.0,997.0,33.0,121,77825,55
+5512162650,"Pigeon town, Trempealeau County, Wisconsin",955.0,955.0,0.0,121,62650,55
+5512111325,"Burnside town, Trempealeau County, Wisconsin",482.0,448.0,34.0,121,11325,55
+5512160575,"Osseo city, Trempealeau County, Wisconsin",1583.0,1564.0,19.0,121,60575,55
+5512136800,"Independence city, Trempealeau County, Wisconsin",1673.0,1442.0,231.0,121,36800,55
+5512912925,"Casey town, Washburn County, Wisconsin",384.0,383.0,1.0,129,12925,55
+5512928025,"Frog Creek town, Washburn County, Wisconsin",107.0,107.0,0.0,129,28025,55
+5512910150,"Brooklyn town, Washburn County, Wisconsin",242.0,238.0,4.0,129,10150,55
+5512914425,"Chicog town, Washburn County, Wisconsin",246.0,245.0,1.0,129,14425,55
+5512980450,"Trego town, Washburn County, Wisconsin",941.0,941.0,0.0,129,80450,55
+551295225,"Bass Lake town, Washburn County, Wisconsin",503.0,501.0,2.0,129,5225,55
+551297550,"Birchwood village, Washburn County, Wisconsin",348.0,348.0,0.0,129,7550,55
+5512973200,"Shell Lake city, Washburn County, Wisconsin",1330.0,1315.0,15.0,129,73200,55
+5512975650,"Spooner town, Washburn County, Wisconsin",823.0,812.0,11.0,129,75650,55
+5512947025,"Madge town, Washburn County, Wisconsin",528.0,523.0,5.0,129,47025,55
+5512953275,"Minong town, Washburn County, Wisconsin",809.0,796.0,13.0,129,53275,55
+551295125,"Bashaw town, Washburn County, Wisconsin",923.0,919.0,4.0,129,5125,55
+551294950,"Barronett town, Washburn County, Wisconsin",445.0,445.0,0.0,129,4950,55
+551297575,"Birchwood town, Washburn County, Wisconsin",457.0,454.0,3.0,129,7575,55
+5512975625,"Spooner city, Washburn County, Wisconsin",2593.0,2547.0,46.0,129,75625,55
+5509772850,"Sharon town, Portage County, Wisconsin",1967.0,1928.0,39.0,097,72850,55
+5509744800,"Linwood town, Portage County, Wisconsin",1078.0,1065.0,13.0,097,44800,55
+5509761325,"Park Ridge village, Portage County, Wisconsin",546.0,540.0,6.0,097,61325,55
+550971775,"Amherst town, Portage County, Wisconsin",1362.0,1349.0,13.0,097,1775,55
+5509730350,"Grant town, Portage County, Wisconsin",1984.0,1964.0,20.0,097,30350,55
+55097725,"Alban town, Portage County, Wisconsin",882.0,872.0,10.0,097,725,55
+5510326475,"Forest town, Richland County, Wisconsin",350.0,341.0,9.0,103,26475,55
+5510360350,"Orion town, Richland County, Wisconsin",611.0,596.0,15.0,103,60350,55
+5510387250,"Willow town, Richland County, Wisconsin",512.0,510.0,2.0,103,87250,55
+551038175,"Bloom town, Richland County, Wisconsin",631.0,624.0,7.0,103,8175,55
+55103675,"Akan town, Richland County, Wisconsin",377.0,376.0,1.0,103,675,55
+5510349600,"Marshall town, Richland County, Wisconsin",617.0,606.0,11.0,103,49600,55
+5510310950,"Buena Vista town, Richland County, Wisconsin",1808.0,1688.0,120.0,103,10950,55
+5510367625,"Richland Center city, Richland County, Wisconsin",5053.0,4905.0,148.0,103,67625,55
+5510333925,"Henrietta town, Richland County, Wisconsin",442.0,441.0,1.0,103,33925,55
+5510313300,"Cazenovia village, Richland County, Wisconsin",406.0,401.0,5.0,103,13300,55
+5510319000,"Dayton town, Richland County, Wisconsin",710.0,704.0,6.0,103,19000,55
+551038600,"Boaz village, Richland County, Wisconsin",118.0,118.0,0.0,103,8600,55
+5510321400,"Eagle town, Richland County, Wisconsin",461.0,454.0,7.0,103,21400,55
+5510337500,"Ithaca town, Richland County, Wisconsin",500.0,500.0,0.0,103,37500,55
+5510367775,"Richwood town, Richland County, Wisconsin",611.0,608.0,3.0,103,67775,55
+5510368675,"Rockbridge town, Richland County, Wisconsin",790.0,783.0,7.0,103,68675,55
+5510382900,"Viola village, Richland County, Wisconsin",388.0,383.0,5.0,103,82900,55
+5510389625,"Yuba village, Richland County, Wisconsin",59.0,56.0,3.0,103,89625,55
+5510345575,"Lone Rock village, Richland County, Wisconsin",817.0,804.0,13.0,103,45575,55
+5510367575,"Richland town, Richland County, Wisconsin",1327.0,1310.0,17.0,103,67575,55
+5510385675,"Westford town, Richland County, Wisconsin",582.0,565.0,17.0,103,85675,55
+5510378825,"Sylvan town, Richland County, Wisconsin",456.0,453.0,3.0,103,78825,55
+550412950,"Armstrong Creek town, Forest County, Wisconsin",443.0,434.0,9.0,041,2950,55
+5504155575,"Nashville town, Forest County, Wisconsin",1163.0,1158.0,5.0,041,55575,55
+5504117450,"Crandon town, Forest County, Wisconsin",523.0,523.0,0.0,041,17450,55
+5504144375,"Lincoln town, Forest County, Wisconsin",1059.0,1027.0,32.0,041,44375,55
+5504169625,"Ross town, Forest County, Wisconsin",196.0,196.0,0.0,041,69625,55
+5504134650,"Hiles town, Forest County, Wisconsin",346.0,340.0,6.0,041,34650,55
+5504164050,"Popple River town, Forest County, Wisconsin",30.0,30.0,0.0,041,64050,55
+55045775,"Albany town, Green County, Wisconsin",961.0,950.0,11.0,045,775,55
+5504117425,"Crandon city, Forest County, Wisconsin",1967.0,1954.0,13.0,041,17425,55
+55045325,"Adams town, Green County, Wisconsin",492.0,480.0,12.0,045,325,55
+5504537875,"Jefferson town, Green County, Wisconsin",1257.0,1249.0,8.0,045,37875,55
+5504515000,"Clarno town, Green County, Wisconsin",1293.0,1241.0,52.0,045,15000,55
+5504524725,"Exeter town, Green County, Wisconsin",2234.0,2204.0,30.0,045,24725,55
+5504556725,"New Glarus town, Green County, Wisconsin",1451.0,1408.0,43.0,045,56725,55
+55045750,"Albany village, Green County, Wisconsin",1207.0,1194.0,13.0,045,750,55
+5504553750,"Monroe city, Green County, Wisconsin",10688.0,10323.0,365.0,045,53750,55
+5504519075,"Decatur town, Green County, Wisconsin",1517.0,1486.0,31.0,045,19075,55
+5504576075,"Spring Grove town, Green County, Wisconsin",857.0,817.0,40.0,045,76075,55
+5504578875,"Sylvester town, Green County, Wisconsin",1023.0,988.0,35.0,045,78875,55
+5504583625,"Washington town, Green County, Wisconsin",781.0,775.0,6.0,045,83625,55
+5504589475,"York town, Green County, Wisconsin",1140.0,1114.0,26.0,045,89475,55
+5504511725,"Cadiz town, Green County, Wisconsin",807.0,803.0,4.0,045,11725,55
+5504556700,"New Glarus village, Green County, Wisconsin",2002.0,1928.0,74.0,045,56700,55
+5513355075,"Mukwonago town, Waukesha County, Wisconsin",8098.0,7972.0,126.0,133,55075,55
+5513356375,"New Berlin city, Waukesha County, Wisconsin",39779.0,37558.0,2221.0,133,56375,55
+5513359300,"Oconomowoc Lake village, Waukesha County, Wisconsin",586.0,575.0,11.0,133,59300,55
+5513360700,"Ottawa town, Waukesha County, Wisconsin",3893.0,3810.0,83.0,133,60700,55
+551337200,"Big Bend village, Waukesha County, Wisconsin",1251.0,1238.0,13.0,133,7200,55
+5513355550,"Nashotah village, Waukesha County, Wisconsin",1305.0,1251.0,54.0,133,55550,55
+5513342450,"Lannon village, Waukesha County, Wisconsin",1132.0,1121.0,11.0,133,42450,55
+5513384275,"Waukesha town, Waukesha County, Wisconsin",8756.0,8552.0,204.0,133,84275,55
+5513383175,"Wales village, Waukesha County, Wisconsin",2558.0,2501.0,57.0,133,83175,55
+5502735750,"Horicon city, Dodge County, Wisconsin",3608.0,3518.0,90.0,027,35750,55
+5502714300,"Chester town, Dodge County, Wisconsin",629.0,623.0,6.0,027,14300,55
+5502737150,"Iron Ridge village, Dodge County, Wisconsin",894.0,889.0,5.0,027,37150,55
+5502784425,"Waupun city, Dodge County, Wisconsin",7825.0,7636.0,189.0,027,84425,55
+550275900,"Beaver Dam city, Dodge County, Wisconsin",16346.0,15960.0,386.0,027,5900,55
+5502738675,"Juneau city, Dodge County, Wisconsin",2678.0,2656.0,22.0,027,38675,55
+5502745975,"Lowell town, Dodge County, Wisconsin",1068.0,1054.0,14.0,027,45975,55
+5502756075,"Neosho village, Dodge County, Wisconsin",686.0,670.0,16.0,027,56075,55
+5502783975,"Watertown city, Dodge County, Wisconsin",8285.0,8068.0,217.0,027,83975,55
+5502787225,"Williamstown town, Dodge County, Wisconsin",732.0,732.0,0.0,027,87225,55
+5502780525,"Trenton town, Dodge County, Wisconsin",1341.0,1310.0,31.0,027,80525,55
+5502785650,"Westford town, Dodge County, Wisconsin",1192.0,1169.0,23.0,027,85650,55
+550273200,"Ashippun town, Dodge County, Wisconsin",2534.0,2499.0,35.0,027,3200,55
+550275925,"Beaver Dam town, Dodge County, Wisconsin",3909.0,3828.0,81.0,027,5925,55
+5502736650,"Hustisford town, Dodge County, Wisconsin",1643.0,1619.0,24.0,027,36650,55
+5502743050,"Lebanon town, Dodge County, Wisconsin",1655.0,1634.0,21.0,027,43050,55
+5502759000,"Oak Grove town, Dodge County, Wisconsin",1046.0,1034.0,12.0,027,59000,55
+5502764375,"Portland town, Dodge County, Wisconsin",1027.0,1010.0,17.0,027,64375,55
+5502779375,"Theresa village, Dodge County, Wisconsin",1014.0,1011.0,3.0,027,79375,55
+5502711850,"Calamus town, Dodge County, Wisconsin",997.0,917.0,80.0,027,11850,55
+5502723000,"Elba town, Dodge County, Wisconsin",1151.0,1151.0,0.0,027,23000,55
+5502724000,"Emmet town, Dodge County, Wisconsin",1202.0,1182.0,20.0,027,24000,55
+5502734000,"Herman town, Dodge County, Wisconsin",1165.0,1160.0,5.0,027,34000,55
+5502769962,"Rubicon town, Dodge County, Wisconsin",1898.0,1878.0,20.0,027,69962,55
+5502711275,"Burnett town, Dodge County, Wisconsin",851.0,844.0,7.0,027,11275,55
+5502743650,"Leroy town, Dodge County, Wisconsin",942.0,938.0,4.0,027,43650,55
+5502745950,"Lowell village, Dodge County, Wisconsin",245.0,241.0,4.0,027,45950,55
+5502710450,"Brownsville village, Dodge County, Wisconsin",594.0,583.0,11.0,027,10450,55
+5502715925,"Clyman town, Dodge County, Wisconsin",793.0,779.0,14.0,027,15925,55
+5511932300,"Hammel town, Taylor County, Wisconsin",710.0,710.0,0.0,119,32300,55
+5511967300,"Rib Lake town, Taylor County, Wisconsin",757.0,705.0,52.0,119,67300,55
+5511950425,"Medford city, Taylor County, Wisconsin",4294.0,4287.0,7.0,119,50425,55
+5511938627,"Jump River town, Taylor County, Wisconsin",345.0,345.0,0.0,119,38627,55
+5511950450,"Medford town, Taylor County, Wisconsin",2560.0,2535.0,25.0,119,50450,55
+5511931600,"Greenwood town, Taylor County, Wisconsin",683.0,679.0,4.0,119,31600,55
+5513784625,"Wautoma city, Waushara County, Wisconsin",2010.0,1837.0,173.0,137,84625,55
+5513732450,"Hancock village, Waushara County, Wisconsin",372.0,344.0,28.0,137,32450,55
+5513763175,"Plainfield town, Waushara County, Wisconsin",504.0,495.0,9.0,137,63175,55
+5513767550,"Richford town, Waushara County, Wisconsin",810.0,803.0,7.0,137,67550,55
+5513749425,"Marion town, Waushara County, Wisconsin",1978.0,1955.0,23.0,137,49425,55
+5513754825,"Mount Morris town, Waushara County, Wisconsin",983.0,953.0,30.0,137,54825,55
+5513763150,"Plainfield village, Waushara County, Wisconsin",964.0,850.0,114.0,137,63150,55
+5513769425,"Rose town, Waushara County, Wisconsin",506.0,490.0,16.0,137,69425,55
+5513783425,"Warren town, Waushara County, Wisconsin",690.0,679.0,11.0,137,83425,55
+5513787075,"Wild Rose village, Waushara County, Wisconsin",823.0,810.0,13.0,137,87075,55
+5513743500,"Leon town, Waushara County, Wisconsin",1511.0,1503.0,8.0,137,43500,55
+5513766625,"Redgranite village, Waushara County, Wisconsin",2108.0,2046.0,62.0,137,66625,55
+551373925,"Aurora town, Waushara County, Wisconsin",950.0,940.0,10.0,137,3925,55
+551378300,"Bloomfield town, Waushara County, Wisconsin",1021.0,1014.0,7.0,137,8300,55
+5513716375,"Coloma village, Waushara County, Wisconsin",460.0,455.0,5.0,137,16375,55
+5513771825,"Saxeville town, Waushara County, Wisconsin",1057.0,1040.0,17.0,137,71825,55
+5513732475,"Hancock town, Waushara County, Wisconsin",592.0,562.0,30.0,137,32475,55
+551376925,"Berlin city, Waushara County, Wisconsin",99.0,99.0,0.0,137,6925,55
+5513716400,"Coloma town, Waushara County, Wisconsin",580.0,559.0,21.0,137,16400,55
+5513718475,"Dakota town, Waushara County, Wisconsin",1112.0,1096.0,16.0,137,18475,55
+5513776400,"Springwater town, Waushara County, Wisconsin",1370.0,1345.0,25.0,137,76400,55
+5513759225,"Oasis town, Waushara County, Wisconsin",410.0,402.0,8.0,137,59225,55
+5513719300,"Deerfield town, Waushara County, Wisconsin",642.0,640.0,2.0,137,19300,55
+5513745425,"Lohrville village, Waushara County, Wisconsin",325.0,321.0,4.0,137,45425,55
+5513784650,"Wautoma town, Waushara County, Wisconsin",1410.0,1373.0,37.0,137,84650,55
+5500153725,"Monroe town, Adams County, Wisconsin",413.0,409.0,4.0,001,53725,55
+5500119575,"Dell Prairie town, Adams County, Wisconsin",1574.0,1552.0,22.0,001,19575,55
+5500188150,"Wisconsin Dells city, Adams County, Wisconsin",52.0,52.0,0.0,001,88150,55
+55001275,"Adams city, Adams County, Wisconsin",1936.0,1854.0,82.0,001,275,55
+550017300,"Big Flats town, Adams County, Wisconsin",888.0,878.0,10.0,001,7300,55
+5500137625,"Jackson town, Adams County, Wisconsin",1167.0,1158.0,9.0,001,37625,55
+550459925,"Brodhead city, Green County, Wisconsin",3186.0,3123.0,63.0,045,9925,55
+5504510100,"Brooklyn town, Green County, Wisconsin",1173.0,1160.0,13.0,045,10100,55
+5504510075,"Brooklyn village, Green County, Wisconsin",461.0,449.0,12.0,045,10075,55
+5504553775,"Monroe town, Green County, Wisconsin",1220.0,1195.0,25.0,045,53775,55
+5504554000,"Monticello village, Green County, Wisconsin",1154.0,1105.0,49.0,045,54000,55
+5504554850,"Mount Pleasant town, Green County, Wisconsin",602.0,586.0,16.0,045,54850,55
+5504538550,"Jordan town, Green County, Wisconsin",544.0,540.0,4.0,045,38550,55
+5504510475,"Browntown village, Green County, Wisconsin",311.0,308.0,3.0,045,10475,55
+550456300,"Belleville village, Green County, Wisconsin",508.0,501.0,7.0,045,6300,55
+5504361425,"Patch Grove village, Grant County, Wisconsin",133.0,133.0,0.0,043,61425,55
+5504354700,"Mount Hope town, Grant County, Wisconsin",297.0,297.0,0.0,043,54700,55
+5504354775,"Mount Ida town, Grant County, Wisconsin",507.0,507.0,0.0,043,54775,55
+5504355200,"Muscoda village, Grant County, Wisconsin",1325.0,1300.0,25.0,043,55200,55
+5504361150,"Paris town, Grant County, Wisconsin",686.0,679.0,7.0,043,61150,55
+5504363250,"Platteville city, Grant County, Wisconsin",12194.0,11909.0,285.0,043,63250,55
+5504313100,"Castle Rock town, Grant County, Wisconsin",257.0,257.0,0.0,043,13100,55
+5504320175,"Dickeyville village, Grant County, Wisconsin",1205.0,1195.0,10.0,043,20175,55
+550434250,"Bagley village, Grant County, Wisconsin",382.0,375.0,7.0,043,4250,55
+550436100,"Beetown town, Grant County, Wisconsin",665.0,645.0,20.0,043,6100,55
+550438400,"Bloomington town, Grant County, Wisconsin",449.0,429.0,20.0,043,8400,55
+5504332825,"Harrison town, Grant County, Wisconsin",484.0,479.0,5.0,043,32825,55
+5504333500,"Hazel Green village, Grant County, Wisconsin",1052.0,1052.0,0.0,043,33500,55
+5504358125,"North Lancaster town, Grant County, Wisconsin",462.0,450.0,12.0,043,58125,55
+5504364625,"Potosi village, Grant County, Wisconsin",691.0,691.0,0.0,043,64625,55
+5504375075,"South Lancaster town, Grant County, Wisconsin",786.0,774.0,12.0,043,75075,55
+5504383900,"Waterloo town, Grant County, Wisconsin",593.0,562.0,31.0,043,83900,55
+5504315500,"Clifton town, Grant County, Wisconsin",570.0,570.0,0.0,043,15500,55
+5504325600,"Fennimore city, Grant County, Wisconsin",2587.0,2552.0,35.0,043,25600,55
+5504325625,"Fennimore town, Grant County, Wisconsin",634.0,634.0,0.0,043,25625,55
+5504337800,"Jamestown town, Grant County, Wisconsin",1886.0,1863.0,23.0,043,37800,55
+5504355225,"Muscoda town, Grant County, Wisconsin",682.0,669.0,13.0,043,55225,55
+5504361450,"Patch Grove town, Grant County, Wisconsin",354.0,319.0,35.0,043,61450,55
+5504363275,"Platteville town, Grant County, Wisconsin",1765.0,1678.0,87.0,043,63275,55
+5504364650,"Potosi town, Grant County, Wisconsin",693.0,690.0,3.0,043,64650,55
+5504389250,"Wyalusing town, Grant County, Wisconsin",311.0,308.0,3.0,043,89250,55
+5504317950,"Cuba City city, Grant County, Wisconsin",1801.0,1797.0,4.0,043,17950,55
+5504333525,"Hazel Green town, Grant County, Wisconsin",1296.0,1263.0,33.0,043,33525,55
+5504343825,"Liberty town, Grant County, Wisconsin",498.0,486.0,12.0,043,43825,55
+5504345025,"Little Grant town, Grant County, Wisconsin",294.0,291.0,3.0,043,45025,55
+5502716450,"Columbus city, Dodge County, Wisconsin",0.0,0.0,0.0,027,16450,55
+5502733000,"Hartford city, Dodge County, Wisconsin",0.0,0.0,0.0,027,33000,55
+5502736625,"Hustisford village, Dodge County, Wisconsin",945.0,941.0,4.0,027,36625,55
+5502738900,"Kekoskee village, Dodge County, Wisconsin",180.0,178.0,2.0,027,38900,55
+5502766900,"Reeseville village, Dodge County, Wisconsin",697.0,667.0,30.0,027,66900,55
+5502745475,"Lomira village, Dodge County, Wisconsin",2421.0,2268.0,153.0,027,45475,55
+5502766150,"Randolph village, Dodge County, Wisconsin",1428.0,1356.0,72.0,027,66150,55
+5502715900,"Clyman village, Dodge County, Wisconsin",428.0,420.0,8.0,027,15900,55
+5502727025,"Fox Lake town, Dodge County, Wisconsin",2718.0,2659.0,59.0,027,27025,55
+5502745500,"Lomira town, Dodge County, Wisconsin",1019.0,994.0,25.0,027,45500,55
+5501963000,"Pine Valley town, Clark County, Wisconsin",1400.0,1358.0,42.0,019,63000,55
+5501989425,"York town, Clark County, Wisconsin",795.0,791.0,4.0,019,89425,55
+5501946075,"Loyal city, Clark County, Wisconsin",1327.0,1316.0,11.0,019,46075,55
+5501960825,"Owen city, Clark County, Wisconsin",879.0,832.0,47.0,019,60825,55
+5501979625,"Thorp city, Clark County, Wisconsin",1596.0,1593.0,3.0,019,79625,55
+5501979650,"Thorp town, Clark County, Wisconsin",911.0,911.0,0.0,019,79650,55
+5501946625,"Lynn town, Clark County, Wisconsin",777.0,767.0,10.0,019,46625,55
+5501981825,"Unity town, Clark County, Wisconsin",769.0,758.0,11.0,019,81825,55
+5501983350,"Warner town, Clark County, Wisconsin",727.0,727.0,0.0,019,83350,55
+5501935050,"Hixon town, Clark County, Wisconsin",900.0,889.0,11.0,019,35050,55
+5501935125,"Hoard town, Clark County, Wisconsin",845.0,839.0,6.0,019,35125,55
+5501918125,"Curtiss village, Clark County, Wisconsin",274.0,172.0,102.0,019,18125,55
+5501931575,"Greenwood city, Clark County, Wisconsin",1009.0,1009.0,0.0,019,31575,55
+5501950175,"Mayville town, Clark County, Wisconsin",908.0,886.0,22.0,019,50175,55
+5501983575,"Washburn town, Clark County, Wisconsin",254.0,252.0,2.0,019,83575,55
+5501988275,"Withee village, Clark County, Wisconsin",494.0,481.0,13.0,019,88275,55
+5501973550,"Sherwood town, Clark County, Wisconsin",239.0,237.0,2.0,019,73550,55
+5501988300,"Withee town, Clark County, Wisconsin",933.0,931.0,2.0,019,88300,55
+5501911425,"Butler town, Clark County, Wisconsin",120.0,118.0,2.0,019,11425,55
+5501916150,"Colby city, Clark County, Wisconsin",1350.0,1258.0,92.0,019,16150,55
+5501930425,"Granton village, Clark County, Wisconsin",367.0,367.0,0.0,019,30425,55
+5501926775,"Foster town, Clark County, Wisconsin",87.0,85.0,2.0,019,26775,55
+550195750,"Beaver town, Clark County, Wisconsin",743.0,743.0,0.0,019,5750,55
+5501920025,"Dewhurst town, Clark County, Wisconsin",297.0,296.0,1.0,019,20025,55
+5501950275,"Mead town, Clark County, Wisconsin",307.0,300.0,7.0,019,50275,55
+5501951125,"Mentor town, Clark County, Wisconsin",591.0,571.0,20.0,019,51125,55
+5501967025,"Reseburg town, Clark County, Wisconsin",774.0,770.0,4.0,019,67025,55
+5501981850,"Unity village, Clark County, Wisconsin",129.0,120.0,9.0,019,81850,55
+5501985925,"Weston town, Clark County, Wisconsin",657.0,642.0,15.0,019,85925,55
+5501943700,"Levis town, Clark County, Wisconsin",441.0,441.0,0.0,019,43700,55
+5501946100,"Loyal town, Clark County, Wisconsin",826.0,786.0,40.0,019,46100,55
+5501927775,"Fremont town, Clark County, Wisconsin",1321.0,1308.0,13.0,019,27775,55
+5501931275,"Green Grove town, Clark County, Wisconsin",699.0,699.0,0.0,019,31275,55
+5501930275,"Grant town, Clark County, Wisconsin",901.0,866.0,35.0,019,30275,55
+5501955800,"Neillsville city, Clark County, Wisconsin",2302.0,2278.0,24.0,019,55800,55
+5501973350,"Sherman town, Clark County, Wisconsin",1009.0,996.0,13.0,019,73350,55
+5501922250,"Eaton town, Clark County, Wisconsin",676.0,676.0,0.0,019,22250,55
+55019100,"Abbotsford city, Clark County, Wisconsin",1554.0,1339.0,215.0,019,100,55
+5501972450,"Seif town, Clark County, Wisconsin",206.0,206.0,0.0,019,72450,55
+5501989125,"Worden town, Clark County, Wisconsin",617.0,613.0,4.0,019,89125,55
+5501920450,"Dorchester village, Clark County, Wisconsin",999.0,938.0,61.0,019,20450,55
+5501916175,"Colby town, Clark County, Wisconsin",830.0,811.0,19.0,019,16175,55
+5510974700,"Somerset town, St. Croix County, Wisconsin",4146.0,3888.0,258.0,109,74700,55
+5510975950,"Springfield town, St. Croix County, Wisconsin",821.0,806.0,15.0,109,75950,55
+5510980800,"Troy town, St. Croix County, Wisconsin",5076.0,4887.0,189.0,109,80800,55
+551094425,"Baldwin town, St. Croix County, Wisconsin",919.0,908.0,11.0,109,4425,55
+5508345275,"Little Suamico town, Oconto County, Wisconsin",4815.0,4725.0,90.0,083,45275,55
+5508342075,"Lakewood town, Oconto County, Wisconsin",846.0,835.0,11.0,083,42075,55
+5508359350,"Oconto city, Oconto County, Wisconsin",4463.0,4401.0,62.0,083,59350,55
+5508329075,"Gillett town, Oconto County, Wisconsin",937.0,934.0,3.0,083,29075,55
+550830,"County subdivisions not defined, Oconto County, Wisconsin",0.0,0.0,0.0,083,0,55
+5508361900,"Pensaukee town, Oconto County, Wisconsin",1175.0,1175.0,0.0,083,61900,55
+5508354630,"Mountain town, Oconto County, Wisconsin",816.0,809.0,7.0,083,54630,55
+550839375,"Brazeau town, Oconto County, Wisconsin",1349.0,1303.0,46.0,083,9375,55
+5508345175,"Little River town, Oconto County, Wisconsin",1110.0,1077.0,33.0,083,45175,55
+5508343350,"Lena town, Oconto County, Wisconsin",709.0,686.0,23.0,083,43350,55
+550699225,"Bradley town, Lincoln County, Wisconsin",2385.0,2359.0,26.0,069,9225,55
+550590,"County subdivisions not defined, Kenosha County, Wisconsin",0.0,0.0,0.0,059,0,55
+5505974025,"Silver Lake village, Kenosha County, Wisconsin",2566.0,2494.0,72.0,059,74025,55
+5505981250,"Twin Lakes village, Kenosha County, Wisconsin",6040.0,5925.0,115.0,059,81250,55
+5505986500,"Wheatland town, Kenosha County, Wisconsin",3391.0,3347.0,44.0,059,86500,55
+550599635,"Brighton town, Kenosha County, Wisconsin",1372.0,1320.0,52.0,059,9635,55
+5502111900,"Caledonia town, Columbia County, Wisconsin",1577.0,1539.0,38.0,021,11900,55
+5502126725,"Fort Winnebago town, Columbia County, Wisconsin",786.0,779.0,7.0,021,26725,55
+5502126875,"Fountain Prairie town, Columbia County, Wisconsin",770.0,764.0,6.0,021,26875,55
+5502166175,"Randolph town, Columbia County, Wisconsin",607.0,603.0,4.0,021,66175,55
+5502168100,"Rio village, Columbia County, Wisconsin",1169.0,1165.0,4.0,021,68100,55
+5502125150,"Fall River village, Columbia County, Wisconsin",1672.0,1646.0,26.0,021,25150,55
+5502160925,"Pacific town, Columbia County, Wisconsin",2721.0,2684.0,37.0,021,60925,55
+550212800,"Arlington village, Columbia County, Wisconsin",842.0,827.0,15.0,021,2800,55
+5502119375,"Dekorra town, Columbia County, Wisconsin",2388.0,2361.0,27.0,021,19375,55
+5502143125,"Leeds town, Columbia County, Wisconsin",676.0,664.0,12.0,021,43125,55
+5502160687,"Otsego town, Columbia County, Wisconsin",692.0,686.0,6.0,021,60687,55
+5502117325,"Courtland town, Columbia County, Wisconsin",530.0,516.0,14.0,021,17325,55
+5502112200,"Cambria village, Columbia County, Wisconsin",808.0,771.0,37.0,021,12200,55
+5502120775,"Doylestown village, Columbia County, Wisconsin",256.0,256.0,0.0,021,20775,55
+5502128000,"Friesland village, Columbia County, Wisconsin",349.0,330.0,19.0,021,28000,55
+5502145350,"Lodi city, Columbia County, Wisconsin",3052.0,2927.0,125.0,021,45350,55
+5502145375,"Lodi town, Columbia County, Wisconsin",3286.0,3212.0,74.0,021,45375,55
+5502164900,"Poynette village, Columbia County, Wisconsin",2394.0,2376.0,18.0,021,64900,55
+5502172250,"Scott town, Columbia County, Wisconsin",1074.0,1047.0,27.0,021,72250,55
+5502132375,"Hampden town, Columbia County, Wisconsin",572.0,554.0,18.0,021,32375,55
+5502146050,"Lowville town, Columbia County, Wisconsin",959.0,946.0,13.0,021,46050,55
+5502157025,"Newport town, Columbia County, Wisconsin",548.0,508.0,40.0,021,57025,55
+5502116475,"Columbus town, Columbia County, Wisconsin",641.0,614.0,27.0,021,16475,55
+5502143775,"Lewiston town, Columbia County, Wisconsin",1281.0,1275.0,6.0,021,43775,55
+5502161100,"Pardeeville village, Columbia County, Wisconsin",2200.0,2200.0,0.0,021,61100,55
+5502149150,"Marcellon town, Columbia County, Wisconsin",1001.0,994.0,7.0,021,49150,55
+5502164100,"Portage city, Columbia County, Wisconsin",10321.0,9995.0,326.0,021,64100,55
+5502166150,"Randolph village, Columbia County, Wisconsin",427.0,416.0,11.0,021,66150,55
+5502176225,"Springvale town, Columbia County, Wisconsin",659.0,657.0,2.0,021,76225,55
+5502188150,"Wisconsin Dells city, Columbia County, Wisconsin",2492.0,2319.0,173.0,021,88150,55
+5502189300,"Wyocena village, Columbia County, Wisconsin",739.0,716.0,23.0,021,89300,55
+5502186100,"West Point town, Columbia County, Wisconsin",2002.0,1974.0,28.0,021,86100,55
+5502116450,"Columbus city, Columbia County, Wisconsin",5004.0,4923.0,81.0,021,16450,55
+550212825,"Arlington town, Columbia County, Wisconsin",758.0,738.0,20.0,021,2825,55
+5502189325,"Wyocena town, Columbia County, Wisconsin",1537.0,1531.0,6.0,021,89325,55
+5506112575,"Carlton town, Kewaunee County, Wisconsin",1022.0,1015.0,7.0,061,12575,55
+5506127250,"Franklin town, Kewaunee County, Wisconsin",1104.0,1088.0,16.0,061,27250,55
+5506112850,"Casco village, Kewaunee County, Wisconsin",517.0,500.0,17.0,061,12850,55
+5502521125,"Dunn town, Dane County, Wisconsin",5195.0,5118.0,77.0,025,21125,55
+5502548000,"Madison city, Dane County, Wisconsin",248856.0,219807.0,29049.0,025,48000,55
+5502550475,"Medina town, Dane County, Wisconsin",1263.0,1218.0,45.0,025,50475,55
+5502551600,"Middleton town, Dane County, Wisconsin",6172.0,5511.0,661.0,025,51600,55
+5502563375,"Pleasant Springs town, Dane County, Wisconsin",3340.0,3250.0,90.0,025,63375,55
+5502582525,"Vermont town, Dane County, Wisconsin",866.0,860.0,6.0,025,82525,55
+5503520800,"Drammen town, Eau Claire County, Wisconsin",745.0,734.0,11.0,035,20800,55
+5503560750,"Otter Creek town, Eau Claire County, Wisconsin",513.0,513.0,0.0,035,60750,55
+5503572675,"Seymour town, Eau Claire County, Wisconsin",3276.0,3225.0,51.0,035,72675,55
+5503546275,"Ludington town, Eau Claire County, Wisconsin",1092.0,1088.0,4.0,035,46275,55
+5503583612,"Washington town, Eau Claire County, Wisconsin",7379.0,7132.0,247.0,035,83612,55
+5503524850,"Fairchild town, Eau Claire County, Wisconsin",384.0,382.0,2.0,035,24850,55
+5503525125,"Fall Creek village, Eau Claire County, Wisconsin",1454.0,1430.0,24.0,035,25125,55
+5503544350,"Lincoln town, Eau Claire County, Wisconsin",1186.0,1178.0,8.0,035,44350,55
+5503581550,"Union town, Eau Claire County, Wisconsin",2736.0,2723.0,13.0,035,81550,55
+5503563400,"Pleasant Valley town, Eau Claire County, Wisconsin",3181.0,3112.0,69.0,035,63400,55
+550351550,"Altoona city, Eau Claire County, Wisconsin",7350.0,7012.0,338.0,035,1550,55
+5503587400,"Wilson town, Eau Claire County, Wisconsin",465.0,458.0,7.0,035,87400,55
+550353825,"Augusta city, Eau Claire County, Wisconsin",1590.0,1580.0,10.0,035,3825,55
+550359500,"Bridge Creek town, Eau Claire County, Wisconsin",1902.0,1894.0,8.0,035,9500,55
+5503522300,"Eau Claire city, Eau Claire County, Wisconsin",66049.0,63250.0,2799.0,035,22300,55
+5503524825,"Fairchild village, Eau Claire County, Wisconsin",556.0,549.0,7.0,035,24825,55
+5503515200,"Clear Creek town, Eau Claire County, Wisconsin",817.0,812.0,5.0,035,15200,55
+5503510625,"Brunswick town, Eau Claire County, Wisconsin",1713.0,1679.0,34.0,035,10625,55
+5507367325,"Rib Mountain town, Marathon County, Wisconsin",6864.0,6864.0,0.0,073,67325,55
+5507384475,"Wausau city, Marathon County, Wisconsin",38934.0,36026.0,2908.0,073,84475,55
+5507386050,"Weston town, Marathon County, Wisconsin",629.0,625.0,4.0,073,86050,55
+5507312975,"Cassel town, Marathon County, Wisconsin",1019.0,1005.0,14.0,073,12975,55
+550316775,"Bennett town, Douglas County, Wisconsin",525.0,523.0,2.0,031,6775,55
+5503115825,"Cloverland town, Douglas County, Wisconsin",196.0,190.0,6.0,031,15825,55
+5503159800,"Oliver village, Douglas County, Wisconsin",405.0,395.0,10.0,031,59800,55
+5503161250,"Parkland town, Douglas County, Wisconsin",1321.0,1309.0,12.0,031,61250,55
+5503148725,"Maple town, Douglas County, Wisconsin",743.0,737.0,6.0,031,48725,55
+550310,"County subdivisions not defined, Douglas County, Wisconsin",0.0,0.0,0.0,031,0,55
+5503141725,"Lake Nebagamon village, Douglas County, Wisconsin",1058.0,1051.0,7.0,031,41725,55
+5503129925,"Gordon town, Douglas County, Wisconsin",743.0,725.0,18.0,031,29925,55
+5503133350,"Hawthorne town, Douglas County, Wisconsin",1066.0,1058.0,8.0,031,33350,55
+5503163975,"Poplar village, Douglas County, Wisconsin",651.0,632.0,19.0,031,63975,55
+5503178660,"Superior village, Douglas County, Wisconsin",726.0,724.0,2.0,031,78660,55
+5503134425,"Highland town, Douglas County, Wisconsin",261.0,249.0,12.0,031,34425,55
+5503110575,"Brule town, Douglas County, Wisconsin",549.0,547.0,2.0,031,10575,55
+5503912075,"Calumet town, Fond du Lac County, Wisconsin",1668.0,1647.0,21.0,039,12075,55
+5503924050,"Empire town, Fond du Lac County, Wisconsin",2808.0,2767.0,41.0,039,24050,55
+5503926450,"Forest town, Fond du Lac County, Wisconsin",963.0,951.0,12.0,039,26450,55
+5503954650,"Mount Calvary village, Fond du Lac County, Wisconsin",534.0,534.0,0.0,039,54650,55
+5503958000,"North Fond du Lac village, Fond du Lac County, Wisconsin",5069.0,4793.0,276.0,039,58000,55
+5503942125,"Lamartine town, Fond du Lac County, Wisconsin",1827.0,1774.0,53.0,039,42125,55
+5503960425,"Osceola town, Fond du Lac County, Wisconsin",1818.0,1783.0,35.0,039,60425,55
+5503970500,"St. Cloud village, Fond du Lac County, Wisconsin",522.0,521.0,1.0,039,70500,55
+5503926275,"Fond du Lac city, Fond du Lac County, Wisconsin",42910.0,40544.0,2366.0,039,26275,55
+5503968175,"Ripon city, Fond du Lac County, Wisconsin",7738.0,7403.0,335.0,039,68175,55
+5503949650,"Marshfield town, Fond du Lac County, Wisconsin",1184.0,1173.0,11.0,039,49650,55
+5503968200,"Ripon town, Fond du Lac County, Wisconsin",1370.0,1348.0,22.0,039,68200,55
+5503969550,"Rosendale town, Fond du Lac County, Wisconsin",655.0,648.0,7.0,039,69550,55
+5503984450,"Waupun town, Fond du Lac County, Wisconsin",1382.0,1375.0,7.0,039,84450,55
+5503912325,"Campbellsport village, Fond du Lac County, Wisconsin",1846.0,1825.0,21.0,039,12325,55
+5503922500,"Eden town, Fond du Lac County, Wisconsin",1046.0,1039.0,7.0,039,22500,55
+5503979125,"Taycheedah town, Fond du Lac County, Wisconsin",4377.0,4294.0,83.0,039,79125,55
+550391525,"Alto town, Fond du Lac County, Wisconsin",1059.0,1042.0,17.0,039,1525,55
+5503976250,"Springvale town, Fond du Lac County, Wisconsin",641.0,639.0,2.0,039,76250,55
+550393750,"Auburn town, Fond du Lac County, Wisconsin",2409.0,2399.0,10.0,039,3750,55
+550399300,"Brandon village, Fond du Lac County, Wisconsin",902.0,859.0,43.0,039,9300,55
+5503923150,"Eldorado town, Fond du Lac County, Wisconsin",1571.0,1560.0,11.0,039,23150,55
+5503984425,"Waupun city, Fond du Lac County, Wisconsin",3452.0,3372.0,80.0,039,84425,55
+5503911600,"Byron town, Fond du Lac County, Wisconsin",1749.0,1720.0,29.0,039,11600,55
+5503926300,"Fond du Lac town, Fond du Lac County, Wisconsin",3627.0,3499.0,128.0,039,26300,55
+5500567375,"Rice Lake town, Barron County, Wisconsin",3073.0,3054.0,19.0,005,67375,55
+5500514325,"Chetek city, Barron County, Wisconsin",2243.0,2125.0,118.0,005,14325,55
+5500581100,"Turtle Lake town, Barron County, Wisconsin",679.0,676.0,3.0,005,81100,55
+5511317250,"Couderay town, Sawyer County, Wisconsin",461.0,457.0,4.0,113,17250,55
+5511333450,"Hayward city, Sawyer County, Wisconsin",2436.0,2399.0,37.0,113,33450,55
+5511336450,"Hunter town, Sawyer County, Wisconsin",738.0,731.0,7.0,113,36450,55
+5511351425,"Meteor town, Sawyer County, Wisconsin",137.0,137.0,0.0,113,51425,55
+5511387975,"Winter village, Sawyer County, Wisconsin",276.0,266.0,10.0,113,87975,55
+5511385100,"Weirgor town, Sawyer County, Wisconsin",280.0,278.0,2.0,113,85100,55
+5504953100,"Mineral Point city, Iowa County, Wisconsin",2575.0,2542.0,33.0,049,53100,55
+550492550,"Arena village, Iowa County, Wisconsin",884.0,876.0,8.0,049,2550,55
+550494775,"Barneveld village, Iowa County, Wisconsin",1311.0,1300.0,11.0,049,4775,55
+550499600,"Brigham town, Iowa County, Wisconsin",1003.0,982.0,21.0,049,9600,55
+5504915875,"Clyde town, Iowa County, Wisconsin",258.0,252.0,6.0,049,15875,55
+5504920375,"Dodgeville town, Iowa County, Wisconsin",1616.0,1582.0,34.0,049,20375,55
+5504934450,"Highland village, Iowa County, Wisconsin",954.0,936.0,18.0,049,34450,55
+5504944650,"Linden town, Iowa County, Wisconsin",783.0,776.0,7.0,049,44650,55
+5504951725,"Mifflin town, Iowa County, Wisconsin",632.0,613.0,19.0,049,51725,55
+5504967875,"Ridgeway village, Iowa County, Wisconsin",636.0,602.0,34.0,049,67875,55
+550494025,"Avoca village, Iowa County, Wisconsin",624.0,618.0,6.0,049,4025,55
+5504915975,"Cobb village, Iowa County, Wisconsin",457.0,457.0,0.0,049,15975,55
+5504920350,"Dodgeville city, Iowa County, Wisconsin",4761.0,4669.0,92.0,049,20350,55
+5504953950,"Montfort village, Iowa County, Wisconsin",109.0,109.0,0.0,049,53950,55
+5504954425,"Moscow town, Iowa County, Wisconsin",537.0,533.0,4.0,049,54425,55
+5504967100,"Rewey village, Iowa County, Wisconsin",295.0,294.0,1.0,049,67100,55
+550498125,"Blanchardville village, Iowa County, Wisconsin",183.0,181.0,2.0,049,8125,55
+5504983150,"Waldwick town, Iowa County, Wisconsin",454.0,452.0,2.0,049,83150,55
+5504989350,"Wyoming town, Iowa County, Wisconsin",234.0,225.0,9.0,049,89350,55
+5504934475,"Highland town, Iowa County, Wisconsin",717.0,714.0,3.0,049,34475,55
+5504955200,"Muscoda village, Iowa County, Wisconsin",87.0,84.0,3.0,049,55200,55
+550492575,"Arena town, Iowa County, Wisconsin",1480.0,1458.0,22.0,049,2575,55
+5504922525,"Eden town, Iowa County, Wisconsin",374.0,357.0,17.0,049,22525,55
+5504967900,"Ridgeway town, Iowa County, Wisconsin",588.0,577.0,11.0,049,67900,55
+5504965700,"Pulaski town, Iowa County, Wisconsin",353.0,353.0,0.0,049,65700,55
+5504953125,"Mineral Point town, Iowa County, Wisconsin",876.0,874.0,2.0,049,53125,55
+5509121225,"Durand city, Pepin County, Wisconsin",1788.0,1779.0,9.0,091,21225,55
+5509121250,"Durand town, Pepin County, Wisconsin",656.0,646.0,10.0,091,21250,55
+5509177500,"Stockholm town, Pepin County, Wisconsin",219.0,214.0,5.0,091,77500,55
+5509161950,"Pepin town, Pepin County, Wisconsin",651.0,646.0,5.0,091,61950,55
+5509127175,"Frankfort town, Pepin County, Wisconsin",342.0,338.0,4.0,091,27175,55
+5509144075,"Lima town, Pepin County, Wisconsin",738.0,709.0,29.0,091,44075,55
+5509161925,"Pepin village, Pepin County, Wisconsin",801.0,778.0,23.0,091,61925,55
+5509177475,"Stockholm village, Pepin County, Wisconsin",83.0,83.0,0.0,091,77475,55
+55091800,"Albany town, Pepin County, Wisconsin",766.0,760.0,6.0,091,800,55
+5509184100,"Waubeek town, Pepin County, Wisconsin",408.0,405.0,3.0,091,84100,55
+5509184025,"Waterville town, Pepin County, Wisconsin",830.0,817.0,13.0,091,84025,55
+550896175,"Belgium town, Ozaukee County, Wisconsin",1591.0,1448.0,143.0,089,6175,55
+5507775925,"Springfield town, Marquette County, Wisconsin",797.0,767.0,30.0,077,75925,55
+5507753900,"Montello town, Marquette County, Wisconsin",1193.0,1193.0,0.0,077,53900,55
+5507760875,"Oxford village, Marquette County, Wisconsin",530.0,529.0,1.0,077,60875,55
+5507785575,"Westfield village, Marquette County, Wisconsin",1349.0,1295.0,54.0,077,85575,55
+5507753875,"Montello city, Marquette County, Wisconsin",1478.0,1475.0,3.0,077,53875,55
+5507577000,"Stephenson town, Marinette County, Wisconsin",2979.0,2959.0,20.0,075,77000,55
+5507531725,"Grover town, Marinette County, Wisconsin",1623.0,1603.0,20.0,075,31725,55
+5507561775,"Pembine town, Marinette County, Wisconsin",821.0,808.0,13.0,075,61775,55
+5507564775,"Pound town, Marinette County, Wisconsin",1400.0,1338.0,62.0,075,64775,55
+5507516250,"Coleman village, Marinette County, Wisconsin",799.0,786.0,13.0,075,16250,55
+5507541075,"Lake town, Marinette County, Wisconsin",1028.0,1019.0,9.0,075,41075,55
+5507557325,"Niagara city, Marinette County, Wisconsin",1612.0,1595.0,17.0,075,57325,55
+5507573975,"Silver Cliff town, Marinette County, Wisconsin",537.0,535.0,2.0,075,73975,55
+5507583050,"Wagner town, Marinette County, Wisconsin",624.0,607.0,17.0,075,83050,55
+5507517725,"Crivitz village, Marinette County, Wisconsin",966.0,942.0,24.0,075,17725,55
+5507584525,"Wausaukee village, Marinette County, Wisconsin",526.0,519.0,7.0,075,84525,55
+550751675,"Amberg town, Marinette County, Wisconsin",669.0,666.0,3.0,075,1675,55
+5507551537,"Middle Inlet town, Marinette County, Wisconsin",915.0,908.0,7.0,075,51537,55
+5507557350,"Niagara town, Marinette County, Wisconsin",875.0,871.0,4.0,075,57350,55
+5507562175,"Peshtigo city, Marinette County, Wisconsin",3402.0,3341.0,61.0,075,62175,55
+550756000,"Beecher town, Marinette County, Wisconsin",766.0,756.0,10.0,075,6000,55
+5507521000,"Dunbar town, Marinette County, Wisconsin",830.0,808.0,22.0,075,21000,55
+5507584550,"Wausaukee town, Marinette County, Wisconsin",1128.0,1096.0,32.0,075,84550,55
+550753525,"Athelstane town, Marinette County, Wisconsin",582.0,582.0,0.0,075,3525,55
+550755800,"Beaver town, Marinette County, Wisconsin",1062.0,1056.0,6.0,075,5800,55
+5507529775,"Goodman town, Marinette County, Wisconsin",661.0,615.0,46.0,075,29775,55
+5507549300,"Marinette city, Marinette County, Wisconsin",10729.0,10593.0,136.0,075,49300,55
+5507564750,"Pound village, Marinette County, Wisconsin",466.0,430.0,36.0,075,64750,55
+5507564275,"Porterfield town, Marinette County, Wisconsin",1710.0,1698.0,12.0,075,64275,55
+5507562200,"Peshtigo town, Marinette County, Wisconsin",4002.0,3968.0,34.0,075,62200,55
+5507953000,"Milwaukee city, Milwaukee County, Wisconsin",599086.0,541033.0,58053.0,079,53000,55
+5507984675,"Wauwatosa city, Milwaukee County, Wisconsin",47687.0,45157.0,2530.0,079,84675,55
+5507975125,"South Milwaukee city, Milwaukee County, Wisconsin",21185.0,20038.0,1147.0,079,75125,55
+5507985300,"West Allis city, Milwaukee County, Wisconsin",60546.0,56664.0,3882.0,079,85300,55
+5507917975,"Cudahy city, Milwaukee County, Wisconsin",18350.0,17258.0,1092.0,079,17975,55
+5507929400,"Glendale city, Milwaukee County, Wisconsin",12868.0,11662.0,1206.0,079,29400,55
+5507968325,"River Hills village, Milwaukee County, Wisconsin",1558.0,1383.0,175.0,079,68325,55
+5510524550,"Evansville city, Rock County, Wisconsin",5222.0,5064.0,158.0,105,24550,55
+5510542575,"La Prairie town, Rock County, Wisconsin",797.0,767.0,30.0,105,42575,55
+5510552200,"Milton city, Rock County, Wisconsin",5566.0,5425.0,141.0,105,52200,55
+5510560250,"Orfordville village, Rock County, Wisconsin",1327.0,1297.0,30.0,105,60250,55
+5510528075,"Fulton town, Rock County, Wisconsin",3307.0,3287.0,20.0,105,28075,55
+551056525,"Beloit town, Rock County, Wisconsin",7653.0,7298.0,355.0,105,6525,55
+5510537825,"Janesville city, Rock County, Wisconsin",63957.0,61741.0,2216.0,105,37825,55
+5510544125,"Lima town, Rock County, Wisconsin",1139.0,1015.0,124.0,105,44125,55
+5510548150,"Magnolia town, Rock County, Wisconsin",737.0,734.0,3.0,105,48150,55
+5510552225,"Milton town, Rock County, Wisconsin",3035.0,2968.0,67.0,105,52225,55
+5513955850,"Nekimi town, Winnebago County, Wisconsin",1558.0,1525.0,33.0,139,55850,55
+5513970125,"Rushford town, Winnebago County, Wisconsin",1734.0,1615.0,119.0,139,70125,55
+5513955775,"Neenah town, Winnebago County, Wisconsin",3323.0,3323.0,0.0,139,55775,55
+5513956100,"Nepeuskun town, Winnebago County, Wisconsin",681.0,648.0,33.0,139,56100,55
+5513959875,"Omro city, Winnebago County, Wisconsin",3572.0,3317.0,255.0,139,59875,55
+5513959900,"Omro town, Winnebago County, Wisconsin",2371.0,2329.0,42.0,139,59900,55
+5513960525,"Oshkosh town, Winnebago County, Wisconsin",2659.0,2641.0,18.0,139,60525,55
+5513950825,"Menasha city, Winnebago County, Wisconsin",15452.0,14552.0,900.0,139,50825,55
+5513950850,"Menasha town, Winnebago County, Wisconsin",8010.0,7545.0,465.0,139,50850,55
+5513960500,"Oshkosh city, Winnebago County, Wisconsin",66649.0,64667.0,1982.0,139,60500,55
+5513982175,"Utica town, Winnebago County, Wisconsin",1303.0,1278.0,25.0,139,82175,55
+5513964875,"Poygan town, Winnebago County, Wisconsin",1399.0,1386.0,13.0,139,64875,55
+5513987925,"Winneconne town, Winnebago County, Wisconsin",2184.0,2147.0,37.0,139,87925,55
+5513987900,"Winneconne village, Winnebago County, Wisconsin",2561.0,2542.0,19.0,139,87900,55
+5513955750,"Neenah city, Winnebago County, Wisconsin",25821.0,24882.0,939.0,139,55750,55
+5513988475,"Wolf River town, Winnebago County, Wisconsin",1223.0,1205.0,18.0,139,88475,55
+5502750200,"Mayville city, Dodge County, Wisconsin",4945.0,4894.0,51.0,027,50200,55
+5502773575,"Shields town, Dodge County, Wisconsin",492.0,480.0,12.0,027,73575,55
+5502779425,"Theresa town, Dodge County, Wisconsin",1108.0,1105.0,3.0,027,79425,55
+5502727000,"Fox Lake city, Dodge County, Wisconsin",1724.0,1719.0,5.0,027,27000,55
+5502736100,"Hubbard town, Dodge County, Wisconsin",1778.0,1753.0,25.0,027,36100,55
+5512726350,"Fontana-on-Geneva Lake village, Walworth County, Wisconsin",1600.0,1549.0,51.0,127,26350,55
+5512787200,"Williams Bay village, Walworth County, Wisconsin",2596.0,2431.0,165.0,127,87200,55
+5512778100,"Sugar Creek town, Walworth County, Wisconsin",3956.0,3835.0,121.0,127,78100,55
+5512722125,"East Troy town, Walworth County, Wisconsin",4042.0,3975.0,67.0,127,22125,55
+5512740950,"Lafayette town, Walworth County, Wisconsin",1772.0,1724.0,48.0,127,40950,55
+5512772900,"Sharon town, Walworth County, Wisconsin",833.0,780.0,53.0,127,72900,55
+5512718825,"Darien village, Walworth County, Wisconsin",1722.0,1603.0,119.0,127,18825,55
+5512728550,"Geneva town, Walworth County, Wisconsin",5018.0,4648.0,370.0,127,28550,55
+5512744750,"Linn town, Walworth County, Wisconsin",2662.0,2411.0,251.0,127,44750,55
+5512783275,"Walworth town, Walworth County, Wisconsin",1791.0,1714.0,77.0,127,83275,55
+5512722100,"East Troy village, Walworth County, Wisconsin",4321.0,4243.0,78.0,127,22100,55
+5512746725,"Lyons town, Walworth County, Wisconsin",3715.0,3675.0,40.0,127,46725,55
+5512780875,"Troy town, Walworth County, Wisconsin",2205.0,2161.0,44.0,127,80875,55
+5512719450,"Delavan city, Walworth County, Wisconsin",8383.0,7040.0,1343.0,127,19450,55
+5512741450,"Lake Geneva city, Walworth County, Wisconsin",7766.0,7009.0,757.0,127,41450,55
+5512772875,"Sharon village, Walworth County, Wisconsin",1745.0,1585.0,160.0,127,72875,55
+5512783250,"Walworth village, Walworth County, Wisconsin",2828.0,2389.0,439.0,127,83250,55
+5512786950,"Whitewater town, Walworth County, Wisconsin",1460.0,1393.0,67.0,127,86950,55
+5512723300,"Elkhorn city, Walworth County, Wisconsin",9930.0,9283.0,647.0,127,23300,55
+551278275,"Bloomfield town, Walworth County, Wisconsin",1502.0,1393.0,109.0,127,8275,55
+5512711200,"Burlington city, Walworth County, Wisconsin",8.0,8.0,0.0,127,11200,55
+5512741050,"La Grange town, Walworth County, Wisconsin",2644.0,2577.0,67.0,127,41050,55
+5512767725,"Richmond town, Walworth County, Wisconsin",1859.0,1825.0,34.0,127,67725,55
+5512776175,"Spring Prairie town, Walworth County, Wisconsin",1910.0,1882.0,28.0,127,76175,55
+5500156525,"New Chester town, Adams County, Wisconsin",2031.0,1848.0,183.0,001,56525,55
+5500167425,"Richfield town, Adams County, Wisconsin",119.0,117.0,2.0,001,67425,55
+5500176350,"Springville town, Adams County, Wisconsin",1214.0,1199.0,15.0,001,76350,55
+5500144250,"Lincoln town, Adams County, Wisconsin",353.0,348.0,5.0,001,44250,55
+5500156750,"New Haven town, Adams County, Wisconsin",626.0,604.0,22.0,001,56750,55
+5500165450,"Preston town, Adams County, Wisconsin",1378.0,1358.0,20.0,001,65450,55
+55001300,"Adams town, Adams County, Wisconsin",1138.0,1130.0,8.0,001,300,55
+5500122000,"Easton town, Adams County, Wisconsin",1026.0,1003.0,23.0,001,22000,55
+5500169275,"Rome town, Adams County, Wisconsin",2667.0,2612.0,55.0,001,69275,55
+5500127950,"Friendship village, Adams County, Wisconsin",612.0,565.0,47.0,001,27950,55
+5500143425,"Leola town, Adams County, Wisconsin",307.0,302.0,5.0,001,43425,55
+5500165825,"Quincy town, Adams County, Wisconsin",1303.0,1256.0,47.0,001,65825,55
+5500177800,"Strongs Prairie town, Adams County, Wisconsin",1034.0,1010.0,24.0,001,77800,55
+5500116075,"Colburn town, Adams County, Wisconsin",273.0,271.0,2.0,001,16075,55
+5500760775,"Oulu town, Bayfield County, Wisconsin",573.0,569.0,4.0,007,60775,55
+5500783550,"Washburn town, Bayfield County, Wisconsin",528.0,526.0,2.0,007,83550,55
+550070,"County subdivisions not defined, Bayfield County, Wisconsin",0.0,0.0,0.0,007,0,55
+5500720887,"Drummond town, Bayfield County, Wisconsin",405.0,396.0,9.0,007,20887,55
+5500749925,"Mason town, Bayfield County, Wisconsin",248.0,243.0,5.0,007,49925,55
+5500755375,"Namakagon town, Bayfield County, Wisconsin",278.0,276.0,2.0,007,55375,55
+550075375,"Bayfield town, Bayfield County, Wisconsin",719.0,702.0,17.0,007,5375,55
+550076200,"Bell town, Bayfield County, Wisconsin",306.0,305.0,1.0,007,6200,55
+5500711675,"Cable town, Bayfield County, Wisconsin",761.0,745.0,16.0,007,11675,55
+5500730175,"Grandview town, Bayfield County, Wisconsin",484.0,482.0,2.0,007,30175,55
+5500737200,"Iron River town, Bayfield County, Wisconsin",1079.0,1065.0,14.0,007,37200,55
+5500762700,"Pilsen town, Bayfield County, Wisconsin",238.0,238.0,0.0,007,62700,55
+5500770300,"Russell town, Bayfield County, Wisconsin",1395.0,1368.0,27.0,007,70300,55
+5500722925,"Eileen town, Bayfield County, Wisconsin",735.0,730.0,5.0,007,22925,55
+5500736300,"Hughes town, Bayfield County, Wisconsin",502.0,496.0,6.0,007,36300,55
+5500744275,"Lincoln town, Bayfield County, Wisconsin",302.0,291.0,11.0,007,44275,55
+5500764512,"Port Wing town, Bayfield County, Wisconsin",382.0,365.0,17.0,007,64512,55
+5500783525,"Washburn city, Bayfield County, Wisconsin",2016.0,1964.0,52.0,007,83525,55
+5500715750,"Clover town, Bayfield County, Wisconsin",200.0,198.0,2.0,007,15750,55
+5500719662,"Delta town, Bayfield County, Wisconsin",246.0,245.0,1.0,007,19662,55
+5500739425,"Keystone town, Bayfield County, Wisconsin",312.0,312.0,0.0,007,39425,55
+5500749900,"Mason village, Bayfield County, Wisconsin",109.0,109.0,0.0,007,49900,55
+5500780750,"Tripp town, Bayfield County, Wisconsin",246.0,243.0,3.0,007,80750,55
+550074725,"Barksdale town, Bayfield County, Wisconsin",739.0,726.0,13.0,007,4725,55
+5500760275,"Orienta town, Bayfield County, Wisconsin",128.0,127.0,1.0,007,60275,55
+5504374450,"Smelser town, Grant County, Wisconsin",780.0,780.0,0.0,043,74450,55
+5504388850,"Woodman town, Grant County, Wisconsin",122.0,121.0,1.0,043,88850,55
+550438850,"Boscobel city, Grant County, Wisconsin",3161.0,3138.0,23.0,043,8850,55
+5504345325,"Livingston village, Grant County, Wisconsin",605.0,605.0,0.0,043,45325,55
+5504352150,"Millville town, Grant County, Wisconsin",146.0,146.0,0.0,043,52150,55
+5504384075,"Watterstown town, Grant County, Wisconsin",328.0,323.0,5.0,043,84075,55
+5504388825,"Woodman village, Grant County, Wisconsin",69.0,69.0,0.0,043,88825,55
+5504313075,"Cassville town, Grant County, Wisconsin",380.0,380.0,0.0,043,13075,55
+550438875,"Boscobel town, Grant County, Wisconsin",407.0,403.0,4.0,043,8875,55
+5504342250,"Lancaster city, Grant County, Wisconsin",3771.0,3727.0,44.0,043,42250,55
+5504353950,"Montfort village, Grant County, Wisconsin",774.0,771.0,3.0,043,53950,55
+5504354675,"Mount Hope village, Grant County, Wisconsin",195.0,195.0,0.0,043,54675,55
+5504387800,"Wingville town, Grant County, Wisconsin",385.0,381.0,4.0,043,87800,55
+550438375,"Bloomington village, Grant County, Wisconsin",741.0,736.0,5.0,043,8375,55
+550438525,"Blue River village, Grant County, Wisconsin",433.0,430.0,3.0,043,8525,55
+5504349350,"Marion town, Grant County, Wisconsin",622.0,603.0,19.0,043,49350,55
+5504379250,"Tennyson village, Grant County, Wisconsin",289.0,285.0,4.0,043,79250,55
+5504323400,"Ellenboro town, Grant County, Wisconsin",530.0,517.0,13.0,043,23400,55
+5504329525,"Glen Haven town, Grant County, Wisconsin",349.0,344.0,5.0,043,29525,55
+5504334300,"Hickory Grove town, Grant County, Wisconsin",564.0,562.0,2.0,043,34300,55
+5504313050,"Cassville village, Grant County, Wisconsin",944.0,940.0,4.0,043,13050,55
+5504344050,"Lima town, Grant County, Wisconsin",608.0,605.0,3.0,043,44050,55
+551077175,"Big Bend town, Rusk County, Wisconsin",447.0,432.0,15.0,107,7175,55
+5510787175,"Willard town, Rusk County, Wisconsin",423.0,421.0,2.0,107,87175,55
+5510733275,"Hawkins village, Rusk County, Wisconsin",359.0,357.0,2.0,107,33275,55
+5510777775,"Strickland town, Rusk County, Wisconsin",289.0,284.0,5.0,107,77775,55
+5510713550,"Cedar Rapids town, Rusk County, Wisconsin",24.0,24.0,0.0,107,13550,55
+5510716775,"Conrath village, Rusk County, Wisconsin",82.0,64.0,18.0,107,16775,55
+5510730375,"Grant town, Rusk County, Wisconsin",645.0,623.0,22.0,107,30375,55
+5510740850,"Ladysmith city, Rusk County, Wisconsin",3206.0,3141.0,65.0,107,40850,55
+5510749625,"Marshall town, Rusk County, Wisconsin",727.0,725.0,2.0,107,49625,55
+5510779575,"Thornapple town, Rusk County, Wisconsin",796.0,767.0,29.0,107,79575,55
+5510780950,"True town, Rusk County, Wisconsin",285.0,285.0,0.0,107,80950,55
+5510783675,"Washington town, Rusk County, Wisconsin",341.0,335.0,6.0,107,83675,55
+5510787450,"Wilson town, Rusk County, Wisconsin",93.0,93.0,0.0,107,87450,55
+5510736125,"Hubbard town, Rusk County, Wisconsin",215.0,215.0,0.0,107,36125,55
+5510729475,"Glen Flora village, Rusk County, Wisconsin",80.0,76.0,4.0,107,29475,55
+5510736925,"Ingram village, Rusk County, Wisconsin",84.0,84.0,0.0,107,36925,55
+5510755175,"Murry town, Rusk County, Wisconsin",232.0,232.0,0.0,107,55175,55
+5512786925,"Whitewater city, Walworth County, Wisconsin",11643.0,11098.0,545.0,127,86925,55
+5512728675,"Genoa City village, Walworth County, Wisconsin",3022.0,2904.0,118.0,127,28675,55
+5512755050,"Mukwonago village, Walworth County, Wisconsin",40.0,40.0,0.0,127,55050,55
+5512719475,"Delavan town, Walworth County, Wisconsin",5307.0,5023.0,284.0,127,19475,55
+5512718850,"Darien town, Walworth County, Wisconsin",1945.0,1698.0,247.0,127,18850,55
+5512516750,"Conover town, Vilas County, Wisconsin",1276.0,1245.0,31.0,125,16750,55
+5512542325,"Land O'Lakes town, Vilas County, Wisconsin",819.0,810.0,9.0,125,42325,55
+5512540687,"Lac du Flambeau town, Vilas County, Wisconsin",3434.0,3358.0,76.0,125,40687,55
+5512587600,"Winchester town, Vilas County, Wisconsin",348.0,347.0,1.0,125,87600,55
+5512548462,"Manitowish Waters town, Vilas County, Wisconsin",697.0,690.0,7.0,125,48462,55
+5512562425,"Phelps town, Vilas County, Wisconsin",1072.0,1043.0,29.0,125,62425,55
+5512565425,"Presque Isle town, Vilas County, Wisconsin",631.0,622.0,9.0,125,65425,55
+5512583750,"Washington town, Vilas County, Wisconsin",1576.0,1555.0,21.0,125,83750,55
+5512515850,"Cloverland town, Vilas County, Wisconsin",1081.0,1041.0,40.0,125,15850,55
+5512521625,"Eagle River city, Vilas County, Wisconsin",1569.0,1549.0,20.0,125,21625,55
+5508167850,"Ridgeville town, Monroe County, Wisconsin",519.0,517.0,2.0,081,67850,55
+5508180100,"Tomah town, Monroe County, Wisconsin",1522.0,1507.0,15.0,081,80100,55
+5510720000,"Dewey town, Rusk County, Wisconsin",522.0,522.0,0.0,107,20000,55
+5510767600,"Richland town, Rusk County, Wisconsin",235.0,235.0,0.0,107,67600,55
+5510774975,"South Fork town, Rusk County, Wisconsin",70.0,70.0,0.0,107,74975,55
+5510710500,"Bruce village, Rusk County, Wisconsin",784.0,777.0,7.0,107,10500,55
+5510733300,"Hawkins town, Rusk County, Wisconsin",127.0,127.0,0.0,107,33300,55
+5510777850,"Stubbs town, Rusk County, Wisconsin",434.0,422.0,12.0,107,77850,55
+5510786450,"Weyerhaeuser village, Rusk County, Wisconsin",252.0,252.0,0.0,107,86450,55
+551073600,"Atlanta town, Rusk County, Wisconsin",608.0,605.0,3.0,107,3600,55
+551077225,"Big Falls town, Rusk County, Wisconsin",117.0,117.0,0.0,107,7225,55
+5510780225,"Tony village, Rusk County, Wisconsin",113.0,113.0,0.0,107,80225,55
+5510770275,"Rusk town, Rusk County, Wisconsin",540.0,534.0,6.0,107,70275,55
+5510726100,"Flambeau town, Rusk County, Wisconsin",1068.0,1048.0,20.0,107,26100,55
+5510731775,"Grow town, Rusk County, Wisconsin",427.0,417.0,10.0,107,31775,55
+5510742950,"Lawrence town, Rusk County, Wisconsin",284.0,273.0,11.0,107,42950,55
+5510787125,"Wilkinson town, Rusk County, Wisconsin",44.0,44.0,0.0,107,87125,55
+5510773175,"Sheldon village, Rusk County, Wisconsin",258.0,247.0,11.0,107,73175,55
+5511530400,"Grant town, Shawano County, Wisconsin",959.0,955.0,4.0,115,30400,55
+5511531675,"Gresham village, Shawano County, Wisconsin",524.0,519.0,5.0,115,31675,55
+5511536700,"Hutchins town, Shawano County, Wisconsin",550.0,550.0,0.0,115,36700,55
+5511550000,"Mattoon village, Shawano County, Wisconsin",448.0,380.0,68.0,115,50000,55
+5511555675,"Navarino town, Shawano County, Wisconsin",440.0,437.0,3.0,115,55675,55
+5511565675,"Pulaski village, Shawano County, Wisconsin",204.0,204.0,0.0,115,65675,55
+5511588325,"Wittenberg village, Shawano County, Wisconsin",1036.0,977.0,59.0,115,88325,55
+551151375,"Almon town, Shawano County, Wisconsin",599.0,593.0,6.0,115,1375,55
+5511513325,"Cecil village, Shawano County, Wisconsin",553.0,547.0,6.0,115,13325,55
+551158725,"Bonduel village, Shawano County, Wisconsin",1432.0,1432.0,0.0,115,8725,55
+5511548900,"Maple Grove town, Shawano County, Wisconsin",959.0,944.0,15.0,115,48900,55
+5511572550,"Seneca town, Shawano County, Wisconsin",421.0,421.0,0.0,115,72550,55
+5511554250,"Morris town, Shawano County, Wisconsin",370.0,366.0,4.0,115,54250,55
+551155000,"Bartelme town, Shawano County, Wisconsin",825.0,823.0,2.0,115,5000,55
+5511522975,"Eland village, Shawano County, Wisconsin",182.0,180.0,2.0,115,22975,55
+5511549400,"Marion city, Shawano County, Wisconsin",13.0,13.0,0.0,115,49400,55
+5511561700,"Pella town, Shawano County, Wisconsin",813.0,801.0,12.0,115,61700,55
+5511572925,"Shawano city, Shawano County, Wisconsin",9052.0,8873.0,179.0,115,72925,55
+5511579825,"Tigerton village, Shawano County, Wisconsin",776.0,772.0,4.0,115,79825,55
+5511585275,"Wescott town, Shawano County, Wisconsin",3148.0,3137.0,11.0,115,85275,55
+551157625,"Birnamwood town, Shawano County, Wisconsin",657.0,654.0,3.0,115,7625,55
+5511584225,"Waukechon town, Shawano County, Wisconsin",995.0,982.0,13.0,115,84225,55
+551151975,"Angelica town, Shawano County, Wisconsin",1711.0,1699.0,12.0,115,1975,55
+5502328450,"Gays Mills village, Crawford County, Wisconsin",495.0,492.0,3.0,023,28450,55
+5502365075,"Prairie du Chien town, Crawford County, Wisconsin",1146.0,1146.0,0.0,023,65075,55
+5502372500,"Seneca town, Crawford County, Wisconsin",780.0,765.0,15.0,023,72500,55
+5502382100,"Utica town, Crawford County, Wisconsin",609.0,594.0,15.0,023,82100,55
+5502325725,"Ferryville village, Crawford County, Wisconsin",167.0,165.0,2.0,023,25725,55
+550572850,"Armenia town, Juneau County, Wisconsin",709.0,674.0,35.0,057,2850,55
+5505744675,"Lindina town, Juneau County, Wisconsin",728.0,714.0,14.0,057,44675,55
+5505763650,"Plymouth town, Juneau County, Wisconsin",628.0,615.0,13.0,057,63650,55
+5505778300,"Summit town, Juneau County, Wisconsin",702.0,694.0,8.0,057,78300,55
+5505755700,"Necedah village, Juneau County, Wisconsin",898.0,890.0,8.0,057,55700,55
+5511124900,"Fairfield town, Sauk County, Wisconsin",989.0,982.0,7.0,111,24900,55
+5511151325,"Merrimac village, Sauk County, Wisconsin",606.0,593.0,13.0,111,51325,55
+5511171650,"Sauk City village, Sauk County, Wisconsin",3460.0,3315.0,145.0,111,71650,55
+5511176050,"Spring Green town, Sauk County, Wisconsin",1774.0,1729.0,45.0,111,76050,55
+5511183700,"Washington town, Sauk County, Wisconsin",1052.0,1045.0,7.0,111,83700,55
+5511127675,"Freedom town, Sauk County, Wisconsin",437.0,423.0,14.0,111,27675,55
+5511141300,"Lake Delton village, Sauk County, Wisconsin",2982.0,2566.0,416.0,111,41300,55
+5511165125,"Prairie du Sac town, Sauk County, Wisconsin",1182.0,1165.0,17.0,111,65125,55
+5511176025,"Spring Green village, Sauk County, Wisconsin",1659.0,1614.0,45.0,111,76025,55
+551114650,"Baraboo town, Sauk County, Wisconsin",1707.0,1642.0,65.0,111,4650,55
+5511131250,"Greenfield town, Sauk County, Wisconsin",990.0,981.0,9.0,111,31250,55
+5511151350,"Merrimac town, Sauk County, Wisconsin",887.0,876.0,11.0,111,51350,55
+5511168975,"Rock Springs village, Sauk County, Wisconsin",322.0,321.0,1.0,111,68975,55
+5511119550,"Dellona town, Sauk County, Wisconsin",1505.0,1414.0,91.0,111,19550,55
+5511163125,"Plain village, Sauk County, Wisconsin",791.0,783.0,8.0,111,63125,55
+5511166800,"Reedsburg city, Sauk County, Wisconsin",9480.0,9238.0,242.0,111,66800,55
+5511166825,"Reedsburg town, Sauk County, Wisconsin",1304.0,1304.0,0.0,111,66825,55
+5511188775,"Woodland town, Sauk County, Wisconsin",1004.0,1002.0,2.0,111,88775,55
+5511188150,"Wisconsin Dells city, Sauk County, Wisconsin",137.0,137.0,0.0,111,88150,55
+5511142825,"La Valle village, Sauk County, Wisconsin",342.0,342.0,0.0,111,42825,55
+5511185325,"West Baraboo village, Sauk County, Wisconsin",1793.0,1697.0,96.0,111,85325,55
+5511135625,"Honey Creek town, Sauk County, Wisconsin",773.0,703.0,70.0,111,35625,55
+5513185350,"West Bend city, Washington County, Wisconsin",31656.0,30833.0,823.0,131,85350,55
+5513185375,"West Bend town, Washington County, Wisconsin",4753.0,4657.0,96.0,131,85375,55
+5513133000,"Hartford city, Washington County, Wisconsin",14552.0,14171.0,381.0,131,33000,55
+5513133025,"Hartford town, Washington County, Wisconsin",3574.0,3508.0,66.0,131,33025,55
+551315050,"Barton town, Washington County, Wisconsin",2610.0,2584.0,26.0,131,5050,55
+5513124225,"Erin town, Washington County, Wisconsin",3786.0,3689.0,97.0,131,24225,55
+5513137700,"Jackson town, Washington County, Wisconsin",4403.0,4366.0,37.0,131,37700,55
+5513139325,"Kewaskum town, Washington County, Wisconsin",1132.0,1125.0,7.0,131,39325,55
+5513137675,"Jackson village, Washington County, Wisconsin",6942.0,6789.0,153.0,131,37675,55
+5513156450,"Newburg village, Washington County, Wisconsin",1170.0,1152.0,18.0,131,56450,55
+5513163875,"Polk town, Washington County, Wisconsin",3964.0,3763.0,201.0,131,63875,55
+55131425,"Addison town, Washington County, Wisconsin",3455.0,3426.0,29.0,131,425,55
+5514144550,"Lincoln town, Wood County, Wisconsin",1728.0,1719.0,9.0,141,44550,55

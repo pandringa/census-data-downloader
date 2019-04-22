@@ -1,0 +1,41 @@
+B23025_001E,B23025_002E,B23025_003E,B23025_004E,B23025_005E,B23025_006E,B23025_007E,name,county,county subdivision,state
+3089.0,1788.0,1788.0,1722.0,66.0,0.0,1301.0,"Little Compton town, Newport County, Rhode Island",005,42400,44
+13067.0,8722.0,8320.0,7821.0,499.0,402.0,4345.0,"Middletown town, Newport County, Rhode Island",005,45460,44
+21552.0,15099.0,13060.0,12470.0,590.0,2039.0,6453.0,"Newport city, Newport County, Rhode Island",005,49960,44
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,"County subdivisions not defined, Newport County, Rhode Island",005,00000,44
+4529.0,2746.0,2699.0,2555.0,144.0,47.0,1783.0,"Jamestown town, Newport County, Rhode Island",005,36820,44
+14571.0,9512.0,9295.0,8763.0,532.0,217.0,5059.0,"Portsmouth town, Newport County, Rhode Island",005,57880,44
+13354.0,8658.0,8658.0,8140.0,518.0,0.0,4696.0,"Tiverton town, Newport County, Rhode Island",005,70880,44
+68551.0,46403.0,46350.0,43606.0,2744.0,53.0,22148.0,"Warwick city, Kent County, Rhode Island",003,74300,44
+28961.0,20282.0,20282.0,18922.0,1360.0,0.0,8679.0,"Coventry town, Kent County, Rhode Island",003,18640,44
+23833.0,16493.0,16445.0,15314.0,1131.0,48.0,7340.0,"West Warwick town, Kent County, Rhode Island",003,78440,44
+4893.0,3673.0,3673.0,3494.0,179.0,0.0,1220.0,"West Greenwich town, Kent County, Rhode Island",003,77720,44
+10116.0,6832.0,6815.0,6486.0,329.0,17.0,3284.0,"East Greenwich town, Kent County, Rhode Island",003,22240,44
+28241.0,18819.0,18819.0,18242.0,577.0,0.0,9422.0,"Cumberland town, Providence County, Rhode Island",007,20080,44
+33593.0,20156.0,20137.0,18412.0,1725.0,19.0,13437.0,"Woonsocket city, Providence County, Rhode Island",007,80780,44
+27609.0,17570.0,17548.0,16489.0,1059.0,22.0,10039.0,"North Providence town, Providence County, Rhode Island",007,51760,44
+17385.0,11195.0,11189.0,10666.0,523.0,6.0,6190.0,"Lincoln town, Providence County, Rhode Island",007,41500,44
+39773.0,25893.0,25865.0,24024.0,1841.0,28.0,13880.0,"East Providence city, Providence County, Rhode Island",007,22960,44
+8157.0,5771.0,5759.0,5444.0,315.0,12.0,2386.0,"Glocester town, Providence County, Rhode Island",007,30340,44
+10103.0,6825.0,6825.0,6419.0,406.0,0.0,3278.0,"North Smithfield town, Providence County, Rhode Island",007,52480,44
+14366.0,9334.0,9321.0,8340.0,981.0,13.0,5032.0,"Central Falls city, Providence County, Rhode Island",007,14140,44
+18719.0,11248.0,11227.0,10768.0,459.0,21.0,7471.0,"Smithfield town, Providence County, Rhode Island",007,66200,44
+57309.0,39272.0,39199.0,35077.0,4122.0,73.0,18037.0,"Pawtucket city, Providence County, Rhode Island",007,54640,44
+143933.0,90448.0,90380.0,81622.0,8758.0,68.0,53485.0,"Providence city, Providence County, Rhode Island",007,59000,44
+4093.0,2702.0,2702.0,2604.0,98.0,0.0,1391.0,"Foster town, Providence County, Rhode Island",007,27460,44
+24585.0,16237.0,16212.0,15229.0,983.0,25.0,8348.0,"Johnston town, Providence County, Rhode Island",007,37720,44
+8863.0,6250.0,6250.0,6076.0,174.0,0.0,2613.0,"Scituate town, Providence County, Rhode Island",007,64220,44
+13314.0,8957.0,8949.0,8495.0,454.0,8.0,4357.0,"Burrillville town, Providence County, Rhode Island",007,11800,44
+66918.0,42102.0,42088.0,39268.0,2820.0,14.0,24816.0,"Cranston city, Providence County, Rhode Island",007,19180,44
+12380.0,8363.0,8363.0,8103.0,260.0,0.0,4017.0,"Barrington town, Bristol County, Rhode Island",001,05140,44
+8937.0,6064.0,6062.0,5789.0,273.0,2.0,2873.0,"Warren town, Bristol County, Rhode Island",001,73760,44
+19526.0,11759.0,11707.0,11135.0,572.0,52.0,7767.0,"Bristol town, Bristol County, Rhode Island",001,09280,44
+18924.0,12141.0,12110.0,11341.0,769.0,31.0,6783.0,"Westerly town, Washington County, Rhode Island",009,77000,44
+21399.0,14371.0,14309.0,13454.0,855.0,62.0,7028.0,"North Kingstown town, Washington County, Rhode Island",009,51580,44
+26585.0,16093.0,16093.0,15026.0,1067.0,0.0,10492.0,"South Kingstown town, Washington County, Rhode Island",009,67460,44
+6865.0,5142.0,5127.0,4826.0,301.0,15.0,1723.0,"Hopkinton town, Washington County, Rhode Island",009,35380,44
+6143.0,4603.0,4582.0,4424.0,158.0,21.0,1540.0,"Richmond town, Washington County, Rhode Island",009,61160,44
+5726.0,3685.0,3685.0,3444.0,241.0,0.0,2041.0,"Exeter town, Washington County, Rhode Island",009,25300,44
+13866.0,7848.0,7848.0,7477.0,371.0,0.0,6018.0,"Narragansett town, Washington County, Rhode Island",009,48340,44
+777.0,542.0,542.0,516.0,26.0,0.0,235.0,"New Shoreham town, Washington County, Rhode Island",009,50500,44
+6724.0,4422.0,4422.0,4068.0,354.0,0.0,2302.0,"Charlestown town, Washington County, Rhode Island",009,14500,44

@@ -35,6 +35,7 @@ from .mobility import (
     MobilityLatinoDownloader
 )
 from .population import PopulationDownloader
+from .poverty import PovertyDownloader
 from .race import RaceDownloader
 from .tenure import (
     TenureDownloader,

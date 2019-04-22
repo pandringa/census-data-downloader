@@ -59,7 +59,7 @@ class LanguageDownloader(BaseDownloader):
             'arabic',
             'other'
         ]
-
+        
         df[f'total_english'] = df['only_english'] + df[[f'{l}_and_english' for l in languages]].sum(axis=1)
         df[f'total_no_english'] = df[[f'{l}_no_english' for l in languages]].sum(axis=1)
 
